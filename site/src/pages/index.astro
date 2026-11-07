@@ -7,6 +7,7 @@ const presidents = [...new Map(laws.filter((l) => l.president).map((l) => [l.pre
 const congresses = [...new Set(laws.map((l) => l.congress))].sort((a, b) => b - a);
 const topics = [...new Set(laws.map((l) => l.policy_area).filter(Boolean))].sort();
 const recorded = laws.filter((l) => l.recorded_vote).length;
+const PAGE = 50;
 ---
 <Base>
   <section class="hero">
@@ -46,32 +47,75 @@ const recorded = laws.filter((l) => l.recorded_vote).length;
   <p class="muted count"><span id="shown">{laws.length}</span> of {laws.length} laws · {recorded} had recorded votes; the rest passed by voice vote or unanimous consent.</p>
 
   <div class="grid" id="laws">
-    {laws.map((law) => <LawCard law={law} />)}
+    {laws.slice(0, PAGE).map((law) => <LawCard law={law} />)}
   </div>
   <p id="empty" class="muted" hidden>No laws match those filters.</p>
+  <button id="more" class="more-btn" type="button" hidden={laws.length <= PAGE}>Show more laws</button>
 </Base>
 
 <script>
+  // The first page of laws is in the HTML. Everything else (and all searching)
+  // uses a compact index fetched on first interaction, so the page stays small.
+  const PAGE = 50;
+  const base = (import.meta.env.BASE_URL || "/").replace(/\/$/, "");
   const $ = (id) => document.getElementById(id);
-  const cards = [...document.querySelectorAll(".law-card")];
-  const partyLine = new Set(cards.filter((c) => c.querySelector(".pill.alert")?.textContent.includes("voted yes")).map((c) => c));
-  function apply() {
-    const q = $("q").value.trim().toLowerCase();
+  const list = $("laws");
+  let rows = null, matches = null, shown = 0;
+  const esc = (s) => String(s).replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" })[c]);
+
+  async function load() {
+    if (!rows) rows = await (await fetch(`${base}/laws-index.json`)).json();
+    return rows;
+  }
+  function card(r) {
+    const [id, title, pl, date, topic, headline, side, presId, presName, congress, recorded, bg, fg, passed, partyLine, control] = r;
+    return `<a class="law-card card" href="${base}/laws/${id}/">
+      <span class="stripe" style="background:${bg}" aria-hidden="true"></span>
+      <div class="body">
+        <div class="meta muted"><span>Public Law ${esc(pl)}</span><span>·</span><span>${esc(date)}</span>${topic ? `<span>·</span><span>${esc(topic)}</span>` : ""}</div>
+        <h3>${esc(title)}</h3>
+        ${headline ? `<p class="headline">${esc(headline)}</p>` : ""}
+        <div class="tags">
+          <span class="pill" style="background:${bg};color:${fg}">${esc(passed)}</span>
+          ${partyLine ? `<span class="pill alert">⚠ ${esc(partyLine)}</span>` : ""}
+          ${presName ? `<span class="pill">Signed by ${esc(presName)}</span>` : `<span class="pill alert">Became law over a veto</span>`}
+          ${control ? `<span class="pill">${esc(control)}</span>` : ""}
+        </div>
+      </div></a>`;
+  }
+  function render(reset) {
+    if (reset) { list.innerHTML = ""; shown = 0; }
+    const next = matches.slice(shown, shown + PAGE);
+    list.insertAdjacentHTML("beforeend", next.map(card).join(""));
+    shown += next.length;
+    $("shown").textContent = matches.length;
+    $("empty").hidden = matches.length > 0;
+    $("more").hidden = shown >= matches.length;
+  }
+  async function apply() {
+    await load();
+    const q = $("q").value.trim().toLowerCase().split(/\s+/).filter(Boolean);
     const side = $("side").value, pres = $("president").value, cong = $("congress").value, topic = $("topic").value;
-    let shown = 0;
-    for (const c of cards) {
-      const d = c.dataset;
-      const ok = (!q || q.split(/\s+/).every((w) => d.search.includes(w)))
-        && (!side || (side === "partyline" ? partyLine.has(c) : side === "none" ? d.recorded === "0" : d.side === side))
-        && (!pres || d.president === pres) && (!cong || d.congress === cong) && (!topic || d.topic === topic);
-      c.hidden = !ok;
-      if (ok) shown++;
-    }
-    $("shown").textContent = shown;
-    $("empty").hidden = shown > 0;
+    matches = rows.filter((r) => {
+      const text = `${r[1]} ${r[16]} ${r[2]} ${r[4]} ${r[5]}`.toLowerCase();
+      return q.every((w) => text.includes(w))
+        && (!side || (side === "partyline" ? r[14] : side === "none" ? !r[10] : r[6] === side))
+        && (!pres || r[7] === pres) && (!cong || String(r[9]) === cong) && (!topic || r[4] === topic);
+    });
+    render(true);
   }
   for (const id of ["q", "side", "president", "congress", "topic"]) $(id).addEventListener("input", apply);
+  $("more").addEventListener("click", async () => { if (!matches) { await load(); matches = rows; shown = list.children.length; } render(false); });
 </script>
+<style is:global>
+  #laws .law-card { display: flex; overflow: hidden; text-decoration: none; color: inherit; }
+  #laws .stripe { width: 8px; flex: none; }
+  #laws .body { padding: 14px 16px; min-width: 0; }
+  #laws .meta { display: flex; gap: 6px; flex-wrap: wrap; font-size: .8rem; }
+  #laws h3 { font-size: 1.08rem; margin: 4px 0 6px; overflow-wrap: anywhere; }
+  #laws .headline { margin: 0 0 10px; color: var(--muted); }
+  #laws .tags { display: flex; gap: 6px; flex-wrap: wrap; }
+</style>
 
 <style>
   .hero { padding: 12px 0 20px; }
@@ -81,5 +125,7 @@ const recorded = laws.filter((l) => l.recorded_vote).length;
   .filters { display: grid; grid-template-columns: minmax(200px, 2fr) repeat(4, minmax(150px, 1fr)); gap: 8px; padding: 12px; position: sticky; top: 68px; z-index: 4; }
   @media (max-width: 860px) { .filters { grid-template-columns: 1fr 1fr; position: static; } .filters input { grid-column: 1 / -1; } }
   .count { font-size: .88rem; margin: 12px 2px; }
-  .law-card[hidden] { display: none; }
+  .more-btn { display: block; margin: 20px auto 0; font: 600 1rem var(--sans); padding: 12px 22px; border-radius: 10px; border: 1px solid var(--border); background: var(--surface); color: var(--text); cursor: pointer; }
+  .more-btn:hover { background: var(--surface-2); }
+  .more-btn[hidden] { display: none; }
 </style>
