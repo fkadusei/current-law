@@ -34,6 +34,14 @@ CONCUR_RES = re.compile(r"concurrence by the (?:House|Senate) in the (?:Senate|H
                         r"amendments? to (H\.\s?R\.|S\.|H\.J\.\s?Res\.|S\.J\.\s?Res\.)\s?(\d+)", re.I)
 
 
+def num(value: str) -> str:
+    """Voteview writes some codes as floats ("200.0"); normalize to "200"."""
+    try:
+        return str(int(float(value)))
+    except (TypeError, ValueError):
+        return value
+
+
 def read_csv(name: str) -> list[dict]:
     path = RAW / "voteview" / name
     if not path.exists():
@@ -49,13 +57,13 @@ def load_votes(congress: int):
         for m in read_csv(f"{ch}{congress:03d}_members.csv"):
             if m["chamber"] == "President":
                 continue
-            members[m["icpsr"]] = {
-                "icpsr": m["icpsr"],
+            members[num(m["icpsr"])] = {
+                "icpsr": num(m["icpsr"]),
                 "bioguide": m["bioguide_id"],
                 "name": m["bioname"],
-                "party": PARTY.get(m["party_code"], "Other"),
+                "party": PARTY.get(num(m["party_code"]), "Other"),
                 "state": m["state_abbrev"],
-                "district": m["district_code"] if chamber == "House" else None,
+                "district": num(m["district_code"]) if chamber == "House" else None,
                 "chamber": chamber,
             }
         for r in read_csv(f"{ch}{congress:03d}_rollcalls.csv"):
@@ -69,7 +77,7 @@ def load_votes(congress: int):
             if bill and FINAL_QUESTIONS.search(q) and not NOT_FINAL.search(q):
                 finals[bill].append({
                     "chamber": chamber,
-                    "roll": int(r["rollnumber"]),
+                    "roll": int(float(r["rollnumber"])),
                     "date": r["date"],
                     "question": q,
                     "result": r["vote_result"],
@@ -78,9 +86,10 @@ def load_votes(congress: int):
                 })
         wanted = {(c["chamber"], c["roll"]) for calls in finals.values() for c in calls}
         for v in read_csv(f"{ch}{congress:03d}_votes.csv"):
-            key = (chamber, int(v["rollnumber"]))
-            if key in wanted and v["cast_code"] in CAST:
-                positions[key][v["icpsr"]] = CAST[v["cast_code"]]
+            key = (chamber, int(float(v["rollnumber"])))
+            cast = num(v["cast_code"])
+            if key in wanted and cast in CAST:
+                positions[key][num(v["icpsr"])] = CAST[cast]
     return members, finals, positions
 
 
@@ -98,6 +107,33 @@ def tally(positions: dict, members: dict) -> dict:
         party = members.get(icpsr, {}).get("party", "Other")
         out[party][pos] += 1
     return {p: dict(v) for p, v in out.items()}
+
+
+def party_color(votes: list[dict]) -> dict | None:
+    """Which party supplied most of the "yes" votes, across both chambers.
+
+    The site colors a law red (Republican) or blue (Democratic) by this side, and
+    shades it by share: 50% is the lightest shade, 100% the darkest. Laws with no
+    recorded vote (voice vote or unanimous consent) get no color.
+    """
+    yeas = defaultdict(int)
+    for v in votes:
+        for party, counts in v["by_party"].items():
+            yeas[party] += counts.get("yea", 0)
+    r, d = yeas.get("R", 0), yeas.get("D", 0)
+    if r + d == 0:
+        return None
+    r_share = r / (r + d)
+    side = "R" if r_share > 0.5 else "D" if r_share < 0.5 else "tie"
+    share = max(r_share, 1 - r_share)
+    # "No Republican (or Democrat) voted yes": the site shows this as a clear badge.
+    party_line = "D" if r == 0 else "R" if d == 0 else None
+    return {"side": side, "share": round(share, 3), "r_yeas": r, "d_yeas": d,
+            "shade": round((share - 0.5) * 2, 3),  # 0 = even split, 1 = one party only
+            "party_line": party_line,
+            "zero_yeas_by_chamber": {
+                v["chamber"]: [pt for pt in ("R", "D") if v["by_party"].get(pt, {}).get("yea", 0) == 0]
+                for v in votes}}
 
 
 def build_congress(congress: int, member_index: dict) -> list[dict]:
@@ -140,13 +176,14 @@ def build_congress(congress: int, member_index: dict) -> list[dict]:
                                 f"{'house' if btype.startswith('H') else 'senate'}-"
                                 f"{'joint-resolution' if 'JRES' in btype else 'bill'}/{number}",
             "votes": votes,
-            "recorded_vote": bool(votes),  # False means voice vote or unanimous consent
+            "recorded_vote": bool(votes),
+            "party_color": party_color(votes),  # False means voice vote or unanimous consent
             "summary": None,  # filled in by step 2 (plain-language summaries)
         }
         write_json(BUILD / "laws" / str(congress) / f"{law_id}.json", record)
         index.append({k: record[k] for k in (
             "id", "congress", "public_law", "bill", "title", "enacted",
-            "president", "became_law", "policy_area", "recorded_vote")})
+            "president", "became_law", "policy_area", "recorded_vote", "party_color")})
     for m in members.values():
         entry = member_index.setdefault(m["bioguide"] or m["icpsr"], {**m, "congresses": []})
         entry["congresses"].append(congress)
