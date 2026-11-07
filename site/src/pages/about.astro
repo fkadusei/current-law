@@ -1,0 +1,32 @@
+---
+import Base from "../layouts/Base.astro";
+---
+<Base title="About">
+  <article class="card pad prose">
+    <h1>About Current Law</h1>
+    <p>Current Law shows every US federal law since 1973: what it does in plain English, how each member of the House and Senate voted, and which President signed it. It also lists executive orders, which a President issues without a vote in Congress.</p>
+    <h2>How the colors work</h2>
+    <p>Each law is colored by the party that supplied most of its "yes" votes, counting the House and Senate together. <span class="party-D"><strong>Blue</strong></span> means most yes votes came from Democrats; <span class="party-R"><strong>red</strong></span> means most came from Republicans. The darker the color, the more one-sided the vote: the lightest shade is close to an even split, and the darkest means only one party voted yes.</p>
+    <p>This can differ from which party controlled Congress, so each law shows both. For example, a law can be labeled "Republican House" but "Passed by a Democratic majority."</p>
+    <p>When not a single member of one party voted yes, the law carries a yellow warning badge saying so.</p>
+    <p>Gray laws passed by voice vote or unanimous consent. Congress kept no record of how individual members voted on them. Most ceremonial laws, like naming a post office, pass this way.</p>
+    <h2>Where the data comes from</h2>
+    <ul>
+      <li><a href="https://www.congress.gov/">Congress.gov</a> and <a href="https://www.govinfo.gov/">GovInfo</a>: laws, official summaries, sponsors and full text.</li>
+      <li><a href="https://voteview.com/">Voteview</a> (UCLA): every House and Senate roll-call vote.</li>
+      <li><a href="https://www.federalregister.gov/">The Federal Register</a>: executive orders from 1994 on.</li>
+    </ul>
+    <h2>About the summaries</h2>
+    <p>Plain-language summaries are written by AI from the official Congressional Research Service summary, and are labeled that way. They can contain mistakes. Every law links to its official text.</p>
+    <h2>Known limits</h2>
+    <ul>
+      <li>Votes are matched to the final passage vote in each chamber. When the House passes a Senate bill's contents under different bill numbers, the House vote may be missing.</li>
+      <li>Independents are counted with Democrats when deciding which party controlled a chamber, since almost all of them caucused with Democrats.</li>
+    </ul>
+  </article>
+</Base>
+<style>
+  .pad { padding: 24px; }
+  .prose { max-width: 760px; }
+  .prose h2 { margin-top: 1.5rem; }
+</style>

@@ -1,0 +1,83 @@
+---
+import { displayName, PARTY_NAME, formatDate } from "../lib/data.js";
+const { vote, index } = Astro.props;
+const base = import.meta.env.BASE_URL.replace(/\/$/, "");
+const parties = ["D", "R", "I"].filter((p) => vote.by_party[p]);
+const total = vote.yea + vote.nay || 1;
+const order = { yea: 0, nay: 1, present: 2, "not voting": 3 };
+const members = [...vote.members].sort((a, b) => order[a.vote] - order[b.vote] || a.state.localeCompare(b.state) || a.name.localeCompare(b.name));
+const label = { yea: "Yes", nay: "No", present: "Present", "not voting": "Didn't vote" };
+---
+<section class="vote card">
+  <header>
+    <div>
+      <h3>{vote.chamber}</h3>
+      <p class="muted small">{vote.question} · {formatDate(vote.date)} · Roll call {vote.roll}</p>
+    </div>
+    <p class="result"><strong class="yea">{vote.yea} yes</strong> · <strong class="nay">{vote.nay} no</strong></p>
+  </header>
+  <div class="bar" role="img" aria-label={`${vote.yea} yes, ${vote.nay} no`}>
+    {parties.map((p) => vote.by_party[p].yea ? <span class={`seg yea-${p}`} style={`flex:${vote.by_party[p].yea / total}`} title={`${PARTY_NAME[p]} yes: ${vote.by_party[p].yea}`}></span> : null)}
+    {parties.map((p) => vote.by_party[p].nay ? <span class={`seg nay-${p}`} style={`flex:${vote.by_party[p].nay / total}`} title={`${PARTY_NAME[p]} no: ${vote.by_party[p].nay}`}></span> : null)}
+  </div>
+  <table class="party-table">
+    <thead><tr><th>Party</th><th>Yes</th><th>No</th><th>Didn't vote</th></tr></thead>
+    <tbody>
+      {parties.map((p) => (
+        <tr>
+          <td class={`party-${p}`}><strong>{PARTY_NAME[p]}</strong></td>
+          <td>{vote.by_party[p].yea ?? 0}</td><td>{vote.by_party[p].nay ?? 0}</td>
+          <td>{(vote.by_party[p]["not voting"] ?? 0) + (vote.by_party[p].present ?? 0)}</td>
+        </tr>
+      ))}
+    </tbody>
+  </table>
+  <details>
+    <summary>How each {vote.chamber === "House" ? "Representative" : "Senator"} voted ({members.length})</summary>
+    <label class="sr-only" for={`f${index}`}>Find a member</label>
+    <input id={`f${index}`} class="member-filter" type="search" placeholder="Filter by name or state (e.g. TX)" data-target={`m${index}`} />
+    <div class="table-scroll">
+      <table id={`m${index}`}>
+        <thead><tr><th>Member</th><th>Party</th><th>State</th><th>Vote</th></tr></thead>
+        <tbody>
+          {members.map((m) => (
+            <tr data-q={`${displayName(m.name)} ${m.state}`.toLowerCase()}>
+              <td>{m.bioguide ? <a href={`${base}/politicians/${m.bioguide}/`}>{displayName(m.name)}</a> : displayName(m.name)}</td>
+              <td class={`party-${m.party}`}>{m.party}</td>
+              <td>{m.state}</td>
+              <td class={`v-${m.vote.replace(" ", "-")}`}>{label[m.vote]}</td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+  </details>
+</section>
+<style>
+  .vote { padding: 16px; }
+  header { display: flex; justify-content: space-between; gap: 12px; flex-wrap: wrap; align-items: flex-start; }
+  .small { font-size: .85rem; margin: 0; }
+  .result { margin: 0; font-size: 1.05rem; }
+  .yea { color: var(--yea); } .nay { color: var(--nay); }
+  .bar { display: flex; height: 14px; border-radius: 999px; overflow: hidden; margin: 12px 0; background: var(--surface-2); gap: 1px; }
+  .seg { min-width: 2px; }
+  .yea-D { background: var(--dem); } .yea-R { background: var(--rep); } .yea-I { background: var(--ind); }
+  .nay-D { background: color-mix(in srgb, var(--dem) 35%, var(--surface-2)); }
+  .nay-R { background: color-mix(in srgb, var(--rep) 35%, var(--surface-2)); }
+  .nay-I { background: color-mix(in srgb, var(--ind) 35%, var(--surface-2)); }
+  details { margin-top: 12px; }
+  summary { cursor: pointer; font-weight: 600; padding: 6px 0; }
+  .member-filter { width: 100%; margin: 8px 0; }
+  .table-scroll { max-height: 420px; overflow: auto; border: 1px solid var(--border); border-radius: 8px; }
+  .table-scroll thead th { position: sticky; top: 0; background: var(--surface); }
+  .v-yea { color: var(--yea); font-weight: 600; } .v-nay { color: var(--nay); font-weight: 600; }
+  .v-not-voting, .v-present { color: var(--muted); }
+</style>
+<script>
+  for (const input of document.querySelectorAll(".member-filter")) {
+    input.addEventListener("input", () => {
+      const q = input.value.trim().toLowerCase();
+      for (const tr of document.querySelectorAll(`#${input.dataset.target} tbody tr`)) tr.hidden = q && !tr.dataset.q.includes(q);
+    });
+  }
+</script>

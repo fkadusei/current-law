@@ -1,0 +1,49 @@
+---
+import Base from "../../layouts/Base.astro";
+import { membersIndex, memberRecords, displayName, PARTY_NAME } from "../../lib/data.js";
+const base = import.meta.env.BASE_URL.replace(/\/$/, "");
+const records = memberRecords();
+const members = membersIndex().filter((m) => m.bioguide)
+  .map((m) => ({ ...m, display: displayName(m.name), n: records.get(m.bioguide)?.length ?? 0 }))
+  .sort((a, b) => a.state.localeCompare(b.state) || a.chamber.localeCompare(b.chamber) || a.display.localeCompare(b.display));
+---
+<Base title="Politicians">
+  <h1>Politicians</h1>
+  <p class="muted">Every member of the House and Senate in the Congresses covered so far. Pick one to see how they voted on each law.</p>
+  <form class="filters card" onsubmit="return false">
+    <input id="q" type="search" placeholder="Search by name or state (e.g. Ohio, OH)" aria-label="Search politicians" />
+    <select id="chamber" aria-label="Chamber"><option value="">House and Senate</option><option>House</option><option>Senate</option></select>
+    <select id="party" aria-label="Party"><option value="">Any party</option><option value="D">Democratic</option><option value="R">Republican</option><option value="I">Independent</option></select>
+  </form>
+  <ul class="people" id="people">
+    {members.map((m) => (
+      <li data-q={`${m.display} ${m.state}`.toLowerCase()} data-chamber={m.chamber} data-party={m.party}>
+        <a class="person card" href={`${base}/politicians/${m.bioguide}/`}>
+          <span class={`dot bg-${m.party}`} aria-hidden="true"></span>
+          <span class="who"><strong>{m.display}</strong><span class="muted">{PARTY_NAME[m.party]} · {m.chamber === "House" ? `Rep., ${m.state}${m.district && m.district !== "0" ? "-" + m.district : ""}` : `Senator, ${m.state}`}</span></span>
+          <span class="muted n">{m.n} votes</span>
+        </a>
+      </li>
+    ))}
+  </ul>
+</Base>
+<script>
+  const $ = (id) => document.getElementById(id);
+  const items = [...document.querySelectorAll("#people li")];
+  function apply() {
+    const q = $("q").value.trim().toLowerCase(), ch = $("chamber").value, p = $("party").value;
+    for (const li of items) li.hidden = !((!q || li.dataset.q.includes(q)) && (!ch || li.dataset.chamber === ch) && (!p || li.dataset.party === p));
+  }
+  for (const id of ["q", "chamber", "party"]) $(id).addEventListener("input", apply);
+</script>
+<style>
+  .filters { display: grid; grid-template-columns: 2fr 1fr 1fr; gap: 8px; padding: 12px; margin: 16px 0; }
+  @media (max-width: 640px) { .filters { grid-template-columns: 1fr 1fr; } .filters input { grid-column: 1 / -1; } }
+  .people { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 10px; }
+  .person { display: flex; align-items: center; gap: 12px; padding: 12px 14px; text-decoration: none; color: inherit; }
+  .who { display: flex; flex-direction: column; min-width: 0; flex: 1; font-size: .92rem; }
+  .n { font-size: .8rem; }
+  .dot { width: 12px; height: 12px; border-radius: 50%; flex: none; }
+  .bg-D { background: var(--dem); } .bg-R { background: var(--rep); } .bg-I { background: var(--ind); } .bg-Other { background: var(--muted); }
+  li[hidden] { display: none; }
+</style>

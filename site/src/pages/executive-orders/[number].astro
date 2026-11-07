@@ -1,0 +1,44 @@
+---
+import Base from "../../layouts/Base.astro";
+import { executiveOrders, formatDate } from "../../lib/data.js";
+export function getStaticPaths() {
+  const seen = new Set();
+  return executiveOrders().filter((e) => e.number && !seen.has(e.number) && seen.add(e.number))
+    .map((e) => ({ params: { number: e.number }, props: { e } }));
+}
+const { e } = Astro.props;
+const base = import.meta.env.BASE_URL.replace(/\/$/, "");
+const s = e.summary;
+---
+<Base title={`Executive Order ${e.number}`} description={s?.headline || e.title}>
+  <p class="muted crumbs"><a href={`${base}/executive-orders/`}>Executive orders</a></p>
+  <div class={`banner party-bg-${e.president?.party?.[0]}`}>
+    <p class="eyebrow">Executive Order {e.number} · {formatDate(e.signed)}</p>
+    <h1>{e.title}</h1>
+    <p class="by">Issued by {e.president ? <a href={`${base}/presidents/${e.president.id}/`}>{e.president.name}</a> : "unknown"} ({e.president?.party}) · Not voted on by Congress</p>
+  </div>
+  <section class="card pad">
+    <h2>What it does</h2>
+    {s ? (
+      <>
+        <p class="headline">{s.headline}</p><p>{s.what_it_does}</p>
+        {s.who_it_affects?.length > 0 && <><h3>Who it affects</h3><ul>{s.who_it_affects.map((a) => <li><strong>{a.group}:</strong> {a.how}</li>)}</ul></>}
+        <p class="muted small">Written by AI from the official record. Check the official text.</p>
+      </>
+    ) : <p>{e.abstract || "A plain-language summary is coming. Read the official text below."}</p>}
+    {e.status_notes && <p class="small"><strong>Status notes:</strong> {e.status_notes}</p>}
+    <p><a href={e.url} rel="noopener">Read it in the Federal Register</a>{e.pdf && <> · <a href={e.pdf} rel="noopener">PDF</a></>}{e.citation && <span class="muted"> · {e.citation}</span>}</p>
+  </section>
+</Base>
+<style>
+  .crumbs { font-size: .88rem; }
+  .banner { color: #fff; border-radius: var(--radius); padding: 24px; margin-bottom: 16px; }
+  .banner a { color: #fff; }
+  .party-bg-D { background: var(--dem); } .party-bg-R { background: var(--rep); }
+  .eyebrow { font-size: .85rem; margin: 0 0 8px; opacity: .9; }
+  .by { margin: 8px 0 0; }
+  .pad { padding: 18px; }
+  .pad h2 { margin-top: 0; }
+  .headline { font-weight: 600; font-size: 1.1rem; }
+  .small { font-size: .85rem; }
+</style>

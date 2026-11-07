@@ -2,3 +2,6 @@ data/raw/
 __pycache__/
 *.pyc
 .env
+site/node_modules/
+site/dist/
+site/.astro/

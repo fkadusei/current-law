@@ -183,7 +183,9 @@ def build_congress(congress: int, member_index: dict) -> list[dict]:
             votes.append({**call, "by_party": tally(pos, members),
                           "majority_party": chamber_control(pos, members, call["date"]),
                           "members": [
-                {"icpsr": i, "vote": v} for i, v in sorted(pos.items())]})
+                {"icpsr": i, "bioguide": members[i]["bioguide"], "name": members[i]["name"],
+                 "party": members[i]["party"], "state": members[i]["state"], "vote": v}
+                for i, v in sorted(pos.items())]})
         overridden = any(re.search(r"overrid|objections", v["question"], re.I) for v in votes)
         law_id = f"pl-{pl}" if pl else f"{congress}-{btype.lower()}{number}"
         summaries = sorted(detail.get("summaries", []), key=lambda s: s.get("updateDate", ""))

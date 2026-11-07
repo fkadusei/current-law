@@ -1,0 +1,47 @@
+---
+import Base from "../../layouts/Base.astro";
+import { executiveOrders, formatDate } from "../../lib/data.js";
+const base = import.meta.env.BASE_URL.replace(/\/$/, "");
+const eos = executiveOrders();
+const presidents = [...new Map(eos.filter((e) => e.president).map((e) => [e.president.id, e.president])).values()];
+---
+<Base title="Executive orders">
+  <h1>Executive orders</h1>
+  <p class="muted">Orders a President issues on their own authority, without a vote in Congress. Records here start in 1994.</p>
+  <form class="filters card" onsubmit="return false">
+    <input id="q" type="search" placeholder="Search executive orders" aria-label="Search executive orders" />
+    <select id="pres" aria-label="President"><option value="">Any President</option>{presidents.map((p) => <option value={p.id}>{p.name}{p.id.startsWith("trump") ? (p.id === "trump-1" ? " (first term)" : " (second term)") : ""}</option>)}</select>
+  </form>
+  <p class="muted count"><span id="shown">{eos.length}</span> orders</p>
+  <ul class="eos" id="eos">
+    {eos.map((e) => (
+      <li data-q={`${e.number} ${e.title}`.toLowerCase()} data-p={e.president?.id}>
+        <a class="card eo" href={`${base}/executive-orders/${e.number}/`}>
+          <span class={`tag party-bg-${e.president?.party?.[0]}`}>EO {e.number}</span>
+          <span class="t"><strong>{e.title}</strong><span class="muted">{e.president?.name} · {formatDate(e.signed)}</span></span>
+        </a>
+      </li>
+    ))}
+  </ul>
+</Base>
+<script>
+  const $ = (id) => document.getElementById(id);
+  const items = [...document.querySelectorAll("#eos li")];
+  function apply() {
+    const q = $("q").value.trim().toLowerCase(), p = $("pres").value; let n = 0;
+    for (const li of items) { const ok = (!q || li.dataset.q.includes(q)) && (!p || li.dataset.p === p); li.hidden = !ok; if (ok) n++; }
+    $("shown").textContent = n;
+  }
+  $("q").addEventListener("input", apply); $("pres").addEventListener("input", apply);
+</script>
+<style>
+  .filters { display: grid; grid-template-columns: 2fr 1fr; gap: 8px; padding: 12px; margin: 16px 0 8px; }
+  @media (max-width: 640px) { .filters { grid-template-columns: 1fr; } }
+  .count { font-size: .88rem; }
+  .eos { list-style: none; padding: 0; margin: 0; display: grid; gap: 8px; }
+  .eo { display: flex; gap: 12px; align-items: center; padding: 12px 14px; text-decoration: none; color: inherit; }
+  .tag { color: #fff; font-weight: 700; font-size: .78rem; padding: 4px 8px; border-radius: 6px; white-space: nowrap; }
+  .party-bg-D { background: var(--dem); } .party-bg-R { background: var(--rep); }
+  .t { display: flex; flex-direction: column; min-width: 0; }
+  li[hidden] { display: none; }
+</style>

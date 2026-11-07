@@ -1,0 +1,39 @@
+---
+import { lawColor, passedByLabel, controlLabel, partyLineLabel, formatDate } from "../lib/data.js";
+const { law } = Astro.props;
+const base = import.meta.env.BASE_URL.replace(/\/$/, "");
+const color = lawColor(law.party_color);
+const partyLine = partyLineLabel(law);
+---
+<a class="law-card card" href={`${base}/laws/${law.id}/`}
+   data-search={`${law.title} ${law.bill} ${law.public_law} ${law.policy_area ?? ""} ${law.summary?.headline ?? ""}`.toLowerCase()}
+   data-side={law.party_color?.side ?? "none"} data-president={law.president?.id ?? ""} data-congress={law.congress}
+   data-topic={law.policy_area ?? ""} data-recorded={law.recorded_vote ? "1" : "0"}>
+  <span class="stripe" style={`background:${color.bg}`} aria-hidden="true"></span>
+  <div class="body">
+    <div class="meta muted">
+      <span>Public Law {law.public_law}</span><span>·</span><span>{formatDate(law.enacted)}</span>
+      {law.policy_area && <><span>·</span><span>{law.policy_area}</span></>}
+    </div>
+    <h3>{law.title}</h3>
+    {law.summary?.headline && <p class="headline">{law.summary.headline}</p>}
+    <div class="tags">
+      <span class="pill" style={`background:${color.bg};color:${color.fg}`}>{passedByLabel(law)}</span>
+      {partyLine && <span class="pill alert">⚠ {partyLine}</span>}
+      {law.president
+        ? <span class="pill">Signed by {law.president.name}</span>
+        : <span class="pill alert">Became law over a veto</span>}
+      {controlLabel(law) && <span class="pill">{controlLabel(law)}</span>}
+    </div>
+  </div>
+</a>
+<style>
+  .law-card { display: flex; overflow: hidden; text-decoration: none; color: inherit; transition: transform .12s, box-shadow .12s; }
+  .law-card:hover { transform: translateY(-1px); box-shadow: 0 4px 16px rgb(0 0 0 / .08); }
+  .stripe { width: 8px; flex: none; }
+  .body { padding: 14px 16px; min-width: 0; }
+  .meta { display: flex; gap: 6px; flex-wrap: wrap; font-size: .8rem; }
+  h3 { font-size: 1.08rem; margin: 4px 0 6px; overflow-wrap: anywhere; }
+  .headline { margin: 0 0 10px; color: var(--muted); }
+  .tags { display: flex; gap: 6px; flex-wrap: wrap; }
+</style>

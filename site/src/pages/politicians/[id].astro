@@ -1,0 +1,58 @@
+---
+import Base from "../../layouts/Base.astro";
+import { membersIndex, memberRecords, displayName, PARTY_NAME, lawColor, formatDate } from "../../lib/data.js";
+export function getStaticPaths() {
+  return membersIndex().filter((m) => m.bioguide).map((m) => ({ params: { id: m.bioguide }, props: { m } }));
+}
+const { m } = Astro.props;
+const base = import.meta.env.BASE_URL.replace(/\/$/, "");
+const rec = memberRecords().get(m.bioguide) ?? [];
+const count = (v) => rec.filter((r) => r.vote === v).length;
+const withParty = rec.filter((r) => r.law.party_color && r.vote === "yea" && r.law.party_color.side === m.party).length;
+const label = { yea: "Yes", nay: "No", present: "Present", "not voting": "Didn't vote" };
+---
+<Base title={displayName(m.name)}>
+  <p class="muted crumbs"><a href={`${base}/politicians/`}>Politicians</a></p>
+  <h1>{displayName(m.name)}</h1>
+  <p class={`party-${m.party} role`}>{PARTY_NAME[m.party]} · {m.chamber === "House" ? `Representative, ${m.state}${m.district && m.district !== "0" ? " district " + m.district : ""}` : `Senator, ${m.state}`}</p>
+  <div class="stats">
+    <div class="card stat"><strong>{rec.length}</strong><span class="muted">laws voted on</span></div>
+    <div class="card stat"><strong class="yea">{count("yea")}</strong><span class="muted">voted yes</span></div>
+    <div class="card stat"><strong class="nay">{count("nay")}</strong><span class="muted">voted no</span></div>
+    <div class="card stat"><strong>{count("not voting") + count("present")}</strong><span class="muted">didn't vote</span></div>
+  </div>
+  <p class="muted note">Only laws that passed with a recorded roll-call vote are counted here. Bills that failed are not included yet.</p>
+  <h2>Voting record</h2>
+  <div class="card table-wrap">
+    <table>
+      <thead><tr><th>Law</th><th>Enacted</th><th>Passed by</th><th>Their vote</th></tr></thead>
+      <tbody>
+        {rec.map((r) => {
+          const c = lawColor(r.law.party_color);
+          return (
+            <tr>
+              <td><a href={`${base}/laws/${r.law.id}/`}>{r.law.title}</a></td>
+              <td class="nowrap">{formatDate(r.law.enacted)}</td>
+              <td><span class="chip" style={`background:${c.bg};color:${c.fg}`}>{r.law.party_color && r.law.party_color.side !== "tie" ? `${r.law.party_color.side} ${Math.round(r.law.party_color.share * 100)}%` : "Even"}</span></td>
+              <td class={`v-${r.vote.replace(" ", "-")}`}>{label[r.vote]}</td>
+            </tr>
+          );
+        })}
+      </tbody>
+    </table>
+  </div>
+</Base>
+<style>
+  .crumbs { font-size: .88rem; }
+  .role { font-weight: 600; margin-top: 0; }
+  .stats { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin: 16px 0 8px; }
+  @media (max-width: 640px) { .stats { grid-template-columns: 1fr 1fr; } }
+  .stat { padding: 14px; display: flex; flex-direction: column; }
+  .stat strong { font: 700 1.8rem var(--serif); }
+  .yea, .v-yea { color: var(--yea); } .nay, .v-nay { color: var(--nay); }
+  .v-yea, .v-nay { font-weight: 600; }
+  .note { font-size: .85rem; }
+  .table-wrap { overflow-x: auto; }
+  .nowrap { white-space: nowrap; }
+  .chip { padding: 2px 8px; border-radius: 999px; font-size: .78rem; font-weight: 600; white-space: nowrap; }
+</style>

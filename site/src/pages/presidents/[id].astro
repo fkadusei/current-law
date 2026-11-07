@@ -1,0 +1,42 @@
+---
+import Base from "../../layouts/Base.astro";
+import LawCard from "../../components/LawCard.astro";
+import { allLaws, executiveOrders, PRESIDENT_INFO, formatDate } from "../../lib/data.js";
+export function getStaticPaths() {
+  const ps = new Map();
+  for (const l of allLaws()) if (l.president) ps.set(l.president.id, l.president);
+  for (const e of executiveOrders()) if (e.president) ps.set(e.president.id, e.president);
+  return [...ps.values()].map((p) => ({ params: { id: p.id }, props: { p } }));
+}
+const { p } = Astro.props;
+const base = import.meta.env.BASE_URL.replace(/\/$/, "");
+const laws = allLaws().filter((l) => l.president?.id === p.id);
+const eos = executiveOrders().filter((e) => e.president?.id === p.id);
+---
+<Base title={p.name}>
+  <p class="muted crumbs"><a href={`${base}/presidents/`}>Presidents</a></p>
+  <h1>{p.name}</h1>
+  <p class={`party-${p.party[0]} role`}>{p.party} · {PRESIDENT_INFO[p.id]?.years}{PRESIDENT_INFO[p.id]?.note ? ` · ${PRESIDENT_INFO[p.id].note}` : ""}</p>
+
+  <h2>Laws signed ({laws.length})</h2>
+  {laws.length ? <div class="grid">{laws.map((l) => <LawCard law={l} />)}</div>
+    : <p class="muted">Laws from this presidency haven't been loaded yet.</p>}
+
+  <h2>Executive orders ({eos.length})</h2>
+  {eos.length ? (
+    <div class="card table-wrap">
+      <table>
+        <thead><tr><th>Order</th><th>Title</th><th>Signed</th></tr></thead>
+        <tbody>{eos.map((e) => (
+          <tr><td class="nowrap"><a href={`${base}/executive-orders/${e.number}/`}>EO {e.number}</a></td><td>{e.title}</td><td class="nowrap">{formatDate(e.signed)}</td></tr>
+        ))}</tbody>
+      </table>
+    </div>
+  ) : <p class="muted">No executive orders in the data for this President yet (online records start in 1994).</p>}
+</Base>
+<style>
+  .crumbs { font-size: .88rem; }
+  .role { font-weight: 600; margin-top: 0; }
+  .table-wrap { overflow-x: auto; }
+  .nowrap { white-space: nowrap; }
+</style>

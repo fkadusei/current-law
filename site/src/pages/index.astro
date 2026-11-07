@@ -1,0 +1,85 @@
+---
+import Base from "../layouts/Base.astro";
+import LawCard from "../components/LawCard.astro";
+import { allLaws, congressLabel } from "../lib/data.js";
+const laws = allLaws();
+const presidents = [...new Map(laws.filter((l) => l.president).map((l) => [l.president.id, l.president])).values()];
+const congresses = [...new Set(laws.map((l) => l.congress))].sort((a, b) => b - a);
+const topics = [...new Set(laws.map((l) => l.policy_area).filter(Boolean))].sort();
+const recorded = laws.filter((l) => l.recorded_vote).length;
+---
+<Base>
+  <section class="hero">
+    <h1>Every federal law, in plain English.</h1>
+    <p class="lede">See what each law does, how every member of Congress voted, and which President signed it.</p>
+    <div class="legend" aria-label="Color key">
+      <span class="sw" style="background:hsl(216 72% 40%)"></span>Passed mostly by Democrats
+      <span class="sw" style="background:hsl(356 72% 40%)"></span>Passed mostly by Republicans
+      <span class="sw" style="background:var(--neutral-bg)"></span>No recorded vote
+      <span class="muted">Darker means more one-sided.</span>
+    </div>
+  </section>
+
+  <form class="filters card" role="search" onsubmit="return false">
+    <label class="sr-only" for="q">Search laws</label>
+    <input id="q" type="search" placeholder="Search by name, topic, or bill number" autocomplete="off" />
+    <select id="side" aria-label="Passed by">
+      <option value="">Passed by anyone</option>
+      <option value="D">Mostly Democrats</option>
+      <option value="R">Mostly Republicans</option>
+      <option value="partyline">One party only</option>
+      <option value="none">No recorded vote</option>
+    </select>
+    <select id="president" aria-label="President">
+      <option value="">Any President</option>
+      {presidents.map((p) => <option value={p.id}>{p.name}</option>)}
+    </select>
+    <select id="congress" aria-label="Congress">
+      <option value="">Any Congress</option>
+      {congresses.map((c) => <option value={c}>{congressLabel(c)}</option>)}
+    </select>
+    <select id="topic" aria-label="Topic">
+      <option value="">Any topic</option>
+      {topics.map((t) => <option value={t}>{t}</option>)}
+    </select>
+  </form>
+  <p class="muted count"><span id="shown">{laws.length}</span> of {laws.length} laws · {recorded} had recorded votes; the rest passed by voice vote or unanimous consent.</p>
+
+  <div class="grid" id="laws">
+    {laws.map((law) => <LawCard law={law} />)}
+  </div>
+  <p id="empty" class="muted" hidden>No laws match those filters.</p>
+</Base>
+
+<script>
+  const $ = (id) => document.getElementById(id);
+  const cards = [...document.querySelectorAll(".law-card")];
+  const partyLine = new Set(cards.filter((c) => c.querySelector(".pill.alert")?.textContent.includes("voted yes")).map((c) => c));
+  function apply() {
+    const q = $("q").value.trim().toLowerCase();
+    const side = $("side").value, pres = $("president").value, cong = $("congress").value, topic = $("topic").value;
+    let shown = 0;
+    for (const c of cards) {
+      const d = c.dataset;
+      const ok = (!q || q.split(/\s+/).every((w) => d.search.includes(w)))
+        && (!side || (side === "partyline" ? partyLine.has(c) : side === "none" ? d.recorded === "0" : d.side === side))
+        && (!pres || d.president === pres) && (!cong || d.congress === cong) && (!topic || d.topic === topic);
+      c.hidden = !ok;
+      if (ok) shown++;
+    }
+    $("shown").textContent = shown;
+    $("empty").hidden = shown > 0;
+  }
+  for (const id of ["q", "side", "president", "congress", "topic"]) $(id).addEventListener("input", apply);
+</script>
+
+<style>
+  .hero { padding: 12px 0 20px; }
+  .lede { font-size: 1.15rem; color: var(--muted); max-width: 640px; margin: 0 0 16px; }
+  .legend { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 14px; font-size: .88rem; }
+  .sw { display: inline-block; width: 14px; height: 14px; border-radius: 4px; margin-right: -8px; }
+  .filters { display: grid; grid-template-columns: minmax(200px, 2fr) repeat(4, minmax(150px, 1fr)); gap: 8px; padding: 12px; position: sticky; top: 68px; z-index: 4; }
+  @media (max-width: 860px) { .filters { grid-template-columns: 1fr 1fr; position: static; } .filters input { grid-column: 1 / -1; } }
+  .count { font-size: .88rem; margin: 12px 2px; }
+  .law-card[hidden] { display: none; }
+</style>

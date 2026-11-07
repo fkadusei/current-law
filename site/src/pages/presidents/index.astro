@@ -1,0 +1,38 @@
+---
+import Base from "../../layouts/Base.astro";
+import { allLaws, executiveOrders, PRESIDENT_INFO } from "../../lib/data.js";
+const base = import.meta.env.BASE_URL.replace(/\/$/, "");
+const laws = allLaws(), eos = executiveOrders();
+const map = new Map();
+for (const l of laws) if (l.president) map.set(l.president.id, { ...l.president, laws: 0, eos: 0 });
+for (const e of eos) if (e.president && !map.has(e.president.id)) map.set(e.president.id, { ...e.president, laws: 0, eos: 0 });
+for (const l of laws) if (l.president) map.get(l.president.id).laws++;
+for (const e of eos) if (e.president) map.get(e.president.id).eos++;
+const order = Object.keys(PRESIDENT_INFO).reverse();
+const presidents = [...map.values()].sort((a, b) => order.indexOf(a.id) - order.indexOf(b.id));
+---
+<Base title="Presidents">
+  <h1>Presidents</h1>
+  <p class="muted">Laws each President signed and the executive orders they issued.</p>
+  <div class="pres">
+    {presidents.map((p) => (
+      <a class="card p" href={`${base}/presidents/${p.id}/`}>
+        <span class={`bar party-bg-${p.party[0]}`}></span>
+        <div>
+          <h2>{p.name}</h2>
+          <p class="muted">{p.party} · {PRESIDENT_INFO[p.id]?.years}{PRESIDENT_INFO[p.id]?.note ? ` · ${PRESIDENT_INFO[p.id].note}` : ""}</p>
+          <p><strong>{p.laws}</strong> laws signed (in the data so far) · <strong>{p.eos}</strong> executive orders</p>
+        </div>
+      </a>
+    ))}
+  </div>
+</Base>
+<style>
+  .pres { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 12px; margin-top: 16px; }
+  .p { display: flex; overflow: hidden; text-decoration: none; color: inherit; }
+  .p > div { padding: 14px 16px; }
+  .p h2 { margin: 0 0 4px; font-size: 1.2rem; }
+  .p p { margin: 4px 0; }
+  .bar { width: 8px; flex: none; }
+  .party-bg-D { background: var(--dem); } .party-bg-R { background: var(--rep); }
+</style>
