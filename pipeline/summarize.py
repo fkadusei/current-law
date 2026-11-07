@@ -5,13 +5,14 @@ build.py merges into each record. Summaries already written are skipped, so
 reruns only cover new laws.
 
 Uses the Message Batches API (half price, results usually within an hour).
-Needs ANTHROPIC_API_KEY and `pip install -r pipeline/requirements.txt`.
+Needs CURRENT_LAW_ANTHROPIC_KEY (or ANTHROPIC_API_KEY) and `pip install -r pipeline/requirements.txt`.
 
 Usage:
   python pipeline/summarize.py [--model MODEL] [--limit N] [--congress 118] [--orders]
   python pipeline/summarize.py --collect BATCH_ID   # fetch results of an earlier batch
 """
 import argparse
+import os
 import json
 import re
 import time
@@ -145,7 +146,11 @@ def main() -> None:
     ap.add_argument("--orders", action="store_true", help="also summarize executive orders")
     ap.add_argument("--collect", metavar="BATCH_ID")
     args = ap.parse_args()
-    client = anthropic.Anthropic()
+    key = os.environ.get("CURRENT_LAW_ANTHROPIC_KEY") or os.environ.get("ANTHROPIC_API_KEY")
+    if not key:
+        raise SystemExit("Set CURRENT_LAW_ANTHROPIC_KEY to your Anthropic API key.")
+    # Always talk to the public API directly, even if ANTHROPIC_BASE_URL is set.
+    client = anthropic.Anthropic(api_key=key, base_url="https://api.anthropic.com")
     if args.collect:
         return collect(client, args.collect, args.model)
     items = pending_items(args)
