@@ -93,6 +93,26 @@ def load_votes(congress: int):
     return members, finals, positions
 
 
+def chamber_control(positions: dict, members: dict, date: str) -> str:
+    """Which party held the majority in the chamber on the day of the vote.
+
+    Counted from everyone on the roll (voting or not). Independents are counted
+    with Democrats, since nearly every independent since 1973 caucused with them.
+    A tie (like the 50-50 Senate of 2021-22) goes to the Vice President's party,
+    which is the President's party.
+    """
+    seats = defaultdict(int)
+    for icpsr in positions:
+        party = members.get(icpsr, {}).get("party")
+        if party in ("D", "I"):
+            seats["D"] += 1
+        elif party == "R":
+            seats["R"] += 1
+    if seats["D"] == seats["R"]:
+        return president_on(date)["party"][0]
+    return "D" if seats["D"] > seats["R"] else "R"
+
+
 def deciding_votes(calls: list[dict]) -> list[dict]:
     """Keep the last deciding roll call per chamber (a veto override counts too)."""
     by_chamber = {}
@@ -154,7 +174,9 @@ def build_congress(congress: int, member_index: dict) -> list[dict]:
         votes = []
         for call in deciding_votes(finals.get(f"{btype}{number}", [])):
             pos = positions.get((call["chamber"], call["roll"]), {})
-            votes.append({**call, "by_party": tally(pos, members), "members": [
+            votes.append({**call, "by_party": tally(pos, members),
+                          "majority_party": chamber_control(pos, members, call["date"]),
+                          "members": [
                 {"icpsr": i, "vote": v} for i, v in sorted(pos.items())]})
         overridden = any(re.search(r"overrid|objections", v["question"], re.I) for v in votes)
         law_id = f"pl-{pl}" if pl else f"{congress}-{btype.lower()}{number}"
@@ -177,13 +199,16 @@ def build_congress(congress: int, member_index: dict) -> list[dict]:
                                 f"{'joint-resolution' if 'JRES' in btype else 'bill'}/{number}",
             "votes": votes,
             "recorded_vote": bool(votes),
-            "party_color": party_color(votes),  # False means voice vote or unanimous consent
+            "party_color": party_color(votes),
+            # Who controlled each chamber, shown next to who actually passed it, e.g.
+            # "Republican-controlled House, passed mostly by Democratic votes".
+            "control": {v["chamber"]: v["majority_party"] for v in votes},  # False means voice vote or unanimous consent
             "summary": None,  # filled in by step 2 (plain-language summaries)
         }
         write_json(BUILD / "laws" / str(congress) / f"{law_id}.json", record)
         index.append({k: record[k] for k in (
             "id", "congress", "public_law", "bill", "title", "enacted",
-            "president", "became_law", "policy_area", "recorded_vote", "party_color")})
+            "president", "became_law", "policy_area", "recorded_vote", "party_color", "control")})
     for m in members.values():
         entry = member_index.setdefault(m["bioguide"] or m["icpsr"], {**m, "congresses": []})
         entry["congresses"].append(congress)
