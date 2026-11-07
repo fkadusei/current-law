@@ -1,10 +1,14 @@
 {
-  // Cloudflare Workers static-assets deployment for usacurrentlaw.org
+  // Cloudflare Workers deployment for usacurrentlaw.org.
+  // Static site from ./site/dist; the worker only handles /api/* (news headlines).
   "name": "current-law",
+  "main": "./worker/index.js",
   "compatibility_date": "2026-11-01",
   "assets": {
     "directory": "./site/dist",
+    "binding": "ASSETS",
     "not_found_handling": "404-page",
-    "html_handling": "auto-trailing-slash"
+    "html_handling": "auto-trailing-slash",
+    "run_worker_first": ["/api/*"]
   }
 }

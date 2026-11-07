@@ -1,0 +1,66 @@
+---
+import Base from "../layouts/Base.astro";
+---
+<Base title="Search">
+  <div slot="hero" class="page-hero">
+    <div class="wrap">
+      <p class="eyebrow-label">Search everything</p>
+      <h1>Search Current Law</h1>
+      <p>Search every law, politician, President and executive order, including the full text of each summary.</p>
+      <form class="big-search" onsubmit="return false" role="search">
+        <label class="sr-only" for="sq">Search</label>
+        <input id="sq" type="search" placeholder="Try “veterans”, “Pelosi”, or “tariffs”" autofocus />
+      </form>
+      <div class="types" id="types" role="group" aria-label="Filter by type"></div>
+    </div>
+  </div>
+  <p class="muted" id="sr-count" aria-live="polite"></p>
+  <ol class="sr-list" id="sr-list"></ol>
+  <button class="more-btn" id="sr-more" type="button" hidden>Show more results</button>
+</Base>
+<script>
+  const base = (import.meta.env.BASE_URL || "/").replace(/\/$/, "");
+  const $ = (id) => document.getElementById(id);
+  const esc = (s) => String(s ?? "").replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" })[c]);
+  let pf, results = [], shown = 0, type = "";
+  async function engine() { if (!pf) { pf = await import(/* @vite-ignore */ `${base}/pagefind/pagefind.js`); await pf.init(); } return pf; }
+  async function more() {
+    const page = await Promise.all(results.slice(shown, shown + 20).map((r) => r.data()));
+    $("sr-list").insertAdjacentHTML("beforeend", page.map((d) => `<li class="card"><a href="${d.url}"><span class="gs-type">${esc(d.meta.type || "Page")}</span><span class="t">${esc(d.meta.title)}</span><span class="ex">${d.excerpt}</span></a></li>`).join(""));
+    shown += page.length; $("sr-more").hidden = shown >= results.length;
+  }
+  async function run() {
+    const q = $("sq").value.trim();
+    history.replaceState(null, "", q ? `?q=${encodeURIComponent(q)}` : location.pathname);
+    $("sr-list").innerHTML = ""; shown = 0;
+    if (!q) { $("sr-count").textContent = ""; $("sr-more").hidden = true; return; }
+    const res = await (await engine()).search(q, { filters: type ? { type } : {} });
+    results = res.results;
+    $("sr-count").textContent = `${results.length} result${results.length === 1 ? "" : "s"} for “${q}”`;
+    await more();
+  }
+  (async () => {
+    const f = await (await engine()).filters();
+    const counts = f.type || {};
+    $("types").innerHTML = [["", "All"], ...Object.keys(counts).sort().map((k) => [k, k])]
+      .map(([v, l]) => `<button type="button" data-v="${esc(v)}" aria-pressed="${v === type}">${esc(l)}</button>`).join("");
+    $("types").addEventListener("click", (e) => {
+      const b = e.target.closest("button"); if (!b) return;
+      type = b.dataset.v; for (const x of $("types").children) x.setAttribute("aria-pressed", x === b); run();
+    });
+  })();
+  let t; $("sq").addEventListener("input", () => { clearTimeout(t); t = setTimeout(run, 150); });
+  $("sr-more").addEventListener("click", more);
+  const q0 = new URLSearchParams(location.search).get("q"); if (q0) { $("sq").value = q0; run(); }
+</script>
+<style>
+  .big-search input { width: 100%; max-width: 720px; font-size: 1.15rem; padding: 16px 20px; border-radius: 14px; border: 0; margin-top: 12px; box-shadow: var(--shadow-lg); }
+  .types { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 16px; }
+  .types button { font: 600 .85rem var(--sans); padding: 7px 14px; border-radius: 999px; border: 1px solid rgb(255 255 255 / .3); background: transparent; color: #fff; cursor: pointer; }
+  .types button[aria-pressed="true"] { background: #fff; color: var(--navy); }
+  .sr-list { list-style: none; padding: 0; margin: 12px 0 0; display: grid; gap: 10px; }
+  .sr-list a { display: grid; grid-template-columns: auto 1fr; gap: 4px 12px; padding: 14px 16px; text-decoration: none; color: inherit; }
+  .sr-list .t { font: 600 1.08rem var(--serif); }
+  .sr-list .ex { grid-column: 2; color: var(--muted); font-size: .9rem; }
+  .more-btn { display: block; margin: 20px auto 0; font: 600 1rem var(--sans); padding: 12px 22px; border-radius: 10px; border: 1px solid var(--border); background: var(--surface); color: var(--text); cursor: pointer; }
+</style>

@@ -15,15 +15,28 @@ const officialText = (law.official_summary || "").replace(/<[^>]+>/g, " ").repla
 const zero = law.party_color?.zero_yeas_by_chamber || {};
 const zeroNotes = Object.entries(zero).flatMap(([ch, ps]) => ps.map((p) => `No ${p === "R" ? "Republican" : "Democrat"} in the ${ch} voted yes`));
 ---
-<Base title={law.title} description={s?.headline || law.title}>
-  <p class="crumbs muted"><a href={`${base}/`}>Laws</a> › {congressLabel(law.congress)}</p>
-  <article>
-    <div class="banner" style={`background:${color.bg};color:${color.fg}`}>
-      <p class="eyebrow">Public Law {law.public_law} · {law.bill} · {formatDate(law.enacted)}</p>
+<Base title={law.title} kind="Law" description={s?.headline || law.title}>
+  <section slot="hero" class="law-hero" style={`--lc:${color.bg};--lf:${color.fg}`}>
+    <div class="wrap">
+      <p class="crumbs"><a href={`${base}/`}>Laws</a> › {congressLabel(law.congress)}</p>
+      <p class="eyebrow">Public Law {law.public_law} · {law.bill} · {formatDate(law.enacted)}{law.policy_area ? ` · ${law.policy_area}` : ""}</p>
       <h1>{law.title}</h1>
-      <p class="passed">{passedByLabel(law)}</p>
-      {controlLabel(law) && <p class="control">Congress at the time: {controlLabel(law)}</p>}
+      <div class="hero-tags">
+        <span class="verdict">{passedByLabel(law)}</span>
+        {law.president
+          ? <a class={`signer-chip p-${law.president.party[0]}`} href={`${base}/presidents/${law.president.id}/`}>✍ Signed by {law.president.name}</a>
+          : <span class="verdict">Became law over the President's veto</span>}
+        {Object.entries(law.control || {}).map(([ch, p]) => <span class={`ctl-chip p-${p}`}>{p === "R" ? "Republican" : "Democratic"} {ch}</span>)}
+      </div>
+      {law.party_color && (
+        <div class="yes-meter" aria-label={`Yes votes: ${law.party_color.d_yeas} Democratic, ${law.party_color.r_yeas} Republican`}>
+          <span class="ym-d" style={`flex:${law.party_color.d_yeas}`}>{law.party_color.d_yeas > 0 && `${law.party_color.d_yeas} Democratic yes`}</span>
+          <span class="ym-r" style={`flex:${law.party_color.r_yeas}`}>{law.party_color.r_yeas > 0 && `${law.party_color.r_yeas} Republican yes`}</span>
+        </div>
+      )}
     </div>
+  </section>
+  <article>
     {(partyLine || zeroNotes.length > 0) && (
       <div class="alert-box" role="note">
         <strong>⚠ {partyLine ?? "One-party vote in one chamber"}</strong>
@@ -70,7 +83,7 @@ const zeroNotes = Object.entries(zero).flatMap(([ch, ps]) => ps.map((p) => `No $
           <dl>
             <dt>Became law</dt>
             <dd>{law.president
-              ? <>Signed by <a href={`${base}/presidents/${law.president.id}/`}>{law.president.name}</a> ({law.president.party}) on {formatDate(law.enacted)}</>
+              ? <><a class={`signer-chip p-${law.president.party[0]}`} href={`${base}/presidents/${law.president.id}/`}>✍ {law.president.name}</a><span class="muted"> {law.president.party} · signed {formatDate(law.enacted)}</span></>
               : <>Passed over the President's veto on {formatDate(law.enacted)}</>}</dd>
             {law.sponsor && <><dt>Sponsor</dt><dd>{law.sponsor}</dd></>}
             {law.policy_area && <><dt>Topic</dt><dd>{law.policy_area}</dd></>}
@@ -87,15 +100,20 @@ const zeroNotes = Object.entries(zero).flatMap(([ch, ps]) => ps.map((p) => `No $
   </article>
 </Base>
 <style>
-  .crumbs { font-size: .88rem; margin: 0 0 12px; }
-  .banner { border-radius: var(--radius); padding: 24px; margin-bottom: 16px; }
-  .banner a { color: inherit; }
-  .eyebrow { font-size: .85rem; margin: 0 0 8px; opacity: .85; }
-  .banner h1 { overflow-wrap: anywhere; }
-  .passed { font-size: 1.15rem; font-weight: 700; margin: 8px 0 2px; }
-  .control { margin: 0; opacity: .9; }
-  .alert-box { border: 2px solid #e8c766; background: #fff8e1; color: #5c4300; border-radius: var(--radius); padding: 12px 16px; margin-bottom: 16px; }
-  @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .alert-box { background: #2e2710; color: #f3d77a; border-color: #6b5a22; } }
+  .law-hero { color: #fff; padding: 36px 0 34px; background: radial-gradient(900px 300px at 100% 0%, color-mix(in srgb, var(--lc) 70%, transparent), transparent 70%), linear-gradient(180deg, var(--navy), var(--navy-2)); border-bottom: 6px solid var(--lc); }
+  .law-hero .crumbs { font-size: .85rem; margin: 0 0 18px; color: rgb(255 255 255 / .7); }
+  .law-hero .crumbs a { color: #fff; }
+  .law-hero h1 { color: #fff; max-width: 900px; overflow-wrap: anywhere; }
+  .eyebrow { font-size: .82rem; margin: 0 0 10px; color: var(--gold); font-weight: 600; letter-spacing: .02em; }
+  .hero-tags { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 16px; }
+  .verdict { background: var(--lc); color: var(--lf); font-weight: 700; padding: 6px 14px; border-radius: 999px; }
+  .ctl-chip { padding: 6px 12px; border-radius: 999px; font-weight: 600; font-size: .9rem; border: 1px solid rgb(255 255 255 / .25); }
+  .ctl-chip::before { content: ""; display: inline-block; width: 9px; height: 9px; border-radius: 50%; margin-right: 7px; }
+  .ctl-chip.p-D::before { background: #6ea0ff; } .ctl-chip.p-R::before { background: #ff6b78; }
+  .yes-meter { display: flex; gap: 3px; margin-top: 22px; max-width: 760px; height: 30px; border-radius: 10px; overflow: hidden; font-size: .8rem; font-weight: 700; }
+  .yes-meter span { display: flex; align-items: center; padding: 0 10px; white-space: nowrap; overflow: hidden; min-width: 0; }
+  .ym-d { background: var(--dem); } .ym-r { background: var(--rep); justify-content: flex-end; }
+  .alert-box { border: 2px solid var(--alert-border); background: var(--alert-bg); color: var(--alert-fg); border-radius: var(--radius); padding: 12px 16px; margin-bottom: 16px; }
   .alert-box ul { margin: 6px 0 0; padding-left: 20px; }
   .layout { display: grid; grid-template-columns: minmax(0, 1fr) 320px; gap: 20px; align-items: start; }
   @media (max-width: 860px) { .layout { grid-template-columns: 1fr; } }
@@ -111,4 +129,6 @@ const zeroNotes = Object.entries(zero).flatMap(([ch, ps]) => ps.map((p) => `No $
   .facts dt { font-size: .78rem; text-transform: uppercase; letter-spacing: .04em; color: var(--muted); margin-top: 10px; }
   .facts dd { margin: 2px 0 0; }
   .links { padding-left: 18px; margin: 0; }
+  .signer-chip { display: inline-block; color: #fff; font-weight: 700; text-decoration: none; padding: 5px 12px; border-radius: 999px; margin: 2px 6px 4px 0; }
+  .signer-chip.p-D { background: var(--dem); } .signer-chip.p-R { background: var(--rep); }
 </style>

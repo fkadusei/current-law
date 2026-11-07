@@ -1,0 +1,41 @@
+---
+// Seat chart: every member of the chamber as a dot, grouped by party.
+// Solid dot = voted yes, hollow ring = voted no, faint = didn't vote.
+const { members, chamber } = Astro.props;
+const n = members.length;
+const rows = n > 200 ? 9 : n > 60 ? 5 : 3;
+const R = 100, r0 = n > 200 ? 38 : 44;
+const radii = Array.from({ length: rows }, (_, i) => r0 + (i * (R - r0)) / (rows - 1));
+const sum = radii.reduce((a, b) => a + b, 0);
+let counts = radii.map((r) => Math.round((n * r) / sum));
+counts[rows - 1] += n - counts.reduce((a, b) => a + b, 0);
+const seats = [];
+radii.forEach((r, i) => {
+  const c = counts[i];
+  for (let j = 0; j < c; j++) {
+    const a = Math.PI - (Math.PI * (j + 0.5)) / c;
+    seats.push({ x: 110 + r * Math.cos(a), y: 108 - r * Math.sin(a), a });
+  }
+});
+seats.sort((p, q) => q.a - p.a);
+const order = { yea: 0, nay: 1, present: 2, "not voting": 2 };
+const party = (m) => (m.party === "D" ? 0 : m.party === "I" ? 1 : m.party === "R" ? 2 : 3);
+const sorted = [...members].sort((a, b) => party(a) - party(b) || (party(a) < 2 ? order[a.vote] - order[b.vote] : order[b.vote] - order[a.vote]));
+const dotR = n > 200 ? 3.1 : n > 60 ? 4.6 : 6;
+const label = { yea: "yes", nay: "no", present: "present", "not voting": "did not vote" };
+---
+<svg class="hemi" viewBox="0 0 220 116" role="img" aria-label={`${chamber} seat chart: each dot is a member, solid for yes, hollow for no.`}>
+  {sorted.map((m, i) => {
+    const s = seats[i];
+    if (!s) return null;
+    return <circle cx={s.x.toFixed(2)} cy={s.y.toFixed(2)} r={dotR} class={`seat p${m.party} v-${m.vote.replace(" ", "")}`}><title>{`${m.name} (${m.party}-${m.state}): ${label[m.vote]}`}</title></circle>;
+  })}
+</svg>
+<style>
+  .hemi { width: 100%; max-width: 560px; display: block; margin: 8px auto 0; }
+  .seat { stroke-width: 1.2; }
+  .pD { fill: var(--dem); stroke: var(--dem); } .pR { fill: var(--rep); stroke: var(--rep); }
+  .pI { fill: var(--ind); stroke: var(--ind); } .pOther { fill: var(--muted); stroke: var(--muted); }
+  .v-nay { fill: var(--surface); }
+  .v-notvoting, .v-present { opacity: .22; }
+</style>

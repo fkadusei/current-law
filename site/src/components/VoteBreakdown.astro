@@ -1,5 +1,6 @@
 ---
 import { displayName, PARTY_NAME, formatDate } from "../lib/data.js";
+import Hemicycle from "./Hemicycle.astro";
 const { vote, index } = Astro.props;
 const base = import.meta.env.BASE_URL.replace(/\/$/, "");
 const parties = ["D", "R", "I"].filter((p) => vote.by_party[p]);
@@ -11,11 +12,13 @@ const label = { yea: "Yes", nay: "No", present: "Present", "not voting": "Didn't
 <section class="vote card">
   <header>
     <div>
-      <h3>{vote.chamber}</h3>
+      <h3>{vote.chamber === "House" ? "House of Representatives" : "Senate"}</h3>
       <p class="muted small">{vote.question} · {formatDate(vote.date)} · Roll call {vote.roll}</p>
     </div>
     <p class="result"><strong class="yea">{vote.yea} yes</strong> · <strong class="nay">{vote.nay} no</strong></p>
   </header>
+  <Hemicycle members={vote.members} chamber={vote.chamber} />
+  <p class="hemi-key muted"><span><i class="k-yes"></i>Yes</span><span><i class="k-no"></i>No</span><span><i class="k-nv"></i>Didn't vote</span></p>
   <div class="bar" role="img" aria-label={`${vote.yea} yes, ${vote.nay} no`}>
     {parties.map((p) => vote.by_party[p].yea ? <span class={`seg yea-${p}`} style={`flex:${vote.by_party[p].yea / total}`} title={`${PARTY_NAME[p]} yes: ${vote.by_party[p].yea}`}></span> : null)}
     {parties.map((p) => vote.by_party[p].nay ? <span class={`seg nay-${p}`} style={`flex:${vote.by_party[p].nay / total}`} title={`${PARTY_NAME[p]} no: ${vote.by_party[p].nay}`}></span> : null)}
@@ -54,7 +57,11 @@ const label = { yea: "Yes", nay: "No", present: "Present", "not voting": "Didn't
   </details>
 </section>
 <style>
-  .vote { padding: 16px; }
+  .vote { padding: 20px; }
+  .hemi-key { display: flex; justify-content: center; gap: 16px; font-size: .8rem; margin: 6px 0 0; }
+  .hemi-key i { display: inline-block; width: 10px; height: 10px; border-radius: 50%; margin-right: 5px; vertical-align: -1px; border: 2px solid var(--muted); }
+  .k-yes { background: var(--muted); } .k-no { background: transparent; } .k-nv { opacity: .3; background: var(--muted); }
+  h3 { font-size: 1.3rem; }
   header { display: flex; justify-content: space-between; gap: 12px; flex-wrap: wrap; align-items: flex-start; }
   .small { font-size: .85rem; margin: 0; }
   .result { margin: 0; font-size: 1.05rem; }

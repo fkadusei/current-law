@@ -4,16 +4,15 @@ const { law } = Astro.props;
 const base = import.meta.env.BASE_URL.replace(/\/$/, "");
 const color = lawColor(law.party_color);
 const partyLine = partyLineLabel(law);
+const pc = law.party_color;
+const total = pc ? pc.d_yeas + pc.r_yeas : 0;
 ---
-<a class="law-card card" href={`${base}/laws/${law.id}/`}
-   data-search={`${law.title} ${law.bill} ${law.public_law} ${law.policy_area ?? ""} ${law.summary?.headline ?? ""}`.toLowerCase()}
-   data-side={law.party_color?.side ?? "none"} data-president={law.president?.id ?? ""} data-congress={law.congress}
-   data-topic={law.policy_area ?? ""} data-recorded={law.recorded_vote ? "1" : "0"}>
+<a class="law-card card" href={`${base}/laws/${law.id}/`}>
   <span class="stripe" style={`background:${color.bg}`} aria-hidden="true"></span>
   <div class="body">
-    <div class="meta muted">
-      <span>Public Law {law.public_law}</span><span>·</span><span>{formatDate(law.enacted)}</span>
-      {law.policy_area && <><span>·</span><span>{law.policy_area}</span></>}
+    <div class="meta">
+      {law.policy_area && <span class="topic">{law.policy_area}</span>}
+      <span class="muted">Public Law {law.public_law} · {formatDate(law.enacted)}</span>
     </div>
     <h3>{law.title}</h3>
     {law.summary?.headline && <p class="headline">{law.summary.headline}</p>}
@@ -21,19 +20,38 @@ const partyLine = partyLineLabel(law);
       <span class="pill" style={`background:${color.bg};color:${color.fg}`}>{passedByLabel(law)}</span>
       {partyLine && <span class="pill alert">⚠ {partyLine}</span>}
       {law.president
-        ? <span class="pill">Signed by {law.president.name}</span>
+        ? <span class={`pill signer p-${law.president.party[0]}`}>✍ Signed by {law.president.name}</span>
         : <span class="pill alert">Became law over a veto</span>}
-      {controlLabel(law) && <span class="pill">{controlLabel(law)}</span>}
+      {Object.entries(law.control || {}).map(([ch, p]) => <span class="pill ghost ctl"><i class={`dot-${p}`}></i>{p === "R" ? "Republican" : "Democratic"} {ch}</span>)}
     </div>
   </div>
+  {total > 0 && (
+    <div class="yes-split" aria-label={`Yes votes: ${pc.d_yeas} Democratic, ${pc.r_yeas} Republican`}>
+      <span class="ys-label">Yes votes</span>
+      <span class="ys-bar"><span class="d" style={`flex:${pc.d_yeas}`}></span><span class="r" style={`flex:${pc.r_yeas}`}></span></span>
+      <span class="ys-nums"><b class="party-D">{pc.d_yeas} D</b><b class="party-R">{pc.r_yeas} R</b></span>
+    </div>
+  )}
 </a>
-<style>
-  .law-card { display: flex; overflow: hidden; text-decoration: none; color: inherit; transition: transform .12s, box-shadow .12s; }
-  .law-card:hover { transform: translateY(-1px); box-shadow: 0 4px 16px rgb(0 0 0 / .08); }
-  .stripe { width: 8px; flex: none; }
-  .body { padding: 14px 16px; min-width: 0; }
-  .meta { display: flex; gap: 6px; flex-wrap: wrap; font-size: .8rem; }
-  h3 { font-size: 1.08rem; margin: 4px 0 6px; overflow-wrap: anywhere; }
-  .headline { margin: 0 0 10px; color: var(--muted); }
-  .tags { display: flex; gap: 6px; flex-wrap: wrap; }
+<style is:global>
+  .law-card { display: flex; overflow: hidden; text-decoration: none; color: inherit; transition: transform .15s ease, box-shadow .15s ease, border-color .15s; }
+  .law-card:hover { transform: translateY(-2px); box-shadow: var(--shadow-lg); border-color: color-mix(in srgb, var(--accent) 30%, var(--border)); }
+  .law-card .stripe { width: 10px; flex: none; }
+  .law-card .body { padding: 16px 18px; min-width: 0; flex: 1; }
+  .law-card .meta { display: flex; gap: 10px; flex-wrap: wrap; align-items: center; font-size: .78rem; }
+  .law-card .topic { text-transform: uppercase; letter-spacing: .08em; font-weight: 700; font-size: .68rem; color: var(--accent); }
+  .law-card h3 { font-size: 1.14rem; margin: 6px 0 8px; overflow-wrap: anywhere; }
+  .law-card .headline { margin: 0 0 12px; color: var(--muted); }
+  .law-card .tags { display: flex; gap: 6px; flex-wrap: wrap; }
+  .pill.signer { color: #fff; }
+  .pill.signer.p-D { background: var(--dem); } .pill.signer.p-R { background: var(--rep); }
+  .pill.ctl i { width: 8px; height: 8px; border-radius: 50%; display: inline-block; }
+  .dot-D { background: var(--dem); } .dot-R { background: var(--rep); }
+  .law-card .pill.ghost { background: transparent; box-shadow: inset 0 0 0 1px var(--border); color: var(--muted); }
+  .yes-split { flex: none; width: 170px; padding: 16px 18px; border-left: 1px solid var(--border); display: flex; flex-direction: column; justify-content: center; gap: 8px; background: color-mix(in srgb, var(--surface-2) 45%, var(--surface)); }
+  .ys-label { font-size: .68rem; text-transform: uppercase; letter-spacing: .08em; font-weight: 700; color: var(--muted); }
+  .ys-bar { display: flex; height: 10px; border-radius: 999px; overflow: hidden; background: var(--surface-2); gap: 2px; }
+  .ys-bar .d { background: var(--dem); } .ys-bar .r { background: var(--rep); }
+  .ys-nums { display: flex; justify-content: space-between; font-size: .82rem; }
+  @media (max-width: 640px) { .law-card { flex-wrap: wrap; } .yes-split { width: 100%; border-left: 0; border-top: 1px solid var(--border); padding: 10px 18px 12px 28px; } }
 </style>

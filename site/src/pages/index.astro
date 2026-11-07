@@ -1,58 +1,134 @@
 ---
 import Base from "../layouts/Base.astro";
 import LawCard from "../components/LawCard.astro";
-import { allLaws, congressLabel } from "../lib/data.js";
+import { allLaws, executiveOrders, congressLabel, partyLineLabel, formatDate } from "../lib/data.js";
+const base = import.meta.env.BASE_URL.replace(/\/$/, "");
 const laws = allLaws();
 const presidents = [...new Map(laws.filter((l) => l.president).map((l) => [l.president.id, l.president])).values()];
 const congresses = [...new Set(laws.map((l) => l.congress))].sort((a, b) => b - a);
 const topics = [...new Set(laws.map((l) => l.policy_area).filter(Boolean))].sort();
 const recorded = laws.filter((l) => l.recorded_vote).length;
+const partyLine = laws.filter((l) => partyLineLabel(l));
+const totalVotes = laws.reduce((n, l) => n + l.votes.reduce((m, v) => m + v.members.length, 0), 0);
+const eos = executiveOrders();
+const firstYear = Math.min(...laws.map((l) => +l.enacted.slice(0, 4)));
 const PAGE = 50;
+// Per-Congress breakdown for the chart.
+const byCongress = [...congresses].reverse().map((c) => {
+  const ls = laws.filter((l) => l.congress === c);
+  const d = ls.filter((l) => l.party_color?.side === "D").length;
+  const r = ls.filter((l) => l.party_color?.side === "R").length;
+  const other = ls.length - d - r;
+  return { c, total: ls.length, d, r, other, start: 1789 + 2 * (c - 1),
+    president: [...new Set(ls.filter((l) => l.president).map((l) => l.president.name))].join(" / ") };
+});
+const maxTotal = Math.max(...byCongress.map((b) => b.total));
+const fmt = (n) => n.toLocaleString("en-US");
 ---
 <Base>
-  <section class="hero">
-    <h1>Every federal law, in plain English.</h1>
-    <p class="lede">See what each law does, how every member of Congress voted, and which President signed it.</p>
-    <div class="legend" aria-label="Color key">
-      <span class="sw" style="background:hsl(216 72% 40%)"></span>Passed mostly by Democrats
-      <span class="sw" style="background:hsl(356 72% 40%)"></span>Passed mostly by Republicans
-      <span class="sw" style="background:var(--neutral-bg)"></span>No recorded vote
-      <span class="muted">Darker means more one-sided.</span>
+  <section slot="hero" class="hero">
+    <div class="wrap hero-grid">
+      <div>
+        <p class="eyebrow-label">United States federal law · {firstYear}–today</p>
+        <h1>Every law Congress passes, <em>in plain English.</em></h1>
+        <p class="lede">See what each law does, how every Representative and Senator voted, and which President signed it, with the party behind every vote in clear red and blue.</p>
+        <form class="hero-search" role="search" onsubmit="event.preventDefault(); document.getElementById('browse').scrollIntoView(); document.getElementById('q').value = this.hq.value; document.getElementById('q').dispatchEvent(new Event('input'));">
+          <label class="sr-only" for="hq">Search laws</label>
+          <input id="hq" name="hq" type="search" placeholder="Search laws: “veterans”, “tax”, “H.R. 2882”…" />
+          <button type="submit">Search</button>
+        </form>
+      </div>
+      <dl class="stats">
+        <div><dt>Laws</dt><dd>{fmt(laws.length)}</dd></div>
+        <div><dt>Individual votes recorded</dt><dd>{fmt(totalVotes)}</dd></div>
+        <div><dt>Passed by one party alone</dt><dd>{fmt(partyLine.length)}</dd></div>
+        <div><dt>Executive orders</dt><dd>{fmt(eos.length)}</dd></div>
+      </dl>
     </div>
   </section>
 
-  <form class="filters card" role="search" onsubmit="return false">
-    <label class="sr-only" for="q">Search laws</label>
-    <input id="q" type="search" placeholder="Search by name, topic, or bill number" autocomplete="off" />
-    <select id="side" aria-label="Passed by">
-      <option value="">Passed by anyone</option>
-      <option value="D">Mostly Democrats</option>
-      <option value="R">Mostly Republicans</option>
-      <option value="partyline">One party only</option>
-      <option value="none">No recorded vote</option>
-    </select>
-    <select id="president" aria-label="President">
-      <option value="">Any President</option>
-      {presidents.map((p) => <option value={p.id}>{p.name}</option>)}
-    </select>
-    <select id="congress" aria-label="Congress">
-      <option value="">Any Congress</option>
-      {congresses.map((c) => <option value={c}>{congressLabel(c)}</option>)}
-    </select>
-    <select id="topic" aria-label="Topic">
-      <option value="">Any topic</option>
-      {topics.map((t) => <option value={t}>{t}</option>)}
-    </select>
-  </form>
-  <p class="muted count"><span id="shown">{laws.length}</span> of {laws.length} laws · {recorded} had recorded votes; the rest passed by voice vote or unanimous consent.</p>
+  <section class="chart card" aria-labelledby="chart-h">
+    <div class="chart-head">
+      <div>
+        <h2 id="chart-h">Who passed the laws, Congress by Congress</h2>
+        <p class="muted">Each column is one two-year Congress. Click one to see its laws.</p>
+      </div>
+      <div class="legend">
+        <span><i style="background:var(--dem)"></i>Mostly Democratic votes</span>
+        <span><i style="background:var(--rep)"></i>Mostly Republican votes</span>
+        <span><i style="background:var(--neutral-bg)"></i>Voice vote or even split</span>
+      </div>
+    </div>
+    <div class="cols">
+      {byCongress.map((b) => (
+        <button type="button" class="col" data-congress={b.c} title={`${congressLabel(b.c)}: ${b.d} Democratic-majority, ${b.r} Republican-majority, ${b.other} voice vote or even`}>
+          <span class="stack" style={`height:${(b.total / maxTotal) * 100}%`}>
+            <span class="seg-d" style={`flex:${b.d}`}></span>
+            <span class="seg-r" style={`flex:${b.r}`}></span>
+            <span class="seg-o" style={`flex:${b.other}`}></span>
+          </span>
+          <span class="col-total">{b.total}</span>
+          <span class="col-label">{b.start}–{String(b.start + 1).slice(2)}</span>
+          <span class="col-pres">{b.president}</span>
+        </button>
+      ))}
+    </div>
+  </section>
 
-  <div class="grid" id="laws">
-    {laws.slice(0, PAGE).map((law) => <LawCard law={law} />)}
-  </div>
-  <p id="empty" class="muted" hidden>No laws match those filters.</p>
-  <button id="more" class="more-btn" type="button" hidden={laws.length <= PAGE}>Show more laws</button>
+  {partyLine.length > 0 && (
+    <section aria-labelledby="pl-h">
+      <div class="section-head">
+        <h2 id="pl-h">Passed by one party alone</h2>
+        <p class="muted">Laws where not a single member of the other party voted yes.</p>
+      </div>
+      <div class="spot">
+        {partyLine.slice(0, 6).map((l) => (
+          <a class={`spot-card side-${l.party_color.side}`} href={`${base}/laws/${l.id}/`}>
+            <span class="spot-badge">{partyLineLabel(l)}</span>
+            <strong>{l.title.length > 110 ? l.title.slice(0, 107) + "…" : l.title}</strong>
+            <span class="spot-meta">{formatDate(l.enacted)} · {l.party_color.side === "D" ? l.party_color.d_yeas : l.party_color.r_yeas} yes votes</span>
+          </a>
+        ))}
+      </div>
+    </section>
+  )}
+
+  <section id="browse" aria-labelledby="browse-h">
+    <div class="section-head">
+      <h2 id="browse-h">Browse every law</h2>
+      <p class="muted">{fmt(recorded)} had recorded votes. The rest passed by voice vote or unanimous consent, shown in gray.</p>
+    </div>
+    <form class="filters card" role="search" onsubmit="return false">
+      <label class="sr-only" for="q">Search laws</label>
+      <input id="q" type="search" placeholder="Filter by name, topic, or bill number" autocomplete="off" />
+      <select id="side" aria-label="Passed by">
+        <option value="">Passed by anyone</option>
+        <option value="D">Mostly Democrats</option>
+        <option value="R">Mostly Republicans</option>
+        <option value="partyline">One party only</option>
+        <option value="none">No recorded vote</option>
+      </select>
+      <select id="president" aria-label="President">
+        <option value="">Any President</option>
+        {presidents.map((p) => <option value={p.id}>{p.name}{p.id === "trump-1" ? " (1st term)" : p.id === "trump-2" ? " (2nd term)" : ""}</option>)}
+      </select>
+      <select id="congress" aria-label="Congress">
+        <option value="">Any Congress</option>
+        {congresses.map((c) => <option value={c}>{congressLabel(c)}</option>)}
+      </select>
+      <select id="topic" aria-label="Topic">
+        <option value="">Any topic</option>
+        {topics.map((t) => <option value={t}>{t}</option>)}
+      </select>
+    </form>
+    <p class="muted count"><span id="shown">{laws.length}</span> laws</p>
+    <div class="grid" id="laws">
+      {laws.slice(0, PAGE).map((law) => <LawCard law={law} />)}
+    </div>
+    <p id="empty" class="muted" hidden>No laws match those filters.</p>
+    <button id="more" class="more-btn" type="button" hidden={laws.length <= PAGE}>Show more laws</button>
+  </section>
 </Base>
-
 <script>
   // The first page of laws is in the HTML. Everything else (and all searching)
   // uses a compact index fetched on first interaction, so the page stays small.
@@ -68,20 +144,20 @@ const PAGE = 50;
     return rows;
   }
   function card(r) {
-    const [id, title, pl, date, topic, headline, side, presId, presName, congress, recorded, bg, fg, passed, partyLine, control] = r;
+    const [id, title, pl, date, topic, headline, side, presId, presName, congress, recorded, bg, fg, passed, partyLine, control, bill, dy, ry, presParty, ctl] = r;
     return `<a class="law-card card" href="${base}/laws/${id}/">
       <span class="stripe" style="background:${bg}" aria-hidden="true"></span>
       <div class="body">
-        <div class="meta muted"><span>Public Law ${esc(pl)}</span><span>·</span><span>${esc(date)}</span>${topic ? `<span>·</span><span>${esc(topic)}</span>` : ""}</div>
+        <div class="meta">${topic ? `<span class="topic">${esc(topic)}</span>` : ""}<span class="muted">Public Law ${esc(pl)} · ${esc(date)}</span></div>
         <h3>${esc(title)}</h3>
         ${headline ? `<p class="headline">${esc(headline)}</p>` : ""}
         <div class="tags">
           <span class="pill" style="background:${bg};color:${fg}">${esc(passed)}</span>
           ${partyLine ? `<span class="pill alert">⚠ ${esc(partyLine)}</span>` : ""}
-          ${presName ? `<span class="pill">Signed by ${esc(presName)}</span>` : `<span class="pill alert">Became law over a veto</span>`}
-          ${control ? `<span class="pill">${esc(control)}</span>` : ""}
+          ${presName ? `<span class="pill signer p-${presParty}">✍ Signed by ${esc(presName)}</span>` : `<span class="pill alert">Became law over a veto</span>`}
+          ${Object.entries(ctl).map(([ch, p]) => `<span class="pill ghost ctl"><i class="dot-${p}"></i>${p === "R" ? "Republican" : "Democratic"} ${ch}</span>`).join("")}
         </div>
-      </div></a>`;
+      </div>${dy + ry ? `<div class="yes-split"><span class="ys-label">Yes votes</span><span class="ys-bar"><span class="d" style="flex:${dy}"></span><span class="r" style="flex:${ry}"></span></span><span class="ys-nums"><b class="party-D">${dy} D</b><b class="party-R">${ry} R</b></span></div>` : ""}</a>`;
   }
   function render(reset) {
     if (reset) { list.innerHTML = ""; shown = 0; }
@@ -105,27 +181,57 @@ const PAGE = 50;
     render(true);
   }
   for (const id of ["q", "side", "president", "congress", "topic"]) $(id).addEventListener("input", apply);
+  for (const col of document.querySelectorAll(".col")) col.addEventListener("click", () => {
+    $("congress").value = col.dataset.congress; apply();
+    document.getElementById("browse").scrollIntoView({ behavior: "smooth" });
+  });
   $("more").addEventListener("click", async () => { if (!matches) { await load(); matches = rows; shown = list.children.length; } render(false); });
 </script>
-<style is:global>
-  #laws .law-card { display: flex; overflow: hidden; text-decoration: none; color: inherit; }
-  #laws .stripe { width: 8px; flex: none; }
-  #laws .body { padding: 14px 16px; min-width: 0; }
-  #laws .meta { display: flex; gap: 6px; flex-wrap: wrap; font-size: .8rem; }
-  #laws h3 { font-size: 1.08rem; margin: 4px 0 6px; overflow-wrap: anywhere; }
-  #laws .headline { margin: 0 0 10px; color: var(--muted); }
-  #laws .tags { display: flex; gap: 6px; flex-wrap: wrap; }
-</style>
 
 <style>
-  .hero { padding: 12px 0 20px; }
-  .lede { font-size: 1.15rem; color: var(--muted); max-width: 640px; margin: 0 0 16px; }
-  .legend { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 14px; font-size: .88rem; }
-  .sw { display: inline-block; width: 14px; height: 14px; border-radius: 4px; margin-right: -8px; }
-  .filters { display: grid; grid-template-columns: minmax(200px, 2fr) repeat(4, minmax(150px, 1fr)); gap: 8px; padding: 12px; position: sticky; top: 68px; z-index: 4; }
-  @media (max-width: 860px) { .filters { grid-template-columns: 1fr 1fr; position: static; } .filters input { grid-column: 1 / -1; } }
+  .hero { background: radial-gradient(1100px 500px at 100% -10%, rgb(212 42 58 / .38), transparent 60%), radial-gradient(900px 500px at -10% 110%, rgb(30 95 209 / .5), transparent 60%), linear-gradient(180deg, var(--navy), var(--navy-2)); color: #fff; padding: 56px 0 52px; position: relative; overflow: hidden; }
+  .hero::after { content: ""; position: absolute; inset: 0; background-image: radial-gradient(rgb(255 255 255 / .09) 1px, transparent 1px); background-size: 22px 22px; mask-image: linear-gradient(180deg, transparent, #000 40%, transparent); pointer-events: none; }
+  .hero-grid { display: grid; grid-template-columns: 1.35fr 1fr; gap: 40px; align-items: center; position: relative; z-index: 1; }
+  @media (max-width: 900px) { .hero-grid { grid-template-columns: 1fr; gap: 28px; } }
+  .hero h1 { color: #fff; font-size: clamp(2.1rem, 5vw, 3.6rem); margin: 10px 0 14px; }
+  .hero h1 em { font-style: italic; color: var(--gold); }
+  .lede { font-size: 1.15rem; color: rgb(255 255 255 / .8); max-width: 600px; margin: 0 0 24px; }
+  .hero-search { display: flex; gap: 8px; max-width: 600px; background: #fff; padding: 6px; border-radius: 16px; box-shadow: 0 20px 50px rgb(0 0 0 / .35); }
+  .hero-search input { flex: 1; border: 0; background: transparent; color: #111; font-size: 1.05rem; padding: 12px 14px; outline: none; min-width: 0; }
+  .hero-search button { border: 0; border-radius: 12px; padding: 0 22px; font: 700 1rem var(--sans); color: #fff; background: linear-gradient(135deg, var(--dem), var(--rep)); cursor: pointer; }
+  .stats { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin: 0; }
+  .stats div { background: rgb(255 255 255 / .06); border: 1px solid rgb(255 255 255 / .12); border-radius: 16px; padding: 18px; backdrop-filter: blur(4px); }
+  .stats dt { font-size: .78rem; color: rgb(255 255 255 / .7); text-transform: uppercase; letter-spacing: .08em; font-weight: 600; }
+  .stats dd { margin: 6px 0 0; font: 700 clamp(1.6rem, 3vw, 2.3rem) var(--serif); color: #fff; }
+  .chart { padding: 24px; margin-top: -8px; }
+  .chart-head { display: flex; justify-content: space-between; gap: 16px; flex-wrap: wrap; align-items: flex-end; }
+  .chart-head h2 { margin: 0 0 4px; }
+  .chart-head p { margin: 0; }
+  .legend { display: flex; gap: 14px; flex-wrap: wrap; font-size: .82rem; color: var(--muted); }
+  .legend i { display: inline-block; width: 12px; height: 12px; border-radius: 3px; margin-right: 6px; vertical-align: -1px; }
+  .cols { display: flex; align-items: flex-end; gap: 10px; height: 280px; margin-top: 22px; padding-bottom: 54px; overflow-x: auto; }
+  .col { flex: 1 0 64px; height: 100%; display: flex; flex-direction: column; justify-content: flex-end; align-items: stretch; background: none; border: 0; padding: 0; cursor: pointer; position: relative; font: inherit; color: inherit; }
+  .stack { display: flex; flex-direction: column-reverse; border-radius: 10px 10px 4px 4px; overflow: hidden; transition: transform .15s, filter .15s; box-shadow: var(--shadow); }
+  .col:hover .stack, .col:focus-visible .stack { transform: translateY(-4px); filter: saturate(1.2); }
+  .seg-d { background: var(--dem); } .seg-r { background: var(--rep); } .seg-o { background: var(--neutral-bg); }
+  .col-total { position: absolute; top: -2px; left: 0; right: 0; text-align: center; font-weight: 700; font-size: .85rem; transform: translateY(-100%); }
+  .col-label { position: absolute; bottom: -24px; left: 0; right: 0; text-align: center; font-weight: 700; font-size: .82rem; }
+  .col-pres { position: absolute; bottom: -44px; left: -6px; right: -6px; text-align: center; font-size: .68rem; color: var(--muted); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .section-head { display: flex; justify-content: space-between; align-items: baseline; gap: 6px 20px; flex-wrap: wrap; margin: 44px 0 14px; }
+  .section-head h2 { margin: 0; }
+  .section-head p { margin: 0; }
+  .spot { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 14px; }
+  .spot-card { display: flex; flex-direction: column; gap: 10px; padding: 20px; border-radius: var(--radius); color: #fff; text-decoration: none; min-height: 170px; box-shadow: var(--shadow); transition: transform .15s, box-shadow .15s; position: relative; overflow: hidden; }
+  .spot-card:hover { transform: translateY(-3px); box-shadow: var(--shadow-lg); }
+  .spot-card.side-D { background: linear-gradient(150deg, #2a6be0, #143d8f); }
+  .spot-card.side-R { background: linear-gradient(150deg, #e0414f, #8f1622); }
+  .spot-card strong { font: 600 1.12rem/1.3 var(--serif); }
+  .spot-badge { align-self: flex-start; font-size: .7rem; font-weight: 700; text-transform: uppercase; letter-spacing: .08em; background: rgb(255 255 255 / .18); padding: 4px 10px; border-radius: 999px; }
+  .spot-meta { margin-top: auto; font-size: .82rem; opacity: .85; }
+  .filters { display: grid; grid-template-columns: minmax(200px, 2fr) repeat(4, minmax(150px, 1fr)); gap: 8px; padding: 12px; position: sticky; top: calc(var(--topbar-h, 110px) + 8px); z-index: 4; box-shadow: 0 -9px 0 0 var(--bg), var(--shadow); }
+  @media (max-width: 1000px) { .filters { grid-template-columns: 1fr 1fr; position: static; } .filters input { grid-column: 1 / -1; } }
   .count { font-size: .88rem; margin: 12px 2px; }
-  .more-btn { display: block; margin: 20px auto 0; font: 600 1rem var(--sans); padding: 12px 22px; border-radius: 10px; border: 1px solid var(--border); background: var(--surface); color: var(--text); cursor: pointer; }
+  .more-btn { display: block; margin: 24px auto 0; font: 600 1rem var(--sans); padding: 13px 26px; border-radius: 12px; border: 1px solid var(--border); background: var(--surface); color: var(--text); cursor: pointer; box-shadow: var(--shadow); }
   .more-btn:hover { background: var(--surface-2); }
   .more-btn[hidden] { display: none; }
 </style>
