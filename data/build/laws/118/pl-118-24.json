@@ -1,0 +1,43 @@
+{
+ "id": "pl-118-24",
+ "congress": 118,
+ "public_law": "118-24",
+ "bill": "HR 3315",
+ "title": "National Guard and Reservists Debt Relief Extension Act of 2023",
+ "enacted": "2023-12-19",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Finance and Financial Sector",
+ "sponsor": "Rep. Cohen, Steve [D-TN-9]",
+ "official_summary": "<p><b>National Guard and Reservists Debt Relief Extension Act of 2023</b></p> <p>This act extends for an additional four years the exemption from the presumption of abuse means test under Chapter 7 (liquidation) bankruptcy for qualifying members of an Armed Forces reserve component or the National Guard. Specifically, members who, after September 11, 2001, are called to active duty or to perform a homeland defense activity for not less than 90 days qualify for this exemption. The exemption expires on December 19, 2023. </p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr3315enr/xml/BILLS-118hr3315enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr3315rds/xml/BILLS-118hr3315rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr3315eh/xml/BILLS-118hr3315eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr3315rh/xml/BILLS-118hr3315rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr3315ih/xml/BILLS-118hr3315ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ24/uslm/PLAW-118publ24.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/house-bill/3315",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

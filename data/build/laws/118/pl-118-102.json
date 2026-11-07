@@ -1,0 +1,40 @@
+{
+ "id": "pl-118-102",
+ "congress": 118,
+ "public_law": "118-102",
+ "bill": "S 3851",
+ "title": "A bill to designate the facility of the United States Postal Service located at 90 McCamly Street South in Battle Creek, Michigan, as the \"Sojourner Truth Post Office\".",
+ "enacted": "2024-10-01",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Sen. Peters, Gary C. [D-MI]",
+ "official_summary": "<p>This act designates the facility of the U.S. Postal Service located at 90 McCamly Street South in Battle Creek, Michigan, as the Sojourner Truth Post Office.</p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s3851enr/xml/BILLS-118s3851enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s3851es/xml/BILLS-118s3851es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s3851rs/xml/BILLS-118s3851rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s3851is/xml/BILLS-118s3851is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ102/uslm/PLAW-118publ102.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/senate-bill/3851",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

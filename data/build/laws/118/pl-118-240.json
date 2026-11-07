@@ -1,0 +1,43 @@
+{
+ "id": "pl-118-240",
+ "congress": 118,
+ "public_law": "118-240",
+ "bill": "HR 7417",
+ "title": "To designate the facility of the United States Postal Service located at 135 West Spring Street in Titusville, Pennsylvania, as the \"Edwin L. Drake Post Office Building\".",
+ "enacted": "2025-01-04",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Kelly, Mike [R-PA-16]",
+ "official_summary": "<p>This act designates the facility of the U.S. Postal Service located at 135 West Spring Street in Titusville, Pennsylvania, as the Edwin L. Drake Post Office Building.</p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr7417enr/xml/BILLS-118hr7417enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr7417rs/xml/BILLS-118hr7417rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr7417rfs/xml/BILLS-118hr7417rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr7417eh/xml/BILLS-118hr7417eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr7417ih/xml/BILLS-118hr7417ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ240/uslm/PLAW-118publ240.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/house-bill/7417",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

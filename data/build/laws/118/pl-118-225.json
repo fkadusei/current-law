@@ -1,0 +1,43 @@
+{
+ "id": "pl-118-225",
+ "congress": 118,
+ "public_law": "118-225",
+ "bill": "HR 670",
+ "title": "Think Differently Database Act",
+ "enacted": "2025-01-04",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Health",
+ "sponsor": "Rep. Molinaro, Marcus J. [R-NY-19]",
+ "official_summary": "<p><strong>Think Differently Database Act</strong></p><p>This act&nbsp;requires the Centers for Medicare &amp; Medicaid Services (CMS) to establish a website with resources about Medicaid for individuals with disabilities and their caregivers. The website must include information about eligibility, points of contact, covered long-term services, and wait lists for certain home- and community-based services. The CMS must promote the website to appropriate individuals, such as by collaborating with the Social Security Administration.</p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr670enr/xml/BILLS-118hr670enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr670rds/xml/BILLS-118hr670rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr670eh/xml/BILLS-118hr670eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr670rh/xml/BILLS-118hr670rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr670ih/xml/BILLS-118hr670ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ225/uslm/PLAW-118publ225.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/house-bill/670",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

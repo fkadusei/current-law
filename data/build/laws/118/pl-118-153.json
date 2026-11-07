@@ -1,0 +1,40 @@
+{
+ "id": "pl-118-153",
+ "congress": 118,
+ "public_law": "118-153",
+ "bill": "S 310",
+ "title": "Disaster Contract Improvement Act",
+ "enacted": "2024-12-17",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Emergency Management",
+ "sponsor": "Sen. Scott, Rick [R-FL]",
+ "official_summary": "<p><strong>Disaster Contract Improvement Act</strong></p><p>This act directs the Federal Emergency Management Agency (FEMA) to establish an advisory working group to encourage and foster collaborative efforts among individuals and entities engaged in disaster recovery relating to debris removal.</p><p>The act requires (1) FEMA to conduct outreach to states, tribal governments, and local governments with respect to any guidance or support materials developed; and (2) the Government Accountability Office to conduct a study that, among other things, examines the use and adoption rate of advance contracts for debris removal by states, tribal governments, and local governments.</p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s310enr/xml/BILLS-118s310enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s310es/xml/BILLS-118s310es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s310rs/xml/BILLS-118s310rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s310is/xml/BILLS-118s310is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ153/uslm/PLAW-118publ153.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/senate-bill/310",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

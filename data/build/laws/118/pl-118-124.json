@@ -1,0 +1,43 @@
+{
+ "id": "pl-118-124",
+ "congress": 118,
+ "public_law": "118-124",
+ "bill": "HR 6324",
+ "title": "Fiscal Year 2024 Veterans Affairs Major Medical Facility Authorization Act",
+ "enacted": "2024-11-25",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Rep. Bost, Mike [R-IL-12]",
+ "official_summary": "<p><strong>Fiscal Year 2024 Veterans Affairs Major Medical Facility Authorization Act</strong></p><p>This act authorizes the Department of Veterans Affairs to carry out specified major medical facility projects during FY2024. The act also indicates the maximum amount that may be spent on each project.</p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr6324enr/xml/BILLS-118hr6324enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr6324rds/xml/BILLS-118hr6324rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr6324eh/xml/BILLS-118hr6324eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr6324rh/xml/BILLS-118hr6324rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr6324ih/xml/BILLS-118hr6324ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ124/uslm/PLAW-118publ124.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/house-bill/6324",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,43 @@
+{
+ "id": "pl-118-107",
+ "congress": 118,
+ "public_law": "118-107",
+ "bill": "HR 7189",
+ "title": "Congenital Heart Futures Reauthorization Act of 2024",
+ "enacted": "2024-11-21",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Health",
+ "sponsor": "Rep. Bilirakis, Gus M. [R-FL-12]",
+ "official_summary": "<p><strong>Congenital Heart Futures Reauthorization Act of 2024</strong></p><p>This act reauthorizes through FY2029 the National Congenital Heart Disease Research, Surveillance, and Awareness Program, which is administered by the Centers for Disease Control and Prevention. The program supports data collection, educational campaigns, and other efforts to better understand the causes and effects of congenital heart disease across various demographics.</p><p>The act also requires the Department of Health and Human Services to (1) report on the awareness campaign and its efforts to support the health care workforce with respect to treating congenital&nbsp;heart disease, and (2)&nbsp;develop a strategy to improve these efforts.</p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr7189enr/xml/BILLS-118hr7189enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr7189rds/xml/BILLS-118hr7189rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr7189eh/xml/BILLS-118hr7189eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr7189rh/xml/BILLS-118hr7189rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr7189ih/xml/BILLS-118hr7189ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ107/uslm/PLAW-118publ107.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/house-bill/7189",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,43 @@
+{
+ "id": "pl-118-167",
+ "congress": 118,
+ "public_law": "118-167",
+ "bill": "HR 3797",
+ "title": "Paperwork Burden Reduction Act",
+ "enacted": "2024-12-23",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Taxation",
+ "sponsor": "Rep. Smith, Jason [R-MO-8]",
+ "official_summary": "<p><strong>Paperwork Burden Reduction Act</strong></p><p>This act modifies provisions under the Patient Protection and Affordable Care Act so that employers and health insurance providers are no longer required to send tax forms to covered individuals showing proof of minimum essential coverage (1095-B and 1095-C tax forms) unless a form is requested.</p><p>Generally, employers and health insurance providers that provide minimum essential coverage must report this information for each covered individual to the Internal Revenue Service (IRS)&nbsp;and provide a copy of this information to the covered individual (through 1095-B and 1095-C tax forms) by January 31 of each year.&nbsp;The IRS allows certain health insurance providers and employers to provide 1095-B tax forms to individuals only upon request, provided that clear and conspicuous notice of an individual’s right to request a written copy of the 1095-B tax form is placed on the insurance provider’s or employer’s website.&nbsp;</p><p>The act provides statutory authority for the option for certain health insurance providers and employers to provide 1095-B tax forms to individuals only upon request&nbsp;and extends this flexibility to 1095-C tax forms, which are sent by certain large employers. Requests&nbsp;for 1095-B and 1095-C tax forms&nbsp;must be fulfilled by January 31 or 30 days after the date of the request, whichever is later. Employers and health insurance providers must give individuals timely notice of this option, in accordance with any requirements set by the IRS.</p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr3797enr/xml/BILLS-118hr3797enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr3797rfs/xml/BILLS-118hr3797rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr3797eh/xml/BILLS-118hr3797eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr3797rh/xml/BILLS-118hr3797rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr3797ih/xml/BILLS-118hr3797ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ167/uslm/PLAW-118publ167.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/house-bill/3797",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

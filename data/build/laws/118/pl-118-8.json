@@ -1,0 +1,40 @@
+{
+ "id": "pl-118-8",
+ "congress": 118,
+ "public_law": "118-8",
+ "bill": "S 30",
+ "title": "Fiscal Year 2023 Veterans Affairs Major Medical Facility Authorization Act",
+ "enacted": "2023-07-18",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Sen. Tester, Jon [D-MT]",
+ "official_summary": "<p><b>Fiscal Year 2023 Veterans Affairs Major Medical Facility Authorization Act</b></p> <p>This act authorizes the Department of Veterans Affairs to carry out specified major medical facility projects during FY2023. The bill also indicates the maximum amount that can be spent on each project.</p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s30enr/xml/BILLS-118s30enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s30es/xml/BILLS-118s30es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s30rs/xml/BILLS-118s30rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s30is/xml/BILLS-118s30is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ8/uslm/PLAW-118publ8.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/senate-bill/30",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

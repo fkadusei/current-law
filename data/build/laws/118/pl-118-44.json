@@ -1,0 +1,40 @@
+{
+ "id": "pl-118-44",
+ "congress": 118,
+ "public_law": "118-44",
+ "bill": "S 1858",
+ "title": "Disaster Assistance Deadlines Alignment Act",
+ "enacted": "2024-03-18",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Emergency Management",
+ "sponsor": "Sen. Peters, Gary C. [D-MI]",
+ "official_summary": "<p><strong>Disaster Assistance Deadlines Alignment Act</strong></p><p>This act&nbsp;modifies the deadline for applying for disaster unemployment assistance.</p><p>Specifically, the act matches the deadline for an individual seeking unemployment assistance for a major disaster under the Robert T. Stafford Disaster Relief and Emergency Assistance Act to the application deadline for individuals and households seeking other assistance under that act.</p><p>The act authorizes an extension of that deadline if the individual (1) has good cause for the late submission, and (2) submits the application during the period when disaster assistance is being provided.</p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s1858enr/xml/BILLS-118s1858enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s1858es/xml/BILLS-118s1858es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s1858rs/xml/BILLS-118s1858rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s1858is/xml/BILLS-118s1858is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ44/uslm/PLAW-118publ44.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/senate-bill/1858",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

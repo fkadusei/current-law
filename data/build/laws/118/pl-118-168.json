@@ -1,0 +1,43 @@
+{
+ "id": "pl-118-168",
+ "congress": 118,
+ "public_law": "118-168",
+ "bill": "HR 3801",
+ "title": "Employer Reporting Improvement Act",
+ "enacted": "2024-12-23",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Taxation",
+ "sponsor": "Rep. Smith, Adrian [R-NE-3]",
+ "official_summary": "<p><strong>Employer Reporting Improvement Act</strong></p><p>This act modifies provisions under the Patient Protection and Affordable Care Act that require employers and health insurance providers to prepare tax forms showing proof of minimum essential coverage (1095-B and 1095-C tax forms).</p><p>Generally, employers and health insurance providers that provide minimum essential coverage must report this information for each covered individual to the Internal Revenue Service (IRS), including the covered individual's name and tax identification number (TIN). Employers and providers must also send a copy of this information to the covered individual (through 1095-B and 1095-C tax forms) by January 31 of each year.</p><p>The IRS allows for an individual's date of birth to be substituted for the individual's TIN if the TIN is not available. The IRS also allows employers and providers to send 1095-B and 1095-C tax forms to individuals electronically&nbsp;upon obtaining consent from the individual to do so. (Individuals may revoke consent at any time.)</p><p>This act provides statutory authority for the substitution of an individual’s full name and date of birth for the individual’s TIN on 1095-B and 1095-C tax forms and the electronic transmission of these forms when prior affirmative consent is provided by the individual.</p><p>Additionally, large employers (generally those with 50 or more full-time employees) are subject to an assessment by the IRS if they do not offer affordable minimum essential coverage&nbsp;(sometimes referred to as the employer mandate or the pay-or-play penalty).</p><p>The act requires the IRS to give large employers at least 90 days to respond after sending its first letter that informs the employer of the proposed assessment (Letter 226-J).&nbsp;(Previously, the IRS generally allowed 30 days to respond, unless an extension was granted.)</p><p>Finally, the act establishes a six-year statute of limitations for assessing&nbsp;amounts for failure to offer affordable minimum essential coverage.&nbsp;</p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr3801enr/xml/BILLS-118hr3801enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr3801rfs/xml/BILLS-118hr3801rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr3801eh/xml/BILLS-118hr3801eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr3801rh/xml/BILLS-118hr3801rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr3801ih/xml/BILLS-118hr3801ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ168/uslm/PLAW-118publ168.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/house-bill/3801",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,43 @@
+{
+ "id": "pl-118-267",
+ "congress": 118,
+ "public_law": "118-267",
+ "bill": "HR 9592",
+ "title": "Federal Register Modernization Act of 2024",
+ "enacted": "2025-01-04",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Higgins, Clay [R-LA-3]",
+ "official_summary": "<p><strong>Federal Register Modernization Act of 2024</strong></p><p>This act revises provisions regarding the Federal Register and the Code of Federal Regulations, including to replace requirements that the documents be printed with requirements that the documents be published.</p><p>The act also</p><ul><li><p>eliminates the requirement for federal agencies to provide duplicate originals or certified copies of agency documents submitted for publication in the Federal Register;</p></li><li><p>specifies that a designee of the President may fulfill certain functions, such as approving regulations related to the publication of the Federal Register prescribed by the Administrative Committee of the Federal Register; and</p></li><li><p>provides that in a continuity of operations event in which the Government Publishing Office (GPO) does not fulfill its publication requirements, the Office of the Federal Register may establish an alternative method to publish the Federal Register until such time that GPO resumes publication.</p></li></ul>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr9592enr/xml/BILLS-118hr9592enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr9592rs/xml/BILLS-118hr9592rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr9592rfs/xml/BILLS-118hr9592rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr9592eh/xml/BILLS-118hr9592eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr9592ih/xml/BILLS-118hr9592ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ267/uslm/PLAW-118publ267.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/house-bill/9592",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

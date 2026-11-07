@@ -1,0 +1,37 @@
+{
+ "id": "pl-118-95",
+ "congress": 118,
+ "public_law": "118-95",
+ "bill": "S 656",
+ "title": "Veteran Improvement Commercial Driver License Act of 2023",
+ "enacted": "2024-10-01",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Sen. Fischer, Deb [R-NE]",
+ "official_summary": "<p><strong>Veteran Improvement Commercial Driver License Act of 2023</strong></p><p>This act authorizes approval of certain commercial driver education programs for purposes of Department of Veterans Affairs (VA) educational assistance if the programs meet specified requirements. Under current law, the VA may not approve enrollment of a veteran in courses for programs that do not lead to a standard degree that are offered at a new branch (i.e., a branch that has been operating for less than 2 years) of an educational institution.</p><p>Under the bill, a commercial driver education program offered at a new branch of an educational institution may be approved if it is appropriately licensed and uses the same curriculum as a commercial driver education program offered by the educational institution at another location that is already approved for purposes of VA educational assistance.</p><p>The educational institution must submit a report demonstrating the curriculum at the new branch is the same as the curriculum at the primary location in order to be exempt from the current prohibition against course approval at new branches.</p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s656enr/xml/BILLS-118s656enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s656es/xml/BILLS-118s656es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s656is/xml/BILLS-118s656is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ95/uslm/PLAW-118publ95.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/senate-bill/656",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

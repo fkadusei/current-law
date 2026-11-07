@@ -1,0 +1,40 @@
+{
+ "id": "pl-118-99",
+ "congress": 118,
+ "public_law": "118-99",
+ "bill": "S 2685",
+ "title": "Reuse Excess Property Act",
+ "enacted": "2024-10-01",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Sen. Peters, Gary C. [D-MI]",
+ "official_summary": "<p><strong>Reuse Excess Property Act</strong></p><p>This act requires the General Services Administration (GSA) to make publicly available on the internet the data contained in specified federal agency reports on excess personal property. (Personal property is any property except real property and includes vehicles, furniture, and office equipment.)&nbsp;</p><p>The act also requires federal agencies to make public their internal guidance on using excess personal property to meet agency needs. Such guidance must include certain topics, such as (1) a requirement to consider excess personal property before buying new, and (2) how to evaluate the suitability of excess personal property for use. Federal agencies must also provide this information to the GSA.&nbsp;</p><p>These provisions are repealed five years after the date of enactment.&nbsp;</p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s2685enr/xml/BILLS-118s2685enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s2685es/xml/BILLS-118s2685es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s2685rs/xml/BILLS-118s2685rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s2685is/xml/BILLS-118s2685is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ99/uslm/PLAW-118publ99.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/senate-bill/2685",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

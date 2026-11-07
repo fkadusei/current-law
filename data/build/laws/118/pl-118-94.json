@@ -1,0 +1,46 @@
+{
+ "id": "pl-118-94",
+ "congress": 118,
+ "public_law": "118-94",
+ "bill": "S 612",
+ "title": "Lake Tahoe Restoration Reauthorization Act",
+ "enacted": "2024-10-01",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Environmental Protection",
+ "sponsor": "Sen. Cortez Masto, Catherine [D-NV]",
+ "official_summary": "<p><strong>Lake Tahoe Restoration Reauthorization Act</strong></p><p>This act reauthorizes through September 30, 2034, activities to restore Lake Tahoe and its surrounding basin. Lake Tahoe is a large freshwater lake on the border of California and Nevada.</p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s612enr/xml/BILLS-118s612enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s612rh/xml/BILLS-118s612rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s612rfh/xml/BILLS-118s612rfh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s612es/xml/BILLS-118s612es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s612rs/xml/BILLS-118s612rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s612is/xml/BILLS-118s612is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ94/uslm/PLAW-118publ94.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/senate-bill/612",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

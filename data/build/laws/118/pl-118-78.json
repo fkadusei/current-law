@@ -1,0 +1,37 @@
+{
+ "id": "pl-118-78",
+ "congress": 118,
+ "public_law": "118-78",
+ "bill": "S 4548",
+ "title": "Foreign Extortion Prevention Technical Corrections Act",
+ "enacted": "2024-07-30",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Crime and Law Enforcement",
+ "sponsor": "Sen. Whitehouse, Sheldon [D-RI]",
+ "official_summary": "<p><strong>Foreign Extortion Prevention Technical Corrections Act</strong></p><p>This act makes technical corrections and substantive changes to the Foreign Extortion Prevention Act (FEPA), which was enacted as part of the National Defense Authorization Act for Fiscal Year 2024.</p><p>As originally enacted, FEPA established a new federal criminal offense involving bribery by foreign officials.&nbsp;Also, FEPA&nbsp;explicitly granted extraterritorial jurisdiction over offenses and established criminal penalties for violations.&nbsp;</p><p>This act narrows the scope of individuals who are foreign officials subject to the federal criminal provisions. Specifically, it redefines <em>foreign official</em> so that it does not include an individual acting in an unofficial capacity on behalf of a foreign government or international organization.&nbsp;</p><p>Additionally, this act broadens the scope of conduct that is prohibited. As originally enacted, FEPA generally prohibited conduct to solicit or accept a bribe in return for influence in the performance of any official act. This act broadens the scope of the prohibited conduct to include the solicitation or acceptance of a bribe in return for influence in the performance of any act or decision.&nbsp;</p><p>Finally, this act specifies that extraterritorial jurisdiction applies if the foreign official soliciting or accepting the bribe is in the United States. &nbsp;</p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s4548enr/xml/BILLS-118s4548enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s4548es/xml/BILLS-118s4548es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s4548cps/xml/BILLS-118s4548cps.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ78/uslm/PLAW-118publ78.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/senate-bill/4548",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

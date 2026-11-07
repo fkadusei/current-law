@@ -1,0 +1,40 @@
+{
+ "id": "pl-118-187",
+ "congress": 118,
+ "public_law": "118-187",
+ "bill": "HR 9566",
+ "title": "SHARE IT Act",
+ "enacted": "2024-12-23",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Langworthy, Nicholas A. [R-NY-23]",
+ "official_summary": "<p><strong>Source code Harmonization And Reuse in Information Technology Act or the SHARE IT Act</strong></p><p>This act requires federal agencies to ensure that custom-developed code (i.e., source code that is produced under an agency contract, funded exclusively by the federal government, or developed by federal employees as part of their official duties) and certain technical components of the code such as architecture designs and metadata are (1) owned by the agency, (2) stored at no less than one public or private repository, and (3) accessible to federal employees under certain procedures.&nbsp;Agency contracts for custom-development of software must acquire and exercise rights sufficient to allow government-wide access, sharing, use, and modification of any custom-developed code.</p><p>The act does not apply to source code that is classified, developed primarily for use in a national security system, or developed by an element of the intelligence community. An agency's office of the chief information officer may exempt source code from being shared or made publicly accessible to protect individual privacy.</p><p>Within 120 days of enactment, the Office of Electronic Government shall establish minimum reporting standards for agencies relating to certain topics, such as measuring the frequency of reuse of code. Within one year of enactment, the Federal Acquisition Regulation must be revised to implement the act's provisions.</p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr9566enr/xml/BILLS-118hr9566enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr9566rds/xml/BILLS-118hr9566rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr9566eh/xml/BILLS-118hr9566eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr9566ih/xml/BILLS-118hr9566ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ187/uslm/PLAW-118publ187.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/house-bill/9566",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

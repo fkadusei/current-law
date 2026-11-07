@@ -1,0 +1,43 @@
+{
+ "id": "pl-118-89",
+ "congress": 118,
+ "public_law": "118-89",
+ "bill": "HR 7032",
+ "title": "Congressional Budget Office Data Sharing Act",
+ "enacted": "2024-09-30",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Economics and Public Finance",
+ "sponsor": "Rep. Boyle, Brendan F. [D-PA-2]",
+ "official_summary": "<p><strong>Congressional Budget Office Data Sharing Act</strong></p><p>This act specifies that the Congressional Budget Office (CBO) is authorized to obtain data from executive branch agencies with or without a written agreement if CBO maintains the same level of confidentiality that is required of the agency that provides the data.</p><p>The act also requires CBO to submit a report to Congress regarding requests for information from executive branch agencies and any challenges it faced in accessing the information.</p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr7032enr/xml/BILLS-118hr7032enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr7032rds/xml/BILLS-118hr7032rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr7032rh/xml/BILLS-118hr7032rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr7032eh/xml/BILLS-118hr7032eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr7032ih/xml/BILLS-118hr7032ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ89/uslm/PLAW-118publ89.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/house-bill/7032",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

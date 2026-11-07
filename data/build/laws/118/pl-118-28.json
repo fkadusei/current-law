@@ -1,0 +1,40 @@
+{
+ "id": "pl-118-28",
+ "congress": 118,
+ "public_law": "118-28",
+ "bill": "HJRES 62",
+ "title": "Providing for the reappointment of Michael Govan as a citizen regent of the Board of Regents of the Smithsonian Institution.",
+ "enacted": "2023-12-21",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Smith, Adrian [R-NE-3]",
+ "official_summary": "<p>This joint resolution provides for the reappointment of Michael Govan as a citizen regent of the Board of Regents of the Smithsonian Institution.</p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hjres62enr/xml/BILLS-118hjres62enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hjres62rfs/xml/BILLS-118hjres62rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hjres62eh/xml/BILLS-118hjres62eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hjres62ih/xml/BILLS-118hjres62ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ28/uslm/PLAW-118publ28.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/house-joint-resolution/62",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

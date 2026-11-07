@@ -1,0 +1,40 @@
+{
+ "id": "pl-118-7",
+ "congress": 118,
+ "public_law": "118-7",
+ "bill": "S 467",
+ "title": "CADETS Act",
+ "enacted": "2023-06-30",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Transportation and Public Works",
+ "sponsor": "Sen. Peters, Gary C. [D-MI]",
+ "official_summary": "<p><strong>Changing Age-Determined Eligibility To Student Incentive Payments Act or the</strong> <strong>CADETS Act </strong></p> <p>This act modifies the age requirements for the Student Incentive Payment Program, which provides financial support to cadets who attend one of six state maritime academies and commit to a post-graduation service obligation. </p> <p>Specifically, the act modifies the age requirements to allow older cadets to qualify for the program if they will meet the age requirements for enlistment or commission in the Navy Reserve at the time of their graduation. Current age requirements prohibit cadets older than 25 from participating in the program.</p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s467enr/xml/BILLS-118s467enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s467es/xml/BILLS-118s467es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s467rs/xml/BILLS-118s467rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s467is/xml/BILLS-118s467is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ7/uslm/PLAW-118publ7.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/senate-bill/467",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

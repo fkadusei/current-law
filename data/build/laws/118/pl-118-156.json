@@ -1,0 +1,40 @@
+{
+ "id": "pl-118-156",
+ "congress": 118,
+ "public_law": "118-156",
+ "bill": "S 3475",
+ "title": "Strengthening the Commercial Driver’s License Information System Act",
+ "enacted": "2024-12-17",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Transportation and Public Works",
+ "sponsor": "Sen. Peters, Gary C. [D-MI]",
+ "official_summary": "<p><strong>Strengthening the Commercial Driver’s License Information System Act</strong></p><p>This act provides statutory authority for&nbsp;the Department of Transportation (DOT) to (1) designate an authorized operator for the Commercial Driver's License Information System (CDLIS), and (2) allow the operator to collect and use fees for the CDLIS.</p><p>Under current law, the Federal Motor Carrier Safety Administration (FMCSA) must maintain an information system (i.e.,&nbsp;the CDLIS) that serves as the clearinghouse and depository of information about the licensing, identification, and disqualification of operators of commercial vehicles. The American Association of Motor Vehicle Administrators (AAMVA) created the CDLIS and operates the&nbsp;system under an agreement with the FMCSA. Prior to&nbsp;October 1, 2023, AAMVA charged a user fee to states for the CDLIS. However, FMCSA directed AAMVA to suspend charging user fees to states for operation and maintenance of the system.</p><p>This act modifies the fee system requirements to specify that DOT may authorize a qualified operator to (1) operate, maintain, develop, modernize, and enhance the CDLIS; (2) collect fees for the system on behalf of DOT; and (3) use the collected fees. In addition, fees collected must be credited to an appropriation account or an account designated by the authorized operator.</p><p>The act also specifies that fees must&nbsp;be used to operate, maintain, develop, modernize, or enhance the CDLIS, including for related personnel and administration costs.</p><p>Further, under the act, DOT may not be charged a fee for access to, use of, or data in the CDLIS. DOT must also have access to quarterly fee statements.</p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s3475enr/xml/BILLS-118s3475enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s3475es/xml/BILLS-118s3475es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s3475rs/xml/BILLS-118s3475rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s3475is/xml/BILLS-118s3475is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ156/uslm/PLAW-118publ156.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/senate-bill/3475",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

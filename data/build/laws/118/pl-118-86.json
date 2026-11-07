@@ -1,0 +1,40 @@
+{
+ "id": "pl-118-86",
+ "congress": 118,
+ "public_law": "118-86",
+ "bill": "S 4351",
+ "title": "Poison Control Centers Reauthorization Act of 2024",
+ "enacted": "2024-09-26",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Health",
+ "sponsor": "Sen. Murray, Patty [D-WA]",
+ "official_summary": "<p><strong>Poison Control Centers Reauthorization Act of 2024</strong></p><p>This act reauthorizes through FY2029 several poison control center resources and services.</p><p>Specifically, the act reauthorizes (1) the national poison control center help line (i.e., the&nbsp;Poison Help line), (2) a national media campaign to educate the public and health care providers about the help line and other resources, and (3) a grant program to support the ability of poison control centers to provide services.</p><!--tinycomments|2.1|data:application/json;base64,eyJtY2UtY29udmVyc2F0aW9uXzg1MzEwODYwNDUxNzI2MTY3MzEyMTU4Ijp7InVpZCI6Im1jZS1jb252ZXJzYXRpb25fODUzMTA4NjA0NTE3MjYxNjczMTIxNTgiLCJjb21tZW50cyI6W3sidWlkIjoibWNlLWNvbnZlcnNhdGlvbl84NTMxMDg2MDQ1MTcyNjE2NzMxMjE1OCIsImF1dGhvciI6InNzdWJyYW1hbmlhbUBsaWIubG9jLmdvdiIsImF1dGhvck5hbWUiOiJzc3VicmFtYW5pYW1AbGliLmxvYy5nb3YiLCJjb250ZW50IjoiaHR0cHM6Ly9wb2lzb25oZWxwLmhyc2EuZ292L3BvaXNvbi1jZW50ZXJzIiwiY3JlYXRlZEF0IjoiMjAyNC0wOS0xMlQxODo1NToxMi4xNThaIiwibW9kaWZpZWRBdCI6IjIwMjQtMDktMTJUMTg6NTU6MTIuMTU4WiJ9XX19-->",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s4351enr/xml/BILLS-118s4351enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s4351es/xml/BILLS-118s4351es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s4351rs/xml/BILLS-118s4351rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s4351is/xml/BILLS-118s4351is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ86/uslm/PLAW-118publ86.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/senate-bill/4351",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

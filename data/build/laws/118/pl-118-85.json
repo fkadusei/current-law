@@ -1,0 +1,40 @@
+{
+ "id": "pl-118-85",
+ "congress": 118,
+ "public_law": "118-85",
+ "bill": "S 1648",
+ "title": "Launch Communications Act",
+ "enacted": "2024-09-26",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Science, Technology, Communications",
+ "sponsor": "Sen. Schmitt, Eric [R-MO]",
+ "official_summary": "<p><strong>Launch Communications Act</strong></p><p>This act&nbsp;requires the Federal Communications Commission (FCC) to facilitate access to specified broadband spectrum frequencies for commercial space launches and reentries.</p><p>Under current law, commercial missions launching from the United States to space must use government-owned spectrum to communicate with the rockets during launch, and private companies must apply to the FCC to receive special temporary authority to use such spectrum. On June 28, 2021, the FCC issued a final rule adopting a nonfederal secondary allocation of the 2200-2290 megahertz frequencies of the electromagnetic spectrum for use during commercial space launches and reentries.</p><p>The act requires the FCC to (1) adopt service rules for access to additional frequencies for commercial space launches and reentries and complete associated rulemaking activities (e.g., those that set technical specifications and eligibility requirements), and (2) allocate the frequencies.</p><p>The FCC must also streamline the process for access authorizations, including by providing for (1) authorizations to access specified frequencies for multiple commercial space launches and reentries from one or more federal or private launch or reentry sites, (2) authorizations for multiple uses of such frequencies for a commercial space launch or reentry, (3) electronic filing and processing of access applications, and (4) improved coordination between the FCC and the National Telecommunications and Information Administration to increase the speed of the review of such applications.&nbsp;</p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s1648enr/xml/BILLS-118s1648enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s1648es/xml/BILLS-118s1648es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s1648rs/xml/BILLS-118s1648rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s1648is/xml/BILLS-118s1648is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ85/uslm/PLAW-118publ85.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/senate-bill/1648",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,40 @@
+{
+ "id": "pl-118-30",
+ "congress": 118,
+ "public_law": "118-30",
+ "bill": "HJRES 64",
+ "title": "Providing for the reappointment of Roger W. Ferguson as a citizen regent of the Board of Regents of the Smithsonian Institution.",
+ "enacted": "2023-12-21",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Smith, Adrian [R-NE-3]",
+ "official_summary": "<p>This joint resolution provides for the reappointment of Roger W. Ferguson as a citizen regent of the Board of Regents of the Smithsonian Institution.</p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hjres64enr/xml/BILLS-118hjres64enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hjres64rfs/xml/BILLS-118hjres64rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hjres64eh/xml/BILLS-118hjres64eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hjres64ih/xml/BILLS-118hjres64ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ30/uslm/PLAW-118publ30.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/house-joint-resolution/64",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,1810 @@
+{
+ "id": "pl-118-106",
+ "congress": 118,
+ "public_law": "118-106",
+ "bill": "HR 6513",
+ "title": "COCOA Act of 2024",
+ "enacted": "2024-10-04",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Carey, Mike [R-OH-15]",
+ "official_summary": "<p><strong>Confirmation Of Congressional Observer Access Act of 2024 or the COCOA Act of </strong><strong>2024</strong></p><p>This act provides statutory authority for designated congressional election observers. <em>Designated congressional election observe</em>r refers to an employee of the House of Representatives or the Senate who is designated in writing by the chair or ranking minority member of the House Committee on House Administration or the Senate Committee on Rules and Administration to gather information with respect to an election, including in the event that the election is contested in the House or the Senate and for other purposes permitted by Article I, Section 5, clause 1 and Article I, Section 4, clause 1 of the U.S. Constitution.</p><p>The act requires states to provide designated congressional election observers with full access to&nbsp;clearly observe all elements of administration procedures of federal elections, including access to any area in which a ballot is cast, processed, scanned, tabulated, canvassed, recounted, audited, or certified, including during pre- and post-election procedures.</p><p>The act prohibits such an observer from handling ballots or election equipment, advocating for a position or candidate, taking any action to reduce ballot secrecy or voter privacy, taking any action to interfere with the ability of a voter to cast a ballot or an election administrator to carry out the administrator's duties, or otherwise interfering with the election administration process.</p><p>The act specifies the conduct for which designated congressional election observers may be removed by election officials. In the event of removal, the election official must, within 24 hours of the observer's removal,&nbsp;provide written notice to the chair and ranking minority member of the House Committee on House Administration or the Senate Committee on Rules and Administration.</p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr6513enr/xml/BILLS-118hr6513enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr6513eas/xml/BILLS-118hr6513eas.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr6513rfs/xml/BILLS-118hr6513rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr6513eh/xml/BILLS-118hr6513eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr6513rh/xml/BILLS-118hr6513rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr6513ih/xml/BILLS-118hr6513ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ106/uslm/PLAW-118publ106.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/house-bill/6513",
+ "votes": [
+  {
+   "chamber": "House",
+   "roll": 1167,
+   "date": "2024-09-25",
+   "question": "On Motion to Suspend the Rules and Concur in the Senate Amendment",
+   "result": "Passed",
+   "yea": 413,
+   "nay": 1,
+   "by_party": {
+    "R": {
+     "yea": 208,
+     "not voting": 11,
+     "nay": 1
+    },
+    "D": {
+     "yea": 205,
+     "not voting": 7
+    }
+   },
+   "majority_party": "R",
+   "members": [
+    {
+     "icpsr": "14854",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "14863",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "14873",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "15029",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "15433",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "15448",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "15454",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "15616",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20104",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20107",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20119",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20122",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20124",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20138",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20145",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20301",
+     "vote": "not voting"
+    },
+    {
+     "icpsr": "20305",
+     "vote": "not voting"
+    },
+    {
+     "icpsr": "20310",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20316",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20321",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20322",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20329",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20342",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20344",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20355",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20356",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20501",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20504",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20517",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20521",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20522",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20529",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20530",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20533",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20535",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20537",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20538",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20704",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20706",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20708",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20709",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20712",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20724",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20725",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20729",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20733",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20738",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20748",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20749",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20755",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20756",
+     "vote": "not voting"
+    },
+    {
+     "icpsr": "20757",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20758",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20759",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20903",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20907",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20909",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20916",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20920",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20926",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20927",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20934",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20946",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20952",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20954",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20955",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20958",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21102",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21103",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21105",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21106",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21108",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21116",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21118",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21123",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21132",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21139",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21140",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21142",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21167",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21174",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21178",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21179",
+     "vote": "not voting"
+    },
+    {
+     "icpsr": "21191",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21196",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21198",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21302",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21303",
+     "vote": "not voting"
+    },
+    {
+     "icpsr": "21304",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21306",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21307",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21308",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21309",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21311",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21312",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21314",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21315",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21321",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21326",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21333",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21337",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21339",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21340",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21342",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21343",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21346",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21351",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21352",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21353",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21356",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21358",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21360",
+     "vote": "not voting"
+    },
+    {
+     "icpsr": "21362",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21364",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21365",
+     "vote": "not voting"
+    },
+    {
+     "icpsr": "21368",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21370",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21371",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21372",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21373",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21375",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21500",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21502",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21503",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21504",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21506",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21507",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21508",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21513",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21515",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21516",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21519",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21523",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21525",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21526",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21529",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21531",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21532",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21536",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21538",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21541",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21544",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21545",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21548",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21551",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21554",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21556",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21557",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21559",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21561",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21562",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21563",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21564",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21565",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21566",
+     "vote": "not voting"
+    },
+    {
+     "icpsr": "21700",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21701",
+     "vote": "not voting"
+    },
+    {
+     "icpsr": "21702",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21703",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21704",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21705",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21706",
+     "vote": "not voting"
+    },
+    {
+     "icpsr": "21709",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21711",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21714",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21715",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21717",
+     "vote": "not voting"
+    },
+    {
+     "icpsr": "21718",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21719",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21722",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21723",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21724",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21726",
+     "vote": "not voting"
+    },
+    {
+     "icpsr": "21727",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21728",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21730",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21731",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21735",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21740",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21741",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21744",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21745",
+     "vote": "not voting"
+    },
+    {
+     "icpsr": "21746",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21747",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21749",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21750",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21753",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21754",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21755",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21757",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21758",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21759",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21760",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21761",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21762",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21763",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21900",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21901",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21903",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21905",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21906",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21908",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21910",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21911",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21912",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21914",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21915",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21917",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21919",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21920",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21921",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21922",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21923",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21925",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21926",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21927",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21930",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21931",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21934",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21935",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21936",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21937",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21938",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21939",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21944",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21945",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21946",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21948",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21949",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21950",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21951",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21952",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21953",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21954",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21955",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21956",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21959",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21961",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21962",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21964",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21965",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21966",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21968",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21969",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21970",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21971",
+     "vote": "not voting"
+    },
+    {
+     "icpsr": "21972",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21974",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21975",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21977",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21978",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21979",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21981",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21983",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21986",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21987",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21988",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21989",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22100",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22101",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22102",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22103",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22105",
+     "vote": "not voting"
+    },
+    {
+     "icpsr": "22106",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22107",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22108",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22110",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22111",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22112",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22113",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22114",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22115",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22116",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22117",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22118",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22119",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22120",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22121",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22122",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22124",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22125",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22126",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22129",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22130",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22131",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22132",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22133",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22134",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22135",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22136",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22138",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22139",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22140",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22141",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22142",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22143",
+     "vote": "not voting"
+    },
+    {
+     "icpsr": "22145",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22146",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22147",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22148",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "22149",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22150",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22151",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22152",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22153",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22154",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22155",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22156",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22157",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22158",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22159",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22160",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22161",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22162",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22163",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22166",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22167",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22168",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22169",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22171",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22300",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22301",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22302",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22303",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22304",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22305",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22306",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22307",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22308",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22309",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22310",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22311",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22312",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22313",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22314",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22315",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22316",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22317",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22318",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22319",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22320",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22321",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22322",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22323",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22324",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22325",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22326",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22327",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22328",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22329",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22330",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22331",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22332",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22333",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22334",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22335",
+     "vote": "not voting"
+    },
+    {
+     "icpsr": "22336",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22337",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22338",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22339",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22340",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22341",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22342",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22343",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22344",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22345",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22346",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22347",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22348",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22349",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22350",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22351",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22352",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22353",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22354",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22355",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22356",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22357",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22358",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22359",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22360",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22361",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22363",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22364",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22365",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22366",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22367",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22368",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22369",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22370",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22371",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22372",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22374",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22375",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22376",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22377",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22378",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22379",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22380",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "22381",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29106",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29109",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29312",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29323",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29339",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29368",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29377",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29378",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29393",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29504",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29571",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29588",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29701",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29707",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29710",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29717",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29729",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29759",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29762",
+     "vote": "not voting"
+    },
+    {
+     "icpsr": "29768",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29776",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29778",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29901",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29903",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29908",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29910",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29911",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "31101",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "31102",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "39301",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "39307",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "91980",
+     "vote": "yea"
+    }
+   ]
+  }
+ ],
+ "recorded_vote": true,
+ "party_color": {
+  "side": "R",
+  "share": 0.504,
+  "r_yeas": 208,
+  "d_yeas": 205,
+  "shade": 0.007,
+  "party_line": null,
+  "zero_yeas_by_chamber": {
+   "House": []
+  }
+ },
+ "control": {
+  "House": "R"
+ },
+ "summary": null
+}

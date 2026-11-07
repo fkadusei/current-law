@@ -1,0 +1,37 @@
+{
+ "id": "pl-118-36",
+ "congress": 118,
+ "public_law": "118-36",
+ "bill": "S 3222",
+ "title": "A bill to ensure the security of office space rented by Senators, and for other purposes.",
+ "enacted": "2024-01-26",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Congress",
+ "sponsor": "Sen. Klobuchar, Amy [D-MN]",
+ "official_summary": "<p>This act establishes certain security-related exceptions to limitations on&nbsp;the size and cost of Senators' home state office space. (The size and cost limitations vary based on the population of the Senator's home state.)</p><p>The act specifies that any portion of home state office space that is used for building security or safety measures is not included in calculating the total amount of office space subject to applicable maximum size. The building safety and security measures must be (1) of a kind authorized by the Senate Committee on Rules and Administration and (2) approved by the&nbsp;Senate Sergeant at Arms and Doorkeeper of the Senate.</p><p>The act also specifies that an information technology security closet and a secure lobby or reception area are&nbsp;security or safety enhancements that are of a kind authorized by the Senate Committee on Rules and Administration.</p><p>The act also excludes the cost of building security and safety measures&nbsp;from the limitation on the cost of renting office space in the home state. Such costs must be (1) of a kind authorized by the Senate Committee on Rules and Administration, (2)&nbsp;approved by the Senate Sergeant at Arms and Doorkeeper of the Senate,&nbsp;and (3)&nbsp;itemized separately in a manner approved by the Senate Sergeant at Arms and Doorkeeper of the Senate.</p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s3222enr/xml/BILLS-118s3222enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s3222es/xml/BILLS-118s3222es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s3222cps/xml/BILLS-118s3222cps.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ36/uslm/PLAW-118publ36.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/senate-bill/3222",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

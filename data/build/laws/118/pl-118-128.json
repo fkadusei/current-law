@@ -1,0 +1,40 @@
+{
+ "id": "pl-118-128",
+ "congress": 118,
+ "public_law": "118-128",
+ "bill": "HR 7333",
+ "title": "To name the Department of Veterans Affairs medical center in West Palm Beach, Florida, as the \"Thomas H. Corey VA Medical Center\".",
+ "enacted": "2024-11-25",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Rep. Mast, Brian J. [R-FL-21]",
+ "official_summary": "<p>This act designates the medical center of the Department of Veterans Affairs in West Palm Beach, Florida, as the Thomas H. Corey VA Medical Center.</p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr7333enr/xml/BILLS-118hr7333enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr7333rfs/xml/BILLS-118hr7333rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr7333eh/xml/BILLS-118hr7333eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr7333ih/xml/BILLS-118hr7333ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ128/uslm/PLAW-118publ128.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/house-bill/7333",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

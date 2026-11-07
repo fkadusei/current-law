@@ -1,0 +1,43 @@
+{
+ "id": "pl-118-81",
+ "congress": 118,
+ "public_law": "118-81",
+ "bill": "HR 7377",
+ "title": "Royalty Resiliency Act",
+ "enacted": "2024-09-20",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Energy",
+ "sponsor": "Rep. Hunt, Wesley [R-TX-38]",
+ "official_summary": "<p><strong>Royalty Resiliency Act</strong></p><p>This act modifies the process under which oil and gas leaseholders who have entered into certain joint drilling agreements (i.e., a communitization agreement or a unit agreement, except agreements containing Indian lands) to drill wells on leased land pay royalties to the Department of the Interior under the Federal Oil and Gas Royalty Management Act of 1982.</p><p>Under current law, Interior must issue a determination of allocations of royalty payments for oil and gas production under a joint agreement within 120 days of a request for determination. Generally, the first leaseholder to drill must pay any royalties due to Interior for all oil and gas production on the land subject to the agreement until Interior determines the royalty allocations of each leaseholder. If Interior fails to issue the determination by that deadline, then it must waive interest due on royalty obligations until the end of the month following the month in which the determination was made.</p><p>Under the act, a leaseholder must pay royalties on oil and gas production based on the lessee's proposed allocation of production under the joint agreement until Interior issues a determination of royalty allocations. After Interior issues the determination, then the lessee must correct, if necessary, the amount of royalties paid by the end of the third month following the month in which the lessee received the determination from Interior. Subject to the full and timely payment of monthly royalties in accordance with the agreement,&nbsp;Interior must waive interest due on royalty obligations until the end of the third month.&nbsp;&nbsp;&nbsp;</p><!--tinycomments|2.1|data:application/json;base64,eyJtY2UtY29udmVyc2F0aW9uXzc1NjIxMjkyODIxNzIwNDU1NDg5MDk2Ijp7InVpZCI6Im1jZS1jb252ZXJzYXRpb25fNzU2MjEyOTI4MjE3MjA0NTU0ODkwOTYiLCJjb21tZW50cyI6W3sidWlkIjoibWNlLWNvbnZlcnNhdGlvbl83NTYyMTI5MjgyMTcyMDQ1NTQ4OTA5NiIsImF1dGhvciI6ImNpc2VuYmVyZ0BsaWIubG9jLmdvdiIsImF1dGhvck5hbWUiOiJjaXNlbmJlcmdAbGliLmxvYy5nb3YiLCJjb250ZW50IjoiSSBtYWRlIG1pbm9yIGNoYW5nZXMgdG8gdGhlIGZpcnN0IHNlbnRlbmNlIGZvciByZWFkYWJpbGl0eS4gIiwiY3JlYXRlZEF0IjoiMjAyNC0wNy0wOFQxNjoxODowOS4wOTZaIiwibW9kaWZpZWRBdCI6IjIwMjQtMDctMDhUMTY6MTg6MDkuMDk2WiJ9XX0sIm1jZS1jb252ZXJzYXRpb25fNjA2ODk5MDA2MzE3MjA0NTU1NzU1MzUiOnsidWlkIjoibWNlLWNvbnZlcnNhdGlvbl82MDY4OTkwMDYzMTcyMDQ1NTU3NTUzNSIsImNvbW1lbnRzIjpbeyJ1aWQiOiJtY2UtY29udmVyc2F0aW9uXzYwNjg5OTAwNjMxNzIwNDU1NTc1NTM1IiwiYXV0aG9yIjoiY2lzZW5iZXJnQGxpYi5sb2MuZ292IiwiYXV0aG9yTmFtZSI6ImNpc2VuYmVyZ0BsaWIubG9jLmdvdiIsImNvbnRlbnQiOiJJIGRlbGV0ZWQgXCJ0aGVcIiBiZWZvcmUgSW50ZXJpb3IgZm9yIGNvbnNpc3RlbmN5IHdpdGggdGhlIG90aGVyIHJlZmVyZW5jZXMgdG8gSW50ZXJpb3IgaW4gdGhlIHN1bW1hcnkuICBJIHRoaW5rIHRoaXMgaXMgYWxzbyBjb25zaXN0ZW50IHdpdGggdGhlIHN0eWxlIHdlJ3ZlIHVzdWFsbHkgdXNlZCBmb3IgSW50ZXJpb3IuICIsImNyZWF0ZWRBdCI6IjIwMjQtMDctMDhUMTY6MTk6MzUuNTM1WiIsIm1vZGlmaWVkQXQiOiIyMDI0LTA3LTA4VDE2OjE5OjM1LjUzNVoifV19LCJtY2UtY29udmVyc2F0aW9uXzU3Mjc3NDA0NjIxNzIwNzI0NDY1ODkyIjp7InVpZCI6Im1jZS1jb252ZXJzYXRpb25fNTcyNzc0MDQ2MjE3MjA3MjQ0NjU4OTIiLCJjb21tZW50cyI6W3sidWlkIjoibWNlLWNvbnZlcnNhdGlvbl81NzI3NzQwNDYyMTcyMDcyNDQ2NTg5MiIsImF1dGhvciI6ImNpc2VuYmVyZ0BsaWIubG9jLmdvdiIsImF1dGhvck5hbWUiOiJjaXNlbmJlcmdAbGliLmxvYy5nb3YiLCJjb250ZW50IjoiSSB1c2VkIHRoZSBzYW1lIHBocmFzaW5nIGFzIHRoZSBiaWxsIGhlcmUgYmVjYXVzZSB0aGUgbWVhbmluZyBvZiBcInN1YmplY3QgdG9cIiBzZWVtZWQgYSBsaXR0bGUgdmFndWUgdG8gbWUgaW4gdGhpcyBjb250ZXh0LCBhbmQgdGhlIHN1bW1hcnkgbGFuZ3VhZ2Ugc2VlbXMgYSBsaXR0bGUgbW9yZSBzcGVjaWZpYyB0aGFuIHRoZSBiaWxsIGxhbmd1YWdlLiAgQWxzbywgdGhpcyBpc3N1ZSB3YXMgcmFpc2VkIGluIEJMTSdzIHRlc3RpbW9ueSwgYW5kIHRoZSBzcGVjaWZpYyB3b3JkaW5nIGhlcmUgbWF5IGJlIHNpZ25pZmljYW50LiAgaHR0cHM6Ly93d3cuZG9pLmdvdi9vY2wvcGVuZGluZy1sZWdpc2xhdGlvbi03MSIsImNyZWF0ZWRBdCI6IjIwMjQtMDctMTFUMTk6MDE6MDUuODkxWiIsIm1vZGlmaWVkQXQiOiIyMDI0LTA3LTEyVDEwOjM3OjUzLjI3MVoifV19LCJtY2UtY29udmVyc2F0aW9uXzYyMzYyNjEyNjMxNzIwNzI0NTE3MDI2Ijp7InVpZCI6Im1jZS1jb252ZXJzYXRpb25fNjIzNjI2MTI2MzE3MjA3MjQ1MTcwMjYiLCJjb21tZW50cyI6W3sidWlkIjoibWNlLWNvbnZlcnNhdGlvbl82MjM2MjYxMjYzMTcyMDcyNDUxNzAyNiIsImF1dGhvciI6ImNpc2VuYmVyZ0BsaWIubG9jLmdvdiIsImF1dGhvck5hbWUiOiJjaXNlbmJlcmdAbGliLmxvYy5nb3YiLCJjb250ZW50IjoiSSBhZGRlZCBcImNlcnRhaW5cIiBoZXJlIHRvIGFjY291bnQgZm9yIHRoZSBleGNsdXNpb24gb2YgdGhlIGFncmVlbWVudHMgb24gSW5kaWFuIGxhbmRzLiAiLCJjcmVhdGVkQXQiOiIyMDI0LTA3LTExVDE5OjAxOjU3LjAyNloiLCJtb2RpZmllZEF0IjoiMjAyNC0wNy0xMVQxOTowMTo1Ny4wMjZaIn1dfSwibWNlLWNvbnZlcnNhdGlvbl8zNDY0ODMxMjgyMTcyOTYxNDU2OTU4OSI6eyJ1aWQiOiJtY2UtY29udmVyc2F0aW9uXzM0NjQ4MzEyODIxNzI5NjE0NTY5NTg5IiwiY29tbWVudHMiOlt7InVpZCI6Im1jZS1jb252ZXJzYXRpb25fMzQ2NDgzMTI4MjE3Mjk2MTQ1Njk1ODkiLCJhdXRob3IiOiJjaXNlbmJlcmdAbGliLmxvYy5nb3YiLCJhdXRob3JOYW1lIjoiY2lzZW5iZXJnQGxpYi5sb2MuZ292IiwiY29udGVudCI6IkkgY2hhbmdlZCBcImJpbGxcIiB0byBcImFjdFwiIGJlY2F1c2Ugb3VyIGN1cnJlbnQgc3R5bGUgZ3VpZGFuY2UgaXMgdG8gdXNlIFwidGhpcyBhY3RcIiBmb3IgcHVibGljIGxhdyBzdW1tYXJpZXMuICIsImNyZWF0ZWRBdCI6IjIwMjQtMTAtMjJUMTY6Mjk6MjkuNTg4WiIsIm1vZGlmaWVkQXQiOiIyMDI0LTEwLTIyVDE2OjI5OjI5LjU4OFoifV19fQ==-->",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr7377enr/xml/BILLS-118hr7377enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr7377rds/xml/BILLS-118hr7377rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr7377eh/xml/BILLS-118hr7377eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr7377rh/xml/BILLS-118hr7377rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr7377ih/xml/BILLS-118hr7377ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ81/uslm/PLAW-118publ81.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/house-bill/7377",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

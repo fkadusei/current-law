@@ -1,0 +1,43 @@
+{
+ "id": "pl-118-130",
+ "congress": 118,
+ "public_law": "118-130",
+ "bill": "HR 7777",
+ "title": "Veterans’ Compensation Cost-of-Living Adjustment Act of 2024",
+ "enacted": "2024-11-25",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Rep. Luttrell, Morgan [R-TX-8]",
+ "official_summary": "<p><strong>Veterans' Compensation Cost-of-Living Adjustment Act of 2024 </strong></p><p>This act requires the Department of Veterans Affairs (VA) to increase the amounts payable for wartime disability compensation, additional compensation for dependents, the clothing allowance for certain disabled veterans, and dependency and indemnity compensation for surviving spouses and children. Specifically, the VA must increase the amounts by the same percentage as the cost-of-living increase in benefits for Social Security recipients that is effective on December 1, 2024. The act requires the VA to publish the amounts payable, as increased, in the Federal Register.</p><p>The VA is authorized to make a similar adjustment to the rates of disability compensation payable to persons who have not received compensation for service-connected disability or death.</p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr7777enr/xml/BILLS-118hr7777enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr7777rds/xml/BILLS-118hr7777rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr7777eh/xml/BILLS-118hr7777eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr7777rh/xml/BILLS-118hr7777rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr7777ih/xml/BILLS-118hr7777ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ130/uslm/PLAW-118publ130.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/house-bill/7777",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

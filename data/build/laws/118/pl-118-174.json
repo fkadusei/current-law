@@ -1,0 +1,43 @@
+{
+ "id": "pl-118-174",
+ "congress": 118,
+ "public_law": "118-174",
+ "bill": "HR 5770",
+ "title": "Water Monitoring and Tracking Essential Resources (WATER) Data Improvement Act",
+ "enacted": "2024-12-23",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Water Resources Development",
+ "sponsor": "Rep. Neguse, Joe [D-CO-2]",
+ "official_summary": "<p><strong>Water Monitoring and Tracking Essential Resources (WATER)&nbsp;Data Improvement Act</strong></p><p>This act reauthorizes through FY2028 the following&nbsp;initiatives of the United States Geological Survey (USGS): (1) Federal Priority Streamgage program (previously known as the National Streamflow Information Program); (2) groundwater monitoring program, including the National Groundwater Monitoring Network; and (3) grants for water estimation, measurement, and monitoring technologies and methodologies.</p><p>The act also modifies the Federal Priority Streamgage program, which measures and tracks the amount of water in nationally significant watersheds and provides information about those watersheds and their conditions, such as floods and droughts. Currently, the USGS must ensure that all streamgages are equipped with water-quality sensors. The act requires that those sensors are precipitation water-quality sensors. The act also requires each streamgage site to conform with the federal needs established through regular solicitation and feedback, such as that documented in the report titled <em>Re-prioritization of the U.S. Geological Survey Federal Priority streamgage program, 2022</em>.</p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr5770enr/xml/BILLS-118hr5770enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr5770rfs/xml/BILLS-118hr5770rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr5770eh/xml/BILLS-118hr5770eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr5770rh/xml/BILLS-118hr5770rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr5770ih/xml/BILLS-118hr5770ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ174/uslm/PLAW-118publ174.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/house-bill/5770",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

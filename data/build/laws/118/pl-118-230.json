@@ -1,0 +1,46 @@
+{
+ "id": "pl-118-230",
+ "congress": 118,
+ "public_law": "118-230",
+ "bill": "HR 5443",
+ "title": "AACE Act",
+ "enacted": "2025-01-04",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Public Lands and Natural Resources",
+ "sponsor": "Rep. Lee, Susie [D-NV-3]",
+ "official_summary": "<p><strong>Accelerating Appraisals and Conservation Efforts Act or AACE Act</strong></p><p>This act relaxes requirements for the Department of the Interior in appraising and valuing real property for transactions over which Interior has jurisdiction.</p><p>Specifically, a private real property appraiser needs only to be licensed or certified in one state to perform appraisal or valuation services for real property over which Interior has jurisdiction. Currently, if a private assessor is used for a real property transaction within Interior's jurisdiction, that assessor must be licensed or certified in the state where that transaction occurs.&nbsp;</p><p>When using private appraisers, Interior shall, to the maximum extent practicable, use private appraisers who are certified general real property appraisers licensed in the state where the transaction occurs.</p><p>Additionally, Interior may use a private appraiser who is licensed outside the state in which the transaction occurs only if private appraisers licensed in that state are unavailable, not assignment qualified, or not cost competitive. Interior must make the text of all policies related to such appraisals public.</p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr5443enr/xml/BILLS-118hr5443enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr5443rs/xml/BILLS-118hr5443rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr5443rfs/xml/BILLS-118hr5443rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr5443eh/xml/BILLS-118hr5443eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr5443rh/xml/BILLS-118hr5443rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr5443ih/xml/BILLS-118hr5443ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ230/uslm/PLAW-118publ230.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/house-bill/5443",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

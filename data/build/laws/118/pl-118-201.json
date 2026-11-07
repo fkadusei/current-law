@@ -1,0 +1,40 @@
+{
+ "id": "pl-118-201",
+ "congress": 118,
+ "public_law": "118-201",
+ "bill": "S 3946",
+ "title": "A bill to designate the facility of the United States Postal Service located at 1106 Main Street in Bastrop, Texas, as the \"Sergeant Major Billy D. Waugh Post Office\".",
+ "enacted": "2024-12-23",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Sen. Cruz, Ted [R-TX]",
+ "official_summary": "<p>This act designates the facility of the U.S. Postal Service located at 1106 Main Street in Bastrop, Texas, as the Sergeant Major Billy D. Waugh Post Office.</p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s3946enr/xml/BILLS-118s3946enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s3946es/xml/BILLS-118s3946es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s3946rs/xml/BILLS-118s3946rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s3946is/xml/BILLS-118s3946is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ201/uslm/PLAW-118publ201.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/senate-bill/3946",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

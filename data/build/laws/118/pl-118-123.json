@@ -1,0 +1,46 @@
+{
+ "id": "pl-118-123",
+ "congress": 118,
+ "public_law": "118-123",
+ "bill": "HR 6249",
+ "title": "Think Differently About Emergencies Act",
+ "enacted": "2024-11-25",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Emergency Management",
+ "sponsor": "Rep. Molinaro, Marcus J. [R-NY-19]",
+ "official_summary": "<p><strong>Think Differently About Emergencies Act</strong></p><p>This act requires the Federal Emergency Management Agency (FEMA) and the Government Accountability Office (GAO) to report to Congress regarding assistance and resources provided by FEMA to persons with intellectual and developmental disabilities and the families of such individuals who are impacted by major disasters.</p><p>Specifically, FEMA must report within 120 days of this act's enactment, describing the assistance and resources that FEMA provides to such individuals and families through states, localities, nonprofit organizations, and individuals.</p><p>Further, FEMA and GAO must each (1) review such assistance and resources, (2) identify potential legal impediments to providing such assistance and resources, and (3) provide recommendations to Congress.</p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr6249enr/xml/BILLS-118hr6249enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr6249rs/xml/BILLS-118hr6249rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr6249rfs/xml/BILLS-118hr6249rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr6249eh/xml/BILLS-118hr6249eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr6249rh/xml/BILLS-118hr6249rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr6249ih/xml/BILLS-118hr6249ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ123/uslm/PLAW-118publ123.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/house-bill/6249",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,40 @@
+{
+ "id": "pl-118-96",
+ "congress": 118,
+ "public_law": "118-96",
+ "bill": "S 670",
+ "title": "IMPACTT Human Trafficking Act",
+ "enacted": "2024-10-01",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Immigration",
+ "sponsor": "Sen. Peters, Gary C. [D-MI]",
+ "official_summary": "<p><strong>IMPACTT Human Trafficking Act</strong></p><p>This act provides statutory authority for and modifies two programs within Homeland Security Investigations (HSI)—an operational unit within U.S. Immigration and Customs Enforcement (ICE). The programs are the Investigators Maintain Purposeful Awareness to Combat Trafficking Trauma (IMPACTT) Program, which provides support to&nbsp;employees who have been exposed to various forms of trauma related to working with victims of human trafficking, and the&nbsp;Victim Assistance Program (VAP), which provides&nbsp;support to victims of human trafficking.</p><p>(Sec. 2)  The act requires the IMPACTT Program to include (1) self-awareness training for employees on recognizing the signs of burnout, compassion fatigue, and other trauma-related signs; and (2) training materials detailing resources within ICE (e.g., Employees Assistance Program, Peer Support Program) and resources outside ICE (which may include faith-based resources). The program must also provide frontline supervisors with additional training on recognizing when the employees they supervise show signs of burnout, compassion fatigue, vicarious trauma, and other responses to such work. The bill specifies that training modules must be carried out by licensed and accredited clinicians with relevant training and experience.</p><p>(Sec. 3) Under the act, VAP must provide oversight, guidance, training, travel, equipment, and coordination to HSI victim assistance personnel. VAP must recruit at least (1) one forensic interview specialist and one victim assistance specialist for each HSI Special Agent in Charge office; (2) one victim assistance specialist for each HSI office participating in a human trafficking task force; and (3) one victim assistance specialist for each HSI office participating in a child sexual exploitation task force. Additionally, the program must train personnel on victims' rights and victim-related policies.</p><p>Further, the program is authorized to purchase emergency items that are needed to assist identified victims in HSI criminal investigations. The emergency items include food, clothing, hygiene products, transportation, and temporary shelter that is not otherwise provided by a nongovernmental organization.</p><p>(Sec. 4) The act directs the Department of Homeland Security to report to Congress, one year after the act's enactment and annually thereafter (1) the number of trainings provided through the IMPACTT Program; (2) the number of personnel who received such training; and (3) the number of human trafficking victims assisted by VAP.</p><p>(Sec. 6) The act's provisions cease to apply on October 1, 2030.</p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s670enr/xml/BILLS-118s670enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s670es/xml/BILLS-118s670es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s670rs/xml/BILLS-118s670rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s670is/xml/BILLS-118s670is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ96/uslm/PLAW-118publ96.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/senate-bill/670",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

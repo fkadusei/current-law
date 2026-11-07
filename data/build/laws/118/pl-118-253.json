@@ -1,0 +1,40 @@
+{
+ "id": "pl-118-253",
+ "congress": 118,
+ "public_law": "118-253",
+ "bill": "HR 8841",
+ "title": "To designate the facility of the United States Postal Service located at 114 Center Street East in Roseau, Minnesota, as the \"Floyd B. Olson Post Office\".",
+ "enacted": "2025-01-04",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Fischbach, Michelle [R-MN-7]",
+ "official_summary": "<p>This act designates the facility of the U.S. Postal Service located at 114 Center Street East in Roseau, Minnesota, as the Floyd B. Olson Post Office.</p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr8841enr/xml/BILLS-118hr8841enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr8841rfs/xml/BILLS-118hr8841rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr8841eh/xml/BILLS-118hr8841eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr8841ih/xml/BILLS-118hr8841ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ253/uslm/PLAW-118publ253.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/house-bill/8841",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

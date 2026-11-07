@@ -1,0 +1,43 @@
+{
+ "id": "pl-118-233",
+ "congress": 118,
+ "public_law": "118-233",
+ "bill": "HR 6395",
+ "title": "Recognizing the Importance of Critical Minerals in Healthcare Act of 2023",
+ "enacted": "2025-01-04",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Public Lands and Natural Resources",
+ "sponsor": "Rep. Curtis, John R. [R-UT-3]",
+ "official_summary": "<p><strong>Recognizing the Importance of Critical Minerals in Healthcare Act of 2023</strong></p><p>This act requires the Department of the Interior to include the Department of Health and Human Services in consultations regarding designations of critical minerals, elements, substances, and materials.</p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr6395enr/xml/BILLS-118hr6395enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr6395rfs/xml/BILLS-118hr6395rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr6395eh/xml/BILLS-118hr6395eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr6395rh/xml/BILLS-118hr6395rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr6395ih/xml/BILLS-118hr6395ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ233/uslm/PLAW-118publ233.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/house-bill/6395",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

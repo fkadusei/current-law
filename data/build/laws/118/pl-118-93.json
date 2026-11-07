@@ -1,0 +1,40 @@
+{
+ "id": "pl-118-93",
+ "congress": 118,
+ "public_law": "118-93",
+ "bill": "S 134",
+ "title": "Alzheimer’s Accountability and Investment Act",
+ "enacted": "2024-10-01",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Health",
+ "sponsor": "Sen. Collins, Susan M. [R-ME]",
+ "official_summary": "<p><strong>Alzheimer's Accountability and Investment Act</strong></p><p>This act&nbsp;requires the National Institutes of Health to annually submit, beginning in FY2024, an estimate of its budget and personnel needs for carrying out initiatives pursuant to the National Alzheimer's Project directly to the President for review and transmittal to Congress. The Department of Health and Human Services and the Advisory Council on Alzheimer's Research, Care, and Services may comment on the budget estimate but may not change it.</p><p>The National Alzheimer's Project supports coordination of federal planning, research, and other efforts to address Alzheimer's disease and related dementias.</p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s134enr/xml/BILLS-118s134enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s134es/xml/BILLS-118s134es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s134rs/xml/BILLS-118s134rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s134is/xml/BILLS-118s134is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ93/uslm/PLAW-118publ93.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/senate-bill/134",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

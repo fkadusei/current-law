@@ -1,0 +1,40 @@
+{
+ "id": "pl-118-250",
+ "congress": 118,
+ "public_law": "118-250",
+ "bill": "HR 8666",
+ "title": "To amend title 28, United States Code, to authorize holding court for the Central Division of Utah in Moab and Monticello.",
+ "enacted": "2025-01-04",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Law",
+ "sponsor": "Rep. Maloy, Celeste [R-UT-2]",
+ "official_summary": "<p>This act adds Moab and Monticello to the list of places where court must be held in the Central Division of the U.S. District Court of Utah.</p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr8666enr/xml/BILLS-118hr8666enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr8666rfs/xml/BILLS-118hr8666rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr8666eh/xml/BILLS-118hr8666eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr8666ih/xml/BILLS-118hr8666ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ250/uslm/PLAW-118publ250.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/house-bill/8666",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

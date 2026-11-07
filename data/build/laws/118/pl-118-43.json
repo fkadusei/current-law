@@ -1,0 +1,40 @@
+{
+ "id": "pl-118-43",
+ "congress": 118,
+ "public_law": "118-43",
+ "bill": "S 206",
+ "title": "END FENTANYL Act",
+ "enacted": "2024-03-18",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Crime and Law Enforcement",
+ "sponsor": "Sen. Scott, Rick [R-FL]",
+ "official_summary": "<p><strong>Eradicating Narcotic Drugs and Formulating Effective New Tools to Address National Yearly Losses of life Act or the END FENTANYL Act</strong></p><p>This act requires U.S. Customs and Border Protection (CBP) to review and update certain manuals and policies related to inspections at ports of entry at least once every three years. Specifically, CPB’s review and updates must ensure inspection practices effectively respond to technological and methodological changes designed to disguise illegal activity along the border, such as the smuggling of drugs and humans.</p><p>The act also requires that CPB provide the Senate Committee on Homeland Security and Governmental Affairs and the House Committee on Homeland Security with a report summarizing the changes made by such an update.</p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s206enr/xml/BILLS-118s206enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s206es/xml/BILLS-118s206es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s206rs/xml/BILLS-118s206rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s206is/xml/BILLS-118s206is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ43/uslm/PLAW-118publ43.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/senate-bill/206",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

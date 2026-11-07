@@ -1,0 +1,43 @@
+{
+ "id": "pl-118-176",
+ "congress": 118,
+ "public_law": "118-176",
+ "bill": "HR 6829",
+ "title": "HEARTS Act of 2024",
+ "enacted": "2024-12-23",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Health",
+ "sponsor": "Rep. Pallone, Frank, Jr. [D-NJ-6]",
+ "official_summary": "<p><strong>Cardiomyopathy Health Education, Awareness, and Research, and AED Training in the Schools Act of 2024 or the HEARTS Act of 2024</strong></p><p>This act&nbsp;establishes a series of programs and requirements relating to cardiomyopathy. (Cardiomyopathy refers to a collection of diverse conditions of the heart muscle that can affect the ability of the heart to pump blood.)</p><p>Specifically, the Department of Health and Human Services must disseminate information about cardiomyopathy and the use of automated external defibrillators (AEDs) to certain school professionals, families, and others, and it must develop specified risk assessment tools for cardiomyopathy. In addition, the Centers for Disease Control and Prevention must report on certain research and surveillance activities, and the National Institutes of Health must report on its research relating to cardiomyopathy.&nbsp;</p><p>The act&nbsp;also establishes a grant program to provide cardiopulmonary resuscitation (CPR) training and AEDs in public schools.</p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr6829enr/xml/BILLS-118hr6829enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr6829rfs/xml/BILLS-118hr6829rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr6829eh/xml/BILLS-118hr6829eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr6829rh/xml/BILLS-118hr6829rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr6829ih/xml/BILLS-118hr6829ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ176/uslm/PLAW-118publ176.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/house-bill/6829",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

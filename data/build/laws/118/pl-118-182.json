@@ -1,0 +1,43 @@
+{
+ "id": "pl-118-182",
+ "congress": 118,
+ "public_law": "118-182",
+ "bill": "HR 7524",
+ "title": "GSA Technology Accountability Act",
+ "enacted": "2024-12-23",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Sessions, Pete [R-TX-17]",
+ "official_summary": "<p><strong>GSA Technology Accountability Act</strong></p><p>This act requires the General Services Administration to report annually to Congress on each program funded by (1) the Federal Citizen Services Fund,&nbsp;or (2) the Acquisition Services Fund for technology transformation services.</p><p>The reports must include&nbsp;a list of each program funded by such expenditures during the previous fiscal year, or that have been funded by such expenditures in the previous five-year period, along with the following information for each program:&nbsp;</p><ul><li>an explanation of the program;</li><li>information about how the program is funded;</li><li>a description of projects or initiatives associated with the program;</li><li>if applicable, the amount of reimbursements associated with or anticipated to be associated with the program from other sources of funds or another agency; and</li><li>if applicable, any additional information, data, or analysis used to determine the information estimated within the report.</li></ul><p>The amendments made by this act shall take effect at the start of the first fiscal year after the date of the enactment.</p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr7524enr/xml/BILLS-118hr7524enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr7524rs/xml/BILLS-118hr7524rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr7524rfs/xml/BILLS-118hr7524rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr7524eh/xml/BILLS-118hr7524eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr7524ih/xml/BILLS-118hr7524ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ182/uslm/PLAW-118publ182.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/house-bill/7524",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

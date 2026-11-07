@@ -1,0 +1,43 @@
+{
+ "id": "pl-118-14",
+ "congress": 118,
+ "public_law": "118-14",
+ "bill": "HR 2544",
+ "title": "Securing the U.S. Organ Procurement and Transplantation Network Act",
+ "enacted": "2023-09-22",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Health",
+ "sponsor": "Rep. Bucshon, Larry [R-IN-8]",
+ "official_summary": "<p><b>Securing the U.S. Organ Procurement and Transplantation Network Act</b></p> <p>This bill modifies how the Health Resources and Services Administration (HRSA) funds and manages the Organ Procurement and Transplantation Network.</p> <p>This network is a public-private partnership that links the professionals involved in the U.S. donation and transplantation system. Historically, only one organization has received a contract for managing the network.</p> <p>The bill expressly authorizes HRSA to award multiple grants, contracts, or cooperative agreements to support the operation of the network and eliminates a cap on the amount of funding available for supporting the network. The bill also specifies that the network shall be operated through awards that are distinct from awards for supporting the operation of the network's board of directors.</p> <p>Additionally, the Government Accountability Office must review the historical financing of the network, including the use of registration fees.</p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr2544enr/xml/BILLS-118hr2544enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr2544rds/xml/BILLS-118hr2544rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr2544eh/xml/BILLS-118hr2544eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr2544rh/xml/BILLS-118hr2544rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr2544ih/xml/BILLS-118hr2544ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ14/uslm/PLAW-118publ14.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/house-bill/2544",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

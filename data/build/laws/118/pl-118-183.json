@@ -1,0 +1,43 @@
+{
+ "id": "pl-118-183",
+ "congress": 118,
+ "public_law": "118-183",
+ "bill": "HR 7872",
+ "title": "Colorado River Salinity Control Fix Act",
+ "enacted": "2024-12-23",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Water Resources Development",
+ "sponsor": "Rep. Curtis, John R. [R-UT-3]",
+ "official_summary": "<p><strong>Colorado River Salinity Control Fix Act</strong></p><p>This act modifies the Colorado River Basin Salinity Control Program to increase&nbsp;the federal cost share of salinity control projects that reduce the salt load in the Colorado River and other waters in the basin. The program supports&nbsp;salinity control projects or research in the (1) Upper&nbsp;Colorado River Basin in Colorado, New Mexico, Utah, and Wyoming; and (2) the Lower Colorado River Basin in&nbsp;Arizona, California, and Nevada. The program receives funding from appropriations for nonreimbursable costs and power revenues for reimbursable costs.</p><p>The act increases the percentages of nonreimbursable costs to&nbsp;increase support provided to the Lower Colorado River Basin.</p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr7872enr/xml/BILLS-118hr7872enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr7872rds/xml/BILLS-118hr7872rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr7872eh/xml/BILLS-118hr7872eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr7872rh/xml/BILLS-118hr7872rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr7872ih/xml/BILLS-118hr7872ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ183/uslm/PLAW-118publ183.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/house-bill/7872",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,40 @@
+{
+ "id": "pl-118-46",
+ "congress": 118,
+ "public_law": "118-46",
+ "bill": "S 1278",
+ "title": "A bill to designate the Federal building located at 985 Michigan Avenue in Detroit, Michigan, as the \"Rosa Parks Federal Building\", and for other purposes.",
+ "enacted": "2024-03-22",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Sen. Stabenow, Debbie [D-MI]",
+ "official_summary": "<p>This act designates the federal building located at 985 Michigan Avenue in Detroit, Michigan, as the Rosa Parks Federal Building.</p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s1278enr/xml/BILLS-118s1278enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s1278es/xml/BILLS-118s1278es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s1278rs/xml/BILLS-118s1278rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s1278is/xml/BILLS-118s1278is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ46/uslm/PLAW-118publ46.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/senate-bill/1278",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

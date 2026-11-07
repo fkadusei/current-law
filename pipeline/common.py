@@ -24,11 +24,11 @@ def current_congress(year: int | None = None) -> int:
     return (year - 1789) // 2 + 1
 
 
-def fetch(url: str, *, retries: int = 4, timeout: int = 60) -> bytes:
+def fetch(url: str, *, retries: int = 4, timeout: int = 60, headers: dict | None = None) -> bytes:
     """GET a URL with simple exponential backoff on rate limits and network errors."""
     delay = 2
     for attempt in range(retries + 1):
-        req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
+        req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT, **(headers or {})})
         try:
             with urllib.request.urlopen(req, timeout=timeout) as resp:
                 return resp.read()
@@ -93,8 +93,10 @@ PRESIDENTS = [
 ]
 
 
-def president_on(date: str) -> dict:
+def president_on(date: str) -> dict | None:
     """Return the president in office on an ISO date (YYYY-MM-DD)."""
+    if not date or date < PRESIDENTS[0][3]:
+        return None
     current = PRESIDENTS[0]
     for p in PRESIDENTS:
         if p[3] <= date:

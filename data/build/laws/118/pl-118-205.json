@@ -1,0 +1,40 @@
+{
+ "id": "pl-118-205",
+ "congress": 118,
+ "public_law": "118-205",
+ "bill": "S 4107",
+ "title": "Think Differently Transportation Act",
+ "enacted": "2024-12-23",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Transportation and Public Works",
+ "sponsor": "Sen. Duckworth, Tammy [D-IL]",
+ "official_summary": "<p><strong>Think Differently Transportation Act</strong></p><p>This act requires the National Railroad Passenger Corporation (Amtrak) to include information on compliance with the Americans with Disabilities Act of 1990 (ADA) in a required annual report to Congress.</p><p>Specifically, Amtrak must incorporate into the annual report an action plan for bringing Amtrak stations into compliance with the ADA as required by a 2020 settlement agreement entered into between Amtrak and the Department of Justice. (Under the agreement, Amtrak committed to complying with the ADA and making intercity rail stations accessible.)</p><p>Amtrak must also include a status report on ADA compliance at Amtrak-served stations (based on a station assessment by Amtrak or the party responsible for ADA compliance). For those Amtrak-served stations where Amtrak is not responsible for ADA compliance, Amtrak must include in the report information on the responsible party.&nbsp;Amtrak may meet these requirements by demonstrating that Amtrak took reasonable measures to obtain cooperation from responsible entities.</p><p>Further, Amtrak must annually submit&nbsp;the action plan and status report while the settlement agreement is in effect and&nbsp;every five years once the agreement&nbsp;is no longer in effect.</p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s4107enr/xml/BILLS-118s4107enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s4107es/xml/BILLS-118s4107es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s4107rs/xml/BILLS-118s4107rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s4107is/xml/BILLS-118s4107is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ205/uslm/PLAW-118publ205.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/senate-bill/4107",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,43 @@
+{
+ "id": "pl-118-229",
+ "congress": 118,
+ "public_law": "118-229",
+ "bill": "HR 5103",
+ "title": "FISHES Act",
+ "enacted": "2025-01-04",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Public Lands and Natural Resources",
+ "sponsor": "Rep. Donalds, Byron [R-FL-19]",
+ "official_summary": "<p><strong>Fishery Improvement to Streamline untimely regulatory Hurdles post Emergency Situation Act or the FISHES Act</strong></p><p>This act establishes procedures for the review of spend plans&nbsp;submitted to the National Oceanic and Atmospheric Administration (NOAA) by requesters seeking fishery resource disaster assistance funding.</p><p>The act requires&nbsp;NOAA to review a spend plan within 10 days of its submission and determine whether it is complete. If such spend plan is not complete, NOAA must provide the requester (i.e., prospective grantee) with a detailed description of the information that is necessary for the spend plan to be determined complete. Further, NOAA must notify a requester when the spend plan has been determined to be complete.&nbsp;</p><p>Under current law,&nbsp;fishery resource disaster assistance&nbsp;funds must be disbursed to approved grantees within 90 days after NOAA has received a completed spend plan. The act provides that the Office of Management and Budget (OMB) may review a completed spend plan concurrently with&nbsp;NOAA, provided OMB's review does not delay the 90-day timeline for providing funds to the grantee.</p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr5103enr/xml/BILLS-118hr5103enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr5103rfs/xml/BILLS-118hr5103rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr5103eh/xml/BILLS-118hr5103eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr5103rh/xml/BILLS-118hr5103rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr5103ih/xml/BILLS-118hr5103ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ229/uslm/PLAW-118publ229.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/house-bill/5103",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

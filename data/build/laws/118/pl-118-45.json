@@ -1,0 +1,40 @@
+{
+ "id": "pl-118-45",
+ "congress": 118,
+ "public_law": "118-45",
+ "bill": "S 992",
+ "title": "I-27 Numbering Act of 2023",
+ "enacted": "2024-03-22",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Transportation and Public Works",
+ "sponsor": "Sen. Cruz, Ted [R-TX]",
+ "official_summary": "<p><strong>I–27 Numbering Act of 2023</strong></p><p>This bill designates the future interstate highway system portions of the Ports-to-Plains Corridor within the states of Texas and New Mexico as Interstate Route I–27.</p><p>In Texas, from Sterling City to Lamesa, U.S. Route 87 is designated as Interstate Route I–27E and Texas Routes 158 and 349 via I–20 are designated as Interstate Route I–27W. The bill also excludes one portion of the Texas and New Mexico corridor; U.S. Route 287 from Dumas, Texas to the border between Texas and Oklahoma is designated as Interstate Route I–127N.</p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s992enr/xml/BILLS-118s992enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s992eah/xml/BILLS-118s992eah.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s992es/xml/BILLS-118s992es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s992is/xml/BILLS-118s992is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ45/uslm/PLAW-118publ45.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/senate-bill/992",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

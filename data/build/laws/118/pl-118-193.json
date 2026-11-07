@@ -1,0 +1,37 @@
+{
+ "id": "pl-118-193",
+ "congress": 118,
+ "public_law": "118-193",
+ "bill": "S 1147",
+ "title": "Jenna Quinn Law",
+ "enacted": "2024-12-23",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Families",
+ "sponsor": "Sen. Cornyn, John [R-TX]",
+ "official_summary": "<p><strong>Jenna Quinn Law</strong></p><p>This act allows the Department of Health and Human Services to provide grants for evidence-informed child sexual abuse awareness and prevention programs. The grants may be awarded for a period of up to five years.</p><p>The act also requires the Government Accountability Office to report on expenditures under the program.</p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s1147enr/xml/BILLS-118s1147enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s1147es/xml/BILLS-118s1147es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s1147is/xml/BILLS-118s1147is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ193/uslm/PLAW-118publ193.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/senate-bill/1147",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

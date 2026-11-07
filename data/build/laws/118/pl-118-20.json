@@ -1,0 +1,43 @@
+{
+ "id": "pl-118-20",
+ "congress": 118,
+ "public_law": "118-20",
+ "bill": "HR 366",
+ "title": "Korean American VALOR Act",
+ "enacted": "2023-11-13",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Rep. Takano, Mark [D-CA-39]",
+ "official_summary": "<p><b>Korean American Vietnam Allies Long Overdue for Relief Act or the Korean American VALOR Act</b></p> <p>This act expands eligibility for specified Department of Veterans Affairs (VA) benefits (e.g., medical and dental care) to certain veterans of the armed forces of South Korea who served in Vietnam between January 9, 1962, and May 7, 1975, or during a time period determined by the VA.</p> <p>The act authorizes the VA to furnish such benefits under an existing law, which requires (1) a request by South Korea, and (2) a reciprocity agreement that provides for reimbursement of expenses incurred by the VA for the provision of care. </p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr366enr/xml/BILLS-118hr366enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr366rfs/xml/BILLS-118hr366rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr366eh/xml/BILLS-118hr366eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr366rh/xml/BILLS-118hr366rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr366ih/xml/BILLS-118hr366ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ20/uslm/PLAW-118publ20.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/house-bill/366",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

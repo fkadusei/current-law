@@ -1,0 +1,43 @@
+{
+ "id": "pl-118-138",
+ "congress": 118,
+ "public_law": "118-138",
+ "bill": "HR 2950",
+ "title": "Coastal Habitat Conservation Act of 2023",
+ "enacted": "2024-12-11",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Environmental Protection",
+ "sponsor": "Rep. Huffman, Jared [D-CA-2]",
+ "official_summary": "<p><strong>Coastal Habitat Conservation Act of 2023</strong></p><p>This act provides statutory authority for the Coastal Program of the U.S. Fish and Wildlife Service (FWS). Under the voluntary program, the FWS works with partners to provide technical and financial assistance for&nbsp;habitat restoration projects, habitat protection projects, and related activities in priority coastal areas.</p><p>The act&nbsp;also directs the FWS to submit to congressional committees an annual report on the program. The FWS must also make the report available to the public on its website.</p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr2950enr/xml/BILLS-118hr2950enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr2950pcs/xml/BILLS-118hr2950pcs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr2950eh/xml/BILLS-118hr2950eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr2950rh/xml/BILLS-118hr2950rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr2950ih/xml/BILLS-118hr2950ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ138/uslm/PLAW-118publ138.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/house-bill/2950",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

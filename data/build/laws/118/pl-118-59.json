@@ -1,0 +1,40 @@
+{
+ "id": "pl-118-59",
+ "congress": 118,
+ "public_law": "118-59",
+ "bill": "S 474",
+ "title": "REPORT Act",
+ "enacted": "2024-05-07",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Crime and Law Enforcement",
+ "sponsor": "Sen. Blackburn, Marsha [R-TN]",
+ "official_summary": "<p><strong>Revising Existing Procedures On Reporting via Technology Act or the REPORT Act</strong></p><p>This act makes changes to the federal framework governing the reporting of crimes involving the online&nbsp;sexual&nbsp;exploitation&nbsp;of children.</p><p>Specifically, the act makes changes to the requirements for electronic communication service providers and remote computing service providers (providers) to submit reports to the National Center for Missing and Exploited Children (NCMEC) when they become aware of violations involving the online sexual exploitation of children.</p><p>Among the changes, the act (1) increases the amount of time—from 90 days to 1 year—that a provider must preserve the contents of a report, and&nbsp;(2)&nbsp;extends the requirement for providers to report apparent&nbsp;violations involving the sexual&nbsp;exploitation of children to instances involving child sex trafficking or coercion or enticement of a minor to engage in prostitution or any other illegal sexual activity.</p><p>Additionally, the act increases the maximum fines for providers who knowingly and willfully fail to submit reports.</p><p>The act also (1) limits the liability of vendors that contract with NCMEC for civil claims or criminal charges arising from storing and transferring visual depictions of child sexual abuse material (i.e., child pornography), and (2) requires the vendors to comply with certain cybersecurity requirements.</p><p>Finally, the act&nbsp;limits the liability of minors, or persons acting on behalf of minors, for civil claims or criminal charges arising from&nbsp;reporting to&nbsp;NCMEC's CyberTipline apparent violations involving child sexual abuse material in which the child is depicted, including a copy of the visual depiction of the minor.&nbsp;</p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s474enr/xml/BILLS-118s474enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s474es/xml/BILLS-118s474es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s474rs/xml/BILLS-118s474rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s474is/xml/BILLS-118s474is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ59/uslm/PLAW-118publ59.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/senate-bill/474",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

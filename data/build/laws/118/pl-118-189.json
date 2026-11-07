@@ -1,0 +1,40 @@
+{
+ "id": "pl-118-189",
+ "congress": 118,
+ "public_law": "118-189",
+ "bill": "S 223",
+ "title": "A bill to amend the Controlled Substances Act to fix a technical error in the definitions.",
+ "enacted": "2024-12-23",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Crime and Law Enforcement",
+ "sponsor": "Sen. Grassley, Chuck [R-IA]",
+ "official_summary": "<p>This act makes technical corrections in the definitions section of the Controlled Substances Act.</p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s223enr/xml/BILLS-118s223enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s223rfh/xml/BILLS-118s223rfh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s223es/xml/BILLS-118s223es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s223cps/xml/BILLS-118s223cps.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ189/uslm/PLAW-118publ189.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/senate-bill/223",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

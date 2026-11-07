@@ -1,0 +1,46 @@
+{
+ "id": "pl-118-171",
+ "congress": 118,
+ "public_law": "118-171",
+ "bill": "HR 4467",
+ "title": "DHS Border Services Contracts Review Act",
+ "enacted": "2024-12-23",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Brecheen, Josh [R-OK-2]",
+ "official_summary": "<p><strong>DHS Border Services Contracts Review Act</strong></p><p>This act directs the Department of Homeland Security (DHS) to assess contractor personnel performing services along the U.S. land border with Mexico and plan to implement recommendations developed from the assessment.</p><p>Specifically, DHS must report to Congress regarding active contracts with a total value of $50 million or more relating to the procurement of services along the border.</p><p>The report must include, among other things</p><ul><li>the criteria used by DHS to determine whether contractor personnel were necessary to assist in carrying out its mission along the border;</li><li>an analysis of the purpose, quantity, and location of contractor personnel addressing DHS mission needs along the border and enhancing the capability of DHS personnel to perform primary mission responsibilities;</li><li>an assessment of the benefits of contractor personnel performing the services;</li><li>a strategy to improve the procurement and delivery of the services through contracts over a five-year period; and</li><li>recommendations based on the report's findings.</li></ul><p>DHS must (1) submit with the report a plan to implement the recommendations and strategy contained in such report to enhance coordination, minimize overlap, and increase cost effectiveness; and (2) brief Congress with respect to the status of implementation.</p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr4467enr/xml/BILLS-118hr4467enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr4467rs/xml/BILLS-118hr4467rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr4467rfs/xml/BILLS-118hr4467rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr4467eh/xml/BILLS-118hr4467eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr4467rh/xml/BILLS-118hr4467rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr4467ih/xml/BILLS-118hr4467ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ171/uslm/PLAW-118publ171.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/house-bill/4467",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

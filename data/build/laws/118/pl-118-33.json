@@ -1,0 +1,43 @@
+{
+ "id": "pl-118-33",
+ "congress": 118,
+ "public_law": "118-33",
+ "bill": "HR 2839",
+ "title": "To amend the Siletz Reservation Act to address the hunting, fishing, trapping, and animal gathering rights of the Confederated Tribes of Siletz Indians, and for other purposes.",
+ "enacted": "2023-12-26",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Native Americans",
+ "sponsor": "Rep. Hoyle, Val T. [D-OR-4]",
+ "official_summary": "<p>This act provides a process by which the Confederated Tribes of Siletz Indians and Oregon may negotiate to amend or replace the existing agreement defining the tribe's hunting, fishing, trapping, and animal gathering rights.</p> <p>The current agreement, which was made effective by a May 2, 1980, consent decree by the U.S. District Court for the District of Oregon, serves as the exclusive and final determination of the tribe's hunting, fishing, trapping, and gathering rights. This act instead allows an April 22, 1980, agreement between the United States, Oregon, and the tribe (known as the Siletz Agreement) to define the tribe's rights until and unless it is amended or replaced upon mutual agreement of the tribe and Oregon (with specified limitations regarding a new agreement).</p> <p>The act allows the tribe and Oregon to return to the U.S. District Court for the District of Oregon to request the modification or termination of the May 2, 1980, consent decree.</p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr2839enr/xml/BILLS-118hr2839enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr2839rds/xml/BILLS-118hr2839rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr2839eh/xml/BILLS-118hr2839eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr2839rh/xml/BILLS-118hr2839rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr2839ih/xml/BILLS-118hr2839ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ33/uslm/PLAW-118publ33.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/house-bill/2839",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,40 @@
+{
+ "id": "pl-118-97",
+ "congress": 118,
+ "public_law": "118-97",
+ "bill": "S 679",
+ "title": "GAO Database Modernization Act of 2023",
+ "enacted": "2024-10-01",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Sen. Scott, Rick [R-FL]",
+ "official_summary": "<p><strong>GAO Database Modernization Act of 2023</strong></p><p>This act&nbsp;bill requires federal agencies to report to the Government Accountability Office (GAO) certain information about agency rules that are made ineffective due to an agency action or other reason.</p><p>The report must include (1) the title of the rule; (2) the citation for the rule in the Federal Register; (3) the date on which the rule was submitted to the GAO; and (4) a description of the provisions of the rule that are being revoked, suspended, replaced, amended, or otherwise made ineffective.</p><p>The act is effective for six years after the date of enactment.</p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s679enr/xml/BILLS-118s679enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s679es/xml/BILLS-118s679es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s679rs/xml/BILLS-118s679rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s679is/xml/BILLS-118s679is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ97/uslm/PLAW-118publ97.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/senate-bill/679",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

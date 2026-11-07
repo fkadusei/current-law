@@ -1,1 +1,5978 @@
-[]
+[
+ {
+  "id": "pl-118-274",
+  "congress": 118,
+  "public_law": "118-274",
+  "bill": "HR 4984",
+  "title": "D.C. Robert F. Kennedy Memorial Stadium Campus Revitalization Act",
+  "enacted": "2025-01-06",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "D",
+   "share": 0.566,
+   "r_yeas": 151,
+   "d_yeas": 197,
+   "shade": 0.132,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-118-273",
+  "congress": 118,
+  "public_law": "118-273",
+  "bill": "HR 82",
+  "title": "Social Security Fairness Act of 2023",
+  "enacted": "2025-01-05",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Social Welfare",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "D",
+   "share": 0.593,
+   "r_yeas": 163,
+   "d_yeas": 237,
+   "shade": 0.185,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": [],
+    "Senate": []
+   }
+  },
+  "control": {
+   "House": "R",
+   "Senate": "D"
+  }
+ },
+ {
+  "id": "pl-118-225",
+  "congress": 118,
+  "public_law": "118-225",
+  "bill": "HR 670",
+  "title": "Think Differently Database Act",
+  "enacted": "2025-01-04",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Health",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-226",
+  "congress": 118,
+  "public_law": "118-226",
+  "bill": "HR 1318",
+  "title": "Women’s Suffrage National Monument Location Act",
+  "enacted": "2025-01-04",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Public Lands and Natural Resources",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-227",
+  "congress": 118,
+  "public_law": "118-227",
+  "bill": "HR 2997",
+  "title": "CONVEY Act",
+  "enacted": "2025-01-04",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Public Lands and Natural Resources",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-228",
+  "congress": 118,
+  "public_law": "118-228",
+  "bill": "HR 3391",
+  "title": "Gabriella Miller Kids First Research Act 2.0",
+  "enacted": "2025-01-04",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Health",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "tie",
+   "share": 0.5,
+   "r_yeas": 192,
+   "d_yeas": 192,
+   "shade": 0.0,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-118-229",
+  "congress": 118,
+  "public_law": "118-229",
+  "bill": "HR 5103",
+  "title": "FISHES Act",
+  "enacted": "2025-01-04",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Public Lands and Natural Resources",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-230",
+  "congress": 118,
+  "public_law": "118-230",
+  "bill": "HR 5443",
+  "title": "AACE Act",
+  "enacted": "2025-01-04",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Public Lands and Natural Resources",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-231",
+  "congress": 118,
+  "public_law": "118-231",
+  "bill": "HR 5887",
+  "title": "Government Service Delivery Improvement Act",
+  "enacted": "2025-01-04",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-232",
+  "congress": 118,
+  "public_law": "118-232",
+  "bill": "HR 6062",
+  "title": "To restore the ability of the people of American Samoa to approve amendments to the territorial constitution based on majority rule in a democratic act of self-determination, as authorized pursuant to an Act of Congress delegating administration of Federal territorial law in the territory to the President, and to the Secretary of the Interior under Executive Order 10264, dated June 29, 1951, under which the Constitution of American Samoa was approved and may be amended without requirement for further congressional action, subject to the authority of Congress under the Territorial Clause in article IV, section 3, clause 2 of the United States Constitution.",
+  "enacted": "2025-01-04",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Public Lands and Natural Resources",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-233",
+  "congress": 118,
+  "public_law": "118-233",
+  "bill": "HR 6395",
+  "title": "Recognizing the Importance of Critical Minerals in Healthcare Act of 2023",
+  "enacted": "2025-01-04",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Public Lands and Natural Resources",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-234",
+  "congress": 118,
+  "public_law": "118-234",
+  "bill": "HR 6492",
+  "title": "EXPLORE Act",
+  "enacted": "2025-01-04",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Public Lands and Natural Resources",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-235",
+  "congress": 118,
+  "public_law": "118-235",
+  "bill": "HR 6852",
+  "title": "Holcombe Rucker Park National Commemorative Site Act",
+  "enacted": "2025-01-04",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Public Lands and Natural Resources",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-236",
+  "congress": 118,
+  "public_law": "118-236",
+  "bill": "HR 7158",
+  "title": "To designate the facility of the United States Postal Service located at 201 East Battles Road in Santa Maria, California, as the \"Larry Lavagnino Post Office Building\".",
+  "enacted": "2025-01-04",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-237",
+  "congress": 118,
+  "public_law": "118-237",
+  "bill": "HR 7180",
+  "title": "To designate the facility of the United States Postal Service located at 80 1st Street in Kingsland, Arkansas, as the \"Kingsland 'Johnny Cash' Post Office\".",
+  "enacted": "2025-01-04",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-238",
+  "congress": 118,
+  "public_law": "118-238",
+  "bill": "HR 7365",
+  "title": "VETS Safe Travel Act",
+  "enacted": "2025-01-04",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Transportation and Public Works",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-239",
+  "congress": 118,
+  "public_law": "118-239",
+  "bill": "HR 7385",
+  "title": "To designate the facility of the United States Postal Service located at 29 Franklin Street in Petersburg, Virginia, as the \"John Mercer Langston Post Office Building\".",
+  "enacted": "2025-01-04",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-240",
+  "congress": 118,
+  "public_law": "118-240",
+  "bill": "HR 7417",
+  "title": "To designate the facility of the United States Postal Service located at 135 West Spring Street in Titusville, Pennsylvania, as the \"Edwin L. Drake Post Office Building\".",
+  "enacted": "2025-01-04",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-241",
+  "congress": 118,
+  "public_law": "118-241",
+  "bill": "HR 7507",
+  "title": "To designate the facility of the United States Postal Service located at 203 East 6th Street in Lexington, Nebraska, as the ‘William E. and Elsie L. Barrett Post Office Building.",
+  "enacted": "2025-01-04",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-242",
+  "congress": 118,
+  "public_law": "118-242",
+  "bill": "HR 7508",
+  "title": "To designate the facility of the United States Postal Service located at 1285 Emancipation Highway in Fredericksburg, Virginia, as the \"Gladys P. Todd Post Office\".",
+  "enacted": "2025-01-04",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-243",
+  "congress": 118,
+  "public_law": "118-243",
+  "bill": "HR 7606",
+  "title": "To designate the facility of the United States Postal Service located at 1087 Route 47 South in Rio Grande, New Jersey, as the \"Carlton H. Hand Post Office Building\".",
+  "enacted": "2025-01-04",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-244",
+  "congress": 118,
+  "public_law": "118-244",
+  "bill": "HR 7607",
+  "title": "To designate the facility of the United States Postal Service located at Block 1025, Lots 18 & 19, Northeast Corner of US Route 9 South and Main Street in the Township of Middle, County of Cape May, New Jersey, as the \"George Henry White Post Office Building\".",
+  "enacted": "2025-01-04",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-245",
+  "congress": 118,
+  "public_law": "118-245",
+  "bill": "HR 7893",
+  "title": "To designate the facility of the United States Postal Service located at 306 Pickens Street in Marion, Alabama, as the \"Albert Turner, Sr. Post Office Building\".",
+  "enacted": "2025-01-04",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-246",
+  "congress": 118,
+  "public_law": "118-246",
+  "bill": "HR 7938",
+  "title": "Klamath Basin Water Agreement Support Act of 2024",
+  "enacted": "2025-01-04",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Water Resources Development",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-247",
+  "congress": 118,
+  "public_law": "118-247",
+  "bill": "HR 8012",
+  "title": "Jackie Robinson Ballpark National Commemorative Site Act",
+  "enacted": "2025-01-04",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Public Lands and Natural Resources",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-248",
+  "congress": 118,
+  "public_law": "118-248",
+  "bill": "HR 8057",
+  "title": "To designate the facility of the United States Postal Service located at 9317 Bolsa Avenue in Westminster, California, as the \"Little Saigon Vietnam War Veterans Memorial Post Office\".",
+  "enacted": "2025-01-04",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "R",
+   "share": 0.504,
+   "r_yeas": 209,
+   "d_yeas": 206,
+   "shade": 0.007,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-118-249",
+  "congress": 118,
+  "public_law": "118-249",
+  "bill": "HR 8641",
+  "title": "To designate the facility of the United States Postal Service located at 401 Main Street in Brawley, California, as the \"Walter Francis Ulloa Memorial Post Office Building\".",
+  "enacted": "2025-01-04",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-250",
+  "congress": 118,
+  "public_law": "118-250",
+  "bill": "HR 8666",
+  "title": "To amend title 28, United States Code, to authorize holding court for the Central Division of Utah in Moab and Monticello.",
+  "enacted": "2025-01-04",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Law",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-251",
+  "congress": 118,
+  "public_law": "118-251",
+  "bill": "HR 8667",
+  "title": "To rename the community-based outpatient clinic of the Department of Veterans Affairs in Cadillac, Michigan, as the \"Duane E. Dewey VA Clinic\".",
+  "enacted": "2025-01-04",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Armed Forces and National Security",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-252",
+  "congress": 118,
+  "public_law": "118-252",
+  "bill": "HR 8717",
+  "title": "To designate the facility of the United States Postal Service located at 20 West Main Street in Santaquin, Utah, as the \"SGT Bill Hooser Post Office Building\".",
+  "enacted": "2025-01-04",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-253",
+  "congress": 118,
+  "public_law": "118-253",
+  "bill": "HR 8841",
+  "title": "To designate the facility of the United States Postal Service located at 114 Center Street East in Roseau, Minnesota, as the \"Floyd B. Olson Post Office\".",
+  "enacted": "2025-01-04",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-254",
+  "congress": 118,
+  "public_law": "118-254",
+  "bill": "HR 8868",
+  "title": "To designate the facility of the United States Postal Service located at 609 Portsmouth Avenue in Greenland, New Hampshire, as the \"Chief Michael Maloney Post Office Building\".",
+  "enacted": "2025-01-04",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-255",
+  "congress": 118,
+  "public_law": "118-255",
+  "bill": "HR 8909",
+  "title": "To designate the facility of the United States Postal Service located at 82-6110 Mamalahoa Highway in Captain Cook, Hawaii, as the \"Army 1st Lt. John Kuulei Kauhaihao Post Office Building\".",
+  "enacted": "2025-01-04",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-256",
+  "congress": 118,
+  "public_law": "118-256",
+  "bill": "HR 8919",
+  "title": "To designate the facility of the United States Postal Service located at 151 Highway 74 South in Peachtree City, Georgia, as the \"SFC Shawn McCloskey Post Office\".",
+  "enacted": "2025-01-04",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-257",
+  "congress": 118,
+  "public_law": "118-257",
+  "bill": "HR 8976",
+  "title": "To designate the facility of the United States Postal Service located at 20 West White Street in Millstadt, Illinois, as the \"Corporal Matthew A. Wyatt Post Office\".",
+  "enacted": "2025-01-04",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-258",
+  "congress": 118,
+  "public_law": "118-258",
+  "bill": "HR 9076",
+  "title": "Supporting America’s Children and Families Act",
+  "enacted": "2025-01-04",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Families",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "D",
+   "share": 0.504,
+   "r_yeas": 201,
+   "d_yeas": 204,
+   "shade": 0.007,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-118-259",
+  "congress": 118,
+  "public_law": "118-259",
+  "bill": "HR 9124",
+  "title": "To name the Department of Veterans Affairs community-based outpatient clinic in Auburn, California, as the \"Louis A. Conter VA Clinic\".",
+  "enacted": "2025-01-04",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Armed Forces and National Security",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-260",
+  "congress": 118,
+  "public_law": "118-260",
+  "bill": "HR 9285",
+  "title": "To designate the facility of the United States Postal Service located at 3913 Leland Avenue Northwest in Comstock Park, Michigan, as the \"Captain Miguel Justin Nava Post Office\".",
+  "enacted": "2025-01-04",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-261",
+  "congress": 118,
+  "public_law": "118-261",
+  "bill": "HR 9322",
+  "title": "To designate the facility of the United States Postal Service located at 675 Wolf Ledges Parkway in Akron, Ohio, as the \"Judge James R. Williams Post Office Building\".",
+  "enacted": "2025-01-04",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-262",
+  "congress": 118,
+  "public_law": "118-262",
+  "bill": "HR 9421",
+  "title": "To designate the facility of the United States Postal Service located at 108 North Main Street in Bucoda, Washington, as the \"Mayor Rob Gordon Post Office\".",
+  "enacted": "2025-01-04",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-263",
+  "congress": 118,
+  "public_law": "118-263",
+  "bill": "HR 9487",
+  "title": "House Office of Legislative Counsel Modernization Act",
+  "enacted": "2025-01-04",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Congress",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-264",
+  "congress": 118,
+  "public_law": "118-264",
+  "bill": "HR 9544",
+  "title": "To designate the facility of the United States Postal Service located at 340 South Loudon Avenue in Baltimore, Maryland, as the \"United States Representative Elijah E. Cummings Post Office Building\".",
+  "enacted": "2025-01-04",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-265",
+  "congress": 118,
+  "public_law": "118-265",
+  "bill": "HR 9549",
+  "title": "To designate the facility of the United States Postal Service located at 125 South 1st Avenue in Hillsboro, Oregon, as the \"Elizabeth Furse Post Office Building\".",
+  "enacted": "2025-01-04",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-266",
+  "congress": 118,
+  "public_law": "118-266",
+  "bill": "HR 9580",
+  "title": "To designate the facility of the United States Postal Service located at 2777 Brentwood Road in Raleigh, North Carolina, as the \"Millie Dunn Veasey Post Office\".",
+  "enacted": "2025-01-04",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-267",
+  "congress": 118,
+  "public_law": "118-267",
+  "bill": "HR 9592",
+  "title": "Federal Register Modernization Act of 2024",
+  "enacted": "2025-01-04",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-268",
+  "congress": 118,
+  "public_law": "118-268",
+  "bill": "HR 9600",
+  "title": "To designate the facility of the United States Postal Service located at 119 Main Street in Plains, Georgia, as the \"Jimmy and Rosalynn Carter Post Office\".",
+  "enacted": "2025-01-04",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "D",
+   "share": 0.514,
+   "r_yeas": 185,
+   "d_yeas": 196,
+   "shade": 0.029,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-118-269",
+  "congress": 118,
+  "public_law": "118-269",
+  "bill": "HR 9775",
+  "title": "To designate the facility of the United States Postal Service located at 119 North Anderson Street in Elwood, Indiana, as the \"Officer Noah Jacob Shahnavaz Post Office Building\".",
+  "enacted": "2025-01-04",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-270",
+  "congress": 118,
+  "public_law": "118-270",
+  "bill": "HR 10065",
+  "title": "To designate the facility of the United States Postal Service located at 802 North Tancahua Street in Corpus Christi, Texas, as the \"Captain Robert E. 'Bob' Batterson Post Office\".",
+  "enacted": "2025-01-04",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-271",
+  "congress": 118,
+  "public_law": "118-271",
+  "bill": "S 2181",
+  "title": "Keeping Military Families Together Act of 2024",
+  "enacted": "2025-01-04",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Armed Forces and National Security",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-272",
+  "congress": 118,
+  "public_law": "118-272",
+  "bill": "S 4367",
+  "title": "Thomas R. Carper Water Resources Development Act of 2024",
+  "enacted": "2025-01-04",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Water Resources Development",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "D",
+   "share": 0.514,
+   "r_yeas": 239,
+   "d_yeas": 253,
+   "shade": 0.028,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": [],
+    "Senate": []
+   }
+  },
+  "control": {
+   "House": "R",
+   "Senate": "D"
+  }
+ },
+ {
+  "id": "pl-118-210",
+  "congress": 118,
+  "public_law": "118-210",
+  "bill": "S 141",
+  "title": "Senator Elizabeth Dole 21st Century Veterans Healthcare and Benefits Improvement Act",
+  "enacted": "2025-01-02",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Armed Forces and National Security",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "D",
+   "share": 0.51,
+   "r_yeas": 187,
+   "d_yeas": 195,
+   "shade": 0.021,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-118-211",
+  "congress": 118,
+  "public_law": "118-211",
+  "bill": "HR 1555",
+  "title": "To designate the facility of the United States Postal Service located at 2300 Sylvan Avenue in Modesto, California, as the \"Corporal Michael D. Anderson Jr. Post Office Building\".",
+  "enacted": "2025-01-02",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-212",
+  "congress": 118,
+  "public_law": "118-212",
+  "bill": "HR 1823",
+  "title": "To designate the facility of the United States Postal Service located at 207 East Fort Dade Avenue in Brooksville, Florida, as the \"Specialist Justin Dean Coleman Memorial Post Office Building\".",
+  "enacted": "2025-01-02",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-213",
+  "congress": 118,
+  "public_law": "118-213",
+  "bill": "HR 3354",
+  "title": "To designate the facility of the United States Postal Service located at 220 North Hatcher Avenue in Purcellville, Virginia, as the \"Secretary of State Madeleine Albright Post Office Building\".",
+  "enacted": "2025-01-02",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "D",
+   "share": 0.534,
+   "r_yeas": 173,
+   "d_yeas": 198,
+   "shade": 0.067,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-118-214",
+  "congress": 118,
+  "public_law": "118-214",
+  "bill": "HR 4136",
+  "title": "U.S. Congressman Sam Johnson Memorial VA Clinic Act",
+  "enacted": "2025-01-02",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Armed Forces and National Security",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-215",
+  "congress": 118,
+  "public_law": "118-215",
+  "bill": "HR 4955",
+  "title": "To name the community-based outpatient clinic of the Department of Veterans Affairs in Monroeville, Pennsylvania, as the \"Henry Parham VA Clinic\".",
+  "enacted": "2025-01-02",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Armed Forces and National Security",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-216",
+  "congress": 118,
+  "public_law": "118-216",
+  "bill": "HR 5867",
+  "title": "To designate the facility of the United States Postal Service located at 109 Live Oaks Boulevard in Casselberry, Florida, as the \"Colonel Joseph William Kittinger II Post Office Building\".",
+  "enacted": "2025-01-02",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-217",
+  "congress": 118,
+  "public_law": "118-217",
+  "bill": "HR 6116",
+  "title": "To designate the facility of the United States Postal Service located at 14280 South Military Trail in Delray Beach, Florida, as the \"Benjamin Berell Ferencz Post Office Building\".",
+  "enacted": "2025-01-02",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-218",
+  "congress": 118,
+  "public_law": "118-218",
+  "bill": "HR 6162",
+  "title": "To designate the facility of the United States Postal Service located at 379 North Oates Street in Dothan, Alabama, as the \"LaBruce 'Bruce' Tidwell Post Office Building\".",
+  "enacted": "2025-01-02",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-219",
+  "congress": 118,
+  "public_law": "118-219",
+  "bill": "HR 6188",
+  "title": "To designate the facility of the United States Postal Service located at 420 Highway 17 North in Surfside Beach, South Carolina, as the \"Nancy Yount Childs Post Office Building\".",
+  "enacted": "2025-01-02",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-220",
+  "congress": 118,
+  "public_law": "118-220",
+  "bill": "HR 6244",
+  "title": "To designate the facility of the United States Postal Service located at 1535 East Los Ebanos Boulevard in Brownsville, Texas, as the \"1st Lieutenant Andres Zermeno Post Office Building\".",
+  "enacted": "2025-01-02",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-221",
+  "congress": 118,
+  "public_law": "118-221",
+  "bill": "HR 6633",
+  "title": "To designate the facility of the United States Postal Service located at 9355 113th Street in Seminole, Florida, as the \"Army SSG Ryan Christian Knauss Memorial Post Office Building\".",
+  "enacted": "2025-01-02",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-222",
+  "congress": 118,
+  "public_law": "118-222",
+  "bill": "HR 6750",
+  "title": "To designate the facility of the United States Postal Service located at 501 Mercer Street Southwest in Wilson, North Carolina, as the \"Milton F. Fitch, Sr. Post Office Building\".",
+  "enacted": "2025-01-02",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-223",
+  "congress": 118,
+  "public_law": "118-223",
+  "bill": "HR 6810",
+  "title": "To designate the facility of the United States Postal Service located at 518 North Ridgewood Drive in Sebring, Florida, as the \"U.S. Army Air Corps Major Thomas B. McGuire Post Office Building\".",
+  "enacted": "2025-01-02",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-224",
+  "congress": 118,
+  "public_law": "118-224",
+  "bill": "HR 6983",
+  "title": "To designate the facility of the United States Postal Service located at 15 South Valdosta Road in Lakeland, Georgia, as the \"Nell Patten Roquemore Post Office\".",
+  "enacted": "2025-01-02",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "R",
+   "share": 0.501,
+   "r_yeas": 185,
+   "d_yeas": 184,
+   "shade": 0.003,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-118-159",
+  "congress": 118,
+  "public_law": "118-159",
+  "bill": "HR 5009",
+  "title": "Servicemember Quality of Life Improvement and National Defense Authorization Act for Fiscal Year 2025",
+  "enacted": "2024-12-23",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Armed Forces and National Security",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "R",
+   "share": 0.675,
+   "r_yeas": 245,
+   "d_yeas": 118,
+   "shade": 0.35,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": [],
+    "Senate": []
+   }
+  },
+  "control": {
+   "House": "R",
+   "Senate": "D"
+  }
+ },
+ {
+  "id": "pl-118-160",
+  "congress": 118,
+  "public_law": "118-160",
+  "bill": "HR 663",
+  "title": "Native American Child Protection Act",
+  "enacted": "2024-12-23",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Native Americans",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "D",
+   "share": 0.532,
+   "r_yeas": 177,
+   "d_yeas": 201,
+   "shade": 0.063,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-118-161",
+  "congress": 118,
+  "public_law": "118-161",
+  "bill": "HR 1097",
+  "title": "Everett Alvarez, Jr. Congressional Gold Medal Act of 2023",
+  "enacted": "2024-12-23",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Armed Forces and National Security",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-162",
+  "congress": 118,
+  "public_law": "118-162",
+  "bill": "HR 1607",
+  "title": "To clarify jurisdiction with respect to certain Bureau of Reclamation pumped storage development, and for other purposes.",
+  "enacted": "2024-12-23",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Water Resources Development",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "R",
+   "share": 0.521,
+   "r_yeas": 200,
+   "d_yeas": 184,
+   "shade": 0.042,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-118-163",
+  "congress": 118,
+  "public_law": "118-163",
+  "bill": "HR 1727",
+  "title": "Chesapeake and Ohio Canal National Historical Park Commission Extension Act",
+  "enacted": "2024-12-23",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Public Lands and Natural Resources",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "R",
+   "share": 0.506,
+   "r_yeas": 216,
+   "d_yeas": 211,
+   "shade": 0.012,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-118-164",
+  "congress": 118,
+  "public_law": "118-164",
+  "bill": "HR 2468",
+  "title": "Mountain View Corridor Completion Act",
+  "enacted": "2024-12-23",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Public Lands and Natural Resources",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-165",
+  "congress": 118,
+  "public_law": "118-165",
+  "bill": "HR 3254",
+  "title": "First Responder Access to Innovative Technologies Act",
+  "enacted": "2024-12-23",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Emergency Management",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-166",
+  "congress": 118,
+  "public_law": "118-166",
+  "bill": "HR 3324",
+  "title": "To extend the authority to collect Shasta-Trinity Marina fees through fiscal year 2029.",
+  "enacted": "2024-12-23",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Public Lands and Natural Resources",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "R",
+   "share": 0.508,
+   "r_yeas": 211,
+   "d_yeas": 204,
+   "shade": 0.017,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-118-167",
+  "congress": 118,
+  "public_law": "118-167",
+  "bill": "HR 3797",
+  "title": "Paperwork Burden Reduction Act",
+  "enacted": "2024-12-23",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Taxation",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-168",
+  "congress": 118,
+  "public_law": "118-168",
+  "bill": "HR 3801",
+  "title": "Employer Reporting Improvement Act",
+  "enacted": "2024-12-23",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Taxation",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-169",
+  "congress": 118,
+  "public_law": "118-169",
+  "bill": "HR 4094",
+  "title": "Great Salt Lake Stewardship Act",
+  "enacted": "2024-12-23",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Water Resources Development",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-170",
+  "congress": 118,
+  "public_law": "118-170",
+  "bill": "HR 4385",
+  "title": "Drought Preparedness Act",
+  "enacted": "2024-12-23",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Water Resources Development",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-171",
+  "congress": 118,
+  "public_law": "118-171",
+  "bill": "HR 4467",
+  "title": "DHS Border Services Contracts Review Act",
+  "enacted": "2024-12-23",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-172",
+  "congress": 118,
+  "public_law": "118-172",
+  "bill": "HR 5301",
+  "title": "Eliminate Useless Reports Act of 2024",
+  "enacted": "2024-12-23",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-173",
+  "congress": 118,
+  "public_law": "118-173",
+  "bill": "HR 5646",
+  "title": "Stop Campus Hazing Act",
+  "enacted": "2024-12-23",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Education",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-174",
+  "congress": 118,
+  "public_law": "118-174",
+  "bill": "HR 5770",
+  "title": "Water Monitoring and Tracking Essential Resources (WATER) Data Improvement Act",
+  "enacted": "2024-12-23",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Water Resources Development",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-175",
+  "congress": 118,
+  "public_law": "118-175",
+  "bill": "HR 6826",
+  "title": "To designate the visitor and education center at Fort McHenry National Monument and Historic Shrine as the Paul S. Sarbanes Visitor and Education Center.",
+  "enacted": "2024-12-23",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Public Lands and Natural Resources",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-176",
+  "congress": 118,
+  "public_law": "118-176",
+  "bill": "HR 6829",
+  "title": "HEARTS Act of 2024",
+  "enacted": "2024-12-23",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Health",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-177",
+  "congress": 118,
+  "public_law": "118-177",
+  "bill": "HR 6843",
+  "title": "To expand the boundaries of the Atchafalaya National Heritage Area to include Lafourche Parish, Louisiana.",
+  "enacted": "2024-12-23",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Public Lands and Natural Resources",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-178",
+  "congress": 118,
+  "public_law": "118-178",
+  "bill": "HR 6960",
+  "title": "Emergency Medical Services for Children Reauthorization Act of 2024",
+  "enacted": "2024-12-23",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Health",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "D",
+   "share": 0.506,
+   "r_yeas": 197,
+   "d_yeas": 202,
+   "shade": 0.013,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-118-179",
+  "congress": 118,
+  "public_law": "118-179",
+  "bill": "HR 7177",
+  "title": "To amend title 28, United States Code, to consolidate certain divisions in the Northern District of Alabama.",
+  "enacted": "2024-12-23",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Law",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-180",
+  "congress": 118,
+  "public_law": "118-180",
+  "bill": "HR 7213",
+  "title": "Autism CARES Act of 2024",
+  "enacted": "2024-12-23",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Health",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "D",
+   "share": 0.516,
+   "r_yeas": 181,
+   "d_yeas": 193,
+   "shade": 0.032,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-118-181",
+  "congress": 118,
+  "public_law": "118-181",
+  "bill": "HR 7332",
+  "title": "Utah State Parks Adjustment Act",
+  "enacted": "2024-12-23",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Public Lands and Natural Resources",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-182",
+  "congress": 118,
+  "public_law": "118-182",
+  "bill": "HR 7524",
+  "title": "GSA Technology Accountability Act",
+  "enacted": "2024-12-23",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-183",
+  "congress": 118,
+  "public_law": "118-183",
+  "bill": "HR 7872",
+  "title": "Colorado River Salinity Control Fix Act",
+  "enacted": "2024-12-23",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Water Resources Development",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-184",
+  "congress": 118,
+  "public_law": "118-184",
+  "bill": "HR 8219",
+  "title": "Lahaina National Heritage Area Study Act",
+  "enacted": "2024-12-23",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Public Lands and Natural Resources",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "D",
+   "share": 0.529,
+   "r_yeas": 178,
+   "d_yeas": 200,
+   "shade": 0.058,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-118-185",
+  "congress": 118,
+  "public_law": "118-185",
+  "bill": "HR 8413",
+  "title": "Swanson and Hugh Butler Reservoirs Land Conveyances Act",
+  "enacted": "2024-12-23",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Water Resources Development",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-186",
+  "congress": 118,
+  "public_law": "118-186",
+  "bill": "HR 8663",
+  "title": "DETECT Fentanyl and Xylazine Act of 2024",
+  "enacted": "2024-12-23",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Science, Technology, Communications",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "R",
+   "share": 0.515,
+   "r_yeas": 208,
+   "d_yeas": 196,
+   "shade": 0.03,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-118-187",
+  "congress": 118,
+  "public_law": "118-187",
+  "bill": "HR 9566",
+  "title": "SHARE IT Act",
+  "enacted": "2024-12-23",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-188",
+  "congress": 118,
+  "public_law": "118-188",
+  "bill": "S 59",
+  "title": "Chance to Compete Act of 2024",
+  "enacted": "2024-12-23",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-189",
+  "congress": 118,
+  "public_law": "118-189",
+  "bill": "S 223",
+  "title": "A bill to amend the Controlled Substances Act to fix a technical error in the definitions.",
+  "enacted": "2024-12-23",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Crime and Law Enforcement",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-190",
+  "congress": 118,
+  "public_law": "118-190",
+  "bill": "S 709",
+  "title": "Federal Agency Performance Act of 2024",
+  "enacted": "2024-12-23",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "R",
+   "share": 0.504,
+   "r_yeas": 196,
+   "d_yeas": 193,
+   "shade": 0.008,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-118-191",
+  "congress": 118,
+  "public_law": "118-191",
+  "bill": "S 759",
+  "title": "Beagle Brigade Act of 2023",
+  "enacted": "2024-12-23",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Agriculture and Food",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "D",
+   "share": 0.512,
+   "r_yeas": 186,
+   "d_yeas": 195,
+   "shade": 0.024,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-118-192",
+  "congress": 118,
+  "public_law": "118-192",
+  "bill": "S 932",
+  "title": "No CORRUPTION Act",
+  "enacted": "2024-12-23",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Congress",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-193",
+  "congress": 118,
+  "public_law": "118-193",
+  "bill": "S 1147",
+  "title": "Jenna Quinn Law",
+  "enacted": "2024-12-23",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Families",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-194",
+  "congress": 118,
+  "public_law": "118-194",
+  "bill": "S 1351",
+  "title": "Stop Institutional Child Abuse Act",
+  "enacted": "2024-12-23",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Families",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "D",
+   "share": 0.528,
+   "r_yeas": 176,
+   "d_yeas": 197,
+   "shade": 0.056,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-118-195",
+  "congress": 118,
+  "public_law": "118-195",
+  "bill": "S 2414",
+  "title": "Working Dog Health and Welfare Act of 2023",
+  "enacted": "2024-12-23",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-196",
+  "congress": 118,
+  "public_law": "118-196",
+  "bill": "S 2513",
+  "title": "Veterans Benefits Improvement Act of 2024",
+  "enacted": "2024-12-23",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Armed Forces and National Security",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-197",
+  "congress": 118,
+  "public_law": "118-197",
+  "bill": "S 3448",
+  "title": "Never Again Education Reauthorization Act of 2023",
+  "enacted": "2024-12-23",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Arts, Culture, Religion",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "D",
+   "share": 0.502,
+   "r_yeas": 200,
+   "d_yeas": 202,
+   "shade": 0.005,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-118-198",
+  "congress": 118,
+  "public_law": "118-198",
+  "bill": "S 3791",
+  "title": "America’s Conservation Enhancement Reauthorization Act of 2024",
+  "enacted": "2024-12-23",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Environmental Protection",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "D",
+   "share": 0.522,
+   "r_yeas": 175,
+   "d_yeas": 191,
+   "shade": 0.044,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-118-199",
+  "congress": 118,
+  "public_law": "118-199",
+  "bill": "S 3857",
+  "title": "Jamul Indian Village Land Transfer Act",
+  "enacted": "2024-12-23",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Native Americans",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "D",
+   "share": 0.534,
+   "r_yeas": 172,
+   "d_yeas": 197,
+   "shade": 0.068,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-118-200",
+  "congress": 118,
+  "public_law": "118-200",
+  "bill": "S 3938",
+  "title": "A bill to designate the community-based outpatient clinic of the Department of Veterans Affairs in Lynchburg, Virginia, as the \"Private First Class Desmond T. Doss VA Clinic\".",
+  "enacted": "2024-12-23",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Armed Forces and National Security",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-201",
+  "congress": 118,
+  "public_law": "118-201",
+  "bill": "S 3946",
+  "title": "A bill to designate the facility of the United States Postal Service located at 1106 Main Street in Bastrop, Texas, as the \"Sergeant Major Billy D. Waugh Post Office\".",
+  "enacted": "2024-12-23",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-202",
+  "congress": 118,
+  "public_law": "118-202",
+  "bill": "S 3959",
+  "title": "Transportation Security Screening Modernization Act of 2024",
+  "enacted": "2024-12-23",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Transportation and Public Works",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-203",
+  "congress": 118,
+  "public_law": "118-203",
+  "bill": "S 3998",
+  "title": "Federal Judiciary Stabilization Act of 2024",
+  "enacted": "2024-12-23",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Law",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "R",
+   "share": 0.508,
+   "r_yeas": 198,
+   "d_yeas": 192,
+   "shade": 0.015,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-118-204",
+  "congress": 118,
+  "public_law": "118-204",
+  "bill": "S 4077",
+  "title": "A bill to designate the facility of the United States Postal Service located at 180 Steuart Street in San Francisco, California, as the \"Dianne Feinstein Post Office\".",
+  "enacted": "2024-12-23",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "D",
+   "share": 0.56,
+   "r_yeas": 153,
+   "d_yeas": 195,
+   "shade": 0.121,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-118-205",
+  "congress": 118,
+  "public_law": "118-205",
+  "bill": "S 4107",
+  "title": "Think Differently Transportation Act",
+  "enacted": "2024-12-23",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Transportation and Public Works",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-206",
+  "congress": 118,
+  "public_law": "118-206",
+  "bill": "S 4610",
+  "title": "A bill to amend title 36, United States Code, to designate the bald eagle as the national bird.",
+  "enacted": "2024-12-23",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Animals",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-207",
+  "congress": 118,
+  "public_law": "118-207",
+  "bill": "S 4716",
+  "title": "Financial Management Risk Reduction Act",
+  "enacted": "2024-12-23",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-208",
+  "congress": 118,
+  "public_law": "118-208",
+  "bill": "S 5314",
+  "title": "A bill to designate the medical center of the Department of Veterans Affairs in Tulsa, Oklahoma, as the James Mountain Inhofe VA Medical Center.",
+  "enacted": "2024-12-23",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Armed Forces and National Security",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-209",
+  "congress": 118,
+  "public_law": "118-209",
+  "bill": "S 5355",
+  "title": "NACIE Improvement Act",
+  "enacted": "2024-12-23",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Native Americans",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-158",
+  "congress": 118,
+  "public_law": "118-158",
+  "bill": "HR 10545",
+  "title": "American Relief Act, 2025",
+  "enacted": "2024-12-21",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Economics and Public Finance",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "D",
+   "share": 0.539,
+   "r_yeas": 207,
+   "d_yeas": 242,
+   "shade": 0.078,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": [],
+    "Senate": []
+   }
+  },
+  "control": {
+   "House": "R",
+   "Senate": "D"
+  }
+ },
+ {
+  "id": "pl-118-151",
+  "congress": 118,
+  "public_law": "118-151",
+  "bill": "S 3960",
+  "title": "A bill to amend title 35, United States Code, to provide a good faith exception to the imposition of fines for false assertions and certifications, and for other purposes.",
+  "enacted": "2024-12-17",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Commerce",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-152",
+  "congress": 118,
+  "public_law": "118-152",
+  "bill": "S 50",
+  "title": "Pensacola and Perdido Bays Estuary of National Significance Act of 2024",
+  "enacted": "2024-12-17",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Environmental Protection",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-153",
+  "congress": 118,
+  "public_law": "118-153",
+  "bill": "S 310",
+  "title": "Disaster Contract Improvement Act",
+  "enacted": "2024-12-17",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Emergency Management",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-154",
+  "congress": 118,
+  "public_law": "118-154",
+  "bill": "S 1478",
+  "title": "A bill to designate United States Route 20 in the States of Oregon, Idaho, Montana, Wyoming, Nebraska, Iowa, Illinois, Indiana, Ohio, Pennsylvania, New York, and Massachusetts as the \"National Medal of Honor Highway\", and for other purposes.",
+  "enacted": "2024-12-17",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Transportation and Public Works",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-155",
+  "congress": 118,
+  "public_law": "118-155",
+  "bill": "S 2781",
+  "title": "Good Samaritan Remediation of Abandoned Hardrock Mines Act of 2024",
+  "enacted": "2024-12-17",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Environmental Protection",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-156",
+  "congress": 118,
+  "public_law": "118-156",
+  "bill": "S 3475",
+  "title": "Strengthening the Commercial Driver’s License Information System Act",
+  "enacted": "2024-12-17",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Transportation and Public Works",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-157",
+  "congress": 118,
+  "public_law": "118-157",
+  "bill": "S 3613",
+  "title": "Improving Federal Building Security Act of 2024",
+  "enacted": "2024-12-17",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "tie",
+   "share": 0.5,
+   "r_yeas": 205,
+   "d_yeas": 205,
+   "shade": 0.0,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-118-146",
+  "congress": 118,
+  "public_law": "118-146",
+  "bill": "HR 1432",
+  "title": "VETT Act",
+  "enacted": "2024-12-12",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Taxation",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-147",
+  "congress": 118,
+  "public_law": "118-147",
+  "bill": "HR 3821",
+  "title": "Firefighter Cancer Registry Reauthorization Act of 2023",
+  "enacted": "2024-12-12",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Health",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "D",
+   "share": 0.504,
+   "r_yeas": 205,
+   "d_yeas": 208,
+   "shade": 0.007,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-118-148",
+  "congress": 118,
+  "public_law": "118-148",
+  "bill": "HR 5863",
+  "title": "Federal Disaster Tax Relief Act of 2023",
+  "enacted": "2024-12-12",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Taxation",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "D",
+   "share": 0.51,
+   "r_yeas": 187,
+   "d_yeas": 195,
+   "shade": 0.021,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-118-149",
+  "congress": 118,
+  "public_law": "118-149",
+  "bill": "S 91",
+  "title": "Forgotten Heroes of the Holocaust Congressional Gold Medal Act",
+  "enacted": "2024-12-12",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "International Affairs",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-150",
+  "congress": 118,
+  "public_law": "118-150",
+  "bill": "S 4243",
+  "title": "Shirley Chisholm Congressional Gold Medal Act",
+  "enacted": "2024-12-12",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Congress",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-138",
+  "congress": 118,
+  "public_law": "118-138",
+  "bill": "HR 2950",
+  "title": "Coastal Habitat Conservation Act of 2023",
+  "enacted": "2024-12-11",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Environmental Protection",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-139",
+  "congress": 118,
+  "public_law": "118-139",
+  "bill": "HR 5302",
+  "title": "Michel O. Maceda Memorial Act",
+  "enacted": "2024-12-11",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Immigration",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-140",
+  "congress": 118,
+  "public_law": "118-140",
+  "bill": "HR 5536",
+  "title": "Grant Transparency Act of 2023",
+  "enacted": "2024-12-11",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-141",
+  "congress": 118,
+  "public_law": "118-141",
+  "bill": "HR 5799",
+  "title": "James R. Dominguez Memorial Act of 2023",
+  "enacted": "2024-12-11",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-142",
+  "congress": 118,
+  "public_law": "118-142",
+  "bill": "HR 7218",
+  "title": "BOLD Infrastructure for Alzheimer's Reauthorization Act of 2024",
+  "enacted": "2024-12-11",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Health",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-143",
+  "congress": 118,
+  "public_law": "118-143",
+  "bill": "HR 7438",
+  "title": "FIFA World Cup 2026 Commemorative Coin Act",
+  "enacted": "2024-12-11",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Finance and Financial Sector",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-144",
+  "congress": 118,
+  "public_law": "118-144",
+  "bill": "HR 7764",
+  "title": "Commission to Study the Potential Transfer of the Weitzman National Museum of American Jewish History to the Smithsonian Institution Act",
+  "enacted": "2024-12-11",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Arts, Culture, Religion",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-145",
+  "congress": 118,
+  "public_law": "118-145",
+  "bill": "HR 8932",
+  "title": "FAFSA Deadline Act",
+  "enacted": "2024-12-11",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Education",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "R",
+   "share": 0.512,
+   "r_yeas": 195,
+   "d_yeas": 186,
+   "shade": 0.024,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-118-137",
+  "congress": 118,
+  "public_law": "118-137",
+  "bill": "HR 1505",
+  "title": "No Stolen Trademarks Honored in America Act of 2023",
+  "enacted": "2024-12-01",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Commerce",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-108",
+  "congress": 118,
+  "public_law": "118-108",
+  "bill": "HR 599",
+  "title": "To designate the facility of the United States Postal Service located at 3500 West 6th Street, Suite 103 in Los Angeles, California, as the \"Dosan Ahn Chang Ho Post Office\".",
+  "enacted": "2024-11-25",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-109",
+  "congress": 118,
+  "public_law": "118-109",
+  "bill": "HR 807",
+  "title": "Working Dog Commemorative Coin Act",
+  "enacted": "2024-11-25",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Finance and Financial Sector",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-110",
+  "congress": 118,
+  "public_law": "118-110",
+  "bill": "HR 1060",
+  "title": "To designate the facility of the United States Postal Service located at 1663 East Date Place in San Bernardino, California, as the \"Dr. Margaret B. Hill Post Office Building\".",
+  "enacted": "2024-11-25",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-111",
+  "congress": 118,
+  "public_law": "118-111",
+  "bill": "HR 1098",
+  "title": "To designate the facility of the United States Postal Service located at 50 East Derry Road in East Derry, New Hampshire, as the \"Chief Edward B. Garone Post Office\".",
+  "enacted": "2024-11-25",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-112",
+  "congress": 118,
+  "public_law": "118-112",
+  "bill": "HR 3608",
+  "title": "To designate the facility of the United States Postal Service located at 28081 Marguerite Parkway in Mission Viejo, California, as the \"Major Megan McClung Post Office Building\".",
+  "enacted": "2024-11-25",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-113",
+  "congress": 118,
+  "public_law": "118-113",
+  "bill": "HR 3728",
+  "title": "To designate the facility of the United States Postal Service located at 25 Dorchester Avenue, Room 1, in Boston, Massachusetts, as the \"Caroline Chang Post Office\".",
+  "enacted": "2024-11-25",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-114",
+  "congress": 118,
+  "public_law": "118-114",
+  "bill": "HR 4190",
+  "title": "Restoring Benefits to Defrauded Veterans Act",
+  "enacted": "2024-11-25",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Armed Forces and National Security",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-115",
+  "congress": 118,
+  "public_law": "118-115",
+  "bill": "HR 5464",
+  "title": "To name the Department of Veterans Affairs community-based outpatient clinic in Guntersville, Alabama, as the \"Colonel Ola Lee Mize Department of Veterans Affairs Clinic\".",
+  "enacted": "2024-11-25",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Armed Forces and National Security",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-116",
+  "congress": 118,
+  "public_law": "118-116",
+  "bill": "HR 5476",
+  "title": "To designate the facility of the United States Postal Service located at 1077 River Road, Suite 1, in Washington Crossing, Pennsylvania, as the \"Susan C. Barnhart Post Office\".",
+  "enacted": "2024-11-25",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-117",
+  "congress": 118,
+  "public_law": "118-117",
+  "bill": "HR 5490",
+  "title": "Bolstering Ecosystems Against Coastal Harm Act",
+  "enacted": "2024-11-25",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Public Lands and Natural Resources",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-118",
+  "congress": 118,
+  "public_law": "118-118",
+  "bill": "HR 5640",
+  "title": "To designate the facility of the United States Postal Service located at 12804 Chillicothe Road in Chesterland, Ohio, as the \"Sgt. Wolfgang Kyle Weninger Post Office Building\".",
+  "enacted": "2024-11-25",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-119",
+  "congress": 118,
+  "public_law": "118-119",
+  "bill": "HR 5712",
+  "title": "To designate the facility of the United States Postal Service located at 220 Fremont Street in Kiel, Wisconsin, as the \"Trooper Trevor J. Casper Post Office Building\".",
+  "enacted": "2024-11-25",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-120",
+  "congress": 118,
+  "public_law": "118-120",
+  "bill": "HR 5861",
+  "title": "BRIDGE for Workers Act",
+  "enacted": "2024-11-25",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Labor and Employment",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-121",
+  "congress": 118,
+  "public_law": "118-121",
+  "bill": "HR 5985",
+  "title": "To designate the facility of the United States Postal Service located at 517 Seagaze Drive in Oceanside, California, as the \"Charlesetta Reece Allen Post Office Building\".",
+  "enacted": "2024-11-25",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-122",
+  "congress": 118,
+  "public_law": "118-122",
+  "bill": "HR 6073",
+  "title": "To designate the facility of the United States Postal Service located at 9925 Bustleton Avenue in Philadelphia, Pennsylvania, as the \"Sergeant Christopher David Fitzgerald Post Office Building\".",
+  "enacted": "2024-11-25",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-123",
+  "congress": 118,
+  "public_law": "118-123",
+  "bill": "HR 6249",
+  "title": "Think Differently About Emergencies Act",
+  "enacted": "2024-11-25",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Emergency Management",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-124",
+  "congress": 118,
+  "public_law": "118-124",
+  "bill": "HR 6324",
+  "title": "Fiscal Year 2024 Veterans Affairs Major Medical Facility Authorization Act",
+  "enacted": "2024-11-25",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Armed Forces and National Security",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-125",
+  "congress": 118,
+  "public_law": "118-125",
+  "bill": "HR 6651",
+  "title": "To designate the facility of the United States Postal Service located at 603 West 3rd Street in Necedah, Wisconsin, as the \"Sergeant Kenneth E. Murphy Post Office Building\".",
+  "enacted": "2024-11-25",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-126",
+  "congress": 118,
+  "public_law": "118-126",
+  "bill": "HR 7192",
+  "title": "To designate the facility of the United States Postal Service located at 333 West Broadway in Anaheim, California, as the \"Dr. William I. 'Bill' Kott Post Office Building\".",
+  "enacted": "2024-11-25",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-127",
+  "congress": 118,
+  "public_law": "118-127",
+  "bill": "HR 7199",
+  "title": "To designate the facility of the United States Postal Service located at S74w16860 Janesville Road, in Muskego, Wisconsin, as the \"Colonel Hans Christian Heg Post Office\".",
+  "enacted": "2024-11-25",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-128",
+  "congress": 118,
+  "public_law": "118-128",
+  "bill": "HR 7333",
+  "title": "To name the Department of Veterans Affairs medical center in West Palm Beach, Florida, as the \"Thomas H. Corey VA Medical Center\".",
+  "enacted": "2024-11-25",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Armed Forces and National Security",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-129",
+  "congress": 118,
+  "public_law": "118-129",
+  "bill": "HR 7423",
+  "title": "To designate the facility of the United States Postal Service located at 103 Benedette Street in Rayville, Louisiana, as the \"Luke Letlow Post Office Building\".",
+  "enacted": "2024-11-25",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "D",
+   "share": 0.501,
+   "r_yeas": 200,
+   "d_yeas": 201,
+   "shade": 0.002,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-118-130",
+  "congress": 118,
+  "public_law": "118-130",
+  "bill": "HR 7777",
+  "title": "Veterans’ Compensation Cost-of-Living Adjustment Act of 2024",
+  "enacted": "2024-11-25",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Armed Forces and National Security",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-131",
+  "congress": 118,
+  "public_law": "118-131",
+  "bill": "S 1510",
+  "title": "GAO Inspector General Parity Act",
+  "enacted": "2024-11-25",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-132",
+  "congress": 118,
+  "public_law": "118-132",
+  "bill": "S 2143",
+  "title": "A bill to designate the facility of the United States Postal Service located at 320 South 2nd Avenue in Sioux Falls, South Dakota, as the \"Staff Sergeant Robb Lura Rolfing Post Office Building\".",
+  "enacted": "2024-11-25",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-133",
+  "congress": 118,
+  "public_law": "118-133",
+  "bill": "S 2274",
+  "title": "A bill to designate the facility of the United States Postal Service located at 112 Wyoming Street in Shoshoni, Wyoming, as the \"Dessie A. Bebout Post Office\".",
+  "enacted": "2024-11-25",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-134",
+  "congress": 118,
+  "public_law": "118-134",
+  "bill": "S 3126",
+  "title": "Mark Our Place Act",
+  "enacted": "2024-11-25",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Armed Forces and National Security",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-135",
+  "congress": 118,
+  "public_law": "118-135",
+  "bill": "S 3267",
+  "title": "A bill to designate the facility of the United States Postal Service located at 410 Dakota Avenue South in Huron, South Dakota, as the \"First Lieutenant Thomas Michael Martin Post Office Building\".",
+  "enacted": "2024-11-25",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-136",
+  "congress": 118,
+  "public_law": "118-136",
+  "bill": "S 3419",
+  "title": "A bill to designate the facility of the United States Postal Service located at 1765 Camp Hill Bypass in Camp Hill, Pennsylvania, as the \"John Charles Traub Post Office\".",
+  "enacted": "2024-11-25",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-107",
+  "congress": 118,
+  "public_law": "118-107",
+  "bill": "HR 7189",
+  "title": "Congenital Heart Futures Reauthorization Act of 2024",
+  "enacted": "2024-11-21",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Health",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-106",
+  "congress": 118,
+  "public_law": "118-106",
+  "bill": "HR 6513",
+  "title": "COCOA Act of 2024",
+  "enacted": "2024-10-04",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "R",
+   "share": 0.504,
+   "r_yeas": 208,
+   "d_yeas": 205,
+   "shade": 0.007,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-118-104",
+  "congress": 118,
+  "public_law": "118-104",
+  "bill": "S 1549",
+  "title": "Congressional Budget Office Data Access Act",
+  "enacted": "2024-10-02",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Economics and Public Finance",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-105",
+  "congress": 118,
+  "public_law": "118-105",
+  "bill": "S 2228",
+  "title": "Building Chips in America Act of 2023",
+  "enacted": "2024-10-02",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Environmental Protection",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "R",
+   "share": 0.693,
+   "r_yeas": 178,
+   "d_yeas": 79,
+   "shade": 0.385,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-118-91",
+  "congress": 118,
+  "public_law": "118-91",
+  "bill": "HR 9106",
+  "title": "Enhanced Presidential Security Act of 2024",
+  "enacted": "2024-10-01",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "R",
+   "share": 0.511,
+   "r_yeas": 207,
+   "d_yeas": 198,
+   "shade": 0.022,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-118-92",
+  "congress": 118,
+  "public_law": "118-92",
+  "bill": "S 133",
+  "title": "NAPA Reauthorization Act",
+  "enacted": "2024-10-01",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Health",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-93",
+  "congress": 118,
+  "public_law": "118-93",
+  "bill": "S 134",
+  "title": "Alzheimer’s Accountability and Investment Act",
+  "enacted": "2024-10-01",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Health",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-94",
+  "congress": 118,
+  "public_law": "118-94",
+  "bill": "S 612",
+  "title": "Lake Tahoe Restoration Reauthorization Act",
+  "enacted": "2024-10-01",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Environmental Protection",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-95",
+  "congress": 118,
+  "public_law": "118-95",
+  "bill": "S 656",
+  "title": "Veteran Improvement Commercial Driver License Act of 2023",
+  "enacted": "2024-10-01",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Armed Forces and National Security",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-96",
+  "congress": 118,
+  "public_law": "118-96",
+  "bill": "S 670",
+  "title": "IMPACTT Human Trafficking Act",
+  "enacted": "2024-10-01",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Immigration",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-97",
+  "congress": 118,
+  "public_law": "118-97",
+  "bill": "S 679",
+  "title": "GAO Database Modernization Act of 2023",
+  "enacted": "2024-10-01",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-98",
+  "congress": 118,
+  "public_law": "118-98",
+  "bill": "S 794",
+  "title": "CTPAT Pilot Program Act of 2023",
+  "enacted": "2024-10-01",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Foreign Trade and International Finance",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-99",
+  "congress": 118,
+  "public_law": "118-99",
+  "bill": "S 2685",
+  "title": "Reuse Excess Property Act",
+  "enacted": "2024-10-01",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-100",
+  "congress": 118,
+  "public_law": "118-100",
+  "bill": "S 3639",
+  "title": "A bill to designate the facility of the United States Postal Service located at 2075 West Stadium Boulevard in Ann Arbor, Michigan, as the \"Robert Hayden Post Office\".",
+  "enacted": "2024-10-01",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-101",
+  "congress": 118,
+  "public_law": "118-101",
+  "bill": "S 3640",
+  "title": "A bill to designate the facility of the United States Postal Service located at 155 South Main Street in Mount Clemens, Michigan, as the \"Lieutenant Colonel Alexander Jefferson Post Office\".",
+  "enacted": "2024-10-01",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-102",
+  "congress": 118,
+  "public_law": "118-102",
+  "bill": "S 3851",
+  "title": "A bill to designate the facility of the United States Postal Service located at 90 McCamly Street South in Battle Creek, Michigan, as the \"Sojourner Truth Post Office\".",
+  "enacted": "2024-10-01",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-103",
+  "congress": 118,
+  "public_law": "118-103",
+  "bill": "S 4698",
+  "title": "DHS Joint Task Forces Reauthorization Act of 2024",
+  "enacted": "2024-10-01",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Immigration",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-89",
+  "congress": 118,
+  "public_law": "118-89",
+  "bill": "HR 7032",
+  "title": "Congressional Budget Office Data Sharing Act",
+  "enacted": "2024-09-30",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Economics and Public Finance",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-90",
+  "congress": 118,
+  "public_law": "118-90",
+  "bill": "S 3764",
+  "title": "United States Commission on International Religious Freedom Reauthorization Act of 2024",
+  "enacted": "2024-09-30",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "International Affairs",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "D",
+   "share": 0.534,
+   "r_yeas": 170,
+   "d_yeas": 195,
+   "shade": 0.068,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-118-83",
+  "congress": 118,
+  "public_law": "118-83",
+  "bill": "HR 9747",
+  "title": "Continuing Appropriations and Extensions Act, 2025",
+  "enacted": "2024-09-26",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Economics and Public Finance",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "D",
+   "share": 0.614,
+   "r_yeas": 160,
+   "d_yeas": 255,
+   "shade": 0.229,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": [],
+    "Senate": []
+   }
+  },
+  "control": {
+   "House": "R",
+   "Senate": "D"
+  }
+ },
+ {
+  "id": "pl-118-84",
+  "congress": 118,
+  "public_law": "118-84",
+  "bill": "S 265",
+  "title": "SIREN Reauthorization Act",
+  "enacted": "2024-09-26",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Health",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-85",
+  "congress": 118,
+  "public_law": "118-85",
+  "bill": "S 1648",
+  "title": "Launch Communications Act",
+  "enacted": "2024-09-26",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Science, Technology, Communications",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-86",
+  "congress": 118,
+  "public_law": "118-86",
+  "bill": "S 4351",
+  "title": "Poison Control Centers Reauthorization Act of 2024",
+  "enacted": "2024-09-26",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Health",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-87",
+  "congress": 118,
+  "public_law": "118-87",
+  "bill": "S 2825",
+  "title": "Dustoff Crews of the Vietnam War Congressional Gold Medal Act",
+  "enacted": "2024-09-26",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Armed Forces and National Security",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-88",
+  "congress": 118,
+  "public_law": "118-88",
+  "bill": "S 2861",
+  "title": "Billie Jean King Congressional Gold Medal Act",
+  "enacted": "2024-09-26",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Civil Rights and Liberties, Minority Issues",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "D",
+   "share": 0.64,
+   "r_yeas": 111,
+   "d_yeas": 197,
+   "shade": 0.279,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-118-81",
+  "congress": 118,
+  "public_law": "118-81",
+  "bill": "HR 7377",
+  "title": "Royalty Resiliency Act",
+  "enacted": "2024-09-20",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Energy",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-82",
+  "congress": 118,
+  "public_law": "118-82",
+  "bill": "HR 9468",
+  "title": "Veterans Benefits Continuity and Accountability Supplemental Appropriations Act, 2024",
+  "enacted": "2024-09-20",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Armed Forces and National Security",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-79",
+  "congress": 118,
+  "public_law": "118-79",
+  "bill": "HR 1076",
+  "title": "Preventing the Financing of Illegal Synthetic Drugs Act",
+  "enacted": "2024-09-13",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "R",
+   "share": 0.517,
+   "r_yeas": 208,
+   "d_yeas": 194,
+   "shade": 0.035,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-118-80",
+  "congress": 118,
+  "public_law": "118-80",
+  "bill": "S 1608",
+  "title": "Starr–Camargo Bridge Expansion Act",
+  "enacted": "2024-09-13",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Transportation and Public Works",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-72",
+  "congress": 118,
+  "public_law": "118-72",
+  "bill": "HR 1105",
+  "title": "Debbie Smith Act of 2023",
+  "enacted": "2024-07-30",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Crime and Law Enforcement",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "R",
+   "share": 0.511,
+   "r_yeas": 207,
+   "d_yeas": 198,
+   "shade": 0.022,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-118-73",
+  "congress": 118,
+  "public_law": "118-73",
+  "bill": "S 227",
+  "title": "Improving Access to Our Courts Act",
+  "enacted": "2024-07-30",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Law",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "R",
+   "share": 0.51,
+   "r_yeas": 206,
+   "d_yeas": 198,
+   "shade": 0.02,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-118-74",
+  "congress": 118,
+  "public_law": "118-74",
+  "bill": "S 1973",
+  "title": "All-American Flag Act",
+  "enacted": "2024-07-30",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-75",
+  "congress": 118,
+  "public_law": "118-75",
+  "bill": "S 3249",
+  "title": "A bill to designate the outpatient clinic of the Department of Veterans Affairs in Wyandotte County, Kansas City, Kansas, as the \"Captain Elwin Shopteese VA Clinic\".",
+  "enacted": "2024-07-30",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Armed Forces and National Security",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "R",
+   "share": 0.515,
+   "r_yeas": 187,
+   "d_yeas": 176,
+   "shade": 0.03,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-118-76",
+  "congress": 118,
+  "public_law": "118-76",
+  "bill": "S 3285",
+  "title": "A bill to rename the community-based outpatient clinic of the Department of Veterans Affairs in Butte, Montana, as the \"Charlie Dowd VA Clinic\".",
+  "enacted": "2024-07-30",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Armed Forces and National Security",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-77",
+  "congress": 118,
+  "public_law": "118-77",
+  "bill": "S 3706",
+  "title": "Victims' VOICES Act",
+  "enacted": "2024-07-30",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Crime and Law Enforcement",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "R",
+   "share": 0.512,
+   "r_yeas": 209,
+   "d_yeas": 199,
+   "shade": 0.025,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-118-78",
+  "congress": 118,
+  "public_law": "118-78",
+  "bill": "S 4548",
+  "title": "Foreign Extortion Prevention Technical Corrections Act",
+  "enacted": "2024-07-30",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Crime and Law Enforcement",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-71",
+  "congress": 118,
+  "public_law": "118-71",
+  "bill": "HR 3019",
+  "title": "Federal Prison Oversight Act",
+  "enacted": "2024-07-25",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "tie",
+   "share": 0.5,
+   "r_yeas": 196,
+   "d_yeas": 196,
+   "shade": 0.0,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-118-68",
+  "congress": 118,
+  "public_law": "118-68",
+  "bill": "HR 1240",
+  "title": "Winnebago Land Transfer Act of 2023",
+  "enacted": "2024-07-12",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Native Americans",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-69",
+  "congress": 118,
+  "public_law": "118-69",
+  "bill": "HR 4581",
+  "title": "Maternal and Child Health Stillbirth Prevention Act of 2024",
+  "enacted": "2024-07-12",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Health",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "R",
+   "share": 0.505,
+   "r_yeas": 206,
+   "d_yeas": 202,
+   "shade": 0.01,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-118-70",
+  "congress": 118,
+  "public_law": "118-70",
+  "bill": "S 138",
+  "title": "Promoting a Resolution to the Tibet-China Dispute Act",
+  "enacted": "2024-07-12",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "International Affairs",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "D",
+   "share": 0.527,
+   "r_yeas": 185,
+   "d_yeas": 206,
+   "shade": 0.054,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-118-67",
+  "congress": 118,
+  "public_law": "118-67",
+  "bill": "S 870",
+  "title": "An act to authorize appropriations for the United States Fire Administration and firefighter assistance grant programs, to advance the benefits of nuclear energy, and for other purposes.",
+  "enacted": "2024-07-09",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Energy",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "D",
+   "share": 0.503,
+   "r_yeas": 238,
+   "d_yeas": 241,
+   "shade": 0.006,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": [],
+    "Senate": []
+   }
+  },
+  "control": {
+   "House": "R",
+   "Senate": "D"
+  }
+ },
+ {
+  "id": "pl-118-66",
+  "congress": 118,
+  "public_law": "118-66",
+  "bill": "HR 2365",
+  "title": "Dr. Emmanuel Bilirakis and Honorable Jennifer Wexton National Plan to End Parkinson’s Act",
+  "enacted": "2024-07-02",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Health",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "D",
+   "share": 0.509,
+   "r_yeas": 200,
+   "d_yeas": 207,
+   "shade": 0.017,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-118-65",
+  "congress": 118,
+  "public_law": "118-65",
+  "bill": "S 2051",
+  "title": "Missing Children’s Assistance Reauthorization Act of 2023",
+  "enacted": "2024-06-17",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Crime and Law Enforcement",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "D",
+   "share": 0.502,
+   "r_yeas": 202,
+   "d_yeas": 204,
+   "shade": 0.005,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-118-64",
+  "congress": 118,
+  "public_law": "118-64",
+  "bill": "S 546",
+  "title": "Recruit and Retain Act",
+  "enacted": "2024-05-24",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Crime and Law Enforcement",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "D",
+   "share": 0.511,
+   "r_yeas": 181,
+   "d_yeas": 189,
+   "shade": 0.022,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-118-63",
+  "congress": 118,
+  "public_law": "118-63",
+  "bill": "HR 3935",
+  "title": "FAA Reauthorization Act of 2024",
+  "enacted": "2024-05-16",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Transportation and Public Works",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "D",
+   "share": 0.501,
+   "r_yeas": 236,
+   "d_yeas": 237,
+   "shade": 0.002,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": [],
+    "Senate": []
+   }
+  },
+  "control": {
+   "House": "R",
+   "Senate": "D"
+  }
+ },
+ {
+  "id": "pl-118-61",
+  "congress": 118,
+  "public_law": "118-61",
+  "bill": "HR 593",
+  "title": "To rename the Department of Veterans Affairs community-based outpatient clinic in Hinesville, Georgia, as the \"John Gibson, Dan James, William Sapp, and Frankie Smiley VA Clinic\".",
+  "enacted": "2024-05-13",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Armed Forces and National Security",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "R",
+   "share": 0.509,
+   "r_yeas": 208,
+   "d_yeas": 201,
+   "shade": 0.017,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-118-62",
+  "congress": 118,
+  "public_law": "118-62",
+  "bill": "HR 1042",
+  "title": "Prohibiting Russian Uranium Imports Act",
+  "enacted": "2024-05-13",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Energy",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-60",
+  "congress": 118,
+  "public_law": "118-60",
+  "bill": "HR 8289",
+  "title": "Airport and Airway Extension Act of 2024, Part II",
+  "enacted": "2024-05-10",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Transportation and Public Works",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "D",
+   "share": 0.514,
+   "r_yeas": 187,
+   "d_yeas": 198,
+   "shade": 0.029,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-118-52",
+  "congress": 118,
+  "public_law": "118-52",
+  "bill": "HR 292",
+  "title": "To designate the facility of the United States Postal Service located at 24355 Creekside Road in Santa Clarita, California, as the \"William L. Reynolds Post Office Building\".",
+  "enacted": "2024-05-07",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-53",
+  "congress": 118,
+  "public_law": "118-53",
+  "bill": "HR 996",
+  "title": "To designate the facility of the United States Postal Service located at 3901 MacArthur Blvd., in New Orleans, Louisiana, as the \"Dr. Rudy Lombard Post Office\".",
+  "enacted": "2024-05-07",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-54",
+  "congress": 118,
+  "public_law": "118-54",
+  "bill": "HR 2379",
+  "title": "To designate the facility of the United States Postal Service located at 616 East Main Street in St. Charles, Illinois, as the \"Veterans of the Vietnam War Memorial Post Office\".",
+  "enacted": "2024-05-07",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "R",
+   "share": 0.508,
+   "r_yeas": 198,
+   "d_yeas": 192,
+   "shade": 0.015,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-118-55",
+  "congress": 118,
+  "public_law": "118-55",
+  "bill": "HR 2754",
+  "title": "To designate the facility of the United States Postal Service located at 2395 East Del Mar Boulevard in Laredo, Texas, as the \"Lance Corporal David Lee Espinoza, Lance Corporal Juan Rodrigo Rodriguez & Sergeant Roberto Arizola Jr. Post Office Building\".",
+  "enacted": "2024-05-07",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "R",
+   "share": 0.51,
+   "r_yeas": 214,
+   "d_yeas": 206,
+   "shade": 0.019,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-118-56",
+  "congress": 118,
+  "public_law": "118-56",
+  "bill": "HR 3865",
+  "title": "To designate the facility of the United States Postal Service located at 101 South 8th Street in Lebanon, Pennsylvania, as the \"Lieutenant William D. Lebo Post Office Building\".",
+  "enacted": "2024-05-07",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-57",
+  "congress": 118,
+  "public_law": "118-57",
+  "bill": "HR 3944",
+  "title": "To designate the facility of the United States Postal Service located at 120 West Church Street in Mount Vernon, Georgia, as the \"Second Lieutenant Patrick Palmer Calhoun Post Office\".",
+  "enacted": "2024-05-07",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-58",
+  "congress": 118,
+  "public_law": "118-58",
+  "bill": "HR 3947",
+  "title": "To designate the facility of the United States Postal Service located at 859 North State Road 21 in Melrose, Florida, as the \"Pamela Jane Rock Post Office Building\".",
+  "enacted": "2024-05-07",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-59",
+  "congress": 118,
+  "public_law": "118-59",
+  "bill": "S 474",
+  "title": "REPORT Act",
+  "enacted": "2024-05-07",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Crime and Law Enforcement",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-50",
+  "congress": 118,
+  "public_law": "118-50",
+  "bill": "HR 815",
+  "title": "Making emergency supplemental appropriations for the fiscal year ending September 30, 2024, and for other purposes.",
+  "enacted": "2024-04-24",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Economics and Public Finance",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "D",
+   "share": 0.597,
+   "r_yeas": 31,
+   "d_yeas": 46,
+   "shade": 0.195,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "Senate": []
+   }
+  },
+  "control": {
+   "Senate": "D"
+  }
+ },
+ {
+  "id": "pl-118-51",
+  "congress": 118,
+  "public_law": "118-51",
+  "bill": "HR 4389",
+  "title": "Migratory Birds of the Americas Conservation Enhancements Act of 2023",
+  "enacted": "2024-04-24",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Animals",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-49",
+  "congress": 118,
+  "public_law": "118-49",
+  "bill": "HR 7888",
+  "title": "Reforming Intelligence and Securing America Act",
+  "enacted": "2024-04-20",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Armed Forces and National Security",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "D",
+   "share": 0.529,
+   "r_yeas": 156,
+   "d_yeas": 175,
+   "shade": 0.057,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": [],
+    "Senate": []
+   }
+  },
+  "control": {
+   "House": "R",
+   "Senate": "D"
+  }
+ },
+ {
+  "id": "pl-118-48",
+  "congress": 118,
+  "public_law": "118-48",
+  "bill": "S 382",
+  "title": "Puyallup Tribe of Indians Land Into Trust Confirmation Act of 2023",
+  "enacted": "2024-04-19",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Native Americans",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "D",
+   "share": 0.516,
+   "r_yeas": 194,
+   "d_yeas": 207,
+   "shade": 0.032,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-118-47",
+  "congress": 118,
+  "public_law": "118-47",
+  "bill": "HR 2882",
+  "title": "Further Consolidated Appropriations Act, 2024",
+  "enacted": "2024-03-23",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Economics and Public Finance",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "D",
+   "share": 0.648,
+   "r_yeas": 126,
+   "d_yeas": 232,
+   "shade": 0.296,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": [],
+    "Senate": []
+   }
+  },
+  "control": {
+   "House": "R",
+   "Senate": "D"
+  }
+ },
+ {
+  "id": "pl-118-45",
+  "congress": 118,
+  "public_law": "118-45",
+  "bill": "S 992",
+  "title": "I-27 Numbering Act of 2023",
+  "enacted": "2024-03-22",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Transportation and Public Works",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-46",
+  "congress": 118,
+  "public_law": "118-46",
+  "bill": "S 1278",
+  "title": "A bill to designate the Federal building located at 985 Michigan Avenue in Detroit, Michigan, as the \"Rosa Parks Federal Building\", and for other purposes.",
+  "enacted": "2024-03-22",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-43",
+  "congress": 118,
+  "public_law": "118-43",
+  "bill": "S 206",
+  "title": "END FENTANYL Act",
+  "enacted": "2024-03-18",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Crime and Law Enforcement",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-44",
+  "congress": 118,
+  "public_law": "118-44",
+  "bill": "S 1858",
+  "title": "Disaster Assistance Deadlines Alignment Act",
+  "enacted": "2024-03-18",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Emergency Management",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-42",
+  "congress": 118,
+  "public_law": "118-42",
+  "bill": "HR 4366",
+  "title": "Consolidated Appropriations Act, 2024",
+  "enacted": "2024-03-09",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Economics and Public Finance",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "D",
+   "share": 0.616,
+   "r_yeas": 158,
+   "d_yeas": 253,
+   "shade": 0.231,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": [],
+    "Senate": []
+   }
+  },
+  "control": {
+   "House": "R",
+   "Senate": "D"
+  }
+ },
+ {
+  "id": "pl-118-41",
+  "congress": 118,
+  "public_law": "118-41",
+  "bill": "HR 7454",
+  "title": "Airport and Airway Extension Act of 2024",
+  "enacted": "2024-03-08",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Transportation and Public Works",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "D",
+   "share": 0.524,
+   "r_yeas": 191,
+   "d_yeas": 210,
+   "shade": 0.047,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-118-40",
+  "congress": 118,
+  "public_law": "118-40",
+  "bill": "HR 7463",
+  "title": "Extension of Continuing Appropriations and Other Matters Act, 2024",
+  "enacted": "2024-03-01",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Economics and Public Finance",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "D",
+   "share": 0.645,
+   "r_yeas": 140,
+   "d_yeas": 254,
+   "shade": 0.289,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": [],
+    "Senate": []
+   }
+  },
+  "control": {
+   "House": "R",
+   "Senate": "D"
+  }
+ },
+ {
+  "id": "pl-118-39",
+  "congress": 118,
+  "public_law": "118-39",
+  "bill": "HR 1568",
+  "title": "Moving Americans Privacy Protection Act",
+  "enacted": "2024-02-09",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Foreign Trade and International Finance",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-38",
+  "congress": 118,
+  "public_law": "118-38",
+  "bill": "S 3427",
+  "title": "Overtime Pay for Protective Services Act of 2023",
+  "enacted": "2024-02-06",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "D",
+   "share": 0.53,
+   "r_yeas": 178,
+   "d_yeas": 201,
+   "shade": 0.061,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-118-36",
+  "congress": 118,
+  "public_law": "118-36",
+  "bill": "S 3222",
+  "title": "A bill to ensure the security of office space rented by Senators, and for other purposes.",
+  "enacted": "2024-01-26",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Congress",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-37",
+  "congress": 118,
+  "public_law": "118-37",
+  "bill": "S 3250",
+  "title": "A bill to provide remote access to court proceedings for victims of the 1988 Bombing of Pan Am Flight 103 over Lockerbie, Scotland.",
+  "enacted": "2024-01-26",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Law",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "D",
+   "share": 0.504,
+   "r_yeas": 205,
+   "d_yeas": 208,
+   "shade": 0.007,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-118-35",
+  "congress": 118,
+  "public_law": "118-35",
+  "bill": "HR 2872",
+  "title": "Making further continuing appropriations for the fiscal year ending September 30, 2024, and for other purposes.",
+  "enacted": "2024-01-19",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Public Lands and Natural Resources",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "D",
+   "share": 0.657,
+   "r_yeas": 133,
+   "d_yeas": 255,
+   "shade": 0.314,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": [],
+    "Senate": []
+   }
+  },
+  "control": {
+   "House": "R",
+   "Senate": "D"
+  }
+ },
+ {
+  "id": "pl-118-32",
+  "congress": 118,
+  "public_law": "118-32",
+  "bill": "HR 1722",
+  "title": "Grand Ronde Reservation Act Amendment of 2023",
+  "enacted": "2023-12-26",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Native Americans",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-33",
+  "congress": 118,
+  "public_law": "118-33",
+  "bill": "HR 2839",
+  "title": "To amend the Siletz Reservation Act to address the hunting, fishing, trapping, and animal gathering rights of the Confederated Tribes of Siletz Indians, and for other purposes.",
+  "enacted": "2023-12-26",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Native Americans",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-34",
+  "congress": 118,
+  "public_law": "118-34",
+  "bill": "HR 6503",
+  "title": "Airport and Airway Extension Act of 2023, Part II",
+  "enacted": "2023-12-26",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Transportation and Public Works",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "R",
+   "share": 0.508,
+   "r_yeas": 191,
+   "d_yeas": 185,
+   "shade": 0.016,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-118-31",
+  "congress": 118,
+  "public_law": "118-31",
+  "bill": "HR 2670",
+  "title": "National Defense Authorization Act for Fiscal Year 2024",
+  "enacted": "2023-12-22",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Armed Forces and National Security",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "D",
+   "share": 0.519,
+   "r_yeas": 190,
+   "d_yeas": 205,
+   "shade": 0.038,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": [],
+    "Senate": []
+   }
+  },
+  "control": {
+   "House": "R",
+   "Senate": "D"
+  }
+ },
+ {
+  "id": "pl-118-28",
+  "congress": 118,
+  "public_law": "118-28",
+  "bill": "HJRES 62",
+  "title": "Providing for the reappointment of Michael Govan as a citizen regent of the Board of Regents of the Smithsonian Institution.",
+  "enacted": "2023-12-21",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-29",
+  "congress": 118,
+  "public_law": "118-29",
+  "bill": "HJRES 63",
+  "title": "Providing for the appointment of Antoinette Bush as a citizen regent of the Board of Regents of the Smithsonian Institution.",
+  "enacted": "2023-12-21",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-30",
+  "congress": 118,
+  "public_law": "118-30",
+  "bill": "HJRES 64",
+  "title": "Providing for the reappointment of Roger W. Ferguson as a citizen regent of the Board of Regents of the Smithsonian Institution.",
+  "enacted": "2023-12-21",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-23",
+  "congress": 118,
+  "public_law": "118-23",
+  "bill": "HR 1734",
+  "title": "TRANQ Research Act of 2023",
+  "enacted": "2023-12-19",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Science, Technology, Communications",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "R",
+   "share": 0.515,
+   "r_yeas": 219,
+   "d_yeas": 206,
+   "shade": 0.031,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-118-24",
+  "congress": 118,
+  "public_law": "118-24",
+  "bill": "HR 3315",
+  "title": "National Guard and Reservists Debt Relief Extension Act of 2023",
+  "enacted": "2023-12-19",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Finance and Financial Sector",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-25",
+  "congress": 118,
+  "public_law": "118-25",
+  "bill": "S 788",
+  "title": "Duck Stamp Modernization Act of 2023",
+  "enacted": "2023-12-19",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Public Lands and Natural Resources",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "D",
+   "share": 0.514,
+   "r_yeas": 196,
+   "d_yeas": 207,
+   "shade": 0.027,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-118-26",
+  "congress": 118,
+  "public_law": "118-26",
+  "bill": "S 2747",
+  "title": "A bill to amend the Federal Election Campaign Act of 1971 to extend the Administrative Fine Program for certain reporting violations.",
+  "enacted": "2023-12-19",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-27",
+  "congress": 118,
+  "public_law": "118-27",
+  "bill": "S 2787",
+  "title": "5G SALE Act",
+  "enacted": "2023-12-19",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Science, Technology, Communications",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-22",
+  "congress": 118,
+  "public_law": "118-22",
+  "bill": "HR 6363",
+  "title": "Further Continuing Appropriations and Other Extensions Act, 2024",
+  "enacted": "2023-11-17",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Economics and Public Finance",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "D",
+   "share": 0.61,
+   "r_yeas": 164,
+   "d_yeas": 256,
+   "shade": 0.219,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": [],
+    "Senate": []
+   }
+  },
+  "control": {
+   "House": "R",
+   "Senate": "D"
+  }
+ },
+ {
+  "id": "pl-118-20",
+  "congress": 118,
+  "public_law": "118-20",
+  "bill": "HR 366",
+  "title": "Korean American VALOR Act",
+  "enacted": "2023-11-13",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Armed Forces and National Security",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-21",
+  "congress": 118,
+  "public_law": "118-21",
+  "bill": "HR 1226",
+  "title": "Wounded Warrior Access Act",
+  "enacted": "2023-11-13",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Armed Forces and National Security",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "R",
+   "share": 0.519,
+   "r_yeas": 219,
+   "d_yeas": 203,
+   "shade": 0.038,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-118-17",
+  "congress": 118,
+  "public_law": "118-17",
+  "bill": "HR 5110",
+  "title": "Protecting Hunting Heritage and Education Act",
+  "enacted": "2023-10-06",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Education",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "R",
+   "share": 0.509,
+   "r_yeas": 216,
+   "d_yeas": 208,
+   "shade": 0.019,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-118-18",
+  "congress": 118,
+  "public_law": "118-18",
+  "bill": "S 112",
+  "title": "A bill to amend title 38, United States Code, to strengthen benefits for children of Vietnam veterans born with spina bifida, and for other purposes.",
+  "enacted": "2023-10-06",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Armed Forces and National Security",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "R",
+   "share": 0.507,
+   "r_yeas": 214,
+   "d_yeas": 208,
+   "shade": 0.014,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-118-19",
+  "congress": 118,
+  "public_law": "118-19",
+  "bill": "S 2795",
+  "title": "A bill to amend title 38, United States Code, to extend and modify certain authorities and requirements relating to the Department of Veterans Affairs, and for other purposes.",
+  "enacted": "2023-10-06",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Armed Forces and National Security",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-16",
+  "congress": 118,
+  "public_law": "118-16",
+  "bill": "S 475",
+  "title": "A bill to designate the clinic of the Department of Veterans Affairs in Gallup, New Mexico, as the Hiroshi \"Hershey\" Miyamura VA Clinic.",
+  "enacted": "2023-10-02",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Armed Forces and National Security",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "R",
+   "share": 0.511,
+   "r_yeas": 209,
+   "d_yeas": 200,
+   "shade": 0.022,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-118-15",
+  "congress": 118,
+  "public_law": "118-15",
+  "bill": "HR 5860",
+  "title": "Continuing Appropriations Act, 2024 and Other Extensions Act",
+  "enacted": "2023-09-30",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Economics and Public Finance",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "D",
+   "share": 0.607,
+   "r_yeas": 165,
+   "d_yeas": 255,
+   "shade": 0.214,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": [],
+    "Senate": []
+   }
+  },
+  "control": {
+   "House": "R",
+   "Senate": "D"
+  }
+ },
+ {
+  "id": "pl-118-14",
+  "congress": 118,
+  "public_law": "118-14",
+  "bill": "HR 2544",
+  "title": "Securing the U.S. Organ Procurement and Transplantation Network Act",
+  "enacted": "2023-09-22",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Health",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-13",
+  "congress": 118,
+  "public_law": "118-13",
+  "bill": "HR 4004",
+  "title": "United States-Taiwan Initiative on 21st-Century Trade First Agreement Implementation Act",
+  "enacted": "2023-08-07",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Foreign Trade and International Finance",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-11",
+  "congress": 118,
+  "public_law": "118-11",
+  "bill": "HR 423",
+  "title": "Pala Band of Mission Indians Land Transfer Act of 2023",
+  "enacted": "2023-07-28",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Native Americans",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-12",
+  "congress": 118,
+  "public_law": "118-12",
+  "bill": "HR 3672",
+  "title": "To designate the clinic of the Department of Veterans Affairs in Indian River, Michigan, as the \"Pfc. Justin T. Paton Department of Veterans Affairs Clinic\".",
+  "enacted": "2023-07-28",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Armed Forces and National Security",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "R",
+   "share": 0.513,
+   "r_yeas": 210,
+   "d_yeas": 199,
+   "shade": 0.027,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-118-10",
+  "congress": 118,
+  "public_law": "118-10",
+  "bill": "HR 1096",
+  "title": "250th Anniversary of the United States Marine Corps Commemorative Coin Act",
+  "enacted": "2023-07-26",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Finance and Financial Sector",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "R",
+   "share": 0.506,
+   "r_yeas": 207,
+   "d_yeas": 202,
+   "shade": 0.012,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-118-9",
+  "congress": 118,
+  "public_law": "118-9",
+  "bill": "S 111",
+  "title": "Providing Accountability Through Transparency Act of 2023",
+  "enacted": "2023-07-25",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "R",
+   "share": 0.517,
+   "r_yeas": 207,
+   "d_yeas": 193,
+   "shade": 0.035,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-118-8",
+  "congress": 118,
+  "public_law": "118-8",
+  "bill": "S 30",
+  "title": "Fiscal Year 2023 Veterans Affairs Major Medical Facility Authorization Act",
+  "enacted": "2023-07-18",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Armed Forces and National Security",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-7",
+  "congress": 118,
+  "public_law": "118-7",
+  "bill": "S 467",
+  "title": "CADETS Act",
+  "enacted": "2023-06-30",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Transportation and Public Works",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-6",
+  "congress": 118,
+  "public_law": "118-6",
+  "bill": "S 777",
+  "title": "Veterans' COLA Act of 2023",
+  "enacted": "2023-06-14",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Armed Forces and National Security",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-118-4",
+  "congress": 118,
+  "public_law": "118-4",
+  "bill": "HR 346",
+  "title": "NOTAM Improvement Act of 2023",
+  "enacted": "2023-06-03",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Transportation and Public Works",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "R",
+   "share": 0.512,
+   "r_yeas": 217,
+   "d_yeas": 207,
+   "shade": 0.024,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-118-5",
+  "congress": 118,
+  "public_law": "118-5",
+  "bill": "HR 3746",
+  "title": "Fiscal Responsibility Act of 2023",
+  "enacted": "2023-06-03",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Economics and Public Finance",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "D",
+   "share": 0.557,
+   "r_yeas": 166,
+   "d_yeas": 209,
+   "shade": 0.115,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": [],
+    "Senate": []
+   }
+  },
+  "control": {
+   "House": "R",
+   "Senate": "D"
+  }
+ },
+ {
+  "id": "pl-118-3",
+  "congress": 118,
+  "public_law": "118-3",
+  "bill": "HJRES 7",
+  "title": "Relating to a national emergency declared by the President on March 13, 2020.",
+  "enacted": "2023-04-10",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Emergency Management",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "R",
+   "share": 0.892,
+   "r_yeas": 263,
+   "d_yeas": 32,
+   "shade": 0.783,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": [],
+    "Senate": []
+   }
+  },
+  "control": {
+   "House": "R",
+   "Senate": "D"
+  }
+ },
+ {
+  "id": "pl-118-1",
+  "congress": 118,
+  "public_law": "118-1",
+  "bill": "HJRES 26",
+  "title": "Disapproving the action of the District of Columbia Council in approving the Revised Criminal Code Act of 2022.",
+  "enacted": "2023-03-20",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "R",
+   "share": 0.812,
+   "r_yeas": 267,
+   "d_yeas": 62,
+   "shade": 0.623,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": [],
+    "Senate": []
+   }
+  },
+  "control": {
+   "House": "R",
+   "Senate": "D"
+  }
+ },
+ {
+  "id": "pl-118-2",
+  "congress": 118,
+  "public_law": "118-2",
+  "bill": "S 619",
+  "title": "COVID-19 Origin Act of 2023",
+  "enacted": "2023-03-20",
+  "president": {
+   "id": "biden",
+   "name": "Joe Biden",
+   "party": "Democratic"
+  },
+  "became_law": "signed",
+  "policy_area": "Armed Forces and National Security",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "R",
+   "share": 0.513,
+   "r_yeas": 215,
+   "d_yeas": 204,
+   "shade": 0.026,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ }
+]

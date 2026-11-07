@@ -1,0 +1,46 @@
+{
+ "id": "pl-118-165",
+ "congress": 118,
+ "public_law": "118-165",
+ "bill": "HR 3254",
+ "title": "First Responder Access to Innovative Technologies Act",
+ "enacted": "2024-12-23",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Emergency Management",
+ "sponsor": "Rep. Payne, Donald M., Jr. [D-NJ-10]",
+ "official_summary": "<p><strong>First Responder Access to Innovative Technologies Act</strong></p><p>This act directs the Federal Emergency Management Agency (FEMA) to implement a uniform process for reviewing applications for certain anti-terrorism grants to urban areas and state, local, and tribal governments.</p><p>Specifically, the uniform review must be done for grant applications requesting to purchase first responder equipment or systems that do not meet or exceed any applicable national voluntary consensus standards.</p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr3254enr/xml/BILLS-118hr3254enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr3254rs/xml/BILLS-118hr3254rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr3254rfs/xml/BILLS-118hr3254rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr3254eh/xml/BILLS-118hr3254eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr3254rh/xml/BILLS-118hr3254rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr3254ih/xml/BILLS-118hr3254ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ165/uslm/PLAW-118publ165.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/house-bill/3254",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,43 @@
+{
+ "id": "pl-118-39",
+ "congress": 118,
+ "public_law": "118-39",
+ "bill": "HR 1568",
+ "title": "Moving Americans Privacy Protection Act",
+ "enacted": "2024-02-09",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Foreign Trade and International Finance",
+ "sponsor": "Rep. Waltz, Michael [R-FL-6]",
+ "official_summary": "<p><strong>Moving Americans Privacy Protection Act</strong></p><p>This act revises requirements regarding the public disclosure of personally identifiable information contained in the manifest of vessels or aircraft entering a U.S. port or place. Specifically, the act directs U.S. Customs and Border Protection (CBP) to remove such information, including Social Security numbers and passport numbers, from a manifest signed and transmitted to CBP before it is accessible by the public.</p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr1568enr/xml/BILLS-118hr1568enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr1568rds/xml/BILLS-118hr1568rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr1568eh/xml/BILLS-118hr1568eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr1568rh/xml/BILLS-118hr1568rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr1568ih/xml/BILLS-118hr1568ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ39/uslm/PLAW-118publ39.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/house-bill/1568",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,40 @@
+{
+ "id": "pl-118-74",
+ "congress": 118,
+ "public_law": "118-74",
+ "bill": "S 1973",
+ "title": "All-American Flag Act",
+ "enacted": "2024-07-30",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Sen. Brown, Sherrod [D-OH]",
+ "official_summary": "<p><strong>All-American Flag Act</strong></p><p>This bill prohibits agencies from using funds to procure a U.S. flag unless such flag has been manufactured in the United States from materials that have been U.S. grown, produced, or manufactured. The bill specifies exceptions to this prohibition, including an exception if flags of satisfactory quality and sufficient quantity cannot be procured as needed at market prices.</p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s1973enr/xml/BILLS-118s1973enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s1973es/xml/BILLS-118s1973es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s1973rs/xml/BILLS-118s1973rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s1973is/xml/BILLS-118s1973is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ74/uslm/PLAW-118publ74.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/senate-bill/1973",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

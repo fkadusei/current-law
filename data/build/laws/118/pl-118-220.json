@@ -1,0 +1,40 @@
+{
+ "id": "pl-118-220",
+ "congress": 118,
+ "public_law": "118-220",
+ "bill": "HR 6244",
+ "title": "To designate the facility of the United States Postal Service located at 1535 East Los Ebanos Boulevard in Brownsville, Texas, as the \"1st Lieutenant Andres Zermeno Post Office Building\".",
+ "enacted": "2025-01-02",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Gonzalez, Vicente [D-TX-34]",
+ "official_summary": "<p>This act designates the facility of the U.S. Postal Service located at 1535 East Los Ebanos Boulevard in Brownsville, Texas, as the 1st Lieutenant Andres Zermeno Post Office Building.</p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr6244enr/xml/BILLS-118hr6244enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr6244rfs/xml/BILLS-118hr6244rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr6244eh/xml/BILLS-118hr6244eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr6244ih/xml/BILLS-118hr6244ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ220/uslm/PLAW-118publ220.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/house-bill/6244",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

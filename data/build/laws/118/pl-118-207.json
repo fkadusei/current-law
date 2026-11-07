@@ -1,0 +1,40 @@
+{
+ "id": "pl-118-207",
+ "congress": 118,
+ "public_law": "118-207",
+ "bill": "S 4716",
+ "title": "Financial Management Risk Reduction Act",
+ "enacted": "2024-12-23",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Sen. Peters, Gary C. [D-MI]",
+ "official_summary": "<p><strong>Financial Management Risk Reduction Act</strong></p><p>This act increases federal oversight of single audits submitted by certain recipients of federal awards (i.e., federal financial assistance, including grants, and federal cost reimbursement contracts). A <em>single audit&nbsp;</em>is conducted by an independent auditor and includes the financial statements and federal awards of a non-federal entity.&nbsp;</p><p>Specifically, the act requires the Office of Management and Budget (OMB) to designate one or more federal agencies to conduct a government-wide analysis of single audit quality.&nbsp;Such government-wide analysis must be completed within three years of enactment and every six years thereafter.</p><p>OMB must develop a strategy, and the General Services Administration must develop analytic tools, to identify risks to federal award funds using Federal Audit Clearinghouse data.</p><p>Within four years of enactment, the Government Accountability Office must evaluate several related topics, including (1) the effectiveness of such&nbsp;strategy and analytic tools, and (2) reporting burdens for auditors and audited entities.&nbsp;</p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s4716enr/xml/BILLS-118s4716enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s4716es/xml/BILLS-118s4716es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s4716rs/xml/BILLS-118s4716rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s4716is/xml/BILLS-118s4716is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ207/uslm/PLAW-118publ207.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/senate-bill/4716",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

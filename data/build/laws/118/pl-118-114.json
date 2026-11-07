@@ -1,0 +1,43 @@
+{
+ "id": "pl-118-114",
+ "congress": 118,
+ "public_law": "118-114",
+ "bill": "HR 4190",
+ "title": "Restoring Benefits to Defrauded Veterans Act",
+ "enacted": "2024-11-25",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Rep. Trone, David J. [D-MD-6]",
+ "official_summary": "<p><strong>Restoring Benefits to Defrauded Veterans Act</strong></p><p>This act requires the Department of Veterans Affairs (VA) to pay certain reissued benefits (i.e., benefits that were misused by a fiduciary) to a beneficiary's estate in situations where a beneficiary predeceases a payment.</p><p>The VA must pay such benefits to an individual or entity in the existing manner that other VA benefits are paid after the death of a beneficiary.</p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr4190enr/xml/BILLS-118hr4190enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr4190rds/xml/BILLS-118hr4190rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr4190eh/xml/BILLS-118hr4190eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr4190rh/xml/BILLS-118hr4190rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr4190ih/xml/BILLS-118hr4190ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ114/uslm/PLAW-118publ114.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/house-bill/4190",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

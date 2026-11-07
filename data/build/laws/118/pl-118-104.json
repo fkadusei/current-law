@@ -1,0 +1,40 @@
+{
+ "id": "pl-118-104",
+ "congress": 118,
+ "public_law": "118-104",
+ "bill": "S 1549",
+ "title": "Congressional Budget Office Data Access Act",
+ "enacted": "2024-10-02",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Economics and Public Finance",
+ "sponsor": "Sen. Peters, Gary C. [D-MI]",
+ "official_summary": "<p><strong>Congressional Budget Office Data Access Act</strong></p><p>This act exempts the Congressional Budget Office (CBO) from the Privacy Act of 1974 to expedite the sharing of data and information between CBO and federal agencies.</p><p>Under current law, the Privacy Act of 1974 generally prohibits federal agencies from disclosing certain records pertaining to an individual without the individual's prior written consent. This act allows federal agencies to disclose such records to CBO (or to an authorized representative of CBO) without obtaining the prior written consent of the individual.</p><p>Several agencies, including the Government Accountability Office and the National Archives and Records Administration, are currently exempt from these requirements, and this act adds CBO to the list of exemptions.</p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s1549enr/xml/BILLS-118s1549enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s1549es/xml/BILLS-118s1549es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s1549rs/xml/BILLS-118s1549rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s1549is/xml/BILLS-118s1549is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ104/uslm/PLAW-118publ104.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/senate-bill/1549",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

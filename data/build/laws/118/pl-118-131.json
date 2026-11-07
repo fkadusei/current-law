@@ -1,0 +1,40 @@
+{
+ "id": "pl-118-131",
+ "congress": 118,
+ "public_law": "118-131",
+ "bill": "S 1510",
+ "title": "GAO Inspector General Parity Act",
+ "enacted": "2024-11-25",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Sen. Braun, Mike [R-IN]",
+ "official_summary": "<p><strong>GAO Inspector General Parity Act</strong></p><p>This act makes changes to provisions relating to the Inspector General (IG) of the Government Accountability Office (GAO).</p><p>Specifically, if the IG is removed from office or transferred to another position or location within GAO, GAO must communicate in writing the substantive rationale, including detailed and case-specific reasons, for any such removal or transfer to both chambers of Congress not later than 30 days before the removal or transfer.</p><p>Only the Comptroller General may place the IG on non-duty status, subject to specified requirements.</p><p>GAO must include the annual budget request of the IG in the GAO budget without change.</p><p>The IG shall obtain legal advice from a counsel reporting directly to the IG or another IG.</p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s1510enr/xml/BILLS-118s1510enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s1510es/xml/BILLS-118s1510es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s1510rs/xml/BILLS-118s1510rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s1510is/xml/BILLS-118s1510is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ131/uslm/PLAW-118publ131.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/senate-bill/1510",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

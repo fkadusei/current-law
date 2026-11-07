@@ -1,0 +1,43 @@
+{
+ "id": "pl-118-263",
+ "congress": 118,
+ "public_law": "118-263",
+ "bill": "HR 9487",
+ "title": "House Office of Legislative Counsel Modernization Act",
+ "enacted": "2025-01-04",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Congress",
+ "sponsor": "Rep. Steil, Bryan [R-WI-1]",
+ "official_summary": "<p><strong>House Office of Legislative Counsel Modernization Act </strong></p><p>This act authorizes the designation of more than one attorney in the Office of the Legislative Counsel of the House of Representatives as Deputy Legislative Counsel.&nbsp;(Previously, the law authorized only one deputy.)</p><p>A Deputy Legislative Counsel must perform the functions of the Legislative Counsel during the Legislative Counsel's disability or absence (including a vacancy in the office).</p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr9487enr/xml/BILLS-118hr9487enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr9487rds/xml/BILLS-118hr9487rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr9487eh/xml/BILLS-118hr9487eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr9487rh/xml/BILLS-118hr9487rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr9487ih/xml/BILLS-118hr9487ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ263/uslm/PLAW-118publ263.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/house-bill/9487",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

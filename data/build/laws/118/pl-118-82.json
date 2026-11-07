@@ -1,0 +1,40 @@
+{
+ "id": "pl-118-82",
+ "congress": 118,
+ "public_law": "118-82",
+ "bill": "HR 9468",
+ "title": "Veterans Benefits Continuity and Accountability Supplemental Appropriations Act, 2024",
+ "enacted": "2024-09-20",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Rep. Garcia, Mike [R-CA-27]",
+ "official_summary": "<p><strong>Veterans Benefits Continuity and Accountability Supplemental Appropriations Act, 2024</strong></p><p>This act provides FY2024 supplemental appropriations to the Veterans Benefits Administration (VBA) within the Department of Veterans Affairs (VA) and establishes reporting requirements related to VA funding and projected shortfalls.&nbsp;&nbsp;</p><p>Specifically, the act provides FY2024 supplemental appropriations to the VBA for</p><ul><li>Compensation and Pensions, and&nbsp;</li><li>Readjustment Benefits.</li></ul><p>In addition, the act requires the VA to report to Congress on (1) corrections the VA will make to improve forecasting, data quality, and budget assumptions relating to budget submissions for the VBA's Compensation and Pensions and Readjustment Benefits accounts; and (2) the status of funds provided to these accounts for FY2024, FY2025, and FY2026 by this or any other act.</p><p>The act also requires the VA Office of Inspector General to report to Congress on (1) the circumstances and causes of certain funding shortfalls that the VA has projected for the VBA and the Veterans Health Administration, and (2) actions that the VA can take to improve the accuracy of the supporting information submitted with the President's budget and prevent funding shortfalls.&nbsp;</p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr9468enr/xml/BILLS-118hr9468enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr9468eh/xml/BILLS-118hr9468eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr9468rds/xml/BILLS-118hr9468rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr9468ih/xml/BILLS-118hr9468ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ82/uslm/PLAW-118publ82.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/house-bill/9468",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

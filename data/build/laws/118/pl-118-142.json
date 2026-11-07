@@ -1,0 +1,43 @@
+{
+ "id": "pl-118-142",
+ "congress": 118,
+ "public_law": "118-142",
+ "bill": "HR 7218",
+ "title": "BOLD Infrastructure for Alzheimer's Reauthorization Act of 2024",
+ "enacted": "2024-12-11",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Health",
+ "sponsor": "Rep. Guthrie, Brett [R-KY-2]",
+ "official_summary": "<p><strong>BOLD Infrastructure for Alzheimer's Reauthorization Act of 2024</strong></p><p>This act&nbsp;reauthorizes through FY2029 several programs that are administered by the Department of Health and Human Services to support research and resources related to Alzheimer's disease and related dementias.</p><p>Specifically, the act&nbsp;reauthorizes (1) cooperative agreements with state, local, and tribal health departments to address Alzheimer's disease and related dementias through education, early detection, caregiver support, and other avenues; (2) regional centers that raise awareness and support research regarding these conditions; and (3) data collection on the incidence and prevalence of these conditions.</p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr7218enr/xml/BILLS-118hr7218enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr7218rds/xml/BILLS-118hr7218rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr7218eh/xml/BILLS-118hr7218eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr7218rh/xml/BILLS-118hr7218rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr7218ih/xml/BILLS-118hr7218ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ142/uslm/PLAW-118publ142.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/house-bill/7218",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

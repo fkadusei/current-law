@@ -1,0 +1,43 @@
+{
+ "id": "pl-118-222",
+ "congress": 118,
+ "public_law": "118-222",
+ "bill": "HR 6750",
+ "title": "To designate the facility of the United States Postal Service located at 501 Mercer Street Southwest in Wilson, North Carolina, as the \"Milton F. Fitch, Sr. Post Office Building\".",
+ "enacted": "2025-01-02",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Davis, Donald G. [D-NC-1]",
+ "official_summary": "<p>This act designates the facility of the U.S. Postal Service located at 501 Mercer Street Southwest in Wilson, North Carolina, as the Milton F. Fitch, Sr. Post Office Building.</p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr6750enr/xml/BILLS-118hr6750enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr6750rs/xml/BILLS-118hr6750rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr6750rfs/xml/BILLS-118hr6750rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr6750eh/xml/BILLS-118hr6750eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr6750ih/xml/BILLS-118hr6750ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ222/uslm/PLAW-118publ222.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/house-bill/6750",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

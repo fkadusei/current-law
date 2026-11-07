@@ -88,7 +88,8 @@ def load_votes(congress: int):
         for v in read_csv(f"{ch}{congress:03d}_votes.csv"):
             key = (chamber, int(float(v["rollnumber"])))
             cast = num(v["cast_code"])
-            if key in wanted and cast in CAST:
+            # Skip the President's row: Voteview records his stated position, not a vote.
+            if key in wanted and cast in CAST and num(v["icpsr"]) in members:
                 positions[key][num(v["icpsr"])] = CAST[cast]
     return members, finals, positions
 

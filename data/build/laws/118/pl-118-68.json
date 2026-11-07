@@ -1,0 +1,43 @@
+{
+ "id": "pl-118-68",
+ "congress": 118,
+ "public_law": "118-68",
+ "bill": "HR 1240",
+ "title": "Winnebago Land Transfer Act of 2023",
+ "enacted": "2024-07-12",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Native Americans",
+ "sponsor": "Rep. Feenstra, Randy [R-IA-4]",
+ "official_summary": "<p><strong>Winnebago Land Transfer Act of 2023</strong></p><p>This act takes specified lands in Iowa into trust for the benefit of the Winnebago Tribe of Nebraska. The land is made part of the tribe's reservation.</p><p>The act prohibits gaming on the land taken into trust.</p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr1240enr/xml/BILLS-118hr1240enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr1240rfs/xml/BILLS-118hr1240rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr1240eh/xml/BILLS-118hr1240eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr1240rh/xml/BILLS-118hr1240rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr1240ih/xml/BILLS-118hr1240ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ68/uslm/PLAW-118publ68.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/house-bill/1240",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,37 @@
+{
+ "id": "pl-118-27",
+ "congress": 118,
+ "public_law": "118-27",
+ "bill": "S 2787",
+ "title": "5G SALE Act",
+ "enacted": "2023-12-19",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Science, Technology, Communications",
+ "sponsor": "Sen. Kennedy, John [R-LA]",
+ "official_summary": "<p><b>5G Spectrum Authority Licensing Enforcement Act or the 5G SALE Act</b></p> <p>This act temporarily authorizes the Federal Communications Commission (FCC) to process applications for licenses or permits for the use of specified bands of the electromagnetic spectrum that were auctioned on or before March 9, 2023. The authorization terminates 90 days after the enactment of the act.</p> <p>The FCC has not processed the licenses or permits for the previously auctioned spectrum because its authority to conduct auctions lapsed on March 9, 2023.</p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s2787enr/xml/BILLS-118s2787enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s2787es/xml/BILLS-118s2787es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s2787is/xml/BILLS-118s2787is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ27/uslm/PLAW-118publ27.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/senate-bill/2787",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

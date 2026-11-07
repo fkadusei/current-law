@@ -1,0 +1,43 @@
+{
+ "id": "pl-118-32",
+ "congress": 118,
+ "public_law": "118-32",
+ "bill": "HR 1722",
+ "title": "Grand Ronde Reservation Act Amendment of 2023",
+ "enacted": "2023-12-26",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Native Americans",
+ "sponsor": "Rep. Salinas, Andrea [D-OR-6]",
+ "official_summary": "<p><b>Grand Ronde Reservation Act Amendment of 2023 </b></p> <p>This act revises the land claims of the Confederated Tribes of the Grand Ronde Community of Oregon. In particular, the act specifies that only the tribe's claims to the 84 acres of land known as the Thompson Strip, rather than the tribe's claims to any lands within Oregon, are extinguished.</p> <p>Additionally, the act prohibits gaming on any real property obtained by the tribe as part of a land claim settlement approved by the United States, including any real property purchased with funds granted as part of any land claim settlement.</p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr1722enr/xml/BILLS-118hr1722enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr1722rds/xml/BILLS-118hr1722rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr1722eh/xml/BILLS-118hr1722eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr1722rh/xml/BILLS-118hr1722rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr1722ih/xml/BILLS-118hr1722ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ32/uslm/PLAW-118publ32.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/house-bill/1722",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,43 @@
+{
+ "id": "pl-118-164",
+ "congress": 118,
+ "public_law": "118-164",
+ "bill": "HR 2468",
+ "title": "Mountain View Corridor Completion Act",
+ "enacted": "2024-12-23",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Public Lands and Natural Resources",
+ "sponsor": "Rep. Owens, Burgess [R-UT-4]",
+ "official_summary": "<p><strong>Mountain View Corridor Completion Act</strong></p><p>This act directs the Bureau of Land Management (BLM) to convey to Utah certain federal land within the boundaries of Camp Williams, Utah. Utah must pay BLM the fair market value of the land.</p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr2468enr/xml/BILLS-118hr2468enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr2468pcs/xml/BILLS-118hr2468pcs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr2468eh/xml/BILLS-118hr2468eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr2468rh/xml/BILLS-118hr2468rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr2468ih/xml/BILLS-118hr2468ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ164/uslm/PLAW-118publ164.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/house-bill/2468",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

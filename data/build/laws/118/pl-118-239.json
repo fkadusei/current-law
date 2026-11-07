@@ -1,0 +1,43 @@
+{
+ "id": "pl-118-239",
+ "congress": 118,
+ "public_law": "118-239",
+ "bill": "HR 7385",
+ "title": "To designate the facility of the United States Postal Service located at 29 Franklin Street in Petersburg, Virginia, as the \"John Mercer Langston Post Office Building\".",
+ "enacted": "2025-01-04",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. McClellan, Jennifer L. [D-VA-4]",
+ "official_summary": "<p>This act designates the facility of the U.S. Postal Service located at 29 Franklin Street in Petersburg, Virginia, as the John Mercer Langston Post Office Building.</p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr7385enr/xml/BILLS-118hr7385enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr7385rs/xml/BILLS-118hr7385rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr7385rfs/xml/BILLS-118hr7385rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr7385eh/xml/BILLS-118hr7385eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr7385ih/xml/BILLS-118hr7385ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ239/uslm/PLAW-118publ239.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/house-bill/7385",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

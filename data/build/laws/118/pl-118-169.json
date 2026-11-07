@@ -1,0 +1,43 @@
+{
+ "id": "pl-118-169",
+ "congress": 118,
+ "public_law": "118-169",
+ "bill": "HR 4094",
+ "title": "Great Salt Lake Stewardship Act",
+ "enacted": "2024-12-23",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Water Resources Development",
+ "sponsor": "Rep. Curtis, John R. [R-UT-3]",
+ "official_summary": "<p><strong>Great Salt Lake Stewardship Act</strong></p><p>This act allows the Department of the Interior to use certain unexpended funds from the Central Utah Project Completion Act to conduct water conservation measures in the Great Salt Lake basin.</p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr4094enr/xml/BILLS-118hr4094enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr4094pcs/xml/BILLS-118hr4094pcs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr4094eh/xml/BILLS-118hr4094eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr4094rh/xml/BILLS-118hr4094rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr4094ih/xml/BILLS-118hr4094ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ169/uslm/PLAW-118publ169.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/house-bill/4094",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

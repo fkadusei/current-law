@@ -1,0 +1,43 @@
+{
+ "id": "pl-118-137",
+ "congress": 118,
+ "public_law": "118-137",
+ "bill": "HR 1505",
+ "title": "No Stolen Trademarks Honored in America Act of 2023",
+ "enacted": "2024-12-01",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Commerce",
+ "sponsor": "Rep. Issa, Darrell E. [R-CA-48]",
+ "official_summary": "<p><strong>No Stolen Trademarks Honored in America Act of 2023</strong></p><p>This bill modifies the bar against U.S. courts enforcing or validating trademarks that were confiscated by the Cuban government.</p><p>The bill prohibits U.S. courts and executive branch agencies from enforcing or validating such confiscated trademarks if the mark has been used in connection with a confiscated business or asset. Currently, the prohibition is limited to U.S. courts and applies only if the confiscated trademark is being asserted in the United States by a Cuban national.</p><p>Under the bill, the prohibition shall not apply if the original trademark owner, or a successor, has expressly consented to the enforcement action.</p><p>The prohibition shall apply only if the entity asserting the trademark rights knew or should have known, when it acquired the rights, that the mark was the same or substantially similar to one connected to a confiscated business or asset.</p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr1505enr/xml/BILLS-118hr1505enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr1505rfs/xml/BILLS-118hr1505rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr1505eh/xml/BILLS-118hr1505eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr1505rh/xml/BILLS-118hr1505rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr1505ih/xml/BILLS-118hr1505ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ137/uslm/PLAW-118publ137.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/house-bill/1505",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,40 @@
+{
+ "id": "pl-118-140",
+ "congress": 118,
+ "public_law": "118-140",
+ "bill": "HR 5536",
+ "title": "Grant Transparency Act of 2023",
+ "enacted": "2024-12-11",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Fry, Russell [R-SC-7]",
+ "official_summary": "<p><strong>Grant Transparency Act of 2023</strong></p><p>This act establishes transparency requirements for notices of funding opportunity in applications for competitive grants awarded by federal agencies, excluding the Government Accountability Office.</p><p>Specifically, each notice of funding opportunity issued by an agency for a competitive grant must include</p><ul><li>a description of any rating system and evaluation and selection criteria the agency uses to assess applications for the grant;</li><li>a statement of whether the agency uses a weighted scoring method and a description of any such method that it uses for the grant, including the amount by which the agency weighs each criterion; and</li><li>any other qualitative or quantitative merit-based approach the agency uses to evaluate an application for the grant.</li></ul><p>Additionally, the Office of Management and Budget must develop relevant data elements to ensure common reporting by each agency with respect to such grant applications.&nbsp;</p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr5536enr/xml/BILLS-118hr5536enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr5536pcs/xml/BILLS-118hr5536pcs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr5536eh/xml/BILLS-118hr5536eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr5536ih/xml/BILLS-118hr5536ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ140/uslm/PLAW-118publ140.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/house-bill/5536",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

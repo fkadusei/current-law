@@ -1,0 +1,43 @@
+{
+ "id": "pl-118-120",
+ "congress": 118,
+ "public_law": "118-120",
+ "bill": "HR 5861",
+ "title": "BRIDGE for Workers Act",
+ "enacted": "2024-11-25",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Labor and Employment",
+ "sponsor": "Rep. LaHood, Darin [R-IL-16]",
+ "official_summary": "<p><strong>Building on Reemployment Improvements to Deliver Good Employment for Workers Act or the BRIDGE for Workers Act</strong></p><p>This act permanently expands the allowable purposes for certain Department of Labor grants to states for reemployment services and eligibility assessments. Specifically, the act permanently allows these grants to be used to fund reemployment services and eligibility assessments for all claimants for unemployment compensation.</p><p>(Under the current statute, the grants may only be used to provide such services to a subset of claimants who have been identified by the state as likely to exhaust unemployment benefits and need job search assistance to become employed. However, in recent years, annual appropriations acts have allowed the grants to be used for all claimants for unemployment compensation. This act makes this authority permanent.)&nbsp;&nbsp;&nbsp;</p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr5861enr/xml/BILLS-118hr5861enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr5861rfs/xml/BILLS-118hr5861rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr5861eh/xml/BILLS-118hr5861eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr5861rh/xml/BILLS-118hr5861rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr5861ih/xml/BILLS-118hr5861ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ120/uslm/PLAW-118publ120.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/house-bill/5861",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

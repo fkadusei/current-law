@@ -1,0 +1,43 @@
+{
+ "id": "pl-118-111",
+ "congress": 118,
+ "public_law": "118-111",
+ "bill": "HR 1098",
+ "title": "To designate the facility of the United States Postal Service located at 50 East Derry Road in East Derry, New Hampshire, as the \"Chief Edward B. Garone Post Office\".",
+ "enacted": "2024-11-25",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Pappas, Chris [D-NH-1]",
+ "official_summary": "<p>This act designates the facility of the U.S. Postal Service located at 50 East Derry Road in East Derry, New Hampshire, as the Chief Edward B. Garone Post Office.</p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr1098enr/xml/BILLS-118hr1098enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr1098rs/xml/BILLS-118hr1098rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr1098rfs/xml/BILLS-118hr1098rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr1098eh/xml/BILLS-118hr1098eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr1098ih/xml/BILLS-118hr1098ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ111/uslm/PLAW-118publ111.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/house-bill/1098",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

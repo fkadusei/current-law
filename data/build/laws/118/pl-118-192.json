@@ -1,0 +1,40 @@
+{
+ "id": "pl-118-192",
+ "congress": 118,
+ "public_law": "118-192",
+ "bill": "S 932",
+ "title": "No CORRUPTION Act",
+ "enacted": "2024-12-23",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Congress",
+ "sponsor": "Sen. Rosen, Jacky [D-NV]",
+ "official_summary": "<p><strong>No Congressionally Obligated Recurring Revenue Used as Pensions To Incarcerated Officials Now Act or the No CORRUPTION Act</strong></p><p>This act makes a Member of Congress who has been convicted of a crime related to public corruption ineligible to receive retirement payments pursuant to the Civil Service Retirement System or the Federal Employees' Retirement System based on service as a Member. Under current law, a Member must forgo receipt of these payments only after a final conviction (i.e., after the exhaustion of all appeals under the judicial process).</p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s932enr/xml/BILLS-118s932enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s932es/xml/BILLS-118s932es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s932rs/xml/BILLS-118s932rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s932is/xml/BILLS-118s932is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ192/uslm/PLAW-118publ192.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/senate-bill/932",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,40 @@
+{
+ "id": "pl-118-173",
+ "congress": 118,
+ "public_law": "118-173",
+ "bill": "HR 5646",
+ "title": "Stop Campus Hazing Act",
+ "enacted": "2024-12-23",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Education",
+ "sponsor": "Rep. McBath, Lucy [D-GA-7]",
+ "official_summary": "<p><strong>Stop Campus Hazing Act</strong></p><p>This act requires institutions of higher education (IHEs) that participate in federal student&nbsp;aid programs to report hazing incidents. It also renames the&nbsp;Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act as the&nbsp;Jeanne Clery Campus Safety Act.</p><p>Specifically, the act requires each&nbsp;IHE to disclose hazing incidents that were reported to campus security authorities or local police agencies in its annual security report. The act defines the term <em>hazing</em> to mean any intentional, knowing, or reckless act committed by a person (whether individually or in concert with other persons) against another person or persons regardless of the willingness of such other person or persons to participate, that (1) is committed in the course of an initiation into, an affiliation with, or the maintenance of membership in, a student organization (e.g., a club, athletic team, fraternity, or sorority); and (2) causes or creates a risk, above the reasonable risk encountered in the course of participation in the IHE or the organization,&nbsp;of physical or psychological injury.</p><p>Additionally, each IHE must include in its annual security report (1)&nbsp;a statement of current policies relating to hazing, how to report hazing incidents, the process used to investigate hazing incidents, and information on applicable laws on hazing; and (2) a statement of policy regarding prevention and awareness programs relating to hazing&nbsp;that includes a description of prevention programs.</p><p>Further, an IHE must develop a campus hazing transparency report that summarizes findings concerning any student organization found to be in violation of the IHE's standards of conduct relating to hazing.  An IHE is not required to develop or update this report unless the IHE has a finding of a hazing violation.</p><p>The act does not apply to foreign&nbsp;IHEs.</p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr5646enr/xml/BILLS-118hr5646enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr5646rds/xml/BILLS-118hr5646rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr5646eh/xml/BILLS-118hr5646eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr5646ih/xml/BILLS-118hr5646ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ173/uslm/PLAW-118publ173.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/house-bill/5646",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

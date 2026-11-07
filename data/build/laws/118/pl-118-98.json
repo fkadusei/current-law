@@ -1,0 +1,40 @@
+{
+ "id": "pl-118-98",
+ "congress": 118,
+ "public_law": "118-98",
+ "bill": "S 794",
+ "title": "CTPAT Pilot Program Act of 2023",
+ "enacted": "2024-10-01",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Foreign Trade and International Finance",
+ "sponsor": "Sen. Cornyn, John [R-TX]",
+ "official_summary": "<p><strong>Customs Trade Partnership Against Terrorism Pilot Program Act of 2023 or the CTPAT Pilot Program Act of </strong><strong>2023</strong></p><p>This act requires the Department of Homeland Security to carry out a pilot program that assesses whether allowing certain entities to participate in the Customs Trade Partnership Against Terrorism (CTPAT) would enhance port security, combat terrorism, prevent supply chain security breaches, or otherwise meet the goals of CTPAT.</p><p>Such entities are (1) non-asset-based third-party logistics providers that arrange international freight transportation and are licensed by the Department of Transportation; or (2) asset-based third-party logistics providers that facilitate cross-border activity, are licensed or bonded by specified federal agencies, and execute logistics services using their own warehousing assets and resources.</p><p>The act requires the Government Accountability Office to report on the effectiveness of CTPAT.</p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s794enr/xml/BILLS-118s794enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s794es/xml/BILLS-118s794es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s794rs/xml/BILLS-118s794rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s794is/xml/BILLS-118s794is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ98/uslm/PLAW-118publ98.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/senate-bill/794",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

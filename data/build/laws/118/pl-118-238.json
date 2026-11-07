@@ -1,0 +1,43 @@
+{
+ "id": "pl-118-238",
+ "congress": 118,
+ "public_law": "118-238",
+ "bill": "HR 7365",
+ "title": "VETS Safe Travel Act",
+ "enacted": "2025-01-04",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Transportation and Public Works",
+ "sponsor": "Rep. Gosar, Paul A. [R-AZ-9]",
+ "official_summary": "<p><strong>Veterans Expedited TSA Screening Safe Travel Act or the</strong> <strong>VETS Safe Travel Act</strong></p><p>This act makes certain veterans eligible for the Transportation Security Administration (TSA) PreCheck&nbsp;Program at no cost if they meet the program's background check and security requirements.</p><p>Veterans who are eligible for this fee waiver are those who the Department of Veterans Affairs (VA)&nbsp;has determined to have a service-connected disability&nbsp;and require the use of a wheelchair, prosthetic limb, or other device to aid with mobility due to (1) loss, or loss of use, of an&nbsp;extremity; (2) full or partial paralyzation; or (3) permanent blindness. The veteran must also be in&nbsp;the patient enrollment system of the VA.</p><p>The act specifies that the TSA may not increase enrollment fees for&nbsp;the&nbsp;PreCheck Program in order to&nbsp;carry out this fee waiver program.</p><p>The VA and the TSA must implement a process under which eligible veterans may receive the PreCheck Program benefit.</p><p>Further, the VA and the TSA must implement a process to provide disabled veterans with effective outreach about programs that are designed to improve the screening process for passengers with disabilities. The VA and the TSA must also assess the awareness of veterans of relevant TSA programs and examine the need and feasibility of other measures to improve travel security procedures for disabled veterans.</p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr7365enr/xml/BILLS-118hr7365enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr7365rfs/xml/BILLS-118hr7365rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr7365rh/xml/BILLS-118hr7365rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr7365eh/xml/BILLS-118hr7365eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr7365ih/xml/BILLS-118hr7365ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ238/uslm/PLAW-118publ238.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/house-bill/7365",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,40 @@
+{
+ "id": "pl-118-195",
+ "congress": 118,
+ "public_law": "118-195",
+ "bill": "S 2414",
+ "title": "Working Dog Health and Welfare Act of 2023",
+ "enacted": "2024-12-23",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Sen. Braun, Mike [R-IN]",
+ "official_summary": "<p><strong>Working Dog Health and Welfare Act of 2023</strong></p><p>This act requires federal agencies with working dog programs, and contractors managing such programs, to implement the recommendations of a Government Accountability Office report titled <em>Working Dogs: Federal Agencies Need to Better Address Health and Welfare</em> and published in October 2022.</p><p>Further, the Department of State must take steps to ensure that donations of working dogs provided to foreign partners by the State Department are executed and monitored according to those recommendations.</p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s2414enr/xml/BILLS-118s2414enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s2414es/xml/BILLS-118s2414es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s2414rs/xml/BILLS-118s2414rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s2414is/xml/BILLS-118s2414is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ195/uslm/PLAW-118publ195.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/senate-bill/2414",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

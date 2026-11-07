@@ -1,0 +1,40 @@
+{
+ "id": "pl-118-172",
+ "congress": 118,
+ "public_law": "118-172",
+ "bill": "HR 5301",
+ "title": "Eliminate Useless Reports Act of 2024",
+ "enacted": "2024-12-23",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Garcia, Robert [D-CA-42]",
+ "official_summary": "<p><strong>Eliminate Useless Reports Act of 2024</strong></p><p>This act requires federal agencies to include a list of outdated or duplicative reporting requirements and related information in their annual budget justifications.</p><p>Specifically, the agencies must include a list of each recurring plan or report submitted by the agency and specified identifying information for the plans or reports. The agencies must also identify any recurring plans or reports that are outdated or duplicative.&nbsp;</p><p>With respect to each recurring plan or report that is outdated or duplicative, the agency must also include</p><ul><li>a recommendation on whether to end, modify, consolidate, or reduce the frequency of the report or plan;&nbsp;</li><li>a citation to each provision of law or directive in a congressional report that requires or requests the submission of the report or plan;</li><li>a list of the relevant congressional committees; and</li><li>a justification that explains why the agency made the recommendation and the agency's understanding of the purpose of the plan or report.</li></ul><p>If a recurring plan or report is required to be submitted by at least two federal agencies, the act requires the Office of Management and Budget to (1) determine whether the requirement to submit the recurring plan or report is outdated or duplicative, and (2) make recommendations to Congress accordingly.&nbsp;</p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr5301enr/xml/BILLS-118hr5301enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr5301rfs/xml/BILLS-118hr5301rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr5301eh/xml/BILLS-118hr5301eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr5301ih/xml/BILLS-118hr5301ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ172/uslm/PLAW-118publ172.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/house-bill/5301",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

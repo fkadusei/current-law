@@ -1,0 +1,43 @@
+{
+ "id": "pl-118-177",
+ "congress": 118,
+ "public_law": "118-177",
+ "bill": "HR 6843",
+ "title": "To expand the boundaries of the Atchafalaya National Heritage Area to include Lafourche Parish, Louisiana.",
+ "enacted": "2024-12-23",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Public Lands and Natural Resources",
+ "sponsor": "Rep. Scalise, Steve [R-LA-1]",
+ "official_summary": "<p>This act expands the boundaries of Atchafalaya National Heritage Area to include Lafourche Parish, Louisiana. It also expands the membership of the local coordinating entity to include the parish.</p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr6843enr/xml/BILLS-118hr6843enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr6843rds/xml/BILLS-118hr6843rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr6843eh/xml/BILLS-118hr6843eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr6843rh/xml/BILLS-118hr6843rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr6843ih/xml/BILLS-118hr6843ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ177/uslm/PLAW-118publ177.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/house-bill/6843",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

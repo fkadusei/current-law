@@ -1,0 +1,40 @@
+{
+ "id": "pl-118-264",
+ "congress": 118,
+ "public_law": "118-264",
+ "bill": "HR 9544",
+ "title": "To designate the facility of the United States Postal Service located at 340 South Loudon Avenue in Baltimore, Maryland, as the \"United States Representative Elijah E. Cummings Post Office Building\".",
+ "enacted": "2025-01-04",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Mfume, Kweisi [D-MD-7]",
+ "official_summary": "<p>This act designates the facility of the U. S. Postal Service located at 340 South Loudon Avenue in Baltimore, Maryland, as the United States Representative Elijah E. Cummings Post Office Building.</p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr9544enr/xml/BILLS-118hr9544enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr9544rfs/xml/BILLS-118hr9544rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr9544eh/xml/BILLS-118hr9544eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr9544ih/xml/BILLS-118hr9544ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ264/uslm/PLAW-118publ264.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/house-bill/9544",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

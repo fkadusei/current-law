@@ -1,0 +1,43 @@
+{
+ "id": "pl-118-141",
+ "congress": 118,
+ "public_law": "118-141",
+ "bill": "HR 5799",
+ "title": "James R. Dominguez Memorial Act of 2023",
+ "enacted": "2024-12-11",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Gonzales, Tony [R-TX-23]",
+ "official_summary": "<p><strong>James R. Dominguez Memorial Act of 2023</strong></p><p>This act designates the U.S. Border Patrol checkpoint on U.S. Highway 90 West in Uvalde County, Texas, as the James R. Dominguez Border Patrol Checkpoint.</p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr5799enr/xml/BILLS-118hr5799enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr5799rs/xml/BILLS-118hr5799rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr5799rfs/xml/BILLS-118hr5799rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr5799eh/xml/BILLS-118hr5799eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr5799ih/xml/BILLS-118hr5799ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ141/uslm/PLAW-118publ141.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/house-bill/5799",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

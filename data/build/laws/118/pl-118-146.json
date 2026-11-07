@@ -1,0 +1,43 @@
+{
+ "id": "pl-118-146",
+ "congress": 118,
+ "public_law": "118-146",
+ "bill": "HR 1432",
+ "title": "VETT Act",
+ "enacted": "2024-12-12",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Taxation",
+ "sponsor": "Rep. Wenstrup, Brad R. [R-OH-2]",
+ "official_summary": "<p><strong>VSO Equal Tax Treatment Act or the VETT Act</strong></p><p>This act allows a tax-exempt veterans' organization to receive tax deductible charitable contributions for tax years beginning after 2024, provided that the organization is a federally chartered organization. Further, the act&nbsp;limits  the deduction for such contributions to 60% of the donor’s adjusted gross income.</p><p>Generally, a veterans' organization may be exempt from federal income tax provided that, among other requirements, at least 75% of its members are past or present members of the Armed Forces. However, to be eligible to receive tax deductible charitable contributions, the Internal Revenue Service requires that at least 90% of a tax-exempt veteran organization’s members must be wartime veterans. Charitable contributions made to a veterans' organization that does not meet this 90% threshold may be subject to federal income tax.&nbsp;</p><p>This act allows a tax-exempt veterans' organization to receive tax deductible charitable contributions for tax years beginning after 2024, provided that the organization is a federally chartered organization.</p><p>The act also provides that, for tax years beginning after 2024, the deduction for charitable contributions made to a tax-exempt veterans' organization that is federally chartered is limited to 60% of the donor’s adjusted gross income, rather than the lower limits that apply to other types of charitable contributions.</p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr1432enr/xml/BILLS-118hr1432enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr1432rds/xml/BILLS-118hr1432rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr1432eh/xml/BILLS-118hr1432eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr1432rh/xml/BILLS-118hr1432rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr1432ih/xml/BILLS-118hr1432ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ146/uslm/PLAW-118publ146.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/house-bill/1432",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

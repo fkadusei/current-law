@@ -1,0 +1,40 @@
+{
+ "id": "pl-118-136",
+ "congress": 118,
+ "public_law": "118-136",
+ "bill": "S 3419",
+ "title": "A bill to designate the facility of the United States Postal Service located at 1765 Camp Hill Bypass in Camp Hill, Pennsylvania, as the \"John Charles Traub Post Office\".",
+ "enacted": "2024-11-25",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Sen. Fetterman, John [D-PA]",
+ "official_summary": "<p>This act designates the facility of the U.S. Postal Service located at 1765 Camp Hill Bypass in Camp Hill, Pennsylvania, as the John Charles Traub Post Office.</p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s3419enr/xml/BILLS-118s3419enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s3419es/xml/BILLS-118s3419es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s3419rs/xml/BILLS-118s3419rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s3419is/xml/BILLS-118s3419is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ136/uslm/PLAW-118publ136.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/senate-bill/3419",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

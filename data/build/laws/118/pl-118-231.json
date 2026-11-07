@@ -1,0 +1,43 @@
+{
+ "id": "pl-118-231",
+ "congress": 118,
+ "public_law": "118-231",
+ "bill": "HR 5887",
+ "title": "Government Service Delivery Improvement Act",
+ "enacted": "2025-01-04",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Khanna, Ro [D-CA-17]",
+ "official_summary": "<p><strong>Government Service Delivery Improvement Act</strong></p><p>This bill requires that certain government officials be responsible for improving government service delivery (i.e., providing benefits or services to individuals, businesses, and organizations via agencies or programs).</p><p>The bill requires the Office of Management and Budget (OMB) to designate or appoint a senior official within OMB as the Federal Government Service Delivery Lead.&nbsp;The primary responsibility of this individual shall be to coordinate government-wide efforts to improve government service delivery. The bill also requires the heads of certain executive branch agencies to be responsible for their respective agency's government service delivery, including continuously improving and enhancing government services. Each such agency head shall also designate or appoint a senior official of the agency whose duties shall include coordinating and executing efforts to improve and enhance the agency's government service delivery.&nbsp;&nbsp;</p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr5887enr/xml/BILLS-118hr5887enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr5887rs/xml/BILLS-118hr5887rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr5887rfs/xml/BILLS-118hr5887rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr5887eh/xml/BILLS-118hr5887eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr5887ih/xml/BILLS-118hr5887ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ231/uslm/PLAW-118publ231.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/house-bill/5887",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

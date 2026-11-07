@@ -1,0 +1,40 @@
+{
+ "id": "pl-118-103",
+ "congress": 118,
+ "public_law": "118-103",
+ "bill": "S 4698",
+ "title": "DHS Joint Task Forces Reauthorization Act of 2024",
+ "enacted": "2024-10-01",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Immigration",
+ "sponsor": "Sen. Peters, Gary C. [D-MI]",
+ "official_summary": "<p><strong>DHS Joint Task Forces Reauthorization Act of 2024</strong></p><p>This act extends through FY2026 the authority of the Department of Homeland Security (DHS) to establish and operate joint task forces (JTFs), which coordinate activities across DHS’s component organizations and with other government and international partners.</p><p>The act requires DHS to annually provide Congress with (1) a staffing plan for each JTF; and (2) a briefing on various aspects of JTF-East (which operates in the southern maritime environment, including the Gulf of Mexico and the Caribbean Sea, to combat transnational criminal organizations and prepare for maritime mass migration events).</p>",
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s4698enr/xml/BILLS-118s4698enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s4698es/xml/BILLS-118s4698es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s4698rs/xml/BILLS-118s4698rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-118s4698is/xml/BILLS-118s4698is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ103/uslm/PLAW-118publ103.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/senate-bill/4698",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}
