@@ -1,7 +1,7 @@
 import { defineConfig } from "astro/config";
 
 export default defineConfig({
-  site: "https://fkadusei.github.io",
+  site: process.env.SITE_URL || "https://example.com",
   base: process.env.SITE_BASE || "/",
   trailingSlash: "ignore",
   build: { format: "directory" },
