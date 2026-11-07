@@ -29,13 +29,19 @@ export const membersIndex = () => read("members/index.json");
 // "ROGERS, Harold Dallas (Hal)" -> "Hal Rogers"
 export function displayName(raw) {
   if (!raw) return "Unknown";
-  const [last, rest = ""] = raw.split(",").map((s) => s.trim());
+  const i = raw.indexOf(",");
+  const last = (i < 0 ? raw : raw.slice(0, i)).trim();
+  let rest = i < 0 ? "" : raw.slice(i + 1);
+  const SUFFIX = /(?:^|[\s,])(Jr\.?|Sr\.?|II|III|IV)(?=$|[\s,])/;
+  const sm = rest.match(SUFFIX);
+  const suffix = sm ? sm[1].replace(/^(Jr|Sr)$/, "$1.") : "";
+  if (sm) rest = rest.replace(SUFFIX, " ");
+  rest = rest.replace(/,/g, " ").trim();
   const nick = rest.match(/\(([^)]+)\)/);
   const first = nick ? nick[1] : rest.split(/\s+/)[0];
-  const suffix = rest.match(/\b(Jr\.|Sr\.|II|III|IV)$/);
   const title = (s) => s.toLowerCase().replace(/(^|[\s'-])(\p{L})/gu, (m, a, b) => a + b.toUpperCase())
     .replace(/\bMc(\p{L})/gu, (m, a) => "Mc" + a.toUpperCase());
-  return `${title(first)} ${title(last)}${suffix ? " " + suffix[1] : ""}`.trim();
+  return `${title(first)} ${title(last)}${suffix ? " " + suffix : ""}`.trim();
 }
 
 export const PARTY_NAME = { R: "Republican", D: "Democratic", I: "Independent", Other: "Other" };

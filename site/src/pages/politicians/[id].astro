@@ -1,5 +1,6 @@
 ---
 import Base from "../../layouts/Base.astro";
+import Avatar from "../../components/Avatar.astro";
 import { membersIndex, memberRecords, displayName, PARTY_NAME, lawColor, formatDate } from "../../lib/data.js";
 export function getStaticPaths() {
   return membersIndex().filter((m) => m.bioguide).map((m) => ({ params: { id: m.bioguide }, props: { m } }));
@@ -11,10 +12,18 @@ const count = (v) => rec.filter((r) => r.vote === v).length;
 const withParty = rec.filter((r) => r.law.party_color && r.vote === "yea" && r.law.party_color.side === m.party).length;
 const label = { yea: "Yes", nay: "No", present: "Present", "not voting": "Didn't vote" };
 ---
-<Base title={displayName(m.name)}>
-  <p class="muted crumbs"><a href={`${base}/politicians/`}>Politicians</a></p>
-  <h1>{displayName(m.name)}</h1>
-  <p class={`party-${m.party} role`}>{PARTY_NAME[m.party]} · {m.chamber === "House" ? `Representative, ${m.state}${m.district && m.district !== "0" ? " district " + m.district : ""}` : `Senator, ${m.state}`}</p>
+<Base title={displayName(m.name)} kind="Politician">
+  <section slot="hero" class={`page-hero pol-hero hero-${m.party}`}>
+    <div class="wrap pol-head">
+      <Avatar bioguide={m.bioguide} name={displayName(m.name)} party={m.party} size={112} />
+      <div>
+        <p class="crumbs"><a href={`${base}/politicians/`}>Politicians</a></p>
+        <h1>{displayName(m.name)}</h1>
+        <p class="role"><span class={`pdot bg-${m.party}`}></span>{PARTY_NAME[m.party]} · {m.chamber === "House" ? `Representative, ${m.state}${m.district && m.district !== "0" ? " district " + m.district : ""}` : `Senator, ${m.state}`}</p>
+        {rec.length > 0 && <p class="sided">Voted with their party's majority side on {Math.round(withParty / Math.max(1, count("yea")) * 100)}% of the laws they supported.</p>}
+      </div>
+    </div>
+  </section>
   <div class="stats">
     <div class="card stat"><strong>{rec.length}</strong><span class="muted">laws voted on</span></div>
     <div class="card stat"><strong class="yea">{count("yea")}</strong><span class="muted">voted yes</span></div>
@@ -43,8 +52,15 @@ const label = { yea: "Yes", nay: "No", present: "Present", "not voting": "Didn't
   </div>
 </Base>
 <style>
-  .crumbs { font-size: .88rem; }
-  .role { font-weight: 600; margin-top: 0; }
+  .pol-head { display: flex; align-items: center; gap: 28px; }
+  @media (max-width: 560px) { .pol-head { flex-direction: column; align-items: flex-start; gap: 16px; } }
+  .crumbs { font-size: .85rem; margin: 0 0 6px; } .crumbs a { color: rgb(255 255 255 / .75); }
+  .role { font-weight: 600; margin: 4px 0 0; display: flex; align-items: center; gap: 8px; color: #fff !important; }
+  .sided { font-size: .9rem; margin: 8px 0 0; }
+  .pdot { width: 10px; height: 10px; border-radius: 50%; display: inline-block; }
+  .bg-D { background: var(--dem); } .bg-R { background: var(--rep); } .bg-I { background: var(--ind); } .bg-Other { background: var(--muted); }
+  .hero-R { background: radial-gradient(900px 380px at 90% -10%, rgb(212 42 58 / .55), transparent 60%), linear-gradient(180deg, var(--navy), var(--navy-2)); }
+  .hero-D { background: radial-gradient(900px 380px at 90% -10%, rgb(30 95 209 / .6), transparent 60%), linear-gradient(180deg, var(--navy), var(--navy-2)); }
   .stats { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin: 16px 0 8px; }
   @media (max-width: 640px) { .stats { grid-template-columns: 1fr 1fr; } }
   .stat { padding: 14px; display: flex; flex-direction: column; }

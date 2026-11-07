@@ -6,8 +6,7 @@ const eos = executiveOrders();
 const presidents = [...new Map(eos.filter((e) => e.president).map((e) => [e.president.id, e.president])).values()];
 ---
 <Base title="Executive orders">
-  <h1>Executive orders</h1>
-  <p class="muted">Orders a President issues on their own authority, without a vote in Congress. Records here start in 1994.</p>
+  <section slot="hero" class="page-hero"><div class="wrap"><p class="eyebrow-label">No vote in Congress</p><h1>Executive orders</h1><p>Orders a President issues on their own authority, without a vote in Congress. Records here start in 1994.</p></div></section>
   <form class="filters card" onsubmit="return false">
     <input id="q" type="search" placeholder="Search executive orders" aria-label="Search executive orders" />
     <select id="pres" aria-label="President"><option value="">Any President</option>{presidents.map((p) => <option value={p.id}>{p.name}{p.id.startsWith("trump") ? (p.id === "trump-1" ? " (first term)" : " (second term)") : ""}</option>)}</select>

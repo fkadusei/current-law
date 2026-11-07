@@ -12,8 +12,7 @@ const order = Object.keys(PRESIDENT_INFO).reverse();
 const presidents = [...map.values()].sort((a, b) => order.indexOf(a.id) - order.indexOf(b.id));
 ---
 <Base title="Presidents">
-  <h1>Presidents</h1>
-  <p class="muted">Laws each President signed and the executive orders they issued.</p>
+  <section slot="hero" class="page-hero"><div class="wrap"><p class="eyebrow-label">The White House</p><h1>Presidents</h1><p>Laws each President signed and the executive orders they issued.</p></div></section>
   <div class="pres">
     {presidents.map((p) => (
       <a class="card p" href={`${base}/presidents/${p.id}/`}>

@@ -1,0 +1,16 @@
+---
+// Official congressional portrait (public domain, via the unitedstates project),
+// falling back to initials in the party color if no photo exists.
+const { bioguide, name, party = "Other", size = 48 } = Astro.props;
+const initials = name.split(/\s+/).filter(Boolean).map((w) => w[0]).filter((c) => /[A-Z]/.test(c)).slice(0, 2).join("") || "?";
+const src = bioguide ? `https://unitedstates.github.io/images/congress/225x275/${bioguide}.jpg` : null;
+---
+<span class={`avatar av-${party}`} style={`--s:${size}px`}>
+  <span class="av-init" aria-hidden="true">{initials}</span>
+  {src && <img src={src} alt="" loading="lazy" decoding="async" width={size} height={Math.round(size * 1.22)} onerror="this.remove()" />}
+</span>
+<style>
+  .avatar { position: relative; flex: none; width: var(--s); height: var(--s); border-radius: 50%; overflow: hidden; display: grid; place-items: center; color: #fff; font: 700 calc(var(--s) * .36) var(--sans); box-shadow: 0 0 0 2px var(--surface), 0 0 0 4px var(--ring, var(--muted)); background: var(--ring, var(--muted)); }
+  .av-D { --ring: var(--dem); } .av-R { --ring: var(--rep); } .av-I { --ring: var(--ind); }
+  .avatar img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; object-position: 50% 15%; }
+</style>

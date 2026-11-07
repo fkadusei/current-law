@@ -130,7 +130,7 @@ const nav = [
     active = -1;
     box.innerHTML = items.length
       ? items.map((d, i) => `<a role="option" id="gs-${i}" href="${d.url}"><span class="gs-type">${esc(d.meta.type || "Page")}</span><span class="gs-title">${esc(d.meta.title)}</span><span class="gs-ex">${d.excerpt}</span></a>`).join("")
-        + `<a class="gs-all" href="${base}/search/?q=${encodeURIComponent(q)}">See all ${res.results.length} results →</a>`
+        + `<a class="gs-all" href="${base}/search/?q=${encodeURIComponent(q)}">${res.results.length === 1 ? "Open the search page" : `See all ${res.results.length} results`} →</a>`
       : `<p class="gs-none">No matches for “${esc(q)}”.</p>`;
     box.hidden = false; input.setAttribute("aria-expanded", "true");
   }

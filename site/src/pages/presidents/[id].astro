@@ -13,7 +13,7 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, "");
 const laws = allLaws().filter((l) => l.president?.id === p.id);
 const eos = executiveOrders().filter((e) => e.president?.id === p.id);
 ---
-<Base title={p.name}>
+<Base title={p.name} kind="President">
   <p class="muted crumbs"><a href={`${base}/presidents/`}>Presidents</a></p>
   <h1>{p.name}</h1>
   <p class={`party-${p.party[0]} role`}>{p.party} · {PRESIDENT_INFO[p.id]?.years}{PRESIDENT_INFO[p.id]?.note ? ` · ${PRESIDENT_INFO[p.id].note}` : ""}</p>

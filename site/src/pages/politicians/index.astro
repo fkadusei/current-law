@@ -1,5 +1,6 @@
 ---
 import Base from "../../layouts/Base.astro";
+import Avatar from "../../components/Avatar.astro";
 import { membersIndex, memberRecords, displayName, PARTY_NAME } from "../../lib/data.js";
 const base = import.meta.env.BASE_URL.replace(/\/$/, "");
 const records = memberRecords();
@@ -8,8 +9,13 @@ const members = membersIndex().filter((m) => m.bioguide)
   .sort((a, b) => a.state.localeCompare(b.state) || a.chamber.localeCompare(b.chamber) || a.display.localeCompare(b.display));
 ---
 <Base title="Politicians">
-  <h1>Politicians</h1>
-  <p class="muted">Every member of the House and Senate in the Congresses covered so far. Pick one to see how they voted on each law.</p>
+  <section slot="hero" class="page-hero">
+    <div class="wrap">
+      <p class="eyebrow-label">House and Senate</p>
+      <h1>Politicians</h1>
+      <p>Every member of the House and Senate in the Congresses covered so far. Pick one to see how they voted on each law.</p>
+    </div>
+  </section>
   <form class="filters card" onsubmit="return false">
     <input id="q" type="search" placeholder="Search by name or state (e.g. Ohio, OH)" aria-label="Search politicians" />
     <select id="chamber" aria-label="Chamber"><option value="">House and Senate</option><option>House</option><option>Senate</option></select>
@@ -19,7 +25,7 @@ const members = membersIndex().filter((m) => m.bioguide)
     {members.map((m) => (
       <li data-q={`${m.display} ${m.state}`.toLowerCase()} data-chamber={m.chamber} data-party={m.party}>
         <a class="person card" href={`${base}/politicians/${m.bioguide}/`}>
-          <span class={`dot bg-${m.party}`} aria-hidden="true"></span>
+          <Avatar bioguide={m.bioguide} name={m.display} party={m.party} size={44} />
           <span class="who"><strong>{m.display}</strong><span class="muted">{PARTY_NAME[m.party]} · {m.chamber === "House" ? `Rep., ${m.state}${m.district && m.district !== "0" ? "-" + m.district : ""}` : `Senator, ${m.state}`}</span></span>
           <span class="muted n">{m.n} votes</span>
         </a>

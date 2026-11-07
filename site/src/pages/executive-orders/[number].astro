@@ -10,7 +10,7 @@ const { e } = Astro.props;
 const base = import.meta.env.BASE_URL.replace(/\/$/, "");
 const s = e.summary;
 ---
-<Base title={`Executive Order ${e.number}`} description={s?.headline || e.title}>
+<Base kind="Executive order" title={`Executive Order ${e.number}`} description={s?.headline || e.title}>
   <p class="muted crumbs"><a href={`${base}/executive-orders/`}>Executive orders</a></p>
   <div class={`banner party-bg-${e.president?.party?.[0]}`}>
     <p class="eyebrow">Executive Order {e.number} · {formatDate(e.signed)}</p>

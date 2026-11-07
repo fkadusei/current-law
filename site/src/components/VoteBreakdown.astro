@@ -9,7 +9,7 @@ const order = { yea: 0, nay: 1, present: 2, "not voting": 3 };
 const members = [...vote.members].sort((a, b) => order[a.vote] - order[b.vote] || a.state.localeCompare(b.state) || a.name.localeCompare(b.name));
 const label = { yea: "Yes", nay: "No", present: "Present", "not voting": "Didn't vote" };
 ---
-<section class="vote card">
+<section class="vote card" data-pagefind-ignore>
   <header>
     <div>
       <h3>{vote.chamber === "House" ? "House of Representatives" : "Senate"}</h3>
