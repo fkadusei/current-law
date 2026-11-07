@@ -1,0 +1,40 @@
+{
+ "id": "pl-117-308",
+ "congress": 117,
+ "public_law": "117-308",
+ "bill": "HR 7735",
+ "title": "Improving Access to the VA Home Loan Benefit Act of 2022",
+ "enacted": "2022-12-27",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Rep. Bost, Mike [R-IL-12]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr7735enr/xml/BILLS-117hr7735enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr7735rds/xml/BILLS-117hr7735rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr7735eh/xml/BILLS-117hr7735eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr7735ih/xml/BILLS-117hr7735ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ308/uslm/PLAW-117publ308.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/house-bill/7735",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

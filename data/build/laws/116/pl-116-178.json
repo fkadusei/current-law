@@ -1,0 +1,40 @@
+{
+ "id": "pl-116-178",
+ "congress": 116,
+ "public_law": "116-178",
+ "bill": "HR 6168",
+ "title": "Veterans' Compensation Cost-of-Living Adjustment Act of 2020",
+ "enacted": "2020-10-20",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Rep. Luria, Elaine G. [D-VA-2]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr6168enr/xml/BILLS-116hr6168enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr6168rfs/xml/BILLS-116hr6168rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr6168eh/xml/BILLS-116hr6168eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr6168ih/xml/BILLS-116hr6168ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ178/uslm/PLAW-116publ178.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/6168",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,40 @@
+{
+ "id": "pl-114-275",
+ "congress": 114,
+ "public_law": "114-275",
+ "bill": "S 3395",
+ "title": "Prescribed Burn Approval Act of 2016",
+ "enacted": "2016-12-14",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Public Lands and Natural Resources",
+ "sponsor": "Sen. Thune, John [R-SD]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s3395enr/xml/BILLS-114s3395enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s3395rfh/xml/BILLS-114s3395rfh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s3395es/xml/BILLS-114s3395es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s3395is/xml/BILLS-114s3395is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-114publ275/uslm/PLAW-114publ275.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/114th-congress/senate-bill/3395",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

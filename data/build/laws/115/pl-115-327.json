@@ -1,0 +1,40 @@
+{
+ "id": "pl-115-327",
+ "congress": 115,
+ "public_law": "115-327",
+ "bill": "S 2465",
+ "title": "Sickle Cell Disease and Other Heritable Blood Disorders Research, Surveillance, Prevention, and Treatment Act of 2018",
+ "enacted": "2018-12-18",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Health",
+ "sponsor": "Sen. Scott, Tim [R-SC]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s2465enr/xml/BILLS-115s2465enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s2465es/xml/BILLS-115s2465es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s2465rs/xml/BILLS-115s2465rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s2465is/xml/BILLS-115s2465is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ327/uslm/PLAW-115publ327.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/2465",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

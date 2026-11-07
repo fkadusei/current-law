@@ -1,0 +1,46 @@
+{
+ "id": "pl-115-392",
+ "congress": 115,
+ "public_law": "115-392",
+ "bill": "S 1311",
+ "title": "Abolish Human Trafficking Act of 2017",
+ "enacted": "2018-12-21",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Crime and Law Enforcement",
+ "sponsor": "Sen. Cornyn, John [R-TX]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s1311enr/xml/BILLS-115s1311enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s1311eah/xml/BILLS-115s1311eah.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s1311rfh/xml/BILLS-115s1311rfh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s1311es/xml/BILLS-115s1311es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s1311rs/xml/BILLS-115s1311rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s1311is/xml/BILLS-115s1311is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ392/uslm/PLAW-115publ392.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/1311",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

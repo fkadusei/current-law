@@ -1,0 +1,40 @@
+{
+ "id": "pl-117-192",
+ "congress": 117,
+ "public_law": "117-192",
+ "bill": "HR 8982",
+ "title": "Bulk Infant Formula to Retail Shelves Act",
+ "enacted": "2022-10-10",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Foreign Trade and International Finance",
+ "sponsor": "Rep. DelBene, Suzan K. [D-WA-1]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr8982enr/xml/BILLS-117hr8982enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr8982eh/xml/BILLS-117hr8982eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr8982rds/xml/BILLS-117hr8982rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr8982ih/xml/BILLS-117hr8982ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ192/uslm/PLAW-117publ192.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/house-bill/8982",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

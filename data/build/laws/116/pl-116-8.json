@@ -1,0 +1,40 @@
+{
+ "id": "pl-116-8",
+ "congress": 116,
+ "public_law": "116-8",
+ "bill": "S 483",
+ "title": "Pesticide Registration Improvement Extension Act of 2018",
+ "enacted": "2019-03-08",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Environmental Protection",
+ "sponsor": "Sen. Roberts, Pat [R-KS]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s483enr/xml/BILLS-116s483enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s483eah/xml/BILLS-116s483eah.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s483pcs/xml/BILLS-116s483pcs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s483es/xml/BILLS-116s483es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ8/uslm/PLAW-116publ8.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/senate-bill/483",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

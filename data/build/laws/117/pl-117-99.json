@@ -1,0 +1,37 @@
+{
+ "id": "pl-117-99",
+ "congress": 117,
+ "public_law": "117-99",
+ "bill": "S 854",
+ "title": "Methamphetamine Response Act of 2021",
+ "enacted": "2022-03-14",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Crime and Law Enforcement",
+ "sponsor": "Sen. Feinstein, Dianne [D-CA]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s854enr/xml/BILLS-117s854enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s854es/xml/BILLS-117s854es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s854is/xml/BILLS-117s854is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ99/uslm/PLAW-117publ99.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/senate-bill/854",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

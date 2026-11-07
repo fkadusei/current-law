@@ -1,0 +1,40 @@
+{
+ "id": "pl-117-305",
+ "congress": 117,
+ "public_law": "117-305",
+ "bill": "HR 7518",
+ "title": "To designate the facility of the United States Postal Service located at 23200 John R Road in Hazel Park, Michigan, as the \"Roy E. Dickens Post Office\".",
+ "enacted": "2022-12-27",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Levin, Andy [D-MI-9]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr7518enr/xml/BILLS-117hr7518enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr7518rfs/xml/BILLS-117hr7518rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr7518eh/xml/BILLS-117hr7518eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr7518ih/xml/BILLS-117hr7518ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ305/uslm/PLAW-117publ305.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/house-bill/7518",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

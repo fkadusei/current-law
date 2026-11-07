@@ -1,0 +1,43 @@
+{
+ "id": "pl-113-125",
+ "congress": 113,
+ "public_law": "113-125",
+ "bill": "S 2086",
+ "title": "Reliable Home Heating Act",
+ "enacted": "2014-06-30",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Transportation and Public Works",
+ "sponsor": "Sen. Thune, John [R-SD]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s2086enr/xml/BILLS-113s2086enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s2086rfh/xml/BILLS-113s2086rfh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s2086es/xml/BILLS-113s2086es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s2086rs/xml/BILLS-113s2086rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s2086is/xml/BILLS-113s2086is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-113publ125/uslm/PLAW-113publ125.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/113th-congress/senate-bill/2086",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

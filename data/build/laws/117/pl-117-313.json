@@ -1,0 +1,43 @@
+{
+ "id": "pl-117-313",
+ "congress": 117,
+ "public_law": "117-313",
+ "bill": "HR 8260",
+ "title": "Faster Payments to Veterans' Survivors Act of 2022",
+ "enacted": "2022-12-27",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Rep. Pappas, Chris [D-NH-1]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr8260enr/xml/BILLS-117hr8260enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr8260rds/xml/BILLS-117hr8260rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr8260eh/xml/BILLS-117hr8260eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr8260rh/xml/BILLS-117hr8260rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr8260ih/xml/BILLS-117hr8260ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ313/uslm/PLAW-117publ313.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/house-bill/8260",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

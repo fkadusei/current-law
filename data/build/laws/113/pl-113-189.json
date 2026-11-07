@@ -1,0 +1,43 @@
+{
+ "id": "pl-113-189",
+ "congress": 113,
+ "public_law": "113-189",
+ "bill": "S 885",
+ "title": "A bill to designate the facility of the United States Postal Service located at 35 Park Street in Danville, Vermont, as the \"Thaddeus Stevens Post Office\".",
+ "enacted": "2014-11-26",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Sen. Sanders, Bernard [I-VT]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s885enr/xml/BILLS-113s885enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s885rfh/xml/BILLS-113s885rfh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s885es/xml/BILLS-113s885es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s885rs/xml/BILLS-113s885rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s885is/xml/BILLS-113s885is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-113publ189/uslm/PLAW-113publ189.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/113th-congress/senate-bill/885",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

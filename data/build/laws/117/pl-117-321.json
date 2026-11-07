@@ -1,0 +1,37 @@
+{
+ "id": "pl-117-321",
+ "congress": 117,
+ "public_law": "117-321",
+ "bill": "S 2899",
+ "title": "Prison Camera Reform Act of 2021",
+ "enacted": "2022-12-27",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Crime and Law Enforcement",
+ "sponsor": "Sen. Ossoff, Jon [D-GA]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s2899enr/xml/BILLS-117s2899enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s2899es/xml/BILLS-117s2899es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s2899is/xml/BILLS-117s2899is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ321/uslm/PLAW-117publ321.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/senate-bill/2899",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

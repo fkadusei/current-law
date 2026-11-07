@@ -1,0 +1,40 @@
+{
+ "id": "pl-116-188",
+ "congress": 116,
+ "public_law": "116-188",
+ "bill": "S 3051",
+ "title": "America's Conservation Enhancement Act",
+ "enacted": "2020-10-30",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Public Lands and Natural Resources",
+ "sponsor": "Sen. Barrasso, John [R-WY]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s3051enr/xml/BILLS-116s3051enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s3051es/xml/BILLS-116s3051es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s3051rs/xml/BILLS-116s3051rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s3051is/xml/BILLS-116s3051is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ188/uslm/PLAW-116publ188.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/senate-bill/3051",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

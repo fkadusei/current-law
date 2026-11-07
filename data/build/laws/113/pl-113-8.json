@@ -1,0 +1,43 @@
+{
+ "id": "pl-113-8",
+ "congress": 113,
+ "public_law": "113-8",
+ "bill": "HR 1246",
+ "title": "District of Columbia Chief Financial Officer Vacancy Act",
+ "enacted": "2013-05-01",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Del. Norton, Eleanor Holmes [D-DC-At Large]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr1246enr/xml/BILLS-113hr1246enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr1246rds/xml/BILLS-113hr1246rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr1246eh/xml/BILLS-113hr1246eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr1246rh/xml/BILLS-113hr1246rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr1246ih/xml/BILLS-113hr1246ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-113publ8/uslm/PLAW-113publ8.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/113th-congress/house-bill/1246",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

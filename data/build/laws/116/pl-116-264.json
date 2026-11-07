@@ -1,0 +1,40 @@
+{
+ "id": "pl-116-264",
+ "congress": 116,
+ "public_law": "116-264",
+ "bill": "S 3257",
+ "title": "A bill to designate the facility of the United States Postal Service located at 311 West Wisconsin Avenue in Tomahawk, Wisconsin, as the \"Einar 'Sarge' H. Ingman, Jr. Post Office Building\".",
+ "enacted": "2020-12-30",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Sen. Johnson, Ron [R-WI]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s3257enr/xml/BILLS-116s3257enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s3257es/xml/BILLS-116s3257es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s3257rs/xml/BILLS-116s3257rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s3257is/xml/BILLS-116s3257is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ264/uslm/PLAW-116publ264.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/senate-bill/3257",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

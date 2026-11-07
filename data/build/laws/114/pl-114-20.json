@@ -1,0 +1,43 @@
+{
+ "id": "pl-114-20",
+ "congress": 114,
+ "public_law": "114-20",
+ "bill": "HR 1690",
+ "title": "To designate the United States courthouse located at 700 Grant Street in Pittsburgh, Pennsylvania, as the \"Joseph F. Weis Jr. United States Courthouse\".",
+ "enacted": "2015-05-29",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Doyle, Michael F. [D-PA-14]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr1690enr/xml/BILLS-114hr1690enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr1690rfs/xml/BILLS-114hr1690rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr1690eh/xml/BILLS-114hr1690eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr1690rh/xml/BILLS-114hr1690rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr1690ih/xml/BILLS-114hr1690ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-114publ20/uslm/PLAW-114publ20.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/114th-congress/house-bill/1690",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

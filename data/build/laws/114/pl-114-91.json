@@ -1,0 +1,40 @@
+{
+ "id": "pl-114-91",
+ "congress": 114,
+ "public_law": "114-91",
+ "bill": "S 799",
+ "title": "Protecting Our Infants Act of 2015",
+ "enacted": "2015-11-25",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Health",
+ "sponsor": "Sen. McConnell, Mitch [R-KY]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s799enr/xml/BILLS-114s799enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s799es/xml/BILLS-114s799es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s799rs/xml/BILLS-114s799rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s799is/xml/BILLS-114s799is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-114publ91/uslm/PLAW-114publ91.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/114th-congress/senate-bill/799",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

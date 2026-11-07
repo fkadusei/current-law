@@ -1,0 +1,40 @@
+{
+ "id": "pl-117-76",
+ "congress": 117,
+ "public_law": "117-76",
+ "bill": "HR 5545",
+ "title": "REMOTE Act",
+ "enacted": "2021-12-21",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Rep. Trone, David J. [D-MD-6]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr5545enr/xml/BILLS-117hr5545enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr5545rds/xml/BILLS-117hr5545rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr5545eh/xml/BILLS-117hr5545eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr5545ih/xml/BILLS-117hr5545ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ76/uslm/PLAW-117publ76.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/house-bill/5545",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

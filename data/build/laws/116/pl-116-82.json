@@ -1,0 +1,43 @@
+{
+ "id": "pl-116-82",
+ "congress": 116,
+ "public_law": "116-82",
+ "bill": "HR 1526",
+ "title": "To designate the facility of the United States Postal Service located at 200 Israel Road Southeast in Tumwater, Washington, as the Eva G. Hewitt Post Office.",
+ "enacted": "2019-12-12",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Heck, Denny [D-WA-10]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1526enr/xml/BILLS-116hr1526enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1526rs/xml/BILLS-116hr1526rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1526rfs/xml/BILLS-116hr1526rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1526eh/xml/BILLS-116hr1526eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1526ih/xml/BILLS-116hr1526ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ82/uslm/PLAW-116publ82.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/1526",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

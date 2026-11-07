@@ -1,0 +1,43 @@
+{
+ "id": "pl-116-117",
+ "congress": 116,
+ "public_law": "116-117",
+ "bill": "S 375",
+ "title": "Payment Integrity Information Act of 2019",
+ "enacted": "2020-03-02",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Sen. Carper, Thomas R. [D-DE]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s375enr/xml/BILLS-116s375enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s375rfh/xml/BILLS-116s375rfh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s375es/xml/BILLS-116s375es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s375rs/xml/BILLS-116s375rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s375is/xml/BILLS-116s375is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ117/uslm/PLAW-116publ117.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/senate-bill/375",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

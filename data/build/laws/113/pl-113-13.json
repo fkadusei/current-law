@@ -1,0 +1,37 @@
+{
+ "id": "pl-113-13",
+ "congress": 113,
+ "public_law": "113-13",
+ "bill": "S 982",
+ "title": "Freedom to Fish Act",
+ "enacted": "2013-06-03",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Water Resources Development",
+ "sponsor": "Sen. Alexander, Lamar [R-TN]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s982enr/xml/BILLS-113s982enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s982es/xml/BILLS-113s982es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s982cps/xml/BILLS-113s982cps.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-113publ13/uslm/PLAW-113publ13.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/113th-congress/senate-bill/982",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

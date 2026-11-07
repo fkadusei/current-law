@@ -1,0 +1,40 @@
+{
+ "id": "pl-117-14",
+ "congress": 117,
+ "public_law": "117-14",
+ "bill": "HR 1318",
+ "title": "Alaska Tourism Restoration Act",
+ "enacted": "2021-05-24",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Transportation and Public Works",
+ "sponsor": "Rep. Young, Don [R-AK-At Large]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr1318enr/xml/BILLS-117hr1318enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr1318eh/xml/BILLS-117hr1318eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr1318rds/xml/BILLS-117hr1318rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr1318ih/xml/BILLS-117hr1318ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ14/xml/PLAW-117publ14.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/house-bill/1318",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,43 @@
+{
+ "id": "pl-115-167",
+ "congress": 115,
+ "public_law": "115-167",
+ "bill": "HR 3445",
+ "title": "African Growth and Opportunity Act and Millennium Challenge Act Modernization Act",
+ "enacted": "2018-04-23",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "International Affairs",
+ "sponsor": "Rep. Royce, Edward R. [R-CA-39]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr3445enr/xml/BILLS-115hr3445enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr3445pcs/xml/BILLS-115hr3445pcs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr3445eh/xml/BILLS-115hr3445eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr3445rh/xml/BILLS-115hr3445rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr3445ih/xml/BILLS-115hr3445ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ167/uslm/PLAW-115publ167.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/3445",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

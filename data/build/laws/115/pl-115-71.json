@@ -1,0 +1,43 @@
+{
+ "id": "pl-115-71",
+ "congress": 115,
+ "public_law": "115-71",
+ "bill": "S 652",
+ "title": "Early Hearing Detection and Intervention Act of 2017",
+ "enacted": "2017-10-18",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Health",
+ "sponsor": "Sen. Portman, Rob [R-OH]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s652enr/xml/BILLS-115s652enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s652rfh/xml/BILLS-115s652rfh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s652es/xml/BILLS-115s652es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s652rs/xml/BILLS-115s652rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s652is/xml/BILLS-115s652is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ71/uslm/PLAW-115publ71.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/652",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

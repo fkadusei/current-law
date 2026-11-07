@@ -1,0 +1,40 @@
+{
+ "id": "pl-117-187",
+ "congress": 117,
+ "public_law": "117-187",
+ "bill": "HR 1766",
+ "title": "FTC Collaboration Act of 2021",
+ "enacted": "2022-10-10",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Commerce",
+ "sponsor": "Rep. O'Halleran, Tom [D-AZ-1]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr1766enr/xml/BILLS-117hr1766enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr1766rfs/xml/BILLS-117hr1766rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr1766eh/xml/BILLS-117hr1766eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr1766ih/xml/BILLS-117hr1766ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ187/uslm/PLAW-117publ187.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/house-bill/1766",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

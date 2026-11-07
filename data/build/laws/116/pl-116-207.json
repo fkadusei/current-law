@@ -1,0 +1,43 @@
+{
+ "id": "pl-116-207",
+ "congress": 116,
+ "public_law": "116-207",
+ "bill": "HR 1668",
+ "title": "IoT Cybersecurity Improvement Act of 2020",
+ "enacted": "2020-12-04",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Kelly, Robin L. [D-IL-2]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1668enr/xml/BILLS-116hr1668enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1668rds/xml/BILLS-116hr1668rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1668rh/xml/BILLS-116hr1668rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1668eh/xml/BILLS-116hr1668eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1668ih/xml/BILLS-116hr1668ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ207/uslm/PLAW-116publ207.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/1668",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

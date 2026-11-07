@@ -1,0 +1,43 @@
+{
+ "id": "pl-115-221",
+ "congress": 115,
+ "public_law": "115-221",
+ "bill": "S 2734",
+ "title": "A bill to designate the Federal building and United States courthouse located at 1300 Victoria Street in Laredo, Texas, as the \"George P. Kazen Federal Building and United States Courthouse\".",
+ "enacted": "2018-07-27",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Sen. Cornyn, John [R-TX]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s2734enr/xml/BILLS-115s2734enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s2734es/xml/BILLS-115s2734es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s2734rfh/xml/BILLS-115s2734rfh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s2734rs/xml/BILLS-115s2734rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s2734is/xml/BILLS-115s2734is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ221/uslm/PLAW-115publ221.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/2734",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

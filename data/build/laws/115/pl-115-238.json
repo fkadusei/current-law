@@ -1,0 +1,43 @@
+{
+ "id": "pl-115-238",
+ "congress": 115,
+ "public_law": "115-238",
+ "bill": "S 899",
+ "title": "Veterans Providing Healthcare Transition Improvement Act",
+ "enacted": "2018-09-07",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Sen. Hirono, Mazie K. [D-HI]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s899enr/xml/BILLS-115s899enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s899eah/xml/BILLS-115s899eah.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s899rfh/xml/BILLS-115s899rfh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s899es/xml/BILLS-115s899es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s899is/xml/BILLS-115s899is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ238/uslm/PLAW-115publ238.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/899",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

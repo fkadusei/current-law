@@ -1,0 +1,37 @@
+{
+ "id": "pl-117-326",
+ "congress": 117,
+ "public_law": "117-326",
+ "bill": "S 5229",
+ "title": "A bill to direct the Joint Committee of Congress on the Library to remove the bust of Roger Brooke Taney in the Old Supreme Court Chamber of the Capitol and to obtain a bust of Thurgood Marshall for installation in the Capitol or on the Capitol Grounds, and for other purposes.",
+ "enacted": "2022-12-27",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Congress",
+ "sponsor": "Sen. Cardin, Benjamin L. [D-MD]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s5229enr/xml/BILLS-117s5229enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s5229es/xml/BILLS-117s5229es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s5229cps/xml/BILLS-117s5229cps.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ326/uslm/PLAW-117publ326.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/senate-bill/5229",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

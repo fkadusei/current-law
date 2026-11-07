@@ -1,0 +1,40 @@
+{
+ "id": "pl-113-283",
+ "congress": 113,
+ "public_law": "113-283",
+ "bill": "S 2521",
+ "title": "Federal Information Security Modernization Act of 2014",
+ "enacted": "2014-12-18",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Sen. Carper, Thomas R. [D-DE]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s2521enr/xml/BILLS-113s2521enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s2521es/xml/BILLS-113s2521es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s2521rs/xml/BILLS-113s2521rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s2521is/xml/BILLS-113s2521is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-113publ283/uslm/PLAW-113publ283.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/113th-congress/senate-bill/2521",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

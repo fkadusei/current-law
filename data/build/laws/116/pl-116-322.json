@@ -1,0 +1,40 @@
+{
+ "id": "pl-116-322",
+ "congress": 116,
+ "public_law": "116-322",
+ "bill": "HR 8611",
+ "title": "To designate the facility of the United States Postal Service located at 4755 Southeast Dixie Highway in Port Salerno, Florida, as the Joseph Bullock Post Office Building.",
+ "enacted": "2021-01-05",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Mast, Brian J. [R-FL-18]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr8611enr/xml/BILLS-116hr8611enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr8611rfs/xml/BILLS-116hr8611rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr8611eh/xml/BILLS-116hr8611eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr8611ih/xml/BILLS-116hr8611ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ322/uslm/PLAW-116publ322.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/8611",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

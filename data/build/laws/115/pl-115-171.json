@@ -1,0 +1,43 @@
+{
+ "id": "pl-115-171",
+ "congress": 115,
+ "public_law": "115-171",
+ "bill": "S 447",
+ "title": "Justice for Uncompensated Survivors Today (JUST) Act of 2017",
+ "enacted": "2018-05-09",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "International Affairs",
+ "sponsor": "Sen. Baldwin, Tammy [D-WI]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s447enr/xml/BILLS-115s447enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s447es/xml/BILLS-115s447es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s447rfh/xml/BILLS-115s447rfh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s447rs/xml/BILLS-115s447rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s447is/xml/BILLS-115s447is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ171/uslm/PLAW-115publ171.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/447",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

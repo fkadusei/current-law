@@ -1,0 +1,40 @@
+{
+ "id": "pl-115-9",
+ "congress": 115,
+ "public_law": "115-9",
+ "bill": "HR 609",
+ "title": "To designate the Department of Veterans Affairs health care center in Center Township, Butler County, Pennsylvania, as the \"Abie Abraham VA Clinic\".",
+ "enacted": "2017-03-13",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Rep. Kelly, Mike [R-PA-3]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr609enr/xml/BILLS-115hr609enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr609rfs/xml/BILLS-115hr609rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr609eh/xml/BILLS-115hr609eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr609ih/xml/BILLS-115hr609ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ9/uslm/PLAW-115publ9.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/609",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

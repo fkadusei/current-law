@@ -1,0 +1,37 @@
+{
+ "id": "pl-113-126",
+ "congress": 113,
+ "public_law": "113-126",
+ "bill": "S 1681",
+ "title": "Intelligence Authorization Act for Fiscal Year 2014",
+ "enacted": "2014-07-07",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Sen. Feinstein, Dianne [D-CA]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s1681enr/xml/BILLS-113s1681enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s1681es/xml/BILLS-113s1681es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s1681pcs/xml/BILLS-113s1681pcs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-113publ126/uslm/PLAW-113publ126.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/113th-congress/senate-bill/1681",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

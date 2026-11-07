@@ -1,0 +1,43 @@
+{
+ "id": "pl-116-330",
+ "congress": 116,
+ "public_law": "116-330",
+ "bill": "HR 1923",
+ "title": "Circulating Collectible Coin Redesign Act of 2020",
+ "enacted": "2021-01-13",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Finance and Financial Sector",
+ "sponsor": "Rep. Lee, Barbara [D-CA-13]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1923enr/xml/BILLS-116hr1923enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1923eas/xml/BILLS-116hr1923eas.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1923rfs/xml/BILLS-116hr1923rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1923eh/xml/BILLS-116hr1923eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1923ih/xml/BILLS-116hr1923ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ330/uslm/PLAW-116publ330.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/1923",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

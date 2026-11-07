@@ -1,0 +1,43 @@
+{
+ "id": "pl-115-89",
+ "congress": 115,
+ "public_law": "115-89",
+ "bill": "HR 3949",
+ "title": "VALOR Act",
+ "enacted": "2017-11-21",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Rep. Khanna, Ro [D-CA-17]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr3949enr/xml/BILLS-115hr3949enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr3949rds/xml/BILLS-115hr3949rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr3949rh/xml/BILLS-115hr3949rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr3949eh/xml/BILLS-115hr3949eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr3949ih/xml/BILLS-115hr3949ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ89/uslm/PLAW-115publ89.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/3949",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

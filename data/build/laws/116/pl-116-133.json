@@ -1,0 +1,40 @@
+{
+ "id": "pl-116-133",
+ "congress": 116,
+ "public_law": "116-133",
+ "bill": "HR 4803",
+ "title": "Citizenship for Children of Military Members and Civil Servants Act",
+ "enacted": "2020-03-26",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Immigration",
+ "sponsor": "Rep. Nadler, Jerrold [D-NY-10]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr4803enr/xml/BILLS-116hr4803enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr4803rfs/xml/BILLS-116hr4803rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr4803eh/xml/BILLS-116hr4803eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr4803ih/xml/BILLS-116hr4803ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ133/uslm/PLAW-116publ133.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/4803",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

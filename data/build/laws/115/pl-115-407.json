@@ -1,0 +1,40 @@
+{
+ "id": "pl-115-407",
+ "congress": 115,
+ "public_law": "115-407",
+ "bill": "S 2248",
+ "title": "Veterans Benefits and Transition Act of 2018",
+ "enacted": "2018-12-31",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Sen. Tester, Jon [D-MT]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s2248enr/xml/BILLS-115s2248enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s2248eah/xml/BILLS-115s2248eah.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s2248es/xml/BILLS-115s2248es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s2248is/xml/BILLS-115s2248is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ407/uslm/PLAW-115publ407.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/2248",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

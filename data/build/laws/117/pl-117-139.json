@@ -1,0 +1,37 @@
+{
+ "id": "pl-117-139",
+ "congress": 117,
+ "public_law": "117-139",
+ "bill": "S 4119",
+ "title": "RECA Extension Act of 2022",
+ "enacted": "2022-06-07",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Labor and Employment",
+ "sponsor": "Sen. Lee, Mike [R-UT]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s4119enr/xml/BILLS-117s4119enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s4119es/xml/BILLS-117s4119es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s4119cps/xml/BILLS-117s4119cps.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ139/uslm/PLAW-117publ139.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/senate-bill/4119",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

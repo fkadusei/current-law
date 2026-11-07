@@ -1,0 +1,40 @@
+{
+ "id": "pl-116-11",
+ "congress": 116,
+ "public_law": "116-11",
+ "bill": "S 252",
+ "title": "A bill to authorize the honorary appointment of Robert J. Dole to the grade of colonel in the regular Army.",
+ "enacted": "2019-04-06",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Sen. Roberts, Pat [R-KS]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s252enr/xml/BILLS-116s252enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s252rfh/xml/BILLS-116s252rfh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s252es/xml/BILLS-116s252es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s252is/xml/BILLS-116s252is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ11/uslm/PLAW-116publ11.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/senate-bill/252",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

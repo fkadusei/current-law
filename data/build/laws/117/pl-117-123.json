@@ -1,0 +1,40 @@
+{
+ "id": "pl-117-123",
+ "congress": 117,
+ "public_law": "117-123",
+ "bill": "S 270",
+ "title": "Brown v. Board of Education National Historical Park Expansion and Redesignation Act",
+ "enacted": "2022-05-12",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Public Lands and Natural Resources",
+ "sponsor": "Sen. Coons, Christopher A. [D-DE]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s270enr/xml/BILLS-117s270enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s270es/xml/BILLS-117s270es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s270rs/xml/BILLS-117s270rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s270is/xml/BILLS-117s270is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ123/uslm/PLAW-117publ123.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/senate-bill/270",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,43 @@
+{
+ "id": "pl-115-335",
+ "congress": 115,
+ "public_law": "115-335",
+ "bill": "HR 1918",
+ "title": "Nicaragua Human Rights and Anticorruption Act of 2018",
+ "enacted": "2018-12-20",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "International Affairs",
+ "sponsor": "Rep. Ros-Lehtinen, Ileana [R-FL-27]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1918enr/xml/BILLS-115hr1918enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1918eas/xml/BILLS-115hr1918eas.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1918rfs/xml/BILLS-115hr1918rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1918eh/xml/BILLS-115hr1918eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1918ih/xml/BILLS-115hr1918ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ335/uslm/PLAW-115publ335.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/1918",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

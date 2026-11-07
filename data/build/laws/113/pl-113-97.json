@@ -1,0 +1,40 @@
+{
+ "id": "pl-113-97",
+ "congress": 113,
+ "public_law": "113-97",
+ "bill": "HR 4275",
+ "title": "Cooperative and Small Employer Charity Pension Flexibility Act",
+ "enacted": "2014-04-07",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Labor and Employment",
+ "sponsor": "Rep. Brooks, Susan W. [R-IN-5]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr4275enr/xml/BILLS-113hr4275enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr4275rds/xml/BILLS-113hr4275rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr4275eh/xml/BILLS-113hr4275eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr4275ih/xml/BILLS-113hr4275ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-113publ97/uslm/PLAW-113publ97.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/113th-congress/house-bill/4275",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

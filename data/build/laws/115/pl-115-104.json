@@ -1,0 +1,43 @@
+{
+ "id": "pl-115-104",
+ "congress": 115,
+ "public_law": "115-104",
+ "bill": "HR 1927",
+ "title": "African American Civil Rights Network Act of 2017",
+ "enacted": "2018-01-08",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Public Lands and Natural Resources",
+ "sponsor": "Rep. Clay, Wm. Lacy [D-MO-1]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1927enr/xml/BILLS-115hr1927enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1927rfs/xml/BILLS-115hr1927rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1927eh/xml/BILLS-115hr1927eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1927rh/xml/BILLS-115hr1927rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1927ih/xml/BILLS-115hr1927ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ104/uslm/PLAW-115publ104.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/1927",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

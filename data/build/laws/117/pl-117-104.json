@@ -1,0 +1,40 @@
+{
+ "id": "pl-117-104",
+ "congress": 117,
+ "public_law": "117-104",
+ "bill": "HR 189",
+ "title": "John Lewis NIMHD Research Endowment Revitalization Act of 2021",
+ "enacted": "2022-03-18",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Health",
+ "sponsor": "Rep. Barragan, Nanette Diaz [D-CA-44]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr189enr/xml/BILLS-117hr189enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr189pcs/xml/BILLS-117hr189pcs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr189eh/xml/BILLS-117hr189eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr189ih/xml/BILLS-117hr189ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ104/uslm/PLAW-117publ104.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/house-bill/189",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

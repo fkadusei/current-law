@@ -1,0 +1,43 @@
+{
+ "id": "pl-115-353",
+ "congress": 115,
+ "public_law": "115-353",
+ "bill": "HR 4819",
+ "title": "DELTA Act",
+ "enacted": "2018-12-21",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "International Affairs",
+ "sponsor": "Rep. Fortenberry, Jeff [R-NE-1]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr4819enr/xml/BILLS-115hr4819enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr4819rs/xml/BILLS-115hr4819rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr4819rfs/xml/BILLS-115hr4819rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr4819eh/xml/BILLS-115hr4819eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr4819ih/xml/BILLS-115hr4819ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ353/uslm/PLAW-115publ353.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/4819",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

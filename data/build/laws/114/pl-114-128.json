@@ -1,0 +1,43 @@
+{
+ "id": "pl-114-128",
+ "congress": 114,
+ "public_law": "114-128",
+ "bill": "HR 890",
+ "title": "To revise the boundaries of certain John H. Chafee Coastal Barrier Resources System units in Florida.",
+ "enacted": "2016-02-29",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Public Lands and Natural Resources",
+ "sponsor": "Rep. Clawson, Curt [R-FL-19]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr890enr/xml/BILLS-114hr890enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr890rfs/xml/BILLS-114hr890rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr890eh/xml/BILLS-114hr890eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr890rh/xml/BILLS-114hr890rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr890ih/xml/BILLS-114hr890ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-114publ128/uslm/PLAW-114publ128.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/114th-congress/house-bill/890",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,40 @@
+{
+ "id": "pl-113-233",
+ "congress": 113,
+ "public_law": "113-233",
+ "bill": "S 2917",
+ "title": "Adding Ebola to the FDA Priority Review Voucher Program Act",
+ "enacted": "2014-12-16",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Health",
+ "sponsor": "Sen. Harkin, Tom [D-IA]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s2917enr/xml/BILLS-113s2917enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s2917es/xml/BILLS-113s2917es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s2917rs/xml/BILLS-113s2917rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s2917is/xml/BILLS-113s2917is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-113publ233/uslm/PLAW-113publ233.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/113th-congress/senate-bill/2917",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

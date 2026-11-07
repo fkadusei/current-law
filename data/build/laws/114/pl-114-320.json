@@ -1,0 +1,40 @@
+{
+ "id": "pl-114-320",
+ "congress": 114,
+ "public_law": "114-320",
+ "bill": "S 8",
+ "title": "A bill to provide for the approval of the Agreement for Cooperation Between the Government of the United States of America and the Government of the Kingdom of Norway Concerning Peaceful Uses of Nuclear Energy.",
+ "enacted": "2016-12-16",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "International Affairs",
+ "sponsor": "Sen. Corker, Bob [R-TN]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s8enr/xml/BILLS-114s8enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s8es/xml/BILLS-114s8es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s8rs/xml/BILLS-114s8rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s8is/xml/BILLS-114s8is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-114publ320/uslm/PLAW-114publ320.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/114th-congress/senate-bill/8",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

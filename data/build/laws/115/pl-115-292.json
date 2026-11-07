@@ -1,0 +1,43 @@
+{
+ "id": "pl-115-292",
+ "congress": 115,
+ "public_law": "115-292",
+ "bill": "HR 5504",
+ "title": "To designate the facility of the United States Postal Service located at 4801 West Van Giesen Street in West Richland, Washington, as the \"Sergeant Dietrich Schmieman Post Office Building\".",
+ "enacted": "2018-12-06",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Newhouse, Dan [R-WA-4]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr5504enr/xml/BILLS-115hr5504enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr5504rs/xml/BILLS-115hr5504rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr5504rfs/xml/BILLS-115hr5504rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr5504eh/xml/BILLS-115hr5504eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr5504ih/xml/BILLS-115hr5504ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ292/uslm/PLAW-115publ292.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/5504",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

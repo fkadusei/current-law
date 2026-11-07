@@ -1,0 +1,43 @@
+{
+ "id": "pl-115-67",
+ "congress": 115,
+ "public_law": "115-67",
+ "bill": "S 810",
+ "title": "A bill to facilitate construction of a bridge on certain property in Christian County, Missouri, and for other purposes.",
+ "enacted": "2017-10-06",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Transportation and Public Works",
+ "sponsor": "Sen. Blunt, Roy [R-MO]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s810enr/xml/BILLS-115s810enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s810rfh/xml/BILLS-115s810rfh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s810es/xml/BILLS-115s810es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s810rs/xml/BILLS-115s810rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s810is/xml/BILLS-115s810is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ67/uslm/PLAW-115publ67.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/810",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

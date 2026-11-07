@@ -1,0 +1,37 @@
+{
+ "id": "pl-116-169",
+ "congress": 116,
+ "public_law": "116-169",
+ "bill": "S 4072",
+ "title": "A bill to designate the clinic of the Department of Veterans Affairs in Bend, Oregon, as the \"Robert D. Maxwell Department of Veterans Affairs Clinic\".",
+ "enacted": "2020-10-13",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Sen. Merkley, Jeff [D-OR]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s4072enr/xml/BILLS-116s4072enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s4072es/xml/BILLS-116s4072es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s4072is/xml/BILLS-116s4072is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ169/uslm/PLAW-116publ169.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/senate-bill/4072",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

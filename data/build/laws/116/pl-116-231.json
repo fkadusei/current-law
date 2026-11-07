@@ -1,0 +1,40 @@
+{
+ "id": "pl-116-231",
+ "congress": 116,
+ "public_law": "116-231",
+ "bill": "HR 3275",
+ "title": "To designate the facility of the United States Postal Service located at 340 Wetmore Avenue in Grand River, Ohio, as the Lance Corporal Andy Ace Nowacki Post Office.",
+ "enacted": "2020-12-21",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Joyce, David P. [R-OH-14]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr3275enr/xml/BILLS-116hr3275enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr3275rfs/xml/BILLS-116hr3275rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr3275eh/xml/BILLS-116hr3275eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr3275ih/xml/BILLS-116hr3275ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ231/uslm/PLAW-116publ231.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/3275",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

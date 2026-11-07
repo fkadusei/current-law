@@ -1,0 +1,40 @@
+{
+ "id": "pl-117-64",
+ "congress": 117,
+ "public_law": "117-64",
+ "bill": "HR 1510",
+ "title": "To direct the Secretary of Veterans Affairs to submit to Congress a report on the use of cameras in medical facilities of the Department of Veterans Affairs.",
+ "enacted": "2021-11-23",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Rep. McKinley, David B. [R-WV-1]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr1510enr/xml/BILLS-117hr1510enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr1510rfs/xml/BILLS-117hr1510rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr1510eh/xml/BILLS-117hr1510eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr1510ih/xml/BILLS-117hr1510ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ64/uslm/PLAW-117publ64.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/house-bill/1510",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

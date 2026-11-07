@@ -1,0 +1,40 @@
+{
+ "id": "pl-115-36",
+ "congress": 115,
+ "public_law": "115-36",
+ "bill": "S 419",
+ "title": "Public Safety Officers' Benefits Improvement Act of 2017",
+ "enacted": "2017-06-02",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Crime and Law Enforcement",
+ "sponsor": "Sen. Grassley, Chuck [R-IA]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s419enr/xml/BILLS-115s419enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s419es/xml/BILLS-115s419es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s419rs/xml/BILLS-115s419rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s419is/xml/BILLS-115s419is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ36/uslm/PLAW-115publ36.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/419",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

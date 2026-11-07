@@ -1,0 +1,40 @@
+{
+ "id": "pl-115-259",
+ "congress": 115,
+ "public_law": "115-259",
+ "bill": "S 791",
+ "title": "Small Business Innovation Protection Act of 2017",
+ "enacted": "2018-10-09",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Commerce",
+ "sponsor": "Sen. Peters, Gary C. [D-MI]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s791enr/xml/BILLS-115s791enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s791es/xml/BILLS-115s791es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s791rs/xml/BILLS-115s791rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s791is/xml/BILLS-115s791is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ259/uslm/PLAW-115publ259.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/791",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

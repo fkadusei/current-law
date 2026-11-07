@@ -1,0 +1,40 @@
+{
+ "id": "pl-114-165",
+ "congress": 114,
+ "public_law": "114-165",
+ "bill": "S 184",
+ "title": "Native American Children's Safety Act",
+ "enacted": "2016-06-03",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Native Americans",
+ "sponsor": "Sen. Hoeven, John [R-ND]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s184enr/xml/BILLS-114s184enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s184es/xml/BILLS-114s184es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s184rs/xml/BILLS-114s184rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s184is/xml/BILLS-114s184is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-114publ165/uslm/PLAW-114publ165.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/114th-congress/senate-bill/184",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

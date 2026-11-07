@@ -1,0 +1,43 @@
+{
+ "id": "pl-115-84",
+ "congress": 115,
+ "public_law": "115-84",
+ "bill": "HR 3031",
+ "title": "TSP Modernization Act of 2017",
+ "enacted": "2017-11-17",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Cummings, Elijah E. [D-MD-7]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr3031enr/xml/BILLS-115hr3031enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr3031rds/xml/BILLS-115hr3031rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr3031eh/xml/BILLS-115hr3031eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr3031rh/xml/BILLS-115hr3031rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr3031ih/xml/BILLS-115hr3031ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ84/uslm/PLAW-115publ84.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/3031",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,37 @@
+{
+ "id": "pl-116-147",
+ "congress": 116,
+ "public_law": "116-147",
+ "bill": "S 4116",
+ "title": "A bill to extend the authority for commitments for the paycheck protection program and separate amounts authorized for other loans under section 7(a) of the Small Business Act, and for other purposes.",
+ "enacted": "2020-07-04",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Commerce",
+ "sponsor": "Sen. Cardin, Benjamin L. [D-MD]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s4116enr/xml/BILLS-116s4116enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s4116cps/xml/BILLS-116s4116cps.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s4116es/xml/BILLS-116s4116es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ147/uslm/PLAW-116publ147.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/senate-bill/4116",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,37 @@
+{
+ "id": "pl-117-336",
+ "congress": 117,
+ "public_law": "117-336",
+ "bill": "S 1294",
+ "title": "Protecting American Intellectual Property Act of 2022",
+ "enacted": "2023-01-05",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "International Affairs",
+ "sponsor": "Sen. Van Hollen, Chris [D-MD]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s1294enr/xml/BILLS-117s1294enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s1294es/xml/BILLS-117s1294es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s1294is/xml/BILLS-117s1294is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ336/uslm/PLAW-117publ336.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/senate-bill/1294",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,37 @@
+{
+ "id": "pl-116-21",
+ "congress": 116,
+ "public_law": "116-21",
+ "bill": "S 1436",
+ "title": "A bill to make technical corrections to the computation of average pay under Public Law 110-279.",
+ "enacted": "2019-06-12",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Congress",
+ "sponsor": "Sen. Brown, Sherrod [D-OH]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s1436enr/xml/BILLS-116s1436enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s1436es/xml/BILLS-116s1436es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s1436cps/xml/BILLS-116s1436cps.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ21/uslm/PLAW-116publ21.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/senate-bill/1436",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,40 @@
+{
+ "id": "pl-117-310",
+ "congress": 117,
+ "public_law": "117-310",
+ "bill": "HR 8026",
+ "title": "To designate the facility of the United States Postal Service located at 825 West 65th Street in Minneapolis, Minnesota, as the \"Charles W. Lindberg Post Office\".",
+ "enacted": "2022-12-27",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Omar, Ilhan [D-MN-5]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr8026enr/xml/BILLS-117hr8026enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr8026rds/xml/BILLS-117hr8026rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr8026eh/xml/BILLS-117hr8026eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr8026ih/xml/BILLS-117hr8026ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ310/uslm/PLAW-117publ310.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/house-bill/8026",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

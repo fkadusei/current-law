@@ -1,0 +1,40 @@
+{
+ "id": "pl-116-235",
+ "congress": 116,
+ "public_law": "116-235",
+ "bill": "HR 4034",
+ "title": "To designate the facility of the United States Postal Service located at 602 Pacific Avenue in Bremerton, Washington, as the John Henry Turpin Post Office Building.",
+ "enacted": "2020-12-21",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Kilmer, Derek [D-WA-6]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr4034enr/xml/BILLS-116hr4034enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr4034rfs/xml/BILLS-116hr4034rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr4034eh/xml/BILLS-116hr4034eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr4034ih/xml/BILLS-116hr4034ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ235/uslm/PLAW-116publ235.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/4034",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

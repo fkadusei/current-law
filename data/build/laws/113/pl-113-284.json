@@ -1,0 +1,43 @@
+{
+ "id": "pl-113-284",
+ "congress": 113,
+ "public_law": "113-284",
+ "bill": "S 2651",
+ "title": "DHS OIG Mandates Revision Act of 2014",
+ "enacted": "2014-12-18",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Sen. Coburn, Tom [R-OK]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s2651enr/xml/BILLS-113s2651enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s2651rfh/xml/BILLS-113s2651rfh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s2651es/xml/BILLS-113s2651es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s2651rs/xml/BILLS-113s2651rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s2651is/xml/BILLS-113s2651is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-113publ284/uslm/PLAW-113publ284.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/113th-congress/senate-bill/2651",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,46 @@
+{
+ "id": "pl-113-240",
+ "congress": 113,
+ "public_law": "113-240",
+ "bill": "HR 1281",
+ "title": "Newborn Screening Saves Lives Reauthorization Act of 2014",
+ "enacted": "2014-12-18",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Health",
+ "sponsor": "Rep. Roybal-Allard, Lucille [D-CA-40]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr1281enr/xml/BILLS-113hr1281enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr1281eas/xml/BILLS-113hr1281eas.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr1281rfs/xml/BILLS-113hr1281rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr1281eh/xml/BILLS-113hr1281eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr1281rh/xml/BILLS-113hr1281rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr1281ih/xml/BILLS-113hr1281ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-113publ240/uslm/PLAW-113publ240.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/113th-congress/house-bill/1281",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

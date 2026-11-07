@@ -1,0 +1,43 @@
+{
+ "id": "pl-115-273",
+ "congress": 115,
+ "public_law": "115-273",
+ "bill": "HR 6758",
+ "title": "SUCCESS Act",
+ "enacted": "2018-10-31",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Commerce",
+ "sponsor": "Rep. Chabot, Steve [R-OH-1]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr6758enr/xml/BILLS-115hr6758enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr6758rds/xml/BILLS-115hr6758rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr6758rh/xml/BILLS-115hr6758rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr6758eh/xml/BILLS-115hr6758eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr6758ih/xml/BILLS-115hr6758ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ273/uslm/PLAW-115publ273.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/6758",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

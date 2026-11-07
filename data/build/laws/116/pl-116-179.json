@@ -1,0 +1,43 @@
+{
+ "id": "pl-116-179",
+ "congress": 116,
+ "public_law": "116-179",
+ "bill": "S 1321",
+ "title": "Defending the Integrity of Voting Systems Act",
+ "enacted": "2020-10-20",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Crime and Law Enforcement",
+ "sponsor": "Sen. Blumenthal, Richard [D-CT]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s1321enr/xml/BILLS-116s1321enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s1321rfh/xml/BILLS-116s1321rfh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s1321es/xml/BILLS-116s1321es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s1321rs/xml/BILLS-116s1321rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s1321is/xml/BILLS-116s1321is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ179/uslm/PLAW-116publ179.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/senate-bill/1321",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

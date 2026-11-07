@@ -1,0 +1,40 @@
+{
+ "id": "pl-115-218",
+ "congress": 115,
+ "public_law": "115-218",
+ "bill": "HR 5956",
+ "title": "Northern Mariana Islands U.S. Workforce Act of 2018",
+ "enacted": "2018-07-24",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Bishop, Rob [R-UT-1]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr5956enr/xml/BILLS-115hr5956enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr5956rds/xml/BILLS-115hr5956rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr5956eh/xml/BILLS-115hr5956eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr5956ih/xml/BILLS-115hr5956ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ218/uslm/PLAW-115publ218.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/5956",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,40 @@
+{
+ "id": "pl-117-270",
+ "congress": 117,
+ "public_law": "117-270",
+ "bill": "HR 2473",
+ "title": "To designate the facility of the United States Postal Service located at 275 Penn Avenue in Salem, Ohio, as the \"Howard Arthur Tibbs Post Office\".",
+ "enacted": "2022-12-27",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Johnson, Bill [R-OH-6]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr2473enr/xml/BILLS-117hr2473enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr2473rfs/xml/BILLS-117hr2473rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr2473eh/xml/BILLS-117hr2473eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr2473ih/xml/BILLS-117hr2473ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ270/uslm/PLAW-117publ270.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/house-bill/2473",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

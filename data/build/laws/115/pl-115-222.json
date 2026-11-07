@@ -1,0 +1,40 @@
+{
+ "id": "pl-115-222",
+ "congress": 115,
+ "public_law": "115-222",
+ "bill": "HR 6042",
+ "title": "To amend title XIX of the Social Security Act to delay the reduction in Federal medical assistance percentage for Medicaid personal care services furnished without an electronic visit verification system, and for other purposes.",
+ "enacted": "2018-07-30",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Health",
+ "sponsor": "Rep. Guthrie, Brett [R-KY-2]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr6042enr/xml/BILLS-115hr6042enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr6042rfs/xml/BILLS-115hr6042rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr6042eh/xml/BILLS-115hr6042eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr6042ih/xml/BILLS-115hr6042ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ222/uslm/PLAW-115publ222.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/6042",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

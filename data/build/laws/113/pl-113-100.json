@@ -1,0 +1,40 @@
+{
+ "id": "pl-113-100",
+ "congress": 113,
+ "public_law": "113-100",
+ "bill": "S 2195",
+ "title": "A bill to deny admission to the United States to any representative to the United Nations who has been found to have been engaged in espionage activities or a terrorist activity against the United States and poses a threat to United States national security interests.",
+ "enacted": "2014-04-18",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Immigration",
+ "sponsor": "Sen. Cruz, Ted [R-TX]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s2195enr/xml/BILLS-113s2195enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s2195rfh/xml/BILLS-113s2195rfh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s2195es/xml/BILLS-113s2195es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s2195is/xml/BILLS-113s2195is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-113publ100/uslm/PLAW-113publ100.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/113th-congress/senate-bill/2195",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

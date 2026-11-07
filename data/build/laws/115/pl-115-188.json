@@ -1,0 +1,46 @@
+{
+ "id": "pl-115-188",
+ "congress": 115,
+ "public_law": "115-188",
+ "bill": "HR 2772",
+ "title": "SEA Act of 2018",
+ "enacted": "2018-06-21",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Rep. Taylor, Scott [R-VA-2]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr2772enr/xml/BILLS-115hr2772enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr2772eas/xml/BILLS-115hr2772eas.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr2772rfs/xml/BILLS-115hr2772rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr2772eh/xml/BILLS-115hr2772eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr2772rh/xml/BILLS-115hr2772rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr2772ih/xml/BILLS-115hr2772ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ188/uslm/PLAW-115publ188.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/2772",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,40 @@
+{
+ "id": "pl-115-360",
+ "congress": 115,
+ "public_law": "115-360",
+ "bill": "HR 5792",
+ "title": "To designate the facility of the United States Postal Service located at 90 North 4th Avenue in Brighton, Colorado, as the \"Detective Heath McDonald Gumm Post Office\".",
+ "enacted": "2018-12-21",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Coffman, Mike [R-CO-6]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr5792enr/xml/BILLS-115hr5792enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr5792rfs/xml/BILLS-115hr5792rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr5792eh/xml/BILLS-115hr5792eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr5792ih/xml/BILLS-115hr5792ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ360/uslm/PLAW-115publ360.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/5792",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

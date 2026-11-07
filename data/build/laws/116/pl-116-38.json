@@ -1,0 +1,40 @@
+{
+ "id": "pl-116-38",
+ "congress": 116,
+ "public_law": "116-38",
+ "bill": "S 2249",
+ "title": "A bill to allow the Deputy Administrator of the Federal Aviation Administration on the date of enactment of this Act to continue to serve as such Deputy Administrator.",
+ "enacted": "2019-08-02",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Transportation and Public Works",
+ "sponsor": "Sen. Wicker, Roger F. [R-MS]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s2249enr/xml/BILLS-116s2249enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s2249es/xml/BILLS-116s2249es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s2249cps/xml/BILLS-116s2249cps.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s2249rfh/xml/BILLS-116s2249rfh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ38/uslm/PLAW-116publ38.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/senate-bill/2249",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

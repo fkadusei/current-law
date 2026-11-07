@@ -1,0 +1,37 @@
+{
+ "id": "pl-116-151",
+ "congress": 116,
+ "public_law": "116-151",
+ "bill": "S 4209",
+ "title": "Protecting Nonprofits from Catastrophic Cash Flow Strain Act of 2020",
+ "enacted": "2020-08-03",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Labor and Employment",
+ "sponsor": "Sen. Scott, Tim [R-SC]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s4209enr/xml/BILLS-116s4209enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s4209es/xml/BILLS-116s4209es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s4209cps/xml/BILLS-116s4209cps.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ151/uslm/PLAW-116publ151.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/senate-bill/4209",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

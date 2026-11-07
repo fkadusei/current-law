@@ -1,0 +1,43 @@
+{
+ "id": "pl-117-94",
+ "congress": 117,
+ "public_law": "117-94",
+ "bill": "HR 3419",
+ "title": "To designate the facility of the United States Postal Service located at 66 Meserole Avenue in Brooklyn, New York, as the Joseph R. Lentol Post Office.",
+ "enacted": "2022-03-11",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Maloney, Carolyn B. [D-NY-12]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr3419enr/xml/BILLS-117hr3419enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr3419rs/xml/BILLS-117hr3419rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr3419rfs/xml/BILLS-117hr3419rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr3419eh/xml/BILLS-117hr3419eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr3419ih/xml/BILLS-117hr3419ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ94/uslm/PLAW-117publ94.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/house-bill/3419",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

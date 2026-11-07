@@ -1,0 +1,40 @@
+{
+ "id": "pl-117-39",
+ "congress": 117,
+ "public_law": "117-39",
+ "bill": "HR 5085",
+ "title": "Emergency Repatriation Assistance for Returning Americans Act",
+ "enacted": "2021-08-31",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Social Welfare",
+ "sponsor": "Rep. Neal, Richard E. [D-MA-1]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr5085enr/xml/BILLS-117hr5085enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr5085rds/xml/BILLS-117hr5085rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr5085cph/xml/BILLS-117hr5085cph.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr5085eh/xml/BILLS-117hr5085eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ39/uslm/PLAW-117publ39.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/house-bill/5085",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

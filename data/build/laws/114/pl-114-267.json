@@ -1,0 +1,40 @@
+{
+ "id": "pl-114-267",
+ "congress": 114,
+ "public_law": "114-267",
+ "bill": "S 1808",
+ "title": "Northern Border Security Review Act",
+ "enacted": "2016-12-14",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Emergency Management",
+ "sponsor": "Sen. Heitkamp, Heidi [D-ND]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s1808enr/xml/BILLS-114s1808enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s1808es/xml/BILLS-114s1808es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s1808rs/xml/BILLS-114s1808rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s1808is/xml/BILLS-114s1808is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-114publ267/uslm/PLAW-114publ267.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/114th-congress/senate-bill/1808",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

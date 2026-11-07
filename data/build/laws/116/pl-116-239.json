@@ -1,0 +1,40 @@
+{
+ "id": "pl-116-239",
+ "congress": 116,
+ "public_law": "116-239",
+ "bill": "HR 4725",
+ "title": "To designate the facility of the United States Postal Service located at 8585 Criterion Drive in Colorado Springs, Colorado, as the Chaplain (Capt.) Dale Goetz Memorial Post Office Building.",
+ "enacted": "2020-12-21",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Lamborn, Doug [R-CO-5]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr4725enr/xml/BILLS-116hr4725enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr4725rfs/xml/BILLS-116hr4725rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr4725eh/xml/BILLS-116hr4725eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr4725ih/xml/BILLS-116hr4725ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ239/uslm/PLAW-116publ239.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/4725",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,43 @@
+{
+ "id": "pl-114-245",
+ "congress": 114,
+ "public_law": "114-245",
+ "bill": "HR 845",
+ "title": "National Forest System Trails Stewardship Act",
+ "enacted": "2016-11-28",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Public Lands and Natural Resources",
+ "sponsor": "Rep. Lummis, Cynthia M. [R-WY-At Large]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr845enr/xml/BILLS-114hr845enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr845rds/xml/BILLS-114hr845rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr845eh/xml/BILLS-114hr845eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr845rh/xml/BILLS-114hr845rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr845ih/xml/BILLS-114hr845ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-114publ245/uslm/PLAW-114publ245.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/114th-congress/house-bill/845",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,43 @@
+{
+ "id": "pl-115-318",
+ "congress": 115,
+ "public_law": "115-318",
+ "bill": "S 3209",
+ "title": "A bill to designate the facility of the United States Postal Service located at 413 Washington Avenue in Belleville, New Jersey, as the \"Private Henry Svehla Post Office Building\".",
+ "enacted": "2018-12-14",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Sen. Menendez, Robert [D-NJ]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s3209enr/xml/BILLS-115s3209enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s3209rfh/xml/BILLS-115s3209rfh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s3209es/xml/BILLS-115s3209es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s3209rs/xml/BILLS-115s3209rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s3209is/xml/BILLS-115s3209is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ318/uslm/PLAW-115publ318.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/3209",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

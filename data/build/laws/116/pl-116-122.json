@@ -1,0 +1,43 @@
+{
+ "id": "pl-116-122",
+ "congress": 116,
+ "public_law": "116-122",
+ "bill": "S 2107",
+ "title": "Protecting America's Food and Agriculture Act of 2019",
+ "enacted": "2020-03-03",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Agriculture and Food",
+ "sponsor": "Sen. Peters, Gary C. [D-MI]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s2107enr/xml/BILLS-116s2107enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s2107rfh/xml/BILLS-116s2107rfh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s2107es/xml/BILLS-116s2107es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s2107rs/xml/BILLS-116s2107rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s2107is/xml/BILLS-116s2107is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ122/uslm/PLAW-116publ122.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/senate-bill/2107",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,40 @@
+{
+ "id": "pl-113-230",
+ "congress": 113,
+ "public_law": "113-230",
+ "bill": "S 229",
+ "title": "Corporal Michael J. Crescenz Act of 2013",
+ "enacted": "2014-12-16",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Sen. Toomey, Patrick [R-PA]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s229enr/xml/BILLS-113s229enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s229rfh/xml/BILLS-113s229rfh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s229es/xml/BILLS-113s229es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s229is/xml/BILLS-113s229is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-113publ230/uslm/PLAW-113publ230.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/113th-congress/senate-bill/229",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

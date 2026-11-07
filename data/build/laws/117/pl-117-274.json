@@ -1,0 +1,40 @@
+{
+ "id": "pl-117-274",
+ "congress": 117,
+ "public_law": "117-274",
+ "bill": "HR 4622",
+ "title": "To designate the facility of the United States Postal Service located at 226 North Main Street in Roseville, Ohio, as the Ronald E. Rosser Post Office.",
+ "enacted": "2022-12-27",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Balderson, Troy [R-OH-12]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr4622enr/xml/BILLS-117hr4622enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr4622rfs/xml/BILLS-117hr4622rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr4622eh/xml/BILLS-117hr4622eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr4622ih/xml/BILLS-117hr4622ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ274/uslm/PLAW-117publ274.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/house-bill/4622",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

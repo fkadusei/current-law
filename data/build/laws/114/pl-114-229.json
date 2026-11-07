@@ -1,0 +1,43 @@
+{
+ "id": "pl-114-229",
+ "congress": 114,
+ "public_law": "114-229",
+ "bill": "S 1878",
+ "title": "Advancing Hope Act of 2016",
+ "enacted": "2016-09-30",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Health",
+ "sponsor": "Sen. Casey, Robert P., Jr. [D-PA]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s1878enr/xml/BILLS-114s1878enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s1878es/xml/BILLS-114s1878es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s1878rfh/xml/BILLS-114s1878rfh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s1878rs/xml/BILLS-114s1878rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s1878is/xml/BILLS-114s1878is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-114publ229/uslm/PLAW-114publ229.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/114th-congress/senate-bill/1878",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

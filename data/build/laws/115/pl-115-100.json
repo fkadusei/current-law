@@ -1,0 +1,37 @@
+{
+ "id": "pl-115-100",
+ "congress": 115,
+ "public_law": "115-100",
+ "bill": "S 2273",
+ "title": "A bill to extend the period during which vessels that are shorter than 79 feet in length and fishing vessels are not required to have a permit for discharges incidental to the normal operation of the vessel.",
+ "enacted": "2018-01-03",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Environmental Protection",
+ "sponsor": "Sen. Sullivan, Dan [R-AK]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s2273enr/xml/BILLS-115s2273enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s2273es/xml/BILLS-115s2273es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s2273cps/xml/BILLS-115s2273cps.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ100/uslm/PLAW-115publ100.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/2273",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

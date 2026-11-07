@@ -1,0 +1,40 @@
+{
+ "id": "pl-117-217",
+ "congress": 117,
+ "public_law": "117-217",
+ "bill": "S 3826",
+ "title": "A bill to designate the facility of the United States Postal Service located at 1304 4th Avenue in Canyon, Texas, as the \"Gary James Fletcher Post Office Building\".",
+ "enacted": "2022-12-02",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Sen. Cornyn, John [R-TX]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s3826enr/xml/BILLS-117s3826enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s3826es/xml/BILLS-117s3826es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s3826rs/xml/BILLS-117s3826rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s3826is/xml/BILLS-117s3826is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ217/uslm/PLAW-117publ217.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/senate-bill/3826",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

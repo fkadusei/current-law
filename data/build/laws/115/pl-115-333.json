@@ -1,0 +1,40 @@
+{
+ "id": "pl-115-333",
+ "congress": 115,
+ "public_law": "115-333",
+ "bill": "HR 4111",
+ "title": "Spurring Business in Communities Act of 2017",
+ "enacted": "2018-12-19",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Commerce",
+ "sponsor": "Rep. McMorris Rodgers, Cathy [R-WA-5]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr4111enr/xml/BILLS-115hr4111enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr4111pcs/xml/BILLS-115hr4111pcs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr4111eh/xml/BILLS-115hr4111eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr4111ih/xml/BILLS-115hr4111ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ333/uslm/PLAW-115publ333.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/4111",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

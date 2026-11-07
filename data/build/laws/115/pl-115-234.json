@@ -1,0 +1,40 @@
+{
+ "id": "pl-115-234",
+ "congress": 115,
+ "public_law": "115-234",
+ "bill": "HR 5554",
+ "title": "Animal Drug and Animal Generic Drug User Fee Amendments of 2018",
+ "enacted": "2018-08-14",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Health",
+ "sponsor": "Rep. Mullin, Markwayne [R-OK-2]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr5554enr/xml/BILLS-115hr5554enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr5554rds/xml/BILLS-115hr5554rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr5554eh/xml/BILLS-115hr5554eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr5554ih/xml/BILLS-115hr5554ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ234/uslm/PLAW-115publ234.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/5554",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

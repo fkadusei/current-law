@@ -1,0 +1,40 @@
+{
+ "id": "pl-116-300",
+ "congress": 116,
+ "public_law": "116-300",
+ "bill": "HR 5451",
+ "title": "To designate the facility of the United States Postal Service located at 599 East Genesse Street in Fayetteville, New York, as the George H. Bacel Post Office Building.",
+ "enacted": "2021-01-05",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Katko, John [R-NY-24]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr5451enr/xml/BILLS-116hr5451enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr5451rfs/xml/BILLS-116hr5451rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr5451eh/xml/BILLS-116hr5451eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr5451ih/xml/BILLS-116hr5451ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ300/uslm/PLAW-116publ300.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/5451",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

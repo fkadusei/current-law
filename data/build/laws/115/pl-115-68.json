@@ -1,0 +1,40 @@
+{
+ "id": "pl-115-68",
+ "congress": 115,
+ "public_law": "115-68",
+ "bill": "S 1141",
+ "title": "Women, Peace, and Security Act of 2017",
+ "enacted": "2017-10-06",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "International Affairs",
+ "sponsor": "Sen. Shaheen, Jeanne [D-NH]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s1141enr/xml/BILLS-115s1141enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s1141es/xml/BILLS-115s1141es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s1141rs/xml/BILLS-115s1141rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s1141is/xml/BILLS-115s1141is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ68/uslm/PLAW-115publ68.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/1141",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,40 @@
+{
+ "id": "pl-117-322",
+ "congress": 117,
+ "public_law": "117-322",
+ "bill": "S 2991",
+ "title": "Countering Human Trafficking Act of 2021",
+ "enacted": "2022-12-27",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Crime and Law Enforcement",
+ "sponsor": "Sen. Peters, Gary C. [D-MI]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s2991enr/xml/BILLS-117s2991enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s2991es/xml/BILLS-117s2991es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s2991rs/xml/BILLS-117s2991rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s2991is/xml/BILLS-117s2991is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ322/uslm/PLAW-117publ322.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/senate-bill/2991",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,40 @@
+{
+ "id": "pl-113-252",
+ "congress": 113,
+ "public_law": "113-252",
+ "bill": "HR 3468",
+ "title": "Credit Union Share Insurance Fund Parity Act",
+ "enacted": "2014-12-18",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Finance and Financial Sector",
+ "sponsor": "Rep. Royce, Edward R. [R-CA-39]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr3468enr/xml/BILLS-113hr3468enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr3468rfs/xml/BILLS-113hr3468rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr3468eh/xml/BILLS-113hr3468eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr3468ih/xml/BILLS-113hr3468ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-113publ252/uslm/PLAW-113publ252.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/113th-congress/house-bill/3468",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,37 @@
+{
+ "id": "pl-114-188",
+ "congress": 114,
+ "public_law": "114-188",
+ "bill": "S 2487",
+ "title": "Female Veteran Suicide Prevention Act",
+ "enacted": "2016-06-30",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Sen. Boxer, Barbara [D-CA]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s2487enr/xml/BILLS-114s2487enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s2487es/xml/BILLS-114s2487es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s2487is/xml/BILLS-114s2487is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-114publ188/uslm/PLAW-114publ188.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/114th-congress/senate-bill/2487",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

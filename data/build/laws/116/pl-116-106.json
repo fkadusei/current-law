@@ -1,0 +1,40 @@
+{
+ "id": "pl-116-106",
+ "congress": 116,
+ "public_law": "116-106",
+ "bill": "HR 1424",
+ "title": "Fallen Warrior Battlefield Cross Memorial Act",
+ "enacted": "2020-01-07",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Rep. Gonzalez, Anthony [R-OH-16]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1424enr/xml/BILLS-116hr1424enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1424rfs/xml/BILLS-116hr1424rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1424eh/xml/BILLS-116hr1424eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1424ih/xml/BILLS-116hr1424ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ106/uslm/PLAW-116publ106.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/1424",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

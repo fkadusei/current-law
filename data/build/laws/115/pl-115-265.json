@@ -1,0 +1,37 @@
+{
+ "id": "pl-115-265",
+ "congress": 115,
+ "public_law": "115-265",
+ "bill": "S 3508",
+ "title": "Save Our Seas Act of 2018",
+ "enacted": "2018-10-11",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Environmental Protection",
+ "sponsor": "Sen. Sullivan, Dan [R-AK]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s3508enr/xml/BILLS-115s3508enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s3508es/xml/BILLS-115s3508es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s3508cps/xml/BILLS-115s3508cps.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ265/uslm/PLAW-115publ265.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/3508",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,40 @@
+{
+ "id": "pl-116-74",
+ "congress": 116,
+ "public_law": "116-74",
+ "bill": "HR 3889",
+ "title": "ONDCP Technical Corrections Act of 2019",
+ "enacted": "2019-11-27",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Rouda, Harley [D-CA-48]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr3889enr/xml/BILLS-116hr3889enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr3889rfs/xml/BILLS-116hr3889rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr3889eh/xml/BILLS-116hr3889eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr3889ih/xml/BILLS-116hr3889ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ74/uslm/PLAW-116publ74.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/3889",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

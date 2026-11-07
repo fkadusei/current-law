@@ -1,0 +1,43 @@
+{
+ "id": "pl-114-152",
+ "congress": 114,
+ "public_law": "114-152",
+ "bill": "HR 2908",
+ "title": "National Bison Legacy Act",
+ "enacted": "2016-05-09",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Clay, Wm. Lacy [D-MO-1]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr2908enr/xml/BILLS-114hr2908enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr2908pcs/xml/BILLS-114hr2908pcs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr2908eh/xml/BILLS-114hr2908eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr2908rh/xml/BILLS-114hr2908rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr2908ih/xml/BILLS-114hr2908ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-114publ152/uslm/PLAW-114publ152.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/114th-congress/house-bill/2908",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

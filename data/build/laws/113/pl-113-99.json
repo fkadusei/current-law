@@ -1,0 +1,40 @@
+{
+ "id": "pl-113-99",
+ "congress": 113,
+ "public_law": "113-99",
+ "bill": "S 404",
+ "title": "Green Mountain Lookout Heritage Protection Act",
+ "enacted": "2014-04-15",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Public Lands and Natural Resources",
+ "sponsor": "Sen. Murray, Patty [D-WA]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s404enr/xml/BILLS-113s404enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s404es/xml/BILLS-113s404es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s404rs/xml/BILLS-113s404rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s404is/xml/BILLS-113s404is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-113publ99/uslm/PLAW-113publ99.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/113th-congress/senate-bill/404",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,43 @@
+{
+ "id": "pl-115-305",
+ "congress": 115,
+ "public_law": "115-305",
+ "bill": "HR 6651",
+ "title": "PEPFAR Extension Act of 2018",
+ "enacted": "2018-12-11",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "International Affairs",
+ "sponsor": "Rep. Smith, Christopher H. [R-NJ-4]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr6651enr/xml/BILLS-115hr6651enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr6651rds/xml/BILLS-115hr6651rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr6651eh/xml/BILLS-115hr6651eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr6651rh/xml/BILLS-115hr6651rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr6651ih/xml/BILLS-115hr6651ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ305/uslm/PLAW-115publ305.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/6651",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

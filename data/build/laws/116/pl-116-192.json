@@ -1,0 +1,37 @@
+{
+ "id": "pl-116-192",
+ "congress": 116,
+ "public_law": "116-192",
+ "bill": "S 4075",
+ "title": "RLF Act",
+ "enacted": "2020-10-30",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Commerce",
+ "sponsor": "Sen. Capito, Shelley Moore [R-WV]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s4075enr/xml/BILLS-116s4075enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s4075es/xml/BILLS-116s4075es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s4075is/xml/BILLS-116s4075is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ192/uslm/PLAW-116publ192.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/senate-bill/4075",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

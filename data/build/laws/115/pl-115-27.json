@@ -1,0 +1,40 @@
+{
+ "id": "pl-115-27",
+ "congress": 115,
+ "public_law": "115-27",
+ "bill": "SJRES 30",
+ "title": "A joint resolution providing for the reappointment of Steve Case as a citizen regent of the Board of Regents of the Smithsonian Institution.",
+ "enacted": "2017-04-19",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Sen. Perdue, David [R-GA]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115sjres30enr/xml/BILLS-115sjres30enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115sjres30rfh/xml/BILLS-115sjres30rfh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115sjres30es/xml/BILLS-115sjres30es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115sjres30is/xml/BILLS-115sjres30is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ27/uslm/PLAW-115publ27.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/senate-joint-resolution/30",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

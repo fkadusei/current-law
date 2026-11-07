@@ -1,0 +1,43 @@
+{
+ "id": "pl-114-85",
+ "congress": 114,
+ "public_law": "114-85",
+ "bill": "S 1362",
+ "title": "A bill to amend title XI of the Social Security Act to clarify waiver authority regarding programs of all-inclusive care for the elderly (PACE programs).",
+ "enacted": "2015-11-05",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Health",
+ "sponsor": "Sen. Carper, Thomas R. [D-DE]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s1362enr/xml/BILLS-114s1362enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s1362rfh/xml/BILLS-114s1362rfh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s1362es/xml/BILLS-114s1362es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s1362rs/xml/BILLS-114s1362rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s1362is/xml/BILLS-114s1362is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-114publ85/uslm/PLAW-114publ85.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/114th-congress/senate-bill/1362",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

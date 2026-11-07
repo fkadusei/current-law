@@ -1,0 +1,40 @@
+{
+ "id": "pl-115-161",
+ "congress": 115,
+ "public_law": "115-161",
+ "bill": "S 2030",
+ "title": "Ceiling Fan Energy Conservation Harmonization Act",
+ "enacted": "2018-04-03",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Energy",
+ "sponsor": "Sen. Tillis, Thomas [R-NC]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s2030enr/xml/BILLS-115s2030enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s2030rfh/xml/BILLS-115s2030rfh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s2030es/xml/BILLS-115s2030es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s2030is/xml/BILLS-115s2030is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ161/uslm/PLAW-115publ161.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/2030",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

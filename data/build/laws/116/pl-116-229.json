@@ -1,0 +1,40 @@
+{
+ "id": "pl-116-229",
+ "congress": 116,
+ "public_law": "116-229",
+ "bill": "HR 2969",
+ "title": "To designate the facility of the United States Postal Service located at 1401 1st Street North in Winter Haven, Florida, as the Althea Margaret Daily Mills Post Office Building.",
+ "enacted": "2020-12-21",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Soto, Darren [D-FL-9]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr2969enr/xml/BILLS-116hr2969enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr2969rfs/xml/BILLS-116hr2969rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr2969eh/xml/BILLS-116hr2969eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr2969ih/xml/BILLS-116hr2969ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ229/uslm/PLAW-116publ229.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/2969",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

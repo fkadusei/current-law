@@ -1,0 +1,40 @@
+{
+ "id": "pl-117-145",
+ "congress": 117,
+ "public_law": "117-145",
+ "bill": "S 2201",
+ "title": "Supply Chain Security Training Act of 2021",
+ "enacted": "2022-06-16",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Sen. Peters, Gary C. [D-MI]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s2201enr/xml/BILLS-117s2201enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s2201es/xml/BILLS-117s2201es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s2201rs/xml/BILLS-117s2201rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s2201is/xml/BILLS-117s2201is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ145/uslm/PLAW-117publ145.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/senate-bill/2201",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,37 @@
+{
+ "id": "pl-115-159",
+ "congress": 115,
+ "public_law": "115-159",
+ "bill": "S 324",
+ "title": "State Veterans Home Adult Day Health Care Improvement Act of 2017",
+ "enacted": "2018-03-27",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Sen. Hatch, Orrin G. [R-UT]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s324enr/xml/BILLS-115s324enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s324es/xml/BILLS-115s324es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s324is/xml/BILLS-115s324is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ159/uslm/PLAW-115publ159.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/324",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

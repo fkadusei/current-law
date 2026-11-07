@@ -1,0 +1,43 @@
+{
+ "id": "pl-115-155",
+ "congress": 115,
+ "public_law": "115-155",
+ "bill": "HR 4285",
+ "title": "To designate the facility of the United States Postal Service located at 123 Bridgeton Pike in Mullica Hill, New Jersey, as the \"James C. 'Billy' Johnson Post Office Building\".",
+ "enacted": "2018-03-23",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. LoBiondo, Frank A. [R-NJ-2]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr4285enr/xml/BILLS-115hr4285enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr4285rs/xml/BILLS-115hr4285rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr4285rfs/xml/BILLS-115hr4285rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr4285eh/xml/BILLS-115hr4285eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr4285ih/xml/BILLS-115hr4285ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ155/uslm/PLAW-115publ155.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/4285",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

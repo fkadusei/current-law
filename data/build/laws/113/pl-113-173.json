@@ -1,0 +1,40 @@
+{
+ "id": "pl-113-173",
+ "congress": 113,
+ "public_law": "113-173",
+ "bill": "HR 5062",
+ "title": "Examination and Supervisory Privilege Parity Act of 2014",
+ "enacted": "2014-09-26",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Finance and Financial Sector",
+ "sponsor": "Rep. Perlmutter, Ed [D-CO-7]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr5062enr/xml/BILLS-113hr5062enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr5062rfs/xml/BILLS-113hr5062rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr5062eh/xml/BILLS-113hr5062eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr5062ih/xml/BILLS-113hr5062ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-113publ173/uslm/PLAW-113publ173.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/113th-congress/house-bill/5062",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,46 @@
+{
+ "id": "pl-114-72",
+ "congress": 114,
+ "public_law": "114-72",
+ "bill": "HR 3116",
+ "title": "Quarterly Financial Report Reauthorization Act",
+ "enacted": "2015-10-22",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Commerce",
+ "sponsor": "Rep. Lieu, Ted [D-CA-33]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr3116enr/xml/BILLS-114hr3116enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr3116eas/xml/BILLS-114hr3116eas.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr3116rfs/xml/BILLS-114hr3116rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr3116eh/xml/BILLS-114hr3116eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr3116rh/xml/BILLS-114hr3116rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr3116ih/xml/BILLS-114hr3116ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-114publ72/uslm/PLAW-114publ72.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/114th-congress/house-bill/3116",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,40 @@
+{
+ "id": "pl-117-256",
+ "congress": 117,
+ "public_law": "117-256",
+ "bill": "HR 310",
+ "title": "To posthumously award the Congressional Gold Medal, collectively, to Glen Doherty, Tyrone Woods, J. Christopher Stevens, and Sean Smith, in recognition of their contributions to the Nation.",
+ "enacted": "2022-12-21",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "International Affairs",
+ "sponsor": "Rep. Lynch, Stephen F. [D-MA-8]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr310enr/xml/BILLS-117hr310enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr310rfs/xml/BILLS-117hr310rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr310eh/xml/BILLS-117hr310eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr310ih/xml/BILLS-117hr310ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ256/uslm/PLAW-117publ256.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/house-bill/310",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

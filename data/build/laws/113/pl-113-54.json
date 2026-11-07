@@ -1,0 +1,40 @@
+{
+ "id": "pl-113-54",
+ "congress": 113,
+ "public_law": "113-54",
+ "bill": "HR 3204",
+ "title": "Drug Quality and Security Act",
+ "enacted": "2013-11-27",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Health",
+ "sponsor": "Rep. Upton, Fred [R-MI-6]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr3204enr/xml/BILLS-113hr3204enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr3204pcs/xml/BILLS-113hr3204pcs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr3204eh/xml/BILLS-113hr3204eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr3204ih/xml/BILLS-113hr3204ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-113publ54/uslm/PLAW-113publ54.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/113th-congress/house-bill/3204",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

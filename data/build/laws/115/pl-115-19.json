@@ -1,0 +1,40 @@
+{
+ "id": "pl-115-19",
+ "congress": 115,
+ "public_law": "115-19",
+ "bill": "HR 1228",
+ "title": "To provide for the appointment of members of the Board of Directors of the Office of Compliance to replace members whose terms expire during 2017, and for other purposes.",
+ "enacted": "2017-04-03",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Congress",
+ "sponsor": "Rep. Harper, Gregg [R-MS-3]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1228enr/xml/BILLS-115hr1228enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1228rds/xml/BILLS-115hr1228rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1228eh/xml/BILLS-115hr1228eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1228ih/xml/BILLS-115hr1228ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ19/uslm/PLAW-115publ19.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/1228",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

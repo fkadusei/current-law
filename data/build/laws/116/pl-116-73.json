@@ -1,0 +1,43 @@
+{
+ "id": "pl-116-73",
+ "congress": 116,
+ "public_law": "116-73",
+ "bill": "HR 1123",
+ "title": "Divisional Realignment for the Eastern District of Arkansas Act of 2019",
+ "enacted": "2019-11-26",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Law",
+ "sponsor": "Rep. Crawford, Eric A. \"Rick\" [R-AR-1]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1123enr/xml/BILLS-116hr1123enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1123rfs/xml/BILLS-116hr1123rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1123rh/xml/BILLS-116hr1123rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1123eh/xml/BILLS-116hr1123eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1123ih/xml/BILLS-116hr1123ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ73/uslm/PLAW-116publ73.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/1123",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

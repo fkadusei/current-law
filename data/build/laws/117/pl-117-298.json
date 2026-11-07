@@ -1,0 +1,40 @@
+{
+ "id": "pl-117-298",
+ "congress": 117,
+ "public_law": "117-298",
+ "bill": "HR 6630",
+ "title": "To designate the facility of the United States Postal Service located at 1400 N Kraemer Blvd. in Placentia, California, as the \"PFC Jang Ho Kim Post Office Building\".",
+ "enacted": "2022-12-27",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Kim, Young [R-CA-39]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr6630enr/xml/BILLS-117hr6630enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr6630rds/xml/BILLS-117hr6630rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr6630eh/xml/BILLS-117hr6630eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr6630ih/xml/BILLS-117hr6630ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ298/uslm/PLAW-117publ298.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/house-bill/6630",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

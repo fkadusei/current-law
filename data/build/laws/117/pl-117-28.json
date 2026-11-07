@@ -1,0 +1,40 @@
+{
+ "id": "pl-117-28",
+ "congress": 117,
+ "public_law": "117-28",
+ "bill": "HR 26",
+ "title": "Construction Consensus Procurement Improvement Act of 2021",
+ "enacted": "2021-07-26",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Comer, James [R-KY-1]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr26enr/xml/BILLS-117hr26enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr26rfs/xml/BILLS-117hr26rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr26eh/xml/BILLS-117hr26eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr26ih/xml/BILLS-117hr26ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ28/xml/PLAW-117publ28.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/house-bill/26",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

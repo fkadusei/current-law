@@ -1,0 +1,40 @@
+{
+ "id": "pl-113-190",
+ "congress": 113,
+ "public_law": "113-190",
+ "bill": "S 898",
+ "title": "Albuquerque, New Mexico, Federal Land Conveyance Act of 2013",
+ "enacted": "2014-11-26",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Public Lands and Natural Resources",
+ "sponsor": "Sen. Udall, Tom [D-NM]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s898enr/xml/BILLS-113s898enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s898es/xml/BILLS-113s898es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s898rs/xml/BILLS-113s898rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s898is/xml/BILLS-113s898is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-113publ190/uslm/PLAW-113publ190.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/113th-congress/senate-bill/898",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

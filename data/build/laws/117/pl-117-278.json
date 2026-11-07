@@ -1,0 +1,40 @@
+{
+ "id": "pl-117-278",
+ "congress": 117,
+ "public_law": "117-278",
+ "bill": "HR 5349",
+ "title": "To designate the facility of the United States Postal Service located at 1550 State Road S-38-211 in Orangeburg, South Carolina, as the \"J.I. Washington Post Office Building\".",
+ "enacted": "2022-12-27",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Clyburn, James E. [D-SC-6]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr5349enr/xml/BILLS-117hr5349enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr5349rds/xml/BILLS-117hr5349rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr5349eh/xml/BILLS-117hr5349eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr5349ih/xml/BILLS-117hr5349ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ278/uslm/PLAW-117publ278.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/house-bill/5349",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

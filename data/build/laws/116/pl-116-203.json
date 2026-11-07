@@ -1,0 +1,43 @@
+{
+ "id": "pl-116-203",
+ "congress": 116,
+ "public_law": "116-203",
+ "bill": "HR 5037",
+ "title": "To designate the facility of the United States Postal Service located at 3703 North Main Street in Farmville, North Carolina, as the Walter B. Jones, Jr. Post Office.",
+ "enacted": "2020-12-03",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Murphy, Gregory [R-NC-3]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr5037enr/xml/BILLS-116hr5037enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr5037rs/xml/BILLS-116hr5037rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr5037rfs/xml/BILLS-116hr5037rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr5037eh/xml/BILLS-116hr5037eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr5037ih/xml/BILLS-116hr5037ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ203/uslm/PLAW-116publ203.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/5037",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

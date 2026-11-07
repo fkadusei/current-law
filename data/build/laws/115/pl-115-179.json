@@ -1,0 +1,46 @@
+{
+ "id": "pl-115-179",
+ "congress": 115,
+ "public_law": "115-179",
+ "bill": "S 1285",
+ "title": "Oregon Tribal Economic Development Act",
+ "enacted": "2018-06-01",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Native Americans",
+ "sponsor": "Sen. Merkley, Jeff [D-OR]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s1285enr/xml/BILLS-115s1285enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s1285rh/xml/BILLS-115s1285rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s1285rfh/xml/BILLS-115s1285rfh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s1285es/xml/BILLS-115s1285es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s1285rs/xml/BILLS-115s1285rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s1285is/xml/BILLS-115s1285is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ179/uslm/PLAW-115publ179.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/1285",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

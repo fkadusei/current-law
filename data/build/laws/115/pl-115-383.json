@@ -1,0 +1,43 @@
+{
+ "id": "pl-115-383",
+ "congress": 115,
+ "public_law": "115-383",
+ "bill": "HR 6893",
+ "title": "Secret Service Overtime Pay Extension Act",
+ "enacted": "2018-12-21",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Russell, Steve [R-OK-5]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr6893enr/xml/BILLS-115hr6893enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr6893rds/xml/BILLS-115hr6893rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr6893rh/xml/BILLS-115hr6893rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr6893eh/xml/BILLS-115hr6893eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr6893ih/xml/BILLS-115hr6893ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ383/uslm/PLAW-115publ383.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/6893",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

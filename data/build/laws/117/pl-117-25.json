@@ -1,0 +1,37 @@
+{
+ "id": "pl-117-25",
+ "congress": 117,
+ "public_law": "117-25",
+ "bill": "S 409",
+ "title": "A bill to provide for the availability of amounts for customer education initiatives and non-awards expenses of the Commodity Futures Trading Commission Whistleblower Program, and for other purposes.",
+ "enacted": "2021-07-06",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Finance and Financial Sector",
+ "sponsor": "Sen. Grassley, Chuck [R-IA]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s409enr/xml/BILLS-117s409enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s409es/xml/BILLS-117s409es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s409is/xml/BILLS-117s409is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ25/xml/PLAW-117publ25.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/senate-bill/409",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

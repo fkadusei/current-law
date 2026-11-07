@@ -1,0 +1,43 @@
+{
+ "id": "pl-116-315",
+ "congress": 116,
+ "public_law": "116-315",
+ "bill": "HR 7105",
+ "title": "Johnny Isakson and David P. Roe, M.D. Veterans Health Care and Benefits Improvement Act of 2020",
+ "enacted": "2021-01-05",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Rep. Levin, Mike [D-CA-49]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr7105enr/xml/BILLS-116hr7105enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr7105eas/xml/BILLS-116hr7105eas.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr7105rfs/xml/BILLS-116hr7105rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr7105eh/xml/BILLS-116hr7105eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr7105ih/xml/BILLS-116hr7105ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ315/uslm/PLAW-116publ315.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/7105",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

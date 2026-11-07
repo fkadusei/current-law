@@ -1,0 +1,43 @@
+{
+ "id": "pl-116-89",
+ "congress": 116,
+ "public_law": "116-89",
+ "bill": "HR 3144",
+ "title": "To designate the facility of the United States Postal Service located at 8520 Michigan Avenue in Whittier, California, as the Jose Ramos Post Office Building.",
+ "enacted": "2019-12-13",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Sánchez, Linda T. [D-CA-38]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr3144enr/xml/BILLS-116hr3144enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr3144rs/xml/BILLS-116hr3144rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr3144rfs/xml/BILLS-116hr3144rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr3144eh/xml/BILLS-116hr3144eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr3144ih/xml/BILLS-116hr3144ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ89/uslm/PLAW-116publ89.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/3144",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

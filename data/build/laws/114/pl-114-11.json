@@ -1,0 +1,40 @@
+{
+ "id": "pl-114-11",
+ "congress": 114,
+ "public_law": "114-11",
+ "bill": "S 535",
+ "title": "Energy Efficiency Improvement Act of 2015",
+ "enacted": "2015-04-30",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Energy",
+ "sponsor": "Sen. Portman, Rob [R-OH]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s535enr/xml/BILLS-114s535enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s535rfh/xml/BILLS-114s535rfh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s535es/xml/BILLS-114s535es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s535pcs/xml/BILLS-114s535pcs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-114publ11/uslm/PLAW-114publ11.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/114th-congress/senate-bill/535",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,43 @@
+{
+ "id": "pl-117-251",
+ "congress": 117,
+ "public_law": "117-251",
+ "bill": "S 3092",
+ "title": "FIRE Act",
+ "enacted": "2022-12-20",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Emergency Management",
+ "sponsor": "Sen. Padilla, Alex [D-CA]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s3092enr/xml/BILLS-117s3092enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s3092eah/xml/BILLS-117s3092eah.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s3092es/xml/BILLS-117s3092es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s3092rs/xml/BILLS-117s3092rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s3092is/xml/BILLS-117s3092is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ251/uslm/PLAW-117publ251.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/senate-bill/3092",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

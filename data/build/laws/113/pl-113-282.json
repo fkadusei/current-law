@@ -1,0 +1,40 @@
+{
+ "id": "pl-113-282",
+ "congress": 113,
+ "public_law": "113-282",
+ "bill": "S 2519",
+ "title": "National Cybersecurity Protection Act of 2014",
+ "enacted": "2014-12-18",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Sen. Carper, Thomas R. [D-DE]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s2519enr/xml/BILLS-113s2519enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s2519es/xml/BILLS-113s2519es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s2519rs/xml/BILLS-113s2519rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s2519is/xml/BILLS-113s2519is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-113publ282/uslm/PLAW-113publ282.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/113th-congress/senate-bill/2519",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

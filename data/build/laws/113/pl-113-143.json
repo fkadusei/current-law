@@ -1,0 +1,43 @@
+{
+ "id": "pl-113-143",
+ "congress": 113,
+ "public_law": "113-143",
+ "bill": "HR 1528",
+ "title": "Veterinary Medicine Mobility Act of 2014",
+ "enacted": "2014-08-01",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Crime and Law Enforcement",
+ "sponsor": "Rep. Schrader, Kurt [D-OR-5]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr1528enr/xml/BILLS-113hr1528enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr1528pcs/xml/BILLS-113hr1528pcs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr1528eh/xml/BILLS-113hr1528eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr1528rh/xml/BILLS-113hr1528rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr1528ih/xml/BILLS-113hr1528ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-113publ143/uslm/PLAW-113publ143.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/113th-congress/house-bill/1528",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

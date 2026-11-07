@@ -1,0 +1,43 @@
+{
+ "id": "pl-117-92",
+ "congress": 117,
+ "public_law": "117-92",
+ "bill": "HR 3210",
+ "title": "To designate the facility of the United States Postal Service located at 1905 15th Street in Boulder, Colorado, as the \"Officer Eric H. Talley Post Office Building\".",
+ "enacted": "2022-03-10",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Neguse, Joe [D-CO-2]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr3210enr/xml/BILLS-117hr3210enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr3210rs/xml/BILLS-117hr3210rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr3210rfs/xml/BILLS-117hr3210rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr3210eh/xml/BILLS-117hr3210eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr3210ih/xml/BILLS-117hr3210ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ92/uslm/PLAW-117publ92.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/house-bill/3210",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

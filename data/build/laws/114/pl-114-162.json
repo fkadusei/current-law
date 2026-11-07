@@ -1,0 +1,40 @@
+{
+ "id": "pl-114-162",
+ "congress": 114,
+ "public_law": "114-162",
+ "bill": "S 1523",
+ "title": "A bill to amend the Federal Water Pollution Control Act to reauthorize the National Estuary Program, and for other purposes.",
+ "enacted": "2016-05-20",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Environmental Protection",
+ "sponsor": "Sen. Whitehouse, Sheldon [D-RI]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s1523enr/xml/BILLS-114s1523enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s1523eah/xml/BILLS-114s1523eah.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s1523es/xml/BILLS-114s1523es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s1523is/xml/BILLS-114s1523is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-114publ162/uslm/PLAW-114publ162.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/114th-congress/senate-bill/1523",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

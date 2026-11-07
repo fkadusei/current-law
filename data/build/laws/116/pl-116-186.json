@@ -1,0 +1,43 @@
+{
+ "id": "pl-116-186",
+ "congress": 116,
+ "public_law": "116-186",
+ "bill": "HR 3399",
+ "title": "To amend the Nutria Eradication and Control Act of 2003 to include California in the program, and for other purposes.",
+ "enacted": "2020-10-30",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Environmental Protection",
+ "sponsor": "Rep. Harder, Josh [D-CA-10]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr3399enr/xml/BILLS-116hr3399enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr3399rfs/xml/BILLS-116hr3399rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr3399eh/xml/BILLS-116hr3399eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr3399rh/xml/BILLS-116hr3399rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr3399ih/xml/BILLS-116hr3399ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ186/uslm/PLAW-116publ186.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/3399",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

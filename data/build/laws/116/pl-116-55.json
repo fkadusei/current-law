@@ -1,0 +1,40 @@
+{
+ "id": "pl-116-55",
+ "congress": 116,
+ "public_law": "116-55",
+ "bill": "HR 1250",
+ "title": "To designate the facility of the United States Postal Service located at 11158 Highway 146 North in Hardin, Texas, as the \"Lucas Lowe Memorial Post Office\".",
+ "enacted": "2019-08-23",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Babin, Brian [R-TX-36]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1250enr/xml/BILLS-116hr1250enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1250rfs/xml/BILLS-116hr1250rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1250eh/xml/BILLS-116hr1250eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1250ih/xml/BILLS-116hr1250ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ55/uslm/PLAW-116publ55.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/1250",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

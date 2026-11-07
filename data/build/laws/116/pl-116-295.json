@@ -1,0 +1,40 @@
+{
+ "id": "pl-116-295",
+ "congress": 116,
+ "public_law": "116-295",
+ "bill": "HR 4983",
+ "title": "To designate the Department of Veterans Affairs community-based outpatient clinic in Gilbert, Arizona, as the Staff Sergeant Alexander W. Conrad Veterans Affairs Health Care Clinic.",
+ "enacted": "2021-01-05",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Rep. Biggs, Andy [R-AZ-5]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr4983enr/xml/BILLS-116hr4983enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr4983rfs/xml/BILLS-116hr4983rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr4983eh/xml/BILLS-116hr4983eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr4983ih/xml/BILLS-116hr4983ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ295/uslm/PLAW-116publ295.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/4983",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

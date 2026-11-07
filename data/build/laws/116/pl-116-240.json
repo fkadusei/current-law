@@ -1,0 +1,40 @@
+{
+ "id": "pl-116-240",
+ "congress": 116,
+ "public_law": "116-240",
+ "bill": "HR 4785",
+ "title": "To designate the facility of the United States Postal Service located at 1305 U.S. Highway 90 West in Castroville, Texas, as the Lance Corporal Rhonald Dain Rairdan Post Office.",
+ "enacted": "2020-12-21",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Hurd, Will [R-TX-23]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr4785enr/xml/BILLS-116hr4785enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr4785rfs/xml/BILLS-116hr4785rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr4785eh/xml/BILLS-116hr4785eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr4785ih/xml/BILLS-116hr4785ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ240/uslm/PLAW-116publ240.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/4785",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

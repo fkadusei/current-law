@@ -1,0 +1,40 @@
+{
+ "id": "pl-117-344",
+ "congress": 117,
+ "public_law": "117-344",
+ "bill": "S 3405",
+ "title": "Low Power Protection Act",
+ "enacted": "2023-01-05",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Science, Technology, Communications",
+ "sponsor": "Sen. Blunt, Roy [R-MO]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s3405enr/xml/BILLS-117s3405enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s3405es/xml/BILLS-117s3405es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s3405rs/xml/BILLS-117s3405rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s3405is/xml/BILLS-117s3405is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ344/uslm/PLAW-117publ344.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/senate-bill/3405",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

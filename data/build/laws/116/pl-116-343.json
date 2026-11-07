@@ -1,0 +1,40 @@
+{
+ "id": "pl-116-343",
+ "congress": 116,
+ "public_law": "116-343",
+ "bill": "S 1310",
+ "title": "Organization of American States Legislative Engagement Act of 2020",
+ "enacted": "2021-01-13",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "International Affairs",
+ "sponsor": "Sen. Cardin, Benjamin L. [D-MD]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s1310enr/xml/BILLS-116s1310enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s1310es/xml/BILLS-116s1310es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s1310rs/xml/BILLS-116s1310rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s1310is/xml/BILLS-116s1310is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ343/uslm/PLAW-116publ343.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/senate-bill/1310",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

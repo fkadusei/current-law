@@ -1,0 +1,43 @@
+{
+ "id": "pl-115-258",
+ "congress": 115,
+ "public_law": "115-258",
+ "bill": "HR 4958",
+ "title": "Veterans' Compensation Cost-of-Living Adjustment Act of 2018",
+ "enacted": "2018-10-09",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Rep. Bost, Mike [R-IL-12]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr4958enr/xml/BILLS-115hr4958enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr4958rfs/xml/BILLS-115hr4958rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr4958eh/xml/BILLS-115hr4958eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr4958rh/xml/BILLS-115hr4958rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr4958ih/xml/BILLS-115hr4958ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ258/uslm/PLAW-115publ258.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/4958",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,40 @@
+{
+ "id": "pl-115-266",
+ "congress": 115,
+ "public_law": "115-266",
+ "bill": "S 2269",
+ "title": "Global Food Security Reauthorization Act of 2017",
+ "enacted": "2018-10-11",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "International Affairs",
+ "sponsor": "Sen. Casey, Robert P., Jr. [D-PA]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s2269enr/xml/BILLS-115s2269enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s2269es/xml/BILLS-115s2269es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s2269rs/xml/BILLS-115s2269rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s2269is/xml/BILLS-115s2269is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ266/uslm/PLAW-115publ266.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/2269",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

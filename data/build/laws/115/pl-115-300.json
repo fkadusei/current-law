@@ -1,0 +1,46 @@
+{
+ "id": "pl-115-300",
+ "congress": 115,
+ "public_law": "115-300",
+ "bill": "HR 390",
+ "title": "Iraq and Syria Genocide Relief and Accountability Act of 2018",
+ "enacted": "2018-12-11",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "International Affairs",
+ "sponsor": "Rep. Smith, Christopher H. [R-NJ-4]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr390enr/xml/BILLS-115hr390enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr390eas/xml/BILLS-115hr390eas.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr390rs/xml/BILLS-115hr390rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr390rfs/xml/BILLS-115hr390rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr390eh/xml/BILLS-115hr390eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr390ih/xml/BILLS-115hr390ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ300/uslm/PLAW-115publ300.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/390",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

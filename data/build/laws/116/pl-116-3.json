@@ -1,0 +1,40 @@
+{
+ "id": "pl-116-3",
+ "congress": 116,
+ "public_law": "116-3",
+ "bill": "HR 259",
+ "title": "Medicaid Extenders Act of 2019",
+ "enacted": "2019-01-24",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Health",
+ "sponsor": "Rep. Pallone, Frank, Jr. [D-NJ-6]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr259enr/xml/BILLS-116hr259enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr259rds/xml/BILLS-116hr259rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr259eh/xml/BILLS-116hr259eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr259ih/xml/BILLS-116hr259ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ3/uslm/PLAW-116publ3.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/259",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

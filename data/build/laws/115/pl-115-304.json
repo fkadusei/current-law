@@ -1,0 +1,46 @@
+{
+ "id": "pl-115-304",
+ "congress": 115,
+ "public_law": "115-304",
+ "bill": "HR 5317",
+ "title": "To repeal section 2141 of the Revised Statutes to remove the prohibition on certain alcohol manufacturing on Indian lands.",
+ "enacted": "2018-12-11",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Native Americans",
+ "sponsor": "Rep. Herrera Beutler, Jaime [R-WA-3]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr5317enr/xml/BILLS-115hr5317enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr5317rs/xml/BILLS-115hr5317rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr5317rfs/xml/BILLS-115hr5317rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr5317eh/xml/BILLS-115hr5317eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr5317rh/xml/BILLS-115hr5317rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr5317ih/xml/BILLS-115hr5317ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ304/uslm/PLAW-115publ304.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/5317",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

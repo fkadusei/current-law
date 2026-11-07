@@ -1,0 +1,46 @@
+{
+ "id": "pl-115-404",
+ "congress": 115,
+ "public_law": "115-404",
+ "bill": "S 943",
+ "title": "Johnson-O'Malley Supplemental Indian Education Program Modernization Act",
+ "enacted": "2018-12-31",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Native Americans",
+ "sponsor": "Sen. Heitkamp, Heidi [D-ND]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s943enr/xml/BILLS-115s943enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s943eah/xml/BILLS-115s943eah.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s943rfh/xml/BILLS-115s943rfh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s943es/xml/BILLS-115s943es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s943rs/xml/BILLS-115s943rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s943is/xml/BILLS-115s943is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ404/uslm/PLAW-115publ404.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/943",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

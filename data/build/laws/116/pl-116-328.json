@@ -1,0 +1,43 @@
+{
+ "id": "pl-116-328",
+ "congress": 116,
+ "public_law": "116-328",
+ "bill": "HR 1472",
+ "title": "To rename the Homestead National Monument of America near Beatrice, Nebraska, as the Homestead National Historical Park.",
+ "enacted": "2021-01-13",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Public Lands and Natural Resources",
+ "sponsor": "Rep. Smith, Adrian [R-NE-3]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1472enr/xml/BILLS-116hr1472enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1472rfs/xml/BILLS-116hr1472rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1472eh/xml/BILLS-116hr1472eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1472rh/xml/BILLS-116hr1472rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1472ih/xml/BILLS-116hr1472ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ328/uslm/PLAW-116publ328.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/1472",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

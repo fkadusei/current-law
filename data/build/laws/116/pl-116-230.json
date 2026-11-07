@@ -1,0 +1,40 @@
+{
+ "id": "pl-116-230",
+ "congress": 116,
+ "public_law": "116-230",
+ "bill": "HR 3005",
+ "title": "To designate the facility of the United States Postal Service located at 13308 Midland Road in Poway, California, as the Ray Chavez Post Office Building.",
+ "enacted": "2020-12-21",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Peters, Scott H. [D-CA-52]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr3005enr/xml/BILLS-116hr3005enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr3005rfs/xml/BILLS-116hr3005rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr3005eh/xml/BILLS-116hr3005eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr3005ih/xml/BILLS-116hr3005ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ230/uslm/PLAW-116publ230.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/3005",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

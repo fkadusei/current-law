@@ -1,0 +1,49 @@
+{
+ "id": "pl-116-261",
+ "congress": 116,
+ "public_law": "116-261",
+ "bill": "S 212",
+ "title": "Indian Community Economic Enhancement Act of 2020",
+ "enacted": "2020-12-30",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Native Americans",
+ "sponsor": "Sen. Hoeven, John [R-ND]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s212enr/xml/BILLS-116s212enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s212eah/xml/BILLS-116s212eah.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s212rh/xml/BILLS-116s212rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s212rfh/xml/BILLS-116s212rfh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s212es/xml/BILLS-116s212es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s212rs/xml/BILLS-116s212rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s212is/xml/BILLS-116s212is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ261/uslm/PLAW-116publ261.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/senate-bill/212",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

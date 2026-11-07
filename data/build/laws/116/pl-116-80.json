@@ -1,0 +1,43 @@
+{
+ "id": "pl-116-80",
+ "congress": 116,
+ "public_law": "116-80",
+ "bill": "HR 1252",
+ "title": "To designate the facility of the United States Postal Service located at 6531 Van Nuys Boulevard in Van Nuys, California, as the Marilyn Monroe Post Office.",
+ "enacted": "2019-12-12",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Cárdenas, Tony [D-CA-29]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1252enr/xml/BILLS-116hr1252enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1252rs/xml/BILLS-116hr1252rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1252rfs/xml/BILLS-116hr1252rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1252eh/xml/BILLS-116hr1252eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1252ih/xml/BILLS-116hr1252ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ80/uslm/PLAW-116publ80.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/1252",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

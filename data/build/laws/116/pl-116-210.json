@@ -1,0 +1,40 @@
+{
+ "id": "pl-116-210",
+ "congress": 116,
+ "public_law": "116-210",
+ "bill": "HR 8276",
+ "title": "To authorize the President to posthumously award the Medal of Honor to Alwyn C. Cashe for acts of valor during Operation Iraqi Freedom.",
+ "enacted": "2020-12-04",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Rep. Murphy, Stephanie N. [D-FL-7]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr8276enr/xml/BILLS-116hr8276enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr8276rds/xml/BILLS-116hr8276rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr8276eh/xml/BILLS-116hr8276eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr8276ih/xml/BILLS-116hr8276ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ210/uslm/PLAW-116publ210.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/8276",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

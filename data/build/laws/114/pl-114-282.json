@@ -1,0 +1,40 @@
+{
+ "id": "pl-114-282",
+ "congress": 114,
+ "public_law": "114-282",
+ "bill": "HR 2726",
+ "title": "Apollo 11 50th Anniversary Commemorative Coin Act",
+ "enacted": "2016-12-16",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Finance and Financial Sector",
+ "sponsor": "Rep. Posey, Bill [R-FL-8]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr2726enr/xml/BILLS-114hr2726enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr2726rds/xml/BILLS-114hr2726rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr2726eh/xml/BILLS-114hr2726eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr2726ih/xml/BILLS-114hr2726ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-114publ282/uslm/PLAW-114publ282.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/114th-congress/house-bill/2726",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

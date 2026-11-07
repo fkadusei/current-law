@@ -1,0 +1,43 @@
+{
+ "id": "pl-115-187",
+ "congress": 115,
+ "public_law": "115-187",
+ "bill": "HR 2333",
+ "title": "Small Business Investment Opportunity Act of 2017",
+ "enacted": "2018-06-21",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Commerce",
+ "sponsor": "Rep. Knight, Stephen [R-CA-25]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr2333enr/xml/BILLS-115hr2333enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr2333rfs/xml/BILLS-115hr2333rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr2333eh/xml/BILLS-115hr2333eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr2333rh/xml/BILLS-115hr2333rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr2333ih/xml/BILLS-115hr2333ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ187/uslm/PLAW-115publ187.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/2333",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,43 @@
+{
+ "id": "pl-115-336",
+ "congress": 115,
+ "public_law": "115-336",
+ "bill": "HR 5759",
+ "title": "21st Century IDEA",
+ "enacted": "2018-12-20",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Khanna, Ro [D-CA-17]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr5759enr/xml/BILLS-115hr5759enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr5759rds/xml/BILLS-115hr5759rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr5759eh/xml/BILLS-115hr5759eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr5759rh/xml/BILLS-115hr5759rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr5759ih/xml/BILLS-115hr5759ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ336/uslm/PLAW-115publ336.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/5759",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

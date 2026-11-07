@@ -1,0 +1,40 @@
+{
+ "id": "pl-115-183",
+ "congress": 115,
+ "public_law": "115-183",
+ "bill": "HR 3663",
+ "title": "To designate the medical center of the Department of Veterans Affairs in Huntington, West Virginia, as the Hershel \"Woody\" Williams VA Medical Center.",
+ "enacted": "2018-06-15",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Rep. Jenkins, Evan H. [R-WV-3]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr3663enr/xml/BILLS-115hr3663enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr3663rfs/xml/BILLS-115hr3663rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr3663eh/xml/BILLS-115hr3663eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr3663ih/xml/BILLS-115hr3663ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ183/uslm/PLAW-115publ183.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/3663",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,40 @@
+{
+ "id": "pl-115-60",
+ "congress": 115,
+ "public_law": "115-60",
+ "bill": "S 1616",
+ "title": "Bob Dole Congressional Gold Medal Act",
+ "enacted": "2017-09-15",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Congress",
+ "sponsor": "Sen. Roberts, Pat [R-KS]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s1616enr/xml/BILLS-115s1616enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s1616rfh/xml/BILLS-115s1616rfh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s1616es/xml/BILLS-115s1616es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s1616is/xml/BILLS-115s1616is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ60/uslm/PLAW-115publ60.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/1616",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

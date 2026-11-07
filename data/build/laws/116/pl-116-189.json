@@ -1,0 +1,40 @@
+{
+ "id": "pl-116-189",
+ "congress": 116,
+ "public_law": "116-189",
+ "bill": "S 2330",
+ "title": "Empowering Olympic, Paralympic, and Amateur Athletes Act of 2020",
+ "enacted": "2020-10-30",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Sports and Recreation",
+ "sponsor": "Sen. Moran, Jerry [R-KS]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s2330enr/xml/BILLS-116s2330enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s2330es/xml/BILLS-116s2330es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s2330rs/xml/BILLS-116s2330rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s2330is/xml/BILLS-116s2330is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ189/uslm/PLAW-116publ189.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/senate-bill/2330",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

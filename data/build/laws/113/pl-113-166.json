@@ -1,0 +1,43 @@
+{
+ "id": "pl-113-166",
+ "congress": 113,
+ "public_law": "113-166",
+ "bill": "HR 594",
+ "title": "Paul D. Wellstone Muscular Dystrophy Community Assistance, Research and Education Amendments of 2014",
+ "enacted": "2014-09-26",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Health",
+ "sponsor": "Rep. Burgess, Michael C. [R-TX-26]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr594enr/xml/BILLS-113hr594enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr594pcs/xml/BILLS-113hr594pcs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr594eh/xml/BILLS-113hr594eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr594rh/xml/BILLS-113hr594rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr594ih/xml/BILLS-113hr594ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-113publ166/uslm/PLAW-113publ166.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/113th-congress/house-bill/594",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

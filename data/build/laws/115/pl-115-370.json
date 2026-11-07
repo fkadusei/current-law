@@ -1,0 +1,43 @@
+{
+ "id": "pl-115-370",
+ "congress": 115,
+ "public_law": "115-370",
+ "bill": "HR 6347",
+ "title": "7(a) Real Estate Appraisal Harmonization Act",
+ "enacted": "2018-12-21",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Finance and Financial Sector",
+ "sponsor": "Rep. Evans, Dwight [D-PA-2]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr6347enr/xml/BILLS-115hr6347enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr6347rfs/xml/BILLS-115hr6347rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr6347eh/xml/BILLS-115hr6347eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr6347rh/xml/BILLS-115hr6347rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr6347ih/xml/BILLS-115hr6347ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ370/uslm/PLAW-115publ370.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/6347",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

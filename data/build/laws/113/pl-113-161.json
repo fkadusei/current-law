@@ -1,0 +1,40 @@
+{
+ "id": "pl-113-161",
+ "congress": 113,
+ "public_law": "113-161",
+ "bill": "S 653",
+ "title": "Near East and South Central Asia Religious Freedom Act of 2014",
+ "enacted": "2014-08-08",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "International Affairs",
+ "sponsor": "Sen. Blunt, Roy [R-MO]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s653enr/xml/BILLS-113s653enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s653es/xml/BILLS-113s653es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s653rs/xml/BILLS-113s653rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s653is/xml/BILLS-113s653is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-113publ161/uslm/PLAW-113publ161.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/113th-congress/senate-bill/653",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

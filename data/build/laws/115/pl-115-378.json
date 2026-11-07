@@ -1,0 +1,40 @@
+{
+ "id": "pl-115-378",
+ "congress": 115,
+ "public_law": "115-378",
+ "bill": "HR 6621",
+ "title": "To designate the facility of the United States Postal Service located at 530 East Main Street in Johnson City, Tennessee, as the \"Major Homer L. Pease Post Office\".",
+ "enacted": "2018-12-21",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Roe, David P. [R-TN-1]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr6621enr/xml/BILLS-115hr6621enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr6621rds/xml/BILLS-115hr6621rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr6621eh/xml/BILLS-115hr6621eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr6621ih/xml/BILLS-115hr6621ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ378/uslm/PLAW-115publ378.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/6621",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

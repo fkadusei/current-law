@@ -1,0 +1,40 @@
+{
+ "id": "pl-116-170",
+ "congress": 116,
+ "public_law": "116-170",
+ "bill": "S 743",
+ "title": "Merrill's Marauders Congressional Gold Medal Act",
+ "enacted": "2020-10-17",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Sen. Isakson, Johnny [R-GA]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s743enr/xml/BILLS-116s743enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s743rfh/xml/BILLS-116s743rfh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s743es/xml/BILLS-116s743es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s743is/xml/BILLS-116s743is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ170/uslm/PLAW-116publ170.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/senate-bill/743",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

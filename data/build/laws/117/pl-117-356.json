@@ -1,0 +1,37 @@
+{
+ "id": "pl-117-356",
+ "congress": 117,
+ "public_law": "117-356",
+ "bill": "S 4978",
+ "title": "State Offices of Rural Health Program Reauthorization Act of 2022",
+ "enacted": "2023-01-05",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Health",
+ "sponsor": "Sen. Barrasso, John [R-WY]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s4978enr/xml/BILLS-117s4978enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s4978es/xml/BILLS-117s4978es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s4978is/xml/BILLS-117s4978is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ356/uslm/PLAW-117publ356.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/senate-bill/4978",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

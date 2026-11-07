@@ -1,0 +1,40 @@
+{
+ "id": "pl-117-306",
+ "congress": 117,
+ "public_law": "117-306",
+ "bill": "HR 7519",
+ "title": "To designate the facility of the United States Postal Service located at 2050 South Boulevard in Bloomfield Township, Michigan, as the \"Dr. Ezra S. Parke Post Office Building\".",
+ "enacted": "2022-12-27",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Levin, Andy [D-MI-9]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr7519enr/xml/BILLS-117hr7519enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr7519rds/xml/BILLS-117hr7519rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr7519eh/xml/BILLS-117hr7519eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr7519ih/xml/BILLS-117hr7519ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ306/uslm/PLAW-117publ306.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/house-bill/7519",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

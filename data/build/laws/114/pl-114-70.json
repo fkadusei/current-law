@@ -1,0 +1,40 @@
+{
+ "id": "pl-114-70",
+ "congress": 114,
+ "public_law": "114-70",
+ "bill": "S 1300",
+ "title": "Adoptive Family Relief Act",
+ "enacted": "2015-10-16",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Immigration",
+ "sponsor": "Sen. Feinstein, Dianne [D-CA]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s1300enr/xml/BILLS-114s1300enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s1300es/xml/BILLS-114s1300es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s1300rs/xml/BILLS-114s1300rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s1300is/xml/BILLS-114s1300is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-114publ70/uslm/PLAW-114publ70.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/114th-congress/senate-bill/1300",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

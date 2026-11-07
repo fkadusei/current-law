@@ -1,0 +1,43 @@
+{
+ "id": "pl-115-297",
+ "congress": 115,
+ "public_law": "115-297",
+ "bill": "HR 6116",
+ "title": "To designate the facility of the United States Postal Service located at 362 North Ross Street in Beaverton, Michigan, as the \"Colonel Alfred Asch Post Office\".",
+ "enacted": "2018-12-06",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Moolenaar, John R. [R-MI-4]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr6116enr/xml/BILLS-115hr6116enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr6116rs/xml/BILLS-115hr6116rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr6116rfs/xml/BILLS-115hr6116rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr6116eh/xml/BILLS-115hr6116eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr6116ih/xml/BILLS-115hr6116ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ297/uslm/PLAW-115publ297.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/6116",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

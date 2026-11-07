@@ -1,0 +1,40 @@
+{
+ "id": "pl-113-85",
+ "congress": 113,
+ "public_law": "113-85",
+ "bill": "SJRES 29",
+ "title": "A joint resolution providing for the appointment of Risa Lavizzo-Mourey as a citizen regent of the Board of Regents of the Smithsonian Institution.",
+ "enacted": "2014-02-21",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Sen. Leahy, Patrick J. [D-VT]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113sjres29enr/xml/BILLS-113sjres29enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113sjres29rfh/xml/BILLS-113sjres29rfh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113sjres29es/xml/BILLS-113sjres29es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113sjres29is/xml/BILLS-113sjres29is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-113publ85/uslm/PLAW-113publ85.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/113th-congress/senate-joint-resolution/29",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

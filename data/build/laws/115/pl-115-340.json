@@ -1,0 +1,40 @@
+{
+ "id": "pl-115-340",
+ "congress": 115,
+ "public_law": "115-340",
+ "bill": "HR 1210",
+ "title": "To designate the facility of the United States Postal Service located at 122 W. Goodwin Street, Pleasanton, Texas, as the \"Pleasanton Veterans Post Office\".",
+ "enacted": "2018-12-21",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Cuellar, Henry [D-TX-28]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1210enr/xml/BILLS-115hr1210enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1210rds/xml/BILLS-115hr1210rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1210eh/xml/BILLS-115hr1210eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1210ih/xml/BILLS-115hr1210ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ340/uslm/PLAW-115publ340.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/1210",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

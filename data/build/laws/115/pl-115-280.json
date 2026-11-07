@@ -1,0 +1,40 @@
+{
+ "id": "pl-115-280",
+ "congress": 115,
+ "public_law": "115-280",
+ "bill": "S 3554",
+ "title": "A bill to extend the effective date for the sunset for collateral requirements for Small Business Administration disaster loans.",
+ "enacted": "2018-11-29",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Commerce",
+ "sponsor": "Sen. Kennedy, John [R-LA]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s3554enr/xml/BILLS-115s3554enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s3554es/xml/BILLS-115s3554es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s3554rs/xml/BILLS-115s3554rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s3554is/xml/BILLS-115s3554is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ280/uslm/PLAW-115publ280.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/3554",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

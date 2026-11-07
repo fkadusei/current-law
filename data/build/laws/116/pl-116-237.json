@@ -1,0 +1,40 @@
+{
+ "id": "pl-116-237",
+ "congress": 116,
+ "public_law": "116-237",
+ "bill": "HR 4279",
+ "title": "To designate the facility of the United States Postal Service located at 445 Main Street in Laceyville, Pennsylvania, as the Melinda Gene Piccotti Post Office.",
+ "enacted": "2020-12-21",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Keller, Fred [R-PA-12]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr4279enr/xml/BILLS-116hr4279enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr4279rfs/xml/BILLS-116hr4279rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr4279eh/xml/BILLS-116hr4279eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr4279ih/xml/BILLS-116hr4279ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ237/uslm/PLAW-116publ237.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/4279",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

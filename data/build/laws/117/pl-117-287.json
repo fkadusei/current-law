@@ -1,0 +1,43 @@
+{
+ "id": "pl-117-287",
+ "congress": 117,
+ "public_law": "117-287",
+ "bill": "HR 5973",
+ "title": "Great Lakes Fish and Wildlife Restoration Reauthorization Act of 2022",
+ "enacted": "2022-12-27",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Environmental Protection",
+ "sponsor": "Rep. Dingell, Debbie [D-MI-12]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr5973enr/xml/BILLS-117hr5973enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr5973rfs/xml/BILLS-117hr5973rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr5973eh/xml/BILLS-117hr5973eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr5973rh/xml/BILLS-117hr5973rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr5973ih/xml/BILLS-117hr5973ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ287/uslm/PLAW-117publ287.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/house-bill/5973",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

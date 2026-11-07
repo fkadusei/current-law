@@ -1,0 +1,40 @@
+{
+ "id": "pl-113-162",
+ "congress": 113,
+ "public_law": "113-162",
+ "bill": "S 1104",
+ "title": "Assessing Progress in Haiti Act of 2014",
+ "enacted": "2014-08-08",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "International Affairs",
+ "sponsor": "Sen. Nelson, Bill [D-FL]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s1104enr/xml/BILLS-113s1104enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s1104es/xml/BILLS-113s1104es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s1104rs/xml/BILLS-113s1104rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s1104is/xml/BILLS-113s1104is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-113publ162/uslm/PLAW-113publ162.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/113th-congress/senate-bill/1104",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

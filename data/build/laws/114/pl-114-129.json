@@ -1,0 +1,40 @@
+{
+ "id": "pl-114-129",
+ "congress": 114,
+ "public_law": "114-129",
+ "bill": "HR 3262",
+ "title": "To provide for the conveyance of land of the Illiana Health Care System of the Department of Veterans Affairs in Danville, Illinois.",
+ "enacted": "2016-02-29",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Rep. Shimkus, John [R-IL-15]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr3262enr/xml/BILLS-114hr3262enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr3262rfs/xml/BILLS-114hr3262rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr3262eh/xml/BILLS-114hr3262eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr3262ih/xml/BILLS-114hr3262ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-114publ129/uslm/PLAW-114publ129.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/114th-congress/house-bill/3262",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

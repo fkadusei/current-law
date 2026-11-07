@@ -1,0 +1,37 @@
+{
+ "id": "pl-116-29",
+ "congress": 116,
+ "public_law": "116-29",
+ "bill": "S 2047",
+ "title": "A bill to provide for a 2-week extension of the Medicaid community mental health services demonstration program, and for other purposes.",
+ "enacted": "2019-07-05",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Health",
+ "sponsor": "Sen. Schumer, Charles E. [D-NY]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s2047enr/xml/BILLS-116s2047enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s2047es/xml/BILLS-116s2047es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s2047cps/xml/BILLS-116s2047cps.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ29/uslm/PLAW-116publ29.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/senate-bill/2047",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

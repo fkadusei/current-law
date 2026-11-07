@@ -1,0 +1,43 @@
+{
+ "id": "pl-115-109",
+ "congress": 115,
+ "public_law": "115-109",
+ "bill": "HR 381",
+ "title": "To designate a mountain in the John Muir Wilderness of the Sierra National Forest as \"Sky Point\".",
+ "enacted": "2018-01-10",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Public Lands and Natural Resources",
+ "sponsor": "Rep. McClintock, Tom [R-CA-4]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr381enr/xml/BILLS-115hr381enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr381rs/xml/BILLS-115hr381rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr381rfs/xml/BILLS-115hr381rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr381eh/xml/BILLS-115hr381eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr381ih/xml/BILLS-115hr381ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ109/uslm/PLAW-115publ109.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/381",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

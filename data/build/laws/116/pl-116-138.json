@@ -1,0 +1,40 @@
+{
+ "id": "pl-116-138",
+ "congress": 116,
+ "public_law": "116-138",
+ "bill": "SJRES 66",
+ "title": "A joint resolution providing for the appointment of Denise O'Leary as a citizen regent of the Board of Regents of the Smithsonian Institution.",
+ "enacted": "2020-04-10",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Sen. Boozman, John [R-AR]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116sjres66enr/xml/BILLS-116sjres66enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116sjres66rfh/xml/BILLS-116sjres66rfh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116sjres66es/xml/BILLS-116sjres66es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116sjres66cps/xml/BILLS-116sjres66cps.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ138/uslm/PLAW-116publ138.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/senate-joint-resolution/66",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

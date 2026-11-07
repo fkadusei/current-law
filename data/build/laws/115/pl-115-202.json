@@ -1,0 +1,43 @@
+{
+ "id": "pl-115-202",
+ "congress": 115,
+ "public_law": "115-202",
+ "bill": "HR 446",
+ "title": "To extend the deadline for commencement of construction of a hydroelectric project.",
+ "enacted": "2018-07-23",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Energy",
+ "sponsor": "Rep. Griffith, H. Morgan [R-VA-9]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr446enr/xml/BILLS-115hr446enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr446pcs/xml/BILLS-115hr446pcs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr446rh/xml/BILLS-115hr446rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr446eh/xml/BILLS-115hr446eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr446ih/xml/BILLS-115hr446ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ202/uslm/PLAW-115publ202.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/446",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

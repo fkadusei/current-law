@@ -1,0 +1,43 @@
+{
+ "id": "pl-114-105",
+ "congress": 114,
+ "public_law": "114-105",
+ "bill": "HR 3594",
+ "title": "Federal Perkins Loan Program Extension Act of 2015",
+ "enacted": "2015-12-18",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Education",
+ "sponsor": "Rep. Bishop, Mike [R-MI-8]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr3594enr/xml/BILLS-114hr3594enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr3594eas/xml/BILLS-114hr3594eas.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr3594rds/xml/BILLS-114hr3594rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr3594eh/xml/BILLS-114hr3594eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr3594ih/xml/BILLS-114hr3594ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-114publ105/uslm/PLAW-114publ105.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/114th-congress/house-bill/3594",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

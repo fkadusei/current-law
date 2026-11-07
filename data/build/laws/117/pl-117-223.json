@@ -1,0 +1,43 @@
+{
+ "id": "pl-117-223",
+ "congress": 117,
+ "public_law": "117-223",
+ "bill": "HR 7132",
+ "title": "Safe Connections Act of 2022",
+ "enacted": "2022-12-07",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Science, Technology, Communications",
+ "sponsor": "Rep. Kuster, Ann M. [D-NH-2]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr7132enr/xml/BILLS-117hr7132enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr7132rds/xml/BILLS-117hr7132rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr7132eh/xml/BILLS-117hr7132eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr7132rh/xml/BILLS-117hr7132rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr7132ih/xml/BILLS-117hr7132ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ223/uslm/PLAW-117publ223.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/house-bill/7132",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

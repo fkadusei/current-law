@@ -1,0 +1,40 @@
+{
+ "id": "pl-114-81",
+ "congress": 114,
+ "public_law": "114-81",
+ "bill": "HR 774",
+ "title": "Illegal, Unreported, and Unregulated Fishing Enforcement Act of 2015",
+ "enacted": "2015-11-05",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Public Lands and Natural Resources",
+ "sponsor": "Del. Bordallo, Madeleine Z. [D-GU-At Large]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr774enr/xml/BILLS-114hr774enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr774rfs/xml/BILLS-114hr774rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr774eh/xml/BILLS-114hr774eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr774ih/xml/BILLS-114hr774ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-114publ81/uslm/PLAW-114publ81.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/114th-congress/house-bill/774",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

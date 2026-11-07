@@ -1,0 +1,43 @@
+{
+ "id": "pl-116-221",
+ "congress": 116,
+ "public_law": "116-221",
+ "bill": "S 910",
+ "title": "National Sea Grant College Program Amendments Act of 2020",
+ "enacted": "2020-12-18",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Public Lands and Natural Resources",
+ "sponsor": "Sen. Wicker, Roger F. [R-MS]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s910enr/xml/BILLS-116s910enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s910eah/xml/BILLS-116s910eah.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s910es/xml/BILLS-116s910es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s910rs/xml/BILLS-116s910rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s910is/xml/BILLS-116s910is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ221/uslm/PLAW-116publ221.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/senate-bill/910",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,37 @@
+{
+ "id": "pl-113-74",
+ "congress": 113,
+ "public_law": "113-74",
+ "bill": "S 1614",
+ "title": "Accuracy for Adoptees Act",
+ "enacted": "2014-01-16",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Immigration",
+ "sponsor": "Sen. Klobuchar, Amy [D-MN]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s1614enr/xml/BILLS-113s1614enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s1614es/xml/BILLS-113s1614es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s1614is/xml/BILLS-113s1614is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-113publ74/uslm/PLAW-113publ74.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/113th-congress/senate-bill/1614",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

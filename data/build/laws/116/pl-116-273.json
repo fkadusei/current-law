@@ -1,0 +1,43 @@
+{
+ "id": "pl-116-273",
+ "congress": 116,
+ "public_law": "116-273",
+ "bill": "S 1130",
+ "title": "Scarlett's Sunshine on Sudden Unexpected Death Act",
+ "enacted": "2020-12-31",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Health",
+ "sponsor": "Sen. Casey, Robert P., Jr. [D-PA]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s1130enr/xml/BILLS-116s1130enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s1130eah/xml/BILLS-116s1130eah.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s1130es/xml/BILLS-116s1130es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s1130rs/xml/BILLS-116s1130rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s1130is/xml/BILLS-116s1130is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ273/uslm/PLAW-116publ273.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/senate-bill/1130",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

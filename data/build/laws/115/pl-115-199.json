@@ -1,0 +1,40 @@
+{
+ "id": "pl-115-199",
+ "congress": 115,
+ "public_law": "115-199",
+ "bill": "SJRES 60",
+ "title": "A joint resolution providing for the reappointment of Barbara M. Barrett as a citizen regent of the Board of Regents of the Smithsonian Institution.",
+ "enacted": "2018-07-20",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Sen. Boozman, John [R-AR]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115sjres60enr/xml/BILLS-115sjres60enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115sjres60rfh/xml/BILLS-115sjres60rfh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115sjres60es/xml/BILLS-115sjres60es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115sjres60is/xml/BILLS-115sjres60is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ199/uslm/PLAW-115publ199.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/senate-joint-resolution/60",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

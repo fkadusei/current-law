@@ -1,0 +1,40 @@
+{
+ "id": "pl-115-181",
+ "congress": 115,
+ "public_law": "115-181",
+ "bill": "S 1282",
+ "title": "A bill to redesignate certain clinics of the Department of Veterans Affairs located in Montana.",
+ "enacted": "2018-06-05",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Sen. Daines, Steve [R-MT]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s1282enr/xml/BILLS-115s1282enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s1282rfh/xml/BILLS-115s1282rfh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s1282es/xml/BILLS-115s1282es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s1282is/xml/BILLS-115s1282is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ181/uslm/PLAW-115publ181.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/1282",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

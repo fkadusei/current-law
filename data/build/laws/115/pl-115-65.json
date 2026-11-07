@@ -1,0 +1,40 @@
+{
+ "id": "pl-115-65",
+ "congress": 115,
+ "public_law": "115-65",
+ "bill": "HR 2519",
+ "title": "The American Legion 100th Anniversary Commemorative Coin Act",
+ "enacted": "2017-10-06",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Finance and Financial Sector",
+ "sponsor": "Rep. Walz, Timothy J. [D-MN-1]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr2519enr/xml/BILLS-115hr2519enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr2519rds/xml/BILLS-115hr2519rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr2519eh/xml/BILLS-115hr2519eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr2519ih/xml/BILLS-115hr2519ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ65/uslm/PLAW-115publ65.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/2519",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,43 @@
+{
+ "id": "pl-116-115",
+ "congress": 116,
+ "public_law": "116-115",
+ "bill": "S 153",
+ "title": "Supporting Veterans in STEM Careers Act",
+ "enacted": "2020-02-11",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Science, Technology, Communications",
+ "sponsor": "Sen. Rubio, Marco [R-FL]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s153enr/xml/BILLS-116s153enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s153rfh/xml/BILLS-116s153rfh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s153es/xml/BILLS-116s153es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s153rs/xml/BILLS-116s153rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s153is/xml/BILLS-116s153is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ115/uslm/PLAW-116publ115.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/senate-bill/153",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

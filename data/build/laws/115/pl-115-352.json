@@ -1,0 +1,43 @@
+{
+ "id": "pl-115-352",
+ "congress": 115,
+ "public_law": "115-352",
+ "bill": "HR 4431",
+ "title": "Correcting Miscalculations in Veterans' Pensions Act",
+ "enacted": "2018-12-21",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Carter, Earl L. \"Buddy\" [R-GA-1]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr4431enr/xml/BILLS-115hr4431enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr4431rfs/xml/BILLS-115hr4431rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr4431eh/xml/BILLS-115hr4431eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr4431rh/xml/BILLS-115hr4431rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr4431ih/xml/BILLS-115hr4431ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ352/uslm/PLAW-115publ352.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/4431",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,43 @@
+{
+ "id": "pl-113-264",
+ "congress": 113,
+ "public_law": "113-264",
+ "bill": "HR 5069",
+ "title": "Federal Duck Stamp Act of 2014",
+ "enacted": "2014-12-18",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Animals",
+ "sponsor": "Rep. Fleming, John [R-LA-4]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr5069enr/xml/BILLS-113hr5069enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr5069rds/xml/BILLS-113hr5069rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr5069eh/xml/BILLS-113hr5069eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr5069rh/xml/BILLS-113hr5069rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr5069ih/xml/BILLS-113hr5069ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-113publ264/uslm/PLAW-113publ264.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/113th-congress/house-bill/5069",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

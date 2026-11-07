@@ -1,0 +1,40 @@
+{
+ "id": "pl-117-162",
+ "congress": 117,
+ "public_law": "117-162",
+ "bill": "HR 1057",
+ "title": "Greatest Generation Commemorative Coin Act",
+ "enacted": "2022-08-03",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Finance and Financial Sector",
+ "sponsor": "Rep. Kaptur, Marcy [D-OH-9]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr1057enr/xml/BILLS-117hr1057enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr1057rds/xml/BILLS-117hr1057rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr1057eh/xml/BILLS-117hr1057eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr1057ih/xml/BILLS-117hr1057ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ162/uslm/PLAW-117publ162.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/house-bill/1057",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

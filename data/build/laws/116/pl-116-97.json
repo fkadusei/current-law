@@ -1,0 +1,43 @@
+{
+ "id": "pl-116-97",
+ "congress": 116,
+ "public_law": "116-97",
+ "bill": "HR 3196",
+ "title": "Vera C. Rubin Observatory Designation Act",
+ "enacted": "2019-12-20",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Science, Technology, Communications",
+ "sponsor": "Rep. Johnson, Eddie Bernice [D-TX-30]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr3196enr/xml/BILLS-116hr3196enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr3196rfs/xml/BILLS-116hr3196rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr3196eh/xml/BILLS-116hr3196eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr3196rh/xml/BILLS-116hr3196rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr3196ih/xml/BILLS-116hr3196ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ97/uslm/PLAW-116publ97.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/3196",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,40 @@
+{
+ "id": "pl-115-329",
+ "congress": 115,
+ "public_law": "115-329",
+ "bill": "S 3119",
+ "title": "Endangered Salmon Predation Prevention Act",
+ "enacted": "2018-12-18",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Animals",
+ "sponsor": "Sen. Risch, James E. [R-ID]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s3119enr/xml/BILLS-115s3119enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s3119es/xml/BILLS-115s3119es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s3119rs/xml/BILLS-115s3119rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s3119is/xml/BILLS-115s3119is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ329/uslm/PLAW-115publ329.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/3119",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

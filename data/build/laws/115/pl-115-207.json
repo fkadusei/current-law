@@ -1,0 +1,43 @@
+{
+ "id": "pl-115-207",
+ "congress": 115,
+ "public_law": "115-207",
+ "bill": "HR 1496",
+ "title": "To designate the facility of the United States Postal Service located at 3585 South Vermont Avenue in Los Angeles, California, as the \"Marvin Gaye Post Office\".",
+ "enacted": "2018-07-24",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Bass, Karen [D-CA-37]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1496enr/xml/BILLS-115hr1496enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1496rs/xml/BILLS-115hr1496rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1496rfs/xml/BILLS-115hr1496rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1496eh/xml/BILLS-115hr1496eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1496ih/xml/BILLS-115hr1496ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ207/uslm/PLAW-115publ207.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/1496",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

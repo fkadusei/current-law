@@ -1,0 +1,40 @@
+{
+ "id": "pl-116-99",
+ "congress": 116,
+ "public_law": "116-99",
+ "bill": "S 50",
+ "title": "Columbia River In-Lieu and Treaty Fishing Access Sites Improvement Act",
+ "enacted": "2019-12-20",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Native Americans",
+ "sponsor": "Sen. Merkley, Jeff [D-OR]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s50enr/xml/BILLS-116s50enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s50es/xml/BILLS-116s50es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s50rs/xml/BILLS-116s50rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s50is/xml/BILLS-116s50is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ99/uslm/PLAW-116publ99.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/senate-bill/50",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

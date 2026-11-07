@@ -1,0 +1,43 @@
+{
+ "id": "pl-116-32",
+ "congress": 116,
+ "public_law": "116-32",
+ "bill": "S 998",
+ "title": "Supporting and Treating Officers In Crisis Act of 2019",
+ "enacted": "2019-07-25",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Crime and Law Enforcement",
+ "sponsor": "Sen. Hawley, Josh [R-MO]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s998enr/xml/BILLS-116s998enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s998rfh/xml/BILLS-116s998rfh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s998es/xml/BILLS-116s998es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s998rs/xml/BILLS-116s998rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s998is/xml/BILLS-116s998is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ32/uslm/PLAW-116publ32.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/senate-bill/998",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

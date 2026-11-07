@@ -1,0 +1,40 @@
+{
+ "id": "pl-116-24",
+ "congress": 116,
+ "public_law": "116-24",
+ "bill": "HR 559",
+ "title": "Northern Mariana Islands Long-Term Legal Residents Relief Act",
+ "enacted": "2019-06-25",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Immigration",
+ "sponsor": "Del. Sablan, Gregorio Kilili Camacho [D-MP-At Large]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr559enr/xml/BILLS-116hr559enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr559rds/xml/BILLS-116hr559rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr559eh/xml/BILLS-116hr559eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr559ih/xml/BILLS-116hr559ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ24/uslm/PLAW-116publ24.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/559",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

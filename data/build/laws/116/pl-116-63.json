@@ -1,0 +1,40 @@
+{
+ "id": "pl-116-63",
+ "congress": 116,
+ "public_law": "116-63",
+ "bill": "S 1689",
+ "title": "A bill to permit States to transfer certain funds from the clean water revolving fund of a State to the drinking water revolving fund of the State in certain circumstances, and for other purposes.",
+ "enacted": "2019-10-04",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Environmental Protection",
+ "sponsor": "Sen. Booker, Cory A. [D-NJ]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s1689enr/xml/BILLS-116s1689enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s1689es/xml/BILLS-116s1689es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s1689rs/xml/BILLS-116s1689rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s1689is/xml/BILLS-116s1689is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ63/uslm/PLAW-116publ63.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/senate-bill/1689",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

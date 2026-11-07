@@ -1,0 +1,40 @@
+{
+ "id": "pl-114-269",
+ "congress": 114,
+ "public_law": "114-269",
+ "bill": "S 2234",
+ "title": "Office of Strategic Services Congressional Gold Medal Act",
+ "enacted": "2016-12-14",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Sen. Blunt, Roy [R-MO]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s2234enr/xml/BILLS-114s2234enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s2234rfh/xml/BILLS-114s2234rfh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s2234es/xml/BILLS-114s2234es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s2234is/xml/BILLS-114s2234is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-114publ269/uslm/PLAW-114publ269.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/114th-congress/senate-bill/2234",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

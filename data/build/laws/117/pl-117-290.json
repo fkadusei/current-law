@@ -1,0 +1,40 @@
+{
+ "id": "pl-117-290",
+ "congress": 117,
+ "public_law": "117-290",
+ "bill": "HR 6080",
+ "title": "To designate the facility of the United States Postal Service located at 5420 Kavanaugh Boulevard in Little Rock, Arkansas, as the \"Ronald A. Robinson Post Office\".",
+ "enacted": "2022-12-27",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Hill, J. French [R-AR-2]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr6080enr/xml/BILLS-117hr6080enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr6080rfs/xml/BILLS-117hr6080rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr6080eh/xml/BILLS-117hr6080eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr6080ih/xml/BILLS-117hr6080ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ290/uslm/PLAW-117publ290.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/house-bill/6080",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

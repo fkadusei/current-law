@@ -1,0 +1,40 @@
+{
+ "id": "pl-117-281",
+ "congress": 117,
+ "public_law": "117-281",
+ "bill": "HR 5794",
+ "title": "To designate the facility of the United States Postal Service located at 850 Walnut Street in McKeesport, Pennsylvania, as the First Sergeant Leonard A. Funk, Jr. Post Office Building.",
+ "enacted": "2022-12-27",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Doyle, Michael F. [D-PA-18]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr5794enr/xml/BILLS-117hr5794enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr5794rfs/xml/BILLS-117hr5794rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr5794eh/xml/BILLS-117hr5794eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr5794ih/xml/BILLS-117hr5794ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ281/uslm/PLAW-117publ281.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/house-bill/5794",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

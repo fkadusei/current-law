@@ -1,0 +1,40 @@
+{
+ "id": "pl-113-91",
+ "congress": 113,
+ "public_law": "113-91",
+ "bill": "SJRES 32",
+ "title": "A joint resolution providing for the reappointment of John W. McCarter as a citizen regent of the Board of Regents of the Smithsonian Institution.",
+ "enacted": "2014-03-21",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Sen. Leahy, Patrick J. [D-VT]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113sjres32enr/xml/BILLS-113sjres32enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113sjres32rfh/xml/BILLS-113sjres32rfh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113sjres32es/xml/BILLS-113sjres32es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113sjres32is/xml/BILLS-113sjres32is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-113publ91/uslm/PLAW-113publ91.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/113th-congress/senate-joint-resolution/32",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,43 @@
+{
+ "id": "pl-115-140",
+ "congress": 115,
+ "public_law": "115-140",
+ "bill": "HR 1988",
+ "title": "To designate the facility of the United States Postal Service located at 1730 18th Street in Bakersfield, California, as the \"Merle Haggard Post Office Building\".",
+ "enacted": "2018-03-20",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. McCarthy, Kevin [R-CA-23]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1988enr/xml/BILLS-115hr1988enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1988rs/xml/BILLS-115hr1988rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1988rfs/xml/BILLS-115hr1988rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1988eh/xml/BILLS-115hr1988eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1988ih/xml/BILLS-115hr1988ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ140/uslm/PLAW-115publ140.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/1988",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

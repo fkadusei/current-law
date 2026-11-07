@@ -1,0 +1,43 @@
+{
+ "id": "pl-114-40",
+ "congress": 114,
+ "public_law": "114-40",
+ "bill": "S 984",
+ "title": "Steve Gleason Act of 2015",
+ "enacted": "2015-07-30",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Health",
+ "sponsor": "Sen. Vitter, David [R-LA]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s984enr/xml/BILLS-114s984enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s984rh/xml/BILLS-114s984rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s984es/xml/BILLS-114s984es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s984rfh/xml/BILLS-114s984rfh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s984pcs/xml/BILLS-114s984pcs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-114publ40/uslm/PLAW-114publ40.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/114th-congress/senate-bill/984",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

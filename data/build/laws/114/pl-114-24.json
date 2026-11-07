@@ -1,0 +1,40 @@
+{
+ "id": "pl-114-24",
+ "congress": 114,
+ "public_law": "114-24",
+ "bill": "S 802",
+ "title": "Girls Count Act of 2015",
+ "enacted": "2015-06-12",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "International Affairs",
+ "sponsor": "Sen. Rubio, Marco [R-FL]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s802enr/xml/BILLS-114s802enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s802es/xml/BILLS-114s802es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s802rs/xml/BILLS-114s802rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s802is/xml/BILLS-114s802is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-114publ24/uslm/PLAW-114publ24.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/114th-congress/senate-bill/802",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

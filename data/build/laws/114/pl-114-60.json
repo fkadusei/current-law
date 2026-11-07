@@ -1,0 +1,40 @@
+{
+ "id": "pl-114-60",
+ "congress": 114,
+ "public_law": "114-60",
+ "bill": "HR 1624",
+ "title": "Protecting Affordable Coverage for Employees Act",
+ "enacted": "2015-10-07",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Health",
+ "sponsor": "Rep. Guthrie, Brett [R-KY-2]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr1624enr/xml/BILLS-114hr1624enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr1624rds/xml/BILLS-114hr1624rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr1624eh/xml/BILLS-114hr1624eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr1624ih/xml/BILLS-114hr1624ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-114publ60/uslm/PLAW-114publ60.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/114th-congress/house-bill/1624",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

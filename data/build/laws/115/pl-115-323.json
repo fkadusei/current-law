@@ -1,0 +1,43 @@
+{
+ "id": "pl-115-323",
+ "congress": 115,
+ "public_law": "115-323",
+ "bill": "HR 3398",
+ "title": "REAL ID Act Modification for Freely Associated States Act",
+ "enacted": "2018-12-17",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Transportation and Public Works",
+ "sponsor": "Rep. Young, Don [R-AK-At Large]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr3398enr/xml/BILLS-115hr3398enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr3398rfs/xml/BILLS-115hr3398rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr3398eh/xml/BILLS-115hr3398eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr3398rh/xml/BILLS-115hr3398rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr3398ih/xml/BILLS-115hr3398ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ323/uslm/PLAW-115publ323.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/3398",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

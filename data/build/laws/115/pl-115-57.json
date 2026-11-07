@@ -1,0 +1,37 @@
+{
+ "id": "pl-115-57",
+ "congress": 115,
+ "public_law": "115-57",
+ "bill": "HR 3732",
+ "title": "Emergency Aid to American Survivors of Hurricanes Irma and Jose Overseas Act",
+ "enacted": "2017-09-12",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Social Welfare",
+ "sponsor": "Rep. Reichert, David G. [R-WA-8]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr3732enr/xml/BILLS-115hr3732enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr3732rds/xml/BILLS-115hr3732rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr3732eh/xml/BILLS-115hr3732eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ57/uslm/PLAW-115publ57.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/3732",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

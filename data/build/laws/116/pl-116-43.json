@@ -1,0 +1,43 @@
+{
+ "id": "pl-116-43",
+ "congress": 116,
+ "public_law": "116-43",
+ "bill": "HR 828",
+ "title": "To designate the facility of the United States Postal Service located at 25 Route 111 in Smithtown, New York, as the \"Congressman Bill Carney Post Office\".",
+ "enacted": "2019-08-21",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Zeldin, Lee M. [R-NY-1]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr828enr/xml/BILLS-116hr828enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr828rs/xml/BILLS-116hr828rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr828rfs/xml/BILLS-116hr828rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr828eh/xml/BILLS-116hr828eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr828ih/xml/BILLS-116hr828ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ43/uslm/PLAW-116publ43.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/828",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

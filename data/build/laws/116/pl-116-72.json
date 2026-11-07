@@ -1,0 +1,40 @@
+{
+ "id": "pl-116-72",
+ "congress": 116,
+ "public_law": "116-72",
+ "bill": "HR 724",
+ "title": "PACT Act",
+ "enacted": "2019-11-25",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Crime and Law Enforcement",
+ "sponsor": "Rep. Deutch, Theodore E. [D-FL-22]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr724enr/xml/BILLS-116hr724enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr724rfs/xml/BILLS-116hr724rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr724eh/xml/BILLS-116hr724eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr724ih/xml/BILLS-116hr724ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ72/uslm/PLAW-116publ72.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/724",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

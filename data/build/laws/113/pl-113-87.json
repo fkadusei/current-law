@@ -1,0 +1,43 @@
+{
+ "id": "pl-113-87",
+ "congress": 113,
+ "public_law": "113-87",
+ "bill": "S 23",
+ "title": "Sleeping Bear Dunes National Lakeshore Conservation and Recreation Act",
+ "enacted": "2014-03-13",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Public Lands and Natural Resources",
+ "sponsor": "Sen. Levin, Carl [D-MI]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s23enr/xml/BILLS-113s23enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s23rfh/xml/BILLS-113s23rfh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s23es/xml/BILLS-113s23es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s23rs/xml/BILLS-113s23rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s23is/xml/BILLS-113s23is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-113publ87/uslm/PLAW-113publ87.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/113th-congress/senate-bill/23",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

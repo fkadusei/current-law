@@ -1,0 +1,43 @@
+{
+ "id": "pl-116-185",
+ "congress": 116,
+ "public_law": "116-185",
+ "bill": "HR 2359",
+ "title": "Whole Veteran Act",
+ "enacted": "2020-10-30",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Rep. Lamb, Conor [D-PA-17]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr2359enr/xml/BILLS-116hr2359enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr2359rds/xml/BILLS-116hr2359rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr2359eh/xml/BILLS-116hr2359eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr2359rh/xml/BILLS-116hr2359rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr2359ih/xml/BILLS-116hr2359ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ185/uslm/PLAW-116publ185.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/2359",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

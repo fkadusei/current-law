@@ -1,0 +1,43 @@
+{
+ "id": "pl-116-79",
+ "congress": 116,
+ "public_law": "116-79",
+ "bill": "HR 887",
+ "title": "To designate the facility of the United States Postal Service located at 877 East 1200 South in Orem, Utah, as the Jerry C. Washburn Post Office Building.",
+ "enacted": "2019-12-12",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Curtis, John R. [R-UT-3]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr887enr/xml/BILLS-116hr887enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr887rs/xml/BILLS-116hr887rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr887rfs/xml/BILLS-116hr887rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr887eh/xml/BILLS-116hr887eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr887ih/xml/BILLS-116hr887ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ79/uslm/PLAW-116publ79.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/887",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

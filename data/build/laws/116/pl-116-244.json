@@ -1,0 +1,40 @@
+{
+ "id": "pl-116-244",
+ "congress": 116,
+ "public_law": "116-244",
+ "bill": "HR 5954",
+ "title": "To designate the facility of the United States Postal Service located at 108 West Maple Street in Holly, Michigan, as the Holly Veterans Memorial Post Office.",
+ "enacted": "2020-12-21",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Slotkin, Elissa [D-MI-8]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr5954enr/xml/BILLS-116hr5954enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr5954rfs/xml/BILLS-116hr5954rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr5954eh/xml/BILLS-116hr5954eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr5954ih/xml/BILLS-116hr5954ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ244/uslm/PLAW-116publ244.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/5954",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

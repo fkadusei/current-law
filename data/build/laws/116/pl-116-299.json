@@ -1,0 +1,49 @@
+{
+ "id": "pl-116-299",
+ "congress": 116,
+ "public_law": "116-299",
+ "bill": "HR 5273",
+ "title": "Securing America's Ports Act",
+ "enacted": "2021-01-05",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Immigration",
+ "sponsor": "Rep. Torres Small, Xochitl [D-NM-2]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr5273enr/xml/BILLS-116hr5273enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr5273eas/xml/BILLS-116hr5273eas.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr5273rs/xml/BILLS-116hr5273rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr5273rfs/xml/BILLS-116hr5273rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr5273eh/xml/BILLS-116hr5273eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr5273rh/xml/BILLS-116hr5273rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr5273ih/xml/BILLS-116hr5273ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ299/uslm/PLAW-116publ299.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/5273",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

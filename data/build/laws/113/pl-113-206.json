@@ -1,0 +1,43 @@
+{
+ "id": "pl-113-206",
+ "congress": 113,
+ "public_law": "113-206",
+ "bill": "HR 451",
+ "title": "To designate the facility of the United States Postal Service located at 500 North Brevard Avenue in Cocoa Beach, Florida, as the \"Richard K. Salick Post Office\".",
+ "enacted": "2014-12-16",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Posey, Bill [R-FL-8]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr451enr/xml/BILLS-113hr451enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr451rs/xml/BILLS-113hr451rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr451rfs/xml/BILLS-113hr451rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr451eh/xml/BILLS-113hr451eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr451ih/xml/BILLS-113hr451ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-113publ206/uslm/PLAW-113publ206.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/113th-congress/house-bill/451",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,40 @@
+{
+ "id": "pl-117-314",
+ "congress": 117,
+ "public_law": "117-314",
+ "bill": "HR 9308",
+ "title": "To designate the facility of the United States Postal Service located at 6401 El Cajon Boulevard in San Diego, California, as the \"Susan A. Davis Post Office\".",
+ "enacted": "2022-12-27",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Jacobs, Sara [D-CA-53]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr9308enr/xml/BILLS-117hr9308enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr9308rfs/xml/BILLS-117hr9308rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr9308eh/xml/BILLS-117hr9308eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr9308ih/xml/BILLS-117hr9308ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ314/uslm/PLAW-117publ314.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/house-bill/9308",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

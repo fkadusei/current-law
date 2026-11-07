@@ -1,0 +1,40 @@
+{
+ "id": "pl-113-256",
+ "congress": 113,
+ "public_law": "113-256",
+ "bill": "HR 4199",
+ "title": "To name the Department of Veterans Affairs medical center in Waco, Texas, as the \"Doris Miller Department of Veterans Affairs Medical Center\".",
+ "enacted": "2014-12-18",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Rep. Flores, Bill [R-TX-17]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr4199enr/xml/BILLS-113hr4199enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr4199rfs/xml/BILLS-113hr4199rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr4199eh/xml/BILLS-113hr4199eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr4199ih/xml/BILLS-113hr4199ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-113publ256/uslm/PLAW-113publ256.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/113th-congress/house-bill/4199",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

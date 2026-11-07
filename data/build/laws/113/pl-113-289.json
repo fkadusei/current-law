@@ -1,0 +1,40 @@
+{
+ "id": "pl-113-289",
+ "congress": 113,
+ "public_law": "113-289",
+ "bill": "HR 2901",
+ "title": "Senator Paul Simon Water for the World Act of 2014",
+ "enacted": "2014-12-19",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "International Affairs",
+ "sponsor": "Rep. Blumenauer, Earl [D-OR-3]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr2901enr/xml/BILLS-113hr2901enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr2901rds/xml/BILLS-113hr2901rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr2901eh/xml/BILLS-113hr2901eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr2901ih/xml/BILLS-113hr2901ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-113publ289/uslm/PLAW-113publ289.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/113th-congress/house-bill/2901",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

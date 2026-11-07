@@ -1,0 +1,40 @@
+{
+ "id": "pl-113-84",
+ "congress": 113,
+ "public_law": "113-84",
+ "bill": "SJRES 28",
+ "title": "A joint resolution providing for the appointment of John Fahey as a citizen regent of the Board of Regents of the Smithsonian Institution.",
+ "enacted": "2014-02-21",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Sen. Leahy, Patrick J. [D-VT]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113sjres28enr/xml/BILLS-113sjres28enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113sjres28rfh/xml/BILLS-113sjres28rfh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113sjres28es/xml/BILLS-113sjres28es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113sjres28is/xml/BILLS-113sjres28is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-113publ84/uslm/PLAW-113publ84.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/113th-congress/senate-joint-resolution/28",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

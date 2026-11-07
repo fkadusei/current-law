@@ -1,0 +1,40 @@
+{
+ "id": "pl-114-8",
+ "congress": 114,
+ "public_law": "114-8",
+ "bill": "HR 1092",
+ "title": "To designate the Federal building located at 2030 Southwest 145th Avenue in Miramar, Florida, as the \"Benjamin P. Grogan and Jerry L. Dove Federal Building\".",
+ "enacted": "2015-04-07",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Commerce",
+ "sponsor": "Rep. Wilson, Frederica S. [D-FL-24]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr1092enr/xml/BILLS-114hr1092enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr1092rds/xml/BILLS-114hr1092rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr1092eh/xml/BILLS-114hr1092eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr1092ih/xml/BILLS-114hr1092ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-114publ8/uslm/PLAW-114publ8.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/114th-congress/house-bill/1092",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

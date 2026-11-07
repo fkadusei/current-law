@@ -1,0 +1,40 @@
+{
+ "id": "pl-115-129",
+ "congress": 115,
+ "public_law": "115-129",
+ "bill": "S 96",
+ "title": "Improving Rural Call Quality and Reliability Act of 2017",
+ "enacted": "2018-02-26",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Science, Technology, Communications",
+ "sponsor": "Sen. Klobuchar, Amy [D-MN]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s96enr/xml/BILLS-115s96enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s96es/xml/BILLS-115s96es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s96rs/xml/BILLS-115s96rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s96is/xml/BILLS-115s96is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ129/uslm/PLAW-115publ129.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/96",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,40 @@
+{
+ "id": "pl-113-195",
+ "congress": 113,
+ "public_law": "113-195",
+ "bill": "S 2141",
+ "title": "Sunscreen Innovation Act",
+ "enacted": "2014-11-26",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Health",
+ "sponsor": "Sen. Reed, Jack [D-RI]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s2141enr/xml/BILLS-113s2141enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s2141rs/xml/BILLS-113s2141rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s2141es/xml/BILLS-113s2141es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s2141is/xml/BILLS-113s2141is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-113publ195/uslm/PLAW-113publ195.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/113th-congress/senate-bill/2141",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

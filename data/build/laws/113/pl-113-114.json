@@ -1,0 +1,40 @@
+{
+ "id": "pl-113-114",
+ "congress": 113,
+ "public_law": "113-114",
+ "bill": "HR 2939",
+ "title": "To award the Congressional Gold Medal to Shimon Peres.",
+ "enacted": "2014-06-09",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "International Affairs",
+ "sponsor": "Rep. Kennedy, Joseph P., III [D-MA-4]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr2939enr/xml/BILLS-113hr2939enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr2939rds/xml/BILLS-113hr2939rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr2939eh/xml/BILLS-113hr2939eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr2939ih/xml/BILLS-113hr2939ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-113publ114/uslm/PLAW-113publ114.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/113th-congress/house-bill/2939",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

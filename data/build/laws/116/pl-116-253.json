@@ -1,0 +1,43 @@
+{
+ "id": "pl-116-253",
+ "congress": 116,
+ "public_law": "116-253",
+ "bill": "HR 3465",
+ "title": "Fallen Journalists Memorial Act",
+ "enacted": "2020-12-23",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Public Lands and Natural Resources",
+ "sponsor": "Rep. Napolitano, Grace F. [D-CA-32]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr3465enr/xml/BILLS-116hr3465enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr3465rfs/xml/BILLS-116hr3465rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr3465eh/xml/BILLS-116hr3465eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr3465rh/xml/BILLS-116hr3465rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr3465ih/xml/BILLS-116hr3465ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ253/uslm/PLAW-116publ253.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/3465",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

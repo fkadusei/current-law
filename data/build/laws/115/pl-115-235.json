@@ -1,0 +1,40 @@
+{
+ "id": "pl-115-235",
+ "congress": 115,
+ "public_law": "115-235",
+ "bill": "HR 6414",
+ "title": "To amend title 23, United States Code, to extend the deadline for promulgation of regulations under the tribal transportation self-governance program.",
+ "enacted": "2018-08-14",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Transportation and Public Works",
+ "sponsor": "Rep. DeFazio, Peter A. [D-OR-4]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr6414enr/xml/BILLS-115hr6414enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr6414rds/xml/BILLS-115hr6414rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr6414eh/xml/BILLS-115hr6414eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr6414ih/xml/BILLS-115hr6414ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ235/uslm/PLAW-115publ235.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/6414",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

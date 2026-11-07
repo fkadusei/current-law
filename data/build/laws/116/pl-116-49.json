@@ -1,0 +1,43 @@
+{
+ "id": "pl-116-49",
+ "congress": 116,
+ "public_law": "116-49",
+ "bill": "HR 776",
+ "title": "Emergency Medical Services for Children Program Reauthorization Act of 2019",
+ "enacted": "2019-08-22",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Health",
+ "sponsor": "Rep. King, Peter T. [R-NY-2]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr776enr/xml/BILLS-116hr776enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr776rds/xml/BILLS-116hr776rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr776eh/xml/BILLS-116hr776eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr776rh/xml/BILLS-116hr776rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr776ih/xml/BILLS-116hr776ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ49/uslm/PLAW-116publ49.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/776",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,37 @@
+{
+ "id": "pl-115-251",
+ "congress": 115,
+ "public_law": "115-251",
+ "bill": "S 3479",
+ "title": "Department of Veterans Affairs Expiring Authorities Act of 2018",
+ "enacted": "2018-09-29",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Sen. Isakson, Johnny [R-GA]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s3479enr/xml/BILLS-115s3479enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s3479es/xml/BILLS-115s3479es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s3479cps/xml/BILLS-115s3479cps.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ251/uslm/PLAW-115publ251.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/3479",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

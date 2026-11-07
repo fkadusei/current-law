@@ -1,0 +1,43 @@
+{
+ "id": "pl-115-53",
+ "congress": 115,
+ "public_law": "115-53",
+ "bill": "HR 339",
+ "title": "Northern Mariana Islands Economic Expansion Act",
+ "enacted": "2017-08-22",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Immigration",
+ "sponsor": "Del. Sablan, Gregorio Kilili Camacho [D-MP-At Large]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr339enr/xml/BILLS-115hr339enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr339eas/xml/BILLS-115hr339eas.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr339rfs/xml/BILLS-115hr339rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr339eh/xml/BILLS-115hr339eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr339ih/xml/BILLS-115hr339ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ53/uslm/PLAW-115publ53.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/339",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,43 @@
+{
+ "id": "pl-115-158",
+ "congress": 115,
+ "public_law": "115-158",
+ "bill": "S 188",
+ "title": "EGO Act",
+ "enacted": "2018-03-27",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Sen. Cassidy, Bill [R-LA]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s188enr/xml/BILLS-115s188enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s188eah/xml/BILLS-115s188eah.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s188es/xml/BILLS-115s188es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s188rs/xml/BILLS-115s188rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s188is/xml/BILLS-115s188is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ158/uslm/PLAW-115publ158.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/188",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

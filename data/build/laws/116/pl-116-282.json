@@ -1,0 +1,40 @@
+{
+ "id": "pl-116-282",
+ "congress": 116,
+ "public_law": "116-282",
+ "bill": "S 3989",
+ "title": "United States Semiquincentennial Commission Amendments Act of 2020",
+ "enacted": "2020-12-31",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Sen. Toomey, Patrick [R-PA]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s3989enr/xml/BILLS-116s3989enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s3989eah/xml/BILLS-116s3989eah.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s3989es/xml/BILLS-116s3989es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s3989is/xml/BILLS-116s3989is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ282/uslm/PLAW-116publ282.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/senate-bill/3989",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

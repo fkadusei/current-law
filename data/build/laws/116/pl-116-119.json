@@ -1,0 +1,40 @@
+{
+ "id": "pl-116-119",
+ "congress": 116,
+ "public_law": "116-119",
+ "bill": "SJRES 67",
+ "title": "A joint resolution providing for the reappointment of Risa Lavizzo-Mourey as a citizen regent of the Board of Regents of the Smithsonian Institution.",
+ "enacted": "2020-03-02",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Sen. Perdue, David [R-GA]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116sjres67enr/xml/BILLS-116sjres67enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116sjres67rfh/xml/BILLS-116sjres67rfh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116sjres67es/xml/BILLS-116sjres67es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116sjres67cps/xml/BILLS-116sjres67cps.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ119/uslm/PLAW-116publ119.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/senate-joint-resolution/67",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

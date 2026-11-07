@@ -1,0 +1,43 @@
+{
+ "id": "pl-116-124",
+ "congress": 116,
+ "public_law": "116-124",
+ "bill": "HR 4998",
+ "title": "Secure and Trusted Communications Networks Act of 2019",
+ "enacted": "2020-03-12",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Science, Technology, Communications",
+ "sponsor": "Rep. Pallone, Frank, Jr. [D-NJ-6]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr4998enr/xml/BILLS-116hr4998enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr4998rds/xml/BILLS-116hr4998rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr4998rh/xml/BILLS-116hr4998rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr4998eh/xml/BILLS-116hr4998eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr4998ih/xml/BILLS-116hr4998ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ124/uslm/PLAW-116publ124.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/4998",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,40 @@
+{
+ "id": "pl-115-389",
+ "congress": 115,
+ "public_law": "115-389",
+ "bill": "HR 7243",
+ "title": "To amend Public Law 115-217 to change the address of the postal facility designated by such Public Law in honor of Sergeant First Class Alwyn Crendall Cashe, and for other purposes.",
+ "enacted": "2018-12-21",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Murphy, Stephanie N. [D-FL-7]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr7243enr/xml/BILLS-115hr7243enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr7243rds/xml/BILLS-115hr7243rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr7243eh/xml/BILLS-115hr7243eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr7243ih/xml/BILLS-115hr7243ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ389/uslm/PLAW-115publ389.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/7243",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

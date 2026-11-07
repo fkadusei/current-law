@@ -1,0 +1,40 @@
+{
+ "id": "pl-113-15",
+ "congress": 113,
+ "public_law": "113-15",
+ "bill": "HR 475",
+ "title": "To amend the Internal Revenue Code of 1986 to include vaccines against seasonal influenza within the definition of taxable vaccines.",
+ "enacted": "2013-06-25",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Taxation",
+ "sponsor": "Rep. Gerlach, Jim [R-PA-6]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr475enr/xml/BILLS-113hr475enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr475rds/xml/BILLS-113hr475rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr475eh/xml/BILLS-113hr475eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr475ih/xml/BILLS-113hr475ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-113publ15/uslm/PLAW-113publ15.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/113th-congress/house-bill/475",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

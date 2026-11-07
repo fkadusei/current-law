@@ -1,0 +1,40 @@
+{
+ "id": "pl-115-248",
+ "congress": 115,
+ "public_law": "115-248",
+ "bill": "S 97",
+ "title": "Nuclear Energy Innovation Capabilities Act of 2017",
+ "enacted": "2018-09-28",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Energy",
+ "sponsor": "Sen. Crapo, Mike [R-ID]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s97enr/xml/BILLS-115s97enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s97es/xml/BILLS-115s97es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s97rs/xml/BILLS-115s97rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s97is/xml/BILLS-115s97is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ248/uslm/PLAW-115publ248.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/97",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,40 @@
+{
+ "id": "pl-116-16",
+ "congress": 116,
+ "public_law": "116-16",
+ "bill": "HR 1839",
+ "title": "Medicaid Services Investment and Accountability Act of 2019",
+ "enacted": "2019-04-18",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Health",
+ "sponsor": "Rep. Ruiz, Raul [D-CA-36]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1839enr/xml/BILLS-116hr1839enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1839rds/xml/BILLS-116hr1839rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1839eh/xml/BILLS-116hr1839eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1839ih/xml/BILLS-116hr1839ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ16/uslm/PLAW-116publ16.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/1839",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

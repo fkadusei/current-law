@@ -1,0 +1,40 @@
+{
+ "id": "pl-116-233",
+ "congress": 116,
+ "public_law": "116-233",
+ "bill": "HR 3847",
+ "title": "To designate the facility of the United States Postal Service located at 117 West Poythress Street in Hopewell, Virginia, as the Reverend Curtis West Harris Post Office Building.",
+ "enacted": "2020-12-21",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. McEachin, A. Donald [D-VA-4]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr3847enr/xml/BILLS-116hr3847enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr3847rfs/xml/BILLS-116hr3847rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr3847eh/xml/BILLS-116hr3847eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr3847ih/xml/BILLS-116hr3847ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ233/uslm/PLAW-116publ233.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/3847",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

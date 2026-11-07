@@ -1,0 +1,43 @@
+{
+ "id": "pl-114-43",
+ "congress": 114,
+ "public_law": "114-43",
+ "bill": "HR 1626",
+ "title": "DHS IT Duplication Reduction Act of 2015",
+ "enacted": "2015-08-06",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Hurd, Will [R-TX-23]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr1626enr/xml/BILLS-114hr1626enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr1626rfs/xml/BILLS-114hr1626rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr1626eh/xml/BILLS-114hr1626eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr1626rh/xml/BILLS-114hr1626rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr1626ih/xml/BILLS-114hr1626ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-114publ43/uslm/PLAW-114publ43.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/114th-congress/house-bill/1626",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,40 @@
+{
+ "id": "pl-113-144",
+ "congress": 113,
+ "public_law": "113-144",
+ "bill": "S 517",
+ "title": "Unlocking Consumer Choice and Wireless Competition Act",
+ "enacted": "2014-08-01",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Science, Technology, Communications",
+ "sponsor": "Sen. Leahy, Patrick J. [D-VT]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s517enr/xml/BILLS-113s517enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s517es/xml/BILLS-113s517es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s517rs/xml/BILLS-113s517rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s517is/xml/BILLS-113s517is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-113publ144/uslm/PLAW-113publ144.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/113th-congress/senate-bill/517",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,46 @@
+{
+ "id": "pl-116-116",
+ "congress": 116,
+ "public_law": "116-116",
+ "bill": "HR 504",
+ "title": "DHS Field Engagement Accountability Act",
+ "enacted": "2020-03-02",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Emergency Management",
+ "sponsor": "Rep. Bacon, Don [R-NE-2]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr504enr/xml/BILLS-116hr504enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr504eas/xml/BILLS-116hr504eas.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr504rs/xml/BILLS-116hr504rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr504rfs/xml/BILLS-116hr504rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr504eh/xml/BILLS-116hr504eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr504ih/xml/BILLS-116hr504ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ116/uslm/PLAW-116publ116.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/504",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

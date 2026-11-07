@@ -1,0 +1,43 @@
+{
+ "id": "pl-116-287",
+ "congress": 116,
+ "public_law": "116-287",
+ "bill": "HR 6435",
+ "title": "Combating Pandemic Scams Act of 2020",
+ "enacted": "2021-01-05",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Commerce",
+ "sponsor": "Rep. Carter, Earl L. \"Buddy\" [R-GA-1]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr6435enr/xml/BILLS-116hr6435enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr6435rfs/xml/BILLS-116hr6435rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr6435eh/xml/BILLS-116hr6435eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr6435rh/xml/BILLS-116hr6435rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr6435ih/xml/BILLS-116hr6435ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ287/uslm/PLAW-116publ287.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/6435",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

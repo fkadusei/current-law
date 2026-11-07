@@ -1,0 +1,43 @@
+{
+ "id": "pl-117-319",
+ "congress": 117,
+ "public_law": "117-319",
+ "bill": "S 1687",
+ "title": "Small Business Cyber Training Act of 2022",
+ "enacted": "2022-12-27",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Commerce",
+ "sponsor": "Sen. Rubio, Marco [R-FL]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s1687enr/xml/BILLS-117s1687enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s1687eah/xml/BILLS-117s1687eah.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s1687es/xml/BILLS-117s1687es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s1687rs/xml/BILLS-117s1687rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s1687is/xml/BILLS-117s1687is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ319/uslm/PLAW-117publ319.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/senate-bill/1687",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

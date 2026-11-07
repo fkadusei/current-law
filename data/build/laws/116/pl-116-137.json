@@ -1,0 +1,40 @@
+{
+ "id": "pl-116-137",
+ "congress": 116,
+ "public_law": "116-137",
+ "bill": "HR 4771",
+ "title": "VA Tele-Hearing Modernization Act",
+ "enacted": "2020-04-10",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Rep. Cunningham, Joe [D-SC-1]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr4771enr/xml/BILLS-116hr4771enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr4771rfs/xml/BILLS-116hr4771rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr4771eh/xml/BILLS-116hr4771eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr4771ih/xml/BILLS-116hr4771ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ137/uslm/PLAW-116publ137.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/4771",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

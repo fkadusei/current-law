@@ -1,0 +1,43 @@
+{
+ "id": "pl-116-111",
+ "congress": 116,
+ "public_law": "116-111",
+ "bill": "HR 434",
+ "title": "Emancipation National Historic Trail Study Act",
+ "enacted": "2020-01-27",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Public Lands and Natural Resources",
+ "sponsor": "Rep. Jackson Lee, Sheila [D-TX-18]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr434enr/xml/BILLS-116hr434enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr434rfs/xml/BILLS-116hr434rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr434eh/xml/BILLS-116hr434eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr434rh/xml/BILLS-116hr434rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr434ih/xml/BILLS-116hr434ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ111/uslm/PLAW-116publ111.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/434",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

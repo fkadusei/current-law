@@ -1,0 +1,40 @@
+{
+ "id": "pl-114-55",
+ "congress": 114,
+ "public_law": "114-55",
+ "bill": "HR 3614",
+ "title": "Airport and Airway Extension Act of 2015",
+ "enacted": "2015-09-30",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Transportation and Public Works",
+ "sponsor": "Rep. Shuster, Bill [R-PA-9]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr3614enr/xml/BILLS-114hr3614enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr3614rds/xml/BILLS-114hr3614rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr3614eh/xml/BILLS-114hr3614eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr3614ih/xml/BILLS-114hr3614ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-114publ55/uslm/PLAW-114publ55.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/114th-congress/house-bill/3614",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

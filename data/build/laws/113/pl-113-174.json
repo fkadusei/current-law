@@ -1,0 +1,40 @@
+{
+ "id": "pl-113-174",
+ "congress": 113,
+ "public_law": "113-174",
+ "bill": "HR 5134",
+ "title": "To extend the National Advisory Committee on Institutional Quality and Integrity and the Advisory Committee on Student Financial Assistance for one year.",
+ "enacted": "2014-09-26",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Education",
+ "sponsor": "Rep. Foxx, Virginia [R-NC-5]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr5134enr/xml/BILLS-113hr5134enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr5134rfs/xml/BILLS-113hr5134rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr5134eh/xml/BILLS-113hr5134eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr5134ih/xml/BILLS-113hr5134ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-113publ174/uslm/PLAW-113publ174.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/113th-congress/house-bill/5134",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

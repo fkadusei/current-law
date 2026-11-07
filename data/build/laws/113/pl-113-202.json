@@ -1,0 +1,40 @@
+{
+ "id": "pl-113-202",
+ "congress": 113,
+ "public_law": "113-202",
+ "bill": "HJRES 130",
+ "title": "Making further continuing appropriations for fiscal year 2015, and for other purposes.",
+ "enacted": "2014-12-12",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Economics and Public Finance",
+ "sponsor": "Rep. Rogers, Harold [R-KY-5]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hjres130enr/xml/BILLS-113hjres130enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hjres130eh/xml/BILLS-113hjres130eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hjres130rds/xml/BILLS-113hjres130rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hjres130ih/xml/BILLS-113hjres130ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-113publ202/uslm/PLAW-113publ202.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/113th-congress/house-joint-resolution/130",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,40 @@
+{
+ "id": "pl-115-349",
+ "congress": 115,
+ "public_law": "115-349",
+ "bill": "HR 3383",
+ "title": "To designate the flood control project in Sedgwick County, Kansas, commonly known as the Wichita-Valley Center Flood Control Project, as the \"M.S. 'Mitch' Mitchell Floodway\".",
+ "enacted": "2018-12-21",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Water Resources Development",
+ "sponsor": "Rep. Estes, Ron [R-KS-4]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr3383enr/xml/BILLS-115hr3383enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr3383rfs/xml/BILLS-115hr3383rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr3383eh/xml/BILLS-115hr3383eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr3383ih/xml/BILLS-115hr3383ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ349/uslm/PLAW-115publ349.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/3383",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,43 @@
+{
+ "id": "pl-115-214",
+ "congress": 115,
+ "public_law": "115-214",
+ "bill": "HR 4646",
+ "title": "To designate the facility of the United States Postal Service located at 1900 Corporate Drive in Birmingham, Alabama, as the \"Lance Corporal Thomas E. Rivers, Jr. Post Office Building\".",
+ "enacted": "2018-07-24",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Palmer, Gary J. [R-AL-6]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr4646enr/xml/BILLS-115hr4646enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr4646rs/xml/BILLS-115hr4646rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr4646rfs/xml/BILLS-115hr4646rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr4646eh/xml/BILLS-115hr4646eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr4646ih/xml/BILLS-115hr4646ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ214/uslm/PLAW-115publ214.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/4646",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

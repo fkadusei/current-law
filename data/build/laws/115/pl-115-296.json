@@ -1,0 +1,43 @@
+{
+ "id": "pl-115-296",
+ "congress": 115,
+ "public_law": "115-296",
+ "bill": "HR 5935",
+ "title": "To designate the facility of the United States Postal Service located at 1355 North Meridian Road in Harristown, Illinois, as the \"Logan S. Palmer Post Office\".",
+ "enacted": "2018-12-06",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Davis, Rodney [R-IL-13]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr5935enr/xml/BILLS-115hr5935enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr5935rs/xml/BILLS-115hr5935rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr5935rfs/xml/BILLS-115hr5935rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr5935eh/xml/BILLS-115hr5935eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr5935ih/xml/BILLS-115hr5935ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ296/uslm/PLAW-115publ296.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/5935",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

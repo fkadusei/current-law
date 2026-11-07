@@ -1,0 +1,40 @@
+{
+ "id": "pl-116-31",
+ "congress": 116,
+ "public_law": "116-31",
+ "bill": "S 744",
+ "title": "Effective Prosecution of Possession of Biological Toxins and Agents Act of 2019",
+ "enacted": "2019-07-25",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Crime and Law Enforcement",
+ "sponsor": "Sen. Grassley, Chuck [R-IA]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s744enr/xml/BILLS-116s744enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s744rfh/xml/BILLS-116s744rfh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s744es/xml/BILLS-116s744es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s744is/xml/BILLS-116s744is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ31/uslm/PLAW-116publ31.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/senate-bill/744",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

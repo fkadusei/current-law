@@ -1,0 +1,40 @@
+{
+ "id": "pl-116-307",
+ "congress": 116,
+ "public_law": "116-307",
+ "bill": "HR 5983",
+ "title": "To designate the facility of the United States Postal Service located at 4150 Chicago Avenue in Riverside, California, as the Woodie Rucker-Hughes Post Office Building.",
+ "enacted": "2021-01-05",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Takano, Mark [D-CA-41]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr5983enr/xml/BILLS-116hr5983enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr5983rfs/xml/BILLS-116hr5983rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr5983eh/xml/BILLS-116hr5983eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr5983ih/xml/BILLS-116hr5983ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ307/uslm/PLAW-116publ307.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/5983",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

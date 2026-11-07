@@ -1,0 +1,43 @@
+{
+ "id": "pl-115-284",
+ "congress": 115,
+ "public_law": "115-284",
+ "bill": "HR 1209",
+ "title": "To designate the facility of the United States Postal Service located at 901 N. Francisco Avenue, Mission, Texas, as the \"Mission Veterans Post Office Building\".",
+ "enacted": "2018-12-06",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Cuellar, Henry [D-TX-28]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1209enr/xml/BILLS-115hr1209enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1209rs/xml/BILLS-115hr1209rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1209rfs/xml/BILLS-115hr1209rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1209eh/xml/BILLS-115hr1209eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1209ih/xml/BILLS-115hr1209ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ284/uslm/PLAW-115publ284.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/1209",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

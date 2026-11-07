@@ -1,0 +1,40 @@
+{
+ "id": "pl-115-256",
+ "congress": 115,
+ "public_law": "115-256",
+ "bill": "HR 2259",
+ "title": "Sam Farr and Nick Castle Peace Corps Reform Act of 2018",
+ "enacted": "2018-10-09",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "International Affairs",
+ "sponsor": "Rep. Poe, Ted [R-TX-2]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr2259enr/xml/BILLS-115hr2259enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr2259pcs/xml/BILLS-115hr2259pcs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr2259eh/xml/BILLS-115hr2259eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr2259ih/xml/BILLS-115hr2259ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ256/uslm/PLAW-115publ256.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/2259",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,43 @@
+{
+ "id": "pl-116-177",
+ "congress": 116,
+ "public_law": "116-177",
+ "bill": "HR 2372",
+ "title": "Veterans' Care Quality Transparency Act",
+ "enacted": "2020-10-20",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Rep. Underwood, Lauren [D-IL-14]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr2372enr/xml/BILLS-116hr2372enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr2372rds/xml/BILLS-116hr2372rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr2372eh/xml/BILLS-116hr2372eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr2372rh/xml/BILLS-116hr2372rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr2372ih/xml/BILLS-116hr2372ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ177/uslm/PLAW-116publ177.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/2372",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,37 @@
+{
+ "id": "pl-117-351",
+ "congress": 117,
+ "public_law": "117-351",
+ "bill": "S 4240",
+ "title": "Justice for Victims of War Crimes Act",
+ "enacted": "2023-01-05",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Crime and Law Enforcement",
+ "sponsor": "Sen. Grassley, Chuck [R-IA]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s4240enr/xml/BILLS-117s4240enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s4240es/xml/BILLS-117s4240es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s4240is/xml/BILLS-117s4240is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ351/uslm/PLAW-117publ351.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/senate-bill/4240",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

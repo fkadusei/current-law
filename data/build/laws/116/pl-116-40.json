@@ -1,0 +1,43 @@
+{
+ "id": "pl-116-40",
+ "congress": 116,
+ "public_law": "116-40",
+ "bill": "HR 1569",
+ "title": "To amend title 28, United States Code, to add Flagstaff and Yuma to the list of locations in which court shall be held in the judicial district for the State of Arizona.",
+ "enacted": "2019-08-09",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Law",
+ "sponsor": "Rep. O'Halleran, Tom [D-AZ-1]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1569enr/xml/BILLS-116hr1569enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1569rds/xml/BILLS-116hr1569rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1569eh/xml/BILLS-116hr1569eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1569rh/xml/BILLS-116hr1569rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1569ih/xml/BILLS-116hr1569ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ40/uslm/PLAW-116publ40.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/1569",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

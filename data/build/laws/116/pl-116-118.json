@@ -1,0 +1,40 @@
+{
+ "id": "pl-116-118",
+ "congress": 116,
+ "public_law": "116-118",
+ "bill": "SJRES 65",
+ "title": "A joint resolution providing for the reappointment of John Fahey as a citizen regent of the Board of Regents of the Smithsonian Institution.",
+ "enacted": "2020-03-02",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Sen. Boozman, John [R-AR]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116sjres65enr/xml/BILLS-116sjres65enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116sjres65rfh/xml/BILLS-116sjres65rfh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116sjres65es/xml/BILLS-116sjres65es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116sjres65cps/xml/BILLS-116sjres65cps.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ118/uslm/PLAW-116publ118.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/senate-joint-resolution/65",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

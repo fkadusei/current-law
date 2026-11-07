@@ -1,0 +1,43 @@
+{
+ "id": "pl-116-48",
+ "congress": 116,
+ "public_law": "116-48",
+ "bill": "HR 639",
+ "title": "To amend section 327 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act to clarify that National Urban Search and Rescue Response System task forces may include Federal employees.",
+ "enacted": "2019-08-22",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Emergency Management",
+ "sponsor": "Rep. Hartzler, Vicky [R-MO-4]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr639enr/xml/BILLS-116hr639enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr639rfs/xml/BILLS-116hr639rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr639eh/xml/BILLS-116hr639eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr639rh/xml/BILLS-116hr639rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr639ih/xml/BILLS-116hr639ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ48/uslm/PLAW-116publ48.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/639",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

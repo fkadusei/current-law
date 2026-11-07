@@ -1,0 +1,40 @@
+{
+ "id": "pl-113-56",
+ "congress": 113,
+ "public_law": "113-56",
+ "bill": "S 1545",
+ "title": "PEPFAR Stewardship and Oversight Act of 2013",
+ "enacted": "2013-12-02",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "International Affairs",
+ "sponsor": "Sen. Menendez, Robert [D-NJ]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s1545enr/xml/BILLS-113s1545enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s1545es/xml/BILLS-113s1545es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s1545rs/xml/BILLS-113s1545rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s1545is/xml/BILLS-113s1545is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-113publ56/uslm/PLAW-113publ56.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/113th-congress/senate-bill/1545",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

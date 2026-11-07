@@ -1,0 +1,40 @@
+{
+ "id": "pl-117-20",
+ "congress": 117,
+ "public_law": "117-20",
+ "bill": "HR 49",
+ "title": "To designate the National Pulse Memorial located at 1912 South Orange Avenue, Orlando, Florida, 32806, and for other purposes.",
+ "enacted": "2021-06-25",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Arts, Culture, Religion",
+ "sponsor": "Rep. Soto, Darren [D-FL-9]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr49enr/xml/BILLS-117hr49enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr49rfs/xml/BILLS-117hr49rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr49eh/xml/BILLS-117hr49eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr49ih/xml/BILLS-117hr49ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ20/xml/PLAW-117publ20.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/house-bill/49",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

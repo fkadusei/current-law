@@ -1,0 +1,40 @@
+{
+ "id": "pl-115-317",
+ "congress": 115,
+ "public_law": "115-317",
+ "bill": "HR 5238",
+ "title": "To designate the facility of the United States Postal Service located at 1234 Saint Johns Place in Brooklyn, New York, as the \"Major Robert Odell Owens Post Office\".",
+ "enacted": "2018-12-14",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Clarke, Yvette D. [D-NY-9]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr5238enr/xml/BILLS-115hr5238enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr5238rfs/xml/BILLS-115hr5238rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr5238eh/xml/BILLS-115hr5238eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr5238ih/xml/BILLS-115hr5238ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ317/uslm/PLAW-115publ317.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/5238",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

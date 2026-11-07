@@ -1,0 +1,46 @@
+{
+ "id": "pl-115-412",
+ "congress": 115,
+ "public_law": "115-412",
+ "bill": "HR 3460",
+ "title": "To designate the United States courthouse located at 323 East Chapel Hill Street in Durham, North Carolina, as the \"John Hervey Wheeler United States Courthouse\".",
+ "enacted": "2019-01-03",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Butterfield, G. K. [D-NC-1]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr3460enr/xml/BILLS-115hr3460enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr3460rcs/xml/BILLS-115hr3460rcs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr3460rfs/xml/BILLS-115hr3460rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr3460eh/xml/BILLS-115hr3460eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr3460rh/xml/BILLS-115hr3460rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr3460ih/xml/BILLS-115hr3460ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ412/uslm/PLAW-115publ412.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/3460",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

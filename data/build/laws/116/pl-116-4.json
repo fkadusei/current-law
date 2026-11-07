@@ -1,0 +1,40 @@
+{
+ "id": "pl-116-4",
+ "congress": 116,
+ "public_law": "116-4",
+ "bill": "HR 430",
+ "title": "TANF Extension Act of 2019",
+ "enacted": "2019-01-24",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Social Welfare",
+ "sponsor": "Rep. Neal, Richard E. [D-MA-1]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr430enr/xml/BILLS-116hr430enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr430rds/xml/BILLS-116hr430rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr430eh/xml/BILLS-116hr430eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr430ih/xml/BILLS-116hr430ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ4/uslm/PLAW-116publ4.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/430",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

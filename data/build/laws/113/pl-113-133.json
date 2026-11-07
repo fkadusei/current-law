@@ -1,0 +1,43 @@
+{
+ "id": "pl-113-133",
+ "congress": 113,
+ "public_law": "113-133",
+ "bill": "HR 356",
+ "title": "Hill Creek Cultural Preservation and Energy Development Act",
+ "enacted": "2014-07-25",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Native Americans",
+ "sponsor": "Rep. Bishop, Rob [R-UT-1]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr356enr/xml/BILLS-113hr356enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr356rfs/xml/BILLS-113hr356rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr356eh/xml/BILLS-113hr356eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr356rh/xml/BILLS-113hr356rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr356ih/xml/BILLS-113hr356ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-113publ133/uslm/PLAW-113publ133.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/113th-congress/house-bill/356",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

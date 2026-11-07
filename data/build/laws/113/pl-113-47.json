@@ -1,0 +1,40 @@
+{
+ "id": "pl-113-47",
+ "congress": 113,
+ "public_law": "113-47",
+ "bill": "HR 3190",
+ "title": "United States Parole Commission Extension Act of 2013",
+ "enacted": "2013-10-31",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Crime and Law Enforcement",
+ "sponsor": "Rep. Chabot, Steve [R-OH-1]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr3190enr/xml/BILLS-113hr3190enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr3190rds/xml/BILLS-113hr3190rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr3190eh/xml/BILLS-113hr3190eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr3190ih/xml/BILLS-113hr3190ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-113publ47/uslm/PLAW-113publ47.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/113th-congress/house-bill/3190",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

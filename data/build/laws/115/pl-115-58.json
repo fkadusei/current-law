@@ -1,0 +1,37 @@
+{
+ "id": "pl-115-58",
+ "congress": 115,
+ "public_law": "115-58",
+ "bill": "SJRES 49",
+ "title": "A joint resolution condemning the violence and domestic terrorist attack that took place during events between August 11 and August 12, 2017, in Charlottesville, Virginia, recognizing the first responders who lost their lives while monitoring the events, offering deepest condolences to the families and friends of those individuals who were killed and deepest sympathies and support to those individuals who were injured by the violence, expressing support for the Charlottesville community, rejecting White nationalists, White supremacists, the Ku Klux Klan, neo-Nazis, and other hate groups, and urging the President and the President's Cabinet to use all available resources to address the threats posed by those groups.",
+ "enacted": "2017-09-14",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Civil Rights and Liberties, Minority Issues",
+ "sponsor": "Sen. Warner, Mark R. [D-VA]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115sjres49enr/xml/BILLS-115sjres49enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115sjres49es/xml/BILLS-115sjres49es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115sjres49pcs/xml/BILLS-115sjres49pcs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ58/uslm/PLAW-115publ58.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/senate-joint-resolution/49",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

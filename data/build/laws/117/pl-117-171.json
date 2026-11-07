@@ -1,0 +1,43 @@
+{
+ "id": "pl-117-171",
+ "congress": 117,
+ "public_law": "117-171",
+ "bill": "HR 5313",
+ "title": "Reese's Law",
+ "enacted": "2022-08-16",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Commerce",
+ "sponsor": "Rep. Kelly, Robin L. [D-IL-2]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr5313enr/xml/BILLS-117hr5313enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr5313rds/xml/BILLS-117hr5313rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr5313eh/xml/BILLS-117hr5313eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr5313rh/xml/BILLS-117hr5313rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr5313ih/xml/BILLS-117hr5313ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ171/uslm/PLAW-117publ171.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/house-bill/5313",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

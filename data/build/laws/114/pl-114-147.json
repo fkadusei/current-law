@@ -1,0 +1,43 @@
+{
+ "id": "pl-114-147",
+ "congress": 114,
+ "public_law": "114-147",
+ "bill": "HR 1670",
+ "title": "National POW/MIA Remembrance Act of 2015",
+ "enacted": "2016-04-29",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Congress",
+ "sponsor": "Rep. Lynch, Stephen F. [D-MA-8]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr1670enr/xml/BILLS-114hr1670enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr1670rds/xml/BILLS-114hr1670rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr1670eh/xml/BILLS-114hr1670eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr1670rh/xml/BILLS-114hr1670rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr1670ih/xml/BILLS-114hr1670ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-114publ147/uslm/PLAW-114publ147.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/114th-congress/house-bill/1670",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

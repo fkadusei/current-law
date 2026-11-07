@@ -1,0 +1,40 @@
+{
+ "id": "pl-116-219",
+ "congress": 116,
+ "public_law": "116-219",
+ "bill": "HR 5062",
+ "title": "To designate the facility of the United States Postal Service located at 9930 Conroy Windermere Road in Windermere, Florida, as the Officer Robert German Post Office Building.",
+ "enacted": "2020-12-17",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Demings, Val Butler [D-FL-10]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr5062enr/xml/BILLS-116hr5062enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr5062rfs/xml/BILLS-116hr5062rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr5062eh/xml/BILLS-116hr5062eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr5062ih/xml/BILLS-116hr5062ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ219/uslm/PLAW-116publ219.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/5062",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

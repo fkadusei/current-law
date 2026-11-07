@@ -1,0 +1,40 @@
+{
+ "id": "pl-116-265",
+ "congress": 116,
+ "public_law": "116-265",
+ "bill": "S 3461",
+ "title": "A bill to designate the facility of the United States Postal Service located at 2600 Wesley Street in Greenville, Texas, as the \"Audie Murphy Post Office Building\".",
+ "enacted": "2020-12-30",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Sen. Cornyn, John [R-TX]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s3461enr/xml/BILLS-116s3461enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s3461es/xml/BILLS-116s3461es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s3461rs/xml/BILLS-116s3461rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s3461is/xml/BILLS-116s3461is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ265/uslm/PLAW-116publ265.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/senate-bill/3461",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

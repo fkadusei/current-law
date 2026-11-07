@@ -1,0 +1,40 @@
+{
+ "id": "pl-113-29",
+ "congress": 113,
+ "public_law": "113-29",
+ "bill": "HR 2167",
+ "title": "Reverse Mortgage Stabilization Act of 2013",
+ "enacted": "2013-08-09",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Housing and Community Development",
+ "sponsor": "Rep. Heck, Denny [D-WA-10]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr2167enr/xml/BILLS-113hr2167enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr2167rfs/xml/BILLS-113hr2167rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr2167eh/xml/BILLS-113hr2167eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr2167ih/xml/BILLS-113hr2167ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-113publ29/uslm/PLAW-113publ29.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/113th-congress/house-bill/2167",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

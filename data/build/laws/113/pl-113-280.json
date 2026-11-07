@@ -1,0 +1,40 @@
+{
+ "id": "pl-113-280",
+ "congress": 113,
+ "public_law": "113-280",
+ "bill": "S 2338",
+ "title": "United States Anti-Doping Agency Reauthorization Act",
+ "enacted": "2014-12-18",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Sports and Recreation",
+ "sponsor": "Sen. Rockefeller, John D., IV [D-WV]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s2338enr/xml/BILLS-113s2338enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s2338es/xml/BILLS-113s2338es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s2338rs/xml/BILLS-113s2338rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s2338is/xml/BILLS-113s2338is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-113publ280/uslm/PLAW-113publ280.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/113th-congress/senate-bill/2338",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,43 @@
+{
+ "id": "pl-117-93",
+ "congress": 117,
+ "public_law": "117-93",
+ "bill": "HR 960",
+ "title": "To designate the facility of the United States Postal Service located at 3493 Burnet Avenue in Cincinnati, Ohio, as the John H. Leahr and Herbert M. Heilbrun Post Office.",
+ "enacted": "2022-03-11",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Wenstrup, Brad R. [R-OH-2]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr960enr/xml/BILLS-117hr960enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr960rs/xml/BILLS-117hr960rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr960rfs/xml/BILLS-117hr960rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr960eh/xml/BILLS-117hr960eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr960ih/xml/BILLS-117hr960ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ93/uslm/PLAW-117publ93.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/house-bill/960",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

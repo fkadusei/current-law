@@ -1,0 +1,40 @@
+{
+ "id": "pl-117-100",
+ "congress": 117,
+ "public_law": "117-100",
+ "bill": "S 1543",
+ "title": "STANDUP Act of 2021",
+ "enacted": "2022-03-15",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Health",
+ "sponsor": "Sen. Hassan, Margaret Wood [D-NH]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s1543enr/xml/BILLS-117s1543enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s1543es/xml/BILLS-117s1543es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s1543rs/xml/BILLS-117s1543rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s1543is/xml/BILLS-117s1543is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ100/uslm/PLAW-117publ100.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/senate-bill/1543",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

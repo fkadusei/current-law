@@ -1,0 +1,40 @@
+{
+ "id": "pl-116-317",
+ "congress": 116,
+ "public_law": "116-317",
+ "bill": "HR 7347",
+ "title": "To designate the medical center of the Department of Veterans Affairs in Ann Arbor, Michigan, as the Lieutenant Colonel Charles S. Kettles Department of Veterans Affairs Medical Center.",
+ "enacted": "2021-01-05",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Rep. Dingell, Debbie [D-MI-12]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr7347enr/xml/BILLS-116hr7347enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr7347rfs/xml/BILLS-116hr7347rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr7347eh/xml/BILLS-116hr7347eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr7347ih/xml/BILLS-116hr7347ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ317/uslm/PLAW-116publ317.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/7347",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

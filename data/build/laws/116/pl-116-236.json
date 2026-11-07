@@ -1,0 +1,40 @@
+{
+ "id": "pl-116-236",
+ "congress": 116,
+ "public_law": "116-236",
+ "bill": "HR 4200",
+ "title": "To designate the facility of the United States Postal Service located at 321 South 1st Street in Montrose, Colorado, as the Sergeant David Kinterknecht Post Office.",
+ "enacted": "2020-12-21",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Tipton, Scott  R. [R-CO-3]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr4200enr/xml/BILLS-116hr4200enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr4200rfs/xml/BILLS-116hr4200rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr4200eh/xml/BILLS-116hr4200eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr4200ih/xml/BILLS-116hr4200ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ236/uslm/PLAW-116publ236.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/4200",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

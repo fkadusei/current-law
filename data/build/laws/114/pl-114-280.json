@@ -1,0 +1,40 @@
+{
+ "id": "pl-114-280",
+ "congress": 114,
+ "public_law": "114-280",
+ "bill": "HR 960",
+ "title": "To designate the Department of Veterans Affairs community-based outpatient clinic in Newark, Ohio, as the Daniel L. Kinnard VA Clinic.",
+ "enacted": "2016-12-16",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Rep. Tiberi, Patrick J. [R-OH-12]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr960enr/xml/BILLS-114hr960enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr960rfs/xml/BILLS-114hr960rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr960eh/xml/BILLS-114hr960eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr960ih/xml/BILLS-114hr960ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-114publ280/uslm/PLAW-114publ280.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/114th-congress/house-bill/960",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

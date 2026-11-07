@@ -1,0 +1,40 @@
+{
+ "id": "pl-116-41",
+ "congress": 116,
+ "public_law": "116-41",
+ "bill": "HR 2695",
+ "title": "To rename the Success Dam in Tulare County, California, as the Richard L. Schafer Dam.",
+ "enacted": "2019-08-09",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Water Resources Development",
+ "sponsor": "Rep. McCarthy, Kevin [R-CA-23]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr2695enr/xml/BILLS-116hr2695enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr2695rfs/xml/BILLS-116hr2695rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr2695eh/xml/BILLS-116hr2695eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr2695ih/xml/BILLS-116hr2695ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ41/uslm/PLAW-116publ41.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/2695",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

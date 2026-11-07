@@ -1,0 +1,40 @@
+{
+ "id": "pl-114-30",
+ "congress": 114,
+ "public_law": "114-30",
+ "bill": "HR 893",
+ "title": "Boys Town Centennial Commemorative Coin Act",
+ "enacted": "2015-07-06",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Finance and Financial Sector",
+ "sponsor": "Rep. Fortenberry, Jeff [R-NE-1]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr893enr/xml/BILLS-114hr893enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr893rds/xml/BILLS-114hr893rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr893eh/xml/BILLS-114hr893eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr893ih/xml/BILLS-114hr893ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-114publ30/uslm/PLAW-114publ30.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/114th-congress/house-bill/893",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

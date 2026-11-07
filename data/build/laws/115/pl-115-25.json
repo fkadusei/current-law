@@ -1,0 +1,43 @@
+{
+ "id": "pl-115-25",
+ "congress": 115,
+ "public_law": "115-25",
+ "bill": "HR 353",
+ "title": "Weather Research and Forecasting Innovation Act of 2017",
+ "enacted": "2017-04-18",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Science, Technology, Communications",
+ "sponsor": "Rep. Lucas, Frank D. [R-OK-3]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr353enr/xml/BILLS-115hr353enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr353eas/xml/BILLS-115hr353eas.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr353rds/xml/BILLS-115hr353rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr353eh/xml/BILLS-115hr353eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr353ih/xml/BILLS-115hr353ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ25/uslm/PLAW-115publ25.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/353",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

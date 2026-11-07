@@ -1,0 +1,43 @@
+{
+ "id": "pl-115-295",
+ "congress": 115,
+ "public_law": "115-295",
+ "bill": "HR 5868",
+ "title": "To designate the facility of the United States Postal Service located at 530 Claremont Avenue in Ashland, Ohio, as the \"Bill Harris Post Office\".",
+ "enacted": "2018-12-06",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Gibbs, Bob [R-OH-7]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr5868enr/xml/BILLS-115hr5868enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr5868rs/xml/BILLS-115hr5868rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr5868rfs/xml/BILLS-115hr5868rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr5868eh/xml/BILLS-115hr5868eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr5868ih/xml/BILLS-115hr5868ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ295/uslm/PLAW-115publ295.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/5868",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

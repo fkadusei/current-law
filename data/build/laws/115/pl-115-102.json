@@ -1,0 +1,43 @@
+{
+ "id": "pl-115-102",
+ "congress": 115,
+ "public_law": "115-102",
+ "bill": "HR 1242",
+ "title": "400 Years of African-American History Commission Act",
+ "enacted": "2018-01-08",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Civil Rights and Liberties, Minority Issues",
+ "sponsor": "Rep. Scott, Robert C. \"Bobby\" [D-VA-3]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1242enr/xml/BILLS-115hr1242enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1242rds/xml/BILLS-115hr1242rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1242rh/xml/BILLS-115hr1242rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1242eh/xml/BILLS-115hr1242eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1242ih/xml/BILLS-115hr1242ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ102/uslm/PLAW-115publ102.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/1242",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

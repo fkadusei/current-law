@@ -1,0 +1,40 @@
+{
+ "id": "pl-115-98",
+ "congress": 115,
+ "public_law": "115-98",
+ "bill": "HR 4661",
+ "title": "United States Fire Administration, AFG, and SAFER Program Reauthorization Act of 2017",
+ "enacted": "2018-01-03",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Emergency Management",
+ "sponsor": "Rep. Comstock, Barbara [R-VA-10]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr4661enr/xml/BILLS-115hr4661enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr4661rds/xml/BILLS-115hr4661rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr4661eh/xml/BILLS-115hr4661eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr4661ih/xml/BILLS-115hr4661ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ98/uslm/PLAW-115publ98.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/4661",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

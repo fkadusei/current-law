@@ -1,0 +1,40 @@
+{
+ "id": "pl-114-56",
+ "congress": 114,
+ "public_law": "114-56",
+ "bill": "S 230",
+ "title": "A bill to provide for the conveyance of certain property to the Yukon Kuskokwim Health Corporation located in Bethel, Alaska.",
+ "enacted": "2015-09-30",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Public Lands and Natural Resources",
+ "sponsor": "Sen. Murkowski, Lisa [R-AK]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s230enr/xml/BILLS-114s230enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s230es/xml/BILLS-114s230es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s230rs/xml/BILLS-114s230rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s230is/xml/BILLS-114s230is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-114publ56/uslm/PLAW-114publ56.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/114th-congress/senate-bill/230",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

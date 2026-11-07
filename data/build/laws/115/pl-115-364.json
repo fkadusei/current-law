@@ -1,0 +1,40 @@
+{
+ "id": "pl-115-364",
+ "congress": 115,
+ "public_law": "115-364",
+ "bill": "HR 6160",
+ "title": "To amend title 5, United States Code, to clarify the sources of the authority to issue regulations regarding certifications and other criteria applicable to legislative branch employees under Wounded Warriors Federal Leave Act.",
+ "enacted": "2018-12-21",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Harper, Gregg [R-MS-3]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr6160enr/xml/BILLS-115hr6160enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr6160eh/xml/BILLS-115hr6160eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr6160rfs/xml/BILLS-115hr6160rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr6160ih/xml/BILLS-115hr6160ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ364/uslm/PLAW-115publ364.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/6160",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

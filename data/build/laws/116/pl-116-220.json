@@ -1,0 +1,40 @@
+{
+ "id": "pl-116-220",
+ "congress": 116,
+ "public_law": "116-220",
+ "bill": "HR 5307",
+ "title": "To designate the facility of the United States Postal Service located at 115 Nicol Avenue in Thomasville, Alabama, as the \"Postmaster Robert Ingram Post Office\".",
+ "enacted": "2020-12-17",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Sewell, Terri A. [D-AL-7]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr5307enr/xml/BILLS-116hr5307enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr5307rfs/xml/BILLS-116hr5307rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr5307eh/xml/BILLS-116hr5307eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr5307ih/xml/BILLS-116hr5307ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ220/uslm/PLAW-116publ220.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/5307",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

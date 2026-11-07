@@ -1,0 +1,49 @@
+{
+ "id": "pl-114-54",
+ "congress": 114,
+ "public_law": "114-54",
+ "bill": "HR 2051",
+ "title": "Agriculture Reauthorizations Act of 2015",
+ "enacted": "2015-09-30",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Agriculture and Food",
+ "sponsor": "Rep. Conaway, K. Michael [R-TX-11]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr2051enr/xml/BILLS-114hr2051enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr2051eas/xml/BILLS-114hr2051eas.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr2051rs/xml/BILLS-114hr2051rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr2051rfs/xml/BILLS-114hr2051rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr2051eh/xml/BILLS-114hr2051eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr2051rh/xml/BILLS-114hr2051rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr2051ih/xml/BILLS-114hr2051ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-114publ54/uslm/PLAW-114publ54.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/114th-congress/house-bill/2051",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

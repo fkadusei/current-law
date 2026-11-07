@@ -1,0 +1,43 @@
+{
+ "id": "pl-116-329",
+ "congress": 116,
+ "public_law": "116-329",
+ "bill": "HR 1492",
+ "title": "Yucca House National Monument Expansion Act",
+ "enacted": "2021-01-13",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Public Lands and Natural Resources",
+ "sponsor": "Rep. Tipton, Scott  R. [R-CO-3]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1492enr/xml/BILLS-116hr1492enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1492pcs/xml/BILLS-116hr1492pcs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1492eh/xml/BILLS-116hr1492eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1492rh/xml/BILLS-116hr1492rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1492ih/xml/BILLS-116hr1492ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ329/uslm/PLAW-116publ329.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/1492",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

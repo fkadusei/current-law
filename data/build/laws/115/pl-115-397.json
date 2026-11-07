@@ -1,0 +1,37 @@
+{
+ "id": "pl-115-397",
+ "congress": 115,
+ "public_law": "115-397",
+ "bill": "S 3749",
+ "title": "Congressional Accountability Act of 1995 Reform Act",
+ "enacted": "2018-12-21",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Congress",
+ "sponsor": "Sen. Klobuchar, Amy [D-MN]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s3749enr/xml/BILLS-115s3749enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s3749cps/xml/BILLS-115s3749cps.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s3749es/xml/BILLS-115s3749es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ397/uslm/PLAW-115publ397.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/3749",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

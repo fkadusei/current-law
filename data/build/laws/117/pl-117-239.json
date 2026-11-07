@@ -1,0 +1,40 @@
+{
+ "id": "pl-117-239",
+ "congress": 117,
+ "public_law": "117-239",
+ "bill": "S 3825",
+ "title": "A bill to designate the facility of the United States Postal Service located at 3903 Melear Drive in Arlington, Texas, as the \"Ron Wright Post Office Building\".",
+ "enacted": "2022-12-20",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Sen. Cornyn, John [R-TX]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s3825enr/xml/BILLS-117s3825enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s3825es/xml/BILLS-117s3825es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s3825rs/xml/BILLS-117s3825rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s3825is/xml/BILLS-117s3825is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ239/uslm/PLAW-117publ239.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/senate-bill/3825",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,40 @@
+{
+ "id": "pl-117-38",
+ "congress": 117,
+ "public_law": "117-38",
+ "bill": "HR 3642",
+ "title": "Harlem Hellfighters Congressional Gold Medal Act",
+ "enacted": "2021-08-25",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Rep. Suozzi, Thomas R. [D-NY-3]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr3642enr/xml/BILLS-117hr3642enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr3642rfs/xml/BILLS-117hr3642rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr3642eh/xml/BILLS-117hr3642eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr3642ih/xml/BILLS-117hr3642ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ38/uslm/PLAW-117publ38.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/house-bill/3642",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

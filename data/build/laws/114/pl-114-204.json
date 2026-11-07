@@ -1,0 +1,40 @@
+{
+ "id": "pl-114-204",
+ "congress": 114,
+ "public_law": "114-204",
+ "bill": "HR 4010",
+ "title": "To designate the facility of the United States Postal Service located at 522 North Central Avenue in Phoenix, Arizona, as the \"Ed Pastor Post Office\".",
+ "enacted": "2016-07-29",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Gallego, Ruben [D-AZ-7]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr4010enr/xml/BILLS-114hr4010enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr4010rfs/xml/BILLS-114hr4010rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr4010eh/xml/BILLS-114hr4010eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr4010ih/xml/BILLS-114hr4010ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-114publ204/uslm/PLAW-114publ204.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/114th-congress/house-bill/4010",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

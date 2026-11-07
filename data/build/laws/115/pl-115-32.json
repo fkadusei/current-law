@@ -1,0 +1,46 @@
+{
+ "id": "pl-115-32",
+ "congress": 115,
+ "public_law": "115-32",
+ "bill": "HR 534",
+ "title": "U.S. Wants to Compete for a World Expo Act",
+ "enacted": "2017-05-08",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "International Affairs",
+ "sponsor": "Rep. Emmer, Tom [R-MN-6]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr534enr/xml/BILLS-115hr534enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr534eas/xml/BILLS-115hr534eas.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr534rs/xml/BILLS-115hr534rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr534rfs/xml/BILLS-115hr534rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr534eh/xml/BILLS-115hr534eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr534ih/xml/BILLS-115hr534ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ32/uslm/PLAW-115publ32.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/534",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

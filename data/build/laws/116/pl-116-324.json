@@ -1,0 +1,40 @@
+{
+ "id": "pl-116-324",
+ "congress": 116,
+ "public_law": "116-324",
+ "bill": "HR 8906",
+ "title": "Lifespan Respite Care Reauthorization Act of 2020",
+ "enacted": "2021-01-05",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Health",
+ "sponsor": "Rep. Langevin, James R. [D-RI-2]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr8906enr/xml/BILLS-116hr8906enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr8906rds/xml/BILLS-116hr8906rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr8906eh/xml/BILLS-116hr8906eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr8906ih/xml/BILLS-116hr8906ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ324/uslm/PLAW-116publ324.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/8906",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

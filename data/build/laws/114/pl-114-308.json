@@ -1,0 +1,40 @@
+{
+ "id": "pl-114-308",
+ "congress": 114,
+ "public_law": "114-308",
+ "bill": "HR 6130",
+ "title": "Holocaust Expropriated Art Recovery Act of 2016",
+ "enacted": "2016-12-16",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Law",
+ "sponsor": "Rep. Goodlatte, Bob [R-VA-6]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr6130enr/xml/BILLS-114hr6130enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr6130rds/xml/BILLS-114hr6130rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr6130eh/xml/BILLS-114hr6130eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr6130ih/xml/BILLS-114hr6130ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-114publ308/uslm/PLAW-114publ308.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/114th-congress/house-bill/6130",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

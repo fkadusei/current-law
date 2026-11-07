@@ -1,0 +1,43 @@
+{
+ "id": "pl-115-51",
+ "congress": 115,
+ "public_law": "115-51",
+ "bill": "HR 873",
+ "title": "Global War on Terrorism War Memorial Act",
+ "enacted": "2017-08-18",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Public Lands and Natural Resources",
+ "sponsor": "Rep. Gallagher, Mike [R-WI-8]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr873enr/xml/BILLS-115hr873enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr873rds/xml/BILLS-115hr873rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr873rh/xml/BILLS-115hr873rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr873eh/xml/BILLS-115hr873eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr873ih/xml/BILLS-115hr873ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ51/uslm/PLAW-115publ51.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/873",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

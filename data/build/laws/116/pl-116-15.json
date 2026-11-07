@@ -1,0 +1,40 @@
+{
+ "id": "pl-116-15",
+ "congress": 116,
+ "public_law": "116-15",
+ "bill": "S 725",
+ "title": "A bill to change the address of the postal facility designated in honor of Captain Humayun Khan.",
+ "enacted": "2019-04-16",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Sen. Kaine, Tim [D-VA]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s725enr/xml/BILLS-116s725enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s725rfh/xml/BILLS-116s725rfh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s725es/xml/BILLS-116s725es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s725cps/xml/BILLS-116s725cps.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ15/uslm/PLAW-116publ15.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/senate-bill/725",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

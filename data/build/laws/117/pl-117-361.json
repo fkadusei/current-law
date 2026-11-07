@@ -1,0 +1,37 @@
+{
+ "id": "pl-117-361",
+ "congress": 117,
+ "public_law": "117-361",
+ "bill": "S 5328",
+ "title": "A bill to amend the Farm Security and Rural Investment Act of 2002 to extend terminal lakes assistance.",
+ "enacted": "2023-01-05",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Agriculture and Food",
+ "sponsor": "Sen. Cortez Masto, Catherine [D-NV]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s5328enr/xml/BILLS-117s5328enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s5328es/xml/BILLS-117s5328es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s5328cps/xml/BILLS-117s5328cps.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ361/uslm/PLAW-117publ361.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/senate-bill/5328",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

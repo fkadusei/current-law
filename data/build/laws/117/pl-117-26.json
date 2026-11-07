@@ -1,0 +1,37 @@
+{
+ "id": "pl-117-26",
+ "congress": 117,
+ "public_law": "117-26",
+ "bill": "S 1340",
+ "title": "A bill to amend title 28, United States Code, to redefine the eastern and middle judicial districts of North Carolina.",
+ "enacted": "2021-07-06",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Law",
+ "sponsor": "Sen. Tillis, Thomas [R-NC]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s1340enr/xml/BILLS-117s1340enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s1340es/xml/BILLS-117s1340es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s1340is/xml/BILLS-117s1340is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ26/xml/PLAW-117publ26.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/senate-bill/1340",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

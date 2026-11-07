@@ -1,0 +1,40 @@
+{
+ "id": "pl-117-238",
+ "congress": 117,
+ "public_law": "117-238",
+ "bill": "HR 7925",
+ "title": "To designate the Department of Veterans Affairs community-based outpatient clinic located in Palm Desert, California, as the \"Sy Kaplan VA Clinic\".",
+ "enacted": "2022-12-20",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Rep. Ruiz, Raul [D-CA-36]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr7925enr/xml/BILLS-117hr7925enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr7925rfs/xml/BILLS-117hr7925rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr7925eh/xml/BILLS-117hr7925eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr7925ih/xml/BILLS-117hr7925ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ238/uslm/PLAW-117publ238.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/house-bill/7925",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

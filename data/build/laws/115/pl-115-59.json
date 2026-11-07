@@ -1,0 +1,43 @@
+{
+ "id": "pl-115-59",
+ "congress": 115,
+ "public_law": "115-59",
+ "bill": "HR 624",
+ "title": "Social Security Number Fraud Prevention Act of 2017",
+ "enacted": "2017-09-15",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Valadao, David G. [R-CA-21]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr624enr/xml/BILLS-115hr624enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr624pcs/xml/BILLS-115hr624pcs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr624eh/xml/BILLS-115hr624eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr624rh/xml/BILLS-115hr624rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr624ih/xml/BILLS-115hr624ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ59/uslm/PLAW-115publ59.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/624",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

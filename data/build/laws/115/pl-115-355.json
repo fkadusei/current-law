@@ -1,0 +1,40 @@
+{
+ "id": "pl-115-355",
+ "congress": 115,
+ "public_law": "115-355",
+ "bill": "HR 5395",
+ "title": "To designate the facility of the United States Postal Service located at 116 Main Street in Dansville, New York, as the \"Staff Sergeant Alexandria Gleason-Morrow Post Office Building\".",
+ "enacted": "2018-12-21",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Collins, Chris [R-NY-27]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr5395enr/xml/BILLS-115hr5395enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr5395rds/xml/BILLS-115hr5395rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr5395eh/xml/BILLS-115hr5395eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr5395ih/xml/BILLS-115hr5395ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ355/uslm/PLAW-115publ355.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/5395",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

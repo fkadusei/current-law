@@ -1,0 +1,43 @@
+{
+ "id": "pl-117-18",
+ "congress": 117,
+ "public_law": "117-18",
+ "bill": "HR 711",
+ "title": "West Los Angeles VA Campus Improvement Act of 2021",
+ "enacted": "2021-06-23",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Rep. Lieu, Ted [D-CA-33]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr711enr/xml/BILLS-117hr711enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr711eas/xml/BILLS-117hr711eas.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr711rfs/xml/BILLS-117hr711rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr711eh/xml/BILLS-117hr711eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr711ih/xml/BILLS-117hr711ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ18/xml/PLAW-117publ18.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/house-bill/711",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

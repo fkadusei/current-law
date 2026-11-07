@@ -1,0 +1,37 @@
+{
+ "id": "pl-116-191",
+ "congress": 116,
+ "public_law": "116-191",
+ "bill": "S 3758",
+ "title": "A bill to amend the Klamath Basin Water Supply Enhancement Act of 2000 to make certain technical corrections.",
+ "enacted": "2020-10-30",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Water Resources Development",
+ "sponsor": "Sen. Merkley, Jeff [D-OR]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s3758enr/xml/BILLS-116s3758enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s3758es/xml/BILLS-116s3758es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s3758is/xml/BILLS-116s3758is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ191/uslm/PLAW-116publ191.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/senate-bill/3758",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

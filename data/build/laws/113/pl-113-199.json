@@ -1,0 +1,43 @@
+{
+ "id": "pl-113-199",
+ "congress": 113,
+ "public_law": "113-199",
+ "bill": "HR 5441",
+ "title": "To amend the Federal charter of the Veterans of Foreign Wars of the United States to reflect the service of women in the Armed Forces of the United States.",
+ "enacted": "2014-12-04",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Rep. Miller, Jeff [R-FL-1]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr5441enr/xml/BILLS-113hr5441enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr5441rds/xml/BILLS-113hr5441rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr5441rh/xml/BILLS-113hr5441rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr5441eh/xml/BILLS-113hr5441eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr5441ih/xml/BILLS-113hr5441ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-113publ199/uslm/PLAW-113publ199.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/113th-congress/house-bill/5441",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,43 @@
+{
+ "id": "pl-117-37",
+ "congress": 117,
+ "public_law": "117-37",
+ "bill": "HR 1448",
+ "title": "PAWS for Veterans Therapy Act",
+ "enacted": "2021-08-25",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Rep. Stivers, Steve [R-OH-15]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr1448enr/xml/BILLS-117hr1448enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr1448rfs/xml/BILLS-117hr1448rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr1448rh/xml/BILLS-117hr1448rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr1448eh/xml/BILLS-117hr1448eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr1448ih/xml/BILLS-117hr1448ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ37/uslm/PLAW-117publ37.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/house-bill/1448",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

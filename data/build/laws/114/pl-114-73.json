@@ -1,0 +1,40 @@
+{
+ "id": "pl-114-73",
+ "congress": 114,
+ "public_law": "114-73",
+ "bill": "HR 3819",
+ "title": "Surface Transportation Extension Act of 2015",
+ "enacted": "2015-10-29",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Transportation and Public Works",
+ "sponsor": "Rep. Shuster, Bill [R-PA-9]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr3819enr/xml/BILLS-114hr3819enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr3819rds/xml/BILLS-114hr3819rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr3819eh/xml/BILLS-114hr3819eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr3819ih/xml/BILLS-114hr3819ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-114publ73/uslm/PLAW-114publ73.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/114th-congress/house-bill/3819",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

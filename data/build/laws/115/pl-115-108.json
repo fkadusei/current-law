@@ -1,0 +1,43 @@
+{
+ "id": "pl-115-108",
+ "congress": 115,
+ "public_law": "115-108",
+ "bill": "HR 267",
+ "title": "Martin Luther King, Jr. National Historical Park Act of 2017",
+ "enacted": "2018-01-08",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Public Lands and Natural Resources",
+ "sponsor": "Rep. Lewis, John [D-GA-5]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr267enr/xml/BILLS-115hr267enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr267rs/xml/BILLS-115hr267rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr267rfs/xml/BILLS-115hr267rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr267eh/xml/BILLS-115hr267eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr267ih/xml/BILLS-115hr267ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ108/uslm/PLAW-115publ108.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/267",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

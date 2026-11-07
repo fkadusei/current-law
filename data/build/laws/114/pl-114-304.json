@@ -1,0 +1,43 @@
+{
+ "id": "pl-114-304",
+ "congress": 114,
+ "public_law": "114-304",
+ "bill": "HR 5877",
+ "title": "United States-Israel Advanced Research Partnership Act of 2016",
+ "enacted": "2016-12-16",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Science, Technology, Communications",
+ "sponsor": "Rep. Ratcliffe, John [R-TX-4]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr5877enr/xml/BILLS-114hr5877enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr5877rds/xml/BILLS-114hr5877rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr5877eh/xml/BILLS-114hr5877eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr5877rh/xml/BILLS-114hr5877rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr5877ih/xml/BILLS-114hr5877ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-114publ304/uslm/PLAW-114publ304.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/114th-congress/house-bill/5877",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

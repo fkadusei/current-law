@@ -1,0 +1,40 @@
+{
+ "id": "pl-115-241",
+ "congress": 115,
+ "public_law": "115-241",
+ "bill": "HR 5385",
+ "title": "Dr. Benjy Frances Brooks Children's Hospital GME Support Reauthorization Act of 2018",
+ "enacted": "2018-09-18",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Health",
+ "sponsor": "Rep. Green, Gene [D-TX-29]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr5385enr/xml/BILLS-115hr5385enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr5385rds/xml/BILLS-115hr5385rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr5385eh/xml/BILLS-115hr5385eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr5385ih/xml/BILLS-115hr5385ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ241/uslm/PLAW-115publ241.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/5385",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

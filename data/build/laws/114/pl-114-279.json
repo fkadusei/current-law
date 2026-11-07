@@ -1,0 +1,40 @@
+{
+ "id": "pl-114-279",
+ "congress": 114,
+ "public_law": "114-279",
+ "bill": "HR 875",
+ "title": "Cross-Border Trade Enhancement Act of 2016",
+ "enacted": "2016-12-16",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Foreign Trade and International Finance",
+ "sponsor": "Rep. Cuellar, Henry [D-TX-28]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr875enr/xml/BILLS-114hr875enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr875rds/xml/BILLS-114hr875rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr875eh/xml/BILLS-114hr875eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr875ih/xml/BILLS-114hr875ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-114publ279/uslm/PLAW-114publ279.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/114th-congress/house-bill/875",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

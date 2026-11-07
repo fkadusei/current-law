@@ -1,0 +1,40 @@
+{
+ "id": "pl-116-68",
+ "congress": 116,
+ "public_law": "116-68",
+ "bill": "HR 1396",
+ "title": "Hidden Figures Congressional Gold Medal Act",
+ "enacted": "2019-11-08",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Science, Technology, Communications",
+ "sponsor": "Rep. Johnson, Eddie Bernice [D-TX-30]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1396enr/xml/BILLS-116hr1396enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1396pcs/xml/BILLS-116hr1396pcs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1396eh/xml/BILLS-116hr1396eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1396ih/xml/BILLS-116hr1396ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ68/uslm/PLAW-116publ68.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/1396",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

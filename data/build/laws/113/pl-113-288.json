@@ -1,0 +1,40 @@
+{
+ "id": "pl-113-288",
+ "congress": 113,
+ "public_law": "113-288",
+ "bill": "HR 2754",
+ "title": "Collectible Coin Protection Act",
+ "enacted": "2014-12-19",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Commerce",
+ "sponsor": "Rep. Butterfield, G. K. [D-NC-1]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr2754enr/xml/BILLS-113hr2754enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr2754rfs/xml/BILLS-113hr2754rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr2754eh/xml/BILLS-113hr2754eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr2754ih/xml/BILLS-113hr2754ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-113publ288/uslm/PLAW-113publ288.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/113th-congress/house-bill/2754",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

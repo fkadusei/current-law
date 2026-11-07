@@ -1,0 +1,40 @@
+{
+ "id": "pl-113-175",
+ "congress": 113,
+ "public_law": "113-175",
+ "bill": "HR 5404",
+ "title": "Department of Veterans Affairs Expiring Authorities Act of 2014",
+ "enacted": "2014-09-26",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Rep. Denham, Jeff [R-CA-10]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr5404enr/xml/BILLS-113hr5404enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr5404rds/xml/BILLS-113hr5404rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr5404eh/xml/BILLS-113hr5404eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr5404ih/xml/BILLS-113hr5404ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-113publ175/uslm/PLAW-113publ175.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/113th-congress/house-bill/5404",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

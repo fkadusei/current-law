@@ -1,0 +1,37 @@
+{
+ "id": "pl-114-87",
+ "congress": 114,
+ "public_law": "114-87",
+ "bill": "HR 3996",
+ "title": "Surface Transportation Extension Act of 2015, Part II",
+ "enacted": "2015-11-20",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Transportation and Public Works",
+ "sponsor": "Rep. Shuster, Bill [R-PA-9]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr3996enr/xml/BILLS-114hr3996enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr3996rds/xml/BILLS-114hr3996rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr3996eh/xml/BILLS-114hr3996eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-114publ87/uslm/PLAW-114publ87.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/114th-congress/house-bill/3996",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

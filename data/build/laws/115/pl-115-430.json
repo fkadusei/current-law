@@ -1,0 +1,43 @@
+{
+ "id": "pl-115-430",
+ "congress": 115,
+ "public_law": "115-430",
+ "bill": "HR 5636",
+ "title": "Flatside Wilderness Enhancement Act",
+ "enacted": "2019-01-10",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Public Lands and Natural Resources",
+ "sponsor": "Rep. Hill, J. French [R-AR-2]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr5636enr/xml/BILLS-115hr5636enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr5636rfs/xml/BILLS-115hr5636rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr5636eh/xml/BILLS-115hr5636eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr5636rh/xml/BILLS-115hr5636rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr5636ih/xml/BILLS-115hr5636ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ430/uslm/PLAW-115publ430.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/5636",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

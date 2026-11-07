@@ -1,0 +1,37 @@
+{
+ "id": "pl-117-102",
+ "congress": 117,
+ "public_law": "117-102",
+ "bill": "S 3706",
+ "title": "A bill to provide for the application of certain provisions of the Secure Rural Schools and Community Self-Determination Act of 2000 for fiscal year 2021.",
+ "enacted": "2022-03-15",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Public Lands and Natural Resources",
+ "sponsor": "Sen. Crapo, Mike [R-ID]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s3706enr/xml/BILLS-117s3706enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s3706es/xml/BILLS-117s3706es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s3706cps/xml/BILLS-117s3706cps.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ102/uslm/PLAW-117publ102.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/senate-bill/3706",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

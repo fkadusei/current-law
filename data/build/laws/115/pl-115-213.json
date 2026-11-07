@@ -1,0 +1,43 @@
+{
+ "id": "pl-115-213",
+ "congress": 115,
+ "public_law": "115-213",
+ "bill": "HR 4574",
+ "title": "To designate the facility of the United States Postal Service located at 108 West Schick Road in Bloomingdale, Illinois, as the \"Bloomingdale Veterans Memorial Post Office Building\".",
+ "enacted": "2018-07-24",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Krishnamoorthi, Raja [D-IL-8]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr4574enr/xml/BILLS-115hr4574enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr4574rs/xml/BILLS-115hr4574rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr4574rfs/xml/BILLS-115hr4574rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr4574eh/xml/BILLS-115hr4574eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr4574ih/xml/BILLS-115hr4574ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ213/uslm/PLAW-115publ213.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/4574",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,43 @@
+{
+ "id": "pl-117-188",
+ "congress": 117,
+ "public_law": "117-188",
+ "bill": "HR 4877",
+ "title": "One Stop Shop for Small Business Compliance Act of 2021",
+ "enacted": "2022-10-10",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Commerce",
+ "sponsor": "Rep. Delgado, Antonio [D-NY-19]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr4877enr/xml/BILLS-117hr4877enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr4877rfs/xml/BILLS-117hr4877rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr4877eh/xml/BILLS-117hr4877eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr4877rh/xml/BILLS-117hr4877rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr4877ih/xml/BILLS-117hr4877ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ188/uslm/PLAW-117publ188.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/house-bill/4877",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

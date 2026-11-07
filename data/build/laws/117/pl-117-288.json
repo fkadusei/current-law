@@ -1,0 +1,40 @@
+{
+ "id": "pl-117-288",
+ "congress": 117,
+ "public_law": "117-288",
+ "bill": "HR 6042",
+ "title": "To designate the facility of the United States Postal Service located at 213 William Hilton Parkway in Hilton Head Island, South Carolina, as the \"Caesar H. Wright Jr. Post Office Building\".",
+ "enacted": "2022-12-27",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Mace, Nancy [R-SC-1]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr6042enr/xml/BILLS-117hr6042enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr6042rds/xml/BILLS-117hr6042rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr6042eh/xml/BILLS-117hr6042eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr6042ih/xml/BILLS-117hr6042ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ288/uslm/PLAW-117publ288.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/house-bill/6042",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

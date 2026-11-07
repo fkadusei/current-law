@@ -1,0 +1,49 @@
+{
+ "id": "pl-114-321",
+ "congress": 114,
+ "public_law": "114-321",
+ "bill": "S 546",
+ "title": "RESPONSE Act of 2016",
+ "enacted": "2016-12-16",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Emergency Management",
+ "sponsor": "Sen. Heitkamp, Heidi [D-ND]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s546enr/xml/BILLS-114s546enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s546eah/xml/BILLS-114s546eah.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s546rh/xml/BILLS-114s546rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s546rfh/xml/BILLS-114s546rfh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s546es/xml/BILLS-114s546es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s546rs/xml/BILLS-114s546rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s546is/xml/BILLS-114s546is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-114publ321/uslm/PLAW-114publ321.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/114th-congress/senate-bill/546",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

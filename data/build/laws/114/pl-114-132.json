@@ -1,0 +1,43 @@
+{
+ "id": "pl-114-132",
+ "congress": 114,
+ "public_law": "114-132",
+ "bill": "S 2109",
+ "title": "Directing Dollars to Disaster Relief Act of 2015",
+ "enacted": "2016-02-29",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Emergency Management",
+ "sponsor": "Sen. Johnson, Ron [R-WI]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s2109enr/xml/BILLS-114s2109enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s2109rfh/xml/BILLS-114s2109rfh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s2109es/xml/BILLS-114s2109es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s2109rs/xml/BILLS-114s2109rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s2109is/xml/BILLS-114s2109is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-114publ132/uslm/PLAW-114publ132.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/114th-congress/senate-bill/2109",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

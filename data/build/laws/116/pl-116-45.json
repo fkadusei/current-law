@@ -1,0 +1,43 @@
+{
+ "id": "pl-116-45",
+ "congress": 116,
+ "public_law": "116-45",
+ "bill": "HR 1198",
+ "title": "To designate the facility of the United States Postal Service located at 404 South Boulder Highway in Henderson, Nevada, as the Henderson Veterans Memorial Post Office Building.",
+ "enacted": "2019-08-21",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Lee, Susie [D-NV-3]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1198enr/xml/BILLS-116hr1198enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1198rs/xml/BILLS-116hr1198rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1198rfs/xml/BILLS-116hr1198rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1198eh/xml/BILLS-116hr1198eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1198ih/xml/BILLS-116hr1198ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ45/uslm/PLAW-116publ45.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/1198",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

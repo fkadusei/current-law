@@ -1,0 +1,43 @@
+{
+ "id": "pl-116-110",
+ "congress": 116,
+ "public_law": "116-110",
+ "bill": "HR 263",
+ "title": "To rename the Oyster Bay National Wildlife Refuge as the Congressman Lester Wolff Oyster Bay National Wildlife Refuge.",
+ "enacted": "2020-01-27",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Public Lands and Natural Resources",
+ "sponsor": "Rep. Suozzi, Thomas R. [D-NY-3]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr263enr/xml/BILLS-116hr263enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr263rfs/xml/BILLS-116hr263rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr263eh/xml/BILLS-116hr263eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr263rh/xml/BILLS-116hr263rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr263ih/xml/BILLS-116hr263ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ110/uslm/PLAW-116publ110.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/263",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

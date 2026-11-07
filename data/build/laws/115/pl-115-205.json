@@ -1,0 +1,43 @@
+{
+ "id": "pl-115-205",
+ "congress": 115,
+ "public_law": "115-205",
+ "bill": "HR 2122",
+ "title": "To reinstate and extend the deadline for commencement of construction of a hydroelectric project involving Jennings Randolph Dam.",
+ "enacted": "2018-07-23",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Energy",
+ "sponsor": "Rep. McKinley, David B. [R-WV-1]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr2122enr/xml/BILLS-115hr2122enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr2122pcs/xml/BILLS-115hr2122pcs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr2122rh/xml/BILLS-115hr2122rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr2122eh/xml/BILLS-115hr2122eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr2122ih/xml/BILLS-115hr2122ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ205/uslm/PLAW-115publ205.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/2122",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

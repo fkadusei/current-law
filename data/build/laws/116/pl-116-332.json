@@ -1,0 +1,40 @@
+{
+ "id": "pl-116-332",
+ "congress": 116,
+ "public_law": "116-332",
+ "bill": "HR 2444",
+ "title": "Eastern European Security Act",
+ "enacted": "2021-01-13",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "International Affairs",
+ "sponsor": "Rep. McCaul, Michael T. [R-TX-10]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr2444enr/xml/BILLS-116hr2444enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr2444rfs/xml/BILLS-116hr2444rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr2444eh/xml/BILLS-116hr2444eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr2444ih/xml/BILLS-116hr2444ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ332/uslm/PLAW-116publ332.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/2444",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

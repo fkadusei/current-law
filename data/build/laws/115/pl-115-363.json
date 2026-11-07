@@ -1,0 +1,40 @@
+{
+ "id": "pl-115-363",
+ "congress": 115,
+ "public_law": "115-363",
+ "bill": "HR 6059",
+ "title": "To designate the facility of the United States Postal Service located at 51 Willow Street in Lynn, Massachusetts, as the \"Thomas P. Costin, Jr. Post Office Building\".",
+ "enacted": "2018-12-21",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Moulton, Seth [D-MA-6]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr6059enr/xml/BILLS-115hr6059enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr6059rds/xml/BILLS-115hr6059rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr6059eh/xml/BILLS-115hr6059eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr6059ih/xml/BILLS-115hr6059ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ363/uslm/PLAW-115publ363.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/6059",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

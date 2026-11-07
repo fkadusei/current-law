@@ -1,0 +1,43 @@
+{
+ "id": "pl-115-260",
+ "congress": 115,
+ "public_law": "115-260",
+ "bill": "S 1668",
+ "title": "A bill to rename a waterway in the State of New York as the \"Joseph Sanford Jr. Channel\".",
+ "enacted": "2018-10-09",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Transportation and Public Works",
+ "sponsor": "Sen. Schumer, Charles E. [D-NY]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s1668enr/xml/BILLS-115s1668enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s1668rfh/xml/BILLS-115s1668rfh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s1668es/xml/BILLS-115s1668es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s1668rs/xml/BILLS-115s1668rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s1668is/xml/BILLS-115s1668is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ260/uslm/PLAW-115publ260.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/1668",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

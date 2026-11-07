@@ -1,0 +1,43 @@
+{
+ "id": "pl-115-293",
+ "congress": 115,
+ "public_law": "115-293",
+ "bill": "HR 5737",
+ "title": "To designate the facility of the United States Postal Service located at 108 West D Street in Alpha, Illinois, as the \"Captain Joshua E. Steele Post Office\".",
+ "enacted": "2018-12-06",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Bustos, Cheri [D-IL-17]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr5737enr/xml/BILLS-115hr5737enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr5737rs/xml/BILLS-115hr5737rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr5737rfs/xml/BILLS-115hr5737rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr5737eh/xml/BILLS-115hr5737eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr5737ih/xml/BILLS-115hr5737ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ293/uslm/PLAW-115publ293.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/5737",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

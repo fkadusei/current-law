@@ -1,0 +1,40 @@
+{
+ "id": "pl-114-7",
+ "congress": 114,
+ "public_law": "114-7",
+ "bill": "HR 1527",
+ "title": "Slain Officer Family Support Act of 2015",
+ "enacted": "2015-04-01",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Taxation",
+ "sponsor": "Rep. Jeffries, Hakeem S. [D-NY-8]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr1527enr/xml/BILLS-114hr1527enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr1527rds/xml/BILLS-114hr1527rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr1527eh/xml/BILLS-114hr1527eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr1527ih/xml/BILLS-114hr1527ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-114publ7/uslm/PLAW-114publ7.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/114th-congress/house-bill/1527",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,40 @@
+{
+ "id": "pl-117-269",
+ "congress": 117,
+ "public_law": "117-269",
+ "bill": "HR 2472",
+ "title": "To designate the facility of the United States Postal Service located at 82422 Cadiz Jewett Road in Cadiz, Ohio, as the John Armor Bingham Post Office.",
+ "enacted": "2022-12-27",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Johnson, Bill [R-OH-6]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr2472enr/xml/BILLS-117hr2472enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr2472rfs/xml/BILLS-117hr2472rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr2472eh/xml/BILLS-117hr2472eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr2472ih/xml/BILLS-117hr2472ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ269/uslm/PLAW-117publ269.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/house-bill/2472",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

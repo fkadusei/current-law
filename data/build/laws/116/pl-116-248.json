@@ -1,0 +1,43 @@
+{
+ "id": "pl-116-248",
+ "congress": 116,
+ "public_law": "116-248",
+ "bill": "HR 3349",
+ "title": "Republic of Texas Legation Memorial Act",
+ "enacted": "2020-12-22",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Public Lands and Natural Resources",
+ "sponsor": "Rep. Doggett, Lloyd [D-TX-35]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr3349enr/xml/BILLS-116hr3349enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr3349rfs/xml/BILLS-116hr3349rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr3349eh/xml/BILLS-116hr3349eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr3349rh/xml/BILLS-116hr3349rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr3349ih/xml/BILLS-116hr3349ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ248/uslm/PLAW-116publ248.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/3349",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,37 @@
+{
+ "id": "pl-115-18",
+ "congress": 115,
+ "public_law": "115-18",
+ "bill": "SJRES 1",
+ "title": "A joint resolution approving the location of a memorial to commemorate and honor the members of the Armed Forces who served on active duty in support of Operation Desert Storm or Operation Desert Shield.",
+ "enacted": "2017-03-31",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Sen. Boozman, John [R-AR]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115sjres1enr/xml/BILLS-115sjres1enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115sjres1es/xml/BILLS-115sjres1es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115sjres1is/xml/BILLS-115sjres1is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ18/uslm/PLAW-115publ18.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/senate-joint-resolution/1",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

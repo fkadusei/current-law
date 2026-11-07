@@ -1,0 +1,43 @@
+{
+ "id": "pl-117-247",
+ "congress": 117,
+ "public_law": "117-247",
+ "bill": "S 198",
+ "title": "Data Mapping to Save Moms' Lives Act",
+ "enacted": "2022-12-20",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Health",
+ "sponsor": "Sen. Rosen, Jacky [D-NV]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s198enr/xml/BILLS-117s198enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s198eah/xml/BILLS-117s198eah.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s198es/xml/BILLS-117s198es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s198rs/xml/BILLS-117s198rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s198is/xml/BILLS-117s198is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ247/uslm/PLAW-117publ247.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/senate-bill/198",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

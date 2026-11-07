@@ -1,0 +1,40 @@
+{
+ "id": "pl-113-120",
+ "congress": 113,
+ "public_law": "113-120",
+ "bill": "HR 1726",
+ "title": "To award a Congressional Gold Medal to the 65th Infantry Regiment, known as the Borinqueneers.",
+ "enacted": "2014-06-10",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Rep. Posey, Bill [R-FL-8]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr1726enr/xml/BILLS-113hr1726enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr1726rds/xml/BILLS-113hr1726rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr1726eh/xml/BILLS-113hr1726eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr1726ih/xml/BILLS-113hr1726ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-113publ120/uslm/PLAW-113publ120.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/113th-congress/house-bill/1726",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

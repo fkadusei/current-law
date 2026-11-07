@@ -1,0 +1,40 @@
+{
+ "id": "pl-117-279",
+ "congress": 117,
+ "public_law": "117-279",
+ "bill": "HR 5650",
+ "title": "To designate the facility of the United States Postal Service located at 16605 East Avenue of the Fountains in Fountain Hills, Arizona, as the \"Dr. C.T. Wright Post Office Building\".",
+ "enacted": "2022-12-27",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Schweikert, David [R-AZ-6]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr5650enr/xml/BILLS-117hr5650enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr5650rds/xml/BILLS-117hr5650rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr5650eh/xml/BILLS-117hr5650eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr5650ih/xml/BILLS-117hr5650ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ279/uslm/PLAW-117publ279.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/house-bill/5650",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

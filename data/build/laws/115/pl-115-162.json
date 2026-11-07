@@ -1,0 +1,40 @@
+{
+ "id": "pl-115-162",
+ "congress": 115,
+ "public_law": "115-162",
+ "bill": "S 2040",
+ "title": "A bill to designate the facility of the United States Postal Service located at 621 Kansas Avenue in Atchison, Kansas, as the \"Amelia Earhart Post Office Building\".",
+ "enacted": "2018-04-03",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Sen. Roberts, Pat [R-KS]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s2040enr/xml/BILLS-115s2040enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s2040es/xml/BILLS-115s2040es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s2040rs/xml/BILLS-115s2040rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s2040is/xml/BILLS-115s2040is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ162/uslm/PLAW-115publ162.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/2040",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

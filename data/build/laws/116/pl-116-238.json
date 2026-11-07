@@ -1,0 +1,40 @@
+{
+ "id": "pl-116-238",
+ "congress": 116,
+ "public_law": "116-238",
+ "bill": "HR 4672",
+ "title": "To designate the facility of the United States Postal Service located at 21701 Stevens Creek Boulevard in Cupertino, California, as the Petty Officer 2nd Class (SEAL) Matthew G. Axelson Post Office Building.",
+ "enacted": "2020-12-21",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Khanna, Ro [D-CA-17]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr4672enr/xml/BILLS-116hr4672enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr4672rfs/xml/BILLS-116hr4672rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr4672eh/xml/BILLS-116hr4672eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr4672ih/xml/BILLS-116hr4672ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ238/uslm/PLAW-116publ238.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/4672",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

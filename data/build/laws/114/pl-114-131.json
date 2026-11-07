@@ -1,0 +1,40 @@
+{
+ "id": "pl-114-131",
+ "congress": 114,
+ "public_law": "114-131",
+ "bill": "HR 4437",
+ "title": "To extend the deadline for the submittal of the final report required by the Commission on Care.",
+ "enacted": "2016-02-29",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Rep. Miller, Jeff [R-FL-1]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr4437enr/xml/BILLS-114hr4437enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr4437rfs/xml/BILLS-114hr4437rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr4437eh/xml/BILLS-114hr4437eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr4437ih/xml/BILLS-114hr4437ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-114publ131/uslm/PLAW-114publ131.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/114th-congress/house-bill/4437",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,40 @@
+{
+ "id": "pl-117-16",
+ "congress": 117,
+ "public_law": "117-16",
+ "bill": "HR 2523",
+ "title": "THRIVE Act",
+ "enacted": "2021-06-08",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Rep. Levin, Mike [D-CA-49]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr2523enr/xml/BILLS-117hr2523enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr2523rfs/xml/BILLS-117hr2523rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr2523eh/xml/BILLS-117hr2523eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr2523ih/xml/BILLS-117hr2523ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ16/xml/PLAW-117publ16.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/house-bill/2523",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

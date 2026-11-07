@@ -1,0 +1,40 @@
+{
+ "id": "pl-117-205",
+ "congress": 117,
+ "public_law": "117-205",
+ "bill": "S 1198",
+ "title": "Solid Start Act of 2022",
+ "enacted": "2022-10-17",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Sen. Hassan, Margaret Wood [D-NH]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s1198enr/xml/BILLS-117s1198enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s1198es/xml/BILLS-117s1198es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s1198rs/xml/BILLS-117s1198rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s1198is/xml/BILLS-117s1198is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ205/uslm/PLAW-117publ205.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/senate-bill/1198",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

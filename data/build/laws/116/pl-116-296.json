@@ -1,0 +1,40 @@
+{
+ "id": "pl-116-296",
+ "congress": 116,
+ "public_law": "116-296",
+ "bill": "HR 4988",
+ "title": "To designate the facility of the United States Postal Service located at 14 Walnut Street in Bordentown, New Jersey, as the Clara Barton Post Office Building.",
+ "enacted": "2021-01-05",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Kim, Andy [D-NJ-3]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr4988enr/xml/BILLS-116hr4988enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr4988rfs/xml/BILLS-116hr4988rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr4988eh/xml/BILLS-116hr4988eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr4988ih/xml/BILLS-116hr4988ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ296/uslm/PLAW-116publ296.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/4988",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

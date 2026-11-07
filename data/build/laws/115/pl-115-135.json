@@ -1,0 +1,43 @@
+{
+ "id": "pl-115-135",
+ "congress": 115,
+ "public_law": "115-135",
+ "bill": "HR 535",
+ "title": "Taiwan Travel Act",
+ "enacted": "2018-03-16",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "International Affairs",
+ "sponsor": "Rep. Chabot, Steve [R-OH-1]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr535enr/xml/BILLS-115hr535enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr535rs/xml/BILLS-115hr535rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr535rfs/xml/BILLS-115hr535rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr535eh/xml/BILLS-115hr535eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr535ih/xml/BILLS-115hr535ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ135/uslm/PLAW-115publ135.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/535",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

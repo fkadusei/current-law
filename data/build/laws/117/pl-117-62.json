@@ -1,0 +1,40 @@
+{
+ "id": "pl-117-62",
+ "congress": 117,
+ "public_law": "117-62",
+ "bill": "HR 2093",
+ "title": "Veterans and Family Information Act",
+ "enacted": "2021-11-22",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Rep. Jeffries, Hakeem S. [D-NY-8]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr2093enr/xml/BILLS-117hr2093enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr2093rfs/xml/BILLS-117hr2093rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr2093eh/xml/BILLS-117hr2093eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr2093ih/xml/BILLS-117hr2093ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ62/uslm/PLAW-117publ62.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/house-bill/2093",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,40 @@
+{
+ "id": "pl-114-145",
+ "congress": 114,
+ "public_law": "114-145",
+ "bill": "S 483",
+ "title": "Ensuring Patient Access and Effective Drug Enforcement Act of 2016",
+ "enacted": "2016-04-19",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Crime and Law Enforcement",
+ "sponsor": "Sen. Hatch, Orrin G. [R-UT]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s483enr/xml/BILLS-114s483enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s483es/xml/BILLS-114s483es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s483rs/xml/BILLS-114s483rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s483is/xml/BILLS-114s483is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-114publ145/uslm/PLAW-114publ145.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/114th-congress/senate-bill/483",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

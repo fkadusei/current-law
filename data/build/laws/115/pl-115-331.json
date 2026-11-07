@@ -1,0 +1,43 @@
+{
+ "id": "pl-115-331",
+ "congress": 115,
+ "public_law": "115-331",
+ "bill": "HR 2454",
+ "title": "Department of Homeland Security Data Framework Act of 2018",
+ "enacted": "2018-12-19",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Hurd, Will [R-TX-23]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr2454enr/xml/BILLS-115hr2454enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr2454eas/xml/BILLS-115hr2454eas.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr2454rfs/xml/BILLS-115hr2454rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr2454eh/xml/BILLS-115hr2454eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr2454ih/xml/BILLS-115hr2454ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ331/uslm/PLAW-115publ331.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/2454",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

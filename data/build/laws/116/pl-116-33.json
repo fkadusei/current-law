@@ -1,0 +1,40 @@
+{
+ "id": "pl-116-33",
+ "congress": 116,
+ "public_law": "116-33",
+ "bill": "S 1749",
+ "title": "Protecting Affordable Mortgages for Veterans Act of 2019",
+ "enacted": "2019-07-25",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Housing and Community Development",
+ "sponsor": "Sen. Sinema, Kyrsten [D-AZ]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s1749enr/xml/BILLS-116s1749enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s1749rfh/xml/BILLS-116s1749rfh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s1749es/xml/BILLS-116s1749es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s1749cps/xml/BILLS-116s1749cps.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ33/uslm/PLAW-116publ33.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/senate-bill/1749",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

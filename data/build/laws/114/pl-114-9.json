@@ -1,0 +1,40 @@
+{
+ "id": "pl-114-9",
+ "congress": 114,
+ "public_law": "114-9",
+ "bill": "HJRES 10",
+ "title": "Providing for the reappointment of David M. Rubenstein as a citizen regent of the Board of Regents of the Smithsonian Institution.",
+ "enacted": "2015-04-07",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Johnson, Sam [R-TX-3]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hjres10enr/xml/BILLS-114hjres10enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hjres10eh/xml/BILLS-114hjres10eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hjres10rds/xml/BILLS-114hjres10rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hjres10ih/xml/BILLS-114hjres10ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-114publ9/uslm/PLAW-114publ9.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/114th-congress/house-joint-resolution/10",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

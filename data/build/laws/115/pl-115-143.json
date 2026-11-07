@@ -1,0 +1,43 @@
+{
+ "id": "pl-115-143",
+ "congress": 115,
+ "public_law": "115-143",
+ "bill": "HR 2302",
+ "title": "To designate the facility of the United States Postal Service located at 259 Nassau Street, Suite 2 in Princeton, New Jersey, as the \"Dr. John F. Nash, Jr. Post Office\".",
+ "enacted": "2018-03-23",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Watson Coleman, Bonnie [D-NJ-12]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr2302enr/xml/BILLS-115hr2302enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr2302rs/xml/BILLS-115hr2302rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr2302rfs/xml/BILLS-115hr2302rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr2302eh/xml/BILLS-115hr2302eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr2302ih/xml/BILLS-115hr2302ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ143/uslm/PLAW-115publ143.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/2302",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

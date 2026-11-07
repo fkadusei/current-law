@@ -1,0 +1,40 @@
+{
+ "id": "pl-116-144",
+ "congress": 116,
+ "public_law": "116-144",
+ "bill": "S 3414",
+ "title": "Major Medical Facility Authorization Act of 2020",
+ "enacted": "2020-06-16",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Sen. Moran, Jerry [R-KS]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s3414enr/xml/BILLS-116s3414enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s3414rfh/xml/BILLS-116s3414rfh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s3414es/xml/BILLS-116s3414es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s3414cps/xml/BILLS-116s3414cps.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ144/uslm/PLAW-116publ144.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/senate-bill/3414",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

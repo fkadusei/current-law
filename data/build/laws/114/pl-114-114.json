@@ -1,0 +1,43 @@
+{
+ "id": "pl-114-114",
+ "congress": 114,
+ "public_law": "114-114",
+ "bill": "HR 1321",
+ "title": "Microbead-Free Waters Act of 2015",
+ "enacted": "2015-12-28",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Health",
+ "sponsor": "Rep. Pallone, Frank, Jr. [D-NJ-6]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr1321enr/xml/BILLS-114hr1321enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr1321rds/xml/BILLS-114hr1321rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr1321rh/xml/BILLS-114hr1321rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr1321eh/xml/BILLS-114hr1321eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr1321ih/xml/BILLS-114hr1321ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-114publ114/uslm/PLAW-114publ114.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/114th-congress/house-bill/1321",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

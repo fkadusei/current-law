@@ -1,0 +1,43 @@
+{
+ "id": "pl-115-204",
+ "congress": 115,
+ "public_law": "115-204",
+ "bill": "HR 951",
+ "title": "To extend the deadline for commencement of construction of a hydroelectric project.",
+ "enacted": "2018-07-23",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Energy",
+ "sponsor": "Rep. Foxx, Virginia [R-NC-5]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr951enr/xml/BILLS-115hr951enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr951pcs/xml/BILLS-115hr951pcs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr951rh/xml/BILLS-115hr951rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr951eh/xml/BILLS-115hr951eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr951ih/xml/BILLS-115hr951ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ204/uslm/PLAW-115publ204.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/951",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

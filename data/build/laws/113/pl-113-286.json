@@ -1,0 +1,37 @@
+{
+ "id": "pl-113-286",
+ "congress": 113,
+ "public_law": "113-286",
+ "bill": "S 3008",
+ "title": "Foreclosure Relief and Extension for Servicemembers Act of 2014",
+ "enacted": "2014-12-18",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Sen. Whitehouse, Sheldon [D-RI]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s3008enr/xml/BILLS-113s3008enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s3008es/xml/BILLS-113s3008es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s3008cps/xml/BILLS-113s3008cps.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-113publ286/uslm/PLAW-113publ286.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/113th-congress/senate-bill/3008",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,37 @@
+{
+ "id": "pl-116-216",
+ "congress": 116,
+ "public_law": "116-216",
+ "bill": "S 4054",
+ "title": "United States Grain Standards Reauthorization Act of 2020",
+ "enacted": "2020-12-11",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Agriculture and Food",
+ "sponsor": "Sen. Roberts, Pat [R-KS]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s4054enr/xml/BILLS-116s4054enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s4054es/xml/BILLS-116s4054es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s4054rs/xml/BILLS-116s4054rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ216/uslm/PLAW-116publ216.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/senate-bill/4054",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

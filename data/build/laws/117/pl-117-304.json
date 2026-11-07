@@ -1,0 +1,40 @@
+{
+ "id": "pl-117-304",
+ "congress": 117,
+ "public_law": "117-304",
+ "bill": "HR 7514",
+ "title": "To designate the facility of the United States Postal Service located at 345 South Main Street in Butler, Pennsylvania, as the \"Andrew Gomer Williams Post Office Building\".",
+ "enacted": "2022-12-27",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Kelly, Mike [R-PA-16]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr7514enr/xml/BILLS-117hr7514enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr7514rds/xml/BILLS-117hr7514rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr7514eh/xml/BILLS-117hr7514eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr7514ih/xml/BILLS-117hr7514ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ304/uslm/PLAW-117publ304.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/house-bill/7514",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

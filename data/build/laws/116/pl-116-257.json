@@ -1,0 +1,37 @@
+{
+ "id": "pl-116-257",
+ "congress": 116,
+ "public_law": "116-257",
+ "bill": "S 2258",
+ "title": "Criminal Antitrust Anti-Retaliation Act of 2019",
+ "enacted": "2020-12-23",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Commerce",
+ "sponsor": "Sen. Grassley, Chuck [R-IA]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s2258enr/xml/BILLS-116s2258enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s2258es/xml/BILLS-116s2258es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s2258pcs/xml/BILLS-116s2258pcs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ257/uslm/PLAW-116publ257.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/senate-bill/2258",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

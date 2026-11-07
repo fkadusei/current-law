@@ -1,0 +1,46 @@
+{
+ "id": "pl-115-246",
+ "congress": 115,
+ "public_law": "115-246",
+ "bill": "HR 589",
+ "title": "Department of Energy Research and Innovation Act",
+ "enacted": "2018-09-28",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Energy",
+ "sponsor": "Rep. Smith, Lamar [R-TX-21]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr589enr/xml/BILLS-115hr589enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr589eas/xml/BILLS-115hr589eas.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr589rs/xml/BILLS-115hr589rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr589rfs/xml/BILLS-115hr589rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr589eh/xml/BILLS-115hr589eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr589ih/xml/BILLS-115hr589ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ246/uslm/PLAW-115publ246.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/589",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

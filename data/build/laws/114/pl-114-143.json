@@ -1,0 +1,40 @@
+{
+ "id": "pl-114-143",
+ "congress": 114,
+ "public_law": "114-143",
+ "bill": "S 1180",
+ "title": "Integrated Public Alert and Warning System Modernization Act of 2015",
+ "enacted": "2016-04-11",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Emergency Management",
+ "sponsor": "Sen. Johnson, Ron [R-WI]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s1180enr/xml/BILLS-114s1180enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s1180es/xml/BILLS-114s1180es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s1180rs/xml/BILLS-114s1180rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s1180is/xml/BILLS-114s1180is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-114publ143/uslm/PLAW-114publ143.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/114th-congress/senate-bill/1180",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

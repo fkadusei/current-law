@@ -1,0 +1,43 @@
+{
+ "id": "pl-115-306",
+ "congress": 115,
+ "public_law": "115-306",
+ "bill": "S 440",
+ "title": "A bill to establish a procedure for the conveyance of certain Federal property around the Dickinson Reservoir in the State of North Dakota.",
+ "enacted": "2018-12-11",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Public Lands and Natural Resources",
+ "sponsor": "Sen. Hoeven, John [R-ND]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s440enr/xml/BILLS-115s440enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s440eah/xml/BILLS-115s440eah.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s440es/xml/BILLS-115s440es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s440rs/xml/BILLS-115s440rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s440is/xml/BILLS-115s440is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ306/uslm/PLAW-115publ306.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/440",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

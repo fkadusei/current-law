@@ -1,0 +1,40 @@
+{
+ "id": "pl-113-10",
+ "congress": 113,
+ "public_law": "113-10",
+ "bill": "HR 1071",
+ "title": "To specify the size of the precious-metal blanks that will be used in the production of the National Baseball Hall of Fame commemorative coins.",
+ "enacted": "2013-05-17",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Finance and Financial Sector",
+ "sponsor": "Rep. Hanna, Richard L. [R-NY-22]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr1071enr/xml/BILLS-113hr1071enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr1071rds/xml/BILLS-113hr1071rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr1071eh/xml/BILLS-113hr1071eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr1071ih/xml/BILLS-113hr1071ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-113publ10/uslm/PLAW-113publ10.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/113th-congress/house-bill/1071",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

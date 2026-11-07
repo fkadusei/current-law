@@ -1,0 +1,43 @@
+{
+ "id": "pl-115-103",
+ "congress": 115,
+ "public_law": "115-103",
+ "bill": "HR 1306",
+ "title": "Western Oregon Tribal Fairness Act",
+ "enacted": "2018-01-08",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Native Americans",
+ "sponsor": "Rep. DeFazio, Peter A. [D-OR-4]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1306enr/xml/BILLS-115hr1306enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1306rds/xml/BILLS-115hr1306rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1306eh/xml/BILLS-115hr1306eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1306rh/xml/BILLS-115hr1306rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1306ih/xml/BILLS-115hr1306ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ103/uslm/PLAW-115publ103.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/1306",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

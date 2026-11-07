@@ -1,0 +1,43 @@
+{
+ "id": "pl-115-269",
+ "congress": 115,
+ "public_law": "115-269",
+ "bill": "HR 4921",
+ "title": "STB Information Security Improvement Act",
+ "enacted": "2018-10-16",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Transportation and Public Works",
+ "sponsor": "Rep. Mitchell, Paul [R-MI-10]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr4921enr/xml/BILLS-115hr4921enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr4921rfs/xml/BILLS-115hr4921rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr4921eh/xml/BILLS-115hr4921eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr4921rh/xml/BILLS-115hr4921rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr4921ih/xml/BILLS-115hr4921ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ269/uslm/PLAW-115publ269.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/4921",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

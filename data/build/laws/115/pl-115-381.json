@@ -1,0 +1,40 @@
+{
+ "id": "pl-115-381",
+ "congress": 115,
+ "public_law": "115-381",
+ "bill": "HR 6780",
+ "title": "To designate the facility of the United States Postal Service located at 7521 Paula Drive in Tampa, Florida, as the \"Major Andreas O'Keeffe Post Office Building\".",
+ "enacted": "2018-12-21",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Castor, Kathy [D-FL-14]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr6780enr/xml/BILLS-115hr6780enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr6780rfs/xml/BILLS-115hr6780rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr6780eh/xml/BILLS-115hr6780eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr6780ih/xml/BILLS-115hr6780ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ381/uslm/PLAW-115publ381.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/6780",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,43 @@
+{
+ "id": "pl-116-90",
+ "congress": 116,
+ "public_law": "116-90",
+ "bill": "HR 3314",
+ "title": "To designate the facility of the United States Postal Service located at 1750 McCulloch Boulevard North in Lake Havasu City, Arizona, as the Lake Havasu City Combat Veterans Memorial Post Office Building.",
+ "enacted": "2019-12-13",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Gosar, Paul A. [R-AZ-4]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr3314enr/xml/BILLS-116hr3314enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr3314rs/xml/BILLS-116hr3314rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr3314rfs/xml/BILLS-116hr3314rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr3314eh/xml/BILLS-116hr3314eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr3314ih/xml/BILLS-116hr3314ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ90/uslm/PLAW-116publ90.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/3314",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

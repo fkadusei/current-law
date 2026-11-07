@@ -1,0 +1,37 @@
+{
+ "id": "pl-116-172",
+ "congress": 116,
+ "public_law": "116-172",
+ "bill": "S 2661",
+ "title": "National Suicide Hotline Designation Act of 2020",
+ "enacted": "2020-10-17",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Science, Technology, Communications",
+ "sponsor": "Sen. Gardner, Cory [R-CO]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s2661enr/xml/BILLS-116s2661enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s2661es/xml/BILLS-116s2661es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s2661is/xml/BILLS-116s2661is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ172/uslm/PLAW-116publ172.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/senate-bill/2661",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

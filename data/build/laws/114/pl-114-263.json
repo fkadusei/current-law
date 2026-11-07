@@ -1,0 +1,40 @@
+{
+ "id": "pl-114-263",
+ "congress": 114,
+ "public_law": "114-263",
+ "bill": "S 818",
+ "title": "A bill to amend the Grand Ronde Reservation Act to make technical corrections, and for other purposes.",
+ "enacted": "2016-12-14",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Native Americans",
+ "sponsor": "Sen. Wyden, Ron [D-OR]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s818enr/xml/BILLS-114s818enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s818es/xml/BILLS-114s818es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s818rs/xml/BILLS-114s818rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s818is/xml/BILLS-114s818is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-114publ263/uslm/PLAW-114publ263.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/114th-congress/senate-bill/818",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

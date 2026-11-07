@@ -1,0 +1,40 @@
+{
+ "id": "pl-117-154",
+ "congress": 117,
+ "public_law": "117-154",
+ "bill": "HR 4591",
+ "title": "VA Electronic Health Record Transparency Act of 2021",
+ "enacted": "2022-06-23",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Rep. Mrvan, Frank J. [D-IN-1]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr4591enr/xml/BILLS-117hr4591enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr4591rfs/xml/BILLS-117hr4591rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr4591eh/xml/BILLS-117hr4591eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr4591ih/xml/BILLS-117hr4591ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ154/uslm/PLAW-117publ154.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/house-bill/4591",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

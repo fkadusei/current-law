@@ -1,0 +1,40 @@
+{
+ "id": "pl-115-80",
+ "congress": 115,
+ "public_law": "115-80",
+ "bill": "S 920",
+ "title": "National Clinical Care Commission Act",
+ "enacted": "2017-11-02",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Health",
+ "sponsor": "Sen. Shaheen, Jeanne [D-NH]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s920enr/xml/BILLS-115s920enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s920es/xml/BILLS-115s920es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s920rs/xml/BILLS-115s920rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s920is/xml/BILLS-115s920is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ80/uslm/PLAW-115publ80.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/920",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

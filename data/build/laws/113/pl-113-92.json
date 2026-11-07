@@ -1,0 +1,40 @@
+{
+ "id": "pl-113-92",
+ "congress": 113,
+ "public_law": "113-92",
+ "bill": "HR 3771",
+ "title": "Philippines Charitable Giving Assistance Act",
+ "enacted": "2014-03-25",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Taxation",
+ "sponsor": "Rep. Swalwell, Eric [D-CA-15]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr3771enr/xml/BILLS-113hr3771enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr3771rds/xml/BILLS-113hr3771rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr3771eh/xml/BILLS-113hr3771eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr3771ih/xml/BILLS-113hr3771ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-113publ92/uslm/PLAW-113publ92.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/113th-congress/house-bill/3771",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

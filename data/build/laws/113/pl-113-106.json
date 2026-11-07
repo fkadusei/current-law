@@ -1,0 +1,40 @@
+{
+ "id": "pl-113-106",
+ "congress": 113,
+ "public_law": "113-106",
+ "bill": "HR 1209",
+ "title": "To award a Congressional Gold Medal to the World War II members of the \"Doolittle Tokyo Raiders\", for outstanding heroism, valor, skill, and service to the United States in conducting the bombings of Tokyo.",
+ "enacted": "2014-05-23",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Rep. Olson, Pete [R-TX-22]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr1209enr/xml/BILLS-113hr1209enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr1209rds/xml/BILLS-113hr1209rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr1209eh/xml/BILLS-113hr1209eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr1209ih/xml/BILLS-113hr1209ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-113publ106/uslm/PLAW-113publ106.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/113th-congress/house-bill/1209",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

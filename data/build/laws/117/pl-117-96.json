@@ -1,0 +1,40 @@
+{
+ "id": "pl-117-96",
+ "congress": 117,
+ "public_law": "117-96",
+ "bill": "HR 2545",
+ "title": "To amend title 38, United States Code, to clarify the role of doctors of podiatric medicine in the Department of Veterans Affairs, and for other purposes.",
+ "enacted": "2022-03-14",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Rep. Wenstrup, Brad R. [R-OH-2]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr2545enr/xml/BILLS-117hr2545enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr2545rfs/xml/BILLS-117hr2545rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr2545eh/xml/BILLS-117hr2545eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr2545ih/xml/BILLS-117hr2545ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ96/uslm/PLAW-117publ96.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/house-bill/2545",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

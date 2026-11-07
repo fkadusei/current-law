@@ -1,0 +1,46 @@
+{
+ "id": "pl-115-325",
+ "congress": 115,
+ "public_law": "115-325",
+ "bill": "S 245",
+ "title": "Indian Tribal Energy Development and Self-Determination Act Amendments of 2017",
+ "enacted": "2018-12-18",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Native Americans",
+ "sponsor": "Sen. Hoeven, John [R-ND]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s245enr/xml/BILLS-115s245enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s245rh/xml/BILLS-115s245rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s245rfh/xml/BILLS-115s245rfh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s245es/xml/BILLS-115s245es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s245rs/xml/BILLS-115s245rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s245is/xml/BILLS-115s245is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ325/uslm/PLAW-115publ325.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/245",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

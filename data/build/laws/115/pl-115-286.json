@@ -1,0 +1,43 @@
+{
+ "id": "pl-115-286",
+ "congress": 115,
+ "public_law": "115-286",
+ "bill": "HR 3230",
+ "title": "To designate the facility of the United States Postal Service located at 915 Center Avenue in Payette, Idaho, as the \"Harmon Killebrew Post Office Building\".",
+ "enacted": "2018-12-06",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Labrador, Raul R. [R-ID-1]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr3230enr/xml/BILLS-115hr3230enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr3230rs/xml/BILLS-115hr3230rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr3230rfs/xml/BILLS-115hr3230rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr3230eh/xml/BILLS-115hr3230eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr3230ih/xml/BILLS-115hr3230ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ286/uslm/PLAW-115publ286.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/3230",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

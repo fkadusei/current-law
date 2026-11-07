@@ -1,0 +1,49 @@
+{
+ "id": "pl-115-247",
+ "congress": 115,
+ "public_law": "115-247",
+ "bill": "HR 1109",
+ "title": "To amend section 203 of the Federal Power Act.",
+ "enacted": "2018-09-28",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Energy",
+ "sponsor": "Rep. Walberg, Tim [R-MI-7]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1109enr/xml/BILLS-115hr1109enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1109eas/xml/BILLS-115hr1109eas.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1109rs/xml/BILLS-115hr1109rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1109rfs/xml/BILLS-115hr1109rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1109eh/xml/BILLS-115hr1109eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1109rh/xml/BILLS-115hr1109rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1109ih/xml/BILLS-115hr1109ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ247/uslm/PLAW-115publ247.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/1109",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

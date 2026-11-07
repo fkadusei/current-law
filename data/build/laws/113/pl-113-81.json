@@ -1,0 +1,40 @@
+{
+ "id": "pl-113-81",
+ "congress": 113,
+ "public_law": "113-81",
+ "bill": "S 1901",
+ "title": "Support for United States-Republic of Korea Civil Nuclear Cooperation Act",
+ "enacted": "2014-02-12",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "International Affairs",
+ "sponsor": "Sen. Menendez, Robert [D-NJ]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s1901enr/xml/BILLS-113s1901enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s1901es/xml/BILLS-113s1901es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s1901rs/xml/BILLS-113s1901rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s1901is/xml/BILLS-113s1901is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-113publ81/uslm/PLAW-113publ81.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/113th-congress/senate-bill/1901",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

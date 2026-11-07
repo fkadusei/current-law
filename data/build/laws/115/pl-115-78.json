@@ -1,0 +1,40 @@
+{
+ "id": "pl-115-78",
+ "congress": 115,
+ "public_law": "115-78",
+ "bill": "S 190",
+ "title": "Power And Security Systems (PASS) Act",
+ "enacted": "2017-11-02",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Energy",
+ "sponsor": "Sen. Gardner, Cory [R-CO]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s190enr/xml/BILLS-115s190enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s190es/xml/BILLS-115s190es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s190rs/xml/BILLS-115s190rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s190is/xml/BILLS-115s190is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ78/uslm/PLAW-115publ78.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/190",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

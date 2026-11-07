@@ -1,0 +1,46 @@
+{
+ "id": "pl-115-278",
+ "congress": 115,
+ "public_law": "115-278",
+ "bill": "HR 3359",
+ "title": "Cybersecurity and Infrastructure Security Agency Act of 2018",
+ "enacted": "2018-11-16",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Emergency Management",
+ "sponsor": "Rep. McCaul, Michael T. [R-TX-10]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr3359enr/xml/BILLS-115hr3359enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr3359eas/xml/BILLS-115hr3359eas.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr3359rfs/xml/BILLS-115hr3359rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr3359eh/xml/BILLS-115hr3359eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr3359rh/xml/BILLS-115hr3359rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr3359ih/xml/BILLS-115hr3359ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ278/uslm/PLAW-115publ278.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/3359",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

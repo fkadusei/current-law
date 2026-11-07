@@ -1,0 +1,40 @@
+{
+ "id": "pl-117-236",
+ "congress": 117,
+ "public_law": "117-236",
+ "bill": "HR 6863",
+ "title": "To designate the medical center of the Department of Veterans Affairs in Memphis, Tennessee, as the \"Lt. Col. Luke Weathers, Jr. VA Medical Center\".",
+ "enacted": "2022-12-20",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Rep. Cohen, Steve [D-TN-9]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr6863enr/xml/BILLS-117hr6863enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr6863rfs/xml/BILLS-117hr6863rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr6863eh/xml/BILLS-117hr6863eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr6863ih/xml/BILLS-117hr6863ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ236/uslm/PLAW-117publ236.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/house-bill/6863",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

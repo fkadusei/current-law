@@ -1,0 +1,37 @@
+{
+ "id": "pl-114-25",
+ "congress": 114,
+ "public_law": "114-25",
+ "bill": "S 1568",
+ "title": "A bill to extend the authorization to carry out the replacement of the existing medical center of the Department of Veterans Affairs in Denver, Colorado, to authorize transfers of amounts to carry out the replacement of such medical center, and for other purposes.",
+ "enacted": "2015-06-15",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Sen. Gardner, Cory [R-CO]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s1568enr/xml/BILLS-114s1568enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s1568es/xml/BILLS-114s1568es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s1568cps/xml/BILLS-114s1568cps.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-114publ25/uslm/PLAW-114publ25.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/114th-congress/senate-bill/1568",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

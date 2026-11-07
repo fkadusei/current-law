@@ -1,0 +1,43 @@
+{
+ "id": "pl-115-86",
+ "congress": 115,
+ "public_law": "115-86",
+ "bill": "HR 1545",
+ "title": "VA Prescription Data Accountability Act 2017",
+ "enacted": "2017-11-21",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Rep. Kuster, Ann M. [D-NH-2]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1545enr/xml/BILLS-115hr1545enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1545rfs/xml/BILLS-115hr1545rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1545eh/xml/BILLS-115hr1545eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1545rh/xml/BILLS-115hr1545rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1545ih/xml/BILLS-115hr1545ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ86/uslm/PLAW-115publ86.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/1545",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

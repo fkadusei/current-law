@@ -1,0 +1,43 @@
+{
+ "id": "pl-115-149",
+ "congress": 115,
+ "public_law": "115-149",
+ "bill": "HR 3369",
+ "title": "To designate the facility of the United States Postal Service located at 225 North Main Street in Spring Lake, North Carolina, as the \"Howard B. Pate, Jr. Post Office\".",
+ "enacted": "2018-03-23",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Hudson, Richard [R-NC-8]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr3369enr/xml/BILLS-115hr3369enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr3369rs/xml/BILLS-115hr3369rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr3369rfs/xml/BILLS-115hr3369rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr3369eh/xml/BILLS-115hr3369eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr3369ih/xml/BILLS-115hr3369ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ149/uslm/PLAW-115publ149.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/3369",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

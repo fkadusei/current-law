@@ -1,0 +1,40 @@
+{
+ "id": "pl-115-384",
+ "congress": 115,
+ "public_law": "115-384",
+ "bill": "HR 6930",
+ "title": "To designate the facility of the United States Postal Service located at 10 Miller Street in Plattsburgh, New York, as the \"Ross Bouyea Post Office Building\".",
+ "enacted": "2018-12-21",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Stefanik, Elise M. [R-NY-21]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr6930enr/xml/BILLS-115hr6930enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr6930rds/xml/BILLS-115hr6930rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr6930eh/xml/BILLS-115hr6930eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr6930ih/xml/BILLS-115hr6930ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ384/uslm/PLAW-115publ384.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/6930",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

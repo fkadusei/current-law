@@ -1,0 +1,40 @@
+{
+ "id": "pl-116-308",
+ "congress": 116,
+ "public_law": "116-308",
+ "bill": "HR 6016",
+ "title": "To designate the facility of the United States Postal Service located at 14955 West Bell Road in Surprise, Arizona, as the Marc Lee Memorial Post Office Building.",
+ "enacted": "2021-01-05",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Lesko, Debbie [R-AZ-8]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr6016enr/xml/BILLS-116hr6016enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr6016rds/xml/BILLS-116hr6016rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr6016eh/xml/BILLS-116hr6016eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr6016ih/xml/BILLS-116hr6016ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ308/uslm/PLAW-116publ308.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/6016",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

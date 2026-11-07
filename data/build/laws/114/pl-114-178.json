@@ -1,0 +1,43 @@
+{
+ "id": "pl-114-178",
+ "congress": 114,
+ "public_law": "114-178",
+ "bill": "HR 812",
+ "title": "Indian Trust Asset Reform Act",
+ "enacted": "2016-06-22",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Native Americans",
+ "sponsor": "Rep. Simpson, Michael K. [R-ID-2]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr812enr/xml/BILLS-114hr812enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr812rds/xml/BILLS-114hr812rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr812rh/xml/BILLS-114hr812rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr812eh/xml/BILLS-114hr812eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr812ih/xml/BILLS-114hr812ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-114publ178/uslm/PLAW-114publ178.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/114th-congress/house-bill/812",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

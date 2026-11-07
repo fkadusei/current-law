@@ -1,0 +1,46 @@
+{
+ "id": "pl-113-55",
+ "congress": 113,
+ "public_law": "113-55",
+ "bill": "S 252",
+ "title": "PREEMIE Reauthorization Act",
+ "enacted": "2013-11-27",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Health",
+ "sponsor": "Sen. Alexander, Lamar [R-TN]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s252enr/xml/BILLS-113s252enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s252eah/xml/BILLS-113s252eah.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s252rfh/xml/BILLS-113s252rfh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s252es/xml/BILLS-113s252es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s252rs/xml/BILLS-113s252rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s252is/xml/BILLS-113s252is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-113publ55/uslm/PLAW-113publ55.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/113th-congress/senate-bill/252",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

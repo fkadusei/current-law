@@ -1,0 +1,40 @@
+{
+ "id": "pl-116-243",
+ "congress": 116,
+ "public_law": "116-243",
+ "bill": "HR 5317",
+ "title": "To designate the facility of the United States Postal Service located at 315 Addicks Howell Road in Houston, Texas, as the Deputy Sandeep Singh Dhaliwal Post Office Building.",
+ "enacted": "2020-12-21",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Fletcher, Lizzie [D-TX-7]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr5317enr/xml/BILLS-116hr5317enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr5317rfs/xml/BILLS-116hr5317rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr5317eh/xml/BILLS-116hr5317eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr5317ih/xml/BILLS-116hr5317ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ243/uslm/PLAW-116publ243.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/5317",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

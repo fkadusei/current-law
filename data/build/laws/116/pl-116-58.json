@@ -1,0 +1,43 @@
+{
+ "id": "pl-116-58",
+ "congress": 116,
+ "public_law": "116-58",
+ "bill": "HR 1200",
+ "title": "Veterans' Compensation Cost-of-Living Adjustment Act of 2019",
+ "enacted": "2019-09-26",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Rep. Luria, Elaine G. [D-VA-2]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1200enr/xml/BILLS-116hr1200enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1200rds/xml/BILLS-116hr1200rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1200eh/xml/BILLS-116hr1200eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1200rh/xml/BILLS-116hr1200rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1200ih/xml/BILLS-116hr1200ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ58/uslm/PLAW-116publ58.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/1200",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

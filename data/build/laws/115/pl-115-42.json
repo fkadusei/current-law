@@ -1,0 +1,43 @@
+{
+ "id": "pl-115-42",
+ "congress": 115,
+ "public_law": "115-42",
+ "bill": "S 1083",
+ "title": "A bill to amend section 1214 of title 5, United States Code, to provide for stays during a period that the Merit Systems Protection Board lacks a quorum.",
+ "enacted": "2017-06-27",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Sen. Johnson, Ron [R-WI]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s1083enr/xml/BILLS-115s1083enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s1083eah/xml/BILLS-115s1083eah.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s1083rfh/xml/BILLS-115s1083rfh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s1083es/xml/BILLS-115s1083es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s1083is/xml/BILLS-115s1083is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ42/uslm/PLAW-115publ42.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/1083",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

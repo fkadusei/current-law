@@ -1,0 +1,43 @@
+{
+ "id": "pl-116-36",
+ "congress": 116,
+ "public_law": "116-36",
+ "bill": "HR 2196",
+ "title": "To amend title 38, United States Code, to reduce the credit hour requirement for the Edith Nourse Rogers STEM Scholarship program of the Department of Veterans Affairs.",
+ "enacted": "2019-07-31",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Rep. Barr, Andy [R-KY-6]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr2196enr/xml/BILLS-116hr2196enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr2196rfs/xml/BILLS-116hr2196rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr2196eh/xml/BILLS-116hr2196eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr2196rh/xml/BILLS-116hr2196rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr2196ih/xml/BILLS-116hr2196ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ36/uslm/PLAW-116publ36.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/2196",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

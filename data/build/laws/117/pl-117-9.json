@@ -1,0 +1,37 @@
+{
+ "id": "pl-117-9",
+ "congress": 117,
+ "public_law": "117-9",
+ "bill": "S 415",
+ "title": "A bill to amend the Federal Food, Drug, and Cosmetic Act with respect to the scope of new chemical exclusivity.",
+ "enacted": "2021-04-23",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Health",
+ "sponsor": "Sen. Cassidy, Bill [R-LA]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s415enr/xml/BILLS-117s415enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s415es/xml/BILLS-117s415es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s415is/xml/BILLS-117s415is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ9/xml/PLAW-117publ9.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/senate-bill/415",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

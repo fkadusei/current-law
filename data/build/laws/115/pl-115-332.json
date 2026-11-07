@@ -1,0 +1,43 @@
+{
+ "id": "pl-115-332",
+ "congress": 115,
+ "public_law": "115-332",
+ "bill": "HR 3996",
+ "title": "Protecting Access to the Courts for Taxpayers Act",
+ "enacted": "2018-12-19",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Law",
+ "sponsor": "Rep. Issa, Darrell E. [R-CA-49]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr3996enr/xml/BILLS-115hr3996enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr3996rfs/xml/BILLS-115hr3996rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr3996eh/xml/BILLS-115hr3996eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr3996rh/xml/BILLS-115hr3996rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr3996ih/xml/BILLS-115hr3996ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ332/uslm/PLAW-115publ332.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/3996",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

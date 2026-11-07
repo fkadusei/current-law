@@ -1,0 +1,43 @@
+{
+ "id": "pl-115-216",
+ "congress": 115,
+ "public_law": "115-216",
+ "bill": "HR 4722",
+ "title": "To designate the facility of the United States Postal Service located at 111 Market Street in Saugerties, New York, as the \"Maurice D. Hinchey Post Office Building\".",
+ "enacted": "2018-07-24",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Faso, John J. [R-NY-19]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr4722enr/xml/BILLS-115hr4722enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr4722rs/xml/BILLS-115hr4722rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr4722rfs/xml/BILLS-115hr4722rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr4722eh/xml/BILLS-115hr4722eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr4722ih/xml/BILLS-115hr4722ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ216/uslm/PLAW-115publ216.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/4722",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

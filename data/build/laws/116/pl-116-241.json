@@ -1,0 +1,40 @@
+{
+ "id": "pl-116-241",
+ "congress": 116,
+ "public_law": "116-241",
+ "bill": "HR 4875",
+ "title": "To designate the facility of the United States Postal Service located at 2201 E. Maple Street in North Canton, Ohio, as the Lance Cpl. Stacy Annie Dryden Post Office.",
+ "enacted": "2020-12-21",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Gonzalez, Anthony [R-OH-16]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr4875enr/xml/BILLS-116hr4875enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr4875rfs/xml/BILLS-116hr4875rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr4875eh/xml/BILLS-116hr4875eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr4875ih/xml/BILLS-116hr4875ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ241/uslm/PLAW-116publ241.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/4875",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

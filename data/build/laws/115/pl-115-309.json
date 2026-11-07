@@ -1,0 +1,40 @@
+{
+ "id": "pl-115-309",
+ "congress": 115,
+ "public_law": "115-309",
+ "bill": "S 3389",
+ "title": "A bill to redesignate a facility of the National Aeronautics and Space Administration.",
+ "enacted": "2018-12-11",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Science, Technology, Communications",
+ "sponsor": "Sen. Capito, Shelley Moore [R-WV]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s3389enr/xml/BILLS-115s3389enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s3389rfh/xml/BILLS-115s3389rfh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s3389es/xml/BILLS-115s3389es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s3389is/xml/BILLS-115s3389is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ309/uslm/PLAW-115publ309.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/3389",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,43 @@
+{
+ "id": "pl-113-157",
+ "congress": 113,
+ "public_law": "113-157",
+ "bill": "HR 4631",
+ "title": "Autism CARES Act of 2014",
+ "enacted": "2014-08-08",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Health",
+ "sponsor": "Rep. Smith, Christopher H. [R-NJ-4]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr4631enr/xml/BILLS-113hr4631enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr4631rds/xml/BILLS-113hr4631rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr4631eh/xml/BILLS-113hr4631eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr4631rh/xml/BILLS-113hr4631rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr4631ih/xml/BILLS-113hr4631ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-113publ157/uslm/PLAW-113publ157.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/113th-congress/house-bill/4631",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

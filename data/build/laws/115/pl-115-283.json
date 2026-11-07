@@ -1,0 +1,43 @@
+{
+ "id": "pl-115-283",
+ "congress": 115,
+ "public_law": "115-283",
+ "bill": "HR 606",
+ "title": "To designate the facility of the United States Postal Service located at 1025 Nevin Avenue in Richmond, California, as the \"Harold D. McCraw, Sr., Post Office Building\".",
+ "enacted": "2018-12-06",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. DeSaulnier, Mark [D-CA-11]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr606enr/xml/BILLS-115hr606enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr606rs/xml/BILLS-115hr606rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr606rfs/xml/BILLS-115hr606rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr606eh/xml/BILLS-115hr606eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr606ih/xml/BILLS-115hr606ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ283/uslm/PLAW-115publ283.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/606",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

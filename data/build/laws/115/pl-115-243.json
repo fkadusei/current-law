@@ -1,0 +1,43 @@
+{
+ "id": "pl-115-243",
+ "congress": 115,
+ "public_law": "115-243",
+ "bill": "HR 6124",
+ "title": "Tribal Social Security Fairness Act of 2018",
+ "enacted": "2018-09-20",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Native Americans",
+ "sponsor": "Rep. Reichert, David G. [R-WA-8]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr6124enr/xml/BILLS-115hr6124enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr6124rds/xml/BILLS-115hr6124rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr6124eh/xml/BILLS-115hr6124eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr6124rh/xml/BILLS-115hr6124rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr6124ih/xml/BILLS-115hr6124ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ243/uslm/PLAW-115publ243.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/6124",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

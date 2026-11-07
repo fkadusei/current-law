@@ -1,0 +1,40 @@
+{
+ "id": "pl-115-347",
+ "congress": 115,
+ "public_law": "115-347",
+ "bill": "HR 3184",
+ "title": "To designate the facility of the United States Postal Service located at 180 McCormick Road in Charlottesville, Virginia, as the \"Captain Humayun Khan Post Office\".",
+ "enacted": "2018-12-21",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Garrett, Thomas A., Jr. [R-VA-5]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr3184enr/xml/BILLS-115hr3184enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr3184rds/xml/BILLS-115hr3184rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr3184eh/xml/BILLS-115hr3184eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr3184ih/xml/BILLS-115hr3184ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ347/uslm/PLAW-115publ347.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/3184",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,46 @@
+{
+ "id": "pl-115-224",
+ "congress": 115,
+ "public_law": "115-224",
+ "bill": "HR 2353",
+ "title": "Strengthening Career and Technical Education for the 21st Century Act",
+ "enacted": "2018-07-31",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Labor and Employment",
+ "sponsor": "Rep. Thompson, Glenn [R-PA-5]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr2353enr/xml/BILLS-115hr2353enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr2353eas/xml/BILLS-115hr2353eas.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr2353rfs/xml/BILLS-115hr2353rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr2353eh/xml/BILLS-115hr2353eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr2353rh/xml/BILLS-115hr2353rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr2353ih/xml/BILLS-115hr2353ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ224/uslm/PLAW-115publ224.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/2353",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,40 @@
+{
+ "id": "pl-116-319",
+ "congress": 116,
+ "public_law": "116-319",
+ "bill": "HR 7502",
+ "title": "To designate the facility of the United States Postal Service located at 101 South 16th Street in Clarinda, Iowa, as the Jessie Field Shambaugh Post Office Building.",
+ "enacted": "2021-01-05",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Axne, Cynthia [D-IA-3]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr7502enr/xml/BILLS-116hr7502enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr7502rfs/xml/BILLS-116hr7502rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr7502eh/xml/BILLS-116hr7502eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr7502ih/xml/BILLS-116hr7502ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ319/uslm/PLAW-116publ319.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/7502",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

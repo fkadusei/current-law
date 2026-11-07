@@ -1,0 +1,43 @@
+{
+ "id": "pl-115-138",
+ "congress": 115,
+ "public_law": "115-138",
+ "bill": "HR 1208",
+ "title": "To designate the facility of the United States Postal Service located at 9155 Schaefer Road, Converse, Texas, as the \"Converse Veterans Post Office Building\".",
+ "enacted": "2018-03-20",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Cuellar, Henry [D-TX-28]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1208enr/xml/BILLS-115hr1208enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1208rs/xml/BILLS-115hr1208rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1208rfs/xml/BILLS-115hr1208rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1208eh/xml/BILLS-115hr1208eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1208ih/xml/BILLS-115hr1208ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ138/uslm/PLAW-115publ138.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/1208",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

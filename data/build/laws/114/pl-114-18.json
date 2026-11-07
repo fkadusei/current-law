@@ -1,0 +1,40 @@
+{
+ "id": "pl-114-18",
+ "congress": 114,
+ "public_law": "114-18",
+ "bill": "S 1124",
+ "title": "WIOA Technical Amendments Act",
+ "enacted": "2015-05-22",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Labor and Employment",
+ "sponsor": "Sen. Alexander, Lamar [R-TN]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s1124enr/xml/BILLS-114s1124enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s1124rfh/xml/BILLS-114s1124rfh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s1124es/xml/BILLS-114s1124es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s1124pcs/xml/BILLS-114s1124pcs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-114publ18/uslm/PLAW-114publ18.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/114th-congress/senate-bill/1124",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

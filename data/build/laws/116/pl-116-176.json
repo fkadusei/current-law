@@ -1,0 +1,43 @@
+{
+ "id": "pl-116-176",
+ "congress": 116,
+ "public_law": "116-176",
+ "bill": "HR 1812",
+ "title": "Vet Center Eligibility Expansion Act",
+ "enacted": "2020-10-20",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Rep. Roe, David P. [R-TN-1]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1812enr/xml/BILLS-116hr1812enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1812rds/xml/BILLS-116hr1812rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1812eh/xml/BILLS-116hr1812eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1812rh/xml/BILLS-116hr1812rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1812ih/xml/BILLS-116hr1812ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ176/uslm/PLAW-116publ176.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/1812",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

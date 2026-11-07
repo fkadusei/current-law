@@ -1,0 +1,43 @@
+{
+ "id": "pl-115-212",
+ "congress": 115,
+ "public_law": "115-212",
+ "bill": "HR 4463",
+ "title": "To designate the facility of the United States Postal Service located at 6 Doyers Street in New York, New York, as the \"Mabel Lee Memorial Post Office\".",
+ "enacted": "2018-07-24",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Velazquez, Nydia M. [D-NY-7]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr4463enr/xml/BILLS-115hr4463enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr4463rs/xml/BILLS-115hr4463rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr4463rfs/xml/BILLS-115hr4463rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr4463eh/xml/BILLS-115hr4463eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr4463ih/xml/BILLS-115hr4463ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ212/uslm/PLAW-115publ212.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/4463",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

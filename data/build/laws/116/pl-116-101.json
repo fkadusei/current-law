@@ -1,0 +1,43 @@
+{
+ "id": "pl-116-101",
+ "congress": 116,
+ "public_law": "116-101",
+ "bill": "S 256",
+ "title": "Esther Martinez Native American Languages Programs Reauthorization Act",
+ "enacted": "2019-12-20",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Native Americans",
+ "sponsor": "Sen. Udall, Tom [D-NM]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s256enr/xml/BILLS-116s256enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s256rfh/xml/BILLS-116s256rfh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s256es/xml/BILLS-116s256es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s256rs/xml/BILLS-116s256rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s256is/xml/BILLS-116s256is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ101/uslm/PLAW-116publ101.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/senate-bill/256",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

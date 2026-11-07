@@ -1,0 +1,40 @@
+{
+ "id": "pl-115-92",
+ "congress": 115,
+ "public_law": "115-92",
+ "bill": "HR 4374",
+ "title": "To amend the Federal Food, Drug, and Cosmetic Act to authorize additional emergency uses for medical products to reduce deaths and severity of injuries caused by agents of war, and for other purposes.",
+ "enacted": "2017-12-12",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Health",
+ "sponsor": "Rep. Walden, Greg [R-OR-2]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr4374enr/xml/BILLS-115hr4374enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr4374eh/xml/BILLS-115hr4374eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr4374rds/xml/BILLS-115hr4374rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr4374ih/xml/BILLS-115hr4374ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ92/uslm/PLAW-115publ92.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/4374",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

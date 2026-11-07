@@ -1,0 +1,40 @@
+{
+ "id": "pl-114-316",
+ "congress": 114,
+ "public_law": "114-316",
+ "bill": "HR 6431",
+ "title": "Promoting Travel, Commerce, and National Security Act of 2016",
+ "enacted": "2016-12-16",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Crime and Law Enforcement",
+ "sponsor": "Rep. Kuster, Ann M. [D-NH-2]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr6431enr/xml/BILLS-114hr6431enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr6431rds/xml/BILLS-114hr6431rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr6431eh/xml/BILLS-114hr6431eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr6431ih/xml/BILLS-114hr6431ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-114publ316/uslm/PLAW-114publ316.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/114th-congress/house-bill/6431",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

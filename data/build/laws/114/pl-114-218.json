@@ -1,0 +1,37 @@
+{
+ "id": "pl-114-218",
+ "congress": 114,
+ "public_law": "114-218",
+ "bill": "S 3055",
+ "title": "Department of Veterans Affairs Dental Insurance Reauthorization Act of 2016",
+ "enacted": "2016-07-29",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Sen. Burr, Richard [R-NC]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s3055enr/xml/BILLS-114s3055enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s3055es/xml/BILLS-114s3055es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s3055is/xml/BILLS-114s3055is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-114publ218/uslm/PLAW-114publ218.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/114th-congress/senate-bill/3055",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

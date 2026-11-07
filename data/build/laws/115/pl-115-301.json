@@ -1,0 +1,43 @@
+{
+ "id": "pl-115-301",
+ "congress": 115,
+ "public_law": "115-301",
+ "bill": "HR 1074",
+ "title": "To repeal the Act entitled \"An Act to confer jurisdiction on the State of Iowa over offenses committed by or against Indians on the Sac and Fox Indian Reservation\".",
+ "enacted": "2018-12-11",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Native Americans",
+ "sponsor": "Rep. Blum, Rod [R-IA-1]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1074enr/xml/BILLS-115hr1074enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1074rfs/xml/BILLS-115hr1074rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1074eh/xml/BILLS-115hr1074eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1074rh/xml/BILLS-115hr1074rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1074ih/xml/BILLS-115hr1074ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ301/uslm/PLAW-115publ301.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/1074",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

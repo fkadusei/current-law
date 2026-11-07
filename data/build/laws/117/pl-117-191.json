@@ -1,0 +1,40 @@
+{
+ "id": "pl-117-191",
+ "congress": 117,
+ "public_law": "117-191",
+ "bill": "HR 7846",
+ "title": "Veterans' Compensation Cost-of-Living Adjustment Act of 2022",
+ "enacted": "2022-10-10",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Rep. Luria, Elaine G. [D-VA-2]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr7846enr/xml/BILLS-117hr7846enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr7846rds/xml/BILLS-117hr7846rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr7846eh/xml/BILLS-117hr7846eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr7846ih/xml/BILLS-117hr7846ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ191/uslm/PLAW-117publ191.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/house-bill/7846",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

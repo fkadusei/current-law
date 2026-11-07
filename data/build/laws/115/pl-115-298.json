@@ -1,0 +1,40 @@
+{
+ "id": "pl-115-298",
+ "congress": 115,
+ "public_law": "115-298",
+ "bill": "HJRES 143",
+ "title": "Making further continuing appropriations for fiscal year 2019, and for other purposes.",
+ "enacted": "2018-12-07",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Economics and Public Finance",
+ "sponsor": "Rep. Frelinghuysen, Rodney P. [R-NJ-11]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hjres143enr/xml/BILLS-115hjres143enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hjres143rds/xml/BILLS-115hjres143rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hjres143eh/xml/BILLS-115hjres143eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hjres143ih/xml/BILLS-115hjres143ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ298/uslm/PLAW-115publ298.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-joint-resolution/143",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

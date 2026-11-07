@@ -1,0 +1,40 @@
+{
+ "id": "pl-115-28",
+ "congress": 115,
+ "public_law": "115-28",
+ "bill": "SJRES 35",
+ "title": "A joint resolution providing for the appointment of Michael Govan as a citizen regent of the Board of Regents of the Smithsonian Institution.",
+ "enacted": "2017-04-19",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Sen. Boozman, John [R-AR]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115sjres35enr/xml/BILLS-115sjres35enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115sjres35rfh/xml/BILLS-115sjres35rfh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115sjres35es/xml/BILLS-115sjres35es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115sjres35is/xml/BILLS-115sjres35is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ28/uslm/PLAW-115publ28.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/senate-joint-resolution/35",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

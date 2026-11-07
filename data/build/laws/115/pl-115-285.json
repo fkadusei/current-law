@@ -1,0 +1,43 @@
+{
+ "id": "pl-115-285",
+ "congress": 115,
+ "public_law": "115-285",
+ "bill": "HR 2979",
+ "title": "To designate the facility of the United States Postal Service located at 390 West 5th Street in San Bernardino, California, as the \"Jack H. Brown Post Office Building\".",
+ "enacted": "2018-12-06",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Aguilar, Pete [D-CA-31]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr2979enr/xml/BILLS-115hr2979enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr2979rs/xml/BILLS-115hr2979rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr2979rfs/xml/BILLS-115hr2979rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr2979eh/xml/BILLS-115hr2979eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr2979ih/xml/BILLS-115hr2979ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ285/uslm/PLAW-115publ285.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/2979",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

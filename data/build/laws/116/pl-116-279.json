@@ -1,0 +1,46 @@
+{
+ "id": "pl-116-279",
+ "congress": 116,
+ "public_law": "116-279",
+ "bill": "S 2683",
+ "title": "Child Care Protection Improvement Act of 2020",
+ "enacted": "2020-12-31",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Families",
+ "sponsor": "Sen. Burr, Richard [R-NC]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s2683enr/xml/BILLS-116s2683enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s2683eah/xml/BILLS-116s2683eah.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s2683rfh/xml/BILLS-116s2683rfh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s2683es/xml/BILLS-116s2683es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s2683rs/xml/BILLS-116s2683rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s2683is/xml/BILLS-116s2683is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ279/uslm/PLAW-116publ279.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/senate-bill/2683",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

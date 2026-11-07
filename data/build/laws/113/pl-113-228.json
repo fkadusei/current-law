@@ -1,0 +1,40 @@
+{
+ "id": "pl-113-228",
+ "congress": 113,
+ "public_law": "113-228",
+ "bill": "HR 5681",
+ "title": "To provide for the approval of the Amendment to the Agreement Between the Government of the United States of America and the Government of the United Kingdom of Great Britain and Northern Ireland for Cooperation on the Uses of Atomic Energy for Mutual Defense Purposes.",
+ "enacted": "2014-12-16",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "International Affairs",
+ "sponsor": "Rep. Royce, Edward R. [R-CA-39]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr5681enr/xml/BILLS-113hr5681enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr5681rds/xml/BILLS-113hr5681rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr5681eh/xml/BILLS-113hr5681eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr5681ih/xml/BILLS-113hr5681ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-113publ228/uslm/PLAW-113publ228.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/113th-congress/house-bill/5681",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

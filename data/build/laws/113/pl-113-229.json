@@ -1,0 +1,43 @@
+{
+ "id": "pl-113-229",
+ "congress": 113,
+ "public_law": "113-229",
+ "bill": "HJRES 105",
+ "title": "Conferring honorary citizenship of the United States on Bernardo de Gálvez y Madrid, Viscount of Galveston and Count of Gálvez.",
+ "enacted": "2014-12-16",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Immigration",
+ "sponsor": "Rep. Miller, Jeff [R-FL-1]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hjres105enr/xml/BILLS-113hjres105enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hjres105rds/xml/BILLS-113hjres105rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hjres105eh/xml/BILLS-113hjres105eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hjres105rh/xml/BILLS-113hjres105rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hjres105ih/xml/BILLS-113hjres105ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-113publ229/uslm/PLAW-113publ229.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/113th-congress/house-joint-resolution/105",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

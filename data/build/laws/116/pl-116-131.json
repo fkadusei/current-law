@@ -1,0 +1,46 @@
+{
+ "id": "pl-116-131",
+ "congress": 116,
+ "public_law": "116-131",
+ "bill": "HR 4334",
+ "title": "Supporting Older Americans Act of 2020",
+ "enacted": "2020-03-25",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Social Welfare",
+ "sponsor": "Rep. Bonamici, Suzanne [D-OR-1]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr4334enr/xml/BILLS-116hr4334enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr4334eas/xml/BILLS-116hr4334eas.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr4334pcs/xml/BILLS-116hr4334pcs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr4334rh/xml/BILLS-116hr4334rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr4334eh/xml/BILLS-116hr4334eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr4334ih/xml/BILLS-116hr4334ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ131/uslm/PLAW-116publ131.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/4334",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

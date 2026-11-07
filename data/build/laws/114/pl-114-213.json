@@ -1,0 +1,40 @@
+{
+ "id": "pl-114-213",
+ "congress": 114,
+ "public_law": "114-213",
+ "bill": "HR 4987",
+ "title": "To designate the facility of the United States Postal Service located at 3957 2nd Avenue in Laurel Hill, Florida, as the \"Sergeant First Class William 'Kelly' Lacey Post Office\".",
+ "enacted": "2016-07-29",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Miller, Jeff [R-FL-1]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr4987enr/xml/BILLS-114hr4987enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr4987rfs/xml/BILLS-114hr4987rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr4987eh/xml/BILLS-114hr4987eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr4987ih/xml/BILLS-114hr4987ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-114publ213/uslm/PLAW-114publ213.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/114th-congress/house-bill/4987",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

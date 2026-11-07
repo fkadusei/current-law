@@ -1,0 +1,40 @@
+{
+ "id": "pl-115-193",
+ "congress": 115,
+ "public_law": "115-193",
+ "bill": "S 2246",
+ "title": "A bill to designate the health care center of the Department of Veterans Affairs in Tallahassee, Florida, as the Sergeant Ernest I. \"Boots\" Thomas VA Clinic, and for other purposes.",
+ "enacted": "2018-06-25",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Sen. Nelson, Bill [D-FL]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s2246enr/xml/BILLS-115s2246enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s2246rfh/xml/BILLS-115s2246rfh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s2246es/xml/BILLS-115s2246es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s2246is/xml/BILLS-115s2246is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ193/uslm/PLAW-115publ193.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/2246",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

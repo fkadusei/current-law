@@ -1,0 +1,40 @@
+{
+ "id": "pl-115-115",
+ "congress": 115,
+ "public_law": "115-115",
+ "bill": "HR 518",
+ "title": "EPS Improvement Act of 2017",
+ "enacted": "2018-01-12",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Energy",
+ "sponsor": "Rep. DeGette, Diana [D-CO-1]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr518enr/xml/BILLS-115hr518enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr518rfs/xml/BILLS-115hr518rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr518eh/xml/BILLS-115hr518eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr518ih/xml/BILLS-115hr518ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ115/uslm/PLAW-115publ115.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/518",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

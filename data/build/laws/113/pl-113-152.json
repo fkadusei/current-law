@@ -1,0 +1,43 @@
+{
+ "id": "pl-113-152",
+ "congress": 113,
+ "public_law": "113-152",
+ "bill": "HR 3548",
+ "title": "Improving Trauma Care Act of 2014",
+ "enacted": "2014-08-08",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Health",
+ "sponsor": "Rep. Johnson, Bill [R-OH-6]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr3548enr/xml/BILLS-113hr3548enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr3548rfs/xml/BILLS-113hr3548rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr3548eh/xml/BILLS-113hr3548eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr3548rh/xml/BILLS-113hr3548rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr3548ih/xml/BILLS-113hr3548ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-113publ152/uslm/PLAW-113publ152.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/113th-congress/house-bill/3548",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

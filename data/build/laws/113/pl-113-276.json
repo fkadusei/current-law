@@ -1,0 +1,40 @@
+{
+ "id": "pl-113-276",
+ "congress": 113,
+ "public_law": "113-276",
+ "bill": "S 1683",
+ "title": "A bill to provide for the transfer of naval vessels to certain foreign recipients, and for other purposes.",
+ "enacted": "2014-12-18",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "International Affairs",
+ "sponsor": "Sen. Menendez, Robert [D-NJ]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s1683enr/xml/BILLS-113s1683enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s1683es/xml/BILLS-113s1683es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s1683rs/xml/BILLS-113s1683rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s1683is/xml/BILLS-113s1683is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-113publ276/uslm/PLAW-113publ276.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/113th-congress/senate-bill/1683",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

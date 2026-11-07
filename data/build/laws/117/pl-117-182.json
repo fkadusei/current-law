@@ -1,0 +1,37 @@
+{
+ "id": "pl-117-182",
+ "congress": 117,
+ "public_law": "117-182",
+ "bill": "S 3969",
+ "title": "Protection and Advocacy for Voting Access Program Inclusion Act",
+ "enacted": "2022-09-30",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Sen. Lujan, Ben Ray [D-NM]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s3969enr/xml/BILLS-117s3969enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s3969es/xml/BILLS-117s3969es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s3969cps/xml/BILLS-117s3969cps.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ182/uslm/PLAW-117publ182.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/senate-bill/3969",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

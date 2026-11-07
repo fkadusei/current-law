@@ -1,0 +1,46 @@
+{
+ "id": "pl-115-194",
+ "congress": 115,
+ "public_law": "115-194",
+ "bill": "HR 931",
+ "title": "Firefighter Cancer Registry Act of 2018",
+ "enacted": "2018-07-07",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Health",
+ "sponsor": "Rep. Collins, Chris [R-NY-27]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr931enr/xml/BILLS-115hr931enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr931eas/xml/BILLS-115hr931eas.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr931rfs/xml/BILLS-115hr931rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr931eh/xml/BILLS-115hr931eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr931rh/xml/BILLS-115hr931rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr931ih/xml/BILLS-115hr931ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ194/uslm/PLAW-115publ194.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/931",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

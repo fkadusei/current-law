@@ -1,0 +1,43 @@
+{
+ "id": "pl-114-97",
+ "congress": 114,
+ "public_law": "114-97",
+ "bill": "S 599",
+ "title": "Improving Access to Emergency Psychiatric Care Act",
+ "enacted": "2015-12-11",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Health",
+ "sponsor": "Sen. Cardin, Benjamin L. [D-MD]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s599enr/xml/BILLS-114s599enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s599eah/xml/BILLS-114s599eah.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s599es/xml/BILLS-114s599es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s599rs/xml/BILLS-114s599rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s599is/xml/BILLS-114s599is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-114publ97/uslm/PLAW-114publ97.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/114th-congress/senate-bill/599",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

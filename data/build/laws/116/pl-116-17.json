@@ -1,0 +1,40 @@
+{
+ "id": "pl-116-17",
+ "congress": 116,
+ "public_law": "116-17",
+ "bill": "HR 1222",
+ "title": "Target Practice and Marksmanship Training Support Act",
+ "enacted": "2019-05-10",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Public Lands and Natural Resources",
+ "sponsor": "Rep. Kind, Ron [D-WI-3]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1222enr/xml/BILLS-116hr1222enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1222rds/xml/BILLS-116hr1222rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1222eh/xml/BILLS-116hr1222eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1222ih/xml/BILLS-116hr1222ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ17/uslm/PLAW-116publ17.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/1222",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

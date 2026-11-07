@@ -1,0 +1,37 @@
+{
+ "id": "pl-116-193",
+ "congress": 116,
+ "public_law": "116-193",
+ "bill": "S 4762",
+ "title": "A bill to designate the airport traffic control tower located at Piedmont Triad International Airport in Greensboro, North Carolina, as the \"Senator Kay Hagan Airport Traffic Control Tower\".",
+ "enacted": "2020-10-30",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Transportation and Public Works",
+ "sponsor": "Sen. Burr, Richard [R-NC]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s4762enr/xml/BILLS-116s4762enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s4762es/xml/BILLS-116s4762es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s4762cps/xml/BILLS-116s4762cps.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ193/uslm/PLAW-116publ193.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/senate-bill/4762",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

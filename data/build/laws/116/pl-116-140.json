@@ -1,0 +1,40 @@
+{
+ "id": "pl-116-140",
+ "congress": 116,
+ "public_law": "116-140",
+ "bill": "HR 6322",
+ "title": "Student Veteran Coronavirus Response Act of 2020",
+ "enacted": "2020-04-28",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Rep. Takano, Mark [D-CA-41]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr6322enr/xml/BILLS-116hr6322enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr6322rds/xml/BILLS-116hr6322rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr6322eh/xml/BILLS-116hr6322eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr6322ih/xml/BILLS-116hr6322ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ140/uslm/PLAW-116publ140.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/6322",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

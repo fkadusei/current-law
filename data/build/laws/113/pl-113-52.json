@@ -1,0 +1,43 @@
+{
+ "id": "pl-113-52",
+ "congress": 113,
+ "public_law": "113-52",
+ "bill": "S 893",
+ "title": "Veterans' Compensation Cost-of-Living Adjustment Act of 2013",
+ "enacted": "2013-11-21",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Sen. Sanders, Bernard [I-VT]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s893enr/xml/BILLS-113s893enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s893rfh/xml/BILLS-113s893rfh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s893es/xml/BILLS-113s893es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s893rs/xml/BILLS-113s893rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s893is/xml/BILLS-113s893is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-113publ52/uslm/PLAW-113publ52.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/113th-congress/senate-bill/893",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

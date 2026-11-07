@@ -1,0 +1,37 @@
+{
+ "id": "pl-117-240",
+ "congress": 117,
+ "public_law": "117-240",
+ "bill": "S 4017",
+ "title": "A bill to designate the United States courthouse located at 111 South Highland Avenue in Jackson, Tennessee, as the \"James D. Todd United States Courthouse\", and for other purposes.",
+ "enacted": "2022-12-20",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Sen. Blackburn, Marsha [R-TN]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s4017enr/xml/BILLS-117s4017enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s4017es/xml/BILLS-117s4017es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s4017is/xml/BILLS-117s4017is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ240/uslm/PLAW-117publ240.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/senate-bill/4017",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

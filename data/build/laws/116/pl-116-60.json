@@ -1,0 +1,43 @@
+{
+ "id": "pl-116-60",
+ "congress": 116,
+ "public_law": "116-60",
+ "bill": "HR 1058",
+ "title": "Autism Collaboration, Accountability, Research, Education, and Support Act of 2019",
+ "enacted": "2019-09-30",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Health",
+ "sponsor": "Rep. Smith, Christopher H. [R-NJ-4]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1058enr/xml/BILLS-116hr1058enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1058rds/xml/BILLS-116hr1058rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1058eh/xml/BILLS-116hr1058eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1058rh/xml/BILLS-116hr1058rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1058ih/xml/BILLS-116hr1058ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ60/uslm/PLAW-116publ60.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/1058",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

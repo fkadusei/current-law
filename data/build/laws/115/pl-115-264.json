@@ -1,0 +1,49 @@
+{
+ "id": "pl-115-264",
+ "congress": 115,
+ "public_law": "115-264",
+ "bill": "HR 1551",
+ "title": "Orrin G. Hatch-Bob Goodlatte Music Modernization Act",
+ "enacted": "2018-10-11",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Commerce",
+ "sponsor": "Rep. Rice, Tom [R-SC-7]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1551enr/xml/BILLS-115hr1551enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1551eas/xml/BILLS-115hr1551eas.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1551pcs/xml/BILLS-115hr1551pcs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1551rds/xml/BILLS-115hr1551rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1551eh/xml/BILLS-115hr1551eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1551rh/xml/BILLS-115hr1551rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1551ih/xml/BILLS-115hr1551ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ264/uslm/PLAW-115publ264.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/1551",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

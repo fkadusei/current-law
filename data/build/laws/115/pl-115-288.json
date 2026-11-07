@@ -1,0 +1,43 @@
+{
+ "id": "pl-115-288",
+ "congress": 115,
+ "public_law": "115-288",
+ "bill": "HR 4913",
+ "title": "To designate the facility of the United States Postal Service located at 816 East Salisbury Parkway in Salisbury, Maryland, as the \"Sgt. Maj. Wardell B. Turner Post Office Building\".",
+ "enacted": "2018-12-06",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Harris, Andy [R-MD-1]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr4913enr/xml/BILLS-115hr4913enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr4913rs/xml/BILLS-115hr4913rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr4913rfs/xml/BILLS-115hr4913rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr4913eh/xml/BILLS-115hr4913eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr4913ih/xml/BILLS-115hr4913ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ288/uslm/PLAW-115publ288.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/4913",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

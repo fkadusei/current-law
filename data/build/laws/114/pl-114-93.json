@@ -1,0 +1,37 @@
+{
+ "id": "pl-114-93",
+ "congress": 114,
+ "public_law": "114-93",
+ "bill": "S 2036",
+ "title": "Equity in Government Compensation Act of 2015",
+ "enacted": "2015-11-25",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Housing and Community Development",
+ "sponsor": "Sen. Vitter, David [R-LA]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s2036enr/xml/BILLS-114s2036enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s2036es/xml/BILLS-114s2036es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s2036cps/xml/BILLS-114s2036cps.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-114publ93/uslm/PLAW-114publ93.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/114th-congress/senate-bill/2036",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

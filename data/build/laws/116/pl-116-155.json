@@ -1,0 +1,43 @@
+{
+ "id": "pl-116-155",
+ "congress": 116,
+ "public_law": "116-155",
+ "bill": "HR 4920",
+ "title": "Department of Veterans Affairs Contracting Preference Consistency Act of 2020",
+ "enacted": "2020-08-08",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Rep. Takano, Mark [D-CA-41]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr4920enr/xml/BILLS-116hr4920enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr4920eas/xml/BILLS-116hr4920eas.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr4920rfs/xml/BILLS-116hr4920rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr4920eh/xml/BILLS-116hr4920eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr4920ih/xml/BILLS-116hr4920ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ155/uslm/PLAW-116publ155.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/4920",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

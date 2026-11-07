@@ -1,0 +1,40 @@
+{
+ "id": "pl-116-227",
+ "congress": 116,
+ "public_law": "116-227",
+ "bill": "HR 2246",
+ "title": "To designate the facility of the United States Postal Service located at 201 West Cherokee Street in Brookhaven, Mississippi, as the Deputy Donald William Durr, Corporal Zach Moak, and Patrolman James White Memorial Post Office Building.",
+ "enacted": "2020-12-21",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Guest, Michael [R-MS-3]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr2246enr/xml/BILLS-116hr2246enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr2246rfs/xml/BILLS-116hr2246rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr2246eh/xml/BILLS-116hr2246eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr2246ih/xml/BILLS-116hr2246ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ227/uslm/PLAW-116publ227.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/2246",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

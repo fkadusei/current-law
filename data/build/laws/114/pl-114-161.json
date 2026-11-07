@@ -1,0 +1,40 @@
+{
+ "id": "pl-114-161",
+ "congress": 114,
+ "public_law": "114-161",
+ "bill": "S 1492",
+ "title": "A bill to direct the Administrator of General Services, on behalf of the Archivist of the United States, to convey certain Federal property located in the State of Alaska to the Municipality of Anchorage, Alaska.",
+ "enacted": "2016-05-20",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Public Lands and Natural Resources",
+ "sponsor": "Sen. Sullivan, Dan [R-AK]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s1492enr/xml/BILLS-114s1492enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s1492es/xml/BILLS-114s1492es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s1492rs/xml/BILLS-114s1492rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s1492is/xml/BILLS-114s1492is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-114publ161/uslm/PLAW-114publ161.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/114th-congress/senate-bill/1492",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

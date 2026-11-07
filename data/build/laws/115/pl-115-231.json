@@ -1,0 +1,40 @@
+{
+ "id": "pl-115-231",
+ "congress": 115,
+ "public_law": "115-231",
+ "bill": "S 2779",
+ "title": "Zimbabwe Democracy and Economic Recovery Amendment Act of 2018",
+ "enacted": "2018-08-08",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "International Affairs",
+ "sponsor": "Sen. Flake, Jeff [R-AZ]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s2779enr/xml/BILLS-115s2779enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s2779es/xml/BILLS-115s2779es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s2779rs/xml/BILLS-115s2779rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s2779is/xml/BILLS-115s2779is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ231/uslm/PLAW-115publ231.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/2779",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

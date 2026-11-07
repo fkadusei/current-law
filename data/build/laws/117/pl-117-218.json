@@ -1,0 +1,40 @@
+{
+ "id": "pl-117-218",
+ "congress": 117,
+ "public_law": "117-218",
+ "bill": "S 3884",
+ "title": "A bill to designate the facility of the United States Postal Service located at 404 U.S. Highway 41 North in Baraga, Michigan, as the \"Cora Reynolds Anderson Post Office\".",
+ "enacted": "2022-12-02",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Sen. Peters, Gary C. [D-MI]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s3884enr/xml/BILLS-117s3884enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s3884es/xml/BILLS-117s3884es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s3884rs/xml/BILLS-117s3884rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s3884is/xml/BILLS-117s3884is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ218/uslm/PLAW-117publ218.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/senate-bill/3884",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

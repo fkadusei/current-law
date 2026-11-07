@@ -1,0 +1,43 @@
+{
+ "id": "pl-117-35",
+ "congress": 117,
+ "public_law": "117-35",
+ "bill": "HR 772",
+ "title": "To designate the facility of the United States Postal Service located at 229 Minnetonka Avenue South in Wayzata, Minnesota, as the Jim Ramstad Post Office.",
+ "enacted": "2021-08-06",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Phillips, Dean [D-MN-3]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr772enr/xml/BILLS-117hr772enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr772rs/xml/BILLS-117hr772rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr772rfs/xml/BILLS-117hr772rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr772eh/xml/BILLS-117hr772eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr772ih/xml/BILLS-117hr772ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ35/xml/PLAW-117publ35.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/house-bill/772",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

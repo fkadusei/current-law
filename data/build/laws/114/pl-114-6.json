@@ -1,0 +1,40 @@
+{
+ "id": "pl-114-6",
+ "congress": 114,
+ "public_law": "114-6",
+ "bill": "HR 1213",
+ "title": "Office of Compliance Administrative and Technical Corrections Act of 2015",
+ "enacted": "2015-03-20",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Congress",
+ "sponsor": "Rep. Miller, Candice S. [R-MI-10]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr1213enr/xml/BILLS-114hr1213enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr1213rds/xml/BILLS-114hr1213rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr1213eh/xml/BILLS-114hr1213eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr1213ih/xml/BILLS-114hr1213ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-114publ6/uslm/PLAW-114publ6.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/114th-congress/house-bill/1213",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

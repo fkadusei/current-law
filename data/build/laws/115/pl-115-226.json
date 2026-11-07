@@ -1,0 +1,40 @@
+{
+ "id": "pl-115-226",
+ "congress": 115,
+ "public_law": "115-226",
+ "bill": "S 2245",
+ "title": "KIWI Act",
+ "enacted": "2018-08-01",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Immigration",
+ "sponsor": "Sen. Hirono, Mazie K. [D-HI]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s2245enr/xml/BILLS-115s2245enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s2245rfh/xml/BILLS-115s2245rfh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s2245es/xml/BILLS-115s2245es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s2245is/xml/BILLS-115s2245is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ226/uslm/PLAW-115publ226.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/2245",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

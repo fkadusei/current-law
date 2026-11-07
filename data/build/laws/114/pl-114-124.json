@@ -1,0 +1,43 @@
+{
+ "id": "pl-114-124",
+ "congress": 114,
+ "public_law": "114-124",
+ "bill": "HR 3033",
+ "title": "Research Excellence and Advancements for Dyslexia Act",
+ "enacted": "2016-02-18",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Education",
+ "sponsor": "Rep. Smith, Lamar [R-TX-21]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr3033enr/xml/BILLS-114hr3033enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr3033eas/xml/BILLS-114hr3033eas.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr3033rfs/xml/BILLS-114hr3033rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr3033eh/xml/BILLS-114hr3033eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr3033ih/xml/BILLS-114hr3033ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-114publ124/uslm/PLAW-114publ124.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/114th-congress/house-bill/3033",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

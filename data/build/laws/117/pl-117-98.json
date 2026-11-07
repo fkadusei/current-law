@@ -1,0 +1,40 @@
+{
+ "id": "pl-117-98",
+ "congress": 117,
+ "public_law": "117-98",
+ "bill": "HR 3665",
+ "title": "To designate the medical center of the Department of Veterans Affairs in San Diego, California, as the Jennifer Moreno Department of Veterans Affairs Medical Center, and to support the designation of a component of such medical center in honor of Kathleen Bruyere.",
+ "enacted": "2022-03-14",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Rep. Levin, Mike [D-CA-49]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr3665enr/xml/BILLS-117hr3665enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr3665rfs/xml/BILLS-117hr3665rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr3665eh/xml/BILLS-117hr3665eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr3665ih/xml/BILLS-117hr3665ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ98/uslm/PLAW-117publ98.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/house-bill/3665",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

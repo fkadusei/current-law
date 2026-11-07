@@ -1,0 +1,40 @@
+{
+ "id": "pl-117-12",
+ "congress": 117,
+ "public_law": "117-12",
+ "bill": "HR 2630",
+ "title": "Extending Temporary Emergency Scheduling of Fentanyl Analogues Act",
+ "enacted": "2021-05-04",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Crime and Law Enforcement",
+ "sponsor": "Rep. Pappas, Chris [D-NH-1]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr2630enr/xml/BILLS-117hr2630enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr2630rds/xml/BILLS-117hr2630rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr2630eh/xml/BILLS-117hr2630eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr2630ih/xml/BILLS-117hr2630ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ12/xml/PLAW-117publ12.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/house-bill/2630",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

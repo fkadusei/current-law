@@ -1,0 +1,43 @@
+{
+ "id": "pl-114-75",
+ "congress": 114,
+ "public_law": "114-75",
+ "bill": "HR 313",
+ "title": "Wounded Warriors Federal Leave Act of 2015",
+ "enacted": "2015-11-05",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Lynch, Stephen F. [D-MA-8]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr313enr/xml/BILLS-114hr313enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr313rfs/xml/BILLS-114hr313rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr313eh/xml/BILLS-114hr313eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr313rh/xml/BILLS-114hr313rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr313ih/xml/BILLS-114hr313ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-114publ75/uslm/PLAW-114publ75.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/114th-congress/house-bill/313",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

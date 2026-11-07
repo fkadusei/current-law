@@ -1,0 +1,40 @@
+{
+ "id": "pl-116-297",
+ "congress": 116,
+ "public_law": "116-297",
+ "bill": "HR 5023",
+ "title": "To name the Department of Veterans Affairs community-based outpatient clinic in Youngstown, Ohio, as the Carl Nunziato VA Clinic.",
+ "enacted": "2021-01-05",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Rep. Ryan, Tim [D-OH-13]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr5023enr/xml/BILLS-116hr5023enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr5023rds/xml/BILLS-116hr5023rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr5023eh/xml/BILLS-116hr5023eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr5023ih/xml/BILLS-116hr5023ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ297/uslm/PLAW-116publ297.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/5023",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

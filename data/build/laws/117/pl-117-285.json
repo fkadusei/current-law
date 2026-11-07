@@ -1,0 +1,40 @@
+{
+ "id": "pl-117-285",
+ "congress": 117,
+ "public_law": "117-285",
+ "bill": "HR 5952",
+ "title": "To designate the facility of the United States Postal Service located at 123 East Main Street, in Vergas, Minnesota, as the \"Jon Glawe Post Office\".",
+ "enacted": "2022-12-27",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Fischbach, Michelle [R-MN-7]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr5952enr/xml/BILLS-117hr5952enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr5952rds/xml/BILLS-117hr5952rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr5952eh/xml/BILLS-117hr5952eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr5952ih/xml/BILLS-117hr5952ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ285/uslm/PLAW-117publ285.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/house-bill/5952",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

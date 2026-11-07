@@ -1,0 +1,43 @@
+{
+ "id": "pl-114-180",
+ "congress": 114,
+ "public_law": "114-180",
+ "bill": "HR 2137",
+ "title": "Federal Law Enforcement Self-Defense and Protection Act of 2015",
+ "enacted": "2016-06-22",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Crime and Law Enforcement",
+ "sponsor": "Rep. Collins, Doug [R-GA-9]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr2137enr/xml/BILLS-114hr2137enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr2137rds/xml/BILLS-114hr2137rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr2137eh/xml/BILLS-114hr2137eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr2137rh/xml/BILLS-114hr2137rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr2137ih/xml/BILLS-114hr2137ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-114publ180/uslm/PLAW-114publ180.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/114th-congress/house-bill/2137",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

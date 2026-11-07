@@ -1,0 +1,46 @@
+{
+ "id": "pl-115-196",
+ "congress": 115,
+ "public_law": "115-196",
+ "bill": "S 1091",
+ "title": "Supporting Grandparents Raising Grandchildren Act",
+ "enacted": "2018-07-07",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Families",
+ "sponsor": "Sen. Collins, Susan M. [R-ME]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s1091enr/xml/BILLS-115s1091enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s1091eah/xml/BILLS-115s1091eah.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s1091rfh/xml/BILLS-115s1091rfh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s1091es/xml/BILLS-115s1091es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s1091rs/xml/BILLS-115s1091rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s1091is/xml/BILLS-115s1091is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ196/uslm/PLAW-115publ196.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/1091",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

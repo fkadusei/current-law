@@ -1,0 +1,40 @@
+{
+ "id": "pl-116-293",
+ "congress": 116,
+ "public_law": "116-293",
+ "bill": "HR 3976",
+ "title": "To designate the facility of the United States Postal Service located at 12711 East Jefferson Avenue in Detroit, Michigan, as the Aretha Franklin Post Office Building.",
+ "enacted": "2021-01-05",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Lawrence, Brenda L. [D-MI-14]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr3976enr/xml/BILLS-116hr3976enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr3976rfs/xml/BILLS-116hr3976rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr3976eh/xml/BILLS-116hr3976eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr3976ih/xml/BILLS-116hr3976ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ293/uslm/PLAW-116publ293.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/3976",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

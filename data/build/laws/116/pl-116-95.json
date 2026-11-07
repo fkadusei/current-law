@@ -1,0 +1,43 @@
+{
+ "id": "pl-116-95",
+ "congress": 116,
+ "public_law": "116-95",
+ "bill": "HR 1138",
+ "title": "To reauthorize the West Valley demonstration project, and for other purposes.",
+ "enacted": "2019-12-20",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Energy",
+ "sponsor": "Rep. Reed, Tom [R-NY-23]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1138enr/xml/BILLS-116hr1138enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1138rs/xml/BILLS-116hr1138rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1138rfs/xml/BILLS-116hr1138rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1138eh/xml/BILLS-116hr1138eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1138ih/xml/BILLS-116hr1138ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ95/uslm/PLAW-116publ95.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/1138",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

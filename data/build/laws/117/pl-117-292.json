@@ -1,0 +1,40 @@
+{
+ "id": "pl-117-292",
+ "congress": 117,
+ "public_law": "117-292",
+ "bill": "HR 6220",
+ "title": "To designate the facility of the United States Postal Service located at 100 3rd Avenue Northwest in Perham, Minnesota, as the \"Charles P. Nord Post Office\".",
+ "enacted": "2022-12-27",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Fischbach, Michelle [R-MN-7]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr6220enr/xml/BILLS-117hr6220enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr6220rds/xml/BILLS-117hr6220rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr6220eh/xml/BILLS-117hr6220eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr6220ih/xml/BILLS-117hr6220ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ292/uslm/PLAW-117publ292.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/house-bill/6220",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

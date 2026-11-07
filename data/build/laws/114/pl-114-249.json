@@ -1,0 +1,40 @@
+{
+ "id": "pl-114-249",
+ "congress": 114,
+ "public_law": "114-249",
+ "bill": "HR 4665",
+ "title": "Outdoor Recreation Jobs and Economic Impact Act of 2016",
+ "enacted": "2016-12-08",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Commerce",
+ "sponsor": "Rep. Beyer, Donald S., Jr. [D-VA-8]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr4665enr/xml/BILLS-114hr4665enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr4665pcs/xml/BILLS-114hr4665pcs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr4665eh/xml/BILLS-114hr4665eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr4665ih/xml/BILLS-114hr4665ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-114publ249/uslm/PLAW-114publ249.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/114th-congress/house-bill/4665",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

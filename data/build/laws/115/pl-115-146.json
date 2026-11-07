@@ -1,0 +1,43 @@
+{
+ "id": "pl-115-146",
+ "congress": 115,
+ "public_law": "115-146",
+ "bill": "HR 2815",
+ "title": "To designate the facility of the United States Postal Service located at 30 East Somerset Street in Raritan, New Jersey, as the \"Gunnery Sergeant John Basilone Post Office\".",
+ "enacted": "2018-03-23",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Lance, Leonard [R-NJ-7]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr2815enr/xml/BILLS-115hr2815enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr2815rs/xml/BILLS-115hr2815rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr2815rfs/xml/BILLS-115hr2815rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr2815eh/xml/BILLS-115hr2815eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr2815ih/xml/BILLS-115hr2815ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ146/uslm/PLAW-115publ146.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/2815",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

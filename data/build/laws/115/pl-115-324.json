@@ -1,0 +1,43 @@
+{
+ "id": "pl-115-324",
+ "congress": 115,
+ "public_law": "115-324",
+ "bill": "HR 6330",
+ "title": "Small Business Runway Extension Act of 2018",
+ "enacted": "2018-12-17",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Commerce",
+ "sponsor": "Rep. Knight, Stephen [R-CA-25]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr6330enr/xml/BILLS-115hr6330enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr6330rfs/xml/BILLS-115hr6330rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr6330eh/xml/BILLS-115hr6330eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr6330rh/xml/BILLS-115hr6330rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr6330ih/xml/BILLS-115hr6330ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ324/uslm/PLAW-115publ324.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/6330",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,40 @@
+{
+ "id": "pl-117-56",
+ "congress": 117,
+ "public_law": "117-56",
+ "bill": "HR 3475",
+ "title": "To name the Department of Veterans Affairs community-based outpatient clinic in Columbus, Georgia, as the Robert S. Poydasheff VA Clinic.",
+ "enacted": "2021-11-12",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Rep. Bishop, Sanford D., Jr. [D-GA-2]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr3475enr/xml/BILLS-117hr3475enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr3475rfs/xml/BILLS-117hr3475rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr3475eh/xml/BILLS-117hr3475eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr3475ih/xml/BILLS-117hr3475ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ56/uslm/PLAW-117publ56.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/house-bill/3475",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,40 @@
+{
+ "id": "pl-117-309",
+ "congress": 117,
+ "public_law": "117-309",
+ "bill": "HR 8025",
+ "title": "To designate the facility of the United States Postal Service located at 100 South 1st Street in Minneapolis, Minnesota, as the \"Martin Olav Sabo Post Office\".",
+ "enacted": "2022-12-27",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Omar, Ilhan [D-MN-5]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr8025enr/xml/BILLS-117hr8025enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr8025rfs/xml/BILLS-117hr8025rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr8025eh/xml/BILLS-117hr8025eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr8025ih/xml/BILLS-117hr8025ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ309/uslm/PLAW-117publ309.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/house-bill/8025",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,40 @@
+{
+ "id": "pl-114-150",
+ "congress": 114,
+ "public_law": "114-150",
+ "bill": "S 1638",
+ "title": "Department of Homeland Security Headquarters Consolidation Accountability Act of 2015",
+ "enacted": "2016-04-29",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Sen. Johnson, Ron [R-WI]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s1638enr/xml/BILLS-114s1638enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s1638es/xml/BILLS-114s1638es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s1638rs/xml/BILLS-114s1638rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s1638is/xml/BILLS-114s1638is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-114publ150/uslm/PLAW-114publ150.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/114th-congress/senate-bill/1638",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

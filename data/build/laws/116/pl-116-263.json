@@ -1,0 +1,40 @@
+{
+ "id": "pl-116-263",
+ "congress": 116,
+ "public_law": "116-263",
+ "bill": "S 2472",
+ "title": "Neil A. Armstrong Test Facility Act",
+ "enacted": "2020-12-30",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Science, Technology, Communications",
+ "sponsor": "Sen. Portman, Rob [R-OH]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s2472enr/xml/BILLS-116s2472enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s2472es/xml/BILLS-116s2472es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s2472rs/xml/BILLS-116s2472rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s2472is/xml/BILLS-116s2472is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ263/uslm/PLAW-116publ263.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/senate-bill/2472",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

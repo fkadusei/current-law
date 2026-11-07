@@ -1,0 +1,46 @@
+{
+ "id": "pl-115-311",
+ "congress": 115,
+ "public_law": "115-311",
+ "bill": "HR 1207",
+ "title": "To designate the facility of the United States Postal Service located at 306 River Street in Tilden, Texas, as the \"Tilden Veterans Post Office\".",
+ "enacted": "2018-12-13",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Cuellar, Henry [D-TX-28]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1207enr/xml/BILLS-115hr1207enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1207eas/xml/BILLS-115hr1207eas.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1207rs/xml/BILLS-115hr1207rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1207rfs/xml/BILLS-115hr1207rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1207eh/xml/BILLS-115hr1207eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1207ih/xml/BILLS-115hr1207ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ311/uslm/PLAW-115publ311.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/1207",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

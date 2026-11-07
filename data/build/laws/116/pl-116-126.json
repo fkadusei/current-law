@@ -1,0 +1,40 @@
+{
+ "id": "pl-116-126",
+ "congress": 116,
+ "public_law": "116-126",
+ "bill": "HR 5214",
+ "title": "Representative Payee Fraud Prevention Act of 2019",
+ "enacted": "2020-03-18",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Tlaib, Rashida [D-MI-13]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr5214enr/xml/BILLS-116hr5214enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr5214rds/xml/BILLS-116hr5214rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr5214eh/xml/BILLS-116hr5214eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr5214ih/xml/BILLS-116hr5214ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ126/uslm/PLAW-116publ126.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/5214",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,46 @@
+{
+ "id": "pl-115-101",
+ "congress": 115,
+ "public_law": "115-101",
+ "bill": "HR 560",
+ "title": "To amend the Delaware Water Gap National Recreation Area Improvement Act to provide access to certain vehicles serving residents of municipalities adjacent to the Delaware Water Gap National Recreation Area, and for other purposes.",
+ "enacted": "2018-01-08",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Public Lands and Natural Resources",
+ "sponsor": "Rep. Marino, Tom [R-PA-10]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr560enr/xml/BILLS-115hr560enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr560rs/xml/BILLS-115hr560rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr560rfs/xml/BILLS-115hr560rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr560rds/xml/BILLS-115hr560rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr560eh/xml/BILLS-115hr560eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr560ih/xml/BILLS-115hr560ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ101/uslm/PLAW-115publ101.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/560",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

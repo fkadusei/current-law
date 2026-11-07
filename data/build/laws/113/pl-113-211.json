@@ -1,0 +1,40 @@
+{
+ "id": "pl-113-211",
+ "congress": 113,
+ "public_law": "113-211",
+ "bill": "HR 2223",
+ "title": "To designate the facility of the United States Postal Service located at 220 Elm Avenue in Munising, Michigan, as the \"Elizabeth L. Kinnunen Post Office Building\".",
+ "enacted": "2014-12-16",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Benishek, Dan [R-MI-1]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr2223enr/xml/BILLS-113hr2223enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr2223rfs/xml/BILLS-113hr2223rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr2223eh/xml/BILLS-113hr2223eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr2223ih/xml/BILLS-113hr2223ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-113publ211/uslm/PLAW-113publ211.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/113th-congress/house-bill/2223",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,43 @@
+{
+ "id": "pl-116-108",
+ "congress": 116,
+ "public_law": "116-108",
+ "bill": "HR 2476",
+ "title": "Securing American Nonprofit Organizations Against Terrorism Act of 2019",
+ "enacted": "2020-01-24",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Emergency Management",
+ "sponsor": "Rep. Thompson, Bennie G. [D-MS-2]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr2476enr/xml/BILLS-116hr2476enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr2476rfs/xml/BILLS-116hr2476rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr2476eh/xml/BILLS-116hr2476eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr2476rh/xml/BILLS-116hr2476rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr2476ih/xml/BILLS-116hr2476ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ108/uslm/PLAW-116publ108.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/2476",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

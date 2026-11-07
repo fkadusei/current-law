@@ -1,0 +1,40 @@
+{
+ "id": "pl-113-183",
+ "congress": 113,
+ "public_law": "113-183",
+ "bill": "HR 4980",
+ "title": "Preventing Sex Trafficking and Strengthening Families Act",
+ "enacted": "2014-09-29",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Families",
+ "sponsor": "Rep. Camp, Dave [R-MI-4]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr4980enr/xml/BILLS-113hr4980enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr4980rds/xml/BILLS-113hr4980rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr4980eh/xml/BILLS-113hr4980eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr4980ih/xml/BILLS-113hr4980ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-113publ183/uslm/PLAW-113publ183.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/113th-congress/house-bill/4980",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,43 @@
+{
+ "id": "pl-117-34",
+ "congress": 117,
+ "public_law": "117-34",
+ "bill": "HR 264",
+ "title": "To designate the facility of the United States Postal Service located at 1101 Charlotte Street in Georgetown, South Carolina, as the \"Joseph Hayne Rainey Memorial Post Office Building\".",
+ "enacted": "2021-08-06",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Rice, Tom [R-SC-7]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr264enr/xml/BILLS-117hr264enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr264rs/xml/BILLS-117hr264rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr264rfs/xml/BILLS-117hr264rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr264eh/xml/BILLS-117hr264eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr264ih/xml/BILLS-117hr264ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ34/xml/PLAW-117publ34.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/house-bill/264",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

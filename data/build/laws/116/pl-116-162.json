@@ -1,0 +1,40 @@
+{
+ "id": "pl-116-162",
+ "congress": 116,
+ "public_law": "116-162",
+ "bill": "HJRES 87",
+ "title": "Providing for the reappointment of Michael M. Lynton as a citizen regent of the Board of Regents of the Smithsonian Institution.",
+ "enacted": "2020-10-02",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Matsui, Doris O. [D-CA-6]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hjres87enr/xml/BILLS-116hjres87enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hjres87rds/xml/BILLS-116hjres87rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hjres87eh/xml/BILLS-116hjres87eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hjres87ih/xml/BILLS-116hjres87ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ162/uslm/PLAW-116publ162.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-joint-resolution/87",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

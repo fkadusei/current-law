@@ -1,0 +1,40 @@
+{
+ "id": "pl-117-179",
+ "congress": 117,
+ "public_law": "117-179",
+ "bill": "HR 8656",
+ "title": "To designate the clinic of the Department of Veterans Affairs in Mishawaka, Indiana, as the \"Jackie Walorski VA Clinic\".",
+ "enacted": "2022-09-30",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Rep. Banks, Jim [R-IN-3]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr8656enr/xml/BILLS-117hr8656enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr8656rds/xml/BILLS-117hr8656rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr8656eh/xml/BILLS-117hr8656eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr8656ih/xml/BILLS-117hr8656ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ179/uslm/PLAW-117publ179.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/house-bill/8656",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

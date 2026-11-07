@@ -1,0 +1,43 @@
+{
+ "id": "pl-115-313",
+ "congress": 115,
+ "public_law": "115-313",
+ "bill": "S 3414",
+ "title": "A bill to designate the facility of the United States Postal Service located at 20 Ferry Road in Saunderstown, Rhode Island, as the \"Captain Matthew J. August Post Office\".",
+ "enacted": "2018-12-13",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Sen. Reed, Jack [D-RI]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s3414enr/xml/BILLS-115s3414enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s3414rfh/xml/BILLS-115s3414rfh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s3414es/xml/BILLS-115s3414es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s3414rs/xml/BILLS-115s3414rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s3414is/xml/BILLS-115s3414is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ313/uslm/PLAW-115publ313.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/3414",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,40 @@
+{
+ "id": "pl-114-215",
+ "congress": 114,
+ "public_law": "114-215",
+ "bill": "HR 5722",
+ "title": "John F. Kennedy Centennial Commission Act",
+ "enacted": "2016-07-29",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Kennedy, Joseph P., III [D-MA-4]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr5722enr/xml/BILLS-114hr5722enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr5722rds/xml/BILLS-114hr5722rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr5722eh/xml/BILLS-114hr5722eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr5722ih/xml/BILLS-114hr5722ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-114publ215/uslm/PLAW-114publ215.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/114th-congress/house-bill/5722",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

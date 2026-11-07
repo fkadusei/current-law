@@ -1,0 +1,40 @@
+{
+ "id": "pl-116-30",
+ "congress": 116,
+ "public_law": "116-30",
+ "bill": "HR 866",
+ "title": "Fairness For Breastfeeding Mothers Act of 2019",
+ "enacted": "2019-07-25",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Del. Norton, Eleanor Holmes [D-DC-At Large]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr866enr/xml/BILLS-116hr866enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr866rfs/xml/BILLS-116hr866rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr866eh/xml/BILLS-116hr866eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr866ih/xml/BILLS-116hr866ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ30/uslm/PLAW-116publ30.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/866",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

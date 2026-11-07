@@ -1,0 +1,40 @@
+{
+ "id": "pl-116-98",
+ "congress": 116,
+ "public_law": "116-98",
+ "bill": "HR 4566",
+ "title": "Virginia Beach Strong Act",
+ "enacted": "2019-12-20",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Taxation",
+ "sponsor": "Rep. Luria, Elaine G. [D-VA-2]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr4566enr/xml/BILLS-116hr4566enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr4566rds/xml/BILLS-116hr4566rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr4566eh/xml/BILLS-116hr4566eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr4566ih/xml/BILLS-116hr4566ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ98/uslm/PLAW-116publ98.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/4566",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,40 @@
+{
+ "id": "pl-113-63",
+ "congress": 113,
+ "public_law": "113-63",
+ "bill": "HR 3458",
+ "title": "Fallen Firefighters Assistance Tax Clarification Act of 2013",
+ "enacted": "2013-12-20",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Taxation",
+ "sponsor": "Rep. Slaughter, Louise McIntosh [D-NY-25]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr3458enr/xml/BILLS-113hr3458enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr3458rds/xml/BILLS-113hr3458rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr3458eh/xml/BILLS-113hr3458eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr3458ih/xml/BILLS-113hr3458ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-113publ63/uslm/PLAW-113publ63.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/113th-congress/house-bill/3458",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

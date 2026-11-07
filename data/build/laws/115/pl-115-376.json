@@ -1,0 +1,40 @@
+{
+ "id": "pl-115-376",
+ "congress": 115,
+ "public_law": "115-376",
+ "bill": "HR 6591",
+ "title": "To designate the facility of the United States Postal Service located at 501 South Kirkman Road in Orlando, Florida, as the \"Napoleon 'Nap' Ford Post Office Building\".",
+ "enacted": "2018-12-21",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Demings, Val Butler [D-FL-10]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr6591enr/xml/BILLS-115hr6591enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr6591rfs/xml/BILLS-115hr6591rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr6591eh/xml/BILLS-115hr6591eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr6591ih/xml/BILLS-115hr6591ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ376/uslm/PLAW-115publ376.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/6591",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

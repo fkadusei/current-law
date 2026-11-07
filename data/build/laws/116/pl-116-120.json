@@ -1,0 +1,40 @@
+{
+ "id": "pl-116-120",
+ "congress": 116,
+ "public_law": "116-120",
+ "bill": "HJRES 80",
+ "title": "Approving the request of the Secretary of Veterans Affairs for a waiver under section 1703E(f) of title 38, United States Code.",
+ "enacted": "2020-03-03",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Rep. Roe, David P. [R-TN-1]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hjres80enr/xml/BILLS-116hjres80enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hjres80rfs/xml/BILLS-116hjres80rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hjres80eh/xml/BILLS-116hjres80eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hjres80ih/xml/BILLS-116hjres80ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ120/uslm/PLAW-116publ120.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-joint-resolution/80",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

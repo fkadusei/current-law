@@ -1,0 +1,46 @@
+{
+ "id": "pl-114-88",
+ "congress": 114,
+ "public_law": "114-88",
+ "bill": "HR 208",
+ "title": "RISE After Disaster Act of 2015",
+ "enacted": "2015-11-25",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Commerce",
+ "sponsor": "Rep. Velazquez, Nydia M. [D-NY-7]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr208enr/xml/BILLS-114hr208enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr208eas/xml/BILLS-114hr208eas.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr208rfs/xml/BILLS-114hr208rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr208eh/xml/BILLS-114hr208eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr208rh/xml/BILLS-114hr208rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr208ih/xml/BILLS-114hr208ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-114publ88/uslm/PLAW-114publ88.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/114th-congress/house-bill/208",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

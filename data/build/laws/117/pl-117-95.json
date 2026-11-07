@@ -1,0 +1,40 @@
+{
+ "id": "pl-117-95",
+ "congress": 117,
+ "public_law": "117-95",
+ "bill": "HJRES 75",
+ "title": "Extension of Continuing Appropriations Act, 2022",
+ "enacted": "2022-03-11",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Economics and Public Finance",
+ "sponsor": "Rep. DeLauro, Rosa L. [D-CT-3]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hjres75enr/xml/BILLS-117hjres75enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hjres75rds/xml/BILLS-117hjres75rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hjres75eh/xml/BILLS-117hjres75eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hjres75ih/xml/BILLS-117hjres75ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ95/uslm/PLAW-117publ95.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/house-joint-resolution/75",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

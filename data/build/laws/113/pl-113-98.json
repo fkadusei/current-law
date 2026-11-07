@@ -1,0 +1,43 @@
+{
+ "id": "pl-113-98",
+ "congress": 113,
+ "public_law": "113-98",
+ "bill": "S 1557",
+ "title": "Children's Hospital GME Support Reauthorization Act of 2013",
+ "enacted": "2014-04-07",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Health",
+ "sponsor": "Sen. Casey, Robert P., Jr. [D-PA]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s1557enr/xml/BILLS-113s1557enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s1557rfh/xml/BILLS-113s1557rfh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s1557es/xml/BILLS-113s1557es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s1557rs/xml/BILLS-113s1557rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s1557is/xml/BILLS-113s1557is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-113publ98/uslm/PLAW-113publ98.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/113th-congress/senate-bill/1557",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

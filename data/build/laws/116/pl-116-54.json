@@ -1,0 +1,43 @@
+{
+ "id": "pl-116-54",
+ "congress": 116,
+ "public_law": "116-54",
+ "bill": "HR 3311",
+ "title": "Small Business Reorganization Act of 2019",
+ "enacted": "2019-08-23",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Finance and Financial Sector",
+ "sponsor": "Rep. Cline, Ben [R-VA-6]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr3311enr/xml/BILLS-116hr3311enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr3311rds/xml/BILLS-116hr3311rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr3311rh/xml/BILLS-116hr3311rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr3311eh/xml/BILLS-116hr3311eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr3311ih/xml/BILLS-116hr3311ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ54/uslm/PLAW-116publ54.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/3311",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

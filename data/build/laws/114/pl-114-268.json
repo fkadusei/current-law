@@ -1,0 +1,40 @@
+{
+ "id": "pl-114-268",
+ "congress": 114,
+ "public_law": "114-268",
+ "bill": "S 1915",
+ "title": "First Responder Anthrax Preparedness Act",
+ "enacted": "2016-12-14",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Health",
+ "sponsor": "Sen. Ayotte, Kelly [R-NH]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s1915enr/xml/BILLS-114s1915enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s1915es/xml/BILLS-114s1915es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s1915rs/xml/BILLS-114s1915rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s1915is/xml/BILLS-114s1915is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-114publ268/uslm/PLAW-114publ268.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/114th-congress/senate-bill/1915",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

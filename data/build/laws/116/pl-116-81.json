@@ -1,0 +1,43 @@
+{
+ "id": "pl-116-81",
+ "congress": 116,
+ "public_law": "116-81",
+ "bill": "HR 1253",
+ "title": "To designate the facility of the United States Postal Service located at 13507 Van Nuys Boulevard in Pacoima, California, as the Ritchie Valens Post Office Building.",
+ "enacted": "2019-12-12",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Cárdenas, Tony [D-CA-29]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1253enr/xml/BILLS-116hr1253enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1253rs/xml/BILLS-116hr1253rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1253rfs/xml/BILLS-116hr1253rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1253eh/xml/BILLS-116hr1253eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr1253ih/xml/BILLS-116hr1253ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ81/uslm/PLAW-116publ81.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/1253",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

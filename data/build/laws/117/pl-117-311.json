@@ -1,0 +1,40 @@
+{
+ "id": "pl-117-311",
+ "congress": 117,
+ "public_law": "117-311",
+ "bill": "HR 8203",
+ "title": "To designate the facility of the United States Postal Service located at 651 Business Interstate Highway 35 North Suite 420 in New Braunfels, Texas, as the \"Bob Krueger Post Office\".",
+ "enacted": "2022-12-27",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Doggett, Lloyd [D-TX-35]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr8203enr/xml/BILLS-117hr8203enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr8203rfs/xml/BILLS-117hr8203rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr8203eh/xml/BILLS-117hr8203eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr8203ih/xml/BILLS-117hr8203ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ311/uslm/PLAW-117publ311.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/house-bill/8203",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

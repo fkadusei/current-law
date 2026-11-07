@@ -1,0 +1,40 @@
+{
+ "id": "pl-113-168",
+ "congress": 113,
+ "public_law": "113-168",
+ "bill": "HR 3043",
+ "title": "Tribal General Welfare Exclusion Act of 2014",
+ "enacted": "2014-09-26",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Taxation",
+ "sponsor": "Rep. Nunes, Devin [R-CA-22]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr3043enr/xml/BILLS-113hr3043enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr3043rds/xml/BILLS-113hr3043rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr3043eh/xml/BILLS-113hr3043eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr3043ih/xml/BILLS-113hr3043ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-113publ168/uslm/PLAW-113publ168.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/113th-congress/house-bill/3043",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

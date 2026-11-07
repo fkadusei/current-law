@@ -1,0 +1,43 @@
+{
+ "id": "pl-116-255",
+ "congress": 116,
+ "public_law": "116-255",
+ "bill": "S 199",
+ "title": "Leech Lake Band of Ojibwe Reservation Restoration Act",
+ "enacted": "2020-12-23",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Public Lands and Natural Resources",
+ "sponsor": "Sen. Smith, Tina [D-MN]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s199enr/xml/BILLS-116s199enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s199rfh/xml/BILLS-116s199rfh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s199es/xml/BILLS-116s199es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s199rs/xml/BILLS-116s199rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s199is/xml/BILLS-116s199is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ255/uslm/PLAW-116publ255.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/senate-bill/199",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,40 @@
+{
+ "id": "pl-114-13",
+ "congress": 114,
+ "public_law": "114-13",
+ "bill": "HR 2252",
+ "title": "To clarify the effective date of certain provisions of the Border Patrol Agent Pay Reform Act of 2014, and for other purposes.",
+ "enacted": "2015-05-19",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Hurd, Will [R-TX-23]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr2252enr/xml/BILLS-114hr2252enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr2252rds/xml/BILLS-114hr2252rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr2252eh/xml/BILLS-114hr2252eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr2252ih/xml/BILLS-114hr2252ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-114publ13/uslm/PLAW-114publ13.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/114th-congress/house-bill/2252",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

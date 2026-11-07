@@ -1,0 +1,40 @@
+{
+ "id": "pl-116-310",
+ "congress": 116,
+ "public_law": "116-310",
+ "bill": "HR 6161",
+ "title": "To designate the facility of the United States Postal Service located at 1585 Yanceyville Street, Greensboro, North Carolina, as the J. Howard Coble Post Office Building.",
+ "enacted": "2021-01-05",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Walker, Mark [R-NC-6]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr6161enr/xml/BILLS-116hr6161enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr6161rfs/xml/BILLS-116hr6161rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr6161eh/xml/BILLS-116hr6161eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr6161ih/xml/BILLS-116hr6161ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ310/uslm/PLAW-116publ310.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/6161",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

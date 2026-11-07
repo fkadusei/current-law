@@ -1,0 +1,43 @@
+{
+ "id": "pl-115-75",
+ "congress": 115,
+ "public_law": "115-75",
+ "bill": "HR 1329",
+ "title": "Veterans' Compensation Cost-of-Living Adjustment Act of 2017",
+ "enacted": "2017-11-02",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Rep. Bost, Mike [R-IL-12]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1329enr/xml/BILLS-115hr1329enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1329rfs/xml/BILLS-115hr1329rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1329eh/xml/BILLS-115hr1329eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1329rh/xml/BILLS-115hr1329rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1329ih/xml/BILLS-115hr1329ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ75/uslm/PLAW-115publ75.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/1329",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

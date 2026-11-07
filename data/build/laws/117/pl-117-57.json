@@ -1,0 +1,40 @@
+{
+ "id": "pl-117-57",
+ "congress": 117,
+ "public_law": "117-57",
+ "bill": "HR 4172",
+ "title": "To name the Department of Veterans Affairs community-based outpatient clinic in Aurora, Colorado, as the Lieutenant Colonel John W. Mosley VA Clinic.",
+ "enacted": "2021-11-12",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Rep. Crow, Jason [D-CO-6]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr4172enr/xml/BILLS-117hr4172enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr4172rfs/xml/BILLS-117hr4172rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr4172eh/xml/BILLS-117hr4172eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr4172ih/xml/BILLS-117hr4172ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ57/uslm/PLAW-117publ57.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/house-bill/4172",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

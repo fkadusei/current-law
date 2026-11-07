@@ -1,0 +1,43 @@
+{
+ "id": "pl-115-294",
+ "congress": 115,
+ "public_law": "115-294",
+ "bill": "HR 5784",
+ "title": "To designate the facility of the United States Postal Service located at 2650 North Doctor Martin Luther King Jr. Drive in Milwaukee, Wisconsin, shall be known and designated as the \"Vel R. Phillips Post Office Building\".",
+ "enacted": "2018-12-06",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Moore, Gwen [D-WI-4]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr5784enr/xml/BILLS-115hr5784enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr5784rs/xml/BILLS-115hr5784rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr5784rfs/xml/BILLS-115hr5784rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr5784eh/xml/BILLS-115hr5784eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr5784ih/xml/BILLS-115hr5784ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ294/uslm/PLAW-115publ294.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/5784",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,43 @@
+{
+ "id": "pl-113-117",
+ "congress": 113,
+ "public_law": "113-117",
+ "bill": "HR 4032",
+ "title": "North Texas Invasive Species Barrier Act of 2014",
+ "enacted": "2014-06-09",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Water Resources Development",
+ "sponsor": "Rep. Hall, Ralph M. [R-TX-4]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr4032enr/xml/BILLS-113hr4032enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr4032rfs/xml/BILLS-113hr4032rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr4032eh/xml/BILLS-113hr4032eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr4032rh/xml/BILLS-113hr4032rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr4032ih/xml/BILLS-113hr4032ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-113publ117/uslm/PLAW-113publ117.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/113th-congress/house-bill/4032",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

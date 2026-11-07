@@ -1,0 +1,43 @@
+{
+ "id": "pl-115-345",
+ "congress": 115,
+ "public_law": "115-345",
+ "bill": "HR 1733",
+ "title": "To direct the Secretary of Energy to review and update a report on the energy and environmental benefits of the re-refining of used lubricating oil.",
+ "enacted": "2018-12-21",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Energy",
+ "sponsor": "Rep. Brooks, Susan W. [R-IN-5]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1733enr/xml/BILLS-115hr1733enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1733rfs/xml/BILLS-115hr1733rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1733eh/xml/BILLS-115hr1733eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1733rh/xml/BILLS-115hr1733rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1733ih/xml/BILLS-115hr1733ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ345/uslm/PLAW-115publ345.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/1733",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

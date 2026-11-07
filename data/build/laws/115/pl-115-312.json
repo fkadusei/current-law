@@ -1,0 +1,43 @@
+{
+ "id": "pl-115-312",
+ "congress": 115,
+ "public_law": "115-312",
+ "bill": "S 2377",
+ "title": "A bill to designate the Federal building and United States courthouse located at 200 West 2nd Street in Dayton, Ohio, as the \"Walter H. Rice Federal Building and United States Courthouse\".",
+ "enacted": "2018-12-13",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Sen. Brown, Sherrod [D-OH]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s2377enr/xml/BILLS-115s2377enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s2377rfh/xml/BILLS-115s2377rfh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s2377es/xml/BILLS-115s2377es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s2377rs/xml/BILLS-115s2377rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s2377is/xml/BILLS-115s2377is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ312/uslm/PLAW-115publ312.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/2377",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

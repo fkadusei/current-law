@@ -1,0 +1,43 @@
+{
+ "id": "pl-117-232",
+ "congress": 117,
+ "public_law": "117-232",
+ "bill": "HR 3175",
+ "title": "To designate the facility of the United States Postal Service located at 135 Main Street in Biloxi, Mississippi, as the Robert S. McKeithen Post Office Building.",
+ "enacted": "2022-12-19",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Palazzo, Steven M. [R-MS-4]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr3175enr/xml/BILLS-117hr3175enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr3175rs/xml/BILLS-117hr3175rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr3175rfs/xml/BILLS-117hr3175rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr3175eh/xml/BILLS-117hr3175eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr3175ih/xml/BILLS-117hr3175ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ232/uslm/PLAW-117publ232.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/house-bill/3175",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

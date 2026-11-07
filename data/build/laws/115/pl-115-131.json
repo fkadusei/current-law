@@ -1,0 +1,43 @@
+{
+ "id": "pl-115-131",
+ "congress": 115,
+ "public_law": "115-131",
+ "bill": "HR 3122",
+ "title": "Veterans Care Financial Protection Act of 2017",
+ "enacted": "2018-03-09",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Rep. Cartwright, Matt [D-PA-17]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr3122enr/xml/BILLS-115hr3122enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr3122rfs/xml/BILLS-115hr3122rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr3122eh/xml/BILLS-115hr3122eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr3122rh/xml/BILLS-115hr3122rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr3122ih/xml/BILLS-115hr3122ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ131/uslm/PLAW-115publ131.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/3122",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

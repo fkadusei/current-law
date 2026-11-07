@@ -1,0 +1,46 @@
+{
+ "id": "pl-113-48",
+ "congress": 113,
+ "public_law": "113-48",
+ "bill": "HR 2094",
+ "title": "School Access to Emergency Epinephrine Act",
+ "enacted": "2013-11-13",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Health",
+ "sponsor": "Rep. Roe, David P. [R-TN-1]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr2094enr/xml/BILLS-113hr2094enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr2094rs/xml/BILLS-113hr2094rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr2094rfs/xml/BILLS-113hr2094rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr2094eh/xml/BILLS-113hr2094eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr2094rh/xml/BILLS-113hr2094rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr2094ih/xml/BILLS-113hr2094ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-113publ48/uslm/PLAW-113publ48.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/113th-congress/house-bill/2094",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,43 @@
+{
+ "id": "pl-115-321",
+ "congress": 115,
+ "public_law": "115-321",
+ "bill": "HR 1417",
+ "title": "National Law Enforcement Museum Exhibits Act",
+ "enacted": "2018-12-17",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Arts, Culture, Religion",
+ "sponsor": "Rep. Young, Don [R-AK-At Large]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1417enr/xml/BILLS-115hr1417enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1417rfs/xml/BILLS-115hr1417rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1417eh/xml/BILLS-115hr1417eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1417rh/xml/BILLS-115hr1417rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1417ih/xml/BILLS-115hr1417ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ321/uslm/PLAW-115publ321.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/1417",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

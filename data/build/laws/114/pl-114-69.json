@@ -1,0 +1,40 @@
+{
+ "id": "pl-114-69",
+ "congress": 114,
+ "public_law": "114-69",
+ "bill": "S 986",
+ "title": "Albuquerque Indian School Land Transfer Act",
+ "enacted": "2015-10-16",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Native Americans",
+ "sponsor": "Sen. Udall, Tom [D-NM]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s986enr/xml/BILLS-114s986enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s986es/xml/BILLS-114s986es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s986rs/xml/BILLS-114s986rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s986is/xml/BILLS-114s986is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-114publ69/uslm/PLAW-114publ69.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/114th-congress/senate-bill/986",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

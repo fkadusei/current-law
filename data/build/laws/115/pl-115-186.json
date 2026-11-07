@@ -1,0 +1,46 @@
+{
+ "id": "pl-115-186",
+ "congress": 115,
+ "public_law": "115-186",
+ "bill": "HR 1900",
+ "title": "National Veterans Memorial and Museum Act",
+ "enacted": "2018-06-21",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Rep. Stivers, Steve [R-OH-15]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1900enr/xml/BILLS-115hr1900enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1900rs/xml/BILLS-115hr1900rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1900rfs/xml/BILLS-115hr1900rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1900rh/xml/BILLS-115hr1900rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1900eh/xml/BILLS-115hr1900eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1900ih/xml/BILLS-115hr1900ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ186/uslm/PLAW-115publ186.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/1900",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

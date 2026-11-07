@@ -1,0 +1,40 @@
+{
+ "id": "pl-117-294",
+ "congress": 117,
+ "public_law": "117-294",
+ "bill": "HR 6267",
+ "title": "To designate the facility of the United States Postal Service located at 15 Chestnut Street in Suffern, New York, as the \"Sergeant Gerald T. 'Jerry' Donnellan Post Office\".",
+ "enacted": "2022-12-27",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Jones, Mondaire [D-NY-17]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr6267enr/xml/BILLS-117hr6267enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr6267rfs/xml/BILLS-117hr6267rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr6267eh/xml/BILLS-117hr6267eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr6267ih/xml/BILLS-117hr6267ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ294/uslm/PLAW-117publ294.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/house-bill/6267",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

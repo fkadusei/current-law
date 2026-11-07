@@ -1,0 +1,40 @@
+{
+ "id": "pl-113-119",
+ "congress": 113,
+ "public_law": "113-119",
+ "bill": "S 611",
+ "title": "Sandia Pueblo Settlement Technical Amendment Act",
+ "enacted": "2014-06-09",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Native Americans",
+ "sponsor": "Sen. Udall, Tom [D-NM]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s611enr/xml/BILLS-113s611enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s611es/xml/BILLS-113s611es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s611rs/xml/BILLS-113s611rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113s611is/xml/BILLS-113s611is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-113publ119/uslm/PLAW-113publ119.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/113th-congress/senate-bill/611",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

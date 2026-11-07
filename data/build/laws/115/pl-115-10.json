@@ -1,0 +1,40 @@
+{
+ "id": "pl-115-10",
+ "congress": 115,
+ "public_law": "115-10",
+ "bill": "S 442",
+ "title": "National Aeronautics and Space Administration Transition Authorization Act of 2017",
+ "enacted": "2017-03-21",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Science, Technology, Communications",
+ "sponsor": "Sen. Cruz, Ted [R-TX]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s442enr/xml/BILLS-115s442enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s442rfh/xml/BILLS-115s442rfh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s442es/xml/BILLS-115s442es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s442cps/xml/BILLS-115s442cps.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ10/uslm/PLAW-115publ10.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/442",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

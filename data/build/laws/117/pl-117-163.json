@@ -1,0 +1,40 @@
+{
+ "id": "pl-117-163",
+ "congress": 117,
+ "public_law": "117-163",
+ "bill": "HR 1842",
+ "title": "Harriet Tubman Bicentennial Commemorative Coin Act",
+ "enacted": "2022-08-03",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Finance and Financial Sector",
+ "sponsor": "Rep. Meeks, Gregory W. [D-NY-5]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr1842enr/xml/BILLS-117hr1842enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr1842rds/xml/BILLS-117hr1842rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr1842eh/xml/BILLS-117hr1842eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr1842ih/xml/BILLS-117hr1842ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ163/uslm/PLAW-117publ163.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/house-bill/1842",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

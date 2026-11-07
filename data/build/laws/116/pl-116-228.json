@@ -1,0 +1,40 @@
+{
+ "id": "pl-116-228",
+ "congress": 116,
+ "public_law": "116-228",
+ "bill": "HR 2454",
+ "title": "To designate the facility of the United States Postal Service located at 123 East Sharpfish Street in Rosebud, South Dakota, as the Ben Reifel Post Office Building.",
+ "enacted": "2020-12-21",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Johnson, Dusty [R-SD-At Large]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr2454enr/xml/BILLS-116hr2454enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr2454rfs/xml/BILLS-116hr2454rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr2454eh/xml/BILLS-116hr2454eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr2454ih/xml/BILLS-116hr2454ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ228/uslm/PLAW-116publ228.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/2454",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,40 @@
+{
+ "id": "pl-117-19",
+ "congress": 117,
+ "public_law": "117-19",
+ "bill": "HJRES 27",
+ "title": "Providing for the appointment of Barbara Barrett as a citizen regent of the Board of Regents of the Smithsonian Institution.",
+ "enacted": "2021-06-23",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Matsui, Doris O. [D-CA-6]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hjres27enr/xml/BILLS-117hjres27enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hjres27eh/xml/BILLS-117hjres27eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hjres27rfs/xml/BILLS-117hjres27rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hjres27ih/xml/BILLS-117hjres27ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ19/xml/PLAW-117publ19.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/house-joint-resolution/27",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

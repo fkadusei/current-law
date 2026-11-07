@@ -1,0 +1,37 @@
+{
+ "id": "pl-114-19",
+ "congress": 114,
+ "public_law": "114-19",
+ "bill": "HR 2496",
+ "title": "Construction Authorization and Choice Improvement Act",
+ "enacted": "2015-05-22",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Rep. Coffman, Mike [R-CO-6]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr2496enr/xml/BILLS-114hr2496enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr2496eh/xml/BILLS-114hr2496eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr2496rds/xml/BILLS-114hr2496rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-114publ19/uslm/PLAW-114publ19.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/114th-congress/house-bill/2496",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

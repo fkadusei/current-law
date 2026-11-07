@@ -1,0 +1,46 @@
+{
+ "id": "pl-114-144",
+ "congress": 114,
+ "public_law": "114-144",
+ "bill": "S 192",
+ "title": "Older Americans Act Reauthorization Act of 2016",
+ "enacted": "2016-04-19",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Health",
+ "sponsor": "Sen. Alexander, Lamar [R-TN]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s192enr/xml/BILLS-114s192enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s192eah/xml/BILLS-114s192eah.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s192rfh/xml/BILLS-114s192rfh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s192es/xml/BILLS-114s192es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s192rs/xml/BILLS-114s192rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s192is/xml/BILLS-114s192is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-114publ144/uslm/PLAW-114publ144.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/114th-congress/senate-bill/192",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,43 @@
+{
+ "id": "pl-114-123",
+ "congress": 114,
+ "public_law": "114-123",
+ "bill": "HR 907",
+ "title": "United States-Jordan Defense Cooperation Act of 2015",
+ "enacted": "2016-02-18",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "International Affairs",
+ "sponsor": "Rep. Ros-Lehtinen, Ileana [R-FL-27]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr907enr/xml/BILLS-114hr907enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr907eas/xml/BILLS-114hr907eas.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr907rfs/xml/BILLS-114hr907rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr907eh/xml/BILLS-114hr907eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr907ih/xml/BILLS-114hr907ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-114publ123/uslm/PLAW-114publ123.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/114th-congress/house-bill/907",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

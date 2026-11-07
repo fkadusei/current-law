@@ -1,0 +1,43 @@
+{
+ "id": "pl-115-291",
+ "congress": 115,
+ "public_law": "115-291",
+ "bill": "HR 5349",
+ "title": "To designate the facility of the United States Postal Service located at 1325 Autumn Avenue in Memphis, Tennessee, as the \"Judge Russell B. Sugarmon Post Office Building\".",
+ "enacted": "2018-12-06",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Cohen, Steve [D-TN-9]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr5349enr/xml/BILLS-115hr5349enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr5349rs/xml/BILLS-115hr5349rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr5349rfs/xml/BILLS-115hr5349rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr5349eh/xml/BILLS-115hr5349eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr5349ih/xml/BILLS-115hr5349ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ291/uslm/PLAW-115publ291.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/5349",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,40 @@
+{
+ "id": "pl-114-192",
+ "congress": 114,
+ "public_law": "114-192",
+ "bill": "HR 4372",
+ "title": "To designate the facility of the United States Postal Service located at 15 Rochester Street, Bergen, New York, as the Barry G. Miller Post Office.",
+ "enacted": "2016-07-15",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Collins, Chris [R-NY-27]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr4372enr/xml/BILLS-114hr4372enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr4372rfs/xml/BILLS-114hr4372rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr4372eh/xml/BILLS-114hr4372eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr4372ih/xml/BILLS-114hr4372ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-114publ192/uslm/PLAW-114publ192.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/114th-congress/house-bill/4372",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

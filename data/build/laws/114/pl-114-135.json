@@ -1,0 +1,43 @@
+{
+ "id": "pl-114-135",
+ "congress": 114,
+ "public_law": "114-135",
+ "bill": "HR 1755",
+ "title": "To amend title 36, United States Code, to make certain improvements in the congressional charter of the Disabled American Veterans.",
+ "enacted": "2016-03-18",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Rep. Miller, Jeff [R-FL-1]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr1755enr/xml/BILLS-114hr1755enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr1755rfs/xml/BILLS-114hr1755rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr1755rh/xml/BILLS-114hr1755rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr1755eh/xml/BILLS-114hr1755eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr1755ih/xml/BILLS-114hr1755ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-114publ135/uslm/PLAW-114publ135.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/114th-congress/house-bill/1755",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

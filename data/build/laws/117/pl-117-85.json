@@ -1,0 +1,37 @@
+{
+ "id": "pl-117-85",
+ "congress": 117,
+ "public_law": "117-85",
+ "bill": "S 1404",
+ "title": "Ghost Army Congressional Gold Medal Act",
+ "enacted": "2022-02-01",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Sen. Markey, Edward J. [D-MA]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s1404enr/xml/BILLS-117s1404enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s1404es/xml/BILLS-117s1404es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s1404is/xml/BILLS-117s1404is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ85/uslm/PLAW-117publ85.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/senate-bill/1404",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

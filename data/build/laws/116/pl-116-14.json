@@ -1,0 +1,40 @@
+{
+ "id": "pl-116-14",
+ "congress": 116,
+ "public_law": "116-14",
+ "bill": "HR 2030",
+ "title": "Colorado River Drought Contingency Plan Authorization Act",
+ "enacted": "2019-04-16",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Water Resources Development",
+ "sponsor": "Rep. Grijalva, Raúl M. [D-AZ-3]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr2030enr/xml/BILLS-116hr2030enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr2030rds/xml/BILLS-116hr2030rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr2030eh/xml/BILLS-116hr2030eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr2030ih/xml/BILLS-116hr2030ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ14/uslm/PLAW-116publ14.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/house-bill/2030",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

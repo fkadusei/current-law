@@ -1,0 +1,43 @@
+{
+ "id": "pl-113-132",
+ "congress": 113,
+ "public_law": "113-132",
+ "bill": "HR 330",
+ "title": "Distinguished Flying Cross National Memorial Act",
+ "enacted": "2014-07-25",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Public Lands and Natural Resources",
+ "sponsor": "Rep. Calvert, Ken [R-CA-42]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr330enr/xml/BILLS-113hr330enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr330pcs/xml/BILLS-113hr330pcs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr330eh/xml/BILLS-113hr330eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr330rh/xml/BILLS-113hr330rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr330ih/xml/BILLS-113hr330ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-113publ132/uslm/PLAW-113publ132.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/113th-congress/house-bill/330",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

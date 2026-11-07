@@ -1,0 +1,43 @@
+{
+ "id": "pl-114-36",
+ "congress": 114,
+ "public_law": "114-36",
+ "bill": "HR 2620",
+ "title": "To amend the United States Cotton Futures Act to exclude certain cotton futures contracts from coverage under such Act.",
+ "enacted": "2015-07-20",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Agriculture and Food",
+ "sponsor": "Rep. Scott, David [D-GA-13]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr2620enr/xml/BILLS-114hr2620enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr2620rds/xml/BILLS-114hr2620rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr2620eh/xml/BILLS-114hr2620eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr2620rh/xml/BILLS-114hr2620rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr2620ih/xml/BILLS-114hr2620ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-114publ36/uslm/PLAW-114publ36.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/114th-congress/house-bill/2620",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

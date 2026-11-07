@@ -1,0 +1,43 @@
+{
+ "id": "pl-115-219",
+ "congress": 115,
+ "public_law": "115-219",
+ "bill": "S 490",
+ "title": "A bill to reinstate and extend the deadline for commencement of construction of a hydroelectric project involving the Gibson Dam.",
+ "enacted": "2018-07-27",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Energy",
+ "sponsor": "Sen. Daines, Steve [R-MT]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s490enr/xml/BILLS-115s490enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s490rfh/xml/BILLS-115s490rfh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s490es/xml/BILLS-115s490es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s490rs/xml/BILLS-115s490rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s490is/xml/BILLS-115s490is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ219/uslm/PLAW-115publ219.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/490",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

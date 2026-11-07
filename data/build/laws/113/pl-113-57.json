@@ -1,0 +1,40 @@
+{
+ "id": "pl-113-57",
+ "congress": 113,
+ "public_law": "113-57",
+ "bill": "HR 3626",
+ "title": "To extend the Undetectable Firearms Act of 1988 for 10 years.",
+ "enacted": "2013-12-09",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Crime and Law Enforcement",
+ "sponsor": "Rep. Coble, Howard [R-NC-6]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr3626enr/xml/BILLS-113hr3626enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr3626rds/xml/BILLS-113hr3626rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr3626eh/xml/BILLS-113hr3626eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr3626ih/xml/BILLS-113hr3626ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-113publ57/uslm/PLAW-113publ57.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/113th-congress/house-bill/3626",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

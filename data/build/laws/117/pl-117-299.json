@@ -1,0 +1,40 @@
+{
+ "id": "pl-117-299",
+ "congress": 117,
+ "public_law": "117-299",
+ "bill": "HR 6917",
+ "title": "To designate the facility of the United States Postal Service located at 301 East Congress Parkway in Crystal Lake, Illinois, as the \"Ryan J. Cummings Post Office Building\".",
+ "enacted": "2022-12-27",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Casten, Sean [D-IL-6]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr6917enr/xml/BILLS-117hr6917enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr6917rfs/xml/BILLS-117hr6917rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr6917eh/xml/BILLS-117hr6917eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr6917ih/xml/BILLS-117hr6917ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ299/uslm/PLAW-117publ299.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/house-bill/6917",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

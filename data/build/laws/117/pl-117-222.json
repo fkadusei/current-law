@@ -1,0 +1,40 @@
+{
+ "id": "pl-117-222",
+ "congress": 117,
+ "public_law": "117-222",
+ "bill": "S 3655",
+ "title": "Civil Rights Cold Case Investigations Support Act of 2022",
+ "enacted": "2022-12-05",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Civil Rights and Liberties, Minority Issues",
+ "sponsor": "Sen. Ossoff, Jon [D-GA]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s3655enr/xml/BILLS-117s3655enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s3655es/xml/BILLS-117s3655es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s3655rs/xml/BILLS-117s3655rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s3655is/xml/BILLS-117s3655is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ222/uslm/PLAW-117publ222.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/senate-bill/3655",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,40 @@
+{
+ "id": "pl-117-293",
+ "congress": 117,
+ "public_law": "117-293",
+ "bill": "HR 6221",
+ "title": "To designate the facility of the United States Postal Service located at 155 Main Avenue West in Winsted, Minnesota, as the \"James A. Rogers Jr. Post Office\".",
+ "enacted": "2022-12-27",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Fischbach, Michelle [R-MN-7]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr6221enr/xml/BILLS-117hr6221enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr6221rds/xml/BILLS-117hr6221rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr6221eh/xml/BILLS-117hr6221eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr6221ih/xml/BILLS-117hr6221ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ293/uslm/PLAW-117publ293.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/house-bill/6221",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

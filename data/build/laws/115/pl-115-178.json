@@ -1,0 +1,40 @@
+{
+ "id": "pl-115-178",
+ "congress": 115,
+ "public_law": "115-178",
+ "bill": "HR 4009",
+ "title": "Smithsonian National Zoological Park Central Parking Facility Authorization Act",
+ "enacted": "2018-06-01",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Science, Technology, Communications",
+ "sponsor": "Rep. Johnson, Sam [R-TX-3]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr4009enr/xml/BILLS-115hr4009enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr4009rfs/xml/BILLS-115hr4009rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr4009eh/xml/BILLS-115hr4009eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr4009ih/xml/BILLS-115hr4009ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ178/uslm/PLAW-115publ178.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/4009",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

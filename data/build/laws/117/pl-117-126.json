@@ -1,0 +1,40 @@
+{
+ "id": "pl-117-126",
+ "congress": 117,
+ "public_law": "117-126",
+ "bill": "HR 3182",
+ "title": "Safe Sleep for Babies Act of 2021",
+ "enacted": "2022-05-16",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Commerce",
+ "sponsor": "Rep. Cárdenas, Tony [D-CA-29]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr3182enr/xml/BILLS-117hr3182enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr3182rfs/xml/BILLS-117hr3182rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr3182eh/xml/BILLS-117hr3182eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr3182ih/xml/BILLS-117hr3182ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ126/uslm/PLAW-117publ126.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/house-bill/3182",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

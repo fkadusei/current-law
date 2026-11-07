@@ -1,0 +1,40 @@
+{
+ "id": "pl-116-35",
+ "congress": 116,
+ "public_law": "116-35",
+ "bill": "S 504",
+ "title": "Let Everyone Get Involved in Opportunities for National Service Act",
+ "enacted": "2019-07-30",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Sen. Sinema, Kyrsten [D-AZ]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s504enr/xml/BILLS-116s504enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s504rfh/xml/BILLS-116s504rfh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s504es/xml/BILLS-116s504es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s504is/xml/BILLS-116s504is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ35/uslm/PLAW-116publ35.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/senate-bill/504",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

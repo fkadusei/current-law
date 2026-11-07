@@ -1,0 +1,40 @@
+{
+ "id": "pl-114-63",
+ "congress": 114,
+ "public_law": "114-63",
+ "bill": "S 139",
+ "title": "Ensuring Access to Clinical Trials Act of 2015",
+ "enacted": "2015-10-07",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Health",
+ "sponsor": "Sen. Wyden, Ron [D-OR]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s139enr/xml/BILLS-114s139enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s139rfh/xml/BILLS-114s139rfh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s139es/xml/BILLS-114s139es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s139is/xml/BILLS-114s139is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-114publ63/uslm/PLAW-114publ63.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/114th-congress/senate-bill/139",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

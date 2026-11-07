@@ -1,0 +1,40 @@
+{
+ "id": "pl-117-59",
+ "congress": 117,
+ "public_law": "117-59",
+ "bill": "S 921",
+ "title": "Jaime Zapata and Victor Avila Federal Officers and Employees Protection Act",
+ "enacted": "2021-11-18",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Crime and Law Enforcement",
+ "sponsor": "Sen. Cornyn, John [R-TX]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s921enr/xml/BILLS-117s921enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s921es/xml/BILLS-117s921es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s921rs/xml/BILLS-117s921rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117s921is/xml/BILLS-117s921is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ59/uslm/PLAW-117publ59.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/senate-bill/921",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

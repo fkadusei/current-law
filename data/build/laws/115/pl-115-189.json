@@ -1,0 +1,46 @@
+{
+ "id": "pl-115-189",
+ "congress": 115,
+ "public_law": "115-189",
+ "bill": "HR 4743",
+ "title": "Small Business 7(a) Lending Oversight Reform Act of 2018",
+ "enacted": "2018-06-21",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Commerce",
+ "sponsor": "Rep. Chabot, Steve [R-OH-1]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr4743enr/xml/BILLS-115hr4743enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr4743pcs2/xml/BILLS-115hr4743pcs2.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr4743pcs/xml/BILLS-115hr4743pcs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr4743eh/xml/BILLS-115hr4743eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr4743rh/xml/BILLS-115hr4743rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr4743ih/xml/BILLS-115hr4743ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ189/uslm/PLAW-115publ189.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/4743",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

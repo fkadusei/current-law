@@ -1,0 +1,40 @@
+{
+ "id": "pl-115-119",
+ "congress": 115,
+ "public_law": "115-119",
+ "bill": "HR 3759",
+ "title": "RAISE Family Caregivers Act",
+ "enacted": "2018-01-22",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Health",
+ "sponsor": "Rep. Harper, Gregg [R-MS-3]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr3759enr/xml/BILLS-115hr3759enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr3759rfs/xml/BILLS-115hr3759rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr3759eh/xml/BILLS-115hr3759eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr3759ih/xml/BILLS-115hr3759ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ119/uslm/PLAW-115publ119.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/3759",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

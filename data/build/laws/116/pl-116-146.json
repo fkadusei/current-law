@@ -1,0 +1,43 @@
+{
+ "id": "pl-116-146",
+ "congress": 116,
+ "public_law": "116-146",
+ "bill": "S 3084",
+ "title": "A bill to amend title 38, United States Code, to modify the limitation on pay for certain high-level employees and officers of the Department of Veterans Affairs.",
+ "enacted": "2020-07-02",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Sen. Moran, Jerry [R-KS]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s3084enr/xml/BILLS-116s3084enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s3084eah/xml/BILLS-116s3084eah.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s3084rfh/xml/BILLS-116s3084rfh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s3084es/xml/BILLS-116s3084es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s3084is/xml/BILLS-116s3084is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ146/uslm/PLAW-116publ146.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/senate-bill/3084",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

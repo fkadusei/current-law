@@ -1,0 +1,40 @@
+{
+ "id": "pl-114-240",
+ "congress": 114,
+ "public_law": "114-240",
+ "bill": "S 1004",
+ "title": "Veterans Day Moment of Silence Act",
+ "enacted": "2016-10-07",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Sen. Kirk, Mark Steven [R-IL]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s1004enr/xml/BILLS-114s1004enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s1004rfh/xml/BILLS-114s1004rfh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s1004es/xml/BILLS-114s1004es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114s1004is/xml/BILLS-114s1004is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-114publ240/uslm/PLAW-114publ240.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/114th-congress/senate-bill/1004",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

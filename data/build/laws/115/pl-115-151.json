@@ -1,0 +1,43 @@
+{
+ "id": "pl-115-151",
+ "congress": 115,
+ "public_law": "115-151",
+ "bill": "HR 3655",
+ "title": "To designate the facility of the United States Postal Service located at 1300 Main Street in Belmar, New Jersey, as the \"Dr. Walter S. McAfee Post Office Building\".",
+ "enacted": "2018-03-23",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Smith, Christopher H. [R-NJ-4]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr3655enr/xml/BILLS-115hr3655enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr3655rs/xml/BILLS-115hr3655rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr3655rfs/xml/BILLS-115hr3655rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr3655eh/xml/BILLS-115hr3655eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr3655ih/xml/BILLS-115hr3655ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ151/uslm/PLAW-115publ151.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/3655",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

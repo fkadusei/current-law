@@ -1,0 +1,40 @@
+{
+ "id": "pl-115-121",
+ "congress": 115,
+ "public_law": "115-121",
+ "bill": "HR 984",
+ "title": "Thomasina E. Jordan Indian Tribes of Virginia Federal Recognition Act of 2017",
+ "enacted": "2018-01-29",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Native Americans",
+ "sponsor": "Rep. Wittman, Robert J. [R-VA-1]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr984enr/xml/BILLS-115hr984enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr984rfs/xml/BILLS-115hr984rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr984eh/xml/BILLS-115hr984eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr984ih/xml/BILLS-115hr984ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ121/uslm/PLAW-115publ121.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/984",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

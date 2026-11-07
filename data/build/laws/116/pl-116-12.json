@@ -1,0 +1,40 @@
+{
+ "id": "pl-116-12",
+ "congress": 116,
+ "public_law": "116-12",
+ "bill": "S 863",
+ "title": "A bill to amend title 38, United States Code, to clarify the grade and pay of podiatrists of the Department of Veterans Affairs.",
+ "enacted": "2019-04-08",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Sen. Cassidy, Bill [R-LA]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s863enr/xml/BILLS-116s863enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s863rfh/xml/BILLS-116s863rfh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s863es/xml/BILLS-116s863es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s863cps/xml/BILLS-116s863cps.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ12/uslm/PLAW-116publ12.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/senate-bill/863",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

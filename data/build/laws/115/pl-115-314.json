@@ -1,0 +1,43 @@
+{
+ "id": "pl-115-314",
+ "congress": 115,
+ "public_law": "115-314",
+ "bill": "S 3442",
+ "title": "A bill to designate the facility of the United States Postal Service located at 105 Duff Street in Macon, Missouri, as the \"Arla W. Harrell Post Office\".",
+ "enacted": "2018-12-13",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Sen. McCaskill, Claire [D-MO]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s3442enr/xml/BILLS-115s3442enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s3442rfh/xml/BILLS-115s3442rfh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s3442es/xml/BILLS-115s3442es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s3442rs/xml/BILLS-115s3442rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115s3442is/xml/BILLS-115s3442is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ314/uslm/PLAW-115publ314.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/senate-bill/3442",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

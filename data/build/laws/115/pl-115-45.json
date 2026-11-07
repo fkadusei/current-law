@@ -1,0 +1,43 @@
+{
+ "id": "pl-115-45",
+ "congress": 115,
+ "public_law": "115-45",
+ "bill": "HR 3298",
+ "title": "Wounded Officers Recovery Act of 2017",
+ "enacted": "2017-08-04",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Congress",
+ "sponsor": "Rep. Barton, Joe [R-TX-6]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr3298enr/xml/BILLS-115hr3298enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr3298eas/xml/BILLS-115hr3298eas.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr3298eh/xml/BILLS-115hr3298eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr3298rfs/xml/BILLS-115hr3298rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr3298ih/xml/BILLS-115hr3298ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ45/uslm/PLAW-115publ45.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/3298",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

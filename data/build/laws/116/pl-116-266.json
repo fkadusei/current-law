@@ -1,0 +1,40 @@
+{
+ "id": "pl-116-266",
+ "congress": 116,
+ "public_law": "116-266",
+ "bill": "S 3462",
+ "title": "A bill to designate the facility of the United States Postal Service located at 909 West Holiday Drive in Fate, Texas, as the \"Ralph Hall Post Office\".",
+ "enacted": "2020-12-30",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Sen. Cornyn, John [R-TX]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s3462enr/xml/BILLS-116s3462enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s3462es/xml/BILLS-116s3462es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s3462rs/xml/BILLS-116s3462rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-116s3462is/xml/BILLS-116s3462is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-116publ266/uslm/PLAW-116publ266.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/116th-congress/senate-bill/3462",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

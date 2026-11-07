@@ -1,0 +1,43 @@
+{
+ "id": "pl-115-130",
+ "congress": 115,
+ "public_law": "115-130",
+ "bill": "HR 1725",
+ "title": "To direct the Secretary of Veterans Affairs to submit certain reports relating to medical evidence submitted in support of claims for benefits under the laws administered by the Secretary.",
+ "enacted": "2018-03-09",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Rep. Walz, Timothy J. [D-MN-1]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1725enr/xml/BILLS-115hr1725enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1725rfs/xml/BILLS-115hr1725rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1725eh/xml/BILLS-115hr1725eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1725rh/xml/BILLS-115hr1725rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr1725ih/xml/BILLS-115hr1725ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ130/uslm/PLAW-115publ130.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/1725",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

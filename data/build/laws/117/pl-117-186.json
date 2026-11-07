@@ -1,0 +1,43 @@
+{
+ "id": "pl-117-186",
+ "congress": 117,
+ "public_law": "117-186",
+ "bill": "HR 468",
+ "title": "Expedited Delivery of Airport Infrastructure Act of 2021",
+ "enacted": "2022-10-10",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Transportation and Public Works",
+ "sponsor": "Rep. Graves, Sam [R-MO-6]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr468enr/xml/BILLS-117hr468enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr468rds/xml/BILLS-117hr468rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr468eh/xml/BILLS-117hr468eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr468rh/xml/BILLS-117hr468rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr468ih/xml/BILLS-117hr468ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ186/uslm/PLAW-117publ186.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/house-bill/468",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

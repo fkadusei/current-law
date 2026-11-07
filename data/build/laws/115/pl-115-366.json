@@ -1,0 +1,40 @@
+{
+ "id": "pl-115-366",
+ "congress": 115,
+ "public_law": "115-366",
+ "bill": "HR 6216",
+ "title": "To designate the facility of the United States Postal Service located at 3025 Woodgate Road in Montrose, Colorado, as the \"Sergeant David Kinterknecht Post Office\".",
+ "enacted": "2018-12-21",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Tipton, Scott  R. [R-CO-3]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr6216enr/xml/BILLS-115hr6216enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr6216rds/xml/BILLS-115hr6216rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr6216eh/xml/BILLS-115hr6216eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr6216ih/xml/BILLS-115hr6216ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ366/uslm/PLAW-115publ366.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/6216",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

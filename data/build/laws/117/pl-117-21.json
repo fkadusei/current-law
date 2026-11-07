@@ -1,0 +1,40 @@
+{
+ "id": "pl-117-21",
+ "congress": 117,
+ "public_law": "117-21",
+ "bill": "HR 2441",
+ "title": "Sgt. Ketchum Rural Veterans Mental Health Act of 2021",
+ "enacted": "2021-06-30",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Rep. Axne, Cynthia [D-IA-3]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr2441enr/xml/BILLS-117hr2441enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr2441rfs/xml/BILLS-117hr2441rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr2441eh/xml/BILLS-117hr2441eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr2441ih/xml/BILLS-117hr2441ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ21/xml/PLAW-117publ21.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/house-bill/2441",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

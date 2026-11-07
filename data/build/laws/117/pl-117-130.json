@@ -1,0 +1,43 @@
+{
+ "id": "pl-117-130",
+ "congress": 117,
+ "public_law": "117-130",
+ "bill": "HR 4426",
+ "title": "Homeland Security for Children Act",
+ "enacted": "2022-06-06",
+ "president": {
+  "id": "biden",
+  "name": "Joe Biden",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Emergency Management",
+ "sponsor": "Rep. Payne, Donald M., Jr. [D-NJ-10]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr4426enr/xml/BILLS-117hr4426enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr4426rs/xml/BILLS-117hr4426rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr4426rfs/xml/BILLS-117hr4426rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr4426eh/xml/BILLS-117hr4426eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr4426ih/xml/BILLS-117hr4426ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ130/uslm/PLAW-117publ130.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/117th-congress/house-bill/4426",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

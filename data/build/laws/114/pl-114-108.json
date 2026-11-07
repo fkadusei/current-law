@@ -1,0 +1,37 @@
+{
+ "id": "pl-114-108",
+ "congress": 114,
+ "public_law": "114-108",
+ "bill": "HJRES 76",
+ "title": "Appointing the day for the convening of the second session of the One Hundred Fourteenth Congress.",
+ "enacted": "2015-12-18",
+ "president": {
+  "id": "obama",
+  "name": "Barack Obama",
+  "party": "Democratic"
+ },
+ "became_law": "signed",
+ "policy_area": "Congress",
+ "sponsor": "Rep. McCarthy, Kevin [R-CA-23]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hjres76enr/xml/BILLS-114hjres76enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hjres76rds/xml/BILLS-114hjres76rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-114hjres76eh/xml/BILLS-114hjres76eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-114publ108/uslm/PLAW-114publ108.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/114th-congress/house-joint-resolution/76",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

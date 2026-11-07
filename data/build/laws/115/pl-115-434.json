@@ -1,0 +1,40 @@
+{
+ "id": "pl-115-434",
+ "congress": 115,
+ "public_law": "115-434",
+ "bill": "HR 672",
+ "title": "Combating European Anti-Semitism Act of 2017",
+ "enacted": "2019-01-14",
+ "president": {
+  "id": "trump-1",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "International Affairs",
+ "sponsor": "Rep. Lowey, Nita M. [D-NY-17]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr672enr/xml/BILLS-115hr672enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr672rfs/xml/BILLS-115hr672rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr672eh/xml/BILLS-115hr672eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr672ih/xml/BILLS-115hr672ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-115publ434/uslm/PLAW-115publ434.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/house-bill/672",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}
