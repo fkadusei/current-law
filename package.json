@@ -1,0 +1,7 @@
+{
+  "name": "current-law",
+  "private": true,
+  "scripts": {
+    "build": "cd site && npm ci && npm run build"
+  }
+}
