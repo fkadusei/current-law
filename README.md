@@ -15,13 +15,15 @@ orders are included too.
 
 ## Pipeline
 
-Standard-library Python 3.10+, no installs needed.
+Python 3.10+. Fetching and building use only the standard library; summaries need
+`pip install -r pipeline/requirements.txt`.
 
 ```sh
 python pipeline/fetch_votes.py 118 118          # roll-call votes for one Congress
 python pipeline/fetch_laws.py 118 118           # laws for one Congress (needs the key)
 python pipeline/fetch_laws_govinfo.py 118 118   # same, from GovInfo (2013 onward, no key)
 python pipeline/fetch_executive_orders.py       # all executive orders
+python pipeline/summarize.py --congress 118     # plain-language summaries (needs ANTHROPIC_API_KEY)
 python pipeline/build.py 118 118                # join into data/build/
 ```
 

@@ -34,6 +34,11 @@ CONCUR_RES = re.compile(r"concurrence by the (?:House|Senate) in the (?:Senate|H
                         r"amendments? to (H\.\s?R\.|S\.|H\.J\.\s?Res\.|S\.J\.\s?Res\.)\s?(\d+)", re.I)
 
 
+def load_summary(item_id: str) -> dict | None:
+    path = RAW.parent / "summaries" / f"{item_id}.json"
+    return json.loads(path.read_text()) if path.exists() else None
+
+
 def num(value: str) -> str:
     """Voteview writes some codes as floats ("200.0"); normalize to "200"."""
     try:
@@ -204,7 +209,7 @@ def build_congress(congress: int, member_index: dict) -> list[dict]:
             # Who controlled each chamber, shown next to who actually passed it, e.g.
             # "Republican-controlled House, passed mostly by Democratic votes".
             "control": {v["chamber"]: v["majority_party"] for v in votes},  # False means voice vote or unanimous consent
-            "summary": None,  # filled in by step 2 (plain-language summaries)
+            "summary": load_summary(law_id),  # written by summarize.py
         }
         write_json(BUILD / "laws" / str(congress) / f"{law_id}.json", record)
         index.append({k: record[k] for k in (
@@ -235,7 +240,8 @@ def build_executive_orders() -> None:
             "pdf": o.get("pdf_url"),
             "citation": o.get("citation"),
             "status_notes": o.get("disposition_notes"),
-            "summary": None,
+            "abstract": o.get("abstract"),
+            "summary": load_summary(f"eo-{o.get('executive_order_number')}"),
         })
     write_json(BUILD / "executive_orders.json", orders)
     print(f"build: {len(orders)} executive orders")
