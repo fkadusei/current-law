@@ -168,19 +168,20 @@ import Base from "../layouts/Base.astro";
   .dots { display: flex; gap: 2px; height: 6px; }
   .cnt { position: absolute; top: 2px; right: 4px; font-size: .58rem; color: var(--muted); }
   .k { display: inline-block; width: 6px; height: 6px; border-radius: 50%; }
-  .k.HOL { background: transparent; box-shadow: inset 0 0 0 2px var(--gold); width: 8px; height: 8px; }
-  .day.hol { box-shadow: inset 0 0 0 2px var(--gold); }
-  .day.hol::after { content: "★"; position: absolute; top: 1px; left: 4px; font-size: .6rem; color: var(--gold); }
-  .ri.side-HOL { border-left-color: var(--gold); background: color-mix(in srgb, var(--gold) 9%, var(--surface)); }
-  .rtag.hol { background: var(--gold); color: #1b1300; }
+  :root { --hol: #0fa98f; }
+  .k.HOL { background: var(--hol); }
+  .day.hol { box-shadow: inset 0 0 0 2px var(--hol); background: color-mix(in srgb, var(--hol) 16%, transparent); }
+  .day.hol::after { content: "★"; position: absolute; top: 1px; left: 4px; font-size: .6rem; color: var(--hol); }
+  .ri.side-HOL { border-left-color: var(--hol); background: color-mix(in srgb, var(--hol) 9%, var(--surface)); }
+  .rtag.hol { background: var(--hol); color: #fff; }
   .ri .ht { display: block; } .ri a.hl { display: inline; font-weight: 500; color: var(--accent); }
   .holidays { margin-top: 48px; }
   .hgrid { list-style: none; padding: 0; margin: 16px 0 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 10px; }
   .hcard button { width: 100%; display: flex; gap: 14px; align-items: center; text-align: left; padding: 12px 14px; border-radius: 14px; border: 1px solid var(--border); background: var(--surface); color: var(--text); font: inherit; cursor: pointer; transition: transform .15s, box-shadow .15s; }
-  .hcard button:hover { transform: translateY(-2px); box-shadow: var(--shadow); border-color: var(--gold); }
+  .hcard button:hover { transform: translateY(-2px); box-shadow: var(--shadow); border-color: var(--hol); }
   .hcard.past button { opacity: .6; }
   .hdate { flex: none; width: 52px; height: 56px; border-radius: 10px; display: flex; flex-direction: column; align-items: center; justify-content: center; background: var(--navy); color: #fff; line-height: 1.05; }
-  .hdate b { font-size: .66rem; text-transform: uppercase; letter-spacing: .1em; color: var(--gold); }
+  .hdate b { font-size: .66rem; text-transform: uppercase; letter-spacing: .1em; color: var(--hol); }
   .hdate span { font: 700 1.4rem var(--serif); }
   .hinfo { display: flex; flex-direction: column; min-width: 0; } .hinfo small { color: var(--muted); font-size: .78rem; }
   .k.R { background: var(--rep); } .k.D { background: var(--dem); } .k.N { background: #8a8f98; } .k.EO { background: var(--gold); }
