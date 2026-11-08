@@ -25,6 +25,11 @@ from common import BUILD, ROOT, write_json
 
 SUMMARIES = ROOT / "data" / "summaries"
 DEFAULT_MODEL = "claude-opus-5-5"
+# Ceremonial laws (post office names, commemorations) read the same on any
+# model, so they go to the cheaper one.
+CEREMONIAL_MODEL = "claude-haiku-5-5"
+CEREMONIAL = re.compile(r"designate the (facility|building|federal building|courthouse)|post office|"
+                        r"to (re)?name |commemorat|congressional gold medal|award a congressional", re.I)
 
 SYSTEM = """You explain US federal laws and executive orders to everyday voters.
 
@@ -106,11 +111,11 @@ def pending_items(args) -> list[tuple[str, str]]:
         for path in sorted((laws_dir / c).glob("*.json")):
             law = json.loads(path.read_text())
             if not (SUMMARIES / f"{law['id']}.json").exists():
-                items.append((law["id"], law_prompt(law)))
+                items.append((law["id"], law_prompt(law), bool(CEREMONIAL.search(law.get("title") or ""))))
     if args.orders:
         for order in json.loads((BUILD / "executive_orders.json").read_text()):
             if not (SUMMARIES / f"{order['id']}.json").exists():
-                items.append((order["id"], order_prompt(order)))
+                items.append((order["id"], order_prompt(order), False))
     return items[: args.limit] if args.limit else items
 
 
@@ -131,7 +136,7 @@ def collect(client: anthropic.Anthropic, batch_id: str, model: str) -> None:
             continue
         text = next((b.text for b in msg.content if b.type == "text"), "")
         summary = json.loads(text)
-        summary.update({"ai_generated": True, "model": model,
+        summary.update({"ai_generated": True, "model": msg.model,
                         "written": time.strftime("%Y-%m-%d")})
         write_json(SUMMARIES / f"{result.custom_id}.json", summary)
         done += 1
@@ -145,7 +150,13 @@ def main() -> None:
     ap.add_argument("--congress", type=int)
     ap.add_argument("--orders", action="store_true", help="also summarize executive orders")
     ap.add_argument("--collect", metavar="BATCH_ID")
+    ap.add_argument("--same-model", action="store_true", help="use --model for ceremonial laws too")
+    ap.add_argument("--dry-run", action="store_true", help="count what would be sent, send nothing")
     args = ap.parse_args()
+    if args.dry_run:
+        items = pending_items(args)
+        print(f"would summarize {len(items)} items, {sum(1 for *_, c in items if c)} ceremonial")
+        return
     key = os.environ.get("CURRENT_LAW_ANTHROPIC_KEY") or os.environ.get("ANTHROPIC_API_KEY")
     if not key:
         raise SystemExit("Set CURRENT_LAW_ANTHROPIC_KEY to your Anthropic API key.")
@@ -157,9 +168,11 @@ def main() -> None:
     if not items:
         print("summaries: nothing new to summarize")
         return
-    batch = client.messages.batches.create(
-        requests=[request(cid, prompt, args.model) for cid, prompt in items])
-    print(f"summaries: submitted {len(items)} as batch {batch.id}")
+    cer = sum(1 for *_, c in items if c)
+    batch = client.messages.batches.create(requests=[
+        request(cid, prompt, CEREMONIAL_MODEL if c and not args.same_model else args.model)
+        for cid, prompt, c in items])
+    print(f"summaries: submitted {len(items)} ({cer} ceremonial on {CEREMONIAL_MODEL}) as batch {batch.id}")
     collect(client, batch.id, args.model)
 
 
