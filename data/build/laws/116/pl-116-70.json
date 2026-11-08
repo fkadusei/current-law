@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Commerce",
  "sponsor": "Sen. Kennedy, John [R-LA]",
- "official_summary": " <p><b>Rebuilding Small Businesses After Disasters Act </b></p> <p>This bill makes permanent the increased threshold for the minimum major-disaster loan amount for which the Small Business Administration may require collateral.</p>",
+ "official_summary": " <p><strong>Rebuilding Small Businesses After Disasters Act</strong></p> <p>This bill extends by three years the increased threshold for the minimum major-disaster loan amount for which the Small Business Administration may require collateral. It also requires the Government Accountability Office to report on the performance of such loans.</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-116s862enr/xml/BILLS-116s862enr.xml"
@@ -37,19 +37,23 @@
  "party_color": null,
  "control": {},
  "summary": {
-  "headline": "Makes permanent a higher dollar threshold above which the Small Business Administration may require collateral on disaster loans to small businesses.",
-  "what_it_does": "The law changes a rule about disaster loans from the Small Business Administration. Under the rule, the agency can ask a borrower to pledge collateral only when a loan is above a set dollar amount. This law makes a higher version of that amount permanent instead of temporary. The summary provided does not give the specific dollar figures.",
+  "headline": "A 2019 law extends for three years a higher loan-amount threshold above which the Small Business Administration may require collateral on major-disaster loans, and requires a GAO report on those loans.",
+  "what_it_does": "The law extends by three years an increased threshold for the minimum size of a major-disaster loan for which the Small Business Administration (SBA) may require collateral. Collateral is property a borrower pledges to back a loan. The law also directs the Government Accountability Office (GAO) to report on how these disaster loans have performed. The official summary does not list the dollar amounts or the exact end date.",
   "who_it_affects": [
    {
-    "group": "Small businesses that borrow from the Small Business Administration after a major disaster",
-    "how": "Smaller disaster loans are less likely to require pledged collateral under the higher threshold."
+    "group": "Small businesses that borrow from the SBA after a major disaster",
+    "how": "The collateral rules for larger disaster loans stay under the extended threshold for three years instead of reverting to the earlier level."
    },
    {
-    "group": "Homeowners and nonprofits that apply for SBA disaster loans",
-    "how": "The same collateral threshold applies to their disaster loans, so they may be affected in the same way."
+    "group": "Businesses and homeowners who apply for SBA disaster loans",
+    "how": "Whether the SBA can require collateral on a loan depends on the loan amount, so the extended threshold sets which loans can require it."
+   },
+   {
+    "group": "Congress and the public",
+    "how": "The GAO report will provide information on how these SBA disaster loans have performed."
    }
   ],
-  "when_it_takes_effect": "Upon enactment on November 22, 2019, the higher threshold became permanent.",
+  "when_it_takes_effect": "The law was enacted on November 22, 2019. The official summary does not state a separate effective date or the exact date the three-year extension ends.",
   "ceremonial": false,
   "confidence": "medium",
   "ai_generated": true,

@@ -1,21 +1,53 @@
 {
- "headline": "Temporary funding law ends the partial Homeland Security shutdown and funds the department through May 22, 2026.",
- "what_it_does": "This law gives the Department of Homeland Security (DHS) short-term funding, ending a partial DHS shutdown that began on February 14, 2026. Most DHS agencies and programs are funded at their 2025 levels until May 22, 2026, or until a full-year DHS spending law passes, whichever comes first. It also sets aside money for back pay to federal workers affected by the shutdown. It approves certain spending commitments made during the shutdown, such as those needed to protect life and property.",
+ "headline": "Law funds most of the Department of Homeland Security for 2026, excluding ICE and Border Patrol, and ends a partial shutdown with back pay.",
+ "what_it_does": "This law provides full-year 2026 funding for most Homeland Security agencies, including TSA, the Coast Guard, FEMA, the Secret Service, USCIS, and cybersecurity programs, but not ICE or the Border Patrol. It covers the partial Homeland Security shutdown that began February 14, 2026, and requires back pay for affected federal workers. It also sets many rules on how the money can be spent, such as limits on detention practices, new reporting duties, and deadlines for FEMA disaster payments.",
  "who_it_affects": [
   {
-   "group": "Federal employees at DHS agencies",
-   "how": "They are covered by funds set aside for back pay, under current law, for the time they were affected by the shutdown."
+   "group": "Federal employees affected by the shutdown",
+   "how": "They are to receive back pay for the time their agency's funding lapsed."
   },
   {
-   "group": "DHS agencies and programs",
-   "how": "They can operate again, generally at their 2025 funding levels, through May 22, 2026, or until a full-year DHS funding law is enacted."
+   "group": "Pregnant women in Homeland Security custody",
+   "how": "The law limits the use of restraints on them and requires health and safety standards for pregnant and postpartum people in border custody."
   },
   {
-   "group": "People and businesses that rely on DHS services",
-   "how": "DHS services affected by the shutdown can resume under the restored funding."
+   "group": "People held in Homeland Security custody",
+   "how": "Records about deaths, abuse, or alleged misconduct in custody may not be destroyed, and some of these records must be made available to people punished based on them."
+  },
+  {
+   "group": "Communities and people seeking disaster aid",
+   "how": "FEMA must post a public dashboard tracking reimbursement requests, and agency leadership funding is cut each day too many requests sit in final review for more than 60 days."
+  },
+  {
+   "group": "Air travelers, including members of Congress",
+   "how": "TSA may not exempt members of Congress and certain federal officials from standard passenger and baggage screening."
+  },
+  {
+   "group": "People who buy prescription drugs from Canada",
+   "how": "Customs and Border Protection may not use this money to stop individuals from bringing in personal-use amounts of certain prescription drugs from Canada."
+  },
+  {
+   "group": "People crossing land borders",
+   "how": "Homeland Security may not collect new border crossing fees or study adding one."
+  },
+  {
+   "group": "Journalists and people facing criminal charges",
+   "how": "The department's intelligence office may not target journalists doing their jobs or interview people with pending criminal cases without their consent after talking to a lawyer."
+  },
+  {
+   "group": "Air traffic controllers",
+   "how": "The law provides money for a pay raise for them in 2026."
+  },
+  {
+   "group": "Fire departments",
+   "how": "FEMA may waive certain matching and other requirements for firefighter staffing and equipment grants."
+  },
+  {
+   "group": "Members of Congress and their staff",
+   "how": "Homeland Security may not block them from entering immigration detention facilities for oversight visits or change facilities temporarily to alter what they see."
   }
  ],
- "when_it_takes_effect": "Enacted April 30, 2026; funding lasts through May 22, 2026, or until a full-year DHS funding law is enacted, whichever comes first.",
+ "when_it_takes_effect": "Enacted April 30, 2026; funding covers fiscal year 2026, and shutdown-related provisions reach back to February 14, 2026.",
  "ceremonial": false,
  "confidence": "high",
  "ai_generated": true,

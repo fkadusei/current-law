@@ -1,29 +1,33 @@
 {
- "headline": "This law writes into statute the Federal Law Enforcement Training Center's place within the Department of Homeland Security and sets out how it trains federal, state, and local officers.",
- "what_it_does": "The law puts the Federal Law Enforcement Training Center (FLETC) into the Homeland Security Act of 2002, so its existence and structure are set by statute. A director who reports to the DHS Secretary runs the center, sets training goals and curricula, and manages facilities and acquisitions. The center may train federal employees in homeland security and law enforcement, and it may partner with state, local, and private groups, sometimes charging fees for non-federal training. The law also keeps several existing spending and housing powers and lets the center honor graduates who died in the line of duty.",
+ "headline": "This law puts the Federal Law Enforcement Training Center into the Homeland Security Act and sets out its duties, who it trains, and how it can spend and charge money.",
+ "what_it_does": "The law writes the Federal Law Enforcement Training Center (FLETC) into the Homeland Security Act of 2002 as part of the Department of Homeland Security, led by a director who reports to the DHS Secretary. It lists the center's job duties, including building training programs, managing facilities, sharing homeland security information, and helping train foreign police. It lets FLETC train federal employees, state and local police, and private sector groups, and it sets rules for partner agencies, fees, housing, and travel costs. It also makes existing spending and gift authorities permanent, including money to honor graduates who died in the line of duty.",
  "who_it_affects": [
   {
    "group": "Federal law enforcement and homeland security employees",
-   "how": "They receive training through FLETC, and attendees are expected to live in FLETC housing when practical."
+   "how": "They may be trained at FLETC facilities, off-site, or online, and some are expected to live in FLETC housing when practical."
   },
   {
    "group": "State and local law enforcement agencies",
-   "how": "They may take part in FLETC training through strategic partnerships, and the center may charge them fees for certain trainings."
+   "how": "They can enter partnerships with FLETC for training, and the center may charge them fees for training."
   },
   {
-   "group": "Federal agencies that send staff to FLETC",
-   "how": "Partner agencies under a memorandum of understanding must pay for and assign non-reimbursable detailed instructors to support training programs."
+   "group": "Partner federal agencies with a memorandum of understanding with FLETC",
+   "how": "They must pay for and assign detailed instructors to training programs without reimbursement."
+  },
+  {
+   "group": "Private sector security stakeholders",
+   "how": "FLETC may coordinate with them to provide training and share homeland security information."
   },
   {
    "group": "Retired federal employees with training experience",
-   "how": "The center may hire them to help with training work."
+   "how": "FLETC may hire them to work at the center."
   },
   {
-   "group": "Families of fallen FLETC graduates",
-   "how": "The center may spend funds to honor and memorialize graduates who died in the line of duty."
+   "group": "Families of FLETC graduates who died in the line of duty",
+   "how": "FLETC may spend funds to honor and memorialize those graduates."
   }
  ],
- "when_it_takes_effect": "The summary does not state a specific effective date; the law was enacted on December 16, 2016.",
+ "when_it_takes_effect": "Upon enactment on December 16, 2016.",
  "ceremonial": false,
  "confidence": "medium",
  "ai_generated": true,

@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Commerce",
  "sponsor": "Rep. Issa, Darrell E. [R-CA-48]",
- "official_summary": "<p><strong>No Stolen Trademarks Honored in America Act of 2023</strong></p><p>This bill modifies the bar against U.S. courts enforcing or validating trademarks that were confiscated by the Cuban government.</p><p>The bill prohibits U.S. courts and executive branch agencies from enforcing or validating such confiscated trademarks if the mark has been used in connection with a confiscated business or asset. Currently, the prohibition is limited to U.S. courts and applies only if the confiscated trademark is being asserted in the United States by a Cuban national.</p><p>Under the bill, the prohibition shall not apply if the original trademark owner, or a successor, has expressly consented to the enforcement action.</p><p>The prohibition shall apply only if the entity asserting the trademark rights knew or should have known, when it acquired the rights, that the mark was the same or substantially similar to one connected to a confiscated business or asset.</p>",
+ "official_summary": "<p><strong>No Stolen Trademarks Honored in America Act of 2023</strong></p><p>This act modifies the bar against U.S. courts enforcing or validating trademarks that were confiscated by the Cuban government.</p><p>The act prohibits U.S. courts and executive branch agencies from enforcing or validating such confiscated trademarks if the mark has been used in connection with a confiscated business or asset. Currently, the prohibition is limited to U.S. courts and applies only if the confiscated trademark is being asserted in the United States by a Cuban national.</p><p>Under the act, the prohibition shall not apply if the original trademark owner, or a successor, has expressly consented to the enforcement action.</p><p>The prohibition shall apply only if the entity asserting the trademark rights knew or should have known, when it acquired the rights, that the mark was the same or substantially similar to one connected to a confiscated business or asset.</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr1505enr/xml/BILLS-118hr1505enr.xml"
@@ -40,23 +40,23 @@
  "party_color": null,
  "control": {},
  "summary": {
-  "headline": "Law widens the ban on US courts and agencies honoring trademarks the Cuban government took from their original owners.",
-  "what_it_does": "Before this law, US courts could not enforce or approve trademarks confiscated by the Cuban government when a Cuban national claimed them in the US. This law extends that ban to federal executive branch agencies and to anyone claiming such a trademark, if the mark was used with a confiscated business or asset. The ban does not apply if the original owner or their successor clearly agrees. It also applies only if the party claiming the mark knew or should have known, when it got the rights, that the mark matched or closely resembled one tied to a confiscated business or asset.",
+  "headline": "Expands the ban on U.S. courts and agencies recognizing trademarks tied to businesses the Cuban government confiscated.",
+  "what_it_does": "Before this law, U.S. courts could not enforce or approve trademarks confiscated by the Cuban government, but only when a Cuban national was claiming them. This law extends the ban to federal executive agencies and applies it no matter who claims the mark, if the mark was used with a confiscated business or asset. The ban does not apply if the original owner, or whoever took over their rights, clearly agrees. It also applies only if the party claiming the mark knew or should have known, when it got the rights, that the mark matched or closely resembled one tied to a confiscated business or asset.",
   "who_it_affects": [
    {
-    "group": "Companies and people holding US trademark rights tied to businesses or assets the Cuban government confiscated",
-    "how": "US courts and federal agencies may refuse to enforce or approve those trademarks, even if the holder is not a Cuban national."
+    "group": "Original owners of Cuban businesses whose trademarks were confiscated, and their successors",
+    "how": "Others generally cannot enforce or register their former marks in the U.S. without their express consent."
    },
    {
-    "group": "Original owners of confiscated Cuban businesses and their successors",
-    "how": "Their consent is now required before such a trademark can be enforced or approved."
+    "group": "Companies and people (Cuban or not) seeking to use or protect trademarks tied to confiscated Cuban businesses",
+    "how": "U.S. courts and federal agencies may refuse to enforce or approve those marks if the claimant knew or should have known of the link to a confiscated business."
    },
    {
-    "group": "Federal executive branch agencies that handle trademarks",
-    "how": "They are now barred, like the courts, from enforcing or validating covered confiscated trademarks."
+    "group": "Federal executive agencies that handle trademarks",
+    "how": "They are now also barred from recognizing or enforcing these confiscated trademarks."
    }
   ],
-  "when_it_takes_effect": "Enacted December 1, 2024; the summary does not give a separate start date.",
+  "when_it_takes_effect": "The law was enacted December 1, 2024; the summary does not give a separate effective date.",
   "ceremonial": false,
   "confidence": "high",
   "ai_generated": true,

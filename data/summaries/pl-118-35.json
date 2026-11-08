@@ -1,45 +1,45 @@
 {
- "headline": "Temporary spending law keeps the federal government funded into March 2024 and extends several health, family, and security programs.",
- "what_it_does": "This law, called a continuing resolution, prevents a government shutdown by funding federal agencies mostly at 2023 levels. Agencies covered by four spending bills, including agriculture, veterans affairs, energy, and transportation and housing, are funded through March 1, 2024, and most others through March 8, 2024. It also extends a list of expiring programs through March 8, 2024, including community health center funding, diabetes programs, child welfare grants, and drone-threat authorities. It delays planned cuts to Medicaid payments for hospitals that serve many low-income patients.",
+ "headline": "Short-term spending law keeps the federal government funded into early March 2024 and extends several expiring health and other programs.",
+ "what_it_does": "This law is a stopgap funding measure that prevented a government shutdown. It funds agencies covering agriculture, energy and water, military construction and veterans affairs, and transportation and housing through March 1, 2024, and most other agencies through March 8, 2024, generally at 2023 levels. It also extends many expiring programs, including community health center funding, special diabetes programs, child welfare grants, and drone-threat powers, mostly through March 8, 2024. It delays planned cuts to Medicaid payments for hospitals serving many low-income patients and trims two Medicare and Medicaid improvement funds.",
  "who_it_affects": [
   {
-   "group": "Federal employees and people who use federal services",
-   "how": "Government agencies stay open and keep operating, mostly at last year's funding levels, instead of shutting down."
+   "group": "Federal employees and contractors",
+   "how": "Their agencies stay funded, avoiding a shutdown, through March 1 or March 8, 2024."
   },
   {
    "group": "Patients at community health centers",
-   "how": "Funding for health centers that serve medically underserved areas continues through March 8, 2024."
+   "how": "Federal funding for these clinics serving underserved areas continues through March 8, 2024."
   },
   {
-   "group": "Doctors in training and health workers in shortage areas",
-   "how": "Funding continues for primary care residency training in community clinics and for National Health Service Corps scholarships and student loan repayment."
+   "group": "Health care workers in the National Health Service Corps and primary care residents at teaching health centers",
+   "how": "Scholarships, loan repayment, and training funding continue through March 8, 2024."
   },
   {
-   "group": "People with Type 1 diabetes and Native American communities",
-   "how": "Funding continues for Type 1 diabetes research and for diabetes treatment and prevention programs for tribes."
+   "group": "People with Type 1 diabetes and Native American tribal communities",
+   "how": "Funding for Type 1 diabetes research and diabetes care programs for tribes continues through March 8, 2024."
   },
   {
-   "group": "Hospitals that serve many low-income patients",
+   "group": "Hospitals that treat many low-income Medicaid patients",
    "how": "Scheduled cuts to their extra Medicaid payments are delayed until March 9, 2024."
   },
   {
    "group": "Doctors who bill Medicare",
-   "how": "A minimum adjustment that affects Medicare payment rates in some areas is extended through March 8, 2024."
+   "how": "A minimum adjustment that affects Medicare payment rates in some areas continues through March 8, 2024."
   },
   {
-   "group": "Children and families in the child welfare system",
-   "how": "Grants to states and tribes for keeping families together, reunification, and adoption continue through March 8, 2024."
+   "group": "Families and children in the child welfare system",
+   "how": "Grants to states and tribes for keeping families together and supporting adoption or reunification continue through March 8, 2024."
   },
   {
-   "group": "Teens and young parents",
-   "how": "Funding continues for sex education programs, including abstinence-focused and pregnancy-prevention programs."
+   "group": "Teens and young people in sex education programs",
+   "how": "Funding for abstinence-focused and pregnancy-prevention education programs continues through March 8, 2024."
   },
   {
-   "group": "People of Micronesia and the Marshall Islands",
+   "group": "Residents of Micronesia and the Marshall Islands",
    "how": "U.S. grants and financial aid to these nations continue through March 8, 2024."
   }
  ],
- "when_it_takes_effect": "Enacted January 19, 2024; funding runs through March 1, 2024, for some agencies and March 8, 2024, for most others and for the extended programs.",
+ "when_it_takes_effect": "January 19, 2024; most funding and extensions last through March 1 or March 8, 2024.",
  "ceremonial": false,
  "confidence": "high",
  "ai_generated": true,

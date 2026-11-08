@@ -1,17 +1,13 @@
 {
- "headline": "This law lets the first person appointed as Secretary of Defense after its passage be someone who left regular active-duty military service at least three years earlier, instead of seven.",
- "what_it_does": "Current law bars anyone from becoming Secretary of Defense within seven years after leaving active duty as a regular commissioned officer of the Armed Forces. This law creates a one-time exception. It applies only to the first person appointed to that job after the law was enacted, and that person needs only three years to have passed since leaving such active duty. The exception does not change the rule for anyone appointed later.",
+ "headline": "This 2017 law creates a one-time exception that lets the first Secretary of Defense appointed after its enactment be a former regular officer who left active duty at least three years earlier.",
+ "what_it_does": "Federal law normally bars anyone from being appointed Secretary of Defense within seven years after leaving active duty as a regular commissioned officer. This law allows the first person appointed to the post after its enactment to be someone who is at least three years past that active-duty date. The exception applies only to that first appointment.",
  "who_it_affects": [
   {
-   "group": "The individual nominated as the first Secretary of Defense after January 20, 2017",
-   "how": "This person could be a recently retired regular-duty commissioned officer who had been out of active duty for at least three years rather than seven."
-  },
-  {
-   "group": "Former regular-component commissioned officers of the Armed Forces",
-   "how": "Their eligibility for the Secretary of Defense post is affected only for the first appointment after enactment, under the shortened waiting period."
+   "group": "Retired regular commissioned officers of the Armed Forces who might be considered for Secretary of Defense",
+   "how": "Someone who left regular active duty three to seven years before a future appointment could be eligible for the first appointment under this exception, although the normal seven-year limit still applies to everyone else."
   }
  ],
- "when_it_takes_effect": "The exception applies on the date of enactment, January 20, 2017, and covers only the first appointment made after that date.",
+ "when_it_takes_effect": "On enactment, January 20, 2017, and it applies only to the first Secretary of Defense appointed after that date.",
  "ceremonial": false,
  "confidence": "high",
  "ai_generated": true,

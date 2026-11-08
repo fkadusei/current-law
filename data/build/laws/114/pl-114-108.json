@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Congress",
  "sponsor": "Rep. McCarthy, Kevin [R-CA-23]",
- "official_summary": " <p>This joint resolution convenes the second session of the 114th Congress at noon on January 4, 2016.</p>",
+ "official_summary": " <p>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</p> <p>This joint resolution convenes the second session of the 114th Congress at noon on January 4, 2016.</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-114hjres76enr/xml/BILLS-114hjres76enr.xml"
@@ -34,10 +34,10 @@
  "party_color": null,
  "control": {},
  "summary": {
-  "headline": "A 2015 joint resolution set noon on January 4, 2016, as the time the second session of the 114th Congress would begin.",
-  "what_it_does": "This joint resolution sets the date and time for the second session of the 114th Congress to start. Congress must meet on a set day each year, and this law fixes that day for 2016. It does not change any policy, spending, or rules for people.",
+  "headline": "A joint resolution set noon on January 4, 2016, as the time Congress would begin its second session of the 114th Congress.",
+  "what_it_does": "This law sets the date and time for the second session of the 114th Congress to start. It says the session convenes at noon on January 4, 2016. It is a procedural measure about scheduling Congress's own work.",
   "who_it_affects": [],
-  "when_it_takes_effect": "The second session of the 114th Congress convened at noon on January 4, 2016.",
+  "when_it_takes_effect": "The session it sets was scheduled to begin at noon on January 4, 2016.",
   "ceremonial": true,
   "confidence": "high",
   "ai_generated": true,

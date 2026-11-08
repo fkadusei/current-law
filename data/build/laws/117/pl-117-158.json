@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Agriculture and Food",
  "sponsor": "Sen. Shaheen, Jeanne [D-NH]",
- "official_summary": " <p><b>Burial Equity for Guards and Reserves Act of 2021</b></p> <p>This bill prohibits the Department of Veterans Affairs (VA) from establishing a condition for a cemetery grant that restricts the ability of a state to inter certain reservists (or their spouses and children) at a state-owned veterans' cemetery solely because such individuals are ineligible for burial in an open national cemetery.</p> <p>Specifically, as a condition for grants, the VA cannot restrict the ability of a state to inter a</p> <ul> <li>member of a reserve component, the Army National Guard, or the Air National Guard who, while a member, was discharged or released from service under conditions other than dishonorable or whose death occurred under conditions other than dishonorable;</li> <li>member of the Reserve Officers' Training Corps of the Army, Navy, or Air Force whose death occurred under conditions other than dishonorable while a member; and</li> <li>spouse, minor child, or unmarried adult child of any member described above.</li> </ul> <p>The VA is prohibited from (1) denying an application for a grant solely on the basis that the recipient state may use funds to expand, improve, operate, or maintain a veterans' cemetery in which interment of the specified individuals is allowed; and (2) enforcing certain conditions on grants for state veterans' cemeteries that were established before the date of enactment of this bill.</p> <p>The bill also provides for plot allowances for the burial of veterans at cemeteries that allow the internment of individuals listed in the bill, including on trust land owned by or held in trust for a tribal organization.</p>",
+ "official_summary": " <p><strong>Keep Kids Fed Act of 2022</strong></p> <p>This bill provides funding for and makes changes to school meal programs and the Child and Adult Care Food Program (CACFP). It also rescinds certain funds provided under the American Rescue Plan Act of 2021; the Consolidated Appropriations Act, 2021; and the Coronavirus Aid, Relief, and Economic Security Act (CARES Act). </p> <p>Specifically, the bill increases the reimbursement rate for school lunches by 40 cents and for school breakfasts by 15 cents for the school year beginning in July 2022.</p> <p>The bill extends the authority of the Department of Agriculture (USDA) to waive certain requirements for the school meal programs and the CACFP to address COVID-19. In particular, the bill extends authority</p> <ul> <li> through September 30, 2022, for USDA to grant waivers related to summer food service programs; </li> <li>through June 30, 2022, for USDA to grant waivers of requirements to allow non-congregate feeding in the CACFP for purposes of providing meals and snacks with appropriate safety measures with respect to COVID-19; and</li> <li>through June 30, 2023, for USDA to grant waivers related to the nutritional content of meals served in child nutrition programs if it determines the waiver is necessary to provide meals and snacks, and there is a food supply chain disruption due to COVID-19. </li> </ul> <p>The bill authorizes USDA to establish a nationwide waiver of statutory and regulatory requirements under child nutrition programs for the 2022-2023 school year.</p> <p>Additionally, the bill increase the reimbursement rate for meals and snacks under the CACFP by 10 cents for the school year beginning in July 2022. Further, the bill increases the reimbursement of tier II family or group day care homes to tier I amounts for the 2022-2023 school year.</p> <p>The bill rescinds certain funding provided to USDA, the Department of Education, and the Small Business Administration.</p> <p>Finally, the bill requires USDA to ensure that technical assistance is made available to states and school food authorities for assisting parents and school leaders with transitioning to the operation of school meal programs without certain waivers.</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-117s2089enr/xml/BILLS-117s2089enr.xml"
@@ -3511,29 +3511,33 @@
   "House": "D"
  },
  "summary": {
-  "headline": "The source text describes a veterans burial measure, but the title given is a child nutrition act, so the match is unclear.",
-  "what_it_does": "The summary provided describes a bill that bars the Department of Veterans Affairs from setting grant conditions that stop states from burying certain National Guard and Reserve members, and some of their family members, in state veterans' cemeteries just because they cannot be buried in a national cemetery. It also bars the VA from denying a grant only because a state might use the funds to expand or run a cemetery that allows these burials, and from enforcing some conditions on older state cemetery grants. The bill adds plot allowances for burials at cemeteries that accept these individuals, including on tribal trust land. The title given, Keep Kids Fed Act of 2022, does not match this summary, so the summary may belong to a different bill and this explanation should be checked against the official text.",
+  "headline": "A 2022 law raised school meal and child care food payments for the 2022-2023 school year and extended some COVID-19 food program waivers.",
+  "what_it_does": "The law raises the federal reimbursement rate for school lunches by 40 cents and for school breakfasts by 15 cents starting in July 2022. It raises the reimbursement rate for meals and snacks in the Child and Adult Care Food Program by 10 cents, and moves tier II family or group day care homes up to tier I rates for 2022-2023. It also extends USDA's authority to waive certain program rules tied to COVID-19 on dates ranging from June 2022 to June 2023, and it cancels some unused funds from earlier COVID-19 laws.",
   "who_it_affects": [
    {
-    "group": "National Guard and reserve members discharged under conditions other than dishonorable",
-    "how": "They could be buried in state-owned veterans' cemeteries even if they are not eligible for a national cemetery."
+    "group": "Public and private schools that take part in the National School Lunch and School Breakfast programs",
+    "how": "They receive higher federal payments for each lunch and breakfast they serve during the 2022-2023 school year."
    },
    {
-    "group": "Spouses, minor children, and unmarried adult children of covered guard and reserve members",
-    "how": "They could be interred alongside eligible members at state veterans' cemeteries under the same rules."
+    "group": "Child care centers and day care homes in the Child and Adult Care Food Program",
+    "how": "They receive a higher federal payment for each meal and snack, and tier II family or group day care homes are paid at tier I rates for 2022-2023."
    },
    {
-    "group": "State governments that run veterans' cemeteries",
-    "how": "The VA cannot use grant conditions to block them from allowing these burials or deny grants only because of expansion plans."
+    "group": "Students who eat school meals",
+    "how": "Schools may keep certain COVID-19 meal flexibilities in place for a limited time, such as waivers tied to summer meals and food supply disruptions."
    },
    {
-    "group": "Tribal organizations with trust land",
-    "how": "Veterans' cemeteries on trust land that accept these individuals may qualify for plot allowances."
+    "group": "Parents and school leaders",
+    "how": "USDA must help them move back to normal school meal operations as COVID-19 waivers end."
+   },
+   {
+    "group": "Agencies that had unused COVID-19 funds",
+    "how": "Certain funds previously given to USDA, the Department of Education, and the Small Business Administration are canceled."
    }
   ],
-  "when_it_takes_effect": null,
+  "when_it_takes_effect": "Upon enactment on June 25, 2022; the rate increases apply to the school year beginning in July 2022, and waiver deadlines run from June 30, 2022 to June 30, 2023.",
   "ceremonial": false,
-  "confidence": "low",
+  "confidence": "high",
   "ai_generated": true,
   "model": "claude-haiku-5-5",
   "written": "2026-11-08"

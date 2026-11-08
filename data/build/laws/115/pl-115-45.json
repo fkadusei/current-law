@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Congress",
  "sponsor": "Rep. Barton, Joe [R-TX-6]",
- "official_summary": " <p><b>Wounded Officers Recovery Act of 2017</b></p> <p>(Sec. 2) This bill authorizes the Capitol Police Board to make payments from the United States Capitol Police Memorial Fund to: (1) families of employees of the U.S. Capitol Police who were killed in the line of duty, or (2) employees of the U.S. Capitol Police who have sustained serious line-of-duty injuries.</p> <p>The board shall issue specific regulations governing the fund's use for making such payments, including regulations ensuring that the payments are in addition to, and do not otherwise affect, other forms of compensation payable to such family or employee, including worker's compensation benefits.</p> <p>The bill requires amounts received by the board in response to the shooting incident at the practice for the Congressional Baseball Game for Charity on June 14, 2017, to be deposited into the fund.</p>",
+ "official_summary": " <p>(This measure has not been amended since it was passed by the Senate on July 27, 2017. The summary of that version is repeated here.)</p> <p><b>Wounded Officers Recovery Act of 2017</b></p> <p>(Sec. 2) This bill authorizes the Capitol Police Board to make payments from the United States Capitol Police Memorial Fund to: (1) families of employees of the U.S. Capitol Police who were killed in the line of duty, or (2) employees of the U.S. Capitol Police who have sustained serious line-of-duty injuries.</p> <p>The board shall issue specific regulations governing the fund's use for making such payments, including regulations ensuring that the payments are in addition to, and do not otherwise affect, other forms of compensation payable to such family or employee, including worker's compensation benefits.</p> <p>The bill requires amounts received by the board in response to the shooting incident at the practice for the Congressional Baseball Game for Charity on June 14, 2017, to be deposited into the fund.</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr3298enr/xml/BILLS-115hr3298enr.xml"
@@ -41,22 +41,18 @@
  "control": {},
  "summary": {
   "headline": "This law lets the Capitol Police Board pay money from a memorial fund to families of officers killed on duty and to officers seriously hurt on duty.",
-  "what_it_does": "The law allows the Capitol Police Board to make payments from the United States Capitol Police Memorial Fund. Payments can go to families of Capitol Police employees killed in the line of duty, or to Capitol Police employees who suffered serious injuries on the job. The board must write rules for how the fund is used, and those rules must say these payments do not reduce other benefits, including workers' compensation. The law also requires money the board receives in response to the June 14, 2017 shooting at the Congressional Baseball Game practice to be deposited into the fund.",
+  "what_it_does": "The law allows the Capitol Police Board to make payments from the U.S. Capitol Police Memorial Fund. Payments can go to families of Capitol Police employees killed in the line of duty, or to employees who suffered serious injuries on the job. The board must write rules for the fund, and those payments are meant to be separate from other benefits, including workers' compensation. The law also says money the board receives after a June 14, 2017 shooting at a congressional baseball practice must be deposited into the fund.",
   "who_it_affects": [
    {
     "group": "Families of U.S. Capitol Police employees killed in the line of duty",
-    "how": "They may receive payments from the Capitol Police Memorial Fund, and these payments are meant to be in addition to other compensation they receive."
+    "how": "They may receive payments from the Capitol Police Memorial Fund, separate from other compensation such as workers' compensation."
    },
    {
     "group": "U.S. Capitol Police employees seriously injured on the job",
-    "how": "They may receive payments from the fund, and these payments do not reduce other benefits such as workers' compensation."
-   },
-   {
-    "group": "U.S. Capitol Police Board",
-    "how": "It must issue regulations governing how the fund is used to make these payments."
+    "how": "They may receive payments from the fund for serious line-of-duty injuries, and those payments do not reduce other benefits they receive."
    }
   ],
-  "when_it_takes_effect": "The summary does not state a specific effective date; the law was enacted on August 4, 2017.",
+  "when_it_takes_effect": "The law was enacted on August 4, 2017, and the Capitol Police Board must issue its implementing regulations afterward; the summary does not give a specific effective date.",
   "ceremonial": false,
   "confidence": "medium",
   "ai_generated": true,

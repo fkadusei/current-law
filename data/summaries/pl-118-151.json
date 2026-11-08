@@ -1,17 +1,17 @@
 {
- "headline": "Law protects small patent applicants from fines if they mistakenly but honestly claim a fee discount they did not qualify for.",
- "what_it_does": "The U.S. Patent and Trademark Office charges lower patent fees to small businesses and \"micro entities\" such as individual inventors. Under prior law, anyone who falsely claimed one of these discounts faced a fine. This law says no fine applies if the person or business claimed the discount in good faith, meaning they honestly believed they qualified.",
+ "headline": "New law lets small inventors and businesses avoid patent office fines if they wrongly claimed a fee discount in good faith.",
+ "what_it_does": "The U.S. Patent and Trademark Office charges lower patent fees to small entities and micro entities, such as small businesses and individual inventors. Before this law, anyone who falsely claimed one of these discounts faced a fine. This law says the fine does not apply if the person or business honestly believed, in good faith, that they qualified for the discount.",
  "who_it_affects": [
   {
-   "group": "Small businesses and individual inventors who apply for patents",
-   "how": "They will not be fined if they claim a reduced patent fee in good faith and it later turns out they did not qualify."
+   "group": "Small businesses and individual inventors seeking patents",
+   "how": "They will not be fined if they claim a reduced patent fee in good faith but turn out not to qualify."
   },
   {
    "group": "U.S. Patent and Trademark Office",
-   "how": "The agency can no longer fine applicants whose incorrect claims of a fee discount were made in good faith."
+   "how": "The agency must apply a good faith exception before fining someone for a false claim of a fee discount."
   }
  ],
- "when_it_takes_effect": "Enacted December 17, 2024; the summary does not state a separate effective date.",
+ "when_it_takes_effect": "Enacted December 17, 2024; the summary does not give a separate effective date.",
  "ceremonial": false,
  "confidence": "high",
  "ai_generated": true,

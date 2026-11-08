@@ -1,45 +1,41 @@
 {
- "headline": "This law gives fiscal year 2020 funding to Commerce, Justice, science, and several related federal agencies.",
- "what_it_does": "It sets how much money specific federal agencies can spend in fiscal year 2020, which runs through September 30, 2020. The official summary covers only the Commerce, Justice, Science, and related agencies portion of the law, not the health extender provisions named in its title. It also sets certain requirements and limits on how those funds may be used.",
+ "headline": "A stopgap spending law that keeps the government funded through December 20, 2019, extends many expiring programs, and gives military members a 3.1% pay raise.",
+ "what_it_does": "The law provides temporary federal funding for FY2020 so agencies can keep operating and a shutdown is avoided while full spending bills are still pending. It mostly keeps funding at FY2019 levels, with some exceptions such as extra money for the 2020 Census, Indian Health Service, and Ebola response. It also extends many programs that were set to expire, including community health centers, the Special Diabetes Programs, TANF grants, and the National Flood Insurance Program. It additionally repeals a provision that would have permanently rescinded $7.569 billion in state highway funding and allows a third round of payments from the Victims of State Sponsored Terrorism Fund.",
  "who_it_affects": [
   {
-   "group": "Businesses that export goods or work on international trade",
-   "how": "The International Trade Administration and Bureau of Industry and Security receive funding that supports their trade work."
+   "group": "Active-duty military members",
+   "how": "They receive a 3.1% pay raise under the law."
   },
   {
-   "group": "Minority-owned businesses",
-   "how": "The Minority Business Development Agency receives funding for its programs."
+   "group": "Patients at community health centers and people in the National Health Service Corps",
+   "how": "The enhanced funding for these centers and the Corps is extended."
   },
   {
-   "group": "Patent and trademark applicants",
-   "how": "The U.S. Patent and Trademark Office receives funding to carry out its work."
+   "group": "People with diabetes, including American Indians served by the Indian Health Service",
+   "how": "The Special Diabetes Program and the Special Diabetes Program for Indians are extended."
   },
   {
-   "group": "Local police departments",
-   "how": "Community Oriented Policing Services and other DOJ law enforcement grant programs receive funding."
+   "group": "Low-income families receiving Temporary Assistance for Needy Families grants",
+   "how": "TANF grants to states and related assistance to U.S. territories continue under an extension."
   },
   {
-   "group": "Crime victims and people affected by domestic or sexual violence",
-   "how": "The Office on Violence Against Women and the Office of Justice Programs receive funding."
+   "group": "State departments of transportation",
+   "how": "A scheduled permanent cut of $7.569 billion in FY2020 federal highway funding is repealed."
   },
   {
-   "group": "People in federal prisons and their families",
-   "how": "The Federal Prison System receives funding for its operations."
+   "group": "Federal employees and agencies that rely on annual appropriations",
+   "how": "They keep operating at FY2019 funding levels through December 20, 2019, instead of facing a shutdown."
   },
   {
-   "group": "People seeking free civil legal help",
-   "how": "The Legal Services Corporation receives funding to support its work."
+   "group": "Families of 9/11 victims and certain Iran hostage crisis victims",
+   "how": "They may be eligible for payments from the Victims of State Sponsored Terrorism Fund under the new categories."
   },
   {
-   "group": "People filing workplace discrimination complaints",
-   "how": "The Equal Employment Opportunity Commission receives funding to carry out its work."
-  },
-  {
-   "group": "Students and researchers in science fields",
-   "how": "The National Science Foundation, NASA, and the Office of Science and Technology Policy receive funding for science programs."
+   "group": "Homeowners and communities in flood-prone areas",
+   "how": "Coverage under the National Flood Insurance Program is extended through December 20, 2019."
   }
  ],
- "when_it_takes_effect": "Funding applies to fiscal year 2020, which ends September 30, 2020. The law was enacted November 21, 2019.",
+ "when_it_takes_effect": "Enacted November 21, 2019; the funding and extensions generally run through December 20, 2019, though some provisions have different timelines.",
  "ceremonial": false,
  "confidence": "medium",
  "ai_generated": true,

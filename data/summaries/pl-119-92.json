@@ -1,29 +1,25 @@
 {
- "headline": "New law changes how much federal-backed financing Small Business Investment Companies can get and what counts as their private capital.",
- "what_it_does": "The law lowers the most SBA financing a Small Business Investment Company (SBIC) can have outstanding from 300% to 200% of its private capital, and raises the limit for groups of commonly controlled SBICs that pay interest quarterly or twice a year from $350 million to $475 million. Money an SBIC invests in rural areas, certain technology fields, or small manufacturers can be left out when figuring its limit, up to the lesser of $125 million or 50% of its private capital. It also lets SBICs count money from more government-sponsored corporations and from college or university trusts and endowments as private capital.",
+ "headline": "Law changes how much federal financing Small Business Investment Companies can get and what counts as their private money.",
+ "what_it_does": "Small Business Investment Companies (SBICs) are private investment funds that get financing backed by the Small Business Administration to invest in small businesses. This law lowers the usual cap on that financing from 300% to 200% of an SBIC's private money, but raises the cap for groups of SBICs under common control that make quarterly or twice-yearly interest payments from $350 million to $475 million. Money SBICs invest in rural areas, certain technology fields, or small manufacturers can be left out when figuring the cap, up to the lesser of $125 million or 50% of the SBIC's private capital. It also lets SBICs count money from college or university trusts and endowments, and from certain additional government-sponsored corporations, as private capital.",
  "who_it_affects": [
   {
    "group": "Small Business Investment Companies",
-   "how": "Their maximum SBA financing is now tied to a lower multiple of private capital, with new exclusions for certain investments and broader sources counted as private capital."
+   "how": "They face a lower standard financing cap but higher limits for commonly controlled groups, plus new exclusions for certain kinds of investments."
   },
   {
    "group": "Small businesses in rural areas, certain technology fields, and small manufacturers",
-   "how": "SBIC investments in these businesses do not count toward the SBIC's financing limit, up to a cap."
+   "how": "SBICs that invest in them can leave those amounts out when figuring their financing limit."
   },
   {
-   "group": "College and university trusts and endowments",
-   "how": "Money they invest in an SBIC can now count as that SBIC's private capital."
-  },
-  {
-   "group": "Government-sponsored corporations",
-   "how": "Funds from the business revenue of more of these corporations can now count as SBIC private capital."
+   "group": "Colleges and universities with trusts or endowments",
+   "how": "Money their trusts or endowments invest in SBICs now counts as the SBIC's private capital."
   },
   {
    "group": "Small Business Administration",
-   "how": "The agency must apply the new financing limits and private capital rules when financing SBICs."
+   "how": "It must apply the new financing limits and the broader definition of private capital when providing financing to SBICs."
   }
  ],
- "when_it_takes_effect": "Enacted May 19, 2026; the summary does not give a separate effective date.",
+ "when_it_takes_effect": null,
  "ceremonial": false,
  "confidence": "high",
  "ai_generated": true,

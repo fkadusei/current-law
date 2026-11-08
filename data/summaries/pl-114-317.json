@@ -1,27 +1,39 @@
 {
- "headline": "This law changes how inspectors general, the internal watchdogs of federal agencies, handle records, investigations, and access to grand jury materials.",
- "what_it_does": "It lets inspectors general skip some privacy and paperwork rules when they are doing an official audit, investigation, or review. It changes how the Council of the Inspectors General on Integrity and Efficiency handles disputes and wrongdoing complaints, including removing the FBI Director and the Special Counsel from its Integrity Committee. It lets inspectors general request federal grand jury materials, which the Justice Department must generally provide unless one of several listed exceptions applies. If access is denied, the Justice Department must explain the reason to Congress.",
+ "headline": "A 2016 law that changes how federal inspectors general operate, their access to records, their reporting duties, and how complaints against them are handled.",
+ "what_it_does": "The law exempts inspectors general from certain privacy and paperwork rules when they conduct audits and investigations. It sets rules for how the Council of the Inspectors General on Integrity and Efficiency handles complaints against inspectors general, including deadlines for referrals and investigations. It requires inspectors general to include more detail in their semiannual reports and gives them a process for requesting federal grand jury materials, which the Justice Department can deny only for listed reasons.",
  "who_it_affects": [
   {
    "group": "Inspectors general and their staff",
-   "how": "They gain exemptions from certain privacy and paperwork rules during official work and a process to request grand jury materials."
+   "how": "They gain exemptions from certain privacy and paperwork requirements during authorized oversight work and must follow new reporting, referral, and recommendation rules."
   },
   {
-   "group": "Federal employees who are subjects of watchdog complaints",
-   "how": "Allegations against inspectors general or their staff are now referred under revised procedures and timelines to the Justice Department, the Special Counsel, or the Integrity Committee."
+   "group": "Federal agencies overseen by inspectors general",
+   "how": "Agencies must respond to inspector general requests for records and grand jury materials, and their unresolved recommendations must be listed in inspector general reports."
   },
   {
-   "group": "Federal agencies and their records systems",
-   "how": "Agencies must follow the new rules on grand jury access requests and may be affected by the exemptions from computer matching and paperwork requirements for inspector general work."
+   "group": "Whistle-blowers",
+   "how": "Inspectors general must report retaliation against whistle-blowers, but they may not reveal a whistle-blower's personal information without consent."
+  },
+  {
+   "group": "Senior federal employees accused of misconduct",
+   "how": "Substantiated misconduct investigations involving senior employees must be described in inspector general semiannual reports."
+  },
+  {
+   "group": "Special Counsel and Deputy Special Counsel of the Office of Special Counsel",
+   "how": "The oversight council may now receive, review, and refer wrongdoing allegations against these officials."
+  },
+  {
+   "group": "Members of Congress and congressional committees",
+   "how": "They receive semiannual reports, corrective action recommendations, and investigation reports from the oversight council."
   },
   {
    "group": "Justice Department",
-   "how": "It must decide grand jury access requests under the four listed exceptions and report any denial to Congress."
+   "how": "It must decide requests from inspectors general for grand jury materials and explain any denial to Congress."
   }
  ],
- "when_it_takes_effect": "The law was enacted on December 16, 2016, and the summary does not list a separate effective date for each provision.",
+ "when_it_takes_effect": "Enacted December 16, 2016; the summary does not list any other effective dates.",
  "ceremonial": false,
- "confidence": "medium",
+ "confidence": "high",
  "ai_generated": true,
  "model": "claude-haiku-5-5",
  "written": "2026-11-08"

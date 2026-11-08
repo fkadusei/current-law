@@ -1,39 +1,27 @@
 {
- "headline": "This 2016 law sets up planning and coordination rules for moving power from one President to the next and adds several reporting requirements.",
- "what_it_does": "The law requires the President to plan for an orderly transfer of power, including a White House transition council set up at least six months before an election and an agency transition directors council. It requires the General Services Administration to name a Federal Transition Coordinator and requires each agency to name a senior career employee to oversee transition work. It also adds reports on presidential records funding, political appointees moving into civil service jobs, late-term regulations, and transition security threats.",
+ "headline": "This law updates how the government prepares for handing presidential power from one administration to the next.",
+ "what_it_does": "The law requires the President to set up a transition coordinating council and an agency transition directors council, starting at least six months before an election. The General Services Administration must name a senior career official as Federal Transition Coordinator to lead planning across agencies and work with eligible candidates' transition teams. Agencies must name senior career employees to oversee transition work, and the coordinator must negotiate access rules for incoming transition staff. The law also requires several reports to Congress on transition preparation, presidential records funding, political appointees moving into civil service jobs, late-term regulations, and threats during a transition.",
  "who_it_affects": [
   {
-   "group": "Eligible presidential candidates and their transition teams",
-   "how": "They get a designated liaison and a memorandum of understanding that sets the terms for transition staff access to agency employees, facilities, and documents."
+   "group": "Incoming presidential transition teams",
+   "how": "They gain a formal process, including a memorandum of understanding, that sets the terms for access to agency employees, facilities, and documents."
   },
   {
-   "group": "Senior career federal employees",
-   "how": "Each agency must name one senior career employee to manage transition activities, and GSA must name a senior career appointee as Federal Transition Coordinator."
+   "group": "Federal agencies and their senior career employees",
+   "how": "Each agency must designate a senior career employee to oversee transition work and meet new planning and reporting requirements."
   },
   {
-   "group": "The General Services Administration",
-   "how": "It must carry out its presidential transition duties and make sure agencies follow transition planning and reporting requirements."
+   "group": "Political appointees seeking nonpolitical civil service jobs",
+   "how": "Agency requests to place political or former political appointees in nonpolitical civil service positions are reported to Congress."
   },
   {
-   "group": "The National Archives and Records Administration",
-   "how": "The President's budget request must include funding for managing presidential records in the final year of a presidential term."
-  },
-  {
-   "group": "Political appointees seeking civil service jobs",
-   "how": "The Office of Personnel Management must report on agency requests to move political or former political appointees into nonpolitical civil service positions, quarterly in the final year of a term."
-  },
-  {
-   "group": "Federal agencies issuing major regulations",
-   "how": "The Government Accountability Office must report on significant final rules issued in the last 120 days of certain administrations, which the law defines by economic, safety, and policy impact."
-  },
-  {
-   "group": "Department of Homeland Security",
-   "how": "It must send Congress a report analyzing threats and vulnerabilities the country faces during a presidential transition."
+   "group": "National Archives and Records Administration",
+   "how": "The President's budget request must include funding for managing and caring for presidential records in the final year of a presidential term."
   }
  ],
- "when_it_takes_effect": "The law was signed March 18, 2016, and the summary does not give a separate effective date, so some duties apply starting with the next presidential transition and reporting deadlines follow the timelines written in each section.",
+ "when_it_takes_effect": "The law was enacted on March 18, 2016, and some duties start about six months before a presidential election, with certain reports due on set dates.",
  "ceremonial": false,
- "confidence": "medium",
+ "confidence": "high",
  "ai_generated": true,
  "model": "claude-haiku-5-5",
  "written": "2026-11-08"

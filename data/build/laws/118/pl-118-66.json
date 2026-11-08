@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Health",
  "sponsor": "Rep. Bilirakis, Gus M. [R-FL-12]",
- "official_summary": "<p><strong>Dr. Emmanuel Bilirakis and Honorable Jennifer Wexton National Plan to End Parkinson's Act</strong></p><p>This bill requires the Department of Health and Human Services (HHS) to carry out a project to address Parkinson's disease (a progressive brain disorder that causes unintended or uncontrollable movements) and related conditions.</p><p>Among other components of the project, HHS must (1) implement and periodically update a national plan to coordinate and guide efforts to prevent, diagnose, treat, and cure the disease; and (2) improve the care of those with the disease. HHS must also annually assess the preparations for and response to the increased burden of Parkinson's disease.</p><p>In addition, the bill establishes a council, comprised of federal and nonfederal stakeholders, to advise HHS on and make recommendations concerning the prevention and treatment of Parkinson's disease.</p><p>The provisions of the bill terminate at the end of calendar year 2035.</p>",
+ "official_summary": "<p><strong>Dr. Emmanuel Bilirakis and Honorable Jennifer Wexton National Plan to End Parkinson's Act</strong></p><p>This act requires the Department of Health and Human Services (HHS) to carry out a project to address Parkinson's disease (a progressive brain disorder that causes unintended or uncontrollable movements) and related conditions.</p><p>Among other components of the project, HHS must (1) implement and periodically update a national plan to coordinate and guide efforts to prevent, diagnose, treat, and cure the disease; and (2) improve the care of those with the disease. HHS must also annually assess the preparations for and response to the increased burden of Parkinson's disease.</p><p>In addition, the act establishes a council, comprised of federal and nonfederal stakeholders, to advise HHS on and make recommendations concerning the prevention and treatment of Parkinson's disease.</p><p>The provisions of the act terminate at the end of calendar year 2035.</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr2365enr/xml/BILLS-118hr2365enr.xml"
@@ -3548,27 +3548,27 @@
   "House": "R"
  },
  "summary": {
-  "headline": "New law requires the federal health department to create and update a national plan to prevent, treat, and cure Parkinson's disease.",
-  "what_it_does": "The Department of Health and Human Services (HHS) must run a project on Parkinson's disease and related conditions, including a national plan to guide efforts to prevent, diagnose, treat, and cure it and to improve patient care. HHS must update the plan over time and assess each year how prepared the country is for the growing number of people with the disease. The law also creates an advisory council of federal and non-federal members to make recommendations to HHS. These requirements end after 2035.",
+  "headline": "New law requires HHS to create and carry out a national plan to prevent, treat, and cure Parkinson's disease, running through 2035.",
+  "what_it_does": "The law requires the Department of Health and Human Services (HHS) to run a project on Parkinson's disease and related conditions, including a national plan that it must carry out and update over time. The plan is meant to coordinate federal work on preventing, diagnosing, treating, and curing the disease, and on improving care. HHS must also review each year how well the country is preparing for the growing number of people with Parkinson's. The law creates an advisory council of federal and non-federal members to give HHS recommendations.",
   "who_it_affects": [
    {
     "group": "People with Parkinson's disease and related conditions",
-    "how": "Federal efforts to research, diagnose, treat, and improve care for their condition will be coordinated under a national plan."
+    "how": "Federal efforts to improve their diagnosis, treatment, and care will be organized under a single national plan."
    },
    {
     "group": "Families and caregivers of people with Parkinson's",
-    "how": "The national plan includes efforts to improve care for people living with the disease."
+    "how": "They may be affected by HHS efforts to improve care for people with the disease."
    },
    {
     "group": "Department of Health and Human Services",
-    "how": "The agency must create, carry out, and update the plan, do yearly assessments, and work with a new advisory council."
+    "how": "HHS must create and update a national plan, assess preparedness every year, and work with a new advisory council."
    },
    {
-    "group": "Researchers, doctors, and patient advocates",
-    "how": "Non-federal stakeholders can serve on the new advisory council that makes recommendations on prevention and treatment."
+    "group": "Parkinson's researchers, doctors, and advocacy groups",
+    "how": "Non-federal experts and stakeholders can serve on the new council that advises HHS."
    }
   ],
-  "when_it_takes_effect": "Enacted July 2, 2024; provisions end at the close of 2035.",
+  "when_it_takes_effect": "Enacted July 2, 2024; its provisions end at the close of 2035.",
   "ceremonial": false,
   "confidence": "high",
   "ai_generated": true,

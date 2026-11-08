@@ -1,21 +1,21 @@
 {
- "headline": "A federal law requires baby changing facilities in restrooms of certain federal public buildings, with several exceptions.",
- "what_it_does": "The law requires restrooms in public buildings controlled by the General Services Administration to have baby changing facilities that GSA determines are physically safe, sanitary, and appropriate. The requirement is still subject to reasonable accommodations under the Americans with Disabilities Act. It does not apply to restrooms that are not available or accessible for public use, or to restrooms that have clear signs pointing to a changing-table restroom on the same floor. It also does not apply where new construction would be needed and the cost is unfeasible, or to buildings whose alterations were not approved by the specified Senate and House committees.",
+ "headline": "A 2016 federal law requires certain restrooms in GSA-controlled public buildings to have baby changing facilities, with several exceptions.",
+ "what_it_does": "The law requires restrooms in public buildings controlled by the General Services Administration to have baby changing facilities that GSA determines are physically safe, sanitary, and appropriate. The requirement is subject to reasonable accommodations under the Americans with Disabilities Act. It does not apply to restrooms that are not available or accessible for public use, or where clear signs point to a changing table on the same floor. It also does not apply where new construction would be needed and the cost is unfeasible, or to buildings whose alterations need approval from specified congressional committees.",
  "who_it_affects": [
   {
-   "group": "Parents and caregivers with infants or young children",
-   "how": "They may find baby changing tables in restrooms in covered federal buildings, or signs directing them to one on the same floor."
+   "group": "Parents and caregivers of infants and young children who visit federal public buildings",
+   "how": "Restrooms in covered GSA buildings are expected to include baby changing facilities, unless one of the listed exceptions applies."
   },
   {
    "group": "General Services Administration",
-   "how": "The agency must decide what changing facilities are safe, sanitary, and appropriate and oversee their installation in covered buildings."
+   "how": "The agency must decide whether changing facilities in covered buildings are physically safe, sanitary, and appropriate."
   },
   {
-   "group": "People with disabilities",
-   "how": "The baby changing requirement is subject to reasonable accommodations under the Americans with Disabilities Act."
+   "group": "People with disabilities who use federal public buildings",
+   "how": "The baby changing requirement is subject to reasonable accommodations made under the Americans with Disabilities Act."
   }
  ],
- "when_it_takes_effect": "The summary does not state a specific start date; the law was enacted October 7, 2016.",
+ "when_it_takes_effect": "The law was enacted on October 7, 2016, and the official summary does not state a separate compliance deadline.",
  "ceremonial": false,
  "confidence": "medium",
  "ai_generated": true,

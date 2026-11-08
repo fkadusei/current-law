@@ -1,21 +1,21 @@
 {
- "headline": "Billy's Law gives the Justice Department formal authority to run NamUs, a national database for missing persons and unidentified remains, and requires police to also send missing child reports there.",
- "what_it_does": "The law puts the National Missing and Unidentified Persons System (NamUs) into statute and keeps it under the Justice Department's National Institute of Justice. When a law enforcement agency reports a missing child to the NCIC database, it must also send that report to NamUs. The law also gives the Institute access to NCIC missing and unidentified person records so the two systems can be checked against each other, and it requires the Justice Department to plan for automatic transfers of certain records and to report to Congress every two years on the status of both databases.",
+ "headline": "Billy's Law gives the Justice Department formal authority to run NamUs, a national database for missing persons and unidentified remains, and requires police to send missing child reports there too.",
+ "what_it_does": "The law sets the Justice Department's authority to keep the National Missing and Unidentified Persons System (NamUs) running as it already does. It requires law enforcement agencies that send missing child reports to the FBI's NCIC database to also send those reports to NamUs. It also gives the National Institute of Justice access to NCIC missing and unidentified person records so the two systems can check and match data, and it directs the Justice Department to study the systems and plan for automatic record transfers. Finally, it requires the department to share best practices with forensic medicine providers and police, and to report to Congress every two years on the two databases.",
  "who_it_affects": [
   {
    "group": "Law enforcement agencies",
-   "how": "Agencies that report missing children to NCIC must also submit those same reports to NamUs."
+   "how": "Agencies that report missing children to NCIC must now also submit those same reports to NamUs."
   },
   {
    "group": "Families of missing children and missing persons",
-   "how": "Their cases are expected to be entered into a second national database, and the two systems are to be better matched with each other."
+   "how": "Their cases are now required to be entered into NamUs as well as NCIC, which may make them easier to match with unidentified remains."
   },
   {
    "group": "Medical examiners, coroners, and other forensic medicine providers",
-   "how": "They may receive Justice Department guidance on best practices for collecting, reporting, and analyzing data on missing persons and unidentified remains."
+   "how": "They will receive Justice Department guidance on collecting, reporting, and analyzing data about missing persons and unidentified human remains."
   }
  ],
- "when_it_takes_effect": "Enacted December 27, 2022; the summary does not specify separate effective dates for each provision.",
+ "when_it_takes_effect": null,
  "ceremonial": false,
  "confidence": "medium",
  "ai_generated": true,

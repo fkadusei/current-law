@@ -1,25 +1,29 @@
 {
- "headline": "This 2016 law directs the President to create a government-wide strategy to reduce global hunger and improve food security abroad, with reporting to Congress.",
- "what_it_does": "The law requires the President to develop and carry out a Global Food Security Strategy that coordinates federal agencies working on food, nutrition, and resilience in other countries. It lets the President use foreign aid funds to prevent or address food shortages and allows emergency food aid to be bought locally or regionally after disasters. It also requires several reports to Congress, including on the strategy and on how agencies spend money on global food security. The law states that it does not change the authority of existing federal food and nutrition programs.",
+ "headline": "This law requires the President to create a government-wide strategy to reduce hunger and improve food security and nutrition in other countries.",
+ "what_it_does": "The law directs the President to develop and carry out a Global Food Security Strategy coordinating U.S. agencies' work on food, nutrition, and resilience abroad. It allows emergency food aid to be bought locally or regionally after disasters and requires annual reports to Congress on that authority. It also requires reports on the strategy's progress and on how much each agency spends on global food security. The law states it does not change existing federal food assistance programs.",
  "who_it_affects": [
   {
-   "group": "Residents of food-insecure countries",
-   "how": "They may receive U.S.-funded aid aimed at improving farming, nutrition, and resilience to food shocks, and emergency food that can be purchased nearer to where disasters occur."
+   "group": "Residents of food-insecure countries abroad",
+   "how": "The strategy aims to support food security, agricultural growth, and better nutrition for women and children in those countries through U.S. assistance programs."
   },
   {
-   "group": "Small-scale farmers abroad",
-   "how": "The strategy aims to increase their productivity and incomes through U.S.-supported programs."
+   "group": "Small-scale farmers and producers in developing countries",
+   "how": "Assistance programs are meant to increase their productivity, incomes, and livelihoods under the strategy."
   },
   {
-   "group": "Federal departments and agencies working on foreign aid and agriculture",
-   "how": "They must coordinate their global food security work under a single presidentially directed strategy and report on their spending and progress."
+   "group": "Federal departments and agencies working on foreign assistance",
+   "how": "They must coordinate their food security efforts under a single presidential strategy, with agency-specific plans and monitoring systems."
   },
   {
-   "group": "U.S. universities with agricultural research programs",
-   "how": "The law encourages partnerships between U.S. and foreign universities that build agricultural capacity abroad."
+   "group": "U.S. universities involved in agricultural research",
+   "how": "The law calls for strengthening partnerships between U.S. and foreign universities that build agricultural capacity."
+  },
+  {
+   "group": "Recipients of U.S. emergency food aid abroad",
+   "how": "Aid may now be purchased locally or regionally after manmade or natural disasters, with annual reporting to Congress on how it is used."
   }
  ],
- "when_it_takes_effect": "The law took effect when enacted on July 20, 2016; the strategy was due to Congress by October 1, 2016, and reports were due in 2017 and 2018.",
+ "when_it_takes_effect": "The law took effect on enactment, July 20, 2016. The strategy and agency plans were due to Congress by October 1, 2016, and reports on implementation were required for 2017 and 2018.",
  "ceremonial": false,
  "confidence": "medium",
  "ai_generated": true,

@@ -1,77 +1,77 @@
 {
- "headline": "Large budget law extends and adds tax cuts, changes SNAP, Medicaid, and student loans, boosts defense and border spending, and raises the debt limit.",
- "what_it_does": "This reconciliation law makes the 2017 individual tax rates permanent, raises the standard deduction and child tax credit, and adds temporary deductions for tips, overtime, car loan interest, and people 65 and older. It ends many clean energy tax credits, adds work requirements and eligibility limits for SNAP and Medicaid, and shifts some SNAP costs to states. It changes federal student loan limits and repayment plans, adds money for the military, border security, and immigration enforcement, and raises the federal debt limit by $5 trillion.",
+ "headline": "Broad 2025 budget law extends and adds tax cuts, changes SNAP, Medicaid, and student loans, boosts defense and border funding, and raises debt limit.",
+ "what_it_does": "This large budget law makes the 2017 individual tax cuts permanent and adds new tax breaks, including for tips, overtime, car loan interest, and people 65 and older. It adds work requirements and other limits to SNAP and Medicaid, ends many clean-energy tax credits, and changes federal student loan limits and repayment plans. It adds tens of billions of dollars for the military, border security, and immigration enforcement, creates new immigration fees, and raises the federal debt limit by $5 trillion.",
  "who_it_affects": [
   {
    "group": "Most income taxpayers",
-   "how": "Current tax rates stay permanent, and the standard deduction rises to $15,750 for single filers and $31,500 for married couples filing jointly."
+   "how": "Current tax rates and the larger standard deduction become permanent, and the child tax credit rises to $2,200 per child with a work-eligible Social Security number required."
   },
   {
-   "group": "Workers who earn tips or overtime pay",
-   "how": "Through 2028, they can deduct up to $25,000 in tip income and up to $12,500 ($25,000 for couples) in overtime pay, with limits at higher incomes."
+   "group": "Workers who earn tips or overtime",
+   "how": "From 2025 through 2028 they can deduct up to $25,000 in tips and up to $12,500 ($25,000 for couples) in overtime pay, with limits for higher incomes."
   },
   {
-   "group": "Parents",
-   "how": "The child tax credit rises to $2,200 per child, a work-eligible Social Security number is required, and babies born from 2025 through 2028 can get a one-time $1,000 government deposit in a new \"Trump account.\""
+   "group": "People 65 and older",
+   "how": "They can take an extra tax deduction of up to $6,000 from 2025 through 2028, subject to income limits."
   },
   {
-   "group": "People age 65 and older",
-   "how": "From 2025 through 2028, they can take an extra tax deduction of up to $6,000, subject to income limits."
+   "group": "Taxpayers in high-tax states",
+   "how": "The cap on deducting state and local taxes rises from $10,000 to $40,000 for 2025, grows slightly through 2029, then returns to $10,000 in 2030, with lower caps for incomes over $500,000."
   },
   {
-   "group": "People in high-tax states who itemize",
-   "how": "The cap on deducting state and local taxes rises from $10,000 to $40,000 through 2029, with lower limits for incomes over $500,000."
+   "group": "Parents of babies born 2025 through 2028",
+   "how": "Their children can get a one-time $1,000 federal deposit into a new savings account for minors called a Trump account."
   },
   {
    "group": "SNAP (food stamp) recipients",
-   "how": "Work rules now cover adults up to age 65 and parents of children 14 and older, and exemptions for veterans, homeless people, and former foster youth are removed."
+   "how": "Work requirements expand to adults up to age 65 and parents of children 14 and older, some prior exemptions for veterans and homeless people end, and certain benefit calculations are tightened."
+  },
+  {
+   "group": "States",
+   "how": "Starting in FY2027 and FY2028, states must pay a larger share of SNAP administrative costs and, depending on their error rates, part of SNAP benefits, and they face new limits on Medicaid provider taxes."
   },
   {
    "group": "Adults covered by Medicaid expansion",
-   "how": "Starting by early 2027, they must work, volunteer, or attend school at least 80 hours a month, have their eligibility checked every six months, and may face copays of up to $35 starting in FY2029."
+   "how": "Starting by early 2027 most must show 80 hours a month of work, school, or community service, have eligibility checked every six months, and, from FY2029, pay some copays if above the poverty line."
   },
   {
-   "group": "Some lawfully present immigrants, such as refugees and asylees",
-   "how": "Many lose eligibility for SNAP, Medicaid, Medicare, and health insurance premium tax credits unless they are green card holders, Cuban-Haitian entrants, or certain Pacific Island compact migrants."
+   "group": "Certain lawfully present immigrants, such as refugees and asylees",
+   "how": "Many lose eligibility for SNAP, Medicaid, Medicare, and health insurance tax credits, and face new or higher fees for asylum, parole, work permits, and immigration court filings."
   },
   {
-   "group": "People who buy health insurance on their own",
-   "how": "They face more income and eligibility checks, and they may have to repay all extra advance premium tax credits they received."
-  },
-  {
-   "group": "State governments",
-   "how": "States must pay 75% of SNAP administrative costs starting in FY2027, pay part of SNAP benefit costs from FY2028 if their error rates are high, and face new limits on Medicaid provider taxes."
-  },
-  {
-   "group": "College and graduate students and their parents",
-   "how": "Starting July 1, 2026, Grad PLUS loans end, new borrowing caps apply, and new loans have only a standard plan or a new income-based Repayment Assistance Plan."
+   "group": "People who buy health insurance on their own through an exchange",
+   "how": "They face stricter income and eligibility checks starting in 2028 and may have to repay the full amount of any excess premium tax credit they received."
   },
   {
    "group": "Buyers of electric vehicles and home energy upgrades",
-   "how": "Tax credits for new and used clean vehicles, energy-efficient home improvements, and home solar and other clean energy equipment are ended."
+   "how": "Tax credits for new and used clean vehicles end after September 30, 2025, and credits for home energy improvements and home solar end after 2025."
   },
   {
-   "group": "Businesses",
-   "how": "They can permanently deduct 100% of equipment costs right away and deduct U.S. research costs in the year they are spent."
+   "group": "College students and student loan borrowers",
+   "how": "Starting July 1, 2026, Grad PLUS loans end, new borrowing caps apply, and new loans are limited to a standard plan or a new income-based Repayment Assistance Plan, while SAVE, PAYE, and ICR borrowers must switch plans by July 2028."
   },
   {
    "group": "Farmers and ranchers",
-   "how": "Crop price supports, dairy coverage, disaster aid, and crop insurance subsidies are expanded and extended through 2031."
+   "how": "Crop price supports, crop insurance subsidies, payment limits, and disaster aid increase, and farm programs are extended through 2031."
   },
   {
-   "group": "People who send money abroad",
-   "how": "A new 1% tax applies to certain money transfers sent to other countries."
+   "group": "Businesses",
+   "how": "Full first-year write-offs for equipment and domestic research costs become permanent, and several business and international tax rules change."
   },
   {
-   "group": "Online shoppers who buy from overseas",
-   "how": "The duty-free exemption for imported packages worth $800 or less ends July 1, 2027."
+   "group": "Military service members",
+   "how": "The Defense Department gets about $150 billion in added funding, including money for housing, health care, tuition aid, and child care for service members."
   },
   {
-   "group": "People exposed to radiation from nuclear testing, uranium mining, or Manhattan Project waste",
-   "how": "The compensation program is restarted and expanded to more places and people, and claims can be filed through 2027."
+   "group": "People who send cash money transfers abroad",
+   "how": "A new 1% tax applies to transfers paid with cash, money orders, or similar paper payments."
+  },
+  {
+   "group": "People exposed to radiation from nuclear testing or uranium mining",
+   "how": "The federal compensation program is restarted, payments increase, and more areas and workers become eligible."
   }
  ],
- "when_it_takes_effect": "Signed July 4, 2025. Different parts start at different times. Many tax changes apply starting in 2025. Student loan changes begin July 1, 2026. Medicaid work requirements begin by early 2027, but some states can delay them until the end of 2028. State SNAP cost-sharing begins in FY2028.",
+ "when_it_takes_effect": "Signed July 4, 2025; provisions phase in on different dates, mostly from 2025 through 2028, with some changes as late as 2030 or later.",
  "ceremonial": false,
  "confidence": "high",
  "ai_generated": true,

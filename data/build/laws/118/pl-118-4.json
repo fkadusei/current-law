@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Transportation and Public Works",
  "sponsor": "Rep. Stauber, Pete [R-MN-8]",
- "official_summary": "<p><strong>NOTAM Improvement Act of 2023</strong></p> <p>This bill directs the Federal Aviation Administration (FAA) to establish the FAA Task Force on NOTAM (notice to air missions required by international or domestic law) Improvement and requires the FAA to implement a federal NOTAM system. A NOTAM is a notice containing information essential to personnel concerned with flight operations but not known far enough in advance to be publicized by other means. It states the abnormal status of a component of the National Airspace System. </p> <p>Specifically, the task force must (1) review existing methods for publishing NOTAMs and flight operations information for pilots; (2) review regulations, policies, systems, and international standards relating to NOTAMs, including their content and presentation to pilots; (3) evaluate and determine best practices to organize, prioritize, and present flight operations information in a manner that optimizes pilot review and retention of relevant information; (4) provide recommendations to improve the publication and delivery of NOTAM information; and (5) report to Congress on its reviews and evaluations.</p> <p>By September 30, 2024, the FAA must (1) complete implementation of a federal NOTAM system and implement a back-up system, and (2) brief Congress on a plan to enhance information delivery through this federal system to promote further global harmonization and provide users of the National Airspace System a consistent format for domestic and international operations.</p>",
+ "official_summary": "<p><strong>NOTAM Improvement Act of 2023</strong></p> <p>This act directs the Federal Aviation Administration (FAA) to establish the FAA Task Force on NOTAM (notice to air missions required by international or domestic law) Improvement and requires the FAA to implement a federal NOTAM system. A NOTAM is a notice containing information essential to personnel concerned with flight operations but not known far enough in advance to be publicized by other means. It states the abnormal status of a component of the National Airspace System. </p> <p>Specifically, the task force must (1) review existing methods for publishing NOTAMs and flight operations information for pilots; (2) review regulations, policies, systems, and international standards relating to NOTAMs, including their content and presentation to pilots; (3) evaluate and determine best practices to organize, prioritize, and present flight operations information in a manner that optimizes pilot review and retention of relevant information; (4) provide recommendations to improve the publication and delivery of NOTAM information; and (5) report to Congress on its reviews and evaluations.</p> <p>By September 30, 2024, the FAA must (1) complete implementation of a federal NOTAM system and implement a back-up system, and (2) brief Congress on a plan to enhance information delivery through this federal system to promote further global harmonization and provide users of the National Airspace System a consistent format for domestic and international operations.</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-118hr346enr/xml/BILLS-118hr346enr.xml"
@@ -3548,23 +3548,23 @@
   "House": "R"
  },
  "summary": {
-  "headline": "Law requires the FAA to set up a task force on pilot safety notices and build a new notice system with a backup by September 2024.",
-  "what_it_does": "The law tells the Federal Aviation Administration (FAA) to create a task force to study how it publishes NOTAMs. These are notices that warn pilots about unusual conditions in the airspace system, such as a closed runway. The task force must review current methods and rules, find better ways to organize and present the information, and report recommendations to Congress. By September 30, 2024, the FAA must finish putting in place a federal NOTAM system and a backup system, and brief Congress on a plan to make the format more consistent with international practice.",
+  "headline": "Law requires the FAA to create a task force on pilot safety notices and to finish a new notice system with a backup by September 2024.",
+  "what_it_does": "The law directs the Federal Aviation Administration (FAA) to set up a task force to study NOTAMs, which are notices that warn pilots about unusual conditions in the airspace system. The task force must review how these notices are published and presented, suggest improvements, and report to Congress. The FAA must also finish a federal NOTAM system and a backup system by September 30, 2024, and brief Congress on plans to make the format consistent for domestic and international flights.",
   "who_it_affects": [
    {
     "group": "Pilots and flight crews",
-    "how": "They may receive flight safety notices in a new format meant to make important information easier to review and remember."
+    "how": "They may receive flight safety notices in a new format meant to make key information easier to find and remember."
    },
    {
     "group": "Federal Aviation Administration",
-    "how": "The agency must form a task force, build a new notice system with a backup, and report to Congress by set deadlines."
+    "how": "The agency must form a task force, build a federal NOTAM system with a backup, and report to Congress by set deadlines."
    },
    {
     "group": "Airlines and other aircraft operators",
-    "how": "They would rely on the new federal notice system and its backup for flight planning in the U.S. and abroad."
+    "how": "They will rely on the new federal notice system and its backup for flight planning information."
    }
   ],
-  "when_it_takes_effect": "Enacted June 3, 2023; the FAA must finish the new NOTAM system and backup by September 30, 2024.",
+  "when_it_takes_effect": "Enacted June 3, 2023; the FAA must complete the federal NOTAM system and backup by September 30, 2024.",
   "ceremonial": false,
   "confidence": "high",
   "ai_generated": true,

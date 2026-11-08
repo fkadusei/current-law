@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Science, Technology, Communications",
  "sponsor": "Sen. Blunt, Roy [R-MO]",
- "official_summary": " <p><strong>Low Power Protection Act</strong></p> <p>This bill provides for a one-year period during which eligible low-power television stations may apply to the Federal Communications Commission (FCC) for Class A licenses. To be eligible, a station must serve a media market with a limited number of television households, broadcast a minimum number of hours, and meet other requirements.</p> <p>A low-power station with a Class A license obtains certain broadcast rights, including primary status with respect to its allocation of the electromagnetic spectrum. (Typically, low-power stations have secondary status and may be displaced from their spectrum in the event the FCC reallocates it to a primary user.)</p>",
+ "official_summary": " <p><strong>Low Power Protection Act</strong></p> <p>This act provides for a one-year period during which eligible low-power television stations may apply to the Federal Communications Commission (FCC) for Class A licenses. To be eligible, a station must serve a media market with a limited number of television households, broadcast a minimum number of hours, and meet other requirements.</p> <p>A low-power station with a Class A license obtains certain broadcast rights, including primary status with respect to its allocation of the electromagnetic spectrum. (Typically, low-power stations have secondary status and may be displaced from their spectrum in the event the FCC reallocates it to a primary user.)</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-117s3405enr/xml/BILLS-117s3405enr.xml"
@@ -37,23 +37,23 @@
  "party_color": null,
  "control": {},
  "summary": {
-  "headline": "A 2023 law opens a one-year window for eligible low-power TV stations to apply to the FCC for Class A licenses, which give stronger spectrum protection.",
-  "what_it_does": "The law sets up a one-year period in which eligible low-power television stations can apply to the Federal Communications Commission for Class A licenses. To qualify, a station must serve a media market with a limited number of TV households, broadcast a minimum number of hours, and meet other requirements. A station with a Class A license gets primary status over its spectrum, while low-power stations usually have secondary status and can be moved if the FCC reassigns that spectrum to a primary user.",
+  "headline": "This law gave eligible low-power TV stations a one-year window to apply to the FCC for Class A licenses, which come with stronger broadcast rights.",
+  "what_it_does": "For one year, low-power television stations that meet certain requirements can apply to the Federal Communications Commission for a Class A license. To qualify, a station must serve a media market with a limited number of TV households, broadcast a minimum number of hours, and meet other conditions. A Class A license gives the station primary status for its spectrum, so it is not displaced if the FCC reallocates that spectrum to another user, while typical low-power stations have only secondary status.",
   "who_it_affects": [
    {
-    "group": "Eligible low-power television stations",
-    "how": "Stations that meet the market and broadcast requirements can apply during the one-year window to receive Class A status and its primary spectrum rights."
+    "group": "Operators of eligible low-power television stations",
+    "how": "They may apply for Class A licenses during the one-year window if they meet the market, broadcast-hour, and other requirements, gaining primary spectrum status if approved."
    },
    {
-    "group": "Low-power stations that do not qualify or do not apply",
-    "how": "They keep their existing secondary status and can still be displaced if the FCC reallocates their spectrum to a primary user."
+    "group": "Other low-power television stations that do not qualify",
+    "how": "They remain under the existing secondary-status rules and may still be displaced if the FCC reallocates their spectrum."
    },
    {
     "group": "Federal Communications Commission",
-    "how": "The agency must process applications from stations seeking Class A licenses during the window."
+    "how": "The agency must receive and process Class A license applications from eligible stations during the one-year period."
    }
   ],
-  "when_it_takes_effect": "The law was enacted on January 5, 2023. The official summary does not list the exact start and end dates of the one-year application window.",
+  "when_it_takes_effect": "Enacted January 5, 2023; the application window lasts one year, but the summary does not state its exact start date.",
   "ceremonial": false,
   "confidence": "medium",
   "ai_generated": true,

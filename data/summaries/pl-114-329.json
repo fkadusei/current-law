@@ -1,37 +1,33 @@
 {
- "headline": "A 2017 federal law that sets rules and goals for science, technology, and research agencies such as the National Science Foundation and NIST.",
- "what_it_does": "The law directs the National Science Foundation to keep its grant review criteria and to issue guidance that stresses transparency and accountability. It renames and changes several federal research programs, including EPSCoR, and asks NIST to study cybersecurity standards, including quantum-resistant cryptography. It also sets up working groups and advisory panels on reducing research paperwork, STEM diversity, and STEM education, and it directs agencies to fund various STEM education and outreach grants.",
+ "headline": "A 2017 law that sets research, science education, and technology rules for federal agencies such as NSF, NIST, and OSTP, mostly by directing them to study, coordinate, or run programs.",
+ "what_it_does": "The law covers many science and technology topics across six titles. It tells the National Science Foundation to keep its merit review criteria, to fund research and education grants, and to add oversight to major research facility projects. It directs the National Institute of Standards and Technology to research cybersecurity, quantum-resistant cryptography, and the security of voting systems, and to run its manufacturing and apprenticeship-related programs. It also asks the Office of Management and Budget to reduce paperwork for federally funded researchers and lets agencies use crowdsourcing and citizen science.",
  "who_it_affects": [
   {
    "group": "Researchers who receive federal science grants",
-   "how": "The Office of Management and Budget must create a working group to look for ways to reduce administrative burdens while keeping federally funded work transparent and accountable."
+   "how": "They face a planned effort to reduce administrative paperwork and a review of required progress reports."
   },
   {
-   "group": "Institutions that apply for National Science Foundation grants",
-   "how": "The NSF must keep its intellectual merit and broader impacts review criteria and issue updated guidance on the merit review process."
+   "group": "Students and institutions in STEM fields",
+   "how": "The National Science Foundation must award grants to broaden participation by underrepresented groups and to support computer science education."
   },
   {
-   "group": "Students and K-12 schools in STEM subjects",
-   "how": "The NSF must award grants for research on engaging students in kindergarten through 8th grade in STEM and for computer science education."
+   "group": "Small businesses",
+   "how": "Commerce must study the cost of creating apprenticeship programs, especially for small businesses, and may work with Labor on ways to reduce it."
   },
   {
-   "group": "Women and underrepresented groups in STEM fields",
-   "how": "The NSF must award grants aimed at increasing their participation, and a Center of Excellence must be set up to collect and share related information."
+   "group": "Manufacturers",
+   "how": "The Hollings Manufacturing Extension Partnership, which helps manufacturers, has its requirements revised."
+  },
+  {
+   "group": "Voters and election officials",
+   "how": "NIST may research the security of computers and networks used in voting systems."
   },
   {
    "group": "Undergraduate students at colleges and universities",
-   "how": "Each federal agency must recommend to the President ways to expand research opportunities for undergraduates."
-  },
-  {
-   "group": "Manufacturers working with NIST's Hollings Manufacturing Extension Partnership",
-   "how": "The law revises the requirements for this partnership program, which helps smaller manufacturers adopt new technology."
-  },
-  {
-   "group": "Entrepreneurs and startups",
-   "how": "The NSF must fund Innovation Corps training and mentoring on commercializing research."
+   "how": "Each federal agency must recommend ways to expand research opportunities for them."
   }
  ],
- "when_it_takes_effect": "The law was enacted on January 6, 2017, and many provisions set their own deadlines for agencies to act, which the summary does not list.",
+ "when_it_takes_effect": "Signed into law on January 6, 2017; most provisions direct agencies to act over time, and specific deadlines vary by section.",
  "ceremonial": false,
  "confidence": "medium",
  "ai_generated": true,

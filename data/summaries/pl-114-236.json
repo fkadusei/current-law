@@ -1,29 +1,25 @@
 {
- "headline": "This 2016 federal law creates statutory rights for sexual assault survivors, including free forensic exams and preserved rape kits.",
- "what_it_does": "The law amends the federal criminal code to give sexual assault survivors specific rights. Survivors cannot be prevented from getting a forensic medical exam, and they cannot be charged for it. Rape kits must generally be preserved for 20 years or the applicable statute of limitations, whichever is shorter, and survivors must get written notice before a kit is destroyed. The law also lets the Justice Department give grants to states and requires a working group to develop best practices for care and evidence preservation.",
+ "headline": "This 2016 federal law creates statutory rights for sexual assault survivors, including free forensic exams, rape kit preservation, and written notice before kit destruction.",
+ "what_it_does": "The law amends the federal criminal code to give sexual assault survivors specific rights. These include the right not to be blocked from a forensic medical exam, not to be charged for that exam, and to have a sexual assault evidence kit kept for 20 years or the maximum applicable statute of limitations, whichever is shorter. Survivors must also receive written notice before a kit is destroyed and be told about these rights. The law also lets the Justice Department give grants to states and sets up a working group on best practices for caring for survivors and preserving evidence.",
  "who_it_affects": [
   {
    "group": "Sexual assault survivors",
-   "how": "They gain federal rights to a forensic exam at no charge, to have their evidence kit preserved, and to receive written notice before it is destroyed."
+   "how": "They gain statutory rights to a forensic exam without charge, kit preservation, advance notice before kit destruction, and information about these rights."
   },
   {
    "group": "Hospitals, medical centers, and forensic examiners",
-   "how": "They must receive written notice of survivors' rights and policies and follow rules about exams and evidence kits."
+   "how": "They must not prevent exams or charge survivors for them, and they receive written notice of these rights and policies."
   },
   {
-   "group": "Law enforcement agencies",
-   "how": "They receive written notice of these survivor rights and must follow the preservation and notice requirements."
+   "group": "Sexual assault service providers and law enforcement agencies",
+   "how": "They receive written notice of survivors' rights and policies and may be affected by state programs funded through Justice Department grants."
   },
   {
    "group": "State governments",
-   "how": "They may apply for Justice Department grants to develop sexual assault survivors' rights and policies."
-  },
-  {
-   "group": "Sexual assault service providers",
-   "how": "They receive written notice of survivors' rights and policies to share with the people they serve."
+   "how": "They may apply for Justice Department grants to develop sexual assault survivors' rights and policies and to share written notice of them."
   }
  ],
- "when_it_takes_effect": null,
+ "when_it_takes_effect": "The summary provided does not state a specific effective date beyond the enactment date of October 7, 2016.",
  "ceremonial": false,
  "confidence": "medium",
  "ai_generated": true,

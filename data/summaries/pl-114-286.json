@@ -1,27 +1,23 @@
 {
- "headline": "This law requires the VA to test an online and app-based appointment scheduling system for veterans and to confirm that scheduling systems meet set standards.",
- "what_it_does": "The VA must run an 18-month pilot in at least three VISNs (regional VA health networks) where veterans can book, change, and confirm VA medical appointments online or by mobile app. The VA must pick a contractor through competitive bidding for a commercially available scheduling system with features such as real-time availability, reuse of canceled slots, reminders, 24/7 access, and support for telehealth. An outside nonprofit with health IT expertise must help verify that these systems have the required features, the GAO must review those checks, and the VA must certify compliance by December 31, 2017.",
+ "headline": "Congress required the Department of Veterans Affairs to test online and app-based appointment scheduling for veterans and to certify that its scheduling systems meet set standards.",
+ "what_it_does": "The law directs the VA to run an 18-month pilot in at least three Veterans Integrated Service Networks, where veterans can book, confirm, change, and cancel VA medical appointments online or through a mobile app. The VA must try to hire contractors through competitive bidding for a self-scheduling system with features such as real-time availability, reposting cancelled slots, reminders for follow-up visits, and round-the-clock use. An outside nonprofit with health IT expertise must check that these systems have the required features, the GAO must review those checks, and the VA must certify compliance by December 31, 2017, with rules for replacing noncompliant systems.",
  "who_it_affects": [
   {
-   "group": "Veterans who use VA health care",
-   "how": "They may be able to schedule, change, and cancel VA appointments online or through a mobile app during the pilot in participating regions."
+   "group": "Veterans who receive care through the VA health system",
+   "how": "They may be able to schedule and manage appointments online or by mobile app in the pilot locations, and the VA must use systems meeting the listed features."
   },
   {
-   "group": "VA medical facilities and staff in the pilot regions",
-   "how": "They must take part in a new online scheduling system and help run the pilot."
+   "group": "VA medical facilities and staff in the pilot networks",
+   "how": "They must take part in a pilot that uses online self-scheduling and may need to connect scheduling tools to existing VA health records systems."
   },
   {
-   "group": "Commercial companies that sell online patient scheduling software",
-   "how": "They may compete for the VA contract if their off-the-shelf system has the required features."
-  },
-  {
-   "group": "Nonprofit health information technology organizations",
-   "how": "They may be hired by the VA to independently check and verify that scheduling systems meet the law's requirements."
+   "group": "Technology contractors offering self-scheduling software",
+   "how": "Companies with commercially available, off-the-shelf online scheduling systems may compete for the VA contract."
   }
  ],
- "when_it_takes_effect": "The VA must begin the 18-month pilot program after enactment on December 16, 2016, and must certify its scheduling systems by December 31, 2017.",
+ "when_it_takes_effect": "Enacted December 16, 2016; the VA must certify its systems by December 31, 2017, and the 18-month pilot runs after the VA sets it up.",
  "ceremonial": false,
- "confidence": "high",
+ "confidence": "medium",
  "ai_generated": true,
  "model": "claude-haiku-5-5",
  "written": "2026-11-08"

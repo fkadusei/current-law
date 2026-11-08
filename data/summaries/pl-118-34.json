@@ -1,29 +1,37 @@
 {
- "headline": "Short-term law keeps FAA programs, airport grants, and aviation taxes running through March 8, 2024.",
- "what_it_does": "This law temporarily extends certain Federal Aviation Administration (FAA) programs through March 8, 2024. These include drone (unmanned aircraft) pilot programs, weather reporting programs, the Remote Tower Pilot Program, the Essential Air Service Program, and airport improvement grants. It also lets the FAA keep spending from the Airport and Airway Trust Fund and keep collecting the aviation fuel taxes, airline ticket taxes, and other fees that pay into that fund.",
+ "headline": "Short-term law that keeps Federal Aviation Administration programs, funding, and aviation taxes running through March 8, 2024.",
+ "what_it_does": "This law extends the Federal Aviation Administration's (FAA) authority to operate, spend money, and run its programs until March 8, 2024. It keeps airport improvement grants, air traffic and safety operations, drone programs, and rural air service programs going without major changes. It also continues the taxes on airline tickets and aviation fuel that pay for these programs.",
  "who_it_affects": [
   {
    "group": "Airline passengers",
-   "how": "Taxes on airline tickets that fund federal aviation programs continue to be collected through March 8, 2024."
+   "how": "Taxes on airline tickets continue to be collected, and consumer protection and disability access advisory committees keep operating."
   },
   {
-   "group": "Public-use airports",
-   "how": "They can keep receiving federal Airport Improvement Program grants for planning, building, and noise-reduction projects."
+   "group": "Airports and local governments",
+   "how": "Airports remain eligible for federal Airport Improvement Program grants for construction, planning, noise, and land-use projects."
   },
   {
-   "group": "Residents of small and rural communities",
-   "how": "The Essential Air Service Program, which helps keep commercial flights going to these communities, continues."
+   "group": "Small and rural communities",
+   "how": "The Essential Air Service Program and small community air service grants continue, helping keep scheduled flights in these areas."
   },
   {
-   "group": "Drone operators and drone test sites",
-   "how": "FAA drone pilot programs, including test sites and remote detection and identification efforts, continue."
+   "group": "Airlines and private aircraft operators",
+   "how": "Taxes on aviation fuel continue, and federal aviation insurance and air traffic control services keep running."
   },
   {
-   "group": "Airlines and aircraft operators",
-   "how": "Taxes on aviation fuel continue to be collected to fund the Airport and Airway Trust Fund."
+   "group": "Drone operators and companies",
+   "how": "FAA drone test sites, safety exemptions, and drone detection and enforcement programs continue."
+  },
+  {
+   "group": "Commercial spaceflight companies",
+   "how": "A pause on certain federal safety rules for crewed launch vehicle design and operation continues through March 9, 2024."
+  },
+  {
+   "group": "FAA employees and contract weather observers",
+   "how": "FAA salaries and operations remain authorized, and the FAA cannot end its contract weather observer program at any airport during the extension."
   }
  ],
- "when_it_takes_effect": "Enacted December 26, 2023; extensions run through March 8, 2024.",
+ "when_it_takes_effect": "Signed December 26, 2023; extensions last through March 8, 2024 (March 9, 2024 for the commercial spaceflight rule pause).",
  "ceremonial": false,
  "confidence": "high",
  "ai_generated": true,

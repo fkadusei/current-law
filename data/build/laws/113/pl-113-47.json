@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Crime and Law Enforcement",
  "sponsor": "Rep. Chabot, Steve [R-OH-1]",
- "official_summary": " <p>United States Parole Commission Extension Act of 2013 - Extends the United States Parole Commission for five years. </p> <p>Directs the Commission, within 180 days after enactment of this Act, to report the following, for FY2012-FY2013, with regard to each type of case over which it has jurisdiction: (1) the number of offenders; (2) the number of hearings, record reviews, and National Appeals Board considerations conducted by the Commission; (3) the number of hearings conducted by the Commission by type of hearing; (4) the number of record reviews conducted by the Commission by type of consideration; (5) the number of warrants issued and executed compared to the number requested; (6) the number of revocation determinations by the Commission; (7) the distribution of initial offenses; (8) the distribution of subsequent offenses; (9) the percentage of offenders paroled or re-paroled compared with the percentage of offenders continued to expiration of sentence; (10) the percentage of cases in which the primary and secondary examiner disagreed on the appropriate disposition of the case, the release conditions to be imposed, or the reasons for the decision; (11) the percentage of revocation and non-revocation hearings in which the offender is accompanied by a representative; (12) the number of administrative appeals and the action of the National Appeals Board in relation to those appeals; and (13) the Commission's annual expenditures for offenders.</p> <p>Directs the Commission to report on: (1) the percentage of decisions within, above, or below its decision guidelines for federal initial hearings and federal and D.C. Code revocation hearings; (2) the projected number of federal offenders that will be under its jurisdiction as of October 31, 2018; (3) an estimate of the date on which no federal offenders will remain under its jurisdiction; and (4) its annual expenditures, including travel expenses and the annual salaries of its members and staff.</p> <p>Requires the Commission to make such reports for each of FY2014-FY2018 within 90 days after the end of the fiscal year.</p> <p>Directs the Commission, within 180 days after enactment of this Act, to report on: (1) the parole failure rate for the District of Columbia for the preceding fiscal year, (2) the factors that caused that rate, and (3) remedial measures that might be undertaken to reduce that rate.</p>",
+ "official_summary": " <p><b>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</b></p> <p>United States Parole Commission Extension Act of 2013 - Extends the United States Parole Commission for five years. </p> <p>Directs the Commission, within 180 days after enactment of this Act, to report the following, for FY2012-FY2013, with regard to each type of case over which it has jurisdiction: (1) the number of offenders; (2) the number of hearings, record reviews, and National Appeals Board considerations conducted by the Commission; (3) the number of hearings conducted by the Commission by type of hearing; (4) the number of record reviews conducted by the Commission by type of consideration; (5) the number of warrants issued and executed compared to the number requested; (6) the number of revocation determinations by the Commission; (7) the distribution of initial offenses; (8) the distribution of subsequent offenses; (9) the percentage of offenders paroled or re-paroled compared with the percentage of offenders continued to expiration of sentence; (10) the percentage of cases in which the primary and secondary examiner disagreed on the appropriate disposition of the case, the release conditions to be imposed, or the reasons for the decision; (11) the percentage of revocation and non-revocation hearings in which the offender is accompanied by a representative; (12) the number of administrative appeals and the action of the National Appeals Board in relation to those appeals; and (13) the Commission's annual expenditures for offenders.</p> <p>Directs the Commission to report on: (1) the percentage of decisions within, above, or below its decision guidelines for federal initial hearings and federal and D.C. Code revocation hearings; (2) the projected number of federal offenders that will be under its jurisdiction as of October 31, 2018; (3) an estimate of the date on which no federal offenders will remain under its jurisdiction; and (4) its annual expenditures, including travel expenses and the annual salaries of its members and staff.</p> <p>Requires the Commission to make such reports for each of FY2014-FY2018 within 90 days after the end of the fiscal year.</p> <p>Directs the Commission, within 180 days after enactment of this Act, to report on: (1) the parole failure rate for the District of Columbia for the preceding fiscal year, (2) the factors that caused that rate, and (3) remedial measures that might be undertaken to reduce that rate.</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr3190enr/xml/BILLS-113hr3190enr.xml"
@@ -37,29 +37,25 @@
  "party_color": null,
  "control": {},
  "summary": {
-  "headline": "This law keeps the U.S. Parole Commission operating for five more years and requires it to publish detailed reports on its work and finances.",
-  "what_it_does": "It extends the life of the United States Parole Commission for five years. It requires the Commission to report data on its hearings, decisions, appeals, and spending for fiscal years 2012 and 2013, and then yearly for fiscal years 2014 through 2018. It also requires a report on the District of Columbia parole failure rate, the causes of that rate, and possible ways to lower it.",
+  "headline": "This law extends the U.S. Parole Commission for five more years and requires it to issue a series of reports on its work and finances.",
+  "what_it_does": "The law keeps the United States Parole Commission in operation for five years. It requires the Commission to report on its caseload, hearings, warrants, revocation decisions, appeals, and spending, first for fiscal years 2012 and 2013 and then yearly for fiscal years 2014 through 2018. It also asks the Commission to report on the parole failure rate in the District of Columbia and possible ways to lower it.",
   "who_it_affects": [
    {
-    "group": "Federal offenders on parole or supervised release under the Commission's jurisdiction",
-    "how": "They remain under the Commission's authority, since the agency that makes parole and revocation decisions for them keeps operating."
+    "group": "people under federal parole supervision",
+    "how": "Their cases stay under the Parole Commission's authority for five more years, and the Commission's hearing and revocation decisions continue to apply to them."
    },
    {
-    "group": "People in D.C. Code parole and revocation cases",
-    "how": "The Commission must report on the D.C. parole failure rate and on decisions in D.C. Code revocation hearings."
+    "group": "people on parole in the District of Columbia",
+    "how": "The Commission must study and report on the District's parole failure rate and the factors behind it."
    },
    {
-    "group": "Members and staff of the U.S. Parole Commission",
-    "how": "They must compile and submit the required statistics and expenditure reports within set deadlines."
-   },
-   {
-    "group": "Congress",
-    "how": "It receives the Commission's required reports on caseloads, decision patterns, projected caseload, and spending."
+    "group": "members of Congress and the public",
+    "how": "They receive yearly reports with data on the Commission's decisions, appeals, and spending."
    }
   ],
-  "when_it_takes_effect": "Effective on enactment, October 31, 2013; the first reports are due within 180 days after that date, and yearly reports are due within 90 days after each fiscal year ends through FY2018.",
+  "when_it_takes_effect": "The law was enacted on October 31, 2013. The first reports were due within 180 days of enactment, and yearly reports are due within 90 days after the end of each fiscal year through FY2018.",
   "ceremonial": false,
-  "confidence": "high",
+  "confidence": "medium",
   "ai_generated": true,
   "model": "claude-haiku-5-5",
   "written": "2026-11-08"

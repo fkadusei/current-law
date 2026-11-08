@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Government Operations and Politics",
  "sponsor": "Sen. Graham, Lindsey [R-SC]",
- "official_summary": "<p><strong>Overtime Pay for Protective Services Act of 2023</strong></p><p>This bill extends through 2028 and modifies the authority to provide premium pay for protective services employees of the U.S. Secret Service that exceeds certain statutory limits on premium pay. The bill also requires the Secret Service to provide related information to Congress.</p><p>The bill provides that, if the bill is enacted after December 31, 2023, the extension applies as if it were enacted on December 31, 2023. The bill also specifies that employees who perform routine administrative or technical work are not eligible for this premium pay.</p><p>Next, within 180 days of the bill's enactment, the Secret Service must report to Congress on how it is addressing the demand for Secret Service protection personnel and recommend strategies for reducing the use of overtime.</p><p>The bill also requires the Secret Service to report to Congress (1) the number of employees receiving premium pay above the statutory cap; (2) the number of employees who were not fully compensated due to the statutory cap and the total amount that employees would have been paid without the cap; (3) the total, median, mean, and greatest amounts of premium pay above the cap; and (4) a list of personnel who received premium pay above the cap and separated from the agency. This information must be provided for each calendar year and updated quarterly. Further, the Secret Service must report to Congress on the effect that the bill has had on this data.</p>",
+ "official_summary": "<p><strong>Overtime Pay for Protective Services Act of 2023</strong></p><p>This act generally extends through 2028 the authority to provide premium pay to protective services employees of the U.S. Secret Service even if it causes the employee's annual pay to exceed&nbsp;the statutory cap. The act also requires the Secret Service to provide related information to Congress.</p><p>Under the act, a protective services employee may receive premium pay even if the premium pay causes the employee's total annual pay to exceed the statutory cap that applies to these employees. (Generally, protective services employees' pay may not exceed the rate of basic pay payable for General Schedule 15 or the maximum rate payable for level V of the Executive Schedule.)&nbsp;Secret Service employees who perform routine administrative or technical work are not eligible for this premium pay.</p><p>The act provides that, if the act is enacted after December 31, 2023, the extension applies as if it were enacted on December 31, 2023.</p><p>Next, within 180 days of the act's enactment, the Secret Service must report to Congress on how it is addressing the demand for Secret Service protection personnel and recommend strategies for reducing the use of overtime. The act provides that such strategies must include the appointment of additional personnel, redistributing the workload amongst Secret Service personnel, solutions such that premium pay exceptions or waivers are not needed, and other improvements in operational efficiency.</p><p>The act also requires the Secret Service to report to Congress&nbsp;its projections for the following: (1) the number of employees receiving premium pay above the statutory cap; (2) the number of employees who were not fully compensated due to the statutory cap and the total amount that employees would have been paid without the cap; (3) the total, median, mean, and greatest amounts of premium pay above the cap; and (4) a list of personnel who received premium pay above the cap and separated from the agency.&nbsp;</p><p>This information must be provided&nbsp;no later than 30 days after the act's enactment for calendar year 2024. Thereafter, the report must be provided by December 31 for each calendar year through 2027 and updated quarterly.&nbsp;Further, the Secret Service must report to Congress on the effect that the&nbsp;act has had on this data.</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-118s3427enr/xml/BILLS-118s3427enr.xml"
@@ -3518,27 +3518,23 @@
   "House": "R"
  },
  "summary": {
-  "headline": "Law extends through 2028 the Secret Service's ability to pay protective staff overtime above normal federal pay caps, and adds reporting to Congress.",
-  "what_it_does": "The law lets the U.S. Secret Service keep paying protective services employees overtime and other premium pay above the usual federal limits through 2028, applied retroactively to December 31, 2023. Employees who do routine administrative or technical work cannot get this extra pay. The Secret Service must report to Congress on staffing demand, ways to cut overtime, and detailed data on who received pay above the cap.",
+  "headline": "Lets Secret Service protective employees keep earning overtime and other premium pay above the normal federal pay cap through 2028.",
+  "what_it_does": "Federal law normally caps how much Secret Service protective employees can earn in a year. This law extends, through 2028, an exception that lets them receive overtime and other premium pay even if it pushes their yearly pay over that cap. Employees who do routine administrative or technical work are not covered. The Secret Service must also send Congress reports on overtime use, pay above the cap, and plans to reduce overtime, such as hiring more staff and spreading out the workload.",
   "who_it_affects": [
    {
     "group": "Secret Service protective services employees",
-    "how": "They can continue to receive overtime and premium pay above the normal federal cap through 2028."
+    "how": "They can be paid for overtime and other premium work even when it raises their total yearly pay above the usual federal limit."
    },
    {
-    "group": "Secret Service employees doing routine administrative or technical work",
+    "group": "Secret Service administrative and technical staff",
     "how": "They are not eligible for premium pay above the cap under this law."
    },
    {
-    "group": "U.S. Secret Service leadership",
-    "how": "The agency must send Congress a report within 180 days on protection staffing and reducing overtime, plus yearly pay data updated every quarter."
-   },
-   {
-    "group": "Congress",
-    "how": "Lawmakers will receive regular data on above-cap pay, unpaid amounts due to the cap, and employees who left after receiving such pay."
+    "group": "U.S. Secret Service (the agency)",
+    "how": "It must report to Congress within 180 days on staffing demand and ways to cut overtime, and give regular reports on pay above the cap through 2027."
    }
   ],
-  "when_it_takes_effect": "Enacted February 6, 2024; the pay extension applies as if enacted December 31, 2023, and runs through 2028. The first staffing report is due within 180 days of enactment.",
+  "when_it_takes_effect": "Treated as taking effect December 31, 2023 (enacted February 6, 2024); the pay exception runs through 2028. First pay-data report due within 30 days of enactment, and the staffing report within 180 days.",
   "ceremonial": false,
   "confidence": "high",
   "ai_generated": true,

@@ -1,37 +1,49 @@
 {
- "headline": "A 2017 funding law that keeps federal agencies open, sends disaster aid, pauses the debt limit, and sets rules for foreign education aid.",
- "what_it_does": "Division D is a continuing resolution that funds federal agencies at last year's levels, reduced by 0.6791 percent, through December 8, 2017, so a shutdown does not start October 1. Division B provides $15.25 billion in emergency money to FEMA, the Small Business Administration, and HUD for recovery from Hurricanes Harvey and Irma. Division C suspends the federal debt limit until December 9, 2017, when it rises to cover obligations made during the pause. Division A sets U.S. policy and a five-year strategy for basic education aid in other countries and creates a senior coordinator position at USAID.",
+ "headline": "Public Law 115-56 keeps federal agencies funded through December 8, 2017, adds $15.25 billion in disaster relief, and temporarily suspends the federal debt limit.",
+ "what_it_does": "The law is a continuing resolution that funds most federal agencies at fiscal year 2017 levels, reduced by 0.6791%, so a government shutdown does not start on October 1, 2017. It provides $15.25 billion in emergency aid for hurricane recovery through FEMA, the Small Business Administration, and HUD. It also suspends the public debt limit until December 9, 2017, and includes a separate section on U.S. support for basic education in developing countries.",
  "who_it_affects": [
   {
    "group": "Federal agencies and their employees",
-   "how": "Agencies get funding at 2017 levels minus 0.6791 percent and may not start new programs that were not funded in 2017 until full spending bills pass."
+   "how": "Agencies can keep paying staff and running programs at a set funding rate, which helps them avoid furloughs, though new programs generally cannot start."
   },
   {
    "group": "People affected by Hurricanes Harvey and Irma",
-   "how": "Disaster money goes to FEMA's Disaster Relief Fund and HUD's Community Development Block Grant program for response and recovery."
+   "how": "The $15.25 billion in emergency funds is directed to FEMA disaster relief, SBA disaster loans, and HUD community development block grants."
   },
   {
-   "group": "Small businesses and homeowners with disaster losses",
-   "how": "The Small Business Administration's Disaster Loans Program receives $450 million."
+   "group": "Small businesses and homeowners hit by disasters",
+   "how": "The bill provides $450 million for SBA disaster loan programs."
   },
   {
-   "group": "Children and families in developing countries",
-   "how": "Foreign basic education programs must focus on literacy, safe schools, and parent involvement, with extra attention to girls and marginalized groups."
+   "group": "Low-income elderly people receiving food assistance",
+   "how": "The Commodity Supplemental Food Program is allowed to operate at a higher rate than otherwise permitted under the continuing resolution."
   },
   {
-   "group": "Visitors to federal recreation lands",
-   "how": "Federal agencies may keep charging and collecting recreation fees through September 30, 2019."
+   "group": "Head Start grantees",
+   "how": "The law sets specific rules for how base grant amounts are calculated while the continuing resolution is in effect."
   },
   {
-   "group": "Households with federal flood insurance",
-   "how": "The National Flood Insurance Program authorization is extended."
+   "group": "Children enrolled in CHIP",
+   "how": "The law changes a funding limit for the Child Enrollment Contingency Fund and makes a rescission from the program."
   },
   {
-   "group": "Medicaid-linked children's health coverage enrollees and state CHIP programs",
-   "how": "A funding limit for the State Children's Health Insurance Program's Child Enrollment Contingency Fund is modified, and a rescission from CHIP is made."
+   "group": "People who visit federal recreational lands",
+   "how": "Federal agencies may keep collecting and using recreation fees through September 30, 2019."
+  },
+  {
+   "group": "Homeowners with flood insurance through the National Flood Insurance Program",
+   "how": "The program's authorization is extended under the continuing resolution."
+  },
+  {
+   "group": "Veterans receiving care at VA facilities",
+   "how": "Funds for repairs from Hurricane Sandy damage at a VA construction account remain available for longer."
+  },
+  {
+   "group": "Children and communities in developing countries receiving U.S. education aid",
+   "how": "The law sets a U.S. policy to promote basic education abroad and requires the President to produce a five-year strategy and an annual report to Congress."
   }
  ],
- "when_it_takes_effect": "Signed into law September 8, 2017; the funding continuation and debt limit suspension run through December 8, 2017, and the debt limit increases on December 9, 2017.",
+ "when_it_takes_effect": "Most provisions took effect when the law was signed on September 8, 2017; the funding and debt limit suspension run through December 8, 2017, and the foreign education strategy is due within one year.",
  "ceremonial": false,
  "confidence": "high",
  "ai_generated": true,

@@ -1,29 +1,25 @@
 {
- "headline": "Congress authorized a federal cyber crime training institute and expanded grant programs to help state and local police, prosecutors, and judges fight computer and internet-based crime.",
- "what_it_does": "The law creates a National Computer Forensics Institute inside the U.S. Secret Service and authorizes it for fiscal years 2017 through 2022. The institute trains state, local, tribal, and territorial police, prosecutors, and judges on investigating cyber and electronic crime and handling digital evidence in court, and it may give those officers computer equipment, software, and tools. It also authorizes Justice Department grants and agreements that help state and local agencies investigate high-tech, economic, and internet-based crimes, including crimes against children.",
+ "headline": "Creates a National Computer Forensics Institute under the Secret Service and authorizes DOJ training grants to help police and prosecutors handle cyber and white collar crime.",
+ "what_it_does": "The law sets up a National Computer Forensics Institute inside the U.S. Secret Service for fiscal years 2017 through 2022. The institute trains and equips state, local, tribal, and territorial police, prosecutors, and judges to investigate cyber and electronic crimes, examine computers and phones as evidence, respond to network intrusions, and handle digital evidence in court. It may also provide qualifying officers with computer equipment, software, and tools, and it can expand the Secret Service's Electronic Crime Task Forces. Separately, it lets the Justice Department's Bureau of Justice Assistance fund training and technical help for officers, investigators, auditors, and prosecutors who handle white collar crime, including high-tech, economic, and internet-based crimes against children.",
  "who_it_affects": [
   {
    "group": "State, local, tribal, and territorial police officers",
-   "how": "They can receive training on cyber and electronic crime investigations and forensic examinations, and may receive computer equipment, software, and tools from the institute."
+   "how": "They can receive federally funded training and, in some cases, computer equipment and software for cyber and electronic crime investigations."
   },
   {
-   "group": "State and local prosecutors",
-   "how": "They can receive training on handling digital evidence and the legal challenges of cyber and electronic crime cases."
+   "group": "State, local, tribal, and territorial prosecutors and judges",
+   "how": "They can receive training on digital evidence, cyber crime, and related court challenges through the institute."
   },
   {
-   "group": "State and local judges",
-   "how": "They can receive training on how to obtain, process, store, and admit digital evidence in court."
+   "group": "Members of the Secret Service's Electronic Crime Task Forces",
+   "how": "The network of task forces may expand to include officers trained at the institute."
   },
   {
-   "group": "State and local criminal justice agencies",
-   "how": "They may receive federal grants or cooperative agreements for training, research, information sharing, and intelligence-focused policing related to high-tech and internet crime."
-  },
-  {
-   "group": "Members of the Secret Service Electronic Crime Task Forces",
-   "how": "The task force network is to expand by adding officers who are trained at the institute."
+   "group": "Auditors and investigators who work on white collar crime",
+   "how": "They may receive federally funded training and technical help from the Justice Department to identify, investigate, and prosecute these crimes."
   }
  ],
- "when_it_takes_effect": "The law was enacted on November 2, 2017, and the institute is authorized for fiscal years 2017 through 2022.",
+ "when_it_takes_effect": "Upon enactment on November 2, 2017; the institute's authorization covers fiscal years 2017 through 2022.",
  "ceremonial": false,
  "confidence": "medium",
  "ai_generated": true,

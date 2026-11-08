@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Immigration",
  "sponsor": "Rep. Blumenauer, Earl [D-OR-3]",
- "official_summary": " <p>Amends the National Defense Authorization Act for Fiscal Year 2008 to provide that the total number of aliens eligible for special immigrant status (Iraqis who were employed by or on behalf of the U.S. government in Iraq) during the first three months of FY2014 shall be the sum of: (1) the number of such aliens whose applications were pending on September 30, 2013, and (2) 2000. Imposes a deadline of December 15, 2013, for applications for special immigrant status. </p> <p>Directs the Secretary of State to increase the fee or surcharge authorized under the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995 by $1 for processing machine-readable nonimmigrant visas and machine-readable combined border crossing identification cards and nonimmigrant visas. Requires amounts collected as a result of the fee increase to be deposited in the general fund of the Treasury.</p>",
+ "official_summary": " <p><b>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</b></p> <p>Amends the National Defense Authorization Act for Fiscal Year 2008 to provide that the total number of aliens eligible for special immigrant status (Iraqis who were employed by or on behalf of the U.S. government in Iraq) during the first three months of FY2014 shall be the sum of: (1) the number of such aliens whose applications were pending on September 30, 2013, and (2) 2000. Imposes a deadline of December 15, 2013, for applications for special immigrant status. </p> <p>Directs the Secretary of State to increase the fee or surcharge authorized under the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995 by $1 for processing machine-readable nonimmigrant visas and machine-readable combined border crossing identification cards and nonimmigrant visas. Requires amounts collected as a result of the fee increase to be deposited in the general fund of the Treasury.</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr3233enr/xml/BILLS-113hr3233enr.xml"
@@ -34,25 +34,25 @@
  "party_color": null,
  "control": {},
  "summary": {
-  "headline": "This law extends a special immigrant visa program for Iraqis who worked for the U.S. government and temporarily raises a visa processing fee by $1.",
-  "what_it_does": "It sets the number of Iraqis who can get special immigrant status in the first three months of fiscal year 2014 at the number of pending applications on September 30, 2013, plus 2,000. It sets a December 15, 2013 deadline for applications under this program. It also directs the Secretary of State to add $1 to a fee charged for processing certain machine-readable nonimmigrant visas and combined border crossing ID cards. The money collected from that increase goes to the U.S. general fund.",
+  "headline": "Extends a program for Iraqis who worked for the U.S. government in Iraq and temporarily raises a visa processing fee by $1.",
+  "what_it_does": "The law changes the rules for special immigrant visas for Iraqis who were employed by or on behalf of the U.S. government in Iraq. For the first three months of fiscal year 2014, the number of people eligible is set at the number of pending applications on September 30, 2013, plus 2,000. It sets a December 15, 2013 deadline for applications. It also directs the State Department to add $1 to a fee charged for processing certain nonimmigrant visas and border crossing cards, with the extra money going to the general fund of the Treasury.",
   "who_it_affects": [
    {
-    "group": "Iraqis who worked for the U.S. government or its contractors in Iraq",
-    "how": "They have a set window and a December 15, 2013 deadline to apply for special immigrant status, and the number of slots available in that period is set by this law."
+    "group": "Iraqis who worked for or on behalf of the U.S. government in Iraq",
+    "how": "They may apply for special immigrant status under the extended program, but only by the December 15, 2013 deadline."
    },
    {
-    "group": "Nonimmigrant visa applicants",
-    "how": "People applying for certain machine-readable nonimmigrant visas or combined border crossing ID cards pay an extra $1 processing fee."
+    "group": "Travelers applying for machine-readable nonimmigrant visas or border crossing cards",
+    "how": "They pay an additional $1 processing fee for these documents."
    },
    {
-    "group": "U.S. Department of State",
-    "how": "The department must raise the visa fee by $1 and deposit the extra money into the Treasury's general fund."
+    "group": "State Department consular offices",
+    "how": "They must increase the visa processing fee by $1 and deposit the collected amounts in the Treasury general fund."
    }
   ],
-  "when_it_takes_effect": "Enacted October 4, 2013; the application deadline is December 15, 2013, and the fee increase is temporary.",
+  "when_it_takes_effect": "Enacted October 4, 2013; the application deadline is December 15, 2013, and the eligibility cap applies to the first three months of fiscal year 2014.",
   "ceremonial": false,
-  "confidence": "medium",
+  "confidence": "high",
   "ai_generated": true,
   "model": "claude-haiku-5-5",
   "written": "2026-11-08"

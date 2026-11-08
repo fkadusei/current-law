@@ -1,29 +1,25 @@
 {
- "headline": "This law requires federal agencies to set up evaluation rules for certain foreign aid and to publish more information about that aid online.",
- "what_it_does": "The law defines a group of U.S. foreign assistance programs, including development aid, the Economic Support Fund, Millennium Challenge programs, and Food for Peace. It directs the President to issue guidelines within 18 months for setting goals, measuring results, and evaluating these programs, and to tell Congress about those guidelines. It also requires the State Department to update ForeignAssistance.gov within 90 days and requires agencies to send it program information each quarter, with some exceptions for security, proprietary data, or national interests.",
+ "headline": "This law requires federal agencies to set up better evaluation and public reporting for most US foreign aid programs.",
+ "what_it_does": "The law defines which US foreign aid counts as covered, including development assistance, Economic Support Fund aid, Millennium Challenge Act programs, and Food for Peace programs. Within 18 months, the President must issue guidelines telling agencies how to set goals, measure results, collect data, and evaluate programs, and must give Congress a detailed description of those guidelines. The State Department must also update its ForeignAssistance.gov website within 90 days with program, budget, and spending information, and agencies must send it quarterly data. Agencies can withhold specific information from the website if they tell Congress in writing that publishing it would harm people, security, or proprietary interests.",
  "who_it_affects": [
   {
-   "group": "Federal agencies that run foreign aid programs, such as the State Department and USAID",
-   "how": "They must follow new presidential guidelines on goals, performance measurement, evaluations, and data collection, and send program information to the State Department each quarter."
+   "group": "Federal agencies that administer foreign aid, such as the State Department and USAID",
+   "how": "They must follow new presidential guidelines on setting goals, evaluating programs, and reporting results, and they must send program data to the State Department each quarter."
   },
   {
-   "group": "Organizations that carry out U.S. foreign aid projects, such as implementing partners",
-   "how": "Their awards and program details must be published online, unless an agency determines that disclosure would jeopardize their safety or reveal proprietary information."
+   "group": "Implementing partners and organizations that carry out US-funded foreign aid projects",
+   "how": "Information about their awards and projects will be published online, though agencies may withhold details that could endanger people or reveal proprietary information."
   },
   {
-   "group": "Program beneficiaries in countries receiving U.S. aid",
-   "how": "Their programs may be evaluated, and information about them may be published, though agencies can withhold details that could endanger them."
+   "group": "Members of the public and researchers interested in foreign aid spending",
+   "how": "They can view award-level, country-level, and regional information, budget documents, and evaluations on ForeignAssistance.gov."
   },
   {
-   "group": "Members of the public interested in foreign aid spending",
-   "how": "They can find program summaries, budget documents, evaluations, and obligation and expenditure data on ForeignAssistance.gov."
-  },
-  {
-   "group": "The Government Accountability Office",
-   "how": "It must analyze the presidential guidelines and assess how agencies carry them out."
+   "group": "Program beneficiaries in countries receiving US foreign aid",
+   "how": "Their safety may be considered when agencies decide whether certain program details should be published online."
   }
  ],
- "when_it_takes_effect": "The State Department website update is due within 90 days of enactment on July 15, 2016. The presidential guidelines and report to Congress are due within 18 months, around January 2018. The sense-of-Congress data consolidation goal refers to the end of fiscal year 2018.",
+ "when_it_takes_effect": "The State Department website update is due within 90 days of enactment on July 15, 2016, and presidential guidelines are due within 18 months. The bill also expresses a sense of Congress that State and USAID should coordinate data collection by the end of fiscal year 2018.",
  "ceremonial": false,
  "confidence": "medium",
  "ai_generated": true,

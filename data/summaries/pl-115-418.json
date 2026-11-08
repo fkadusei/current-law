@@ -1,21 +1,21 @@
 {
- "headline": "A 2019 law requires lobbyists' registrations and quarterly reports to list certain past criminal convictions.",
- "what_it_does": "The law changes the lobbying disclosure forms. Each lobbyist registration and quarterly report must now include the date and description of any conviction of a listed lobbyist for offenses such as bribery, extortion, embezzlement, illegal kickbacks, tax evasion, fraud, conflicts of interest, false statements, perjury, or money laundering. The summary does not say how far back convictions must be reported.",
+ "headline": "A 2019 law requires lobbyists who have certain criminal convictions to disclose those convictions in their federal lobbying registrations and quarterly reports.",
+ "what_it_does": "The law changes the federal lobbying disclosure rules. When a lobbyist is listed on a registration or quarterly report, the filing must also include the date of any conviction and a description of the offense if that lobbyist was convicted of a listed crime. The listed crimes include bribery, extortion, embezzlement, illegal kickbacks, tax evasion, fraud, conflicts of interest, false statements, perjury, and money laundering.",
  "who_it_affects": [
   {
-   "group": "Registered lobbyists with a qualifying criminal conviction",
-   "how": "They must have their conviction date and offense listed on the lobbying registration and quarterly reports that cover them."
+   "group": "Registered federal lobbyists",
+   "how": "Lobbyists with a qualifying conviction must have that conviction, its date, and the offense described in the registration and quarterly reports they file."
   },
   {
-   "group": "Lobbying firms and organizations that file registrations and quarterly reports",
-   "how": "They must add the conviction information to the forms they file for any listed lobbyist with a qualifying conviction."
+   "group": "Lobbying firms and organizations that hire lobbyists",
+   "how": "Firms and organizations that file lobbying reports must include the new conviction details for any listed lobbyist who has a qualifying conviction."
   },
   {
-   "group": "The public and reporters who review lobbying disclosure records",
-   "how": "They can see conviction information for listed lobbyists in the public filings."
+   "group": "The public and journalists who track lobbying",
+   "how": "People who read federal lobbying filings can see past convictions of listed lobbyists for the covered offenses."
   }
  ],
- "when_it_takes_effect": "The law was enacted on January 3, 2019. The summary does not give a separate start date for the new reporting requirement.",
+ "when_it_takes_effect": "The law was enacted on January 3, 2019, and the summary does not list a separate start date for the new reporting requirement.",
  "ceremonial": false,
  "confidence": "medium",
  "ai_generated": true,

@@ -1,53 +1,53 @@
 {
- "headline": "A 2021 federal law that sends billions to roads, bridges, rail, transit, broadband, water, power grids, and many other infrastructure areas over several years.",
- "what_it_does": "The law provides new and renewed federal funding for many kinds of infrastructure, including highways, bridges, passenger and freight rail, public transit, airports, ports, drinking and wastewater systems, electric grids, broadband internet, and electric vehicle charging. It also reauthorizes many transportation safety and research programs, sets rules for commercial truck safety and vehicle safety features, and creates programs to clean up old pollution sites. Several parts add buy-American requirements for materials used in federally funded projects and require prevailing wages on certain projects. Most authorizations run through fiscal year 2026, with some running longer.",
+ "headline": "A large 2021 law that sets funding and rules for roads, bridges, rail, transit, broadband, water, energy grids, and many other infrastructure areas.",
+ "what_it_does": "The Infrastructure Investment and Jobs Act provides new federal money and reauthorizes existing programs through about fiscal year 2026 for transportation, energy, water, and broadband projects. It also sets rules for things like environmental reviews, domestic-content requirements for federally funded projects, and cleanup of abandoned mines and polluted sites. The law is organized into many divisions, and it also includes tax provisions, a set of appropriations for fiscal year 2022, and a minority business development section.",
  "who_it_affects": [
   {
-   "group": "Drivers and people who use highways and bridges",
-   "how": "Federal money is directed to repair and build roads and bridges and to fund safety programs such as pedestrian safety and wildlife-crossing projects."
+   "group": "State and local governments that build or maintain roads, bridges, transit, and water systems",
+   "how": "They can apply for federal grants and loans for these projects, and many grants come with conditions such as American-made materials or prevailing wage requirements."
   },
   {
-   "group": "Commercial truck drivers and trucking companies",
-   "how": "The law requires rules for automatic emergency braking on heavy trucks and creates an apprenticeship program for drivers under age 21."
+   "group": "Commuters and transit riders",
+   "how": "Public transit systems receive funding for buses, rail cars, and other services, which may affect service levels and vehicle upgrades in their areas."
   },
   {
-   "group": "Public transit riders and transit agencies",
-   "how": "Transit systems can receive federal grants for buses, rail cars, and related facilities, including low- or no-emission buses."
+   "group": "Households without reliable internet in rural and underserved areas",
+   "how": "Federal broadband grants are directed toward building service in areas that lack adequate access, and the Affordable Connectivity Benefit Program provides discounts on internet service for eligible households."
   },
   {
-   "group": "Amtrak riders and rail passengers",
-   "how": "The law authorizes grants for Amtrak service and sets rules such as a ban on smoking and vaping on Amtrak trains."
+   "group": "People who buy high-speed internet plans",
+   "how": "Providers must display broadband consumer labels that show plan prices and whether a rate is introductory."
   },
   {
-   "group": "Households and communities without reliable internet",
-   "how": "Federal grants fund broadband construction in unserved and underserved areas, and a monthly internet discount program was made permanent."
+   "group": "Drivers and motorcyclists",
+   "how": "New vehicles must eventually include certain crash-avoidance features, and the law sets safety programs aimed at distracted and impaired driving."
   },
   {
-   "group": "Households with low or moderate incomes served by water and sewer systems",
-   "how": "Funds are provided to help lower-income households connect to, or repair, drinking water and wastewater systems."
+   "group": "Commercial truck drivers and carriers",
+   "how": "The law requires a standard for automatic emergency braking on heavy trucks and creates an apprenticeship program for drivers under age 21."
   },
   {
-   "group": "Electric utilities and electricity customers",
-   "how": "Grants and incentives aim to make the power grid more reliable and to support transmission lines and energy storage."
+   "group": "Coal communities and abandoned mine areas",
+   "how": "Reclamation funding is provided to clean up abandoned coal mine land, and a new program addresses abandoned hard rock mines."
   },
   {
-   "group": "Coal communities and mine land owners",
-   "how": "A fee on coal companies that funds cleanup of abandoned mines is reduced and extended, and a program for abandoned hard rock mines is created."
+   "group": "Coal mining companies",
+   "how": "The fee they pay per ton of coal into the Abandoned Mine Reclamation Fund is reduced under the law."
   },
   {
-   "group": "Construction contractors and workers on federally funded projects",
-   "how": "Laborers and mechanics on covered projects must be paid locally prevailing wages, and iron, steel, and manufactured products must generally be made in the United States."
+   "group": "Tribal governments",
+   "how": "The law provides funding and streamlined reviews for tribal roads, bridges, and transportation safety projects."
   },
   {
-   "group": "State and local governments applying for federal infrastructure grants",
-   "how": "They can receive funding for many programs, but must follow new reporting, buy-American, and environmental review rules."
+   "group": "Minority-owned businesses",
+   "how": "The Minority Business Development Agency receives new authority and programs to help these businesses access capital, contracts, and grants."
   },
   {
-   "group": "Minority-owned and rural businesses",
-   "how": "The Minority Business Development Agency gets statutory authority and new programs for capital access, counseling, and rural business centers."
+   "group": "Companies that bid on federal infrastructure contracts",
+   "how": "They must use iron, steel, and manufactured products made in the United States on covered projects, unless a waiver applies."
   }
  ],
- "when_it_takes_effect": "Enacted November 15, 2021; the surface transportation division took effect October 1, 2021, and most programs are authorized through fiscal year 2026.",
+ "when_it_takes_effect": "Signed November 15, 2021; many surface transportation provisions are effective October 1, 2021, and most programs run through fiscal year 2026 or later, with some phased in on different schedules.",
  "ceremonial": false,
  "confidence": "medium",
  "ai_generated": true,

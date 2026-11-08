@@ -1,35 +1,43 @@
 {
- "headline": "This 2013 law changes how the federal government stores, sells, and manages helium, and it also makes several smaller changes to federal land, mining, and biofuel programs.",
- "what_it_does": "The law sets up a Helium Production Fund and requires the Interior Department to charge fees that cover the full cost of storing, withdrawing, or transporting helium. It sets a four-phase plan for selling helium from the federal reserve, including annual auctions to qualified bidders that grow until they cover all available helium from fiscal year 2020 on, and a phase that disposes of federal helium system assets by September 30, 2022. It also orders research on helium recovery, public reporting on helium prices and supply, and several one-time funding changes for schools, parks, abandoned wells, and mine cleanup.",
+ "headline": "This law changes how the federal government stores, sells, and manages helium, and it also extends several unrelated federal programs for rural schools, parks, and mines.",
+ "what_it_does": "The law directs the Interior Department to sell federal helium in phases, with auctions to qualified bidders that grow each year until all helium available is auctioned from fiscal year 2020 on, and it requires fees for storage, withdrawal, and transportation that cover the government's full costs. Money from helium sales and fees goes to a Helium Production Fund, and extra money is sent to the Treasury to help reduce the federal deficit. The law also sets a plan to dispose of federal helium facilities by September 30, 2021, funds research on helium recovery and separation, and extends several temporary programs, including rural school and road payments, abandoned well cleanup, national park maintenance cost-sharing, a cap change for mine reclamation payments, a temporary royalty rate for sodium compounds, and a reduction in an advanced biofuels grant authorization.",
  "who_it_affects": [
   {
-   "group": "Federal agencies that use helium",
-   "how": "They get priority pipeline access and in-kind purchase options, and the Interior Department must prepare a long-term plan for securing their helium supply."
+   "group": "Helium buyers, including medical, scientific, industrial, and commercial users",
+   "how": "They can buy crude helium from the federal reserve through sales and auctions, and the law sets the schedule and prices they will face."
   },
   {
-   "group": "Companies and qualified bidders that buy crude helium",
-   "how": "They can buy helium at auction and store it in the federal reserve, and they pay the fees that the Interior Department sets."
+   "group": "Qualified bidders and refiners",
+   "how": "They can bid in annual federal helium auctions and store purchased helium in the federal reserve, and refiners must make excess refining capacity available at commercially reasonable rates as a condition of purchase."
   },
   {
-   "group": "Helium refiners",
-   "how": "As a condition of buying crude helium, they must make excess refining capacity available to specified persons at commercially reasonable rates."
+   "group": "Federal agencies and federal helium users",
+   "how": "They get priority access to the federal helium pipeline and reserve, and they are asked to plan for long-term helium supply and possible shortages."
   },
   {
-   "group": "Counties and schools near federal land",
-   "how": "Certain federal payments for schools and roads, and related county fund authority, are extended through fiscal year 2013."
+   "group": "Counties and states with federal land",
+   "how": "Their payments for schools and roads are extended through fiscal year 2013 under the Secure Rural Schools Act."
   },
   {
-   "group": "Oil and gas operators on National Petroleum Reserve land",
-   "how": "The Energy Department receives funds to clean up and close abandoned wells on that land."
+   "group": "National Park Service visitors and park staff",
+   "how": "Parks can receive federal money for deferred maintenance projects, but at least half of each project's cost must come from non-federal sources."
   },
   {
-   "group": "States and tribes with coal mine reclamation programs",
-   "how": "Their fiscal year 2014 payments from the Abandoned Mine Reclamation Fund are capped at 75 million dollars each."
+   "group": "States and tribes that receive abandoned coal mine reclamation payments",
+   "how": "Their annual payment limits are waived for 2014 and 2015 but capped at set amounts for each year."
+  },
+  {
+   "group": "Producers of sodium compounds on federal land",
+   "how": "Their royalty rate is set at 4 percent for two years after enactment."
+  },
+  {
+   "group": "Natural gas producers and helium researchers",
+   "how": "The Energy Department will fund programs to capture helium from natural gas streams and reduce helium venting during gas operations."
   }
  ],
- "when_it_takes_effect": "Most provisions took effect on October 2, 2013, the date of enactment, with the auction and sale phases and the asset disposal phase running on the schedules set out in the law.",
+ "when_it_takes_effect": "The law was signed October 2, 2013, and many provisions began then, while others have later dates such as a one-time helium sale by August 1, 2014, the end of Phase A on October 1, 2014, and the disposal phase ending September 30, 2021.",
  "ceremonial": false,
- "confidence": "medium",
+ "confidence": "high",
  "ai_generated": true,
  "model": "claude-haiku-5-5",
  "written": "2026-11-08"

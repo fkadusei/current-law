@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Government Operations and Politics",
  "sponsor": "Rep. Khanna, Ro [D-CA-17]",
- "official_summary": " <p><strong>Quantum Computing Cybersecurity Preparedness Act</strong></p> <p>This bill addresses the migration of executive agencies' information technology systems to post-quantum cryptography. Post-quantum cryptography is encryption strong enough to resist attacks from quantum computers developed in the future. The bill does not apply to national security systems.</p> <p>The Office of Management and Budget (OMB) shall issue guidance on the migration of information technology to post-quantum cryptography.</p> <p>Each executive agency must maintain an inventory of all information technology in use by the executive agency that is vulnerable to decryption by quantum computers.</p> <p> After the National Institutes of Standards and Technology (NIST) has issued post-quantum cryptography standards, the OMB shall issue guidance requiring each executive agency to develop a plan to migrate information technology of the agency to post-quantum cryptography.</p> <p>OMB shall submit to Congress a report on</p> <ul> <li>a strategy to address the risk posed by the vulnerabilities of information technology of executive agencies to weakened encryption due to the potential and possible capability of a quantum computer to breach such encryption;</li> <li>the funding needed by executive agencies to secure such information technology from the risk posed by an adversary of the United States using a quantum computer to breach the encryption; and </li> <li> a description of federal civilian executive branch coordination efforts led by NIST, including timelines, to develop standards for post-quantum cryptography.</li> </ul>",
+ "official_summary": " <p><strong>Quantum Computing Cybersecurity Preparedness Act</strong></p> <p>This act addresses the migration of executive agencies' information technology systems to post-quantum cryptography. Post-quantum cryptography is encryption strong enough to resist attacks from quantum computers developed in the future. The act does not apply to national security systems.</p> <p>The Office of Management and Budget (OMB) shall issue guidance on the migration of information technology to post-quantum cryptography.</p> <p>Each executive agency must maintain an inventory of all information technology in use by the executive agency that is vulnerable to decryption by quantum computers.</p> <p> After the National Institutes of Standards and Technology (NIST) has issued post-quantum cryptography standards, the OMB shall issue guidance requiring each executive agency to develop a plan to migrate information technology of the agency to post-quantum cryptography.</p> <p>OMB shall submit to Congress a report on</p> <ul> <li>a strategy to address the risk posed by the vulnerabilities of information technology of executive agencies to weakened encryption due to the potential and possible capability of a quantum computer to breach such encryption;</li> <li>the funding needed by executive agencies to secure such information technology from the risk posed by an adversary of the United States using a quantum computer to breach the encryption; and </li> <li> a description of federal civilian executive branch coordination efforts led by NIST, including timelines, to develop standards for post-quantum cryptography.</li> </ul>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr7535enr/xml/BILLS-117hr7535enr.xml"
@@ -3516,23 +3516,23 @@
   "House": "D"
  },
  "summary": {
-  "headline": "A 2022 law requires federal agencies to inventory and eventually move their computer systems to encryption that can resist future quantum computers.",
-  "what_it_does": "The law applies to executive branch agencies and does not cover national security systems. It directs the Office of Management and Budget to issue guidance on moving federal technology to post-quantum cryptography, which is encryption designed to withstand attacks from future quantum computers. Each agency must keep an inventory of its technology that could be broken by quantum computers. After the National Institute of Standards and Technology issues post-quantum standards, agencies must develop plans to migrate their systems. OMB must also report to Congress on the strategy, funding needs, and coordination timelines.",
+  "headline": "A 2022 federal law requires executive agencies to prepare their computer systems for encryption that future quantum computers could not easily break.",
+  "what_it_does": "The law addresses moving federal executive agency computer systems to post-quantum cryptography, which is encryption designed to resist future quantum computers. Each agency must keep an inventory of its information technology that could be decrypted by quantum computers. After the National Institute of Standards and Technology issues post-quantum standards, the Office of Management and Budget must direct agencies to create migration plans. The law does not apply to national security systems.",
   "who_it_affects": [
    {
-    "group": "Federal civilian executive agencies",
-    "how": "They must inventory vulnerable systems, and once standards are issued, they must develop plans to move those systems to post-quantum encryption."
+    "group": "Federal executive agencies",
+    "how": "Each agency must inventory its technology vulnerable to quantum decryption and, once guidance is issued, develop a plan to migrate to post-quantum cryptography."
    },
    {
-    "group": "Federal IT staff and contractors",
-    "how": "They may be involved in identifying, planning, and carrying out the switch to new encryption methods."
+    "group": "Office of Management and Budget",
+    "how": "The office must issue guidance on migrating to post-quantum cryptography and report to Congress on risks, funding needs, and coordination timelines."
    },
    {
-    "group": "Members of the public who use federal online services",
-    "how": "Over time, the government systems they use for data such as tax, benefit, or personal records are expected to be protected by newer encryption."
+    "group": "National Institute of Standards and Technology",
+    "how": "The institute leads federal coordination on developing post-quantum cryptography standards, which triggers the agency migration requirements."
    }
   ],
-  "when_it_takes_effect": "The law was enacted on December 21, 2022. Agency migration plans are required only after NIST issues post-quantum cryptography standards and OMB issues follow-up guidance, so specific deadlines depend on those later steps.",
+  "when_it_takes_effect": "Enacted December 21, 2022; agency migration plans are required only after NIST issues the post-quantum standards and OMB issues its guidance.",
   "ceremonial": false,
   "confidence": "medium",
   "ai_generated": true,

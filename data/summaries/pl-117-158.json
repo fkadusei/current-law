@@ -1,27 +1,31 @@
 {
- "headline": "The source text describes a veterans burial measure, but the title given is a child nutrition act, so the match is unclear.",
- "what_it_does": "The summary provided describes a bill that bars the Department of Veterans Affairs from setting grant conditions that stop states from burying certain National Guard and Reserve members, and some of their family members, in state veterans' cemeteries just because they cannot be buried in a national cemetery. It also bars the VA from denying a grant only because a state might use the funds to expand or run a cemetery that allows these burials, and from enforcing some conditions on older state cemetery grants. The bill adds plot allowances for burials at cemeteries that accept these individuals, including on tribal trust land. The title given, Keep Kids Fed Act of 2022, does not match this summary, so the summary may belong to a different bill and this explanation should be checked against the official text.",
+ "headline": "A 2022 law raised school meal and child care food payments for the 2022-2023 school year and extended some COVID-19 food program waivers.",
+ "what_it_does": "The law raises the federal reimbursement rate for school lunches by 40 cents and for school breakfasts by 15 cents starting in July 2022. It raises the reimbursement rate for meals and snacks in the Child and Adult Care Food Program by 10 cents, and moves tier II family or group day care homes up to tier I rates for 2022-2023. It also extends USDA's authority to waive certain program rules tied to COVID-19 on dates ranging from June 2022 to June 2023, and it cancels some unused funds from earlier COVID-19 laws.",
  "who_it_affects": [
   {
-   "group": "National Guard and reserve members discharged under conditions other than dishonorable",
-   "how": "They could be buried in state-owned veterans' cemeteries even if they are not eligible for a national cemetery."
+   "group": "Public and private schools that take part in the National School Lunch and School Breakfast programs",
+   "how": "They receive higher federal payments for each lunch and breakfast they serve during the 2022-2023 school year."
   },
   {
-   "group": "Spouses, minor children, and unmarried adult children of covered guard and reserve members",
-   "how": "They could be interred alongside eligible members at state veterans' cemeteries under the same rules."
+   "group": "Child care centers and day care homes in the Child and Adult Care Food Program",
+   "how": "They receive a higher federal payment for each meal and snack, and tier II family or group day care homes are paid at tier I rates for 2022-2023."
   },
   {
-   "group": "State governments that run veterans' cemeteries",
-   "how": "The VA cannot use grant conditions to block them from allowing these burials or deny grants only because of expansion plans."
+   "group": "Students who eat school meals",
+   "how": "Schools may keep certain COVID-19 meal flexibilities in place for a limited time, such as waivers tied to summer meals and food supply disruptions."
   },
   {
-   "group": "Tribal organizations with trust land",
-   "how": "Veterans' cemeteries on trust land that accept these individuals may qualify for plot allowances."
+   "group": "Parents and school leaders",
+   "how": "USDA must help them move back to normal school meal operations as COVID-19 waivers end."
+  },
+  {
+   "group": "Agencies that had unused COVID-19 funds",
+   "how": "Certain funds previously given to USDA, the Department of Education, and the Small Business Administration are canceled."
   }
  ],
- "when_it_takes_effect": null,
+ "when_it_takes_effect": "Upon enactment on June 25, 2022; the rate increases apply to the school year beginning in July 2022, and waiver deadlines run from June 30, 2022 to June 30, 2023.",
  "ceremonial": false,
- "confidence": "low",
+ "confidence": "high",
  "ai_generated": true,
  "model": "claude-haiku-5-5",
  "written": "2026-11-08"

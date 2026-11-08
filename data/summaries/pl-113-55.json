@@ -1,33 +1,33 @@
 {
- "headline": "This law renews and updates federal programs on premature births, creates a pediatric research network, and changes how the government cares for chimpanzees used in NIH research.",
- "what_it_does": "Title I reauthorizes federal research and education on preterm births, directs CDC to study and track them, gives telehealth grant preference for prenatal care for high-risk pregnancies, and replaces an older interagency council with a possible advisory committee. Title II lets NIH fund pediatric research consortia that share findings and run multisite trials, especially for rare pediatric and birth-defect conditions. Title III revises the sanctuary system for chimpanzees owned by NIH, sets declining funding amounts for FY2014 through FY2018, and requires GAO and NIH reports on costs and chimpanzee status.",
+ "headline": "A 2013 law that renews federal preterm birth research and telehealth programs, sets up a pediatric research network, and updates care rules for NIH-owned chimpanzees.",
+ "what_it_does": "The law reauthorizes federal research on premature births, which the CDC and HHS carry out, and lets HHS fund demonstration projects that educate providers and families about preterm labor, NICU care, and birth injury prevention. It lets HHS support pregnancy information services and telehealth networks that provide prenatal care for high-risk pregnancies. It creates a National Pediatric Research Network through NIH, funds research consortia, and asks them to help the CDC with patient registries. It also changes how NIH-owned chimpanzees are cared for, sets declining funding amounts for FY2014 to FY2018, and requires reports to Congress.",
  "who_it_affects": [
   {
    "group": "Pregnant people with high-risk pregnancies",
-   "how": "Telehealth grant programs are directed to favor projects that build networks providing prenatal care for them."
+   "how": "They may be served by telehealth networks that offer prenatal care, which grant applicants can be given preference for building."
   },
   {
-   "group": "Families of premature infants in neonatal intensive care units",
-   "how": "Federal demonstration projects may fund education on infant treatment outcomes and informational needs during NICU stays."
+   "group": "Families of premature infants, especially those in neonatal intensive care units",
+   "how": "Federally supported education and information programs are authorized to address their needs while a baby is in the NICU."
   },
   {
-   "group": "Health care providers",
-   "how": "Federally supported programs may give them information on preterm labor risk factors and evidence-based birth injury prevention."
+   "group": "Health care providers who treat pregnant patients and newborns",
+   "how": "Federally supported programs may give them education on preterm labor, medically indicated early deliveries, and treatments for premature infants."
   },
   {
    "group": "Pediatric researchers and academic institutions",
-   "how": "Groups of cooperating institutions may apply for NIH funding for five-year pediatric research consortia."
+   "how": "Public and private nonprofit groups can receive five-year NIH funding to form multisite pediatric research consortia."
   },
   {
-   "group": "Families affected by pediatric rare diseases or birth defects",
-   "how": "NIH must ensure some consortium awards go to work on these conditions, including multisite clinical trials."
+   "group": "Patients with pediatric rare diseases or birth defects",
+   "how": "NIH must ensure some consortium awards go to groups that study these conditions or run multisite clinical trials for them."
   },
   {
-   "group": "Chimpanzees owned or controlled by NIH and their sanctuary operators",
-   "how": "Funding for their lifetime care is set to decline over FY2014 to FY2018, and the Secretary decides which other facilities receive funds."
+   "group": "Nonprofit operators of chimpanzee sanctuaries that house NIH-owned chimpanzees",
+   "how": "Their funding shifts to declining annual amounts, and the Secretary, not the operator's board, decides how other compliant facilities are funded."
   }
  ],
- "when_it_takes_effect": "Upon enactment on November 27, 2013, with some funding and reporting provisions running through fiscal years 2014 to 2018.",
+ "when_it_takes_effect": "The summary does not give a general effective date. It was enacted November 27, 2013, and some funding authorizations run from FY2014 through FY2018.",
  "ceremonial": false,
  "confidence": "medium",
  "ai_generated": true,

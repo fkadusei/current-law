@@ -1,73 +1,65 @@
 {
- "headline": "Public Law 115-141 is a large omnibus spending law that funds most federal agencies for the rest of fiscal year 2018 and bundles many unrelated policy changes.",
- "what_it_does": "The law provides fiscal year 2018 money for federal agencies, including Agriculture, Commerce and Justice, Defense, Energy and Water, Financial Services, Homeland Security, Interior and Environment, Labor and HHS, Legislative Branch, Military Construction and Veterans Affairs, State and foreign operations, and Transportation and Housing. It also extends expiring programs such as the National Flood Insurance Program, certain aviation taxes, immigration programs, and the Generalized System of Preferences. In addition, it includes many separate policy measures on topics such as background checks, school safety, broadband and spectrum, wildfire management, opioid-related services, and Medicare payments.",
+ "headline": "A massive 2018 spending law that funded federal agencies for the rest of fiscal 2018 and also made many unrelated policy changes across dozens of areas.",
+ "what_it_does": "This law, called the Consolidated Appropriations Act, 2018, provides money for federal agencies for the remainder of fiscal year 2018, which ended September 30, 2018. It is organized into many divisions covering agriculture, commerce and justice, defense, energy and water, financial services, homeland security, the Interior and environment, labor and health, legislative branch, veterans affairs, state and foreign operations, and transportation and housing. It also extends many expiring programs, including the National Flood Insurance Program, FAA programs, pesticide fees, and customs user fees, and adds policy provisions on topics such as background checks, school safety, wildfire management, Medicare payments, and small business rules.",
  "who_it_affects": [
   {
-   "group": "Federal agency employees and federal programs",
-   "how": "Their agencies receive fiscal year 2018 funding levels and spending rules set by the division-by-division appropriations."
+   "group": "Federal employees and federal agencies",
+   "how": "Agencies receive fiscal 2018 funding and must follow many new limits on travel, contracting, reprogramming of funds, and reporting to Congress."
   },
   {
    "group": "Members of Congress",
-   "how": "The law bars cost-of-living pay adjustments for Members of Congress during fiscal year 2018."
-  },
-  {
-   "group": "People who receive SNAP, WIC, or school meals",
-   "how": "The law sets funding and rules for these nutrition programs, including limits on school lunch pricing changes and retailer stocking standards."
-  },
-  {
-   "group": "Flood insurance policyholders",
-   "how": "The National Flood Insurance Program is extended through July 31, 2018."
-  },
-  {
-   "group": "Air travelers and the aviation industry",
-   "how": "Federal aviation programs and aviation excise taxes are extended through fiscal year 2018."
-  },
-  {
-   "group": "Students and borrowers",
-   "how": "The law changes Pell grant rules, Public Service Loan Forgiveness outreach, and certain school default-rate waivers."
-  },
-  {
-   "group": "Medicare beneficiaries and health providers",
-   "how": "The law sets Medicare pass-through payment rules for certain new drugs and biologicals."
+   "how": "Their cost of living adjustments are prohibited for fiscal 2018."
   },
   {
    "group": "Veterans",
-   "how": "The law funds VA programs and includes changes such as a ban on certain fees for veterans identification cards and new mental health care requirements."
+   "how": "The law funds VA benefits and health care and includes provisions on VA hiring, medical facilities, and burial eligibility for some naturalized Hmong veterans."
   },
   {
-   "group": "Gun buyers and firearm dealers",
-   "how": "The Fix NICS provisions change how federal agencies and states submit records to the National Instant Criminal Background Check System."
+   "group": "Farmers and rural residents",
+   "how": "USDA programs for crop insurance, rural housing, rural utilities, and nutrition assistance receive funding, along with some changes to program rules."
   },
   {
-   "group": "Small businesses and business development companies",
-   "how": "The law lowers the asset-coverage ratio for qualifying business development companies and changes Microloan technical assistance limits."
+   "group": "Families receiving federal nutrition or housing help",
+   "how": "Funding is provided for SNAP, WIC, school meal programs, and HUD housing programs, with several rule changes attached."
   },
   {
-   "group": "Families of people with Alzheimer's or developmental disabilities",
+   "group": "Small businesses",
+   "how": "Provisions address Small Business Administration microloan technical assistance, Business Development Company rules, and SEC small business capital access after natural disasters."
+  },
+  {
+   "group": "Homeowners and flood insurance policyholders",
+   "how": "The National Flood Insurance Program is extended through July 31, 2018."
+  },
+  {
+   "group": "Airline passengers and airport operators",
+   "how": "FAA aviation programs and related taxes are extended through fiscal 2018."
+  },
+  {
+   "group": "Students and schools",
+   "how": "Funding covers federal education programs, and provisions address school safety grants, Pell grant rules, and student loan forgiveness outreach."
+  },
+  {
+   "group": "Workers and employers",
+   "how": "Labor rules change for H-2B seafood workers, tipped employees, and certain baseball players' minimum wage exemption."
+  },
+  {
+   "group": "People with Alzheimer's or developmental disabilities who may wander",
    "how": "The Missing Alzheimer's Disease Patient Alert Program is renamed and reauthorized as the Missing Americans Alert Program."
   },
   {
-   "group": "Amateur athletes and youth sports organizations",
-   "how": "The Keep Young Athletes Safe Act authorizes a DOJ grant to oversee abuse safeguards."
+   "group": "Gun buyers and federal agencies that report records",
+   "how": "Agencies must certify and report disqualifying records to the national background check system, and related grant programs are updated."
   },
   {
-   "group": "Palestinian Authority",
-   "how": "Certain foreign assistance directly benefiting the Palestinian Authority is restricted unless the State Department certifies specified steps are taken."
+   "group": "Foreign aid recipients and the Palestinian Authority",
+   "how": "Certain aid is limited unless the State Department certifies steps related to payments for acts of terrorism."
   },
   {
-   "group": "Broadband providers and wireless carriers",
-   "how": "The MOBILE NOW provisions require spectrum identification and easier access to federal property for communications facilities."
-  },
-  {
-   "group": "Wildfire-prone communities and forest users",
-   "how": "The Wildfire Suppression Funding Act sets new hazardous fuel reduction and stewardship contracting rules on national forests and BLM lands."
-  },
-  {
-   "group": "Tipped workers and restaurant employers",
-   "how": "The Tipped Employees provision bars employers, including managers and supervisors, from keeping any portion of employee tips."
+   "group": "Wireless and broadband users and providers",
+   "how": "The FCC, NTIA, and Commerce must identify spectrum and carry out studies, and rules on unlicensed use and caller ID are revised."
   }
  ],
- "when_it_takes_effect": "Most appropriations apply to fiscal year 2018, which runs from October 1, 2017 through September 30, 2018, and the law was enacted March 23, 2018; individual provisions set their own effective dates.",
+ "when_it_takes_effect": "Signed into law on March 23, 2018. Appropriations apply to fiscal year 2018, and many provisions run through fiscal 2018, 2019, or later years depending on the section.",
  "ceremonial": false,
  "confidence": "medium",
  "ai_generated": true,

@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "International Affairs",
  "sponsor": "Rep. Foxx, Virginia [R-NC-5]",
- "official_summary": " <p><b>War Crimes Rewards Expansion Act</b></p> <p>This bill expands the Department of State's rewards program to authorize rewards for providing information leading to the arrest, conviction, or transfer of a foreign national accused of war crimes, crimes against humanity, or genocide as such crimes are defined under the law of an international criminal tribunal, the applicable country, or the United States. Currently, rewards are authorized for information leading to the arrest, conviction, or transfer of a foreign national accused of such crimes only as defined under the statutes of the relevant tribunal.</p>",
+ "official_summary": " <p><b>War Crimes Rewards Expansion Act</b></p> <p>This act expands the Department of State's rewards program to authorize rewards for providing information leading to the arrest, conviction, or transfer of a foreign national accused of war crimes, crimes against humanity, or genocide as such crimes are defined under the law of an international criminal tribunal, the applicable country, or the United States. Currently, rewards are authorized for information leading to the arrest, conviction, or transfer of a foreign national accused of such crimes only as defined under the statutes of the relevant tribunal.</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-117hr4250enr/xml/BILLS-117hr4250enr.xml"
@@ -3525,23 +3525,23 @@
   "House": "D"
  },
  "summary": {
-  "headline": "A law that lets the State Department offer cash rewards for tips leading to the arrest or transfer of foreign nationals accused of war crimes under a wider set of legal definitions.",
-  "what_it_does": "The law expands the State Department's existing rewards program. Before, rewards could be offered only when the accused person's crimes were defined under the statutes of an international criminal tribunal. Now rewards can also cover crimes as defined under the law of the country where they occurred or under U.S. law.",
+  "headline": "This law lets the State Department offer rewards for information leading to the arrest or transfer of foreign nationals accused of war crimes, crimes against humanity, or genocide.",
+  "what_it_does": "The law expands the State Department's existing rewards program. Before, rewards could be offered only when the accused person's alleged crimes were defined under the rules of an international criminal tribunal. Now the crimes can also be defined under the law of the country involved or under US law. The rewards are for information that leads to an arrest, conviction, or transfer of the accused person.",
   "who_it_affects": [
    {
-    "group": "People who have information about foreign nationals accused of war crimes, crimes against humanity, or genocide",
-    "how": "They may be eligible for a State Department reward if their information leads to an arrest, conviction, or transfer of the accused person."
-   },
-   {
     "group": "Foreign nationals accused of war crimes, crimes against humanity, or genocide",
-    "how": "They can now be the subject of a reward offer under a broader set of legal definitions of these crimes."
+    "how": "People who are accused of these crimes under a wider set of legal definitions could become eligible for a reward offered for information leading to their arrest, conviction, or transfer."
    },
    {
-    "group": "Department of State",
-    "how": "It has broader authority to set up and pay rewards for information about these accused individuals."
+    "group": "People who have information about accused war criminals",
+    "how": "Individuals who provide information that leads to an arrest, conviction, or transfer of such a person may be eligible for a State Department reward."
+   },
+   {
+    "group": "The Department of State",
+    "how": "The department's rewards program covers a broader range of accused individuals and legal definitions than it did before."
    }
   ],
-  "when_it_takes_effect": "The summary does not give a separate start date, so the law appears to have taken effect when it was signed on December 27, 2022.",
+  "when_it_takes_effect": "The law took effect when it was enacted on December 27, 2022.",
   "ceremonial": false,
   "confidence": "medium",
   "ai_generated": true,

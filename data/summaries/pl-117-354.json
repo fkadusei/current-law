@@ -1,21 +1,25 @@
 {
- "headline": "A 2023 law requires the FBI to use a team approach for child abuse cases and renews federal grants for children's advocacy centers.",
- "what_it_does": "The law requires the Federal Bureau of Investigation to use a multidisciplinary team when it investigates child abuse and related crimes. A multidisciplinary team brings together people from different fields to work on a case. The law also reauthorizes grants for children's advocacy centers, which coordinate how child abuse cases are investigated, treated, and prosecuted.",
+ "headline": "This law requires the FBI to use specialized child-abuse investigation teams and extends federal grants for children's advocacy centers through 2028.",
+ "what_it_does": "The FBI must use a multidisciplinary team and a trained child forensic interviewer in investigations of child sexual exploitation, abuse, child sexual abuse material, and child trafficking. These requirements do not apply if such a team or interviewer is unavailable or would conflict with federal law. The law also reauthorizes grants for regional and local children's advocacy centers, which coordinate investigation, treatment, and prosecution of child abuse cases, through fiscal year 2028. It adds new grant goals such as supporting state chapters, building a network of care for abuse victims, and setting practice standards.",
  "who_it_affects": [
   {
-   "group": "Children who have been abused and their families",
-   "how": "FBI child abuse investigations must use a team approach that includes multiple professional fields."
+   "group": "Children who are victims of abuse, exploitation, or trafficking",
+   "how": "FBI child-abuse investigations must use a multidisciplinary team and a trained child forensic interviewer when those requirements can be met."
   },
   {
    "group": "Children's advocacy centers",
-   "how": "These centers can receive renewed federal grant funding under the law."
+   "how": "These centers can receive federal grants through fiscal year 2028, and regional centers are asked to support state chapters."
   },
   {
-   "group": "FBI agents and staff who investigate child abuse and related crimes",
-   "how": "They must work with a multidisciplinary team when handling these cases."
+   "group": "FBI agents investigating child crimes",
+   "how": "They must coordinate with multidisciplinary teams, often based at advocacy centers, in covered cases unless a team or interviewer is unavailable."
+  },
+  {
+   "group": "Office of Juvenile Justice and Delinquency Prevention",
+   "how": "This office must administer the advocacy center grants under the new program goals and selection criteria."
   }
  ],
- "when_it_takes_effect": "The law was enacted on January 5, 2023; the official summary does not list any later effective dates.",
+ "when_it_takes_effect": "Enacted January 5, 2023; grant reauthorization runs through fiscal year 2028.",
  "ceremonial": false,
  "confidence": "medium",
  "ai_generated": true,

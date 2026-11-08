@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Labor and Employment",
  "sponsor": "Sen. Alexander, Lamar [R-TN]",
- "official_summary": " <p>(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)</p> <p><b>WIOA Technical Amendments Act</b></p> <p>(Sec. 2) This bill amends the Workforce Innovation and Opportunity Act (WIOA) to revise requirements for local workforce development area boards involved in statewide workforce investment activities as well as youth, adult, and dislocated worker employment and training activities.</p> <p>A state may use as an alternative workforce development board only a local entity (including a local council, regional workforce development board, or similar entity) that was in existence the day before enactment of the Workforce Investment Act of 1998. Currently such an alternative local entity is eligible for designation as a local workforce development board if it has been in existence as late as the day before the enactment of the WIOA on July 22, 2014.</p> <p>Certain technical amendments are made to performance accountability requirements for statewide and local workforce investment programs.</p> <p>The Department of Labor shall ensure that states receive an allotment for a fiscal year for adult employment and training activities and for dislocated worker employment and training activities and statewide workforce investment activities equal to at least 90% of the state's allotment for the preceding fiscal year.</p> <p>(Sec. 3) This bill also amends the Rehabilitation Act of 1973 with respect to the terms of service requirements for members of the National Council on Disability, making them (unchanged in detail) effective only as of July 21, 2014.</p>",
+ "official_summary": " <p>(This measure has not been amended since it was passed by the Senate on May 6, 2015. The summary of that version is repeated here.)</p> <p><b>WIOA Technical Amendments Act</b></p> <p>(Sec. 2) This bill amends the Workforce Innovation and Opportunity Act (WIOA) to revise requirements for local workforce development areas involved in statewide workforce investment activities as well as youth, adult, and dislocated worker employment and training activities.</p> <p>The governor of a state may approve a request for local workforce development area designation of any area served by a rural concentrated employment program.</p> <p>Local workforce development boards requirements are revised. </p> <p>A state may use as an alternative workforce development board only a local entity (including a local council, regional workforce development board, or similar entity) that was in existence the day before enactment of the Workforce Investment Act of 1998. Currently such an alternative local entity is eligible for designation as a local workforce development board if it has been in existence as late as the day before the enactment of the WIOA on July 22, 2014.</p> <p>Certain technical amendments are made to performance accountability requirements for statewide and local workforce investment programs.</p> <p>The Department of Labor shall ensure that states receive an allotment for a fiscal year for adult employment and training activities and for dislocated worker employment and training activities and statewide workforce investment activities equal to at least 90% of the state's allotment for the preceding fiscal year.</p> <p>(Sec. 3) This bill also amends the Rehabilitation Act of 1973 with respect to the terms of service requirements for members of the National Council on Disability, making them (unchanged in detail) effective only as of July 21, 2014.</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-114s1124enr/xml/BILLS-114s1124enr.xml"
@@ -37,31 +37,27 @@
  "party_color": null,
  "control": {},
  "summary": {
-  "headline": "A 2015 law that makes technical fixes to the Workforce Innovation and Opportunity Act, the federal job training law, and sets funding and term rules for a disability advisory council.",
-  "what_it_does": "The law limits which local groups a state can use as an alternative workforce board to those that already existed the day before the Workforce Investment Act of 1998 was enacted. It also makes technical changes to how states and local programs are measured for performance. It requires the Department of Labor to give states funding for adult job training, dislocated worker programs, and statewide workforce activities that is at least 90% of the prior year's amount. It also sets an effective date of July 21, 2014 for certain terms of service for members of the National Council on Disability.",
+  "headline": "A technical law that fixes rules for federal job training programs and adjusts terms for the National Council on Disability.",
+  "what_it_does": "The law changes the Workforce Innovation and Opportunity Act, which funds job training and employment services. It revises rules for local workforce areas and local workforce boards, and it lets governors approve certain rural areas served by rural concentrated employment programs. It also sets a minimum funding level of 90% of the prior year's amount for adult, dislocated worker, and statewide workforce activities, and it changes the terms of service for National Council on Disability members.",
   "who_it_affects": [
    {
-    "group": "State governments that run workforce programs",
-    "how": "They must follow the narrower rules for choosing alternative local workforce boards and the updated performance reporting requirements."
+    "group": "State governments and governors",
+    "how": "They must follow the revised rules for designating local workforce areas and may approve rural concentrated employment program areas for designation."
    },
    {
     "group": "Local workforce development boards",
-    "how": "Boards that serve as alternatives to standard local boards must meet the revised eligibility rules tied to 1998 and 2014 dates."
+    "how": "Their membership and eligibility rules are revised, including which existing local entities can serve as an alternative board."
    },
    {
-    "group": "Adults seeking job training",
-    "how": "States are guaranteed funding for adult employment and training that is at least 90% of the previous year's allotment."
-   },
-   {
-    "group": "Workers who lost their jobs (dislocated workers)",
-    "how": "States are guaranteed dislocated worker funding that is at least 90% of the previous year's allotment."
+    "group": "Adults, dislocated workers, and youth in job training programs",
+    "how": "The changes to performance accountability rules and funding allotments affect the programs that serve them."
    },
    {
     "group": "Members of the National Council on Disability",
-    "how": "Their terms of service are set to take effect as of July 21, 2014."
+    "how": "Their terms of service requirements are revised and made effective as of July 21, 2014."
    }
   ],
-  "when_it_takes_effect": "Enacted May 22, 2015; the National Council on Disability term provision is effective as of July 21, 2014.",
+  "when_it_takes_effect": "The law was enacted on May 22, 2015. The National Council on Disability term changes apply as of July 21, 2014.",
   "ceremonial": false,
   "confidence": "medium",
   "ai_generated": true,

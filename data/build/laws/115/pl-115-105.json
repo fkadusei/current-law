@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Transportation and Public Works",
  "sponsor": "Sen. Cornyn, John [R-TX]",
- "official_summary": " <b><br />Jobs for Our Heroes Act</b> <p>This bill amends the FAST Act to require the medical professional who may perform a medical examination and provide a medical certificate for purposes of compliance with requirements for operation by a veteran of a commercial motor vehicle to be a \"qualified examiner\" who:</p> <ul> <li>is employed by the Department of Veterans Affairs as a medical professional; and </li> <li>is licensed, certified, or registered in a state to perform physical examinations. </li></ul> <p> The bill applies commercial driver's license standards for former members of the Armed Forces or reserves to current members of the Armed Forces or reserves.</p> <p>The bill allows such covered individuals who have experience in driving vehicles similar to a commercial motor vehicle while serving in the Armed Forces or reserves to apply for an exemption from all or a portion of federal commercial motor vehicle driving test requirements.</p>",
+ "official_summary": " <b><br />Jobs for Our Heroes Act</b> <p>(Sec. 2) This bill amends the FAST Act to require the medical professional who may perform a medical examination and provide a medical certificate for purposes of compliance with requirements for operation by a veteran of a commercial motor vehicle to be a \"qualified examiner\" who:</p> <ul> <li>is employed by the Department of Veterans Affairs as a medical professional; and </li> <li>is licensed, certified, or registered in a state to perform physical examinations. </li></ul> <p>(Sec. 3) The bill applies commercial driver's license standards for former members of the Armed Forces or reserves to current members of the Armed Forces or reserves.</p> <p>The bill allows such covered individuals who have experience in driving vehicles similar to a commercial motor vehicle while serving in the Armed Forces or reserves to apply for an exemption from all or a portion of federal commercial motor vehicle driving test requirements.</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-115s1393enr/xml/BILLS-115s1393enr.xml"
@@ -3520,23 +3520,27 @@
   "House": "R"
  },
  "summary": {
-  "headline": "This 2018 law changes who can give medical exams to veterans who drive commercial vehicles and lets service members with military driving experience seek exemptions from some federal driving tests.",
-  "what_it_does": "The law amends the FAST Act so that the medical professional who examines and certifies a veteran for operating a commercial motor vehicle must be employed by the Department of Veterans Affairs and licensed, certified, or registered in a state to perform physical exams. It extends commercial driver's license standards that apply to former military members to people who are currently serving in the Armed Forces or reserves. It also lets current service members and reservists who have driven vehicles similar to commercial motor vehicles apply for an exemption from all or part of the federal commercial driving test requirements.",
+  "headline": "This 2018 law changes who can give veterans their commercial driving medical exams and lets current service members apply for exemptions from some federal commercial driving tests.",
+  "what_it_does": "The law changes the FAST Act so that a veteran's medical examination and medical certificate for operating a commercial motor vehicle must come from a \"qualified examiner.\" That person must be employed by the Department of Veterans Affairs as a medical professional and must be licensed, certified, or registered in a state to perform physical exams. The law also applies commercial driver's license standards for former service members to current members of the Armed Forces and reserves. Current members who have experience driving vehicles similar to commercial motor vehicles may apply for an exemption from all or part of the federal commercial driving test requirements.",
   "who_it_affects": [
    {
-    "group": "Veterans who operate commercial motor vehicles",
-    "how": "They must have their medical certificate issued by a qualified VA medical professional who is also state-licensed for physical exams."
+    "group": "Veterans who need a medical certificate to operate a commercial motor vehicle",
+    "how": "Their required medical exam must now be given by a qualified examiner who works for the VA as a medical professional and holds a state license, certification, or registration for physical exams."
    },
    {
-    "group": "Department of Veterans Affairs medical professionals",
-    "how": "They are the professionals who may perform these commercial motor vehicle medical examinations and issue certificates under the law."
+    "group": "VA medical professionals",
+    "how": "Those who meet the qualified examiner requirements may be the ones authorized to perform these commercial driving medical exams."
    },
    {
-    "group": "Current members of the Armed Forces and reserves who drive commercial-type vehicles",
-    "how": "They can apply for commercial driver's license standards that were previously available only to former military members, and they can request an exemption from all or part of the federal driving test requirements based on their military driving experience."
+    "group": "Current members of the Armed Forces and reserves who want a commercial driver's license",
+    "how": "They are covered by the commercial driver's license standards that previously applied to former service members."
+   },
+   {
+    "group": "Current service members with driving experience similar to commercial motor vehicles",
+    "how": "They may apply for an exemption from all or part of the federal commercial motor vehicle driving test requirements."
    }
   ],
-  "when_it_takes_effect": null,
+  "when_it_takes_effect": "The summary does not state a specific effective date. The law was enacted on January 8, 2018.",
   "ceremonial": false,
   "confidence": "medium",
   "ai_generated": true,

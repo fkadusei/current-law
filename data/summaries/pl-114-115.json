@@ -1,33 +1,37 @@
 {
- "headline": "A 2015 federal law that changes several Medicare and Medicaid payment, fraud, and data rules, including wheelchair billing and radiation therapy adjustments.",
- "what_it_does": "The law temporarily exempts certain wheelchair accessories and cushions for Group 3 power wheelchairs from a Medicare payment adjustment and orders a government study of them. It blocks certain radiation therapy services from being labeled potentially misvalued in 2017 or 2018, and lets Medicare exempt some doctors from electronic health records requirements for 2017. It also sets new criminal penalties of up to 10 years in prison and fines up to $500,000 for illegally buying or selling Medicare, Medicaid, or CHIP beneficiary IDs or billing privileges, and it expands data sharing between Medicare and Medicaid for fraud review.",
+ "headline": "A 2015 federal law changing several Medicare and Medicaid rules, including wheelchair payments, radiation therapy adjustments, electronic health records, and fraud prevention.",
+ "what_it_does": "The law temporarily exempts certain wheelchair accessories and cushions for Group 3 power wheelchairs from a Medicare payment adjustment and orders a government study of them. It blocks certain payment changes for radiation therapy services in 2017 and 2018 and lets Medicare exempt some doctors from electronic health records requirements for 2017. It also adds criminal penalties for illegally buying or selling Medicare, Medicaid, or CHIP patient IDs or billing privileges, and expands data sharing for fraud detection between Medicare and Medicaid.",
  "who_it_affects": [
   {
-   "group": "Medicare beneficiaries who use Group 3 complex rehabilitative power wheelchairs",
-   "how": "Certain wheelchair accessories and seat and back cushions for these chairs are temporarily exempt from a Medicare payment adjustment."
+   "group": "Medicare patients who use Group 3 complex rehabilitative power wheelchairs",
+   "how": "Certain accessories and seat and back cushions for these wheelchairs are temporarily exempt from a Medicare payment adjustment."
   },
   {
-   "group": "Radiation therapy providers and Medicare patients receiving radiation therapy",
-   "how": "Certain radiation therapy services cannot be targeted for Medicare payment adjustments as potentially misvalued services in 2017 or 2018."
+   "group": "Medicare patients receiving radiation therapy and the providers who give it",
+   "how": "Certain radiation therapy services cannot be treated as potentially overpaid services for Medicare fee changes in 2017 or 2018."
   },
   {
-   "group": "Eligible professionals who use electronic health records under Medicare",
-   "how": "For 2017, Medicare may exempt whole categories of these professionals from meaningful use requirements that would otherwise lead to payment reductions."
+   "group": "Eligible doctors and other professionals who use electronic health records under Medicare",
+   "how": "CMS may exempt whole categories of these professionals from meaningful use requirements for 2017 and avoid related payment reductions."
   },
   {
    "group": "Medicare administrative contractors",
-   "how": "These private claims processors must receive incentives from Medicare to reduce improper payment error rates in their regions."
+   "how": "These private claims processors must receive specified incentives from CMS for reducing improper payment error rates in their areas."
   },
   {
-   "group": "People and companies that buy or sell Medicare, Medicaid, or CHIP beneficiary information or billing privileges",
-   "how": "Illegal buying or distributing of these IDs or billing privileges can now lead to up to 10 years in prison and large fines."
+   "group": "Anyone who illegally buys or sells Medicare, Medicaid, or CHIP beneficiary identification or billing privileges",
+   "how": "They can face up to 10 years in prison and fines up to $500,000, or up to $1,000,000 for corporations."
   },
   {
-   "group": "States and people who are dually eligible for Medicare and Medicaid",
-   "how": "States are encouraged to join the Medi-Medi data program, and states can access data on improper Medicare payments made for dually eligible individuals."
+   "group": "States and people who are eligible for both Medicare and Medicaid",
+   "how": "CMS must encourage states to join the Medi-Medi data matching program and give states access to data on improper or fraudulent Medicare payments for dual-eligible people."
+  },
+  {
+   "group": "State and federal staff in the Medicaid Integrity Program",
+   "how": "Program funds may now cover equipment, travel, training, and salaries and benefits, and CMS has more flexibility in setting staffing levels."
   }
  ],
- "when_it_takes_effect": "Enacted December 28, 2015; several provisions apply to specific years, such as 2017 or 2018.",
+ "when_it_takes_effect": "Enacted December 28, 2015. Several provisions apply to specific years (2017 or 2018), and the summary does not give exact effective dates for all parts.",
  "ceremonial": false,
  "confidence": "medium",
  "ai_generated": true,

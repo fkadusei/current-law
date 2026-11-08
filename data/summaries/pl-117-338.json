@@ -1,25 +1,25 @@
 {
- "headline": "This law requires the FCC to make sure rates for phone and video calls in prisons and jails are just and reasonable.",
- "what_it_does": "The FCC must ensure that charges for payphones and other calling devices in correctional institutions are just and reasonable, including audio and video calls. When writing rules, the FCC may use industry-wide average costs for providing these services. The FCC must also consider the costs of safety and security measures in correctional facilities.",
+ "headline": "This law directs the FCC to make sure phone and video call rates in prisons and jails are just and reasonable.",
+ "what_it_does": "The act requires the Federal Communications Commission to ensure that rates and charges for payphones and other calling devices in correctional institutions are just and reasonable. This covers basic phone calls and advanced services such as audio or video calls. When writing rules or carrying out the law, the FCC may use industry-wide average costs. It must also consider the costs of safety and security measures in correctional facilities.",
  "who_it_affects": [
   {
-   "group": "People held in prisons and jails",
-   "how": "The rates they or others pay for phone and video calls from correctional facilities are subject to the FCC's just-and-reasonable standard."
+   "group": "People held in federal, state, and local correctional facilities",
+   "how": "The rates they or others pay for phone and video calls from facilities may be reviewed by the FCC under a just-and-reasonable standard."
   },
   {
-   "group": "Families and friends who call incarcerated people",
-   "how": "The prices they pay to talk with loved ones in correctional facilities are subject to the same standard."
+   "group": "Families and friends who pay for calls to people in correctional facilities",
+   "how": "The cost of calls they make to incarcerated loved ones falls under the FCC's rate review."
   },
   {
-   "group": "Companies that provide calling services in correctional facilities",
-   "how": "They must follow the FCC's rate rules, which may account for industry-wide average costs and security-related costs."
+   "group": "Companies that provide inmate calling and communications services",
+   "how": "Their rates and charges in correctional facilities must meet the FCC's just-and-reasonable standard, and the FCC will consider their industry-wide costs and security costs when setting rules."
   },
   {
-   "group": "Federal Communications Commission",
-   "how": "The agency must write or carry out rules to set and review these rates and must consider security costs when doing so."
+   "group": "Correctional facilities and their operators",
+   "how": "The FCC must consider the cost of safety and security measures when setting the rules that affect calling services in their facilities."
   }
  ],
- "when_it_takes_effect": "The act became law on January 5, 2023, but the official summary does not give a separate start date for the FCC's rules.",
+ "when_it_takes_effect": null,
  "ceremonial": false,
  "confidence": "medium",
  "ai_generated": true,

@@ -1,19 +1,23 @@
 {
- "headline": "A law enacted December 22, 2020 that, according to a thin summary, changes how the FDA must publish information about biological products.",
- "what_it_does": "The official summary says this measure changes what the Food and Drug Administration must publish about biological products. The FDA's Purple Book is a public directory of licensed biological products, which is likely the subject, but the summary does not say so. The summary's title does not match the law's title, which is a continuing appropriations act about federal funding, so the summary may describe a different bill or a provision added to this one. The source material does not give the specific publication requirements or deadlines.",
+ "headline": "A short-term spending bill that keeps federal agencies funded through December 28, 2020, so the government does not shut down when the prior stopgap expires.",
+ "what_it_does": "The bill provides continuing funding for federal agencies for fiscal year 2021 through December 28, 2020. It is a continuing resolution, which is a temporary extension of funding used when full spending bills are not yet finished. Without it, funding would lapse when the existing stopgap expired on December 21, 2020, and agencies would have to shut down.",
  "who_it_affects": [
   {
-   "group": "Manufacturers of biological products, such as certain biologic drugs",
-   "how": "The summary indicates that FDA publishing requirements for biological products have changed, but it does not say what those manufacturers must do."
+   "group": "Federal agencies",
+   "how": "They can keep operating and spending money at current levels through December 28, 2020, instead of closing when the prior funding ran out."
   },
   {
-   "group": "People who look up licensed biological products in FDA publications",
-   "how": "The summary suggests the information the FDA publishes about these products may change, but it does not say how."
+   "group": "Federal employees",
+   "how": "Those whose paychecks depend on agency appropriations are protected from a lapse in funding during this period."
+  },
+  {
+   "group": "People who use federal services",
+   "how": "Programs and services run by federal agencies can continue without interruption through the extension period."
   }
  ],
- "when_it_takes_effect": null,
+ "when_it_takes_effect": "Funding is extended through December 28, 2020, as the summary describes; the exact start date is not stated in the summary.",
  "ceremonial": false,
- "confidence": "low",
+ "confidence": "medium",
  "ai_generated": true,
  "model": "claude-haiku-5-5",
  "written": "2026-11-08"

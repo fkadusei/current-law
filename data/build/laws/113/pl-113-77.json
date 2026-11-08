@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Health",
  "sponsor": "Rep. Terry, Lee [R-NE-2]",
- "official_summary": " <p>Poison Center Network Act - Amends the Public Health Service Act to reauthorize through FY2019: (1) a poison control nationwide-toll free phone number; and (2) a national media campaign to educate the public and health care providers about poison prevention and the availability of poison control center resources in local communities and to conduct advertising campaigns about the nationwide toll-free number.</p> <p>Revises and reauthorizes through FY2019 a grant program for accredited (currently, certified) poison control centers. Allows grant funds to be used to research, improve, and enhance the communications and response capability and capacity of the poison control centers to facilitate increased access to such centers through the integration and modernization of communications and data systems.</p>",
+ "official_summary": " <p><b>(This measure has not been amended since it was passed by the House on January 8, 2014. The summary of that version is repeated here.)</b></p> <p>Poison Center Network Act - Amends the Public Health Service Act to reauthorize through FY2019: (1) a poison control nationwide-toll free phone number; and (2) a national media campaign to educate the public and health care providers about poison prevention and the availability of poison control center resources in local communities and to conduct advertising campaigns about the nationwide toll-free number.</p> <p>Revises and reauthorizes through FY2019 a grant program for accredited (currently, certified) poison control centers. Allows grant funds to be used to research, improve, and enhance the communications and response capability and capacity of the poison control centers to facilitate increased access to such centers through the integration and modernization of communications and data systems.</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr3527enr/xml/BILLS-113hr3527enr.xml"
@@ -3532,24 +3532,20 @@
   "House": "R"
  },
  "summary": {
-  "headline": "This 2014 law extends federal support for the national poison control phone line, public poison-prevention advertising, and grants to poison control centers through fiscal year 2019.",
-  "what_it_does": "The law reauthorizes, or renews, federal authority through fiscal year 2019 for a nationwide toll-free poison control phone number. It also renews a national media campaign that teaches the public and health care providers about poison prevention and where to find local poison control resources. It renews and revises a grant program for poison control centers, and it lets grant money be used to upgrade their communications and data systems. The summary changes the word \"certified\" to \"accredited\" for the centers that qualify for grants.",
+  "headline": "Public Law 113-77 extends federal support for the national poison control phone line, a public awareness campaign, and grants to poison control centers through fiscal year 2019.",
+  "what_it_does": "The law changes the Public Health Service Act to keep funding a nationwide toll-free poison control phone number and a national media campaign about poison prevention through fiscal year 2019. It also renews a grant program for poison control centers and changes the wording from certified to accredited centers. Grant money can now be used to improve communications, data systems, and response capacity so people can reach these centers more easily.",
   "who_it_affects": [
    {
     "group": "People who need poison control help",
-    "how": "They can keep using a single toll-free national number to reach a poison control center, with federal support continuing through fiscal year 2019."
+    "how": "The law keeps a toll-free national number and related public information available to people who think someone has been poisoned or exposed to a harmful substance."
    },
    {
     "group": "Poison control centers",
-    "how": "They can apply for federal grants, which may now be used to modernize communications and data systems, and they must be accredited to qualify."
+    "how": "Accredited centers may apply for federal grants through fiscal year 2019, and the grant money can pay for upgrades to communications and data systems."
    },
    {
     "group": "Health care providers",
-    "how": "They are a target audience for federal education materials about poison prevention and local poison control resources."
-   },
-   {
-    "group": "The general public",
-    "how": "They are a target audience for national advertising about poison prevention and the toll-free poison control number."
+    "how": "The national media campaign is meant to inform doctors and other providers about poison prevention and local poison center resources."
    }
   ],
   "when_it_takes_effect": "Enacted January 24, 2014; the reauthorized programs run through fiscal year 2019.",

@@ -1,41 +1,41 @@
 {
- "headline": "Temporarily funds most federal agencies through January 15, 2014, ending the 2013 government shutdown and paying furloughed workers for the lapse in funding.",
- "what_it_does": "This law keeps federal agencies running at fiscal year 2013 funding levels until January 15, 2014, or until full fiscal year 2014 spending bills are enacted, whichever comes first. It treats the funding period as starting October 1, 2013, and requires that furloughed federal employees be paid at their standard rate after the lapse ends. It also extends many expiring programs, such as TANF, certain housing and aviation programs, and recreation fee collection, and it suspends the federal debt limit until February 7, 2014.",
+ "headline": "This law temporarily funds most federal agencies through January 15, 2014, reopens government operations after a funding lapse, and sets conditions for a temporary federal debt limit suspension.",
+ "what_it_does": "The law sets funding for federal agencies at fiscal year 2013 levels so government operations can continue after a funding lapse that began October 1, 2013. Most of this funding lasts until January 15, 2014, or until full-year funding is enacted, whichever comes first. It requires that federal workers furloughed during the lapse be paid for that time and that states or other grantees be reimbursed if they kept federal programs running. Division B also allows the President to certify a suspension of the debt limit through February 7, 2014, and requires added checks on eligibility for health insurance premium tax credits.",
  "who_it_affects": [
   {
-   "group": "Federal employees who were furloughed during the lapse in funding",
-   "how": "They are to receive pay at their standard rate for the period they were furloughed once the lapse ends."
+   "group": "Federal employees furloughed during the October 2013 funding lapse",
+   "how": "They are to be paid their standard rate of pay for the lapse period as soon as practicable after it ends."
   },
   {
-   "group": "Federal agencies and their contractors and grantees",
-   "how": "They can keep spending at the prior year's levels under limits on new projects, production increases, and new grants until January 15, 2014."
-  },
-  {
-   "group": "States and other federal grantees that kept programs running during the lapse",
-   "how": "They can be reimbursed for funds they used to continue federal programs and for paying their furloughed employees."
-  },
-  {
-   "group": "Families receiving Temporary Assistance for Needy Families (TANF) benefits",
-   "how": "TANF activities continue through January 15, 2014, at the fiscal year 2013 pattern."
+   "group": "Federal agencies and Defense Department contractors",
+   "how": "They must operate at fiscal 2013 funding levels and may not start new production or new multi-year procurements unless specifically funded."
   },
   {
    "group": "Members of Congress",
-   "how": "They will not receive a cost of living pay increase during fiscal year 2014."
+   "how": "Their annual pay will not receive a cost-of-living adjustment during fiscal year 2014."
   },
   {
-   "group": "People who buy health insurance through the marketplace exchanges",
-   "how": "HHS must certify that exchanges verify eligibility before premium tax credits and cost-sharing reductions are made available."
+   "group": "States and other federal grantees",
+   "how": "Those that used their own funds to keep federal programs running during the lapse can be reimbursed."
+  },
+  {
+   "group": "Families receiving Temporary Assistance for Needy Families",
+   "how": "The program continues through January 15, 2014, under the same rules that applied in fiscal year 2013."
+  },
+  {
+   "group": "People applying for premium tax credits through health insurance exchanges",
+   "how": "Exchanges must verify that applicants are eligible before the credits and cost-sharing reductions are made available."
   },
   {
    "group": "Visitors to federal recreation lands",
-   "how": "Recreation fee collection authority is extended through December 8, 2015."
+   "how": "Federal agencies may continue collecting recreation fees there through December 8, 2015."
   },
   {
-   "group": "Military service members and their families",
-   "how": "Pay Our Military Act expenditures are charged to the appropriations provided in this law."
+   "group": "Social Security disability beneficiaries",
+   "how": "Additional funding is provided for continuing disability reviews."
   }
  ],
- "when_it_takes_effect": "Enacted October 17, 2013; funding runs through January 15, 2014, or until fiscal year 2014 appropriations are enacted, and the debt limit suspension runs through February 7, 2014.",
+ "when_it_takes_effect": "Enacted October 17, 2013. Most funding runs through January 15, 2014, the debt limit suspension period runs through February 7, 2014, and the recreation fee authority runs through December 8, 2015.",
  "ceremonial": false,
  "confidence": "high",
  "ai_generated": true,

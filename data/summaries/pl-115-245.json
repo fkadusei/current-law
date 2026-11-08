@@ -1,37 +1,37 @@
 {
- "headline": "A 2018 funding law gave federal agencies money for fiscal year 2019, funded two full spending bills for Defense and Labor-HHS-Education, and kept the rest of government running through December 7, 2018.",
- "what_it_does": "The law provides fiscal year 2019 money for the Department of Defense and for the Departments of Labor, Health and Human Services, and Education, plus several related agencies. It also includes a continuing resolution that keeps other agencies funded at fiscal year 2018 levels through December 7, 2018, which prevents a partial government shutdown on October 1, 2018. The continuing resolution also extends several programs that were set to expire at the end of fiscal year 2018.",
+ "headline": "Public Law 115-245 provides fiscal year 2019 funding for the Defense Department, Labor, Health and Human Services, and Education, and keeps other agencies funded through December 7, 2018 so a partial shutdown is avoided.",
+ "what_it_does": "The law is a combined spending bill with four parts. Division A funds Department of Defense military activities, Division B funds the Departments of Labor, Health and Human Services, and Education along with several related agencies, and Division C is a continuing resolution that keeps other agencies running at fiscal 2018 levels through December 7, 2018 or until their full funding bills are enacted. It also extends several programs that were set to expire at the end of fiscal 2018, and it includes many rules on how the money may and may not be spent.",
  "who_it_affects": [
   {
-   "group": "Active-duty and reserve military members and National Guard personnel",
-   "how": "The law sets their pay and operating budgets for fiscal year 2019 and includes rules on items such as tuition benefits for certain Army members."
+   "group": "Active-duty and reserve members of the military and National Guard",
+   "how": "They receive pay and benefits funded under the Defense appropriations division, which sets their FY2019 personnel dollars."
   },
   {
-   "group": "Defense contractors and suppliers",
-   "how": "The law includes purchasing rules such as Buy American requirements for certain steel, bearings, and anchor chains, and limits on some contracts."
+   "group": "Federal Medicaid, CHIP, and Medicare-related program participants",
+   "how": "Entitlement programs such as Medicaid and the Children's Health Insurance Program are funded through this law, and CHIP state allotments that remain unobligated as of September 25, 2019 are rescinded."
   },
   {
-   "group": "Students and borrowers with federal student loans",
-   "how": "The law allows certain borrowers in cancer treatment to defer loan payments and extends some Education Department authorities through 2019 or 2020."
+   "group": "Current and prospective college students and student loan borrowers",
+   "how": "The law includes Pell grant rescissions, lets borrowers in cancer treatment defer student loan payments, and extends account maintenance fee authority for guaranty agencies through 2019."
   },
   {
-   "group": "Families and children who rely on federal assistance programs",
-   "how": "The law funds programs such as Temporary Assistance for Needy Families, child care block grants, and Low Income Home Energy Assistance through the continuing resolution."
+   "group": "Federal employees and federal contractors",
+   "how": "Pay caps, travel rules, and restrictions on contracts apply, including a bar on contracts over $1 million with companies that have not resolved certain civil rights claims."
   },
   {
-   "group": "Seniors and people with disabilities who receive Social Security or Supplemental Security Income",
-   "how": "The law provides funding for the Social Security Administration and the Supplemental Security Income program for fiscal year 2019."
+   "group": "Federal employees and contractors working on Public Service Loan Forgiveness",
+   "how": "Additional funds are provided for loan cancellations under the Public Service Loan Forgiveness Program, with added outreach to borrowers."
   },
   {
-   "group": "Federal employees and federal agencies not funded by the two full bills",
-   "how": "The continuing resolution keeps their operations running at fiscal year 2018 levels until December 7, 2018 or until full-year bills are enacted."
+   "group": "Unaccompanied alien children in federal custody",
+   "how": "HHS must submit a reunification plan to Congress by November 15, 2018, and may accept private donations for their care."
   },
   {
-   "group": "Workers and employers who use H-2B visas",
-   "how": "The law changes some H-2B rules, including prevailing wage requirements and the definition of temporary need for the program."
+   "group": "Farmers, ranchers, and rural communities",
+   "how": "Continuing resolution provisions accelerate Commodity Credit Corporation reimbursements for farm program losses and fund rural water and waste disposal loans."
   }
  ],
- "when_it_takes_effect": "The law was enacted on September 28, 2018, and its funding applies to fiscal year 2019, which began October 1, 2018; the continuing resolution funding runs through December 7, 2018, unless a full-year bill is enacted sooner.",
+ "when_it_takes_effect": "Enacted September 28, 2018; the continuing resolution funds agencies through December 7, 2018 or until the applicable full appropriations bill is enacted, and fiscal 2019 begins October 1, 2018.",
  "ceremonial": false,
  "confidence": "medium",
  "ai_generated": true,

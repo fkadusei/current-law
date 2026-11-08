@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Crime and Law Enforcement",
  "sponsor": "Sen. Cornyn, John [R-TX]",
- "official_summary": " <p><b>Respect for Child Survivors Act </b></p> <p>This bill requires the Federal Bureau of Investigation to use a multidisciplinary team with investigations of child abuse and related crimes. The bill also reauthorizes grants for children's advocacy centers (CACs). CACs use a multidisciplinary response to coordinate the investigation, treatment, and prosecution of child abuse cases.</p>",
+ "official_summary": " <p><b>Respect for Child Survivors Act</b></p> <p>This act requires the Federal Bureau of Investigation (FBI) to use a multidisciplinary team with investigations of child abuse and related crimes. The act also reauthorizes grants for children's advocacy centers (CACs). CACs use a multidisciplinary response to coordinate the investigation, treatment, and prosecution of child abuse cases.</p> <p>(Sec. 2) This section requires the FBI to use a multidisciplinary team with any investigation of child sexual exploitation or abuse, the production of child sexual abuse material, or child trafficking. The FBI must also use a trained child adolescent forensic interviewer in these investigations. These requirements do not apply if a multidisciplinary team or an interviewer is unavailable or is otherwise inconsistent with applicable federal law. </p> <p>In implementing these requirements, the FBI must use and coordinate with multidisciplinary teams based at CACs.</p> <p>(Sec. 3) This section modifies and reauthorizes through FY2028 grants for regional and local CACs, as well as for technical assistance and training. Grants for CACs are administered by the Office of Juvenile Justice and Delinquency Prevention (OJJDP) within the Department of Justice. </p> <p>It adds a finding stating that a key to a child victim healing from abuse is access to supportive and healthy families and communities.</p> <p>The section modifies grant provisions for regional CACs, including by</p> <ul> <li>directing the OJJDP to maintain (in addition to establish) regional CACs; <li>adding, as a new program objective, the provision of technical assistance, training, coordination, and organizational capacity support for state chapters; and <li>requiring the OJJDP to consider, as an additional selection criteria, proposals for regional CACs that best result in supporting state chapters. </ul> <p>The section also modifies grant provisions for local CACs, including by adding as new grant purposes (1) the establishment and maintenance of a network of care for child abuse victims, and (2) the development and dissemination of practice standards for care and best practices in program evaluation. </p> <p>Finally, the section modifies the criteria that the OJJDP may use to evaluate local CAC programs.</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-117s4926enr/xml/BILLS-117s4926enr.xml"
@@ -3510,23 +3510,27 @@
   "House": "D"
  },
  "summary": {
-  "headline": "A 2023 law requires the FBI to use a team approach for child abuse cases and renews federal grants for children's advocacy centers.",
-  "what_it_does": "The law requires the Federal Bureau of Investigation to use a multidisciplinary team when it investigates child abuse and related crimes. A multidisciplinary team brings together people from different fields to work on a case. The law also reauthorizes grants for children's advocacy centers, which coordinate how child abuse cases are investigated, treated, and prosecuted.",
+  "headline": "This law requires the FBI to use specialized child-abuse investigation teams and extends federal grants for children's advocacy centers through 2028.",
+  "what_it_does": "The FBI must use a multidisciplinary team and a trained child forensic interviewer in investigations of child sexual exploitation, abuse, child sexual abuse material, and child trafficking. These requirements do not apply if such a team or interviewer is unavailable or would conflict with federal law. The law also reauthorizes grants for regional and local children's advocacy centers, which coordinate investigation, treatment, and prosecution of child abuse cases, through fiscal year 2028. It adds new grant goals such as supporting state chapters, building a network of care for abuse victims, and setting practice standards.",
   "who_it_affects": [
    {
-    "group": "Children who have been abused and their families",
-    "how": "FBI child abuse investigations must use a team approach that includes multiple professional fields."
+    "group": "Children who are victims of abuse, exploitation, or trafficking",
+    "how": "FBI child-abuse investigations must use a multidisciplinary team and a trained child forensic interviewer when those requirements can be met."
    },
    {
     "group": "Children's advocacy centers",
-    "how": "These centers can receive renewed federal grant funding under the law."
+    "how": "These centers can receive federal grants through fiscal year 2028, and regional centers are asked to support state chapters."
    },
    {
-    "group": "FBI agents and staff who investigate child abuse and related crimes",
-    "how": "They must work with a multidisciplinary team when handling these cases."
+    "group": "FBI agents investigating child crimes",
+    "how": "They must coordinate with multidisciplinary teams, often based at advocacy centers, in covered cases unless a team or interviewer is unavailable."
+   },
+   {
+    "group": "Office of Juvenile Justice and Delinquency Prevention",
+    "how": "This office must administer the advocacy center grants under the new program goals and selection criteria."
    }
   ],
-  "when_it_takes_effect": "The law was enacted on January 5, 2023; the official summary does not list any later effective dates.",
+  "when_it_takes_effect": "Enacted January 5, 2023; grant reauthorization runs through fiscal year 2028.",
   "ceremonial": false,
   "confidence": "medium",
   "ai_generated": true,

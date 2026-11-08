@@ -1,41 +1,57 @@
 {
- "headline": "The Taxpayer First Act of 2019 changes how the IRS is organized, how it serves taxpayers, how it protects data, and how it handles tax filing rules.",
- "what_it_does": "The law creates an independent IRS Office of Appeals to settle tax disputes without going to court. It requires the IRS to build customer service and employee training plans, and to give public notice before closing taxpayer assistance centers. It adds cybersecurity and identity theft protections, including notice to taxpayers when identity theft is suspected, and requires a Chief Information Officer to plan IRS technology needs. It also expands electronic filing, sets new rules for tax-exempt groups, and raises penalties for failing to file returns.",
+ "headline": "The Taxpayer First Act, signed in 2019, changes how the IRS handles customer service, collections, appeals, identity theft, and technology.",
+ "what_it_does": "The law creates an independent IRS appeals office to settle tax disputes without going to court. It limits some IRS collection tools, such as seizing property and sending tax debts to private collectors, and adds protections for certain taxpayers. It also requires the IRS to improve identity theft protection, electronic filing, and information technology, and it sets new rules for tax return preparers and tax-exempt groups. Several provisions require Treasury or the IRS to send reports, plans, or notices to Congress or taxpayers.",
  "who_it_affects": [
   {
-   "group": "Taxpayers in tax disputes with the IRS",
-   "how": "They can have certain disagreements heard by the new independent Office of Appeals instead of going straight to court."
+   "group": "Taxpayers facing IRS disputes",
+   "how": "They can have their disputes reviewed by a new Independent Office of Appeals, which aims to resolve cases without litigation."
   },
   {
-   "group": "Low-income taxpayers who offer to settle a tax debt",
-   "how": "Certain low-income people are exempt from the fee normally required to submit an offer-in-compromise."
+   "group": "Low-income taxpayers",
+   "how": "They are exempt from paying a user fee with an offer-in-compromise and are excluded from referrals of tax debts to private collection agencies, and they can get help from volunteer tax assistance programs and low-income taxpayer clinics."
   },
   {
-   "group": "Possible identity theft victims",
-   "how": "The IRS must notify taxpayers when it suspects their identity has been stolen."
+   "group": "People receiving disability insurance benefits",
+   "how": "Their tax debts cannot be referred to private debt collection agencies."
+  },
+  {
+   "group": "Taxpayers with tax debts sent to private collectors",
+   "how": "Their installment agreements can now run up to seven years instead of five."
+  },
+  {
+   "group": "Victims of tax-related identity theft",
+   "how": "They get a single IRS contact point, notice of suspected identity theft, and an identity protection number program."
+  },
+  {
+   "group": "Tax return preparers",
+   "how": "They face higher civil and criminal penalties for improper disclosure or use of taxpayer information."
   },
   {
    "group": "Tax-exempt organizations",
-   "how": "They must file electronically and receive notice before losing tax-exempt status for failing to file."
+   "how": "They must file their returns electronically and receive notice from the IRS before their tax-exempt status is revoked for failure to file."
   },
   {
-   "group": "People who fail to file tax returns",
-   "how": "Penalties for not filing on time are increased."
+   "group": "Taxpayers who fail to file a return",
+   "how": "They face a higher monetary penalty for failure to file."
   },
   {
-   "group": "Volunteer tax preparation programs",
-   "how": "A matching grant program is created to support Community Volunteer Income Tax Assistance programs."
+   "group": "Former IRS employees fired for misconduct",
+   "how": "The IRS may not rehire them."
   },
   {
-   "group": "IRS employees and former employees",
-   "how": "Certain employees removed for misconduct cannot be rehired, and the IRS must train staff and plan customer service."
+   "group": "People who report tax fraud (whistle-blowers)",
+   "how": "The IRS may share certain return information with them related to investigations they helped with."
   },
   {
-   "group": "Tax return preparers and businesses that file information returns",
-   "how": "The IRS must offer an online platform for Form 1099 filings and accept electronic signatures under uniform standards."
+   "group": "People who pay taxes by debit or credit card",
+   "how": "The IRS must recoup card processing fees charged by card companies for these payments."
+  },
+  {
+   "group": "People who use the IRS e-Services tools",
+   "how": "They must have their identity verified before opening an e-Services account."
   }
  ],
- "when_it_takes_effect": null,
+ "when_it_takes_effect": "Provisions take effect on various dates set in the law, with some tied to 2020 deadlines and the Form 1099 internet platform due by January 1, 2023; the enactment date was July 1, 2019.",
  "ceremonial": false,
  "confidence": "medium",
  "ai_generated": true,

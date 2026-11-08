@@ -1,23 +1,23 @@
 {
- "headline": "A 2018 law lets the VA help disabled veterans in its job-training program pay for home changes, up to a set dollar limit.",
- "what_it_does": "The law allows the Department of Veterans Affairs to help a veteran with a service-connected disability pay for home modifications needed for rehabilitation and employment training. Help is limited to $77,307 per veteran in total, though the VA can waive that cap when needed for a veteran's program. The VA must raise the limit over time and report to Congress every two years on how it uses the waiver. Assistance cannot be given if it would duplicate other benefits.",
+ "headline": "A 2018 law lets the VA help disabled veterans in its job-training program pay for home modifications, up to a set dollar limit.",
+ "what_it_does": "The law allows the Department of Veterans Affairs to help veterans with service-connected disabilities who are in its vocational rehabilitation and employment program pay for changes to their homes that they need. Help cannot be given if it would duplicate other benefits. The total help a veteran can receive is capped at $77,307, though the VA can waive that cap when needed for the veteran's rehabilitation program, and the limit is to be raised over time. The law also says the VA does not have to provide mortgage life insurance to veterans under age 70 who receive this home-adaptation help.",
  "who_it_affects": [
   {
-   "group": "Veterans with service-connected disabilities in VA vocational rehabilitation and employment programs",
-   "how": "They may receive VA help paying for home changes, such as accessibility adaptations, up to a total limit that the VA can adjust."
+   "group": "Veterans with service-connected disabilities enrolled in VA vocational rehabilitation and employment",
+   "how": "They may get VA help paying for home changes they need, up to the stated cap unless the VA grants a waiver."
   },
   {
-   "group": "Veterans under age 70 who receive this home adaptation assistance",
-   "how": "The VA is not required to provide mortgage life insurance to them in connection with this assistance."
+   "group": "Veterans under age 70 who receive home-adaptation help",
+   "how": "The VA is not required to give them mortgage life insurance as part of this assistance."
   },
   {
    "group": "Congress and the VA",
-   "how": "The VA must report to Congress every two years on its use of the waiver authority and must adjust the assistance limit each year."
+   "how": "The VA must report to Congress every two years, starting October 1, 2019, on how it uses its waiver authority."
   }
  ],
- "when_it_takes_effect": "The law was enacted on June 1, 2018, and the summary does not list a separate later start date.",
+ "when_it_takes_effect": "The law was enacted on June 1, 2018. The biennial reporting requirement begins October 1, 2019, and the summary does not give a separate start date for the home-adaptation assistance.",
  "ceremonial": false,
- "confidence": "high",
+ "confidence": "medium",
  "ai_generated": true,
  "model": "claude-haiku-5-5",
  "written": "2026-11-08"

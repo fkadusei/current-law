@@ -1,41 +1,45 @@
 {
- "headline": "A 2016 federal law that expands opioid and heroin prevention, treatment, law enforcement grants, and related rules across many agencies.",
- "what_it_does": "The law creates grant programs and task forces aimed at opioid, heroin, and methamphetamine abuse. It funds prevention education, naloxone access for first responders, medication-assisted treatment, recovery support, and programs for women, families, and veterans. It also changes some criminal and Medicare rules, such as limits on certain prescribers and pharmacies for Medicare drug plan members identified as at risk of drug abuse, and broadens who can be prosecuted for importing certain drugs.",
+ "headline": "A 2016 federal law that targets opioid abuse through prevention, treatment, law enforcement, veterans' care, and changes to prescribing and drug-monitoring rules.",
+ "what_it_does": "The law sets up many federal programs to fight opioid misuse and addiction. It funds grants for naloxone access, treatment, recovery groups, and state prescription drug monitoring programs, and it asks agencies to study and report on pain management, neonatal abstinence syndrome, and related issues. It also changes certain rules, such as how the FDA reviews opioid drug applications, how pharmacists can partially fill certain prescriptions, and how the VA handles opioid therapy and provider oversight.",
  "who_it_affects": [
   {
-   "group": "State, local, and tribal governments",
-   "how": "They can apply for federal grants for treatment, naloxone programs, prescription drug monitoring, and criminal justice drug programs."
+   "group": "Veterans receiving VA health care",
+   "how": "The VA must expand opioid safety efforts, make naloxone more available, and add patient advocacy and complementary health programs, and high-risk veterans may skip copayments for overdose treatments and related education."
   },
   {
-   "group": "First responders and people who may give overdose reversal drugs",
-   "how": "The law funds training and supplies for first responders to give naloxone, and it gives priority to states that protect people who administer it from civil liability."
+   "group": "Pharmacists",
+   "how": "They may partially fill certain schedule II prescriptions, such as opioids, if state law allows and the patient or prescriber asks for it."
   },
   {
-   "group": "People with substance use disorders",
-   "how": "They may gain access to medication-assisted treatment, recovery support services, and family-based programs funded by the grants."
+   "group": "Nurse practitioners and physician assistants",
+   "how": "They can qualify to prescribe medications for opioid use disorder in office-based programs when working with or under a physician, if state law requires that oversight."
   },
   {
-   "group": "People who are incarcerated or recently released",
-   "how": "Some grants fund educational programs, treatment before reentry, and studies of collateral consequences of drug convictions."
+   "group": "Medicare prescription drug plan sponsors",
+   "how": "They may set up drug management programs for beneficiaries at risk of prescription drug abuse and must track certain usage patterns."
   },
   {
-   "group": "Medicare prescription drug plan members identified as at risk of drug abuse",
-   "how": "Their plan may limit which doctors and pharmacies can prescribe or fill frequently abused drugs, and they must be notified and have their preferences considered, though hospice and long-term care residents are exempt."
+   "group": "State governments and state prescription drug monitoring programs",
+   "how": "States can receive grants to run and expand monitoring programs and must share aggregate data with HHS and help prescribers use the system."
   },
   {
-   "group": "Veterans and pregnant or postpartum women with substance use disorders",
-   "how": "The law authorizes pilot grants and services aimed at their treatment needs."
+   "group": "Pregnant and postpartum women with substance use disorders",
+   "how": "Residential and outpatient treatment programs they use can receive expanded federal support, including child care services for their children."
   },
   {
-   "group": "Medicaid enrollees with substance use disorders",
-   "how": "The Government Accountability Office must study how the Medicaid institutions for mental disease exclusion affects their access to inpatient treatment."
+   "group": "Families of infants born affected by substance exposure",
+   "how": "States must develop plans of safe care that address the infant's and family's treatment needs as a condition of certain child protective services grants."
   },
   {
-   "group": "Nonprofit organizations and grant applicants",
-   "how": "Grant funds cannot be used for conferences costing over $20,000 without written approval, and grants are barred to nonprofits that hold money offshore to avoid taxes."
+   "group": "Youth sports participants and their families",
+   "how": "HHS must study how information about opioid risks after sports injuries is shared and may help develop better information."
+  },
+  {
+   "group": "People with nonviolent drug convictions",
+   "how": "The GAO must study the collateral consequences they face, such as legal or administrative penalties after sentencing."
   }
  ],
- "when_it_takes_effect": "Signed into law on July 22, 2016; the authorized programs run through fiscal year 2020, and some provisions set reporting or task force deadlines.",
+ "when_it_takes_effect": "Most provisions took effect on enactment on July 22, 2016, but many grant programs, reports, and changes have their own start and end dates, and some run through fiscal year 2021.",
  "ceremonial": false,
  "confidence": "medium",
  "ai_generated": true,

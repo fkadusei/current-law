@@ -1,23 +1,23 @@
 {
- "headline": "Congress cancels a 2024 federal decision that had limited oil and gas leasing in the Arctic National Wildlife Refuge's Coastal Plain.",
- "what_it_does": "This law uses the Congressional Review Act to cancel a December 2024 Bureau of Land Management decision on oil and gas leasing in the Coastal Plain of Alaska's Arctic National Wildlife Refuge. That 2024 decision had closed about 1.2 million of the area's roughly 1.6 million acres to leasing and exploration, leaving the legal minimum of 400,000 acres open. The 2024 decision had replaced a 2020 decision that made all 1.6 million acres available. Canceling the 2024 decision opens more of the area to oil and gas leasing.",
+ "headline": "Congress cancels a 2024 federal decision that limited oil and gas leasing in Alaska's Arctic National Wildlife Refuge coastal plain.",
+ "what_it_does": "This law cancels a December 2024 Bureau of Land Management decision about oil and gas leasing in the Coastal Plain area of the Arctic National Wildlife Refuge. That 2024 decision had closed about 1.2 million of the area's roughly 1.6 million acres to oil and gas leasing and exploration, leaving only the legal minimum of 400,000 acres open. With the 2024 decision undone, more of the coastal plain can be opened for oil and gas leasing, as it was under an earlier 2020 decision. Under the Congressional Review Act, the agency generally cannot issue a substantially similar rule again unless Congress allows it.",
  "who_it_affects": [
   {
    "group": "Oil and gas companies",
-   "how": "More acres in the refuge's Coastal Plain may be available for them to lease, explore, and develop."
+   "how": "They may be able to bid on leases across more of the roughly 1.6 million acres of the coastal plain instead of only about 400,000 acres."
   },
   {
    "group": "Bureau of Land Management",
-   "how": "The agency can no longer use the 2024 decision to run the Coastal Plain leasing program and its limits on where leasing is allowed."
+   "how": "The agency can no longer use its 2024 decision to manage leasing in the coastal plain and generally cannot issue a substantially similar rule."
   },
   {
-   "group": "People who live near or use the Arctic National Wildlife Refuge",
-   "how": "Land the 2024 decision had set aside to protect resources and certain uses may now be open to oil and gas activity."
+   "group": "Alaska residents and communities near the refuge",
+   "how": "About 1.2 million acres that the 2024 decision had set aside to protect resources and certain uses could now be open to oil and gas leasing."
   }
  ],
- "when_it_takes_effect": "Enacted December 11, 2025; the 2024 decision is treated as having no force or effect.",
+ "when_it_takes_effect": "December 11, 2025",
  "ceremonial": false,
- "confidence": "medium",
+ "confidence": "high",
  "ai_generated": true,
  "model": "claude-opus-5-5",
  "written": "2026-11-08"

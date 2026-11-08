@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Social Welfare",
  "sponsor": "Rep. Johnson, Sam [R-TX-3]",
- "official_summary": " <p><b>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</b></p> <p>No Social Security for Nazis Act - Amends title II (Old Age, Survivors and Disability Insurance) (OASDI) of the Social Security Act (SSA) to consider the following individuals to be removed under the Immigration and Nationality Act and so to have their OASDI benefits terminated:</p> <ul> <li>an individual with respect to whom an order admitting the individual to citizenship has been revoked and set aside where such action is based on conduct relating to participation in Nazi persecution, concealment of a material fact about such conduct, or willful misrepresentation about such conduct; and</li> <li>an individual who, pursuant to a settlement agreement with the Attorney General (AG), has admitted to such conduct and has lost status as a U.S. national by renouncing that status. </li> </ul> <p>Requires such individuals to have been considered removed under such Act as of the date of the revocation, setting aside, or renunciation.</p> <p>Prohibits such individuals from receiving other Social Security benefits based on the wages and self-employment income of any other individual.</p> <p>Prohibits the payment to such individuals also of any benefits under SSA tile XVI (Supplemental Security Income) (SSI).</p> <p>Requires the AG or the Secretary of Homeland Security (DHS) to notify the Commissioner of Social Security of such revocations, setting asides, and renunciations of nationality.</p>",
+ "official_summary": " <b> <p />(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</b> <p />No Social Security for Nazis Act - Amends title II (Old Age, Survivors and Disability Insurance) (OASDI) of the Social Security Act (SSA) to consider the following individuals to be removed under the Immigration and Nationality Act and so to have their OASDI benefits terminated: <ul> <li>an individual with respect to whom an order admitting the individual to citizenship has been revoked and set aside where such action is based on conduct relating to participation in Nazi persecution, concealment of a material fact about such conduct, or willful misrepresentation about such conduct; and </li> <li>an individual who, pursuant to a settlement agreement with the Attorney General (AG), has admitted to such conduct and has lost status as a U.S. national by renouncing that status. </li> </ul> <p>Requires such individuals to have been considered removed under such Act as of the date of the revocation, setting aside, or renunciation.</p> <p>Prohibits such individuals from receiving other Social Security benefits based on the wages and self-employment income of any other individual.</p> <p>Prohibits the payment to such individuals also of any benefits under SSA tile XVI (Supplemental Security Income) (SSI).</p> <p>Requires the AG or the Secretary of Homeland Security (DHS) to notify the Commissioner of Social Security of such revocations, setting asides, and renunciations of nationality.</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-113hr5739enr/xml/BILLS-113hr5739enr.xml"
@@ -3544,29 +3544,29 @@
   "House": "R"
  },
  "summary": {
-  "headline": "This law stops Social Security and SSI benefits for people whose U.S. citizenship was revoked over Nazi persecution conduct, or who gave up citizenship after admitting such conduct.",
-  "what_it_does": "It treats certain people as removed from the country under immigration law. This happens when a court order granting citizenship is revoked and set aside because of conduct tied to Nazi persecution, hiding a key fact about that conduct, or lying about it. It also covers people who admitted such conduct under a settlement with the Attorney General and gave up U.S. nationality. Those people lose Social Security retirement, disability, and survivor benefits, including benefits based on another worker's record, and they also lose SSI. The Attorney General or Homeland Security must notify the Social Security Commissioner when these citizenship actions happen.",
+  "headline": "This law stops Social Security and SSI benefits for certain people who lost U.S. citizenship or nationality because of their roles in Nazi persecution.",
+  "what_it_does": "It adds a rule to the Social Security Act that treats certain people as removed from the country under immigration law. That makes them ineligible for their Social Security retirement, survivor, and disability benefits. It also bars them from getting benefits based on another worker's record and from Supplemental Security Income (SSI). The Attorney General or the Department of Homeland Security must notify the Social Security Commissioner when a citizenship order is revoked or when a person renounces nationality under a settlement agreement.",
   "who_it_affects": [
    {
-    "group": "Former U.S. citizens whose naturalization was revoked over Nazi persecution conduct",
-    "how": "Their Social Security and SSI benefits end because they are treated as removed under immigration law as of the date of the revocation."
+    "group": "People whose U.S. citizenship was revoked based on Nazi persecution conduct",
+    "how": "Their Social Security, survivor, disability, and SSI benefits end, and they cannot receive benefits based on another person's work record."
    },
    {
     "group": "People who admitted Nazi persecution conduct in a settlement with the Attorney General and gave up U.S. nationality",
-    "how": "They lose eligibility for Social Security and SSI benefits as of the date they renounced citizenship."
+    "how": "They lose eligibility for Social Security and SSI benefits from the date they renounced nationality."
    },
    {
-    "group": "Family members who receive benefits based on the record of a covered person",
-    "how": "They can no longer receive Social Security benefits that are based on the wages or self-employment income of a covered person."
+    "group": "Spouses, children, and other relatives who might receive benefits based on these people's work records",
+    "how": "They can no longer receive benefits that were based on the wages or self-employment income of a person covered by this law."
    },
    {
-    "group": "Social Security Administration",
-    "how": "It must stop payments to covered people once notified by the Attorney General or Homeland Security."
+    "group": "Social Security Administration and the Department of Justice or Homeland Security",
+    "how": "They must share notices about revoked citizenship and renounced nationality so the Social Security Administration can stop payments."
    }
   ],
-  "when_it_takes_effect": "Upon enactment on December 18, 2014, based on the summary provided; the summary does not state a separate effective date.",
+  "when_it_takes_effect": "The law took effect when it was enacted on December 18, 2014.",
   "ceremonial": false,
-  "confidence": "medium",
+  "confidence": "high",
   "ai_generated": true,
   "model": "claude-haiku-5-5",
   "written": "2026-11-08"

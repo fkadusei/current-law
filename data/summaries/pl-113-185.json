@@ -1,37 +1,29 @@
 {
- "headline": "A 2014 law requires Medicare post-acute care providers to report standardized patient data so providers can share records and Medicare can compare their performance.",
- "what_it_does": "The law directs the Department of Health and Human Services to collect standardized patient assessment, quality, and resource-use data from post-acute care providers. It requires that this data be standardized and exchangeable so providers can share patient histories and coordinate care, including at discharge. It also requires hospice surveys at least every 36 months, changes how hospice payment caps are updated, and creates a Medicare Improvement Fund for future program improvements.",
+ "headline": "A 2014 law requires Medicare post-acute care providers to report standardized patient data, links the reporting to Medicare payment changes, and adds hospice oversight rules.",
+ "what_it_does": "The law directs the Health and Human Services Secretary to require home health agencies, inpatient rehabilitation facilities, long-term care hospitals, and skilled nursing facilities to report standardized patient assessment, quality, and resource-use data. Skilled nursing facilities that do not report get a 2% reduction in their annual payment update. The law also requires hospices to receive a standard survey at least every 36 months and adds medical review for long-stay hospice patients. It replaces an older Medicare fund with a new Medicare Improvement Fund for fee-for-service improvements.",
  "who_it_affects": [
   {
-   "group": "Home health agencies",
-   "how": "They must report quality, resource-use, and standardized patient assessment data on a three-phase schedule."
+   "group": "Medicare beneficiaries who use home health, rehabilitation, long-term care hospital, or skilled nursing care",
+   "how": "Their providers will report more standardized data, which the law says is meant to help care be coordinated when they move between settings, including at discharge."
   },
   {
-   "group": "Inpatient rehabilitation facilities",
-   "how": "They must report quality, resource-use, and standardized patient assessment data on a three-phase schedule."
-  },
-  {
-   "group": "Long-term care hospitals",
+   "group": "Home health agencies, inpatient rehabilitation facilities, and long-term care hospitals",
    "how": "They must report quality, resource-use, and standardized patient assessment data on a three-phase schedule."
   },
   {
    "group": "Skilled nursing facilities",
-   "how": "Their Medicare market basket payment update is reduced by 2% if they do not report the required data."
+   "how": "Those that do not report the required data will have their annual market basket payment update reduced by 2%."
   },
   {
-   "group": "Hospice programs",
-   "how": "They must undergo a standard survey at least once every 36 months and may face medical review if they have many patients receiving hospice care for more than 180 days."
+   "group": "Hospice programs and their long-stay patients",
+   "how": "Hospices face surveys at least every 36 months, and patients receiving hospice care for more than 180 days may face medical review if the share of such patients is high."
   },
   {
-   "group": "Medicare beneficiaries receiving hospice care for more than 180 days",
-   "how": "Limits on beneficiary liability for denied payments now follow the same rules that apply to other services judged not reasonable or necessary."
-  },
-  {
-   "group": "Medicare beneficiaries using post-acute care",
-   "how": "Their providers will share standardized records intended to support coordinated care, and public reports will show provider performance."
+   "group": "Medicare fee-for-service enrollees and providers",
+   "how": "A re-established Medicare Improvement Fund, funded from both Medicare trust funds, can be used by the Secretary for fee-for-service improvements starting in and after fiscal year 2020."
   }
  ],
- "when_it_takes_effect": "The law was enacted October 6, 2014. The summary describes a three-phase reporting schedule and funding periods running through FY2025, but it does not give exact start dates for each provision.",
+ "when_it_takes_effect": "The reporting requirements phase in on a three-phase schedule set by the Secretary. Hospice survey funding runs from fiscal years 2015 through 2025, and the hospice payment cap update applies for fiscal years 2017 through 2025. The Medicare Improvement Fund is available during and after fiscal year 2020.",
  "ceremonial": false,
  "confidence": "medium",
  "ai_generated": true,

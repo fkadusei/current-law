@@ -1,26 +1,9 @@
 {
- "headline": "Directs the Treasury to mint a commemorative $1 silver coin marking the WWI centennial, sold only in 2018, with a design contest and a $10 surcharge per coin.",
- "what_it_does": "The law tells the Treasury Secretary to make and sell $1 silver coins honoring the 100th anniversary of America's entry into World War I. It also requires a juried design contest for the coin's front and back, with a paid prize for the winner. The coins may only be issued during calendar year 2018, and each coin sold carries a $10 surcharge that goes to the United States Foundation for the Commemoration of the World Wars to support the World War I Centennial Commission. The Treasury must make sure the program costs the government nothing, and surcharge money is not paid out until the coin's design and issuing costs are recovered.",
- "who_it_affects": [
-  {
-   "group": "People who buy commemorative coins",
-   "how": "They can purchase the special silver coin during 2018, but each one carries a $10 surcharge on top of its face value."
-  },
-  {
-   "group": "World War I veterans and their families",
-   "how": "The coin and its surcharge funds are meant to help commemorate the war's centennial."
-  },
-  {
-   "group": "The World War I Centennial Commission and the United States Foundation for the Commemoration of the World Wars",
-   "how": "They receive surcharge money from coin sales to help fund centennial commemoration activities, after program costs are covered."
-  },
-  {
-   "group": "Artists who enter the design competition",
-   "how": "They may submit designs in a juried contest, and the winner receives compensation."
-  }
- ],
- "when_it_takes_effect": "Coins may be issued only during calendar year 2018, after the law was enacted on December 16, 2014.",
- "ceremonial": false,
+ "headline": "A 2014 law lets the Treasury mint $1 silver coins in 2018 to mark the centennial of America's entry into World War I.",
+ "what_it_does": "The law directs the Treasury Secretary to mint and issue $1 silver coins only during 2018 to commemorate the World War I centennial. It also requires a juried design competition, with a paid prize for the winning design. Each coin sold carries a $10 surcharge paid to the United States Foundation for the Commemoration of the World Wars to support the World War I Centennial Commission. The Treasury must ensure the program has no net cost to the government and must recover its design and issuing costs before any surcharge money goes out.",
+ "who_it_affects": [],
+ "when_it_takes_effect": "Enacted December 16, 2014; coins may be issued only during calendar year 2018.",
+ "ceremonial": true,
  "confidence": "high",
  "ai_generated": true,
  "model": "claude-haiku-5-5",

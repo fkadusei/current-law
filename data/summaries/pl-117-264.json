@@ -1,29 +1,29 @@
 {
- "headline": "A short-term spending bill that keeps the federal government funded at last year's levels through December 30, 2022, and extends several expiring programs.",
- "what_it_does": "This law provides temporary funding for federal agencies for the rest of fiscal year 2023, so the government does not shut down when the prior stopgap expires on December 23, 2022. Most programs continue at fiscal 2022 funding levels until the full spending bills are enacted or the deadline passes. It also extends several programs and authorities through December 30, 2022, including the FCC's spectrum auction authority, a special assessment that funds human-trafficking survivor programs, the U.S. Parole Commission, a Commodity Futures Trading Commission fund account, and a restriction on Indian Health Service funds for certain Alaska Native entities. The budget-related parts of the bill are exempted from certain federal budget rules.",
+ "headline": "A December 2022 law keeps the federal government funded at 2022 levels through December 30, 2022, and extends several expiring programs.",
+ "what_it_does": "Division A is a continuing resolution, which lets federal agencies keep operating at fiscal year 2022 funding levels while Congress finishes the 2023 spending bills. Without it, a government shutdown would have started when the prior funding expired on December 23, 2022. Division B extends several programs and authorities through December 30, 2022, including FCC spectrum auctions, a special assessment that funds human-trafficking survivor programs, the U.S. Parole Commission, a Commodity Futures Trading Commission fund account, and limits on Indian Health Service payments to certain Alaska Native entities. A separate title exempts the budget effects of the law from certain pay-as-you-go and scorekeeping rules.",
  "who_it_affects": [
   {
-   "group": "Federal employees and federal agencies",
-   "how": "Agencies can keep operating and paying staff at last year's funding levels instead of closing during a shutdown."
+   "group": "federal employees and federal agency workers",
+   "how": "Their agencies keep receiving funding so they can continue operating without a shutdown."
   },
   {
-   "group": "Persons convicted of certain sexual abuse or human trafficking offenses",
-   "how": "A special assessment on nonindigent offenders is extended and continues to fund programs for human-trafficking survivors."
+   "group": "people who receive services from federal agencies",
+   "how": "Federal programs continue running at 2022 funding levels instead of stopping when the prior funding ran out."
   },
   {
-   "group": "Federal Communications Commission and wireless spectrum bidders",
-   "how": "The FCC's authority to hold auctions for electromagnetic spectrum licenses is extended through December 30, 2022."
+   "group": "people and organizations convicted of certain sexual abuse or human trafficking offenses",
+   "how": "A special assessment that applies to them is extended, and the money goes to programs for human-trafficking survivors."
   },
   {
    "group": "Alaska Native villages and corporations in areas served by Alaska Native regional health entities",
-   "how": "A restriction on Indian Health Service disbursing funds to them is extended through December 30, 2022."
+   "how": "Limits on Indian Health Service disbursing funds to them are extended."
   },
   {
-   "group": "Parole and commodity futures oversight bodies",
-   "how": "The U.S. Parole Commission and the CFTC Customer Protection Fund expense account are kept in place through December 30, 2022."
+   "group": "companies that bid on FCC electromagnetic spectrum licenses",
+   "how": "The FCC's authority to hold spectrum license auctions is extended."
   }
  ],
- "when_it_takes_effect": "Enacted December 23, 2022; funding and extensions run through December 30, 2022, or until applicable full-year appropriations are enacted.",
+ "when_it_takes_effect": "Enacted December 23, 2022; the funding and extensions run through December 30, 2022, or until the applicable FY2023 appropriations act is enacted, whichever is earlier.",
  "ceremonial": false,
  "confidence": "medium",
  "ai_generated": true,

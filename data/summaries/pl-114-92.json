@@ -1,37 +1,49 @@
 {
- "headline": "The FY2016 NDAA sets defense spending authorizations, troop levels, pay and health policies, acquisition rules, and military construction plans for the 2016 fiscal year.",
- "what_it_does": "This law authorizes money the Defense Department and Energy Department's nuclear security programs may spend in fiscal year 2016, but it does not appropriate the money itself. It sets active-duty and reserve troop strength limits, changes military pay, bonuses, retirement, and health care rules, and adds many rules on weapons buying, contracting, and oversight. It also authorizes military construction projects and bars an additional base closure round.",
+ "headline": "The FY2016 defense bill authorizes roughly a year of spending and sets rules for the military, its personnel, health care, weapons programs, and Energy Department nuclear work.",
+ "what_it_does": "This law is the annual National Defense Authorization Act for fiscal year 2016. It authorizes money for Defense Department programs such as weapons purchases, research, operations, and health care, but it does not appropriate the money itself, which happens in separate spending bills. It also sets many policies on military pay and benefits, troop levels, military justice and sexual assault response, acquisition rules, base construction, detainee transfers from Guantanamo, and Energy Department nuclear security programs. The summary covers a huge number of topics, so many provisions are reporting requirements or limits on spending until certain steps are taken.",
  "who_it_affects": [
   {
-   "group": "Active-duty and reserve service members",
-   "how": "The law sets their authorized force sizes, changes basic housing allowance rules, and creates new options for a blended retirement system starting in 2018 for those who opt in or join later."
+   "group": "Active-duty service members and their families",
+   "how": "The law sets troop strength levels, changes pay and bonus authorities, adjusts housing allowances, and changes parts of the retirement system, including a new defined-contribution option for those who opt in."
   },
   {
-   "group": "Military retirees and survivors",
-   "how": "The law changes retired pay and survivor benefit rules, including lump-sum payment options and a new spouse beneficiary election under the Survivor Benefit Plan."
+   "group": "Military retirees and people planning to join the military",
+   "how": "Some provisions change retirement pay structure, survivor benefit elections, and the lump-sum and matching retirement options that apply to newer service members."
+  },
+  {
+   "group": "Veterans and military members leaving service",
+   "how": "The law expands Yellow Ribbon reintegration eligibility, extends transition assistance training options, and changes reemployment rights for some reservists."
   },
   {
    "group": "TRICARE beneficiaries",
-   "how": "The law changes some TRICARE rules, such as pharmacy cost-sharing, access standards, and a pilot program for urgent care without pre-authorization."
+   "how": "The law changes pharmacy cost-sharing, adds access standards and public reporting on military health care facilities, and creates some pilot programs such as urgent care without pre-authorization."
   },
   {
-   "group": "Sexual assault victims in the military",
-   "how": "The law expands Special Victims' Counsel services, including to some civilian DOD employees, and adds notice and privacy protections for victims."
+   "group": "Military sexual assault victims and service members involved in military justice",
+   "how": "The law expands Special Victims' Counsel services to some civilian DOD employees and changes how victims can petition courts and how certain records are kept."
   },
   {
    "group": "Defense contractors and small businesses",
-   "how": "The law changes acquisition rules, contract thresholds, commercial item rules, and small business contracting programs that these firms must follow."
+   "how": "The law changes acquisition rules, commercial item determinations, small business contracting goals, and surety bond guarantee amounts."
   },
   {
-   "group": "Guantanamo Bay detainees and their families",
-   "how": "The law bars the use of defense funds to transfer or release detainees to the United States or to certain countries, and to close the facility."
+   "group": "Civilian Defense Department employees",
+   "how": "The law sets a two-year probationary period for new hires, allows delays in some step-increase pay, and extends several hiring and pay authorities."
   },
   {
-   "group": "Communities near military installations and construction contractors",
-   "how": "The law authorizes specified military construction and land projects, and changes several local land and facility transfer rules."
+   "group": "Residents near certain military installations and communities affected by base actions",
+   "how": "The law bars an additional base closure round and sets rules on some aircraft retirements and base realignments, including C-130H and A-10 units."
+  },
+  {
+   "group": "Detainees at Guantanamo Bay",
+   "how": "The law bars using Defense Department funds to transfer or release most detainees to the United States or certain countries and keeps the facility open."
+  },
+  {
+   "group": "Department of Energy nuclear security workers and contractors",
+   "how": "The law sets new notification, bonus-restriction, and reporting rules for employees and contractors in the National Nuclear Security Administration."
   }
  ],
- "when_it_takes_effect": "Most provisions took effect upon enactment on November 25, 2015, with fiscal year 2016 funding rules applying through September 30, 2016, and some changes set for later dates such as January 1, 2018.",
+ "when_it_takes_effect": "Signed into law on November 25, 2015. Many authorizations apply to fiscal year 2016, and some provisions have later deadlines such as January 1, 2018 for the new retirement system.",
  "ceremonial": false,
  "confidence": "medium",
  "ai_generated": true,

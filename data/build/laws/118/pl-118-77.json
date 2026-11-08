@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Crime and Law Enforcement",
  "sponsor": "Sen. Cornyn, John [R-TX]",
- "official_summary": "<p><strong>Victims' Voices Outside and Inside the Courtroom Effectiveness Act or the Victims' VOICES Act</strong></p><p>This bill makes a person who has assumed a victim's rights eligible to receive restitution for certain expenses from a convicted defendant. The bill applies to a person (i.e., legal guardian, representative of the victim's estate, another family member, or any other person appointed as suitable by the court) who has assumed the rights of a victim because such victim is under 18 years of age, incompetent, incapacitated, or deceased.</p><p>Under the Mandatory Victims Restitution Act of 1996, federal courts must order defendants who are convicted of certain crimes to pay restitution to their victims. This restitution must include the costs to reimburse the victim for lost income and necessary child care, transportation, and other expenses incurred while participating in the investigation or prosecution of the offense or attending proceedings relating to the offense, as well as medical and nonmedical care and treatment, and other associated costs.</p><p>This bill specifies that, in ordering restitution, a court must order the defendant to pay restitution to a person who has assumed the victim's rights. In particular, the defendant must pay restitution to reimburse the person's necessary and reasonable costs for (1) lost income, child care, transportation, and other expenses associated with participating in the investigation or prosecution of the offense or attending proceedings relating to the offense; and (2) lost income, transportation, and other expenses associated with transporting a victim to receive medical and nonmedical care and treatment (including physical and occupational therapy and rehabilitation).</p>",
+ "official_summary": "<p><strong>Victims' Voices Outside and Inside the Courtroom Effectiveness Act or the Victims' VOICES Act</strong></p><p>This act makes a person who has assumed a victim's rights eligible to receive restitution for certain expenses from a convicted defendant. The act applies to a person (i.e., legal guardian, representative of the victim's estate, another family member, or any other person appointed as suitable by the court) who has assumed the rights of a victim because such victim is under 18 years of age, incompetent, incapacitated, or deceased.</p><p>Under the Mandatory Victims Restitution Act of 1996, federal courts must order defendants who are convicted of certain crimes to pay restitution to their victims. This restitution must include the costs to reimburse the victim for lost income and necessary child care, transportation, and other expenses incurred while participating in the investigation or prosecution of the offense&nbsp;or attending proceedings relating to the offense, as well as medical and nonmedical care and treatment, and other associated costs.</p><p>This act specifies that, in ordering restitution, a court must order the defendant to pay restitution to a person who has assumed the victim's rights. In particular, the defendant must pay restitution to reimburse the person's necessary and reasonable costs for&nbsp;(1) lost income, child care, transportation, and other expenses associated with participating in the investigation or prosecution of the offense or attending proceedings relating to the offense; and (2) lost income, transportation, and other expenses associated with transporting a victim to receive medical and nonmedical care and treatment (including physical and occupational therapy and rehabilitation).</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-118s3706enr/xml/BILLS-118s3706enr.xml"
@@ -3518,20 +3518,24 @@
   "House": "R"
  },
  "summary": {
-  "headline": "Lets family members, guardians, and others who act for certain crime victims get repaid by convicted defendants for their own costs.",
-  "what_it_does": "Under existing federal law, courts must order people convicted of certain crimes to pay restitution to their victims. This law requires courts to also order restitution to a person who has taken on a victim's rights because the victim is under 18, incompetent, incapacitated, or has died. That person can be repaid for reasonable lost income, child care, travel, and other costs from taking part in the investigation, prosecution, or court proceedings. They can also be repaid for lost income, travel, and other costs of taking the victim to medical and nonmedical care, including physical and occupational therapy and rehabilitation.",
+  "headline": "Law requires convicted federal defendants to repay certain costs of family members or guardians who act on behalf of crime victims.",
+  "what_it_does": "Federal courts already must order people convicted of certain crimes to pay restitution to their victims. This law says courts must also order restitution to a person who has taken on the victim's rights because the victim is under 18, incompetent, incapacitated, or has died. That person can be repaid for necessary and reasonable costs like lost income, child care, and transportation from taking part in the investigation, prosecution, or court proceedings. They can also be repaid for lost income, transportation, and other costs of taking the victim to medical care, therapy, or rehabilitation.",
   "who_it_affects": [
    {
-    "group": "Parents, legal guardians, family members, and estate representatives of crime victims who are minors, incapacitated, or deceased",
-    "how": "They can now receive court-ordered repayment from the convicted defendant for their own reasonable costs tied to the case and to the victim's care."
+    "group": "Parents, legal guardians, and family members of crime victims who are minors, incapacitated, or deceased",
+    "how": "They can now receive court-ordered repayment for costs such as lost wages, child care, and travel tied to the case or to the victim's medical care."
+   },
+   {
+    "group": "Representatives of a deceased victim's estate and other court-appointed persons",
+    "how": "They are also eligible for restitution when they have assumed the victim's rights."
    },
    {
     "group": "People convicted of certain federal crimes",
-    "how": "Courts must order them to pay restitution to the person acting for the victim, in addition to restitution already owed to victims."
+    "how": "Courts must order them to pay these additional costs on top of restitution owed directly to victims."
    },
    {
     "group": "Federal courts",
-    "how": "Judges must include these added costs when ordering restitution in covered cases."
+    "how": "Judges must include these costs when ordering restitution in covered cases."
    }
   ],
   "when_it_takes_effect": "Enacted July 30, 2024; the summary does not state a separate effective date.",

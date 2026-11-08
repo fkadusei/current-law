@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Public Lands and Natural Resources",
  "sponsor": "Rep. Hurd, Jeff [R-CO-3]",
- "official_summary": "<p><strong>Wetlands Conservation and Access Improvement Act of 2025</strong></p><p>This act extends until FY2033 a requirement for the interest earned on certain funds held in the Federal Aid to Wildlife Restoration Fund to be distributed to states for carrying out certain wildlife conservation and restoration programs. Specifically, the act extends the period in which the interest earned on revenue generated from excise taxes on certain firearms, ammunition, and archery equipment must be used for wildlife conservation and restoration programs established under the North American Wetlands Conservation Act. This requirement was set to expire at the beginning of FY2026. In the absence of this requirement, this funding would be distributed to states, according to a formula, for (1) wildlife restoration, (2) hunter education and safety, (3) multistate conservation grants, and (4) administrative costs.</p>",
+ "official_summary": "<p><strong>Wetlands Conservation and Access Improvement Act of 2025</strong></p><p>This act extends until FY2033 a requirement for the interest earned on&nbsp;certain funds&nbsp;held in the Federal Aid to Wildlife Restoration Fund to be distributed to&nbsp;states for carrying out certain&nbsp;wildlife conservation and restoration programs. Specifically, the act extends the period in which the interest earned on revenue generated from&nbsp;excise taxes on certain firearms, ammunition, and archery equipment must be used for&nbsp;wildlife conservation and restoration programs established under the North American Wetlands Conservation Act. This requirement was set to expire at the beginning of FY2026. In the absence of this requirement, this funding would be distributed&nbsp;to states, according to a formula,&nbsp;for (1) wildlife restoration, (2) hunter education and safety, (3) multistate conservation grants, and (4) administrative costs.</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2316enr/uslm/BILLS-119hr2316enr.xml"
@@ -43,21 +43,25 @@
  "party_color": null,
  "control": {},
  "summary": {
-  "headline": "Law keeps sending interest from a federal wildlife fund to wetlands conservation programs through fiscal year 2033.",
-  "what_it_does": "Excise taxes on certain guns, ammunition, and archery gear go into a federal wildlife fund, and that money earns interest. A rule required the interest to pay for wetlands conservation programs under the North American Wetlands Conservation Act, but that rule was set to end when fiscal year 2026 began. This law extends the rule through fiscal year 2033. Without it, the interest would have been shared with states by formula for wildlife restoration, hunter education and safety, multistate conservation grants, and administrative costs.",
+  "headline": "Law keeps interest from federal taxes on guns, ammunition, and archery gear going to wetlands conservation programs through fiscal year 2033.",
+  "what_it_does": "Federal excise taxes on certain firearms, ammunition, and archery equipment go into a wildlife fund, and that money earns interest. This law extends a rule that sends the interest to wildlife conservation and restoration programs set up under the North American Wetlands Conservation Act. The rule was set to end at the start of fiscal year 2026 and now runs through fiscal year 2033. Without the extension, the interest would have gone to states by formula for wildlife restoration, hunter education and safety, multistate conservation grants, and administrative costs.",
   "who_it_affects": [
    {
-    "group": "Groups that receive North American Wetlands Conservation Act funding",
-    "how": "They keep getting the interest from the wildlife fund for wetlands conservation and restoration work through fiscal year 2033."
+    "group": "Groups and projects funded under the North American Wetlands Conservation Act",
+    "how": "They continue to receive the interest earned on the wildlife fund through fiscal year 2033."
    },
    {
     "group": "State wildlife agencies",
-    "how": "The interest stays set aside for wetlands programs instead of being added to the formula money states get for wildlife restoration, hunter education, and related uses."
+    "how": "They will not receive this interest money through the state formula for wildlife restoration, hunter education, and related uses while the extension is in place."
+   },
+   {
+    "group": "People who buy firearms, ammunition, or archery equipment",
+    "how": "The law does not change the taxes they pay, only where the interest earned on that tax money goes."
    }
   ],
-  "when_it_takes_effect": "Signed November 25, 2025; extends the requirement, which had been set to expire at the start of fiscal year 2026, through fiscal year 2033.",
+  "when_it_takes_effect": "Enacted November 25, 2025; the extension covers fiscal years 2026 through 2033.",
   "ceremonial": false,
-  "confidence": "medium",
+  "confidence": "high",
   "ai_generated": true,
   "model": "claude-opus-5-5",
   "written": "2026-11-08"

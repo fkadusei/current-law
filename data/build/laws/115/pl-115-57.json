@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Social Welfare",
  "sponsor": "Rep. Reichert, David G. [R-WA-8]",
- "official_summary": " <p>(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)</p> <p><strong>Emergency Aid to American Survivors of Hurricanes Irma and Jose Overseas Act</strong></p> <p class=\"MsoNormal\" style=\"MARGIN: 0in 0in 10pt\">(Sec. 2) This bill amends title XI (General Provisions) of the Social Security Act to increase, from $1 million to $25 million, the maximum amount of temporary assistance that may be provided annually in FY2017-FY2018. (\"Temporary assistance\" refers to money payments, temporary lodging, transportation, and other goods and services necessary for the health and welfare of U.S. citizens and their dependents who return from a foreign country due to a crisis and are without available resources.) </p>",
+ "official_summary": " <p>(This measure has not been amended since it was introduced. The expanded summary of the Senate passed version is repeated here.)</p> <p><strong>Emergency Aid to American Survivors of Hurricanes Irma and Jose Overseas Act</strong></p> <p class=\"MsoNormal\" style=\"MARGIN: 0in 0in 10pt\">(Sec. 2) This bill amends title XI (General Provisions) of the Social Security Act to increase, from $1 million to $25 million, the maximum amount of temporary assistance that may be provided annually in FY2017-FY2018. (\"Temporary assistance\" refers to money payments, temporary lodging, transportation, and other goods and services necessary for the health and welfare of U.S. citizens and their dependents who return from a foreign country due to a crisis and are without available resources.) </p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-115hr3732enr/xml/BILLS-115hr3732enr.xml"
@@ -34,19 +34,19 @@
  "party_color": null,
  "control": {},
  "summary": {
-  "headline": "This law raised the yearly cap on emergency aid for Americans returning from abroad after Hurricanes Irma and Jose, from $1 million to $25 million, for fiscal years 2017 and 2018.",
-  "what_it_does": "It changes the Social Security Act so the federal government can spend up to $25 million per year, instead of $1 million, on temporary help for U.S. citizens and their dependents who come back from a foreign country because of a crisis and have no other resources. The help can include money payments, temporary lodging, transportation, and other goods and services needed for health and welfare. The higher cap applies only to fiscal years 2017 and 2018.",
+  "headline": "This law temporarily raises the yearly cap on emergency aid for U.S. citizens who must leave a foreign country during a crisis, from $1 million to $25 million.",
+  "what_it_does": "It changes the Social Security Act so that the maximum amount of temporary assistance that can be provided each year rises from $1 million to $25 million for fiscal years 2017 and 2018. Temporary assistance includes money payments, temporary lodging, transportation, and other goods and services needed for health and welfare. It is meant for U.S. citizens and their dependents who return from a foreign country because of a crisis and have no resources available to them.",
   "who_it_affects": [
    {
-    "group": "U.S. citizens and their dependents who return from a foreign country during a crisis",
-    "how": "They could receive a larger pool of temporary money, lodging, or transportation help if they have no other resources available."
+    "group": "U.S. citizens and their dependents who return from a foreign country because of a crisis",
+    "how": "They could receive a larger total amount of temporary assistance each year, such as money, lodging, or transportation, if they have no resources available."
    },
    {
-    "group": "State and federal agencies that administer temporary assistance for returning citizens",
-    "how": "They had a higher annual spending limit for this type of emergency aid during fiscal years 2017 and 2018."
+    "group": "Agencies that administer temporary assistance under the Social Security Act",
+    "how": "They have a higher annual spending limit for this aid during fiscal years 2017 and 2018."
    }
   ],
-  "when_it_takes_effect": "Enacted September 12, 2017; the higher $25 million cap applies to fiscal years 2017 and 2018.",
+  "when_it_takes_effect": "The higher $25 million annual limit applies to fiscal years 2017 and 2018, after the law was enacted on September 12, 2017.",
   "ceremonial": false,
   "confidence": "medium",
   "ai_generated": true,

@@ -1,41 +1,41 @@
 {
- "headline": "A 2015 law extends expiring VA health, housing, education, and homelessness programs for about another year, and makes several construction and project changes.",
- "what_it_does": "This law keeps many Department of Veterans Affairs programs running that were set to end. Most of the extensions run through fiscal year 2016, and some run through December 31, 2016. It also changes plans for a VA medical center project in Tampa, Florida, and authorizes several facility projects in New York and California, and it raises the authorized amount for a replacement VA medical center in Denver, Colorado.",
+ "headline": "A 2015 law extends dozens of expiring VA health care, benefits, and homelessness programs for one more year or so.",
+ "what_it_does": "This law keeps many Department of Veterans Affairs programs running that were set to expire. It extends health care authorities such as copayment collection and caregiver support, plus benefit programs like housing loan rules and education advisory work. It also extends homelessness programs, transportation grants, and several facility and reporting requirements. Most extensions run through fiscal year 2016 or December 31, 2016.",
  "who_it_affects": [
   {
-   "group": "Veterans who receive VA health care",
-   "how": "Copayment collection for hospital and nursing home care, caregiver support, and several health pilot programs continue under the extended authority."
+   "group": "Veterans receiving VA hospital or nursing home care",
+   "how": "Rules on copayments for hospital and nursing home care and nursing home care for certain service-connected veterans are extended."
   },
   {
-   "group": "Veterans with service-connected disabilities who need nursing home care",
-   "how": "The VA's requirement to provide that nursing home care is extended through December 31, 2016."
+   "group": "Family caregivers of veterans",
+   "how": "Assistance and support services for caregivers are funded through fiscal year 2016."
   },
   {
    "group": "Homeless veterans and veterans at risk of homelessness",
-   "how": "Reintegration, housing assistance, supportive services, and counseling programs continue through fiscal year 2016."
+   "how": "Reintegration, housing assistance, supportive services, and referral and counseling programs are extended."
   },
   {
-   "group": "Veterans applying for or holding VA housing loans",
-   "how": "Specified housing loan provisions and definitions, including how property value is calculated at foreclosure, are extended through fiscal year 2016."
+   "group": "Veterans with service-connected disabilities who use specially adapted housing",
+   "how": "Temporary eligibility expansion for certain veterans with difficulty ambulating is extended through fiscal year 2016."
   },
   {
-   "group": "Veterans seeking education or training benefits",
-   "how": "The VA's Veterans' Advisory Committee on Education and the multipliers used to pay schools and apprenticeship providers for enrollment reports are extended."
+   "group": "Highly rural veterans",
+   "how": "Grants to veterans service organizations for transportation are extended through fiscal year 2016."
   },
   {
-   "group": "Rural and disabled veterans who need transportation to VA facilities",
-   "how": "Transportation grants for highly rural veterans and rides to VA facilities for care or rehabilitation are extended."
+   "group": "Veterans seeking VA home loans or facing foreclosure",
+   "how": "Specified housing loan provisions, including how property net value is calculated at foreclosure, are extended through fiscal year 2016."
   },
   {
-   "group": "Veterans in Denver, Colorado, and in the other named VA facility areas",
-   "how": "Construction and seismic projects at medical centers in Denver, Tampa, Canandaigua, Long Beach, West Los Angeles, and San Diego are authorized or adjusted, and large projects must use a non-VA federal entity for project management."
+   "group": "Women veterans newly separated from service",
+   "how": "A pilot program offering counseling in retreat settings is extended through December 31, 2016."
   },
   {
-   "group": "Veterans and service members with severe injuries, adaptive sports participants, and veterans with mobility-related disabilities",
-   "how": "Rehabilitation benefits, adaptive sports funding, and expanded eligibility for specially adapted housing assistance are extended."
+   "group": "Veterans in vocational rehabilitation or education programs",
+   "how": "Transportation to VA facilities and fee multipliers paid to schools for enrollment reports are extended."
   }
  ],
- "when_it_takes_effect": "Enacted September 30, 2015; the extensions run through fiscal year 2016 or December 31, 2016, depending on the program.",
+ "when_it_takes_effect": "Enacted September 30, 2015; the extended authorities run through fiscal year 2016 or fiscal year 2017 for the DOD-VA Joint Demonstration Fund, or through December 31, 2016 for others.",
  "ceremonial": false,
  "confidence": "medium",
  "ai_generated": true,

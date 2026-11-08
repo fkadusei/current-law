@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Science, Technology, Communications",
  "sponsor": "Rep. Tonko, Paul [D-NY-20]",
- "official_summary": " <p><strong>Preventing Illegal Radio Abuse Through Enforcement Act or the PIRATE Act</strong></p> <p>This bill addresses unlicensed radio broadcasting (called pirating), including by increasing the maximum fine for a pirate radio broadcasting violation to $2 million and imposing a fine of up to $100,000 per day for pirating violations subject to the $2 million limit.</p> <p>The Federal Communications Commission (FCC) must (1) annually submit to Congress a report summarizing implementation of this bill and associated enforcement activities for the previous fiscal year; and (2) at least once a year, assign appropriate enforcement personnel to focus specific and sustained attention on the elimination of pirate radio broadcasting within the top five radio markets.</p> <p>The FCC may not preempt any state or local law prohibiting pirate radio broadcasting.</p> <p>The FCC shall (1) revise its rules to require that, absent good cause, in any case alleging a violation, it shall proceed directly to issue a Notice of Apparent Liability without first issuing a Notice of Unlicensed Operation; and (2) publish a database of all licensed radio stations operating in the AM and FM band that includes each licensed station and all entities that have received a Notice of Unlicensed Operation, Notice of Apparent Liability, or Forfeiture Order issued by the FCC. </p>",
+ "official_summary": " <p><strong>Preventing Illegal Radio Abuse Through Enforcement Act or the PIRATE Act</strong></p> <p>This bill addresses unlicensed radio broadcasting (called pirating), including by increasing to $2 million the maximum fine for a pirate radio broadcasting violation and imposing a fine of up to $100,000 per day for pirating violations subject to the $2 million limit.</p> <p>The Federal Communications Commission (FCC) must (1) annually submit to Congress a report summarizing implementation of this bill and associated enforcement activities for the previous fiscal year; and (2) at least once a year, assign appropriate enforcement personnel to focus specific and sustained attention on the elimination of pirate radio broadcasting within the top five radio markets.</p> <p>The FCC may not preempt any state or local law prohibiting pirate radio broadcasting.</p> <p>The FCC shall (1) revise its rules to require that, absent good cause, in any case alleging a violation, it shall proceed directly to issue a Notice of Apparent Liability without first issuing a Notice of Unlicensed Operation; and (2) publish a database of all licensed radio stations operating in the AM and FM band that includes each licensed station and all entities that have received a Notice of Unlicensed Operation, Notice of Apparent Liability, or Forfeiture Order from the FCC.</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-116hr583enr/xml/BILLS-116hr583enr.xml"
@@ -37,27 +37,27 @@
  "party_color": null,
  "control": {},
  "summary": {
-  "headline": "A 2020 law raises fines for unlicensed radio broadcasting and requires the FCC to crack down on pirate radio more directly.",
-  "what_it_does": "The law raises the maximum fine for pirate radio broadcasting to $2 million and allows fines of up to $100,000 per day for violations under that limit. It requires the FCC to skip a warning step in most cases and go straight to a Notice of Apparent Liability, unless there is good cause. The FCC must also assign enforcement staff to focus on pirate radio in the top five radio markets each year, and it must publish a public database of licensed AM and FM stations and entities that received FCC enforcement notices. The FCC cannot block state or local laws against pirate radio, and it must send Congress an annual report on enforcement.",
+  "headline": "The PIRATE Act raises fines for unlicensed radio broadcasting and requires the FCC to crack down on pirate radio more directly.",
+  "what_it_does": "The law raises the maximum fine for pirate radio broadcasting to $2 million and allows fines of up to $100,000 per day for violations subject to that limit. It requires the Federal Communications Commission to report yearly to Congress on enforcement and to assign enforcement staff to focus on pirate stations in the top five radio markets. The FCC must skip its earlier warning step in most cases and go straight to a Notice of Apparent Liability, and it must publish a public database of licensed AM and FM stations and entities that have received FCC enforcement notices. The FCC also cannot block state or local laws that prohibit pirate radio.",
   "who_it_affects": [
    {
-    "group": "People and groups who operate unlicensed radio stations",
-    "how": "They face much higher maximum fines and can be penalized more quickly, usually without first receiving a warning notice."
+    "group": "Unlicensed radio operators (pirate broadcasters)",
+    "how": "They face much higher possible fines and faster FCC enforcement action, often without a warning notice first."
    },
    {
-    "group": "Licensed AM and FM radio station owners",
-    "how": "Their station information is listed in a public FCC database that also shows entities that have received enforcement notices."
+    "group": "Licensed AM and FM radio stations",
+    "how": "They can check the new public database to see which licensed stations and entities have received FCC enforcement notices."
    },
    {
-    "group": "Residents of the top five radio markets",
-    "how": "The FCC must give sustained enforcement attention to pirate radio in these areas each year."
+    "group": "People in the nation's top five radio markets",
+    "how": "The FCC must assign enforcement staff to focus on removing pirate stations in these areas each year."
    },
    {
     "group": "State and local governments",
-    "how": "Their own laws banning pirate radio cannot be overridden by the FCC."
+    "how": "Their laws banning pirate radio remain in force and are not overridden by the FCC."
    }
   ],
-  "when_it_takes_effect": "The law took effect when it was enacted on January 24, 2020, though the FCC must revise its rules and publish the database afterward, and the exact timing of those steps is not stated in the summary.",
+  "when_it_takes_effect": "Upon enactment on January 24, 2020, though the FCC must carry out its rule changes and database publication on its own schedule.",
   "ceremonial": false,
   "confidence": "medium",
   "ai_generated": true,

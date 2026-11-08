@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Crime and Law Enforcement",
  "sponsor": "Rep. Carter, Earl L. \"Buddy\" [R-GA-1]",
- "official_summary": " <p>(This measure has not been amended since it was reported to the House on November 19, 2015. The summary of that version is repeated here.)</p> <p><b>Federal Law Enforcement Training Centers Reform and Improvement Act of 2015</b></p> <p>(Sec. 2) This bill amends the Homeland Security Act of 2002 to codify the establishment of the Federal Law Enforcement Training Center (FLETC) within the Department of Homeland Security (DHS).</p> <p>The FLETC must be headed by a director who reports to the DHS Secretary. </p> <p>The bill sets forth functions of the director, including to: establish and execute organizational plans and priorities; direct and manage training facilities, programs, and activities; develop training goals and curricula; disseminate homeland security information to law enforcement and security agencies and private sector stakeholders; conduct acquisition in compliance with federal law and regulations; coordinate and share digital resources with federal agencies; and collaborate to improve international instructional development, training, and technical assistance to foreign law enforcement.</p> <p>Additionally, the bill sets forth training responsibilities of the FLETC and partner organizations (i.e., federal agencies that participate in FLETC training programs under a formal memorandum of understanding).</p> <p>It authorizes the FLETC to: (1) train federal employees engaged in homeland security operations or law enforcement activities, and (2) execute strategic partnerships with state and local law enforcement agencies and coordinate with private sector stakeholders to provide training. The FLETC must consult with relevant law enforcement and security agencies to develop and deliver training programs.</p> <p>A partner organization must pay for and assign non-reimbursable detailed instructors to support training programs.</p> <p>The FLETC may conduct federal employee trainings at FLETC facilities, at off-site locations, or by distributed learning (e.g., online); detail its employees throughout DHS; charge fees for non-federal trainings; provide certain student support services; hire retired federal employees with training experience; and reimburse travel expenses of non-federal and intermittent federal employees. </p> <p>Individuals who attend FLETC training must reside in FLETC housing, to the extent practicable.</p> <p>Finally, the bill codifies existing authorities of the FLETC to spend funds to promote awareness of and support for law enforcement training, accept and use gifts for authorized purposes, accept reimbursement for the construction or renovation of training facilities, obligate funds in anticipation of reimbursements, purchase uniforms and passenger vehicles, and provide room and board for student interns. It also authorizes the FLETC to spend funds to honor and memorialize FLETC graduates who have died in the line of duty.</p>",
+ "official_summary": " <p>(This measure has not been amended since it was passed by the Senate on December 10, 2016. The summary of that version is repeated here.)</p> <p><b>Federal Law Enforcement Training Centers Reform and Improvement Act of 2015</b></p> <p>(Sec. 2) This bill amends the Homeland Security Act of 2002 to codify the establishment of the Federal Law Enforcement Training Center (FLETC) within the Department of Homeland Security (DHS).</p> <p>The FLETC must be headed by a director who reports to the DHS Secretary. </p> <p>The bill sets forth functions of the director, including to: establish and execute organizational plans and priorities; direct and manage training facilities, programs, and activities; develop training goals and curricula; disseminate homeland security information to law enforcement and security agencies and private sector stakeholders; conduct acquisition in compliance with federal law and regulations; coordinate and share digital resources with federal agencies; and collaborate to improve international instructional development, training, and technical assistance to foreign law enforcement.</p> <p>Additionally, the bill sets forth training responsibilities of the FLETC and partner organizations (i.e., federal agencies that participate in FLETC training programs under a formal memorandum of understanding).</p> <p>It authorizes the FLETC to: (1) train federal employees engaged in homeland security operations or law enforcement activities, and (2) execute strategic partnerships with state and local law enforcement agencies and coordinate with private sector stakeholders to provide training. The FLETC must consult with relevant law enforcement and security agencies to develop and deliver training programs.</p> <p>A partner organization must pay for and assign non-reimbursable detailed instructors to support training programs.</p> <p>The FLETC may conduct federal employee trainings at FLETC facilities, at off-site locations, or by distributed learning (e.g., online); detail its employees throughout DHS; charge fees for non-federal trainings; provide certain student support services; hire retired federal employees with training experience; and reimburse travel expenses of non-federal and intermittent federal employees. <p>Individuals who attend FLETC training must reside in FLETC housing, to the extent practicable.</p> <p>Finally, the bill codifies existing authorities of the FLETC to spend funds to promote awareness of and support for law enforcement training, accept and use gifts for authorized purposes, accept reimbursement for the construction or renovation of training facilities, obligate funds in anticipation of reimbursements, purchase uniforms and passenger vehicles, and provide room and board for student interns. It also authorizes the FLETC to spend funds to honor and memorialize FLETC graduates who have died in the line of duty.</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-114hr3842enr/xml/BILLS-114hr3842enr.xml"
@@ -3543,31 +3543,35 @@
   "House": "R"
  },
  "summary": {
-  "headline": "This law writes into statute the Federal Law Enforcement Training Center's place within the Department of Homeland Security and sets out how it trains federal, state, and local officers.",
-  "what_it_does": "The law puts the Federal Law Enforcement Training Center (FLETC) into the Homeland Security Act of 2002, so its existence and structure are set by statute. A director who reports to the DHS Secretary runs the center, sets training goals and curricula, and manages facilities and acquisitions. The center may train federal employees in homeland security and law enforcement, and it may partner with state, local, and private groups, sometimes charging fees for non-federal training. The law also keeps several existing spending and housing powers and lets the center honor graduates who died in the line of duty.",
+  "headline": "This law puts the Federal Law Enforcement Training Center into the Homeland Security Act and sets out its duties, who it trains, and how it can spend and charge money.",
+  "what_it_does": "The law writes the Federal Law Enforcement Training Center (FLETC) into the Homeland Security Act of 2002 as part of the Department of Homeland Security, led by a director who reports to the DHS Secretary. It lists the center's job duties, including building training programs, managing facilities, sharing homeland security information, and helping train foreign police. It lets FLETC train federal employees, state and local police, and private sector groups, and it sets rules for partner agencies, fees, housing, and travel costs. It also makes existing spending and gift authorities permanent, including money to honor graduates who died in the line of duty.",
   "who_it_affects": [
    {
     "group": "Federal law enforcement and homeland security employees",
-    "how": "They receive training through FLETC, and attendees are expected to live in FLETC housing when practical."
+    "how": "They may be trained at FLETC facilities, off-site, or online, and some are expected to live in FLETC housing when practical."
    },
    {
     "group": "State and local law enforcement agencies",
-    "how": "They may take part in FLETC training through strategic partnerships, and the center may charge them fees for certain trainings."
+    "how": "They can enter partnerships with FLETC for training, and the center may charge them fees for training."
    },
    {
-    "group": "Federal agencies that send staff to FLETC",
-    "how": "Partner agencies under a memorandum of understanding must pay for and assign non-reimbursable detailed instructors to support training programs."
+    "group": "Partner federal agencies with a memorandum of understanding with FLETC",
+    "how": "They must pay for and assign detailed instructors to training programs without reimbursement."
+   },
+   {
+    "group": "Private sector security stakeholders",
+    "how": "FLETC may coordinate with them to provide training and share homeland security information."
    },
    {
     "group": "Retired federal employees with training experience",
-    "how": "The center may hire them to help with training work."
+    "how": "FLETC may hire them to work at the center."
    },
    {
-    "group": "Families of fallen FLETC graduates",
-    "how": "The center may spend funds to honor and memorialize graduates who died in the line of duty."
+    "group": "Families of FLETC graduates who died in the line of duty",
+    "how": "FLETC may spend funds to honor and memorialize those graduates."
    }
   ],
-  "when_it_takes_effect": "The summary does not state a specific effective date; the law was enacted on December 16, 2016.",
+  "when_it_takes_effect": "Upon enactment on December 16, 2016.",
   "ceremonial": false,
   "confidence": "medium",
   "ai_generated": true,

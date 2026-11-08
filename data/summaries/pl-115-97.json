@@ -1,47 +1,51 @@
 {
- "headline": "Public Law 115-97, the Tax Cuts and Jobs Act, changes federal income, business, estate, and exempt-organization tax rules, mostly starting with tax year 2018.",
- "what_it_does": "The law replaces the seven individual income tax brackets with four, raises the standard deduction, and ends the personal exemption. It increases the child tax credit, caps the mortgage interest and state and local tax deductions, and repeals several other deductions and credits. It also lowers the corporate tax rate to a flat 20%, repeals the alternative minimum tax, and doubles the estate and gift tax exemption to $10 million. The official summary describes the earlier House-passed version of the bill, so some final details may differ.",
+ "headline": "The 2017 tax law, enacted December 22, 2017, cut individual and corporate income tax rates and changed many deductions, credits, and business rules, and it opened part of the Arctic National Wildlife Refuge to oil and gas leasing.",
+ "what_it_does": "The law lowered the corporate tax rate to a flat 21 percent and changed individual income tax brackets, the standard deduction, and the child tax credit, most of them on a temporary basis through 2025. It also limited or removed many itemized deductions, such as state and local tax deductions above $10,000 and the deduction for moving expenses, and it repealed the individual mandate penalty for not having health insurance. The law created a new 20 percent deduction for many pass-through business owners and expanded expensing rules for business equipment and property. It also set up a federal oil and gas leasing program for the Coastal Plain of the Arctic National Wildlife Refuge in Alaska.",
  "who_it_affects": [
   {
-   "group": "Taxpayers who itemize deductions",
-   "how": "Their deductions for state and local property taxes, medical expenses, and home equity loan interest are limited or repealed, while the standard deduction is larger."
+   "group": "Individual taxpayers who itemize deductions",
+   "how": "Many itemized deductions were limited or suspended, including state and local taxes above $10,000, home equity loan interest, and miscellaneous deductions subject to the 2% floor."
   },
   {
-   "group": "Families with children under age 17",
-   "how": "The child tax credit rises to $1,600 per child, with a phase-out at higher incomes and a refundable portion limited to $1,000 per child."
+   "group": "Married couples and heads of household with children",
+   "how": "The law raised the standard deduction and the child tax credit, which lowers taxable income or tax owed for many families with children under 17."
   },
   {
-   "group": "Homeowners with new mortgages",
-   "how": "Interest on new mortgage debt is deductible only up to $500,000 for a principal residence, and interest on home equity loans is no longer deductible."
+   "group": "Owners of pass-through businesses such as partnerships, S corporations, and sole proprietorships",
+   "how": "They may deduct 20 percent of qualified business income, subject to wage and income limits, with restrictions for certain service businesses like health, law, and consulting."
   },
   {
-   "group": "Owners of pass-through businesses such as sole proprietorships, partnerships, and S corporations",
-   "how": "Qualified business income may be taxed at a maximum rate of 25%, with reduced rates and thresholds for certain small businesses."
+   "group": "Corporations",
+   "how": "The corporate income tax rate dropped to a flat 21 percent, and the corporate alternative minimum tax was repealed."
   },
   {
-   "group": "C corporations",
-   "how": "The corporate income tax rate drops to a flat 20%, and changes apply to tax years beginning after 2017."
+   "group": "People who buy health insurance on their own",
+   "how": "The penalty for not maintaining minimum essential health coverage was reduced to zero beginning in 2019."
   },
   {
-   "group": "Businesses with significant interest expenses",
-   "how": "Their deduction for business interest is generally limited to business interest income plus 30% of adjusted taxable income, with exceptions for certain small businesses."
+   "group": "Owners of estates and gifts above the old exemption level",
+   "how": "The estate and gift tax exemption doubled to $10 million, indexed for inflation, for estates of people who die or gifts made in 2018 through 2025."
   },
   {
-   "group": "Estates of very large size and people making large gifts",
-   "how": "The estate and gift tax exemption doubles to $10 million, and the estate and generation-skipping transfer taxes are repealed for deaths after December 31, 2024."
+   "group": "Businesses that buy equipment or property",
+   "how": "They may expense 100 percent of the cost of qualifying property placed in service after September 27, 2017, and before 2023, with the amount phasing down after that."
   },
   {
-   "group": "Students and parents paying college costs",
-   "how": "The Lifetime Learning credit and several education deductions are repealed, and the American Opportunity credit can be claimed for five years."
+   "group": "Students with federal or private student loans discharged due to death or total and permanent disability",
+   "how": "Those discharged loans are excluded from taxable income for a temporary period."
   },
   {
-   "group": "Taxpayers with alternative minimum tax liability",
-   "how": "The individual and corporate alternative minimum taxes are repealed."
+   "group": "Members of Congress",
+   "how": "The deduction for living expenses incurred by Members of Congress was eliminated."
+  },
+  {
+   "group": "Residents and businesses in the Arctic National Wildlife Refuge Coastal Plain area and oil and gas companies",
+   "how": "The Interior Department must hold at least two lease sales within 10 years, each with at least 400,000 acres, and may authorize up to 2,000 surface acres for production facilities."
   }
  ],
- "when_it_takes_effect": "Many individual changes apply starting with tax year 2018, and most business changes apply to tax years beginning after 2017. Some provisions have their own dates, such as the $300 family credit expiring after 2022 and the estate tax repeal for deaths after December 31, 2024.",
+ "when_it_takes_effect": "Most individual provisions apply to tax years beginning after December 31, 2017, and many expire after December 31, 2025, while corporate rate changes apply starting in 2018.",
  "ceremonial": false,
- "confidence": "medium",
+ "confidence": "high",
  "ai_generated": true,
  "model": "claude-haiku-5-5",
  "written": "2026-11-08"

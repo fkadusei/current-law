@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "International Affairs",
  "sponsor": "Sen. Corker, Bob [R-TN]",
- "official_summary": " <p> This bill allows&nbsp;the Agreement for Cooperation Between the Government of the United States of America and the Government of&nbsp;the Kingdom of Norway Concerning Peaceful Uses of Nuclear Energy, completed on June 11, 2016,&nbsp;to be brought into effect as if all requirements of the Atomic Energy Act of 1954 for congressional consideration of such agreement had been satisfied.</p> <p>Upon entering into effect, such agreement shall be subject to the provisions of the Atomic Energy Act and any other applicable U.S. law as if it had come into effect in accordance with such requirements.</p>",
+ "official_summary": " <p>(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)</p> <p>(Sec. 1) This bill allows&nbsp;the Agreement for Cooperation Between the Government of the United States of America and the Government of&nbsp;the Kingdom of Norway Concerning Peaceful Uses of Nuclear Energy, completed on June 11, 2016,&nbsp;to be brought into effect as if all requirements of the Atomic Energy Act of 1954 for congressional consideration of such agreement had been satisfied.</p> <p>Upon entering into effect, such agreement shall be subject to the provisions of the Atomic Energy Act and any other applicable U.S. law as if it had come into effect in accordance with such requirements.</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-114s8enr/xml/BILLS-114s8enr.xml"
@@ -37,19 +37,23 @@
  "party_color": null,
  "control": {},
  "summary": {
-  "headline": "Public Law 114-320 lets a 2016 U.S.-Norway agreement on peaceful nuclear energy take effect without the usual full congressional review steps.",
-  "what_it_does": "The law approves the Agreement for Cooperation between the United States and Norway on peaceful uses of nuclear energy, which was completed on June 11, 2016. It treats the agreement as if the congressional review steps required by the Atomic Energy Act of 1954 had already been completed. Once in effect, the agreement is subject to the Atomic Energy Act and other applicable U.S. law.",
+  "headline": "Public Law 114-320 lets a 2016 nuclear energy cooperation agreement between the United States and Norway take effect without the usual congressional review steps.",
+  "what_it_does": "The law approves the 2016 Agreement for Cooperation between the United States and Norway on peaceful uses of nuclear energy. It treats the agreement as if the review steps required by the Atomic Energy Act of 1954 had been completed. Once in effect, the agreement is subject to the Atomic Energy Act and other applicable U.S. law.",
   "who_it_affects": [
    {
-    "group": "Companies that transfer nuclear materials, equipment, or technology between the United States and Norway",
-    "how": "The agreement sets the framework that governs such transfers, so these companies would need to follow its terms and U.S. nuclear export rules."
+    "group": "Companies that export nuclear materials, equipment, or technology to Norway",
+    "how": "They can trade in these items under the agreement's terms and the Atomic Energy Act's rules for exports."
    },
    {
-    "group": "U.S. federal agencies that oversee nuclear exports and cooperation",
-    "how": "These agencies would administer the agreement under the Atomic Energy Act and other applicable U.S. law."
+    "group": "Nuclear energy companies and researchers working with Norwegian partners",
+    "how": "Cooperation on peaceful nuclear research and energy projects between the two countries is governed by the agreement and U.S. law."
+   },
+   {
+    "group": "Federal agencies that oversee nuclear exports and cooperation",
+    "how": "They must apply the Atomic Energy Act and other U.S. law to activities under the agreement."
    }
   ],
-  "when_it_takes_effect": null,
+  "when_it_takes_effect": "The summary does not give a specific date. The agreement takes effect when it is brought into force under this law.",
   "ceremonial": false,
   "confidence": "medium",
   "ai_generated": true,

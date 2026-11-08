@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Transportation and Public Works",
  "sponsor": "Sen. Cruz, Ted [R-TX]",
- "official_summary": "<p><strong>I–27 Numbering Act of 2023</strong></p><p>This bill designates the future interstate highway system portions of the Ports-to-Plains Corridor within the states of Texas and New Mexico as Interstate Route I–27.</p><p>In Texas, from Sterling City to Lamesa, U.S. Route 87 is designated as Interstate Route I–27E and Texas Routes 158 and 349 via I–20 are designated as Interstate Route I–27W. The bill also excludes one portion of the Texas and New Mexico corridor; U.S. Route 287 from Dumas, Texas to the border between Texas and Oklahoma is designated as Interstate Route I–127N.</p>",
+ "official_summary": "<p><strong>I–27 Numbering Act of 2023</strong></p><p>This act designates the future interstate highway system portions of the Ports-to-Plains Corridor within the states of Texas and New Mexico as Interstate Route I–27.</p><p>In Texas, from Sterling City to Lamesa, U.S. Route 87 is designated as Interstate Route I–27E and Texas Routes 158 and 349 via I–20 are designated as Interstate Route I–27W. The act also excludes one portion of the Texas and New Mexico corridor; U.S. Route 287 from Dumas, Texas to the border between Texas and Oklahoma is designated as Interstate Route I–127N.</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-118s992enr/xml/BILLS-118s992enr.xml"
@@ -37,23 +37,19 @@
  "party_color": null,
  "control": {},
  "summary": {
-  "headline": "Law sets the interstate route numbers for future highway segments of the Ports-to-Plains Corridor in Texas and New Mexico.",
-  "what_it_does": "This law names the future interstate highway parts of the Ports-to-Plains Corridor in Texas and New Mexico as Interstate 27 (I-27). Between Sterling City and Lamesa, Texas, the route splits in two: U.S. Route 87 becomes I-27E, and Texas Routes 158 and 349 (using I-20) become I-27W. U.S. Route 287 from Dumas, Texas, to the Oklahoma border is numbered separately as I-127N. The summary describes only route numbering, not new funding or construction.",
+  "headline": "New law assigns Interstate 27 route numbers to future interstate sections of the Ports-to-Plains Corridor in Texas and New Mexico.",
+  "what_it_does": "The law names the future interstate highway parts of the Ports-to-Plains Corridor in Texas and New Mexico as Interstate 27 (I-27). Between Sterling City and Lamesa, Texas, the route splits: U.S. Route 87 becomes I-27E, and Texas Routes 158 and 349 (by way of I-20) become I-27W. One section, U.S. Route 287 from Dumas, Texas, to the Oklahoma border, is instead numbered I-127N.",
   "who_it_affects": [
    {
-    "group": "Drivers and truckers using highways in West Texas, the Texas Panhandle, and eastern New Mexico",
-    "how": "Certain roads they use will carry I-27, I-27E, I-27W, or I-127N interstate numbers once those sections become part of the interstate system."
+    "group": "Drivers and truckers who travel these routes in Texas and New Mexico",
+    "how": "Roads they use will carry new interstate route numbers once those sections become part of the interstate system."
    },
    {
     "group": "Texas and New Mexico state transportation agencies",
-    "how": "They will use these assigned numbers for the corridor's future interstate segments, such as on signs and maps."
-   },
-   {
-    "group": "Communities along the corridor, including Sterling City, Lamesa, and Dumas, Texas",
-    "how": "Highways through or near these towns are assigned specific interstate route numbers."
+    "how": "They will use the new I-27, I-27E, I-27W, and I-127N numbers for these corridor sections."
    }
   ],
-  "when_it_takes_effect": "Enacted March 22, 2024; the summary gives no separate start date.",
+  "when_it_takes_effect": "Signed into law March 22, 2024. The summary does not give a separate start date, and the numbers apply to corridor sections as they become part of the interstate system.",
   "ceremonial": false,
   "confidence": "medium",
   "ai_generated": true,

@@ -188,7 +188,10 @@ def build_congress(congress: int, member_index: dict) -> list[dict]:
                 for i, v in sorted(pos.items())]})
         overridden = any(re.search(r"overrid|objections", v["question"], re.I) for v in votes)
         law_id = f"pl-{pl}" if pl else f"{congress}-{btype.lower()}{number}"
-        summaries = sorted(detail.get("summaries", []), key=lambda s: s.get("updateDate", ""))
+        # Use the summary of the version that became law. Sorting by updateDate alone
+        # can pick an earlier draft that CRS happened to edit last.
+        summaries = sorted(detail.get("summaries", []), key=lambda s: (
+            "Public Law" in (s.get("actionDesc") or ""), s.get("actionDate") or "", s.get("updateDate", "")))
         record = {
             "id": law_id,
             "congress": congress,
