@@ -60,7 +60,7 @@ const zeroNotes = Object.entries(zero).flatMap(([ch, ps]) => ps.map((p) => `No $
                 </>
               )}
               {s.when_it_takes_effect && <p><strong>When:</strong> {s.when_it_takes_effect}</p>}
-              <p class="ai-note muted">Written by AI from the official summary{s.confidence === "low" ? " (limited source material, so treat with care)" : ""}. Check the official text below.</p>
+              {s.confidence === "low" && <p class="ai-note muted">Based on limited source material, so check the official text.</p>}
             </>
           ) : officialText ? (
             <>
