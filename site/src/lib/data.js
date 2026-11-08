@@ -120,3 +120,6 @@ export const PRESIDENT_INFO = {
   "bush-w": { years: "2001–2009" }, obama: { years: "2009–2017" }, "trump-1": { years: "2017–2021", note: "First term" },
   biden: { years: "2021–2025" }, "trump-2": { years: "2025–present", note: "Second term" },
 };
+
+// Stripe Payment Link for reader tips. Leave empty to hide every "Support" button.
+export const SUPPORT_URL = "";

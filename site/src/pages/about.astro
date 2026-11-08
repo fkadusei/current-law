@@ -1,6 +1,6 @@
 ---
 import Base from "../layouts/Base.astro";
-import { allLaws, executiveOrders } from "../lib/data.js";
+import { allLaws, executiveOrders, SUPPORT_URL } from "../lib/data.js";
 const base = import.meta.env.BASE_URL.replace(/\/$/, "");
 const laws = allLaws(), eos = executiveOrders();
 const first = laws.reduce((a, l) => (l.enacted && l.enacted < a ? l.enacted : a), "9999").slice(0, 4);
@@ -38,6 +38,13 @@ const voted = laws.filter((l) => l.recorded_vote).length;
       <div><dt>{eos.length.toLocaleString()}</dt><dd>executive orders since 1994</dd></div>
     </dl>
     <p class="muted small">Laws from 1973 to {Number(first) - 1} are being added.</p>
+    {SUPPORT_URL && (
+      <div class="support">
+        <strong>Keep it free</strong>
+        <p>No ads and no paywall. Reader tips pay for the AI summaries and the assistant.</p>
+        <a class="btn gold" href={SUPPORT_URL} target="_blank" rel="noopener">♥ Support Current Law</a>
+      </div>
+    )}
     <div class="cta">
       <a class="btn" href={`${base}/calendar/`}>Browse by date</a>
       <a class="btn ghost" href={`${base}/presidents/`}>Browse by President</a>
@@ -58,6 +65,9 @@ const voted = laws.filter((l) => l.recorded_vote).length;
   .small { font-size: .85rem; }
   .cta { display: flex; flex-direction: column; gap: 8px; margin-top: 12px; }
   .btn { display: block; text-align: center; padding: 10px 14px; border-radius: 10px; font-weight: 700; text-decoration: none; background: var(--navy); color: #fff; }
+  .support { margin-top: 14px; padding: 14px; border-radius: 12px; background: var(--surface-2); }
+  .support p { margin: 4px 0 10px; font-size: .88rem; color: var(--muted); }
+  .btn.gold { background: var(--gold); color: var(--navy); }
   .btn.ghost { background: var(--surface-2); color: var(--text); }
   .prose { max-width: 760px; }
   .prose h2 { margin-top: 1.6rem; }

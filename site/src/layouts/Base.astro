@@ -1,5 +1,6 @@
 ---
 import ChatWidget from "../components/ChatWidget.astro";
+import { SUPPORT_URL } from "../lib/data.js";
 const { title, kind, description = "Every US federal law since 1973: what it does, who voted for it, and who signed it." } = Astro.props;
 const base = import.meta.env.BASE_URL.replace(/\/$/, "");
 const path = Astro.url.pathname.replace(base, "") || "/";
@@ -86,6 +87,8 @@ const nav = [
       <div>
         <p class="footer-brand"><img src={`${base}/favicon.svg`} alt="" width="28" height="28" /> Current Law</p>
         <p>Every US federal law since 1973, in plain English: what it does, who voted for it, and who signed it.</p>
+        {SUPPORT_URL && <a class="support-btn" href={SUPPORT_URL} target="_blank" rel="noopener">♥ Support Current Law</a>}
+        {SUPPORT_URL && <p class="support-note">Free to use, no ads. Reader tips pay for the AI summaries and assistant.</p>}
       </div>
       <div>
         <p class="footer-h">Explore</p>
@@ -307,6 +310,9 @@ const nav = [
   nav a { padding: 8px 12px; border-radius: 999px; color: rgb(255 255 255 / .78); text-decoration: none; font-weight: 500; font-size: .93rem; transition: background .15s, color .15s; }
   nav a:hover { background: rgb(255 255 255 / .08); color: #fff; }
   nav a[aria-current="page"] { color: var(--navy); background: #fff; }
+  .footer-inner a.support-btn { display: inline-block; margin-top: 4px; padding: 9px 16px; border-radius: 999px; background: var(--gold); color: var(--navy); font-weight: 700; }
+  .footer-inner a.support-btn:hover { filter: brightness(1.08); }
+  .support-note { font-size: .82rem; margin: 8px 0 0; }
   .site-footer { background: var(--navy); color: rgb(255 255 255 / .72); font-size: .92rem; padding: 48px 0 28px; margin-top: 24px; }
   .footer-inner { display: grid; grid-template-columns: 2fr 1fr 1fr; gap: 32px; }
   @media (max-width: 720px) { .footer-inner { grid-template-columns: 1fr 1fr; } .footer-inner > div:first-child { grid-column: 1 / -1; } }

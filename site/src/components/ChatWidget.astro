@@ -1,7 +1,8 @@
 ---
 // "Ask Current Law" chat: a floating button that opens a small chat window.
+import { SUPPORT_URL } from "../lib/data.js";
 ---
-<div class="chat" id="chat" data-open="false">
+<div class="chat" id="chat" data-open="false" data-support={SUPPORT_URL}>
   <button type="button" class="chat-fab" id="chat-fab" aria-expanded="false" aria-controls="chat-panel">
     <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16v11H9l-5 4z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/><path d="M8 9.5h8M8 12.5h5" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
     <span>Ask a question</span>
@@ -25,7 +26,7 @@
       <input id="chat-in" maxlength="500" placeholder="Type your question…" />
       <button type="submit" aria-label="Send"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 12l16-8-6 16-2-6z" fill="currentColor"/></svg></button>
     </form>
-    <p class="chat-note">AI can make mistakes. Check the linked pages for the official record.</p>
+    <p class="chat-note">AI can make mistakes. Check the linked pages for the official record.{SUPPORT_URL && <> <br />This assistant is paid for by readers. <a href={SUPPORT_URL} target="_blank" rel="noopener">Chip in</a></>}</p>
   </section>
 </div>
 <script>
@@ -77,6 +78,7 @@
       const d = await r.json();
       const reply = d.reply || d.error || "Sorry, something went wrong.";
       wait.remove(); add("bot", reply);
+      if (d.limited && root.dataset.support) add("bot", `Readers pay for this assistant. If you'd like to help keep it running, you can [chip in here](${root.dataset.support}).`);
       if (d.reply && !d.limited) history.push({ role: "assistant", content: reply }); else history.pop();
     } catch {
       wait.remove(); add("bot", "Sorry, I couldn't reach the assistant. Please try again."); history.pop();
@@ -115,6 +117,7 @@
   .chat-form input:focus { outline: 2px solid var(--accent); }
   .chat-form button { width: 42px; height: 42px; flex: none; border: 0; border-radius: 50%; background: var(--dem); color: #fff; display: grid; place-items: center; cursor: pointer; }
   .chat-form button svg { width: 18px; height: 18px; }
+  .chat-note a { color: var(--accent); font-weight: 600; }
   .chat-note { margin: 0; padding: 0 12px 10px; font-size: .72rem; color: var(--muted); text-align: center; }
   @media (max-width: 560px) {
     .chat { right: 12px; bottom: 12px; }
