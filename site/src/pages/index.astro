@@ -96,7 +96,7 @@ const fmt = (n) => n.toLocaleString("en-US");
   <section id="browse" aria-labelledby="browse-h">
     <div class="section-head">
       <h2 id="browse-h">Browse every law</h2>
-      <p class="muted">{fmt(recorded)} had recorded votes. The rest passed by voice vote or unanimous consent, shown in gray.</p>
+      <p class="muted">{fmt(laws.length)} laws since 2013. For {fmt(recorded)} of them, Congress recorded how each member voted. The other {fmt(laws.length - recorded)} passed by voice vote or unanimous consent, so no individual votes exist. Those are shown in gray.</p>
     </div>
     <form class="filters card" role="search" onsubmit="return false">
       <label class="sr-only" for="q">Search laws</label>
