@@ -4,8 +4,17 @@ import Avatar from "../../components/Avatar.astro";
 import { membersIndex, memberRecords, displayName, PARTY_NAME } from "../../lib/data.js";
 const base = import.meta.env.BASE_URL.replace(/\/$/, "");
 const records = memberRecords();
+// Congress N starts in January of year 1787 + 2N and runs two years.
+const thisYear = new Date().getFullYear();
+const served = (cs = []) => {
+  if (!cs.length) return "";
+  const a = 1787 + 2 * Math.min(...cs), b = Math.min(1789 + 2 * Math.max(...cs), thisYear);
+  return b >= thisYear ? `${a}–now` : `${a}–${b}`;
+};
+const allCs = membersIndex().flatMap((m) => m.congresses || []);
+const firstYear = 1787 + 2 * Math.min(...allCs);
 const members = membersIndex().filter((m) => m.bioguide)
-  .map((m) => ({ ...m, display: displayName(m.name), n: records.get(m.bioguide)?.length ?? 0 }))
+  .map((m) => ({ ...m, display: displayName(m.name), n: records.get(m.bioguide)?.length ?? 0, years: served(m.congresses) }))
   .sort((a, b) => a.state.localeCompare(b.state) || a.chamber.localeCompare(b.chamber) || a.display.localeCompare(b.display));
 ---
 <Base title="Politicians">
@@ -13,7 +22,7 @@ const members = membersIndex().filter((m) => m.bioguide)
     <div class="wrap">
       <p class="eyebrow-label">House and Senate</p>
       <h1>Politicians</h1>
-      <p>Every member of the House and Senate in the Congresses covered so far. Pick one to see how they voted on each law.</p>
+      <p>Every member of the House and Senate who served from {firstYear} to today. Pick one to see how they voted on each law. Members from 1973 to {firstYear - 1} are being added.</p>
     </div>
   </section>
   <form class="filters card" onsubmit="return false">
@@ -27,7 +36,7 @@ const members = membersIndex().filter((m) => m.bioguide)
         <a class="person card" href={`${base}/politicians/${m.bioguide}/`}>
           <Avatar bioguide={m.bioguide} name={m.display} party={m.party} size={44} />
           <span class="who"><strong>{m.display}</strong><span class="muted">{PARTY_NAME[m.party]} · {m.chamber === "House" ? `Rep., ${m.state}${m.district && m.district !== "0" ? "-" + m.district : ""}` : `Senator, ${m.state}`}</span></span>
-          <span class="muted n">{m.n} votes</span>
+          <span class="muted n">{m.n} votes{m.years && <small>{m.years}</small>}</span>
         </a>
       </li>
     ))}
@@ -52,4 +61,5 @@ const members = membersIndex().filter((m) => m.bioguide)
   .dot { width: 12px; height: 12px; border-radius: 50%; flex: none; }
   .bg-D { background: var(--dem); } .bg-R { background: var(--rep); } .bg-I { background: var(--ind); } .bg-Other { background: var(--muted); }
   li[hidden] { display: none; }
+  .n small { display: block; font-size: .78rem; text-align: right; }
 </style>
