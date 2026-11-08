@@ -1,5 +1,5 @@
 ---
-import { lawColor, passedByLabel, controlLabel, partyLineLabel, formatDate } from "../lib/data.js";
+import { lawColor, passedByLabel, controlLabel, partyLineLabel, formatDate, yesScope } from "../lib/data.js";
 const { law } = Astro.props;
 const base = import.meta.env.BASE_URL.replace(/\/$/, "");
 const color = lawColor(law.party_color);
@@ -27,7 +27,7 @@ const total = pc ? pc.d_yeas + pc.r_yeas : 0;
   </div>
   {total > 0 && (
     <div class="yes-split" aria-label={`Yes votes: ${pc.d_yeas} Democratic, ${pc.r_yeas} Republican`}>
-      <span class="ys-label">Yes votes</span>
+      <span class="ys-label">Yes votes · {yesScope(law.control)}</span>
       <span class="ys-bar">{pc.d_yeas > 0 && <span class="d" style={`flex:${pc.d_yeas}`}></span>}{pc.r_yeas > 0 && <span class="r" style={`flex:${pc.r_yeas}`}></span>}</span>
       <span class="ys-nums"><b class="party-D">{pc.d_yeas} D</b><b class="party-R">{pc.r_yeas} R</b></span>
     </div>

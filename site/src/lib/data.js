@@ -123,3 +123,9 @@ export const PRESIDENT_INFO = {
 
 // Stripe Payment Link for reader tips. Leave empty to hide every "Support" button.
 export const SUPPORT_URL = "";
+
+// Which chambers the yes-vote counts come from, e.g. "House + Senate" or "House only".
+export function yesScope(control) {
+  const ch = Object.keys(control || {});
+  return ch.length > 1 ? "House + Senate" : ch.length ? `${ch[0]} only` : "";
+}
