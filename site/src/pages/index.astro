@@ -39,10 +39,10 @@ const fmt = (n) => n.toLocaleString("en-US");
         </form>
       </div>
       <dl class="stats">
-        <div><dt>Laws</dt><dd>{fmt(laws.length)}</dd></div>
-        <div><dt>Individual votes recorded</dt><dd>{fmt(totalVotes)}</dd></div>
-        <div><dt>Passed by one party alone</dt><dd>{fmt(partyLine.length)}</dd></div>
-        <div><dt>Executive orders</dt><dd>{fmt(eos.length)}</dd></div>
+        <a class="stat-link" href={`${base}/#browse`} data-side=""><dt>Laws</dt><dd>{fmt(laws.length)}</dd><span class="go">Browse all laws →</span></a>
+        <a class="stat-link" href={`${base}/politicians/`}><dt>Individual votes recorded</dt><dd>{fmt(totalVotes)}</dd><span class="go">See how each member voted →</span></a>
+        <a class="stat-link" href={`${base}/?side=partyline#browse`} data-side="partyline"><dt>Passed by one party alone</dt><dd>{fmt(partyLine.length)}</dd><span class="go">See these laws →</span></a>
+        <a class="stat-link" href={`${base}/executive-orders/`}><dt>Executive orders</dt><dd>{fmt(eos.length)}</dd><span class="go">Browse orders →</span></a>
       </dl>
     </div>
   </section>
@@ -181,6 +181,15 @@ const fmt = (n) => n.toLocaleString("en-US");
     render(true);
   }
   for (const id of ["q", "side", "president", "congress", "topic"]) $(id).addEventListener("input", apply);
+  // Hero stat tiles: jump to the list with the matching filter.
+  const pickSide = (v) => { $("side").value = v; apply(); };
+  for (const a of document.querySelectorAll(".stat-link[data-side]")) a.addEventListener("click", (e) => {
+    e.preventDefault(); pickSide(a.dataset.side);
+    history.replaceState(null, "", a.getAttribute("href"));
+    $("browse").scrollIntoView({ behavior: "smooth" });
+  });
+  const startSide = new URLSearchParams(location.search).get("side");
+  if (startSide && [...$("side").options].some((o) => o.value === startSide)) pickSide(startSide);
   for (const col of document.querySelectorAll(".col")) col.addEventListener("click", () => {
     $("congress").value = col.dataset.congress; apply();
     document.getElementById("browse").scrollIntoView({ behavior: "smooth" });
@@ -200,7 +209,11 @@ const fmt = (n) => n.toLocaleString("en-US");
   .hero-search input { flex: 1; border: 0; background: transparent; color: #111; font-size: 1.05rem; padding: 12px 14px; outline: none; min-width: 0; }
   .hero-search button { border: 0; border-radius: 12px; padding: 0 22px; font: 700 1rem var(--sans); color: #fff; background: linear-gradient(135deg, var(--dem), var(--rep)); cursor: pointer; }
   .stats { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin: 0; }
-  .stats div { background: rgb(255 255 255 / .06); border: 1px solid rgb(255 255 255 / .12); border-radius: 16px; padding: 18px; backdrop-filter: blur(4px); }
+  .stats .stat-link { display: flex; flex-direction: column; text-decoration: none; color: inherit; transition: background .15s ease, border-color .15s ease, transform .15s ease; }
+  .stats .stat-link:hover, .stats .stat-link:focus-visible { background: rgb(255 255 255 / .12); border-color: rgb(255 255 255 / .3); transform: translateY(-2px); }
+  .stats .go { margin-top: auto; padding-top: 6px; font-size: .8rem; font-weight: 600; color: var(--gold); opacity: .85; }
+  .stats .stat-link:hover .go { opacity: 1; }
+  .stats div, .stats .stat-link { background: rgb(255 255 255 / .06); border: 1px solid rgb(255 255 255 / .12); border-radius: 16px; padding: 18px; backdrop-filter: blur(4px); }
   .stats dt { font-size: .78rem; color: rgb(255 255 255 / .7); text-transform: uppercase; letter-spacing: .08em; font-weight: 600; }
   .stats dd { margin: 6px 0 0; font: 700 clamp(1.6rem, 3vw, 2.3rem) var(--serif); color: #fff; }
   .chart { padding: 24px; margin-top: -8px; }
