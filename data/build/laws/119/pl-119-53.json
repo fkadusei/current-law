@@ -1,0 +1,46 @@
+{
+ "id": "pl-119-53",
+ "congress": 119,
+ "public_law": "119-53",
+ "bill": "HR 452",
+ "title": "Miracle on Ice Congressional Gold Medal Act",
+ "enacted": "2025-12-12",
+ "president": {
+  "id": "trump-2",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Sports and Recreation",
+ "sponsor": "Rep. Stauber, Pete [R-MN-8]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr452enr/uslm/BILLS-119hr452enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr452enr/xml/BILLS-119hr452enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr452eas/xml/BILLS-119hr452eas.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr452rfs/xml/BILLS-119hr452rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr452eh/xml/BILLS-119hr452eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr452ih/xml/BILLS-119hr452ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ53/uslm/PLAW-119publ53.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/452",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

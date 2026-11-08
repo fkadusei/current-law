@@ -1,0 +1,40 @@
+{
+ "id": "pl-119-121",
+ "congress": 119,
+ "public_law": "119-121",
+ "bill": "S 195",
+ "title": "American Music Tourism Act of 2025",
+ "enacted": "2026-10-09",
+ "president": {
+  "id": "trump-2",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Arts, Culture, Religion",
+ "sponsor": "Sen. Blackburn, Marsha [R-TN]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119s195enr/uslm/BILLS-119s195enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119s195enr/xml/BILLS-119s195enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119s195es/xml/BILLS-119s195es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119s195rs/xml/BILLS-119s195rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119s195is/xml/BILLS-119s195is.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/195",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

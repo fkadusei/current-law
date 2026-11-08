@@ -1,0 +1,43 @@
+{
+ "id": "pl-119-136",
+ "congress": 119,
+ "public_law": "119-136",
+ "bill": "HR 7022",
+ "title": "Mystic Alerts Act",
+ "enacted": "2026-10-22",
+ "president": {
+  "id": "trump-2",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Science, Technology, Communications",
+ "sponsor": "Rep. Pfluger, August [R-TX-11]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr7022enr/uslm/BILLS-119hr7022enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr7022enr/xml/BILLS-119hr7022enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr7022rfs/xml/BILLS-119hr7022rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr7022eh/xml/BILLS-119hr7022eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr7022rh/xml/BILLS-119hr7022rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr7022ih/xml/BILLS-119hr7022ih.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/7022",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

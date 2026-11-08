@@ -1,0 +1,43 @@
+{
+ "id": "pl-119-69",
+ "congress": 119,
+ "public_law": "119-69",
+ "bill": "S 222",
+ "title": "Whole Milk for Healthy Kids Act of 2025",
+ "enacted": "2026-01-14",
+ "president": {
+  "id": "trump-2",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Agriculture and Food",
+ "sponsor": "Sen. Marshall, Roger [R-KS]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119s222enr/uslm/BILLS-119s222enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119s222enr/xml/BILLS-119s222enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119s222es/xml/BILLS-119s222es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119s222rs/xml/BILLS-119s222rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119s222is/xml/BILLS-119s222is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ69/uslm/PLAW-119publ69.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/222",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

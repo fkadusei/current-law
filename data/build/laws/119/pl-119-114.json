@@ -1,0 +1,43 @@
+{
+ "id": "pl-119-114",
+ "congress": 119,
+ "public_law": "119-114",
+ "bill": "S 550",
+ "title": "A bill to provide for the equitable settlement of certain Indian land disputes regarding land in Illinois, and for other purposes.",
+ "enacted": "2026-09-25",
+ "president": {
+  "id": "trump-2",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Native Americans",
+ "sponsor": "Sen. Mullin, Markwayne [R-OK]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119s550enr/uslm/BILLS-119s550enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119s550enr/xml/BILLS-119s550enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119s550es/xml/BILLS-119s550es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119s550rs/xml/BILLS-119s550rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119s550is/xml/BILLS-119s550is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ114/uslm/PLAW-119publ114.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/550",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,46 @@
+{
+ "id": "pl-119-127",
+ "congress": 119,
+ "public_law": "119-127",
+ "bill": "HR 1721",
+ "title": "Critical Infrastructure Manufacturing Feasibility Act",
+ "enacted": "2026-10-20",
+ "president": {
+  "id": "trump-2",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Commerce",
+ "sponsor": "Rep. Miller-Meeks, Mariannette [R-IA-1]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1721enr/uslm/BILLS-119hr1721enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1721enr/xml/BILLS-119hr1721enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1721rfs/xml/BILLS-119hr1721rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1721eh/xml/BILLS-119hr1721eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1721rh/xml/BILLS-119hr1721rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1721ih/xml/BILLS-119hr1721ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ127/uslm/PLAW-119publ127.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/1721",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

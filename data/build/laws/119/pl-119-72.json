@@ -1,0 +1,46 @@
+{
+ "id": "pl-119-72",
+ "congress": 119,
+ "public_law": "119-72",
+ "bill": "HR 4446",
+ "title": "FAST VETS Act",
+ "enacted": "2026-01-20",
+ "president": {
+  "id": "trump-2",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Rep. Dexter, Maxine [D-OR-3]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr4446enr/uslm/BILLS-119hr4446enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr4446enr/xml/BILLS-119hr4446enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr4446rfs/xml/BILLS-119hr4446rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr4446eh/xml/BILLS-119hr4446eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr4446rh/xml/BILLS-119hr4446rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr4446ih/xml/BILLS-119hr4446ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ72/uslm/PLAW-119publ72.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/4446",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

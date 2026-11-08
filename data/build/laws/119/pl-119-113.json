@@ -1,0 +1,43 @@
+{
+ "id": "pl-119-113",
+ "congress": 119,
+ "public_law": "119-113",
+ "bill": "HR 7250",
+ "title": "To reauthorize the Fort Peck Reservation Rural Water System Act of 2000.",
+ "enacted": "2026-09-25",
+ "president": {
+  "id": "trump-2",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Water Resources Development",
+ "sponsor": "Rep. Downing, Troy [R-MT-2]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr7250enr/uslm/BILLS-119hr7250enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr7250enr/xml/BILLS-119hr7250enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr7250rfs/xml/BILLS-119hr7250rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr7250rh/xml/BILLS-119hr7250rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr7250eh/xml/BILLS-119hr7250eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr7250ih/xml/BILLS-119hr7250ih.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/7250",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

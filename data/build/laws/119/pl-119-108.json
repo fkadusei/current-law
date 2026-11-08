@@ -1,0 +1,43 @@
+{
+ "id": "pl-119-108",
+ "congress": 119,
+ "public_law": "119-108",
+ "bill": "HR 5366",
+ "title": "Doug LaMalfa Federal Disaster Tax Relief Certainty Act",
+ "enacted": "2026-09-11",
+ "president": {
+  "id": "trump-2",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Taxation",
+ "sponsor": "Rep. Steube, W. Gregory [R-FL-17]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5366enr/uslm/BILLS-119hr5366enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5366enr/xml/BILLS-119hr5366enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5366rfs/xml/BILLS-119hr5366rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5366eh/xml/BILLS-119hr5366eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5366rh/xml/BILLS-119hr5366rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5366ih/xml/BILLS-119hr5366ih.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/5366",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

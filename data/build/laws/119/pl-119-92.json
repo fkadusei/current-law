@@ -1,0 +1,46 @@
+{
+ "id": "pl-119-92",
+ "congress": 119,
+ "public_law": "119-92",
+ "bill": "HR 2066",
+ "title": "Investing in All of America Act of 2025",
+ "enacted": "2026-05-19",
+ "president": {
+  "id": "trump-2",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Commerce",
+ "sponsor": "Rep. Meuser, Daniel [R-PA-9]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2066enr/uslm/BILLS-119hr2066enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2066enr/xml/BILLS-119hr2066enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2066rfs/xml/BILLS-119hr2066rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2066eh/xml/BILLS-119hr2066eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2066rh/xml/BILLS-119hr2066rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2066ih/xml/BILLS-119hr2066ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ92/uslm/PLAW-119publ92.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/2066",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

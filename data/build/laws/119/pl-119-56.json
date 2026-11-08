@@ -1,0 +1,43 @@
+{
+ "id": "pl-119-56",
+ "congress": 119,
+ "public_law": "119-56",
+ "bill": "HR 1912",
+ "title": "Veteran Fraud Reimbursement Act of 2025",
+ "enacted": "2025-12-12",
+ "president": {
+  "id": "trump-2",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Rep. Connolly, Gerald E. [D-VA-11]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1912enr/uslm/BILLS-119hr1912enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1912enr/xml/BILLS-119hr1912enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1912rfs/xml/BILLS-119hr1912rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1912eh/xml/BILLS-119hr1912eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1912ih/xml/BILLS-119hr1912ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ56/uslm/PLAW-119publ56.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/1912",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

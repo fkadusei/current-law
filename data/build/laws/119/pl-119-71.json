@@ -1,0 +1,46 @@
+{
+ "id": "pl-119-71",
+ "congress": 119,
+ "public_law": "119-71",
+ "bill": "HR 1823",
+ "title": "VA Budget Shortfall Accountability Act",
+ "enacted": "2026-01-20",
+ "president": {
+  "id": "trump-2",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Rep. Bergman, Jack [R-MI-1]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1823enr/uslm/BILLS-119hr1823enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1823enr/xml/BILLS-119hr1823enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1823rfs/xml/BILLS-119hr1823rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1823eh/xml/BILLS-119hr1823eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1823rh/xml/BILLS-119hr1823rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1823ih/xml/BILLS-119hr1823ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ71/uslm/PLAW-119publ71.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/1823",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

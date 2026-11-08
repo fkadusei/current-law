@@ -1,0 +1,46 @@
+{
+ "id": "pl-119-107",
+ "congress": 119,
+ "public_law": "119-107",
+ "bill": "HR 2196",
+ "title": "National Emergency Medical Services Memorial Extension Act",
+ "enacted": "2026-09-11",
+ "president": {
+  "id": "trump-2",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Public Lands and Natural Resources",
+ "sponsor": "Rep. Hudson, Richard [R-NC-9]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2196enr/uslm/BILLS-119hr2196enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2196enr/xml/BILLS-119hr2196enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2196rfs/xml/BILLS-119hr2196rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2196eh/xml/BILLS-119hr2196eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2196rh/xml/BILLS-119hr2196rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2196ih/xml/BILLS-119hr2196ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ107/uslm/PLAW-119publ107.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/2196",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,46 @@
+{
+ "id": "pl-119-73",
+ "congress": 119,
+ "public_law": "119-73",
+ "bill": "HR 4323",
+ "title": "Trafficking Survivors Relief Act",
+ "enacted": "2026-01-23",
+ "president": {
+  "id": "trump-2",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Crime and Law Enforcement",
+ "sponsor": "Rep. Fry, Russell [R-SC-7]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr4323enr/uslm/BILLS-119hr4323enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr4323enr/xml/BILLS-119hr4323enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr4323rds/xml/BILLS-119hr4323rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr4323eh/xml/BILLS-119hr4323eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr4323rh/xml/BILLS-119hr4323rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr4323ih/xml/BILLS-119hr4323ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ73/uslm/PLAW-119publ73.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/4323",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

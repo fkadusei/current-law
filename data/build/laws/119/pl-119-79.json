@@ -1,0 +1,40 @@
+{
+ "id": "pl-119-79",
+ "congress": 119,
+ "public_law": "119-79",
+ "bill": "S 3705",
+ "title": "Semiquincentennial Congressional Time Capsule Act",
+ "enacted": "2026-02-18",
+ "president": {
+  "id": "trump-2",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Congress",
+ "sponsor": "Sen. Tillis, Thomas [R-NC]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119s3705enr/uslm/BILLS-119s3705enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119s3705enr/xml/BILLS-119s3705enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119s3705es/xml/BILLS-119s3705es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119s3705cps/xml/BILLS-119s3705cps.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ79/uslm/PLAW-119publ79.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/3705",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,5 +1,3361 @@
 [
  {
+  "id": "pl-119-135",
+  "congress": 119,
+  "public_law": "119-135",
+  "bill": "HR 952",
+  "title": "Reversionary Interest Conveyance Act",
+  "enacted": "2026-10-22",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Public Lands and Natural Resources",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-119-136",
+  "congress": 119,
+  "public_law": "119-136",
+  "bill": "HR 7022",
+  "title": "Mystic Alerts Act",
+  "enacted": "2026-10-22",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Science, Technology, Communications",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-119-125",
+  "congress": 119,
+  "public_law": "119-125",
+  "bill": "HR 227",
+  "title": "Clergy Act",
+  "enacted": "2026-10-20",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Social Welfare",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "D",
+   "share": 0.524,
+   "r_yeas": 166,
+   "d_yeas": 183,
+   "shade": 0.049,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-119-126",
+  "congress": 119,
+  "public_law": "119-126",
+  "bill": "HR 837",
+  "title": "To require the Secretary of Agriculture to convey the Pleasant Valley Ranger District Administrative Site to Gila County, Arizona.",
+  "enacted": "2026-10-20",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Public Lands and Natural Resources",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-119-127",
+  "congress": 119,
+  "public_law": "119-127",
+  "bill": "HR 1721",
+  "title": "Critical Infrastructure Manufacturing Feasibility Act",
+  "enacted": "2026-10-20",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Commerce",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-119-128",
+  "congress": 119,
+  "public_law": "119-128",
+  "bill": "HR 2388",
+  "title": "Lower Elwha Klallam Tribe Project Lands Restoration Act",
+  "enacted": "2026-10-20",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Native Americans",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-119-129",
+  "congress": 119,
+  "public_law": "119-129",
+  "bill": "HR 2481",
+  "title": "Romance Scam Prevention Act",
+  "enacted": "2026-10-20",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Commerce",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-119-130",
+  "congress": 119,
+  "public_law": "119-130",
+  "bill": "HR 3620",
+  "title": "Southcentral Foundation Land Transfer Act of 2025",
+  "enacted": "2026-10-20",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Public Lands and Natural Resources",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-119-131",
+  "congress": 119,
+  "public_law": "119-131",
+  "bill": "HR 4307",
+  "title": "Enhancing Detection of Human Trafficking Act",
+  "enacted": "2026-10-20",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Crime and Law Enforcement",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-119-132",
+  "congress": 119,
+  "public_law": "119-132",
+  "bill": "HR 4467",
+  "title": "Vicksburg National Military Park Boundary Modification Act",
+  "enacted": "2026-10-20",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Public Lands and Natural Resources",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-119-133",
+  "congress": 119,
+  "public_law": "119-133",
+  "bill": "HR 6380",
+  "title": "Chiricahua National Park Act",
+  "enacted": "2026-10-20",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Public Lands and Natural Resources",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-119-134",
+  "congress": 119,
+  "public_law": "119-134",
+  "bill": "HR 7831",
+  "title": "License to Drill Act",
+  "enacted": "2026-10-20",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Energy",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-119-122",
+  "congress": 119,
+  "public_law": "119-122",
+  "bill": "S 240",
+  "title": "Crow Tribe Water Rights Settlement Amendments Act of 2025",
+  "enacted": "2026-10-15",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Native Americans",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-119-123",
+  "congress": 119,
+  "public_law": "119-123",
+  "bill": "S 283",
+  "title": "Illegal Red Snapper and Tuna Enforcement Act",
+  "enacted": "2026-10-15",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Public Lands and Natural Resources",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-119-124",
+  "congress": 119,
+  "public_law": "119-124",
+  "bill": "S 2403",
+  "title": "Retire through Ownership Act",
+  "enacted": "2026-10-15",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Labor and Employment",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "D",
+   "share": 0.522,
+   "r_yeas": 191,
+   "d_yeas": 209,
+   "shade": 0.045,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-119-121",
+  "congress": 119,
+  "public_law": "119-121",
+  "bill": "S 195",
+  "title": "American Music Tourism Act of 2025",
+  "enacted": "2026-10-09",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Arts, Culture, Religion",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-119-119",
+  "congress": 119,
+  "public_law": "119-119",
+  "bill": "HR 5345",
+  "title": "Improving Social Security’s Service to Victims of Identity Theft Act",
+  "enacted": "2026-10-07",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Social Welfare",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-119-120",
+  "congress": 119,
+  "public_law": "119-120",
+  "bill": "S 766",
+  "title": "Billion Dollar Boondoggle Act of 2025",
+  "enacted": "2026-10-07",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-119-118",
+  "congress": 119,
+  "public_law": "119-118",
+  "bill": "S 2398",
+  "title": "Kay Hagan Tick Reauthorization Act",
+  "enacted": "2026-09-30",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Health",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-119-112",
+  "congress": 119,
+  "public_law": "119-112",
+  "bill": "HR 3657",
+  "title": "Hydropower Licensing Transparency Act",
+  "enacted": "2026-09-25",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Energy",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-119-113",
+  "congress": 119,
+  "public_law": "119-113",
+  "bill": "HR 7250",
+  "title": "To reauthorize the Fort Peck Reservation Rural Water System Act of 2000.",
+  "enacted": "2026-09-25",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Water Resources Development",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-119-114",
+  "congress": 119,
+  "public_law": "119-114",
+  "bill": "S 550",
+  "title": "A bill to provide for the equitable settlement of certain Indian land disputes regarding land in Illinois, and for other purposes.",
+  "enacted": "2026-09-25",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Native Americans",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-119-115",
+  "congress": 119,
+  "public_law": "119-115",
+  "bill": "S 603",
+  "title": "A bill to designate the General George C. Marshall House, in the Commonwealth of Virginia, as an affiliated area of the National Park System, and for other purposes.",
+  "enacted": "2026-09-25",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Public Lands and Natural Resources",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-119-116",
+  "congress": 119,
+  "public_law": "119-116",
+  "bill": "S 759",
+  "title": "Modernizing Access to Our Public Oceans Act",
+  "enacted": "2026-09-25",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Transportation and Public Works",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-119-117",
+  "congress": 119,
+  "public_law": "119-117",
+  "bill": "S 790",
+  "title": "A bill to redesignate the National Historic Trails Interpretive Center in Casper, Wyoming, as the \"Barbara L. Cubin National Historic Trails Interpretive Center\".",
+  "enacted": "2026-09-25",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Public Lands and Natural Resources",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-119-111",
+  "congress": 119,
+  "public_law": "119-111",
+  "bill": "HR 5334",
+  "title": "Lindsey O. Graham Sanctioning Russia and Iran Act of 2026",
+  "enacted": "2026-09-18",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "International Affairs",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "R",
+   "share": 0.728,
+   "r_yeas": 252,
+   "d_yeas": 94,
+   "shade": 0.457,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": [],
+    "Senate": []
+   }
+  },
+  "control": {
+   "House": "R",
+   "Senate": "R"
+  }
+ },
+ {
+  "id": "pl-119-109",
+  "congress": 119,
+  "public_law": "119-109",
+  "bill": "S 32",
+  "title": "LACA",
+  "enacted": "2026-09-16",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Law",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "D",
+   "share": 0.507,
+   "r_yeas": 186,
+   "d_yeas": 191,
+   "shade": 0.013,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-119-110",
+  "congress": 119,
+  "public_law": "119-110",
+  "bill": "S 307",
+  "title": "Prison Staff Safety Enhancement Act",
+  "enacted": "2026-09-16",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Crime and Law Enforcement",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "D",
+   "share": 0.503,
+   "r_yeas": 187,
+   "d_yeas": 189,
+   "shade": 0.005,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-119-105",
+  "congress": 119,
+  "public_law": "119-105",
+  "bill": "HR 1276",
+  "title": "To remove restrictions from a parcel of land in Paducah, Kentucky.",
+  "enacted": "2026-09-11",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Public Lands and Natural Resources",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-119-106",
+  "congress": 119,
+  "public_law": "119-106",
+  "bill": "HR 2069",
+  "title": "Stop Secret Spending Act of 2025",
+  "enacted": "2026-09-11",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-119-107",
+  "congress": 119,
+  "public_law": "119-107",
+  "bill": "HR 2196",
+  "title": "National Emergency Medical Services Memorial Extension Act",
+  "enacted": "2026-09-11",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Public Lands and Natural Resources",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-119-108",
+  "congress": 119,
+  "public_law": "119-108",
+  "bill": "HR 5366",
+  "title": "Doug LaMalfa Federal Disaster Tax Relief Certainty Act",
+  "enacted": "2026-09-11",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Taxation",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-119-104",
+  "congress": 119,
+  "public_law": "119-104",
+  "bill": "S 858",
+  "title": "Hershel ‘Woody' Williams National Medal of Honor Monument Location Act",
+  "enacted": "2026-09-10",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Public Lands and Natural Resources",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-119-103",
+  "congress": 119,
+  "public_law": "119-103",
+  "bill": "HR 6500",
+  "title": "Continuing Appropriations and Extensions Act, 2027",
+  "enacted": "2026-09-02",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Economics and Public Finance",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "R",
+   "share": 0.524,
+   "r_yeas": 240,
+   "d_yeas": 218,
+   "shade": 0.048,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": [],
+    "Senate": []
+   }
+  },
+  "control": {
+   "House": "R",
+   "Senate": "R"
+  }
+ },
+ {
+  "id": "pl-119-102",
+  "congress": 119,
+  "public_law": "119-102",
+  "bill": "S 629",
+  "title": "Emergency Conservation Program Improvement Act of 2025",
+  "enacted": "2026-07-12",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Agriculture and Food",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "D",
+   "share": 0.515,
+   "r_yeas": 178,
+   "d_yeas": 189,
+   "shade": 0.03,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-119-101",
+  "congress": 119,
+  "public_law": "119-101",
+  "bill": "HR 6644",
+  "title": "21st Century ROAD to Housing Act",
+  "enacted": "2026-07-11",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Housing and Community Development",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "D",
+   "share": 0.527,
+   "r_yeas": 208,
+   "d_yeas": 232,
+   "shade": 0.055,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": [],
+    "Senate": []
+   }
+  },
+  "control": {
+   "House": "R",
+   "Senate": "R"
+  }
+ },
+ {
+  "id": "pl-119-100",
+  "congress": 119,
+  "public_law": "119-100",
+  "bill": "S 1003",
+  "title": "Lulu’s Law",
+  "enacted": "2026-06-26",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Science, Technology, Communications",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "D",
+   "share": 0.508,
+   "r_yeas": 197,
+   "d_yeas": 203,
+   "shade": 0.015,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-119-99",
+  "congress": 119,
+  "public_law": "119-99",
+  "bill": "S 254",
+  "title": "ARTIST Act",
+  "enacted": "2026-06-12",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Native Americans",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "D",
+   "share": 0.514,
+   "r_yeas": 196,
+   "d_yeas": 207,
+   "shade": 0.027,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-119-98",
+  "congress": 119,
+  "public_law": "119-98",
+  "bill": "S 2",
+  "title": "Secure America Act",
+  "enacted": "2026-06-10",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Immigration",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "R",
+   "share": 1.0,
+   "r_yeas": 266,
+   "d_yeas": 0,
+   "shade": 1.0,
+   "party_line": "R",
+   "zero_yeas_by_chamber": {
+    "House": [
+     "D"
+    ],
+    "Senate": [
+     "D"
+    ]
+   }
+  },
+  "control": {
+   "House": "R",
+   "Senate": "R"
+  }
+ },
+ {
+  "id": "pl-119-96",
+  "congress": 119,
+  "public_law": "119-96",
+  "bill": "HR 3490",
+  "title": "Gerald E. Connolly Esophageal Cancer Awareness Act of 2025",
+  "enacted": "2026-06-09",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-119-97",
+  "congress": 119,
+  "public_law": "119-97",
+  "bill": "S 2393",
+  "title": "Fiscal Year 2025 Veterans Affairs Major Medical Facility Authorization Act",
+  "enacted": "2026-06-09",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Armed Forces and National Security",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "D",
+   "share": 0.507,
+   "r_yeas": 199,
+   "d_yeas": 205,
+   "shade": 0.015,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-119-95",
+  "congress": 119,
+  "public_law": "119-95",
+  "bill": "S 4530",
+  "title": "A bill to amend chapters 83 and 84 of title 5, United States Code, to authorize an increase of the retirement age for members of the Capitol Police.",
+  "enacted": "2026-05-29",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-119-94",
+  "congress": 119,
+  "public_law": "119-94",
+  "bill": "HR 3497",
+  "title": "Medal of Sacrifice Act",
+  "enacted": "2026-05-28",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Crime and Law Enforcement",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-119-91",
+  "congress": 119,
+  "public_law": "119-91",
+  "bill": "HR 972",
+  "title": "Sloan Canyon Conservation and Lateral Pipeline Act",
+  "enacted": "2026-05-19",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Public Lands and Natural Resources",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-119-92",
+  "congress": 119,
+  "public_law": "119-92",
+  "bill": "HR 2066",
+  "title": "Investing in All of America Act of 2025",
+  "enacted": "2026-05-19",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Commerce",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-119-93",
+  "congress": 119,
+  "public_law": "119-93",
+  "bill": "HR 2815",
+  "title": "Cape Fox Land Entitlement Finalization Act of 2025",
+  "enacted": "2026-05-19",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Native Americans",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-119-89",
+  "congress": 119,
+  "public_law": "119-89",
+  "bill": "S 98",
+  "title": "Rural Broadband Protection Act of 2025",
+  "enacted": "2026-05-11",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Science, Technology, Communications",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-119-90",
+  "congress": 119,
+  "public_law": "119-90",
+  "bill": "S 1020",
+  "title": "A bill to require the Federal Energy Regulatory Commission to extend the time period during which licensees are required to commence construction of certain hydropower projects.",
+  "enacted": "2026-05-11",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Energy",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "D",
+   "share": 0.527,
+   "r_yeas": 186,
+   "d_yeas": 207,
+   "shade": 0.053,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-119-88",
+  "congress": 119,
+  "public_law": "119-88",
+  "bill": "S 723",
+  "title": "Tribal Trust Land Homeownership Act of 2025",
+  "enacted": "2026-05-04",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Native Americans",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "D",
+   "share": 0.542,
+   "r_yeas": 176,
+   "d_yeas": 208,
+   "shade": 0.083,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-119-86",
+  "congress": 119,
+  "public_law": "119-86",
+  "bill": "HR 7147",
+  "title": "Homeland Security and Further Additional Continuing Appropriations Act, 2026.",
+  "enacted": "2026-04-30",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Economics and Public Finance",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "R",
+   "share": 0.968,
+   "r_yeas": 213,
+   "d_yeas": 7,
+   "shade": 0.936,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-119-87",
+  "congress": 119,
+  "public_law": "119-87",
+  "bill": "S 4465",
+  "title": "A bill to amend the FISA Amendments Act of 2008 to extend the authorities of title VII of the Foreign Intelligence Surveillance Act of 1978, and for other purposes.",
+  "enacted": "2026-04-30",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Armed Forces and National Security",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "R",
+   "share": 0.638,
+   "r_yeas": 166,
+   "d_yeas": 94,
+   "shade": 0.277,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-119-85",
+  "congress": 119,
+  "public_law": "119-85",
+  "bill": "HJRES 140",
+  "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Land Management relating to Public Land Order No. 7917 for Withdrawal of Federal Lands; Cook, Lake, and Saint Louis Counties, MN.",
+  "enacted": "2026-04-27",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Public Lands and Natural Resources",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "R",
+   "share": 0.996,
+   "r_yeas": 263,
+   "d_yeas": 1,
+   "shade": 0.992,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": [],
+    "Senate": [
+     "D"
+    ]
+   }
+  },
+  "control": {
+   "House": "R",
+   "Senate": "R"
+  }
+ },
+ {
+  "id": "pl-119-84",
+  "congress": 119,
+  "public_law": "119-84",
+  "bill": "HR 8322",
+  "title": "To amend the FISA Amendments Act of 2008 to extend the authorities of title VII of the Foreign Intelligence Surveillance Act of 1978 through April 30, 2026, and for other purposes.",
+  "enacted": "2026-04-18",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Armed Forces and National Security",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-119-82",
+  "congress": 119,
+  "public_law": "119-82",
+  "bill": "S 1884",
+  "title": "Holocaust Expropriated Art Recovery Act of 2025",
+  "enacted": "2026-04-13",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Law",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-119-83",
+  "congress": 119,
+  "public_law": "119-83",
+  "bill": "S 3971",
+  "title": "Small Business Innovation and Economic Security Act",
+  "enacted": "2026-04-13",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Commerce",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "D",
+   "share": 0.557,
+   "r_yeas": 153,
+   "d_yeas": 192,
+   "shade": 0.113,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-119-81",
+  "congress": 119,
+  "public_law": "119-81",
+  "bill": "HR 7211",
+  "title": "To authorize the President to award the Medal of Honor to John W. Ripley for acts of valor during the Vietnam War, and for other purposes.",
+  "enacted": "2026-03-26",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Armed Forces and National Security",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-119-80",
+  "congress": 119,
+  "public_law": "119-80",
+  "bill": "S 4138",
+  "title": "A bill to waive the 60-day notice requirement for the posthumous honorary promotion of Captain Cody Khork, United States Army.",
+  "enacted": "2026-03-20",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Armed Forces and National Security",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-119-78",
+  "congress": 119,
+  "public_law": "119-78",
+  "bill": "HJRES 142",
+  "title": "Disapproving the action of the District of Columbia Council in approving the D.C. Income and Franchise Tax Conformity and Revision Temporary Amendment Act of 2025.",
+  "enacted": "2026-02-18",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "R",
+   "share": 1.0,
+   "r_yeas": 264,
+   "d_yeas": 0,
+   "shade": 1.0,
+   "party_line": "R",
+   "zero_yeas_by_chamber": {
+    "House": [
+     "D"
+    ],
+    "Senate": [
+     "D"
+    ]
+   }
+  },
+  "control": {
+   "House": "R",
+   "Senate": "R"
+  }
+ },
+ {
+  "id": "pl-119-79",
+  "congress": 119,
+  "public_law": "119-79",
+  "bill": "S 3705",
+  "title": "Semiquincentennial Congressional Time Capsule Act",
+  "enacted": "2026-02-18",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Congress",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-119-77",
+  "congress": 119,
+  "public_law": "119-77",
+  "bill": "S 269",
+  "title": "Ending Improper Payments to Deceased People Act",
+  "enacted": "2026-02-10",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Social Welfare",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-119-76",
+  "congress": 119,
+  "public_law": "119-76",
+  "bill": "S 3424",
+  "title": "Bankruptcy Administration Improvement Act of 2025",
+  "enacted": "2026-02-06",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Finance and Financial Sector",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-119-75",
+  "congress": 119,
+  "public_law": "119-75",
+  "bill": "HR 7148",
+  "title": "Consolidated Appropriations Act, 2026",
+  "enacted": "2026-02-03",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Economics and Public Finance",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "R",
+   "share": 0.85,
+   "r_yeas": 244,
+   "d_yeas": 43,
+   "shade": 0.7,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": [],
+    "Senate": []
+   }
+  },
+  "control": {
+   "House": "R",
+   "Senate": "R"
+  }
+ },
+ {
+  "id": "pl-119-73",
+  "congress": 119,
+  "public_law": "119-73",
+  "bill": "HR 4323",
+  "title": "Trafficking Survivors Relief Act",
+  "enacted": "2026-01-23",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Crime and Law Enforcement",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-119-74",
+  "congress": 119,
+  "public_law": "119-74",
+  "bill": "HR 6938",
+  "title": "Commerce, Justice, Science; Energy and Water Development; and Interior and Environment Appropriations Act, 2026",
+  "enacted": "2026-01-23",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Economics and Public Finance",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "D",
+   "share": 0.504,
+   "r_yeas": 237,
+   "d_yeas": 241,
+   "shade": 0.008,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": [],
+    "Senate": []
+   }
+  },
+  "control": {
+   "House": "R",
+   "Senate": "R"
+  }
+ },
+ {
+  "id": "pl-119-70",
+  "congress": 119,
+  "public_law": "119-70",
+  "bill": "HR 224",
+  "title": "Disabled Veterans Housing Support Act",
+  "enacted": "2026-01-20",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Housing and Community Development",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-119-71",
+  "congress": 119,
+  "public_law": "119-71",
+  "bill": "HR 1823",
+  "title": "VA Budget Shortfall Accountability Act",
+  "enacted": "2026-01-20",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Armed Forces and National Security",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-119-72",
+  "congress": 119,
+  "public_law": "119-72",
+  "bill": "HR 4446",
+  "title": "FAST VETS Act",
+  "enacted": "2026-01-20",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Armed Forces and National Security",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-119-69",
+  "congress": 119,
+  "public_law": "119-69",
+  "bill": "S 222",
+  "title": "Whole Milk for Healthy Kids Act of 2025",
+  "enacted": "2026-01-14",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Agriculture and Food",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-119-68",
+  "congress": 119,
+  "public_law": "119-68",
+  "bill": "HR 1043",
+  "title": "La Paz County Solar Energy and Job Creation Act",
+  "enacted": "2025-12-29",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Public Lands and Natural Resources",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-119-62",
+  "congress": 119,
+  "public_law": "119-62",
+  "bill": "HR 187",
+  "title": "MAPWaters Act of 2025",
+  "enacted": "2025-12-26",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Public Lands and Natural Resources",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "R",
+   "share": 0.511,
+   "r_yeas": 211,
+   "d_yeas": 202,
+   "shade": 0.022,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-119-63",
+  "congress": 119,
+  "public_law": "119-63",
+  "bill": "HR 410",
+  "title": "Alaska Native Vietnam Era Veterans Land Allotment Extension Act of 2025",
+  "enacted": "2025-12-26",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Native Americans",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-119-64",
+  "congress": 119,
+  "public_law": "119-64",
+  "bill": "HR 1491",
+  "title": "Disaster Related Extension of Deadlines Act",
+  "enacted": "2025-12-26",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Taxation",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "R",
+   "share": 0.501,
+   "r_yeas": 212,
+   "d_yeas": 211,
+   "shade": 0.002,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-119-65",
+  "congress": 119,
+  "public_law": "119-65",
+  "bill": "S 216",
+  "title": "Save Our Seas 2.0 Amendments Act",
+  "enacted": "2025-12-26",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Public Lands and Natural Resources",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-119-66",
+  "congress": 119,
+  "public_law": "119-66",
+  "bill": "S 284",
+  "title": "Congressional Award Program Reauthorization Act",
+  "enacted": "2025-12-26",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Congress",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "D",
+   "share": 0.524,
+   "r_yeas": 176,
+   "d_yeas": 194,
+   "shade": 0.049,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-119-67",
+  "congress": 119,
+  "public_law": "119-67",
+  "bill": "S 2878",
+  "title": "Great Lakes Fishery Research Reauthorization Act",
+  "enacted": "2025-12-26",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Public Lands and Natural Resources",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-119-61",
+  "congress": 119,
+  "public_law": "119-61",
+  "bill": "HR 165",
+  "title": "Wounded Knee Massacre Memorial and Sacred Site Act",
+  "enacted": "2025-12-19",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Native Americans",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "R",
+   "share": 0.519,
+   "r_yeas": 216,
+   "d_yeas": 200,
+   "shade": 0.038,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-119-58",
+  "congress": 119,
+  "public_law": "119-58",
+  "bill": "S 356",
+  "title": "Secure Rural Schools Reauthorization Act of 2025",
+  "enacted": "2025-12-18",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Public Lands and Natural Resources",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "D",
+   "share": 0.504,
+   "r_yeas": 198,
+   "d_yeas": 201,
+   "shade": 0.008,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-119-59",
+  "congress": 119,
+  "public_law": "119-59",
+  "bill": "S 2283",
+  "title": "A bill to designate the facility of the United States Postal Service located at 201 West Oklahoma Avenue in Guthrie, Oklahoma, as the \"Oscar J. Upham Post Office\".",
+  "enacted": "2025-12-18",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Government Operations and Politics",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-119-60",
+  "congress": 119,
+  "public_law": "119-60",
+  "bill": "S 1071",
+  "title": "National Defense Authorization Act for Fiscal Year 2026",
+  "enacted": "2025-12-18",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Armed Forces and National Security",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "R",
+   "share": 0.634,
+   "r_yeas": 246,
+   "d_yeas": 142,
+   "shade": 0.268,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": [],
+    "Senate": []
+   }
+  },
+  "control": {
+   "House": "R",
+   "Senate": "R"
+  }
+ },
+ {
+  "id": "pl-119-53",
+  "congress": 119,
+  "public_law": "119-53",
+  "bill": "HR 452",
+  "title": "Miracle on Ice Congressional Gold Medal Act",
+  "enacted": "2025-12-12",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Sports and Recreation",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-119-54",
+  "congress": 119,
+  "public_law": "119-54",
+  "bill": "HR 970",
+  "title": "Fairness for Servicemembers and their Families Act of 2025",
+  "enacted": "2025-12-12",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Armed Forces and National Security",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-119-55",
+  "congress": 119,
+  "public_law": "119-55",
+  "bill": "HR 983",
+  "title": "Montgomery GI Bill Selected Reserves Tuition Fairness Act of 2025",
+  "enacted": "2025-12-12",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Armed Forces and National Security",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-119-56",
+  "congress": 119,
+  "public_law": "119-56",
+  "bill": "HR 1912",
+  "title": "Veteran Fraud Reimbursement Act of 2025",
+  "enacted": "2025-12-12",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Armed Forces and National Security",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-119-57",
+  "congress": 119,
+  "public_law": "119-57",
+  "bill": "S 616",
+  "title": "Foundation of the Federal Bar Association Charter Amendments Act of 2025",
+  "enacted": "2025-12-12",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Law",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-119-48",
+  "congress": 119,
+  "public_law": "119-48",
+  "bill": "HJRES 104",
+  "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Land Management relating to \"Miles City Field Office Record of Decision and Approved Resource Management Plan Amendment\".",
+  "enacted": "2025-12-11",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Public Lands and Natural Resources",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "R",
+   "share": 1.0,
+   "r_yeas": 263,
+   "d_yeas": 0,
+   "shade": 1.0,
+   "party_line": "R",
+   "zero_yeas_by_chamber": {
+    "House": [
+     "D"
+    ],
+    "Senate": [
+     "D"
+    ]
+   }
+  },
+  "control": {
+   "House": "R",
+   "Senate": "R"
+  }
+ },
+ {
+  "id": "pl-119-49",
+  "congress": 119,
+  "public_law": "119-49",
+  "bill": "HJRES 105",
+  "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Land Management relating to \"North Dakota Field Office Record of Decision and Approved Resource Management Plan\".",
+  "enacted": "2025-12-11",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Public Lands and Natural Resources",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "R",
+   "share": 1.0,
+   "r_yeas": 265,
+   "d_yeas": 0,
+   "shade": 1.0,
+   "party_line": "R",
+   "zero_yeas_by_chamber": {
+    "House": [
+     "D"
+    ],
+    "Senate": [
+     "D"
+    ]
+   }
+  },
+  "control": {
+   "House": "R",
+   "Senate": "R"
+  }
+ },
+ {
+  "id": "pl-119-50",
+  "congress": 119,
+  "public_law": "119-50",
+  "bill": "HJRES 106",
+  "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Land Management relating to \"Central Yukon Record of Decision and Approved Resource Management Plan\".",
+  "enacted": "2025-12-11",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Public Lands and Natural Resources",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "R",
+   "share": 1.0,
+   "r_yeas": 265,
+   "d_yeas": 0,
+   "shade": 1.0,
+   "party_line": "R",
+   "zero_yeas_by_chamber": {
+    "House": [
+     "D"
+    ],
+    "Senate": [
+     "D"
+    ]
+   }
+  },
+  "control": {
+   "House": "R",
+   "Senate": "R"
+  }
+ },
+ {
+  "id": "pl-119-51",
+  "congress": 119,
+  "public_law": "119-51",
+  "bill": "HJRES 130",
+  "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Land Management relating to Buffalo Field Office Record of Decision and Approved Resource Management Plan Amendment.",
+  "enacted": "2025-12-11",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Public Lands and Natural Resources",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "R",
+   "share": 1.0,
+   "r_yeas": 265,
+   "d_yeas": 0,
+   "shade": 1.0,
+   "party_line": "R",
+   "zero_yeas_by_chamber": {
+    "House": [
+     "D"
+    ],
+    "Senate": [
+     "D"
+    ]
+   }
+  },
+  "control": {
+   "House": "R",
+   "Senate": "R"
+  }
+ },
+ {
+  "id": "pl-119-52",
+  "congress": 119,
+  "public_law": "119-52",
+  "bill": "HJRES 131",
+  "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Land Management relating to Coastal Plain Oil and Gas Leasing Program Record of Decision.",
+  "enacted": "2025-12-11",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Energy",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "R",
+   "share": 0.989,
+   "r_yeas": 263,
+   "d_yeas": 3,
+   "shade": 0.977,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": [],
+    "Senate": [
+     "D"
+    ]
+   }
+  },
+  "control": {
+   "House": "R",
+   "Senate": "R"
+  }
+ },
+ {
+  "id": "pl-119-47",
+  "congress": 119,
+  "public_law": "119-47",
+  "bill": "SJRES 80",
+  "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Land Management relating to \"National Petroleum Reserve in Alaska Integrated Activity Plan Record of Decision\".",
+  "enacted": "2025-12-05",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Energy",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "R",
+   "share": 0.985,
+   "r_yeas": 264,
+   "d_yeas": 4,
+   "shade": 0.97,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": [],
+    "Senate": []
+   }
+  },
+  "control": {
+   "House": "R",
+   "Senate": "R"
+  }
+ },
+ {
+  "id": "pl-119-45",
+  "congress": 119,
+  "public_law": "119-45",
+  "bill": "HR 1512",
+  "title": "Taiwan Assurance Implementation Act",
+  "enacted": "2025-12-02",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "International Affairs",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-119-46",
+  "congress": 119,
+  "public_law": "119-46",
+  "bill": "HJRES 133",
+  "title": "Requesting the Secretary of the Interior to authorize unique and one-time arrangements for displays on the National Mall and the Washington Monument during the period beginning on December 31, 2025, and ending on January 5, 2026.",
+  "enacted": "2025-12-02",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Public Lands and Natural Resources",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-119-43",
+  "congress": 119,
+  "public_law": "119-43",
+  "bill": "HR 695",
+  "title": "Medal of Honor Act",
+  "enacted": "2025-12-01",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Armed Forces and National Security",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "R",
+   "share": 0.502,
+   "r_yeas": 213,
+   "d_yeas": 211,
+   "shade": 0.005,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-119-44",
+  "congress": 119,
+  "public_law": "119-44",
+  "bill": "HR 2483",
+  "title": "SUPPORT for Patients and Communities Reauthorization Act of 2025",
+  "enacted": "2025-12-01",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Health",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "R",
+   "share": 0.514,
+   "r_yeas": 188,
+   "d_yeas": 178,
+   "shade": 0.027,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-119-39",
+  "congress": 119,
+  "public_law": "119-39",
+  "bill": "HR 998",
+  "title": "Internal Revenue Service Math and Taxpayer Help Act",
+  "enacted": "2025-11-25",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Taxation",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-119-40",
+  "congress": 119,
+  "public_law": "119-40",
+  "bill": "HR 2316",
+  "title": "Wetlands Conservation and Access Improvement Act of 2025",
+  "enacted": "2025-11-25",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Public Lands and Natural Resources",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-119-41",
+  "congress": 119,
+  "public_law": "119-41",
+  "bill": "S 260",
+  "title": "Bottles and Breastfeeding Equipment Screening Enhancement Act",
+  "enacted": "2025-11-25",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Transportation and Public Works",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-119-42",
+  "congress": 119,
+  "public_law": "119-42",
+  "bill": "S 2392",
+  "title": "Veterans’ Compensation Cost-of-Living Adjustment Act of 2025",
+  "enacted": "2025-11-25",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Armed Forces and National Security",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-119-38",
+  "congress": 119,
+  "public_law": "119-38",
+  "bill": "HR 4405",
+  "title": "Epstein Files Transparency Act",
+  "enacted": "2025-11-19",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Crime and Law Enforcement",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "R",
+   "share": 0.506,
+   "r_yeas": 216,
+   "d_yeas": 211,
+   "shade": 0.012,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-119-37",
+  "congress": 119,
+  "public_law": "119-37",
+  "bill": "HR 5371",
+  "title": "Continuing Appropriations, Agriculture, Legislative Branch, Military Construction and Veterans Affairs, and Extensions Act, 2026",
+  "enacted": "2025-11-12",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Economics and Public Finance",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "R",
+   "share": 0.954,
+   "r_yeas": 268,
+   "d_yeas": 13,
+   "shade": 0.907,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": [],
+    "Senate": []
+   }
+  },
+  "control": {
+   "House": "R",
+   "Senate": "R"
+  }
+ },
+ {
+  "id": "pl-119-35",
+  "congress": 119,
+  "public_law": "119-35",
+  "bill": "HR 2170",
+  "title": "To name the Department of Veterans Affairs community-based outpatient clinic in Toms River, New Jersey, the Leonard G. 'Bud' Lomell, VA Clinic, and for other purposes.",
+  "enacted": "2025-09-05",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Armed Forces and National Security",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-119-36",
+  "congress": 119,
+  "public_law": "119-36",
+  "bill": "HR 2808",
+  "title": "Homebuyers Privacy Protection Act",
+  "enacted": "2025-09-05",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Finance and Financial Sector",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-119-34",
+  "congress": 119,
+  "public_law": "119-34",
+  "bill": "HR 1316",
+  "title": "Maintaining American Superiority by Improving Export Control Transparency Act",
+  "enacted": "2025-08-19",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Foreign Trade and International Finance",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-119-32",
+  "congress": 119,
+  "public_law": "119-32",
+  "bill": "S 201",
+  "title": "ACES Act of 2025",
+  "enacted": "2025-08-14",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Armed Forces and National Security",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-119-33",
+  "congress": 119,
+  "public_law": "119-33",
+  "bill": "S 423",
+  "title": "PRO Veterans Act of 2025",
+  "enacted": "2025-08-14",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Armed Forces and National Security",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-119-31",
+  "congress": 119,
+  "public_law": "119-31",
+  "bill": "HR 1815",
+  "title": "VA Home Loan Program Reform Act",
+  "enacted": "2025-07-30",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Armed Forces and National Security",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-119-28",
+  "congress": 119,
+  "public_law": "119-28",
+  "bill": "HR 4",
+  "title": "Rescissions Act of 2025",
+  "enacted": "2025-07-24",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Economics and Public Finance",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "R",
+   "share": 1.0,
+   "r_yeas": 265,
+   "d_yeas": 0,
+   "shade": 1.0,
+   "party_line": "R",
+   "zero_yeas_by_chamber": {
+    "House": [
+     "D"
+    ],
+    "Senate": [
+     "D"
+    ]
+   }
+  },
+  "control": {
+   "House": "R",
+   "Senate": "R"
+  }
+ },
+ {
+  "id": "pl-119-29",
+  "congress": 119,
+  "public_law": "119-29",
+  "bill": "HR 517",
+  "title": "Filing Relief for Natural Disasters Act",
+  "enacted": "2025-07-24",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Taxation",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "R",
+   "share": 0.503,
+   "r_yeas": 195,
+   "d_yeas": 193,
+   "shade": 0.005,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-119-30",
+  "congress": 119,
+  "public_law": "119-30",
+  "bill": "S 1596",
+  "title": "Jocelyn Nungaray National Wildlife Refuge Act",
+  "enacted": "2025-07-24",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Public Lands and Natural Resources",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "R",
+   "share": 0.522,
+   "r_yeas": 194,
+   "d_yeas": 178,
+   "shade": 0.043,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-119-27",
+  "congress": 119,
+  "public_law": "119-27",
+  "bill": "S 1582",
+  "title": "GENIUS Act",
+  "enacted": "2025-07-18",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Finance and Financial Sector",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "R",
+   "share": 0.681,
+   "r_yeas": 256,
+   "d_yeas": 120,
+   "shade": 0.362,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": [],
+    "Senate": []
+   }
+  },
+  "control": {
+   "House": "R",
+   "Senate": "R"
+  }
+ },
+ {
+  "id": "pl-119-26",
+  "congress": 119,
+  "public_law": "119-26",
+  "bill": "S 331",
+  "title": "HALT Fentanyl Act",
+  "enacted": "2025-07-16",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Crime and Law Enforcement",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "R",
+   "share": 0.668,
+   "r_yeas": 270,
+   "d_yeas": 134,
+   "shade": 0.337,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": [],
+    "Senate": []
+   }
+  },
+  "control": {
+   "House": "R",
+   "Senate": "R"
+  }
+ },
+ {
+  "id": "pl-119-24",
+  "congress": 119,
+  "public_law": "119-24",
+  "bill": "HR 618",
+  "title": "Apex Area Technical Corrections Act",
+  "enacted": "2025-07-15",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Public Lands and Natural Resources",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-119-25",
+  "congress": 119,
+  "public_law": "119-25",
+  "bill": "HR 2215",
+  "title": "Salem Maritime National Historical Park Redesignation and Boundary Study Act",
+  "enacted": "2025-07-15",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Public Lands and Natural Resources",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "D",
+   "share": 0.524,
+   "r_yeas": 182,
+   "d_yeas": 200,
+   "shade": 0.047,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-119-22",
+  "congress": 119,
+  "public_law": "119-22",
+  "bill": "HR 42",
+  "title": "Alaska Native Settlement Trust Eligibility Act",
+  "enacted": "2025-07-07",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Native Americans",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-119-23",
+  "congress": 119,
+  "public_law": "119-23",
+  "bill": "HR 43",
+  "title": "Alaska Native Village Municipal Lands Restoration Act of 2025",
+  "enacted": "2025-07-07",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Native Americans",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "R",
+   "share": 0.505,
+   "r_yeas": 208,
+   "d_yeas": 204,
+   "shade": 0.01,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-119-21",
+  "congress": 119,
+  "public_law": "119-21",
+  "bill": "HR 1",
+  "title": "An act to provide for reconciliation pursuant to title II of H. Con. Res. 14.",
+  "enacted": "2025-07-04",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Economics and Public Finance",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "R",
+   "share": 1.0,
+   "r_yeas": 268,
+   "d_yeas": 0,
+   "shade": 1.0,
+   "party_line": "R",
+   "zero_yeas_by_chamber": {
+    "House": [
+     "D"
+    ],
+    "Senate": [
+     "D"
+    ]
+   }
+  },
+  "control": {
+   "House": "R",
+   "Senate": "R"
+  }
+ },
+ {
+  "id": "pl-119-19",
+  "congress": 119,
+  "public_law": "119-19",
+  "bill": "SJRES 13",
+  "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Office of the Comptroller of the Currency of the Department of the Treasury relating to the review of applications under the Bank Merger Act.",
+  "enacted": "2025-06-20",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Finance and Financial Sector",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "R",
+   "share": 0.996,
+   "r_yeas": 271,
+   "d_yeas": 1,
+   "shade": 0.993,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": [],
+    "Senate": [
+     "D"
+    ]
+   }
+  },
+  "control": {
+   "House": "R",
+   "Senate": "R"
+  }
+ },
+ {
+  "id": "pl-119-20",
+  "congress": 119,
+  "public_law": "119-20",
+  "bill": "SJRES 31",
+  "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \"Review of Final Rule Reclassification of Major Sources as Area Sources Under Section 112 of the Clean Air Act\".",
+  "enacted": "2025-06-20",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Environmental Protection",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "R",
+   "share": 1.0,
+   "r_yeas": 268,
+   "d_yeas": 0,
+   "shade": 1.0,
+   "party_line": "R",
+   "zero_yeas_by_chamber": {
+    "House": [
+     "D"
+    ],
+    "Senate": [
+     "D"
+    ]
+   }
+  },
+  "control": {
+   "House": "R",
+   "Senate": "R"
+  }
+ },
+ {
+  "id": "pl-119-15",
+  "congress": 119,
+  "public_law": "119-15",
+  "bill": "HJRES 87",
+  "title": "Providing congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \"California State Motor Vehicle and Engine Pollution Control Standards; Heavy-Duty Vehicle and Engine Emission Warranty and Maintenance Provisions; Advanced Clean Trucks; Zero Emission Airport Shuttle; Zero-Emission Power Train Certification; Waiver of Preemption; Notice of Decision\".",
+  "enacted": "2025-06-12",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Environmental Protection",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "R",
+   "share": 0.954,
+   "r_yeas": 269,
+   "d_yeas": 13,
+   "shade": 0.908,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": [],
+    "Senate": [
+     "D"
+    ]
+   }
+  },
+  "control": {
+   "House": "R",
+   "Senate": "R"
+  }
+ },
+ {
+  "id": "pl-119-16",
+  "congress": 119,
+  "public_law": "119-16",
+  "bill": "HJRES 88",
+  "title": "Providing congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \"California State Motor Vehicle and Engine Pollution Control Standards; Advanced Clean Cars II; Waiver of Preemption; Notice of Decision\".",
+  "enacted": "2025-06-12",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Environmental Protection",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "R",
+   "share": 0.879,
+   "r_yeas": 261,
+   "d_yeas": 36,
+   "shade": 0.758,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": [],
+    "Senate": []
+   }
+  },
+  "control": {
+   "House": "R",
+   "Senate": "R"
+  }
+ },
+ {
+  "id": "pl-119-17",
+  "congress": 119,
+  "public_law": "119-17",
+  "bill": "HJRES 89",
+  "title": "Providing congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \"California State Motor Vehicle and Engine and Nonroad Engine Pollution Control Standards; The 'Omnibus' Low NOX Regulation; Waiver of Preemption; Notice of Decision\".",
+  "enacted": "2025-06-12",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Environmental Protection",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "R",
+   "share": 0.964,
+   "r_yeas": 264,
+   "d_yeas": 10,
+   "shade": 0.927,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": [],
+    "Senate": [
+     "D"
+    ]
+   }
+  },
+  "control": {
+   "House": "R",
+   "Senate": "R"
+  }
+ },
+ {
+  "id": "pl-119-18",
+  "congress": 119,
+  "public_law": "119-18",
+  "bill": "S 160",
+  "title": "Aerial Firefighting Enhancement Act of 2025",
+  "enacted": "2025-06-12",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Armed Forces and National Security",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-119-13",
+  "congress": 119,
+  "public_law": "119-13",
+  "bill": "HJRES 60",
+  "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the National Park Service relating to \"Glen Canyon National Recreation Area: Motor Vehicles\".",
+  "enacted": "2025-05-23",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Public Lands and Natural Resources",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "R",
+   "share": 0.993,
+   "r_yeas": 267,
+   "d_yeas": 2,
+   "shade": 0.985,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": [],
+    "Senate": [
+     "D"
+    ]
+   }
+  },
+  "control": {
+   "House": "R",
+   "Senate": "R"
+  }
+ },
+ {
+  "id": "pl-119-14",
+  "congress": 119,
+  "public_law": "119-14",
+  "bill": "HJRES 61",
+  "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \"National Emission Standards for Hazardous Air Pollutants: Rubber Tire Manufacturing\".",
+  "enacted": "2025-05-23",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Environmental Protection",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "R",
+   "share": 0.967,
+   "r_yeas": 262,
+   "d_yeas": 9,
+   "shade": 0.934,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": [],
+    "Senate": []
+   }
+  },
+  "control": {
+   "House": "R",
+   "Senate": "R"
+  }
+ },
+ {
+  "id": "pl-119-12",
+  "congress": 119,
+  "public_law": "119-12",
+  "bill": "S 146",
+  "title": "TAKE IT DOWN Act",
+  "enacted": "2025-05-19",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Science, Technology, Communications",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "R",
+   "share": 0.506,
+   "r_yeas": 207,
+   "d_yeas": 202,
+   "shade": 0.012,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": []
+   }
+  },
+  "control": {
+   "House": "R"
+  }
+ },
+ {
+  "id": "pl-119-6",
+  "congress": 119,
+  "public_law": "119-6",
+  "bill": "HJRES 20",
+  "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Energy relating to \"Energy Conservation Program: Energy Conservation Standards for Consumer Gas-fired Instantaneous Water Heaters\".",
+  "enacted": "2025-05-09",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Energy",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "R",
+   "share": 0.953,
+   "r_yeas": 261,
+   "d_yeas": 13,
+   "shade": 0.905,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": [],
+    "Senate": []
+   }
+  },
+  "control": {
+   "House": "R",
+   "Senate": "R"
+  }
+ },
+ {
+  "id": "pl-119-7",
+  "congress": 119,
+  "public_law": "119-7",
+  "bill": "HJRES 24",
+  "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Energy relating to \"Energy Conservation Program: Energy Conservation Standards for Walk-In Coolers and Walk-In Freezers\".",
+  "enacted": "2025-05-09",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Energy",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "R",
+   "share": 0.977,
+   "r_yeas": 250,
+   "d_yeas": 6,
+   "shade": 0.953,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": [],
+    "Senate": [
+     "D"
+    ]
+   }
+  },
+  "control": {
+   "House": "R",
+   "Senate": "R"
+  }
+ },
+ {
+  "id": "pl-119-8",
+  "congress": 119,
+  "public_law": "119-8",
+  "bill": "HJRES 42",
+  "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Energy relating to \"Energy Conservation Program for Appliance Standards: Certification Requirements, Labeling Requirements, and Enforcement Provisions for Certain Consumer Products and Commercial Equipment\".",
+  "enacted": "2025-05-09",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Energy",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "R",
+   "share": 0.974,
+   "r_yeas": 267,
+   "d_yeas": 7,
+   "shade": 0.949,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": [],
+    "Senate": [
+     "D"
+    ]
+   }
+  },
+  "control": {
+   "House": "R",
+   "Senate": "R"
+  }
+ },
+ {
+  "id": "pl-119-9",
+  "congress": 119,
+  "public_law": "119-9",
+  "bill": "HJRES 75",
+  "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Office of Energy Efficiency and Renewable Energy, Department of Energy relating to \"Energy Conservation Program: Energy Conservation Standards for Commercial Refrigerators, Freezers, and Refrigerator-Freezers\".",
+  "enacted": "2025-05-09",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Energy",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "R",
+   "share": 0.981,
+   "r_yeas": 261,
+   "d_yeas": 5,
+   "shade": 0.962,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": [],
+    "Senate": [
+     "D"
+    ]
+   }
+  },
+  "control": {
+   "House": "R",
+   "Senate": "R"
+  }
+ },
+ {
+  "id": "pl-119-10",
+  "congress": 119,
+  "public_law": "119-10",
+  "bill": "SJRES 18",
+  "title": "A joint resolution disapproving the rule submitted by the Bureau of Consumer Financial Protection relating to \"Overdraft Lending: Very Large Financial Institutions\".",
+  "enacted": "2025-05-09",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Finance and Financial Sector",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "R",
+   "share": 1.0,
+   "r_yeas": 269,
+   "d_yeas": 0,
+   "shade": 1.0,
+   "party_line": "R",
+   "zero_yeas_by_chamber": {
+    "House": [
+     "D"
+    ],
+    "Senate": [
+     "D"
+    ]
+   }
+  },
+  "control": {
+   "House": "R",
+   "Senate": "R"
+  }
+ },
+ {
+  "id": "pl-119-11",
+  "congress": 119,
+  "public_law": "119-11",
+  "bill": "SJRES 28",
+  "title": "A joint resolution disapproving the rule submitted by the Bureau of Consumer Financial Protection relating to \"Defining Larger Participants of a Market for General-Use Digital Consumer Payment Applications\".",
+  "enacted": "2025-05-09",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Finance and Financial Sector",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "R",
+   "share": 1.0,
+   "r_yeas": 270,
+   "d_yeas": 0,
+   "shade": 1.0,
+   "party_line": "R",
+   "zero_yeas_by_chamber": {
+    "House": [
+     "D"
+    ],
+    "Senate": [
+     "D"
+    ]
+   }
+  },
+  "control": {
+   "House": "R",
+   "Senate": "R"
+  }
+ },
+ {
+  "id": "pl-119-5",
+  "congress": 119,
+  "public_law": "119-5",
+  "bill": "HJRES 25",
+  "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Internal Revenue Service relating to \"Gross Proceeds Reporting by Brokers That Regularly Provide Services Effectuating Digital Asset Sales\".",
+  "enacted": "2025-04-10",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Taxation",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "R",
+   "share": 0.743,
+   "r_yeas": 269,
+   "d_yeas": 93,
+   "shade": 0.486,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": [],
+    "Senate": []
+   }
+  },
+  "control": {
+   "House": "R",
+   "Senate": "R"
+  }
+ },
+ {
+  "id": "pl-119-4",
+  "congress": 119,
+  "public_law": "119-4",
+  "bill": "HR 1968",
+  "title": "Full-Year Continuing Appropriations and Extensions Act, 2025",
+  "enacted": "2025-03-15",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Economics and Public Finance",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "R",
+   "share": 0.993,
+   "r_yeas": 268,
+   "d_yeas": 2,
+   "shade": 0.985,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": [],
+    "Senate": []
+   }
+  },
+  "control": {
+   "House": "R",
+   "Senate": "R"
+  }
+ },
+ {
+  "id": "pl-119-2",
+  "congress": 119,
+  "public_law": "119-2",
+  "bill": "HJRES 35",
+  "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \"Waste Emissions Charge for Petroleum and Natural Gas Systems: Procedures for Facilitating Compliance, Including Netting and Exemptions\".",
+  "enacted": "2025-03-14",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Environmental Protection",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "R",
+   "share": 0.978,
+   "r_yeas": 266,
+   "d_yeas": 6,
+   "shade": 0.956,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": [],
+    "Senate": [
+     "D"
+    ]
+   }
+  },
+  "control": {
+   "House": "R",
+   "Senate": "R"
+  }
+ },
+ {
+  "id": "pl-119-3",
+  "congress": 119,
+  "public_law": "119-3",
+  "bill": "SJRES 11",
+  "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Ocean Energy Management relating to \"Protection of Marine Archaeological Resources\".",
+  "enacted": "2025-03-14",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Public Lands and Natural Resources",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "R",
+   "share": 0.956,
+   "r_yeas": 263,
+   "d_yeas": 12,
+   "shade": 0.913,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": [],
+    "Senate": []
+   }
+  },
+  "control": {
+   "House": "R",
+   "Senate": "R"
+  }
+ },
+ {
+  "id": "pl-119-1",
+  "congress": 119,
+  "public_law": "119-1",
+  "bill": "S 5",
+  "title": "Laken Riley Act",
+  "enacted": "2025-01-29",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Immigration",
+  "recorded_vote": true,
+  "party_color": {
+   "side": "R",
+   "share": 0.823,
+   "r_yeas": 269,
+   "d_yeas": 58,
+   "shade": 0.645,
+   "party_line": null,
+   "zero_yeas_by_chamber": {
+    "House": [],
+    "Senate": []
+   }
+  },
+  "control": {
+   "House": "R",
+   "Senate": "R"
+  }
+ },
+ {
   "id": "pl-118-274",
   "congress": 118,
   "public_law": "118-274",

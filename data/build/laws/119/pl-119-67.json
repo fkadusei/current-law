@@ -1,0 +1,43 @@
+{
+ "id": "pl-119-67",
+ "congress": 119,
+ "public_law": "119-67",
+ "bill": "S 2878",
+ "title": "Great Lakes Fishery Research Reauthorization Act",
+ "enacted": "2025-12-26",
+ "president": {
+  "id": "trump-2",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Public Lands and Natural Resources",
+ "sponsor": "Sen. Peters, Gary C. [D-MI]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119s2878enr/uslm/BILLS-119s2878enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119s2878enr/xml/BILLS-119s2878enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119s2878es/xml/BILLS-119s2878es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119s2878rs/xml/BILLS-119s2878rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119s2878is/xml/BILLS-119s2878is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ67/uslm/PLAW-119publ67.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/2878",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

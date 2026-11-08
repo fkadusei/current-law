@@ -1,0 +1,43 @@
+{
+ "id": "pl-119-118",
+ "congress": 119,
+ "public_law": "119-118",
+ "bill": "S 2398",
+ "title": "Kay Hagan Tick Reauthorization Act",
+ "enacted": "2026-09-30",
+ "president": {
+  "id": "trump-2",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Health",
+ "sponsor": "Sen. Collins, Susan M. [R-ME]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119s2398enr/uslm/BILLS-119s2398enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119s2398enr/xml/BILLS-119s2398enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119s2398es/xml/BILLS-119s2398es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119s2398rs/xml/BILLS-119s2398rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119s2398is/xml/BILLS-119s2398is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ118/uslm/PLAW-119publ118.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/2398",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

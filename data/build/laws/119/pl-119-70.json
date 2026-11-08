@@ -1,0 +1,43 @@
+{
+ "id": "pl-119-70",
+ "congress": 119,
+ "public_law": "119-70",
+ "bill": "HR 224",
+ "title": "Disabled Veterans Housing Support Act",
+ "enacted": "2026-01-20",
+ "president": {
+  "id": "trump-2",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Housing and Community Development",
+ "sponsor": "Rep. De La Cruz, Monica [R-TX-15]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr224enr/uslm/BILLS-119hr224enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr224enr/xml/BILLS-119hr224enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr224rfs/xml/BILLS-119hr224rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr224eh/xml/BILLS-119hr224eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr224ih/xml/BILLS-119hr224ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ70/uslm/PLAW-119publ70.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/224",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

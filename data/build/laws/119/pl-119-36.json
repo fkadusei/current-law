@@ -1,0 +1,46 @@
+{
+ "id": "pl-119-36",
+ "congress": 119,
+ "public_law": "119-36",
+ "bill": "HR 2808",
+ "title": "Homebuyers Privacy Protection Act",
+ "enacted": "2025-09-05",
+ "president": {
+  "id": "trump-2",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Finance and Financial Sector",
+ "sponsor": "Rep. Rose, John W. [R-TN-6]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2808enr/uslm/BILLS-119hr2808enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2808enr/xml/BILLS-119hr2808enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2808pcs/xml/BILLS-119hr2808pcs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2808eh/xml/BILLS-119hr2808eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2808rh/xml/BILLS-119hr2808rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2808ih/xml/BILLS-119hr2808ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ36/uslm/PLAW-119publ36.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/2808",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,40 @@
+{
+ "id": "pl-119-33",
+ "congress": 119,
+ "public_law": "119-33",
+ "bill": "S 423",
+ "title": "PRO Veterans Act of 2025",
+ "enacted": "2025-08-14",
+ "president": {
+  "id": "trump-2",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Sen. Sullivan, Dan [R-AK]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119s423enr/uslm/BILLS-119s423enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119s423enr/xml/BILLS-119s423enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119s423es/xml/BILLS-119s423es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119s423is/xml/BILLS-119s423is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ33/uslm/PLAW-119publ33.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/423",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,43 @@
+{
+ "id": "pl-119-106",
+ "congress": 119,
+ "public_law": "119-106",
+ "bill": "HR 2069",
+ "title": "Stop Secret Spending Act of 2025",
+ "enacted": "2026-09-11",
+ "president": {
+  "id": "trump-2",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Rep. Moore, Barry [R-AL-1]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2069enr/uslm/BILLS-119hr2069enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2069enr/xml/BILLS-119hr2069enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2069rds/xml/BILLS-119hr2069rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2069eh/xml/BILLS-119hr2069eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2069ih/xml/BILLS-119hr2069ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ106/uslm/PLAW-119publ106.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/2069",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

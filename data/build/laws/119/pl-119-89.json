@@ -1,0 +1,43 @@
+{
+ "id": "pl-119-89",
+ "congress": 119,
+ "public_law": "119-89",
+ "bill": "S 98",
+ "title": "Rural Broadband Protection Act of 2025",
+ "enacted": "2026-05-11",
+ "president": {
+  "id": "trump-2",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Science, Technology, Communications",
+ "sponsor": "Sen. Capito, Shelley Moore [R-WV]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119s98enr/uslm/BILLS-119s98enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119s98enr/xml/BILLS-119s98enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119s98es/xml/BILLS-119s98es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119s98rs/xml/BILLS-119s98rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119s98is/xml/BILLS-119s98is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ89/uslm/PLAW-119publ89.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/98",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

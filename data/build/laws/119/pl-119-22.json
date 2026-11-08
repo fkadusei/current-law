@@ -1,0 +1,43 @@
+{
+ "id": "pl-119-22",
+ "congress": 119,
+ "public_law": "119-22",
+ "bill": "HR 42",
+ "title": "Alaska Native Settlement Trust Eligibility Act",
+ "enacted": "2025-07-07",
+ "president": {
+  "id": "trump-2",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Native Americans",
+ "sponsor": "Rep. Begich, Nicholas [R-AK-At Large]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr42enr/uslm/BILLS-119hr42enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr42enr/xml/BILLS-119hr42enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr42rds/xml/BILLS-119hr42rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr42eh/xml/BILLS-119hr42eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr42ih/xml/BILLS-119hr42ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ22/uslm/PLAW-119publ22.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/42",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

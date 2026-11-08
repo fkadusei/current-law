@@ -1,0 +1,40 @@
+{
+ "id": "pl-119-95",
+ "congress": 119,
+ "public_law": "119-95",
+ "bill": "S 4530",
+ "title": "A bill to amend chapters 83 and 84 of title 5, United States Code, to authorize an increase of the retirement age for members of the Capitol Police.",
+ "enacted": "2026-05-29",
+ "president": {
+  "id": "trump-2",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Sen. McConnell, Mitch [R-KY]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119s4530enr/uslm/BILLS-119s4530enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119s4530enr/xml/BILLS-119s4530enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119s4530cps/xml/BILLS-119s4530cps.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119s4530es/xml/BILLS-119s4530es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ95/uslm/PLAW-119publ95.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/4530",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

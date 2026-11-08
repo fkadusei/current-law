@@ -1,0 +1,46 @@
+{
+ "id": "pl-119-123",
+ "congress": 119,
+ "public_law": "119-123",
+ "bill": "S 283",
+ "title": "Illegal Red Snapper and Tuna Enforcement Act",
+ "enacted": "2026-10-15",
+ "president": {
+  "id": "trump-2",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Public Lands and Natural Resources",
+ "sponsor": "Sen. Cruz, Ted [R-TX]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119s283enr/uslm/BILLS-119s283enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119s283enr/xml/BILLS-119s283enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119s283eah/xml/BILLS-119s283eah.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119s283es/xml/BILLS-119s283es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119s283rs/xml/BILLS-119s283rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119s283is/xml/BILLS-119s283is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ123/uslm/PLAW-119publ123.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/283",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

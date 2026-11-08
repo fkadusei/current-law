@@ -1,0 +1,46 @@
+{
+ "id": "pl-119-133",
+ "congress": 119,
+ "public_law": "119-133",
+ "bill": "HR 6380",
+ "title": "Chiricahua National Park Act",
+ "enacted": "2026-10-20",
+ "president": {
+  "id": "trump-2",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Public Lands and Natural Resources",
+ "sponsor": "Rep. Ciscomani, Juan [R-AZ-6]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr6380enr/uslm/BILLS-119hr6380enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr6380enr/xml/BILLS-119hr6380enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr6380rfs/xml/BILLS-119hr6380rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr6380eh/xml/BILLS-119hr6380eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr6380rh/xml/BILLS-119hr6380rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr6380ih/xml/BILLS-119hr6380ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ133/uslm/PLAW-119publ133.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/6380",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,43 @@
+{
+ "id": "pl-119-42",
+ "congress": 119,
+ "public_law": "119-42",
+ "bill": "S 2392",
+ "title": "Veterans’ Compensation Cost-of-Living Adjustment Act of 2025",
+ "enacted": "2025-11-25",
+ "president": {
+  "id": "trump-2",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Sen. Moran, Jerry [R-KS]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119s2392enr/uslm/BILLS-119s2392enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119s2392enr/xml/BILLS-119s2392enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119s2392es/xml/BILLS-119s2392es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119s2392rs/xml/BILLS-119s2392rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119s2392is/xml/BILLS-119s2392is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ42/uslm/PLAW-119publ42.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/2392",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

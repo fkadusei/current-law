@@ -1,0 +1,43 @@
+{
+ "id": "pl-119-120",
+ "congress": 119,
+ "public_law": "119-120",
+ "bill": "S 766",
+ "title": "Billion Dollar Boondoggle Act of 2025",
+ "enacted": "2026-10-07",
+ "president": {
+  "id": "trump-2",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Government Operations and Politics",
+ "sponsor": "Sen. Ernst, Joni [R-IA]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119s766enr/uslm/BILLS-119s766enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119s766enr/xml/BILLS-119s766enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119s766es/xml/BILLS-119s766es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119s766rs/xml/BILLS-119s766rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119s766is/xml/BILLS-119s766is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ120/uslm/PLAW-119publ120.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/766",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

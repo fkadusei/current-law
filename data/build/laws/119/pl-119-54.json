@@ -1,0 +1,43 @@
+{
+ "id": "pl-119-54",
+ "congress": 119,
+ "public_law": "119-54",
+ "bill": "HR 970",
+ "title": "Fairness for Servicemembers and their Families Act of 2025",
+ "enacted": "2025-12-12",
+ "president": {
+  "id": "trump-2",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Rep. Strickland, Marilyn [D-WA-10]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr970enr/uslm/BILLS-119hr970enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr970enr/xml/BILLS-119hr970enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr970rfs/xml/BILLS-119hr970rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr970eh/xml/BILLS-119hr970eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr970ih/xml/BILLS-119hr970ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ54/uslm/PLAW-119publ54.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/970",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

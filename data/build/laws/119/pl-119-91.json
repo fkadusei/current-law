@@ -1,0 +1,46 @@
+{
+ "id": "pl-119-91",
+ "congress": 119,
+ "public_law": "119-91",
+ "bill": "HR 972",
+ "title": "Sloan Canyon Conservation and Lateral Pipeline Act",
+ "enacted": "2026-05-19",
+ "president": {
+  "id": "trump-2",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Public Lands and Natural Resources",
+ "sponsor": "Rep. Titus, Dina [D-NV-1]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr972enr/uslm/BILLS-119hr972enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr972enr/xml/BILLS-119hr972enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr972rfs/xml/BILLS-119hr972rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr972eh/xml/BILLS-119hr972eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr972rh/xml/BILLS-119hr972rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr972ih/xml/BILLS-119hr972ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ91/uslm/PLAW-119publ91.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/972",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,43 @@
+{
+ "id": "pl-119-45",
+ "congress": 119,
+ "public_law": "119-45",
+ "bill": "HR 1512",
+ "title": "Taiwan Assurance Implementation Act",
+ "enacted": "2025-12-02",
+ "president": {
+  "id": "trump-2",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "International Affairs",
+ "sponsor": "Rep. Wagner, Ann [R-MO-2]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1512enr/uslm/BILLS-119hr1512enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1512enr/xml/BILLS-119hr1512enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1512rfs/xml/BILLS-119hr1512rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1512eh/xml/BILLS-119hr1512eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1512ih/xml/BILLS-119hr1512ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ45/uslm/PLAW-119publ45.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/1512",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,43 @@
+{
+ "id": "pl-119-65",
+ "congress": 119,
+ "public_law": "119-65",
+ "bill": "S 216",
+ "title": "Save Our Seas 2.0 Amendments Act",
+ "enacted": "2025-12-26",
+ "president": {
+  "id": "trump-2",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Public Lands and Natural Resources",
+ "sponsor": "Sen. Sullivan, Dan [R-AK]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119s216enr/uslm/BILLS-119s216enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119s216enr/xml/BILLS-119s216enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119s216es/xml/BILLS-119s216es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119s216rs/xml/BILLS-119s216rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119s216is/xml/BILLS-119s216is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ65/uslm/PLAW-119publ65.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/216",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,43 @@
+{
+ "id": "pl-119-81",
+ "congress": 119,
+ "public_law": "119-81",
+ "bill": "HR 7211",
+ "title": "To authorize the President to award the Medal of Honor to John W. Ripley for acts of valor during the Vietnam War, and for other purposes.",
+ "enacted": "2026-03-26",
+ "president": {
+  "id": "trump-2",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Rep. Griffith, H. Morgan [R-VA-9]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr7211enr/uslm/BILLS-119hr7211enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr7211enr/xml/BILLS-119hr7211enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr7211rfs/xml/BILLS-119hr7211rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr7211eh/xml/BILLS-119hr7211eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr7211ih/xml/BILLS-119hr7211ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ81/uslm/PLAW-119publ81.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/7211",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

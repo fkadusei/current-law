@@ -1,0 +1,46 @@
+{
+ "id": "pl-119-24",
+ "congress": 119,
+ "public_law": "119-24",
+ "bill": "HR 618",
+ "title": "Apex Area Technical Corrections Act",
+ "enacted": "2025-07-15",
+ "president": {
+  "id": "trump-2",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Public Lands and Natural Resources",
+ "sponsor": "Rep. Horsford, Steven [D-NV-4]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr618enr/uslm/BILLS-119hr618enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr618enr/xml/BILLS-119hr618enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr618rds/xml/BILLS-119hr618rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr618eh/xml/BILLS-119hr618eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr618rh/xml/BILLS-119hr618rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr618ih/xml/BILLS-119hr618ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ24/uslm/PLAW-119publ24.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/618",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

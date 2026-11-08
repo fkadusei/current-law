@@ -1,0 +1,40 @@
+{
+ "id": "pl-119-80",
+ "congress": 119,
+ "public_law": "119-80",
+ "bill": "S 4138",
+ "title": "A bill to waive the 60-day notice requirement for the posthumous honorary promotion of Captain Cody Khork, United States Army.",
+ "enacted": "2026-03-20",
+ "president": {
+  "id": "trump-2",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Sen. Wicker, Roger F. [R-MS]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119s4138enr/uslm/BILLS-119s4138enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119s4138enr/xml/BILLS-119s4138enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119s4138cps/xml/BILLS-119s4138cps.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119s4138es/xml/BILLS-119s4138es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ80/uslm/PLAW-119publ80.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/4138",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,46 @@
+{
+ "id": "pl-119-39",
+ "congress": 119,
+ "public_law": "119-39",
+ "bill": "HR 998",
+ "title": "Internal Revenue Service Math and Taxpayer Help Act",
+ "enacted": "2025-11-25",
+ "president": {
+  "id": "trump-2",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Taxation",
+ "sponsor": "Rep. Feenstra, Randy [R-IA-4]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr998enr/uslm/BILLS-119hr998enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr998enr/xml/BILLS-119hr998enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr998rfs/xml/BILLS-119hr998rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr998eh/xml/BILLS-119hr998eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr998rh/xml/BILLS-119hr998rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr998ih/xml/BILLS-119hr998ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ39/uslm/PLAW-119publ39.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/998",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

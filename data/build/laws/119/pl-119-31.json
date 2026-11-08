@@ -1,0 +1,46 @@
+{
+ "id": "pl-119-31",
+ "congress": 119,
+ "public_law": "119-31",
+ "bill": "HR 1815",
+ "title": "VA Home Loan Program Reform Act",
+ "enacted": "2025-07-30",
+ "president": {
+  "id": "trump-2",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Armed Forces and National Security",
+ "sponsor": "Rep. Van Orden, Derrick [R-WI-3]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1815enr/uslm/BILLS-119hr1815enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1815enr/xml/BILLS-119hr1815enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1815rfs/xml/BILLS-119hr1815rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1815rh/xml/BILLS-119hr1815rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1815eh/xml/BILLS-119hr1815eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1815ih/xml/BILLS-119hr1815ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ31/uslm/PLAW-119publ31.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/1815",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

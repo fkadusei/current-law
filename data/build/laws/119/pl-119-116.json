@@ -1,0 +1,43 @@
+{
+ "id": "pl-119-116",
+ "congress": 119,
+ "public_law": "119-116",
+ "bill": "S 759",
+ "title": "Modernizing Access to Our Public Oceans Act",
+ "enacted": "2026-09-25",
+ "president": {
+  "id": "trump-2",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Transportation and Public Works",
+ "sponsor": "Sen. Cruz, Ted [R-TX]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119s759enr/uslm/BILLS-119s759enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119s759enr/xml/BILLS-119s759enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119s759es/xml/BILLS-119s759es.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119s759rs/xml/BILLS-119s759rs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119s759is/xml/BILLS-119s759is.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ116/uslm/PLAW-119publ116.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/759",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

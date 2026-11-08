@@ -1,0 +1,43 @@
+{
+ "id": "pl-119-131",
+ "congress": 119,
+ "public_law": "119-131",
+ "bill": "HR 4307",
+ "title": "Enhancing Detection of Human Trafficking Act",
+ "enacted": "2026-10-20",
+ "president": {
+  "id": "trump-2",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Crime and Law Enforcement",
+ "sponsor": "Rep. Walberg, Tim [R-MI-5]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr4307enr/uslm/BILLS-119hr4307enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr4307enr/xml/BILLS-119hr4307enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr4307rds/xml/BILLS-119hr4307rds.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr4307eh/xml/BILLS-119hr4307eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr4307rh/xml/BILLS-119hr4307rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr4307ih/xml/BILLS-119hr4307ih.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/4307",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}

@@ -1,0 +1,46 @@
+{
+ "id": "pl-119-94",
+ "congress": 119,
+ "public_law": "119-94",
+ "bill": "HR 3497",
+ "title": "Medal of Sacrifice Act",
+ "enacted": "2026-05-28",
+ "president": {
+  "id": "trump-2",
+  "name": "Donald Trump",
+  "party": "Republican"
+ },
+ "became_law": "signed",
+ "policy_area": "Crime and Law Enforcement",
+ "sponsor": "Rep. Mast, Brian J. [R-FL-21]",
+ "official_summary": null,
+ "text_links": [
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr3497enr/uslm/BILLS-119hr3497enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr3497enr/xml/BILLS-119hr3497enr.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr3497rfs/xml/BILLS-119hr3497rfs.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr3497eh/xml/BILLS-119hr3497eh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr3497rh/xml/BILLS-119hr3497rh.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr3497ih/xml/BILLS-119hr3497ih.xml"
+  },
+  {
+   "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ94/uslm/PLAW-119publ94.xml"
+  }
+ ],
+ "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/3497",
+ "votes": [],
+ "recorded_vote": false,
+ "party_color": null,
+ "control": {},
+ "summary": null
+}
