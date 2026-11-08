@@ -1,0 +1,24 @@
+{
+ "headline": "New law requires the Commerce Department to study whether high-demand imported products used by critical infrastructure could be made in the United States.",
+ "what_it_does": "The law directs the Department of Commerce to study products in high demand across critical infrastructure sectors. These are areas vital to national security, the economy, or public health and safety. The study must identify which of these products are imported because of manufacturing, material, or supply chain limits. It must also look at the costs, benefits, and feasibility of making them in the United States, and Commerce must report its findings.",
+ "who_it_affects": [
+  {
+   "group": "Department of Commerce",
+   "how": "The department must carry out the study and report its findings."
+  },
+  {
+   "group": "Businesses and operators in critical infrastructure sectors",
+   "how": "The products they rely on will be identified and reviewed, though the law does not change any rules for them."
+  },
+  {
+   "group": "US manufacturers",
+   "how": "The study will examine whether certain imported products could be made by US factories, but it does not create funding or requirements."
+  }
+ ],
+ "when_it_takes_effect": "Enacted October 20, 2026; the summary does not state a deadline for the study or report.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

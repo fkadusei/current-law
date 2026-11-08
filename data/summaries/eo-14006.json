@@ -1,0 +1,24 @@
+{
+ "headline": "Executive order aims to end the federal government's use of privately run criminal detention facilities.",
+ "what_it_does": "Based on its title, this order directs the federal government to stop using criminal detention facilities run by private companies. It presents this as part of changing how the federal incarceration system works. No summary was provided, so the specific steps, agencies, and timelines are not described here.",
+ "who_it_affects": [
+  {
+   "group": "People held in federal criminal custody",
+   "how": "People held in privately run facilities may be moved to government-run facilities or other arrangements."
+  },
+  {
+   "group": "Private prison and detention companies",
+   "how": "Companies that run criminal detention facilities for the federal government may lose that federal business."
+  },
+  {
+   "group": "Workers at privately run detention facilities",
+   "how": "Jobs at these facilities could be affected if federal use of the facilities ends."
+  }
+ ],
+ "when_it_takes_effect": "Signed January 26, 2021; the title does not say when the change must be completed.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

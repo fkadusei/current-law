@@ -39,5 +39,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Law puts the Fish and Wildlife Service's Coastal Program into federal law and requires yearly public reports on it.",
+  "what_it_does": "This law gives formal legal authority to the Coastal Program run by the U.S. Fish and Wildlife Service. Through this voluntary program, the agency works with partners to give technical help and money for projects that restore or protect habitat in priority coastal areas. The agency must send Congress a report on the program each year and post it on its website for the public.",
+  "who_it_affects": [
+   {
+    "group": "Partners in coastal habitat projects, such as landowners, organizations, and local governments",
+    "how": "They can continue to voluntarily work with the Fish and Wildlife Service to get technical and financial help for coastal habitat restoration and protection projects."
+   },
+   {
+    "group": "U.S. Fish and Wildlife Service",
+    "how": "The agency now runs the Coastal Program under a specific law and must report on it every year to Congress and the public."
+   },
+   {
+    "group": "Members of the public",
+    "how": "They will be able to read yearly reports about the Coastal Program on the agency's website."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on December 11, 2024; the summary does not give a separate start date.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

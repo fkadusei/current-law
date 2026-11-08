@@ -1,0 +1,24 @@
+{
+ "headline": "Executive order directs the release of government records about the assassinations of John F. Kennedy, Robert F. Kennedy, and Martin Luther King Jr.",
+ "what_it_does": "Based on its title, this order calls for declassifying federal government records about the killings of President John F. Kennedy, Senator Robert F. Kennedy, and the Reverend Dr. Martin Luther King Jr. Declassifying means removing secrecy labels so records can be made public. No summary was provided, so details such as which agencies must act and by when are not described here.",
+ "who_it_affects": [
+  {
+   "group": "Federal agencies that hold these records, such as intelligence and law enforcement agencies",
+   "how": "They would likely need to review and release records that had been kept secret."
+  },
+  {
+   "group": "Historians, researchers, journalists, and members of the public",
+   "how": "They may gain access to records about these assassinations that were not available before."
+  },
+  {
+   "group": "Families of the three men",
+   "how": "Records about the deaths of their relatives may become public."
+  }
+ ],
+ "when_it_takes_effect": "Signed January 23, 2025; any deadlines for releasing records are not stated in the available information.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

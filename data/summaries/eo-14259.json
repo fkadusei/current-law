@@ -1,0 +1,24 @@
+{
+ "headline": "Executive order changes the reciprocal tariffs on goods from China and updates duties on low-value imports from China.",
+ "what_it_does": "This order amends an earlier order that set reciprocal tariffs on imported goods. It changes the tariffs that apply to goods from the People's Republic of China. It also updates the duties charged on low-value shipments from China, such as small packages that people often order online. No summary was provided, so the exact new rates and details are not described here.",
+ "who_it_affects": [
+  {
+   "group": "US businesses that import goods from China",
+   "how": "They may owe different tariff amounts on products they bring in from China."
+  },
+  {
+   "group": "People who buy low-cost items shipped directly from China",
+   "how": "Small packages from China may face different duties, which could change what buyers pay."
+  },
+  {
+   "group": "Online sellers and shipping companies handling small packages from China",
+   "how": "They may need to collect or pay different duties on low-value shipments."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

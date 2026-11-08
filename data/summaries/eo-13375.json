@@ -1,0 +1,24 @@
+{
+ "headline": "2005 order updates the federal list of diseases that can trigger quarantine, adding certain types of influenza.",
+ "what_it_does": "This order changes an earlier order, Executive Order 13295, which lists the diseases for which the federal government may quarantine or isolate people. Based on its title, it adds certain influenza viruses to that list. This most likely covers new flu strains that could cause a pandemic. No summary was provided, so the exact wording of the change is not shown here.",
+ "who_it_affects": [
+  {
+   "group": "People infected with or exposed to the covered flu viruses",
+   "how": "They could be subject to federal quarantine or isolation rules."
+  },
+  {
+   "group": "Federal public health agencies",
+   "how": "They would gain authority to use quarantine powers for the added flu viruses."
+  },
+  {
+   "group": "Travelers entering the US or crossing state lines",
+   "how": "They could face federal health screening or quarantine if linked to the covered flu viruses."
+  }
+ ],
+ "when_it_takes_effect": "Likely upon signing on April 1, 2005",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

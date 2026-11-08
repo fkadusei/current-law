@@ -1,0 +1,16 @@
+{
+ "headline": "Executive order ends COVID-19 vaccination requirements for federal workers.",
+ "what_it_does": "Based on its title, this order moves the federal government away from requiring federal workers to be vaccinated against COVID-19. No summary was provided, so details such as which earlier rules it cancels and whether other groups are covered are not described here.",
+ "who_it_affects": [
+  {
+   "group": "Federal government employees",
+   "how": "They would no longer be required to get a COVID-19 vaccine as a condition of their federal job."
+  }
+ ],
+ "when_it_takes_effect": "Signed May 9, 2023; the exact effective date is not stated in the title.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

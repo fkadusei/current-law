@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Energy",
  "sponsor": "Sen. Daines, Steve [R-MT]",
- "official_summary": null,
+ "official_summary": "<p>This act authorizes the Federal Energy Regulatory Commission (FERC) to extend construction deadlines for hydropower projects that were issued a license before March 13, 2020. FERC is authorized, upon the request of the licensees, to extend the deadline for beginning construction on such projects&nbsp;an additional six years beyond the eight-year extension FERC is authorized to provide under current law. The extension must&nbsp;consist of no more than three consecutive two-year periods.</p><p>The act also provides that&nbsp;FERC may reinstate certain expired licenses for projects with construction deadlines extended under this act, effective as of the date they expire.</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-119s1020enr/uslm/BILLS-119s1020enr.xml"
@@ -3515,5 +3515,24 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "Law lets federal energy regulators give certain hydropower projects up to six more years to start construction.",
+  "what_it_does": "The law allows the Federal Energy Regulatory Commission (FERC) to extend the deadline to begin building hydropower projects licensed before March 13, 2020. If a license holder asks, FERC can add up to six more years on top of the eight-year extension already allowed under current law. The extra time must be given in no more than three back-to-back two-year periods. FERC may also bring back certain expired licenses for these projects, effective as of the date they expired.",
+  "who_it_affects": [
+   {
+    "group": "Companies and groups holding older hydropower licenses",
+    "how": "Those licensed before March 13, 2020 can ask FERC for up to six extra years to begin construction, and some with expired licenses may have them reinstated."
+   },
+   {
+    "group": "Federal Energy Regulatory Commission",
+    "how": "The agency gains authority to grant these added extensions and to reinstate certain expired licenses."
+   }
+  ],
+  "when_it_takes_effect": "Enacted May 11, 2026; the summary does not give a separate start date.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

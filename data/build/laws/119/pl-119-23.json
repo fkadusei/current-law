@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Native Americans",
  "sponsor": "Rep. Begich, Nicholas [R-AK-At Large]",
- "official_summary": null,
+ "official_summary": "<p><strong>Alaska Native Village Municipal Lands Restoration Act of 2025</strong></p><p>This act removes the requirement that Alaska Native village corporations must convey lands to Alaska to be held in trust for future municipal governments.&nbsp;</p><p>The Alaska Native Claims Settlement Act (ANCSA) requires all Alaska Native village corporations that receive land under the ANCSA to convey certain lands to the existing municipality in the village or, if no municipality exists, to Alaska in trust for any municipality that may be established in the future. This act removes the requirement for conveyance. Additionally, the act allows village corporations to regain title to the lands held in trust by dissolving the trust through formal resolution by the village corporation and the residents of the Native village.</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr43enr/uslm/BILLS-119hr43enr.xml"
@@ -3539,5 +3539,28 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "Alaska Native village corporations no longer must give land to the state to hold for future town governments, and can reclaim such land.",
+  "what_it_does": "Under the Alaska Native Claims Settlement Act, village corporations that received land had to give some of it to the local town government, or to the State of Alaska to hold in trust if no town government existed yet. This law ends the requirement to give land to the state in trust for a future town government. It also lets village corporations get back land the state already holds in trust, if both the village corporation and the village's residents formally vote to end the trust.",
+  "who_it_affects": [
+   {
+    "group": "Alaska Native village corporations",
+    "how": "They no longer have to transfer land to the state for future town governments and can regain title to land already held in trust."
+   },
+   {
+    "group": "Residents of Alaska Native villages without a town government",
+    "how": "They must take part in a formal resolution, together with the village corporation, for trust land to be returned to the corporation."
+   },
+   {
+    "group": "State of Alaska",
+    "how": "It will no longer receive this land in trust and may lose land it currently holds in trust if villages dissolve those trusts."
+   }
+  ],
+  "when_it_takes_effect": "Enacted July 7, 2025; the summary does not give a separate start date.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

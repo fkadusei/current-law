@@ -1,0 +1,28 @@
+{
+ "headline": "Law updates rules for the Federal Register so it can be published, including digitally, instead of required to be printed.",
+ "what_it_does": "The law changes rules for the Federal Register and the Code of Federal Regulations, the official records of federal rules and notices. It replaces requirements that they be printed with requirements that they be published. Agencies no longer must send duplicate originals or certified copies of documents they submit, and someone the President picks can approve certain publishing rules. If the Government Publishing Office cannot publish during an emergency, the Office of the Federal Register may use another method until it resumes.",
+ "who_it_affects": [
+  {
+   "group": "Federal agencies",
+   "how": "They no longer have to send duplicate originals or certified copies of documents submitted for publication in the Federal Register."
+  },
+  {
+   "group": "Office of the Federal Register",
+   "how": "It may set up a backup way to publish the Federal Register if the Government Publishing Office cannot do so during an emergency."
+  },
+  {
+   "group": "Government Publishing Office",
+   "how": "Its duties shift from printing the Federal Register and Code of Federal Regulations to publishing them."
+  },
+  {
+   "group": "People and businesses who follow federal rules",
+   "how": "The official records of federal rules they rely on may be published in formats other than print."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on January 4, 2025; the summary does not give a separate start date.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

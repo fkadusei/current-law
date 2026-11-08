@@ -1,0 +1,20 @@
+{
+ "headline": "Executive order freezes property in the United States that belongs to the Government of Venezuela.",
+ "what_it_does": "Based on its title, this order 'blocks' property of the Government of Venezuela. Blocking usually means that the government's money and other property under US control are frozen and cannot be moved, sold, or used. It also usually means people and companies in the US are generally not allowed to do business with the blocked party. No summary was provided, so the exact rules and any exceptions are not described here.",
+ "who_it_affects": [
+  {
+   "group": "The Government of Venezuela",
+   "how": "Its property and assets under US control would be frozen."
+  },
+  {
+   "group": "US banks, businesses, and individuals who deal with the Venezuelan government",
+   "how": "They would generally have to freeze any of its property they hold and stop most transactions with it."
+  }
+ ],
+ "when_it_takes_effect": "Signed 2019-08-05; the exact effective date is not stated in the provided material.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

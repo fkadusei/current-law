@@ -1,0 +1,20 @@
+{
+ "headline": "Executive order lets the US block dealings with, and bar entry to, foreign people who help others evade US sanctions on Iran and Syria.",
+ "what_it_does": "Based on its title, this order targets foreign people and companies found to have helped get around US sanctions on Iran and Syria. It bars certain transactions between them and people in the United States. It also suspends their ability to enter the United States.",
+ "who_it_affects": [
+  {
+   "group": "Foreign individuals and companies that help evade US sanctions on Iran or Syria",
+   "how": "They can be cut off from certain business dealings with the United States and barred from entering the country."
+  },
+  {
+   "group": "US businesses and individuals",
+   "how": "They would be prohibited from certain transactions with foreign people named as sanctions evaders."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

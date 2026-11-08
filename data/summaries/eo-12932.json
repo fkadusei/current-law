@@ -1,0 +1,20 @@
+{
+ "headline": "President Clinton ends the national emergency the United States had declared over Haiti.",
+ "what_it_does": "This order ends a national emergency involving Haiti that the United States had declared earlier. A national emergency gives the President special powers, such as limiting trade and freezing money or property. Ending the emergency generally means the rules that relied on it no longer apply. The title alone does not list which specific rules were lifted.",
+ "who_it_affects": [
+  {
+   "group": "US businesses and individuals who trade with or send money to Haiti",
+   "how": "Limits on dealings with Haiti that were based on the emergency would generally no longer apply."
+  },
+  {
+   "group": "People and groups in Haiti whose money or property in the US was frozen",
+   "how": "Freezes based on the emergency would generally be lifted."
+  }
+ ],
+ "when_it_takes_effect": "Signed October 14, 1994; the exact effective date is not given in the title.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

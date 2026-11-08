@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Public Lands and Natural Resources",
  "sponsor": "Sen. Lummis, Cynthia M. [R-WY]",
- "official_summary": null,
+ "official_summary": "<p>This bill renames the National Historic Trails Interpretive Center located in Casper, Wyoming, as the Barbara L. Cubin National Historic Trails Interpretive Center.</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-119s790enr/uslm/BILLS-119s790enr.xml"
@@ -36,5 +36,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Law renames the National Historic Trails Interpretive Center in Casper, Wyoming, after Barbara L. Cubin.",
+  "what_it_does": "This law renames the National Historic Trails Interpretive Center in Casper, Wyoming, as the Barbara L. Cubin National Historic Trails Interpretive Center.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "Upon enactment, September 25, 2026",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

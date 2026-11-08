@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Armed Forces and National Security",
  "sponsor": "Sen. Moran, Jerry [R-KS]",
- "official_summary": null,
+ "official_summary": "<p><strong>Fiscal Year 2025 Veterans Affairs Major Medical Facility Authorization Act</strong></p><p>This act authorizes the Department of Veterans Affairs to carry out a major medical facility project in St. Louis, Missouri, during FY2026.</p><p>The act specifies the maximum amount that may be spent on the project and details that the project consists of the construction of a new bed tower, clinical building expansion, consolidated administrative building and warehouse, utility plant, and parking garages.</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-119s2393enr/uslm/BILLS-119s2393enr.xml"
@@ -3518,5 +3518,24 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "Law lets the VA build a major medical facility project in St. Louis, Missouri, during fiscal year 2026, with a spending cap.",
+  "what_it_does": "This law gives the Department of Veterans Affairs permission to carry out a major medical facility project in St. Louis, Missouri, during fiscal year 2026. The project includes a new bed tower, an expanded clinical building, a combined office building and warehouse, a utility plant, and parking garages. The law also sets the most money that can be spent on the project.",
+  "who_it_affects": [
+   {
+    "group": "Veterans who get health care from the VA in the St. Louis area",
+    "how": "The project is meant to add a new bed tower and expand clinical space at the VA medical facility serving them."
+   },
+   {
+    "group": "Department of Veterans Affairs",
+    "how": "The VA is authorized to carry out the construction project but must stay under the spending limit set in the law."
+   }
+  ],
+  "when_it_takes_effect": "Enacted June 9, 2026; the project is authorized for fiscal year 2026.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -4348,5 +4348,28 @@
   "House": "R",
   "Senate": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "Law renews the Federal Aviation Administration's legal authority and programs, signed in May 2024.",
+  "what_it_does": "This law reauthorizes the Federal Aviation Administration (FAA), the federal agency that oversees civil aviation in the United States. Reauthorization bills generally extend the agency's authority and set funding levels and rules for its programs. No official summary was available, so the specific details of this law are not described here.",
+  "who_it_affects": [
+   {
+    "group": "Airline passengers",
+    "how": "The FAA sets and enforces rules for the safety of commercial flights, so changes to its programs can affect people who fly."
+   },
+   {
+    "group": "Airports and airlines",
+    "how": "FAA programs cover airport grants, air traffic control, and safety oversight that these businesses rely on."
+   },
+   {
+    "group": "FAA employees, including air traffic controllers",
+    "how": "The law governs the agency they work for and its programs."
+   }
+  ],
+  "when_it_takes_effect": "Signed into law on May 16, 2024; dates for specific provisions are not stated in the available material.",
+  "ceremonial": false,
+  "confidence": "low",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

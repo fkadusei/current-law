@@ -1,0 +1,28 @@
+{
+ "headline": "Executive order ends the duty-free treatment of low-value imported packages from every country.",
+ "what_it_does": "Under a rule called \"de minimis,\" small, low-value packages shipped into the US have been allowed in without paying import taxes (duties). Based on its title, this order suspends that duty-free treatment for shipments from all countries, not just certain ones. Only the title was provided, so details such as dollar limits, exceptions, and how duties will be collected are not covered here.",
+ "who_it_affects": [
+  {
+   "group": "People in the US who buy low-cost items online from overseas sellers",
+   "how": "Packages that once came in duty-free may now have import duties that raise the total cost."
+  },
+  {
+   "group": "Overseas online retailers and marketplaces that ship small packages directly to US customers",
+   "how": "Their shipments to the US may now face duties and more customs steps."
+  },
+  {
+   "group": "US small businesses that import low-value goods or supplies",
+   "how": "Small shipments they bring in from abroad may now be subject to duties."
+  },
+  {
+   "group": "Shipping companies, couriers, and postal services handling international packages",
+   "how": "They may need to handle duty collection and customs processing for packages that used to enter duty-free."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

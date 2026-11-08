@@ -1,0 +1,24 @@
+{
+ "headline": "Executive order updates an earlier order to set out the duties of the National Background Investigations Bureau for federal background checks.",
+ "what_it_does": "This order changes Executive Order 13467, which covers background checks for people who work for or with the federal government. It sets out the roles and responsibilities of the National Background Investigations Bureau, the office that runs many of these checks. It also makes other related changes, but no summary was provided, so the details are not described here.",
+ "who_it_affects": [
+  {
+   "group": "Federal employees and job applicants",
+   "how": "Their background investigations are handled under the rules and agency roles this order sets out."
+  },
+  {
+   "group": "Government contractors who need security clearances",
+   "how": "The process used to check their backgrounds is shaped by the duties this order assigns."
+  },
+  {
+   "group": "Federal agencies that conduct or rely on background checks",
+   "how": "Their responsibilities for carrying out background investigations may change under the updated order."
+  }
+ ],
+ "when_it_takes_effect": "Signed September 29, 2016; the exact effective date is not stated in the title.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

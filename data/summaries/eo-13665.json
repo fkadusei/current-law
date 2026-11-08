@@ -1,0 +1,28 @@
+{
+ "headline": "Executive order bars federal contractors from punishing workers who discuss or share pay information.",
+ "what_it_does": "This order bars companies that hold federal contracts from firing or otherwise punishing workers or job applicants who ask about, talk about, or share pay information. It does this by adding to an older order, Executive Order 11246, which sets job discrimination rules for federal contractors. The Department of Labor was directed to write rules to put it into effect.",
+ "who_it_affects": [
+  {
+   "group": "Employees of federal contractors and subcontractors",
+   "how": "They are protected from retaliation if they ask about, discuss, or reveal their own pay or a coworker's pay."
+  },
+  {
+   "group": "Job applicants at federal contractors",
+   "how": "They are covered by the same protection against retaliation for asking about or discussing pay."
+  },
+  {
+   "group": "Companies that hold federal contracts",
+   "how": "They must follow the new rule against retaliating over pay discussions, or they risk penalties under federal contract rules."
+  },
+  {
+   "group": "Department of Labor",
+   "how": "It is responsible for writing and enforcing the rules that carry out the order."
+  }
+ ],
+ "when_it_takes_effect": "Signed April 8, 2014; applies to federal contracts entered into after the Department of Labor's implementing rules took effect.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

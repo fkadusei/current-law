@@ -1,0 +1,20 @@
+{
+ "headline": "Executive order lets the U.S. government freeze property tied to certain harmful foreign activities of Russia's government.",
+ "what_it_does": "This order, signed April 15, 2021, allows the U.S. government to block property connected to specified harmful foreign activities of the Russian government. Blocking property usually means freezing assets that are in the United States or controlled by Americans, and barring Americans from doing business with the people or groups named. The title alone does not say exactly which activities, people, or groups are covered.",
+ "who_it_affects": [
+  {
+   "group": "People and organizations linked to the Russian government's specified harmful activities",
+   "how": "Their property and assets under U.S. control can be frozen if they are named under this order."
+  },
+  {
+   "group": "U.S. banks, businesses, and individuals",
+   "how": "They may be barred from dealing with people or groups whose property is blocked and may need to freeze assets they hold for them."
+  }
+ ],
+ "when_it_takes_effect": "Signed April 15, 2021; the exact effective date is not stated in the provided material.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

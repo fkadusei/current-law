@@ -39,5 +39,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "New law lets certain disabled veterans get TSA PreCheck for free if they pass the program's background and security checks.",
+  "what_it_does": "The law waives the TSA PreCheck enrollment fee for some veterans with service-connected disabilities who need a wheelchair, prosthetic limb, or other mobility device because of loss of a limb, paralysis, or permanent blindness. These veterans must be enrolled in the VA health care system and still pass PreCheck's background and security checks. TSA cannot raise PreCheck fees for other travelers to pay for this. The VA and TSA must also set up the sign-up process, tell disabled veterans about TSA screening programs for people with disabilities, and study other ways to improve airport screening for them.",
+  "who_it_affects": [
+   {
+    "group": "Veterans with service-connected disabilities who use mobility devices due to limb loss, paralysis, or blindness",
+    "how": "They can enroll in TSA PreCheck without paying the fee if they are in the VA patient enrollment system and pass security checks."
+   },
+   {
+    "group": "Other travelers who pay for TSA PreCheck",
+    "how": "TSA is not allowed to raise their enrollment fees to cover the cost of the free enrollments."
+   },
+   {
+    "group": "Department of Veterans Affairs and Transportation Security Administration",
+    "how": "They must create a process for eligible veterans to get the benefit, reach out to disabled veterans about screening programs, and study veterans' awareness and other possible improvements."
+   }
+  ],
+  "when_it_takes_effect": "Enacted January 4, 2025; the summary does not give a specific start date for the fee waiver.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

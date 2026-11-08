@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Immigration",
  "sponsor": "Sen. Graham, Lindsey [R-SC]",
- "official_summary": null,
+ "official_summary": "<p><strong>Secure America Act</strong></p><p>This act provides $70 billion in&nbsp;funding to the Department of Homeland Security (DHS), U.S. Customs and Border Protection (CBP), and U.S. Immigration and Customs Enforcement (ICE) through FY2029 for immigration enforcement, border security, and related activities.</p><p>It is known as a reconciliation bill and includes legislation submitted by certain congressional committees pursuant to provisions in the FY2026 congressional budget resolution (<a href=\"https://www.congress.gov/bill/119th-congress/senate-concurrent-resolution/33\">S. Con. Res. 33</a>) that directed the committees to submit legislation to the House or Senate Budget Committee that will increase the deficit. (Reconciliation bills are considered by Congress using expedited legislative procedures that prevent a filibuster and restrict amendments in the Senate.)</p><p>TITLE I--COMMITTEE ON HOMELAND SECURITY AND GOVERNMENTAL AFFAIRS</p><p>(Sec. 101) This section provides funding for CBP to hire, pay, train, and equip Border Patrol agents and Border Patrol support personnel to conduct functions other than immigration enforcement and customs functions.</p><p>The funds provided by this section may not be used to recruit, hire, or train personnel for the duties of processing coordinators after October 31, 2028.</p><p>(Sec. 102) This section provides funding to ICE for (1) hiring, paying, training, and equipping Homeland Security Investigations (HIS) agents and support personnel; and (2) other necessary expenses for&nbsp;HSI’s mission support and operations and maintenance.</p><p>It also requires specified funds to be used to hire, pay, and equip&nbsp;additional child exploitation investigators and forensics analysts for&nbsp;certain HSI offices to (1) support the identification and rescue of victims of child sexual exploitation and abuse, and (2) train such personnel and state and local law enforcement regarding identifying victims of child sexual exploitation and abuse.</p><p>The funds provided by this section must be used for functions other than those related to HSI’s immigration enforcement and customs enforcement missions.</p><p>(Sec. 103) This section provides funding to CBP for border security, technology, and screening, including</p><ul><li>procurement and integration of new nonintrusive inspection equipment and associated civil works (e.g., artificial intelligence, machine learning, and other innovative technologies)&nbsp;and other mission support to combat the entry or exit of illicit narcotics at ports of entry and along the southwest, northern, and maritime borders;</li><li>upgrading and procurement of platforms for rapid air and marine response capabilities;</li><li>upgrading and procurement of border surveillance technologies along the southwest, northern, and maritime borders;</li><li>necessary expenses, including the deployment of technology, relating to the biometric entry and exit system under the Intelligence Reform and Terrorism Prevention Act of 2004;</li><li>enhancing border security by combating drug trafficking, including fentanyl and its precursor chemicals, at the southwest, northern, and maritime borders; and</li><li>necessary expenses for CBP's mission support and operations and maintenance for functions other than those related to its immigration enforcement and customs missions.</li></ul><p>None of the funds provided by this section may be used for the procurement or deployment of surveillance towers along the southwest border and the northern border that have not been tested and accepted by CBP to deliver autonomous capabilities.</p><p>Under this section the term <em>autonomous </em>means a system designed to apply artificial intelligence, machine learning, computer vision, or other algorithms to accurately detect, identify, classify, and track items of interest in real time such that the system can make operational adjustments without the active engagement of personnel or continuous human command or control.</p><p>(Sec. 104) This section provides additional funding to DHS for the purposes for which funding is provided in this title.</p><p>TITLE II--COMMITTEE ON THE JUDICIARY</p><p>(Sec. 201) This section provides funding to CBP for hiring, paying, training, and equipping CBP agents and the necessary support staff, and other necessary expenses for mission support and operations and maintenance, in order to carry out immigration enforcement activities.</p><p>(Sec. 202) This section provides funding to ICE for immigration enforcement and related activities, including</p><ul><li>hiring, paying, and training personnel;</li><li>transportation;</li><li>information technology;</li><li>facility and fleet maintenance and sustainment;</li><li>287(g) agreements (i.e., agreements that allow state and local law enforcement agencies to perform certain immigration enforcement functions);</li><li>the Office of the Principal Legal Advisor;</li><li>operation and maintenance; and</li><li>operations by ICE to arrest certain unlawful aliens.</li></ul><p>(Sec. 203) This section provides additional funding to DHS for (1) the purposes for which funding is provided in this title, (2) the assignment of certain&nbsp;DHS employees and state officers to carry out immigration enforcement activities, or (3) the participation of state and local agencies in certain homeland security efforts. &nbsp;</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-119s2enr/uslm/BILLS-119s2enr.xml"
@@ -4345,5 +4345,44 @@
   "House": "R",
   "Senate": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "Law provides $70 billion through 2029 to Homeland Security, Border Patrol, and ICE for border security and immigration enforcement.",
+  "what_it_does": "This law gives $70 billion to the Department of Homeland Security, Customs and Border Protection (CBP), and Immigration and Customs Enforcement (ICE), available through fiscal year 2029. The money pays for hiring and equipping agents, border surveillance technology, drug-detection equipment at ports of entry, and immigration arrests and related operations. It also sets aside funds for investigators who work to identify and rescue victims of child sexual exploitation. It was passed as a budget reconciliation bill, which cannot be filibustered in the Senate, and the budget plan behind it allowed it to add to the federal deficit.",
+  "who_it_affects": [
+   {
+    "group": "Border Patrol agents and CBP staff",
+    "how": "CBP gets money to hire, pay, train, and equip more agents and support staff, though funds for hiring processing coordinators cannot be used after October 31, 2028."
+   },
+   {
+    "group": "ICE employees and Homeland Security Investigations agents",
+    "how": "ICE gets money for more personnel, transportation, technology, facilities, and legal staff, plus added child exploitation investigators and forensic analysts."
+   },
+   {
+    "group": "Immigrants living in the U.S. without legal status",
+    "how": "ICE receives funding for operations to arrest certain people who are in the country unlawfully."
+   },
+   {
+    "group": "State and local police agencies",
+    "how": "Funding supports 287(g) agreements that let local officers do some immigration enforcement work, along with training on identifying child abuse victims."
+   },
+   {
+    "group": "Travelers and people crossing at U.S. borders and ports of entry",
+    "how": "The law pays for new inspection equipment, surveillance technology, and the biometric entry and exit tracking system."
+   },
+   {
+    "group": "Victims of child sexual exploitation",
+    "how": "Funds are directed to hiring investigators and analysts focused on identifying and rescuing victims."
+   },
+   {
+    "group": "Companies that make border surveillance technology",
+    "how": "Surveillance towers bought with this money must be tested and accepted by CBP as able to detect and track objects on their own using AI or similar tools."
+   }
+  ],
+  "when_it_takes_effect": "Enacted June 10, 2026; funding is available through fiscal year 2029.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

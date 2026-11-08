@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Public Lands and Natural Resources",
  "sponsor": "Rep. Begich, Nicholas J. [R-AK-At Large]",
- "official_summary": null,
+ "official_summary": "<p><strong>Southcentral Foundation Land Transfer Act of 2025</strong></p><p>This bill directs the Department of Health and Human Services (HHS) to convey approximately 3.4 acres in Anchorage, Alaska, to the Southcentral Foundation (SCF) for use in connection with health and social services programs.</p><p>The conveyance must be made by warranty deed. The conveyance may not (1) require any consideration (such as payment) from the SCF for the property; (2) impose any obligation, term, or condition on the SCF relating to that property; or (3) allow for any U.S. reversionary interest in the property.</p><p>HHS must be accorded any easement or access to the property as may be reasonably necessary to satisfy any retained obligation or liability of HHS.</p><p>The bill prohibits the SCF from being liable for certain environmental contamination that occurred on or before the date on which the property is conveyed to the SCF. In turn, HHS may not be liable for any contamination that occurred after the date that the SCF controlled, occupied, and used the property.&nbsp;</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr3620enr/uslm/BILLS-119hr3620enr.xml"
@@ -45,5 +45,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Law requires HHS to give about 3.4 acres of federal land in Anchorage, Alaska, to the Southcentral Foundation for health and social services use.",
+  "what_it_does": "The Department of Health and Human Services must transfer about 3.4 acres in Anchorage to the Southcentral Foundation for free, with no conditions attached and no right for the government to take the land back. The foundation will use the land for health and social services programs. HHS keeps any access to the land it reasonably needs to meet its remaining duties. The foundation is not responsible for certain pollution that happened before the transfer, and HHS is not responsible for pollution after the foundation took control of the land.",
+  "who_it_affects": [
+   {
+    "group": "Southcentral Foundation",
+    "how": "It receives full ownership of the land at no cost, without conditions on how it uses it, and is protected from liability for certain earlier environmental contamination."
+   },
+   {
+    "group": "Department of Health and Human Services",
+    "how": "It must give up the land but keeps needed access to handle any remaining obligations, and it is not liable for contamination after the foundation took control."
+   },
+   {
+    "group": "People in the Anchorage area who use Southcentral Foundation health and social services",
+    "how": "The land is meant for use in connection with the foundation's health and social services programs."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on October 20, 2026; the summary does not give a deadline for completing the transfer.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

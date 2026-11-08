@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Public Lands and Natural Resources",
  "sponsor": "Rep. Begich, Nicholas J. [R-AK-At Large]",
- "official_summary": null,
+ "official_summary": "<p>This joint resolution nullifies the rule submitted by the Bureau of Land Management (BLM) relating to the Record of Decision and Approved Resource Management Plan  (RMP) for Alaska’s Central Yukon planning area and issued on November 12, 2024.&nbsp;</p><p>By way of background, an RMP guides the management of lands administered by the BLM. This Central Yukon RMP modified the prior RMP for the area, including by designating 21 areas of critical environmental concern or research natural areas, encompassing approximately 3,611,000 acres.</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-119hjres106enr/uslm/BILLS-119hjres106enr.xml"
@@ -4354,5 +4354,24 @@
   "House": "R",
   "Senate": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "Congress cancels the Bureau of Land Management's November 2024 land management plan for Alaska's Central Yukon area.",
+  "what_it_does": "This law uses the Congressional Review Act to cancel a Bureau of Land Management (BLM) rule issued on November 12, 2024. That rule approved a new Resource Management Plan for the Central Yukon planning area in Alaska. A plan like this guides how BLM manages the public lands in an area. The cancelled plan had changed the earlier plan, including by setting aside 21 special protected or research areas covering about 3.6 million acres.",
+  "who_it_affects": [
+   {
+    "group": "Bureau of Land Management",
+    "how": "The agency can no longer use the 2024 Central Yukon plan to manage these Alaska public lands."
+   },
+   {
+    "group": "People and groups who use BLM lands in Alaska's Central Yukon area",
+    "how": "The roughly 3.6 million acres set aside in the 21 special areas under the 2024 plan lose that status under that plan."
+   }
+  ],
+  "when_it_takes_effect": "Enacted December 11, 2025; the 2024 rule is treated as having no effect.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

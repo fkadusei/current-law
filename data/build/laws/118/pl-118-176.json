@@ -39,5 +39,36 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "New law creates heart-condition education efforts and grants to put CPR training and defibrillators in public schools.",
+  "what_it_does": "The law requires the Department of Health and Human Services to share information about cardiomyopathy, a group of heart muscle conditions, and about using automated external defibrillators (AEDs) with school staff, families, and others. It also requires HHS to create tools to help assess a person's risk of cardiomyopathy. The CDC and the National Institutes of Health must report on their research and tracking of the condition. It also sets up a grant program to pay for CPR training and AEDs in public schools.",
+  "who_it_affects": [
+   {
+    "group": "Public schools",
+    "how": "Schools can apply for federal grants to provide CPR training and buy AEDs."
+   },
+   {
+    "group": "Teachers, coaches, and other school professionals",
+    "how": "They will receive federal information about cardiomyopathy and how to use AEDs, and some may get CPR training."
+   },
+   {
+    "group": "Students and their families",
+    "how": "Families will get information about cardiomyopathy, and students may attend schools better equipped to respond to heart emergencies."
+   },
+   {
+    "group": "People with or at risk of cardiomyopathy",
+    "how": "Federal agencies will develop risk assessment tools and report on research related to the condition."
+   },
+   {
+    "group": "Federal health agencies (HHS, CDC, NIH)",
+    "how": "They must share information, create risk tools, and submit reports on cardiomyopathy research and tracking."
+   }
+  ],
+  "when_it_takes_effect": "Enacted December 23, 2024; specific deadlines for programs and reports are not stated in the summary.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

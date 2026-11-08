@@ -1,0 +1,20 @@
+{
+ "headline": "Executive order closed federal executive departments and agencies on Monday, December 24, 2012, Christmas Eve.",
+ "what_it_does": "This order closed the executive departments and agencies of the federal government for one day, Monday, December 24, 2012. That day fell between a weekend and the Christmas holiday. The title does not give details on exceptions or how employees were treated, so those specifics are not covered here.",
+ "who_it_affects": [
+  {
+   "group": "Federal executive branch employees",
+   "how": "Their offices were closed on December 24, 2012, so most were not expected to report to work that day."
+  },
+  {
+   "group": "People who use federal agency offices",
+   "how": "Agency offices were closed to the public that day, so in-person services were generally unavailable."
+  }
+ ],
+ "when_it_takes_effect": "Monday, December 24, 2012",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

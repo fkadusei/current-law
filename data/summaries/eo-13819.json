@@ -1,0 +1,16 @@
+{
+ "headline": "Executive order adjusts certain federal pay rates, likely part of the yearly pay update for federal workers.",
+ "what_it_does": "This order changes the pay rates for certain groups of people paid by the federal government. Presidents usually sign an order like this each December to set pay for the coming year. The material provided does not list which pay rates change or by how much.",
+ "who_it_affects": [
+  {
+   "group": "Federal government employees",
+   "how": "Some of their pay rates are adjusted, though the specific amounts are not given in the material provided."
+  }
+ ],
+ "when_it_takes_effect": "Not stated in the material provided. Yearly pay orders like this usually apply starting in January of the following year (here, 2018).",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

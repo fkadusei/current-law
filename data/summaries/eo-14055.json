@@ -1,0 +1,24 @@
+{
+ "headline": "Executive order aimed at keeping qualified workers from losing their jobs when federal service contracts change hands.",
+ "what_it_does": "Based on its title, this order deals with workers on federal government service contracts, such as cleaning, food service, or security work. It aims to keep qualified workers from being pushed out, or 'displaced,' when a contract moves from one company to another. No official summary was provided, so the exact rules, exceptions, and enforcement details are not described here.",
+ "who_it_affects": [
+  {
+   "group": "Workers on federal service contracts",
+   "how": "Qualified workers may be protected from losing their jobs when a new company takes over the contract they work on."
+  },
+  {
+   "group": "Companies that hold or bid on federal service contracts",
+   "how": "Companies taking over a contract may face rules about keeping or hiring the previous company's qualified workers."
+  },
+  {
+   "group": "Federal agencies that award service contracts",
+   "how": "Agencies may need to follow new requirements when they award or replace service contracts."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

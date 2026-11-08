@@ -1,0 +1,20 @@
+{
+ "headline": "Executive order lets the U.S. freeze property of certain people found to be contributing to the situation in Burundi.",
+ "what_it_does": "Based on its title, this order blocks, or freezes, the property and assets under U.S. control of certain people tied to the situation in the African nation of Burundi. Blocked property generally cannot be sold, moved, or used. People in the U.S. are usually barred from doing business with those named. No summary was provided, so details on who qualifies and how they are chosen are not described here.",
+ "who_it_affects": [
+  {
+   "group": "People found to be contributing to the situation in Burundi",
+   "how": "Their property and assets under U.S. jurisdiction can be frozen."
+  },
+  {
+   "group": "U.S. banks, businesses, and individuals",
+   "how": "They would generally be barred from dealing in property of the people who are blocked."
+  }
+ ],
+ "when_it_takes_effect": "Signed November 22, 2015; the exact effective date is not stated in the provided material.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

@@ -1,0 +1,28 @@
+{
+ "headline": "Congress cancels the federal approval that let California enforce its Advanced Clean Cars II rules for new cars and trucks.",
+ "what_it_does": "Under the Clean Air Act, states generally cannot set their own vehicle pollution rules, but California can ask the Environmental Protection Agency (EPA) for a waiver. EPA had granted California a waiver for its Advanced Clean Cars II rules, which set new requirements for low-emission and zero-emission vehicles. This law uses the Congressional Review Act to cancel that EPA decision, so the waiver no longer has legal effect. Under that act, EPA also cannot issue a substantially similar waiver unless Congress later allows it.",
+ "who_it_affects": [
+  {
+   "group": "California state government and the California Air Resources Board",
+   "how": "The state loses the federal waiver it needed to enforce its Advanced Clean Cars II vehicle emission rules."
+  },
+  {
+   "group": "Car and light truck makers",
+   "how": "They are no longer required to meet California's Advanced Clean Cars II low-emission and zero-emission vehicle requirements under this waiver."
+  },
+  {
+   "group": "People who buy new cars in California",
+   "how": "The mix of new vehicles offered for sale will not be governed by the Advanced Clean Cars II requirements that the waiver had allowed."
+  },
+  {
+   "group": "Other states that follow California's vehicle standards",
+   "how": "States that chose to adopt California's Advanced Clean Cars II rules may no longer be able to enforce them, since those rules relied on California's waiver."
+  }
+ ],
+ "when_it_takes_effect": "June 12, 2025, when the resolution was signed into law.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

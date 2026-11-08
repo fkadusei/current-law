@@ -3513,5 +3513,36 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "Law lets federal community policing grants help police agencies recruit officers, including by cutting application fees and partnering with schools.",
+  "what_it_does": "The law expands the Justice Department's Community Oriented Policing Services (COPS) grant program so money can be used to lower fees people pay when applying to be officers, such as for background checks, psychological evaluations, and tests. It directs the Justice Department to give competitive grants to partnerships between police agencies and schools or colleges for recruiting activities like career fairs. It also requires guidance for understaffed agencies applying for COPS grants and a government study of how recruiting and officers leaving affect law enforcement agencies.",
+  "who_it_affects": [
+   {
+    "group": "State, local, and tribal law enforcement agencies",
+    "how": "They can use COPS grant money for recruiting, and understaffed agencies will get guidance on applying for these grants."
+   },
+   {
+    "group": "People applying to become police officers",
+    "how": "They may pay lower application-related fees, such as for background checks, psychological evaluations, and testing."
+   },
+   {
+    "group": "Elementary and secondary schools, colleges, and universities",
+    "how": "They can partner with law enforcement agencies to compete for grants for recruiting events like career and job fairs."
+   },
+   {
+    "group": "U.S. Department of Justice",
+    "how": "It must award the new partnership grants and create guidance for understaffed agencies applying for COPS grants."
+   },
+   {
+    "group": "Government Accountability Office",
+    "how": "It must study and report on how recruitment and attrition rates affect federal, state, tribal, and local law enforcement agencies."
+   }
+  ],
+  "when_it_takes_effect": "Enacted May 24, 2024; the summary does not give specific start dates for each provision.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

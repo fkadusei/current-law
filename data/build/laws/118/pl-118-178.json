@@ -3515,5 +3515,28 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "Law extends a federal grant program for children's emergency medical care through 2029.",
+  "what_it_does": "This law renews the Emergency Medical Services for Children State Partnership Program through fiscal year 2029. The program is run by the Health Resources and Services Administration, a federal health agency. It gives grants to state governments and medical schools to improve emergency care for children who need treatment for injuries or critical illness.",
+  "who_it_affects": [
+   {
+    "group": "State governments",
+    "how": "States can keep applying for federal grants to support emergency medical services for children."
+   },
+   {
+    "group": "Medical schools",
+    "how": "Medical schools remain eligible for grants to support emergency care for children."
+   },
+   {
+    "group": "Children who need emergency trauma or critical care, and their families",
+    "how": "The emergency services that serve these children can continue to receive support from this grant program."
+   }
+  ],
+  "when_it_takes_effect": "Enacted December 23, 2024; the program is authorized through fiscal year 2029.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

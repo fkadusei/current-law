@@ -1,0 +1,28 @@
+{
+ "headline": "New law has two federal agencies create a chemical test to identify which country seafood came from, starting with red snapper and tuna.",
+ "what_it_does": "NOAA and NIST must work together, with input from Customs and Border Protection and the Coast Guard, to develop a standard method that uses chemical analysis to tell what country seafood came from. The method must include a portable field kit and, where practical, work on prepared food such as sushi. The agencies must run pilot tests on red snapper and tuna. Within two years, NIST must report to Congress on the method, a plan to put it into use, and any parts that are not yet practical.",
+ "who_it_affects": [
+  {
+   "group": "Federal and state law enforcement agencies",
+   "how": "They would get a standard testing method and field kit to help enforce laws against illegal, unreported, and unregulated fishing and seafood fraud."
+  },
+  {
+   "group": "Seafood importers, sellers, and restaurants",
+   "how": "Their red snapper, tuna, and other seafood, including prepared dishes like sushi, could eventually be tested to check claims about where it came from."
+  },
+  {
+   "group": "U.S. fishing businesses",
+   "how": "The method is meant to help catch illegally caught or mislabeled seafood that competes with legally caught fish."
+  },
+  {
+   "group": "People who buy seafood",
+   "how": "The method is meant to help detect seafood that is labeled with the wrong country of origin."
+  }
+ ],
+ "when_it_takes_effect": "Enacted October 15, 2026; NIST's report to Congress is due within two years (by October 2028).",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

@@ -1,0 +1,24 @@
+{
+ "headline": "Clinton order declassifies selected government records held by the National Archives.",
+ "what_it_does": "This executive order makes certain classified records stored at the National Archives no longer secret. Once declassified, these records can be opened to the public. No summary was provided, so details such as which records are covered and how many are not described here.",
+ "who_it_affects": [
+  {
+   "group": "Historians, researchers, and journalists",
+   "how": "They may gain access to government records that were previously kept secret."
+  },
+  {
+   "group": "The National Archives",
+   "how": "It is responsible for handling the records named in the order so they can be released."
+  },
+  {
+   "group": "Federal agencies that created the records",
+   "how": "Records they originally classified are no longer treated as secret under this order."
+  }
+ ],
+ "when_it_takes_effect": "Signed November 10, 1994; specific effective dates are not stated in the available information.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

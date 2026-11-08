@@ -1,0 +1,24 @@
+{
+ "headline": "Law lets the owner of about 8.43 acres in Sacramento, California, buy out the federal government's right to take the land back.",
+ "what_it_does": "The federal government holds a \"reversionary interest\" in about 8.43 acres of land in Sacramento, meaning it could regain the land under certain conditions. This law requires the Bureau of Land Management to offer to sell that interest to the landowner within two years after the owner asks. The buyer must pay at least fair market value plus all costs, such as surveys and appraisals, and existing legal rights to the land stay in place. The money from the sale goes into the Federal Land Disposal Account.",
+ "who_it_affects": [
+  {
+   "group": "The owner of the 8.43 acres in Sacramento shown on the official map",
+   "how": "The owner can ask to buy the federal government's right to take back the land, as long as they pay at least fair market value and all related costs."
+  },
+  {
+   "group": "Bureau of Land Management",
+   "how": "The agency must offer the sale within two years of the owner's request and transfer the interest once payment is made."
+  },
+  {
+   "group": "People or groups with existing legal rights to the land",
+   "how": "Their valid existing rights are protected and stay in effect after the sale."
+  }
+ ],
+ "when_it_takes_effect": "Enacted October 22, 2026; the BLM must make the offer within two years after the landowner requests it.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

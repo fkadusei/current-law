@@ -55,7 +55,7 @@ def law_record(congress: int, pl_file: dict, refresh: bool) -> tuple[dict, dict]
     bill_el = ET.parse(bs_path).getroot().find("bill")
     bill = elem_to_dict(bill_el)
     summaries = [
-        {"text": s.findtext("cdata/text"), "actionDesc": s.findtext("actionDesc"),
+        {"text": s.findtext("text") or s.findtext("cdata/text"), "actionDesc": s.findtext("actionDesc"),
          "actionDate": s.findtext("actionDate"), "updateDate": s.findtext("updateDate")}
         for s in bill_el.findall("summaries/summary")
     ]

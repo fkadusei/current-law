@@ -1,0 +1,20 @@
+{
+ "headline": "Federal government offices close on Tuesday, December 24, 2019, the day before Christmas, giving most federal workers the day off.",
+ "what_it_does": "This order closes executive departments and agencies of the federal government on December 24, 2019, Christmas Eve. Most federal employees are excused from work that day. Some services may be limited or unavailable because offices are closed.",
+ "who_it_affects": [
+  {
+   "group": "Federal employees in executive departments and agencies",
+   "how": "Most get an extra day off from work on December 24, 2019."
+  },
+  {
+   "group": "People who use federal offices and services",
+   "how": "They may find government offices closed or services limited on December 24, 2019."
+  }
+ ],
+ "when_it_takes_effect": "December 24, 2019",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

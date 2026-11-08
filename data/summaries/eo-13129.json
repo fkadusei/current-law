@@ -1,0 +1,20 @@
+{
+ "headline": "Executive order freezes Taliban property and bans business dealings with the Taliban.",
+ "what_it_does": "This order blocks, or freezes, property belonging to the Taliban, the group then controlling much of Afghanistan. It also bans certain transactions with the Taliban. The title does not give the details of which property or transactions are covered.",
+ "who_it_affects": [
+  {
+   "group": "The Taliban",
+   "how": "Its property covered by the order is frozen, and others are barred from doing certain business with it."
+  },
+  {
+   "group": "US businesses and individuals",
+   "how": "They are barred from carrying out the transactions with the Taliban that the order prohibits."
+  }
+ ],
+ "when_it_takes_effect": "The provided material does not state an effective date. The order was signed July 4, 1999.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

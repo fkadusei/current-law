@@ -1,0 +1,24 @@
+{
+ "headline": "President Bush updated the official federal list of contagious diseases for which people can be placed in quarantine.",
+ "what_it_does": "This order revises the list of communicable diseases that the federal government may use quarantine powers to control. When a disease is on this list, federal health officials may detain, isolate, or quarantine people who may carry it to help stop its spread. No summary was provided, so the specific diseases added or changed are not described here.",
+ "who_it_affects": [
+  {
+   "group": "People exposed to or infected with a listed disease",
+   "how": "They could be placed in federal isolation or quarantine if they may spread a disease on the list."
+  },
+  {
+   "group": "Travelers entering the US or crossing state lines",
+   "how": "Federal quarantine rules mainly apply at borders and between states, so travelers could be held if they may carry a listed disease."
+  },
+  {
+   "group": "Federal public health officials",
+   "how": "The order sets which diseases they may use quarantine powers against."
+  }
+ ],
+ "when_it_takes_effect": "Signed April 4, 2003",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

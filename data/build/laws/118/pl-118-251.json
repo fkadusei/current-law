@@ -33,5 +33,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law renames the VA outpatient clinic in Cadillac, Michigan, as the Duane E. Dewey VA Clinic.",
+  "what_it_does": "The law changes the official name of the Department of Veterans Affairs outpatient clinic in Cadillac, Michigan. The clinic will now be called the Duane E. Dewey VA Clinic. It is a naming change only and does not add or remove any services.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law was enacted on January 4, 2025.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

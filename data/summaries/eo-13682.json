@@ -1,0 +1,20 @@
+{
+ "headline": "President Obama ordered most federal executive departments and agencies closed on Friday, December 26, 2014, the day after Christmas.",
+ "what_it_does": "This order closed federal executive departments and agencies for the day on Friday, December 26, 2014, giving most federal employees the day off. Based on the title alone, details such as which offices had to stay open for safety or national security reasons are not described here.",
+ "who_it_affects": [
+  {
+   "group": "Federal executive branch employees",
+   "how": "Most received an extra day off work on December 26, 2014."
+  },
+  {
+   "group": "People who use federal offices and services",
+   "how": "Many federal offices were closed that day, so in-person services may not have been available."
+  }
+ ],
+ "when_it_takes_effect": "Friday, December 26, 2014",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

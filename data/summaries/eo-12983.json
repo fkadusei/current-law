@@ -1,0 +1,16 @@
+{
+ "headline": "President Clinton changed an earlier executive order, Executive Order 12871, which dealt with labor-management relations in the federal government.",
+ "what_it_does": "This order amends Executive Order 12871, a 1993 order on partnerships between federal agency managers and the unions that represent federal workers. The title does not say what was changed, and no summary was provided. So the details of the change cannot be confirmed from the source material.",
+ "who_it_affects": [
+  {
+   "group": "Federal government employees and their unions",
+   "how": "The earlier order covered how federal agencies and their employee unions work together, so changes to it may affect them, though the specific change is not described."
+  }
+ ],
+ "when_it_takes_effect": "Signed December 21, 1995; exact effective date not stated in the source material.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

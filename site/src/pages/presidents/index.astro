@@ -4,34 +4,71 @@ import { allLaws, executiveOrders, PRESIDENT_INFO } from "../../lib/data.js";
 const base = import.meta.env.BASE_URL.replace(/\/$/, "");
 const laws = allLaws(), eos = executiveOrders();
 const map = new Map();
-for (const l of laws) if (l.president) map.set(l.president.id, { ...l.president, laws: 0, eos: 0 });
-for (const e of eos) if (e.president && !map.has(e.president.id)) map.set(e.president.id, { ...e.president, laws: 0, eos: 0 });
-for (const l of laws) if (l.president) map.get(l.president.id).laws++;
+const blank = (p) => ({ ...p, laws: 0, eos: 0, D: 0, R: 0, voice: 0 });
+for (const l of laws) if (l.president && !map.has(l.president.id)) map.set(l.president.id, blank(l.president));
+for (const e of eos) if (e.president && !map.has(e.president.id)) map.set(e.president.id, blank(e.president));
+for (const l of laws) {
+  if (!l.president) continue;
+  const p = map.get(l.president.id);
+  p.laws++;
+  const side = l.party_color?.side;
+  if (!l.party_color) p.voice++; else if (side === "D" || side === "R") p[side]++;
+}
 for (const e of eos) if (e.president) map.get(e.president.id).eos++;
 const order = Object.keys(PRESIDENT_INFO).reverse();
 const presidents = [...map.values()].sort((a, b) => order.indexOf(a.id) - order.indexOf(b.id));
+const initials = (n) => n.split(" ").filter((w) => /^[A-Z]/.test(w) && !/^[A-Z]\.$/.test(w)).map((w) => w[0]).slice(0, 2).join("") || n[0];
 ---
 <Base title="Presidents">
-  <section slot="hero" class="page-hero"><div class="wrap"><p class="eyebrow-label">The White House</p><h1>Presidents</h1><p>Laws each President signed and the executive orders they issued.</p></div></section>
+  <section slot="hero" class="page-hero"><div class="wrap"><p class="eyebrow-label">The White House</p><h1>Presidents</h1><p>The laws each President signed and the executive orders they issued, newest first.</p></div></section>
   <div class="pres">
-    {presidents.map((p) => (
-      <a class="card p" href={`${base}/presidents/${p.id}/`}>
-        <span class={`bar party-bg-${p.party[0]}`}></span>
-        <div>
-          <h2>{p.name}</h2>
-          <p class="muted">{p.party} · {PRESIDENT_INFO[p.id]?.years}{PRESIDENT_INFO[p.id]?.note ? ` · ${PRESIDENT_INFO[p.id].note}` : ""}</p>
-          <p><strong>{p.laws}</strong> laws signed (in the data so far) · <strong>{p.eos}</strong> executive orders</p>
-        </div>
-      </a>
-    ))}
+    {presidents.map((p) => {
+      const info = PRESIDENT_INFO[p.id] || {};
+      return (
+        <a class={`card pc pc-${p.party[0]}`} href={`${base}/presidents/${p.id}/`}>
+          <div class="pc-top">
+            <span class="mono">{initials(p.name)}</span>
+            <div>
+              <h2>{p.name}</h2>
+              <p class="meta">{p.party} · {info.years}{info.note ? ` · ${info.note}` : ""}</p>
+            </div>
+          </div>
+          <div class="nums">
+            <div><strong>{p.laws ? p.laws.toLocaleString() : "Soon"}</strong><span>{p.laws ? "laws signed" : "laws being added"}</span></div>
+            <div><strong>{p.eos ? p.eos.toLocaleString() : "None"}</strong><span>{p.eos ? "executive orders" : "online records"}</span></div>
+          </div>
+          {p.laws > 0 ? (
+            <div class="mix" title={`${p.D} passed mostly by Democrats, ${p.R} mostly by Republicans, ${p.voice} by voice vote`}>
+              {p.D > 0 && <span class="m-D" style={`flex:${p.D}`}></span>}
+              {p.R > 0 && <span class="m-R" style={`flex:${p.R}`}></span>}
+              {p.voice > 0 && <span class="m-V" style={`flex:${p.voice}`}></span>}
+            </div>
+          ) : <div class="mix empty"></div>}
+          <p class="legend">{p.laws > 0
+            ? <><span class="k k-D"></span>{p.D} mostly Democratic votes <span class="k k-R"></span>{p.R} mostly Republican <span class="k k-V"></span>{p.voice} voice vote</>
+            : "Laws from before 2013 are on the way."}</p>
+        </a>
+      );
+    })}
   </div>
 </Base>
 <style>
-  .pres { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 12px; margin-top: 16px; }
-  .p { display: flex; overflow: hidden; text-decoration: none; color: inherit; }
-  .p > div { padding: 14px 16px; }
-  .p h2 { margin: 0 0 4px; font-size: 1.2rem; }
-  .p p { margin: 4px 0; }
-  .bar { width: 8px; flex: none; }
-  .party-bg-D { background: var(--dem); } .party-bg-R { background: var(--rep); }
+  .pres { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 320px), 1fr)); gap: 16px; margin-top: 4px; }
+  .pc { display: flex; flex-direction: column; gap: 14px; padding: 18px; text-decoration: none; color: inherit; border-top: 5px solid var(--pc); transition: transform .15s ease, box-shadow .15s ease; }
+  .pc:hover { transform: translateY(-2px); box-shadow: var(--shadow-lg); }
+  .pc-D { --pc: var(--dem); } .pc-R { --pc: var(--rep); }
+  .pc-top { display: flex; align-items: center; gap: 14px; }
+  .mono { flex: none; width: 52px; height: 52px; border-radius: 50%; display: grid; place-items: center; font-weight: 800; font-size: 1.1rem; letter-spacing: .02em; color: #fff; background: var(--pc); box-shadow: 0 0 0 3px color-mix(in srgb, var(--pc) 25%, transparent); }
+  .pc h2 { margin: 0; font-size: 1.18rem; }
+  .meta { margin: 2px 0 0; color: var(--muted); font-size: .9rem; }
+  .nums { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+  .nums div { background: var(--surface-2); border-radius: 10px; padding: 10px 12px; display: flex; flex-direction: column; }
+  .nums strong { font-size: 1.35rem; line-height: 1.1; }
+  .nums span { font-size: .8rem; color: var(--muted); }
+  .mix { display: flex; gap: 2px; height: 8px; border-radius: 99px; overflow: hidden; background: rgb(128 128 128 / .15); }
+  .m-D { background: var(--dem); } .m-R { background: var(--rep); } .m-V { background: #9aa3b2; }
+  .legend { margin: -6px 0 0; font-size: .78rem; color: var(--muted); }
+  .k { display: inline-block; width: 8px; height: 8px; border-radius: 50%; margin: 0 4px 0 8px; }
+  .k:first-child { margin-left: 0; }
+  .k-D { background: var(--dem); } .k-R { background: var(--rep); } .k-V { background: #9aa3b2; }
 </style>

@@ -1,0 +1,24 @@
+{
+ "headline": "Executive order further delays federal enforcement of a law affecting TikTok.",
+ "what_it_does": "This order extends an earlier delay in enforcing a federal law that affects the TikTok app. During the delay, the government holds off on enforcing that law. The title does not say how long the new delay lasts or what conditions apply.",
+ "who_it_affects": [
+  {
+   "group": "People in the US who use TikTok",
+   "how": "The app's status may stay unchanged while enforcement is on hold."
+  },
+  {
+   "group": "TikTok and its owners",
+   "how": "They get more time before the government enforces the law against the app."
+  },
+  {
+   "group": "Companies that offer or support TikTok, such as app stores and hosting providers",
+   "how": "They may avoid enforcement action for working with TikTok during the delay."
+  }
+ ],
+ "when_it_takes_effect": "Signed April 4, 2025; the title does not state the new enforcement deadline.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

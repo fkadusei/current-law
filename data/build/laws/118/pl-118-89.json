@@ -39,5 +39,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "New law lets the Congressional Budget Office get data from federal agencies without a written agreement, if it keeps the data equally confidential.",
+  "what_it_does": "The Congressional Budget Office (CBO) studies the costs of bills and the federal budget for Congress. This law says CBO may get data from executive branch agencies with or without a written agreement, as long as CBO protects the data at the same level of confidentiality the sharing agency must follow. CBO must also report to Congress on its requests for information from agencies and any problems it had getting that information.",
+  "who_it_affects": [
+   {
+    "group": "Congressional Budget Office",
+    "how": "CBO gains clearer authority to get data from federal agencies and must report to Congress on its data requests and any problems getting access."
+   },
+   {
+    "group": "Executive branch agencies",
+    "how": "Agencies may share data with CBO without first signing a written agreement, as long as CBO meets the same confidentiality rules the agency follows."
+   },
+   {
+    "group": "Members of Congress",
+    "how": "Lawmakers will receive a report from CBO on its information requests and any problems it had getting data from agencies."
+   }
+  ],
+  "when_it_takes_effect": "Enacted September 30, 2024; the summary does not give a separate start date.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

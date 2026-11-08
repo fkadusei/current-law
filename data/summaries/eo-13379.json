@@ -1,0 +1,16 @@
+{
+ "headline": "President Bush changed an earlier order that set up an advisory panel to study and recommend changes to the federal tax system.",
+ "what_it_does": "This order amends Executive Order 13369, which created the President's Advisory Panel on Federal Tax Reform earlier in 2005. The title does not say what was changed, and no summary was provided. The panel itself only gave advice and recommendations. It could not change tax law on its own.",
+ "who_it_affects": [
+  {
+   "group": "Members of the President's Advisory Panel on Federal Tax Reform",
+   "how": "The order changes the rules that govern how the panel works, though the specific change is not described in the title."
+  }
+ ],
+ "when_it_takes_effect": "Signed June 16, 2005",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

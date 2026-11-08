@@ -1,0 +1,28 @@
+{
+ "headline": "Amtrak must report to Congress each year on its plan and progress for making its train stations accessible under the ADA.",
+ "what_it_does": "Amtrak must add an ADA action plan and a status report on station accessibility to its annual report to Congress. The plan covers how Amtrak will make stations accessible, as it agreed to do in a 2020 settlement with the Justice Department. For stations where someone other than Amtrak is responsible for ADA compliance, Amtrak must name that party, or show it took reasonable steps to get their cooperation. Reports are due every year while the settlement is in effect, then every five years after it ends.",
+ "who_it_affects": [
+  {
+   "group": "Amtrak",
+   "how": "Amtrak must prepare and submit ADA action plans and station status reports to Congress."
+  },
+  {
+   "group": "Train passengers with disabilities",
+   "how": "They may get more public information on how accessible Amtrak-served stations are and on plans to improve them."
+  },
+  {
+   "group": "Station owners other than Amtrak, such as local governments, transit agencies, and freight railroads",
+   "how": "They may be named in Amtrak's reports as the party responsible for ADA compliance at stations they control."
+  },
+  {
+   "group": "Members of Congress",
+   "how": "They will receive regular reports on Amtrak's progress toward station accessibility."
+  }
+ ],
+ "when_it_takes_effect": "Enacted December 23, 2024; the requirements apply to Amtrak's annual reports to Congress, but the summary does not give an exact first deadline.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

@@ -1,0 +1,16 @@
+{
+ "headline": "President Obama created a board to give the President advice on how the federal government is managed.",
+ "what_it_does": "This executive order set up the President's Management Advisory Board. Based on its title, the board's job is to advise the President on how federal agencies are run. No summary was provided, so details such as who serves on the board and what topics it covers are not described here.",
+ "who_it_affects": [
+  {
+   "group": "Federal agencies",
+   "how": "The board's advice could shape how agencies manage their operations, though an advisory board does not set binding rules by itself."
+  }
+ ],
+ "when_it_takes_effect": "Signed April 19, 2010; executive orders like this one usually take effect when signed.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

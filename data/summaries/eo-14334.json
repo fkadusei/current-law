@@ -1,0 +1,24 @@
+{
+ "headline": "Executive order changes the reciprocal tariff rates on imports from China again, tied to ongoing talks between the US and China.",
+ "what_it_does": "This order modifies the reciprocal tariff rates the US charges on goods imported from China. The title says the change reflects ongoing discussions between the two countries. No summary was provided, so the new rates and how long they last are not described here.",
+ "who_it_affects": [
+  {
+   "group": "US businesses that import goods from China",
+   "how": "The tariff they pay on Chinese goods may change under the modified rates."
+  },
+  {
+   "group": "Shoppers who buy products made in China",
+   "how": "Changes in tariff rates can affect the prices of imported goods in stores."
+  },
+  {
+   "group": "Chinese companies that export to the US",
+   "how": "The tariff charged on their goods entering the US is being adjusted."
+  }
+ ],
+ "when_it_takes_effect": "Signed August 11, 2025; the title does not state when the changes take effect.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

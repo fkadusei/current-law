@@ -1,0 +1,24 @@
+{
+ "headline": "Law lets veterans use VA education benefits at new branches of commercial truck-driving schools that meet certain conditions.",
+ "what_it_does": "Normally, the VA cannot approve veterans' education benefits for non-degree courses at a school branch that has been open less than 2 years. This law makes an exception for commercial driver education programs at new branches. The new branch must be properly licensed and use the same curriculum as an already VA-approved program at another location of the same school. The school must send a report showing the curriculum is the same.",
+ "who_it_affects": [
+  {
+   "group": "Veterans and others using VA education benefits",
+   "how": "They can use their benefits for commercial driver training at newer school branches that meet the law's conditions."
+  },
+  {
+   "group": "Commercial driver training schools",
+   "how": "Schools with an existing VA-approved program can get VA approval for new branches sooner by showing the new branch is licensed and uses the same curriculum."
+  },
+  {
+   "group": "Department of Veterans Affairs",
+   "how": "The VA may approve these new-branch programs and must review the schools' curriculum reports."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

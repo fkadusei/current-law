@@ -1,0 +1,28 @@
+{
+ "headline": "New law requires federal agencies to publish online maps and data showing where the public can access federal waters for boating and fishing.",
+ "what_it_does": "The Forest Service and the Department of the Interior must create shared standards for collecting and sharing map data about public access to federal waterways and federal fishing rules. Within five years, they must put this data online, including waterway restrictions, access points, navigation information, and fishing restrictions. Waterway data must be updated at least twice a year, and fishing restriction data must be updated in real time as changes take effect. The agencies must also set up a way for the public to send questions or comments about the waterway data, and must report their progress to Congress every year.",
+ "who_it_affects": [
+  {
+   "group": "People who boat, paddle, or fish on federal waters",
+   "how": "They will be able to find online maps and data showing where they can access federal waterways and what fishing and waterway restrictions apply."
+  },
+  {
+   "group": "Forest Service and Department of the Interior",
+   "how": "They must develop data standards, digitize and publish waterway and fishing data within five years, keep it updated, and report yearly to Congress."
+  },
+  {
+   "group": "U.S. Geological Survey",
+   "how": "It may collect, standardize, and publish the data on behalf of the Forest Service and Interior."
+  },
+  {
+   "group": "State and local agencies, private companies, and nonprofits",
+   "how": "They may partner or sign agreements with the federal agencies to help carry out the law."
+  }
+ ],
+ "when_it_takes_effect": "Enacted December 26, 2025; the online data must be published within five years.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

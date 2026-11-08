@@ -1,0 +1,24 @@
+{
+ "headline": "President Clinton ordered a freeze on Yugoslav, Serbian, and Montenegrin government property in the US and banned trade with Yugoslavia over Kosovo.",
+ "what_it_does": "This order freezes property and assets in US control that belong to the governments of the Federal Republic of Yugoslavia, Serbia, and Montenegro. It also bans trade deals that involve the Federal Republic of Yugoslavia. The title says the order responds to the situation in Kosovo. No summary was provided, so details such as exceptions are not described here.",
+ "who_it_affects": [
+  {
+   "group": "Governments of Yugoslavia, Serbia, and Montenegro",
+   "how": "Their property and assets under US control are frozen and cannot be used or moved."
+  },
+  {
+   "group": "US businesses and individuals who trade with Yugoslavia",
+   "how": "They are barred from trade transactions involving the Federal Republic of Yugoslavia."
+  },
+  {
+   "group": "US banks and financial firms",
+   "how": "They must freeze assets they hold for the covered governments."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

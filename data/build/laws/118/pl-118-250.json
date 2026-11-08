@@ -36,5 +36,24 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Federal court in Utah's Central Division must now also hold sessions in Moab and Monticello.",
+  "what_it_does": "This law changes federal law to add the towns of Moab and Monticello, Utah, to the list of places where the U.S. District Court for the Central Division of Utah must hold court. Before this, those towns were not on the list.",
+  "who_it_affects": [
+   {
+    "group": "People living in and around Moab and Monticello in southeastern Utah",
+    "how": "They may be able to attend federal court cases closer to home instead of traveling to other court locations."
+   },
+   {
+    "group": "The U.S. District Court for the District of Utah",
+    "how": "The court is required to hold sessions in two more locations within its Central Division."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on January 4, 2025; the summary does not list a separate start date.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

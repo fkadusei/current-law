@@ -36,5 +36,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Names the Postal Service facility at 20 West White Street in Millstadt, Illinois, the Corporal Matthew A. Wyatt Post Office.",
+  "what_it_does": "This law renames a U.S. Postal Service building in Millstadt, Illinois, after Corporal Matthew A. Wyatt. It changes only the official name of the facility. It does not change mail service, postal rules, or the building's operations.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law was enacted on January 4, 2025.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

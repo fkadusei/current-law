@@ -1,0 +1,20 @@
+{
+ "headline": "President Trump signed an executive order aimed at removing barriers to U.S. leadership in artificial intelligence.",
+ "what_it_does": "Based on its title, this order directs the federal government to reduce rules or policies seen as barriers to American work on artificial intelligence (AI). No summary was provided, so the specific actions, rules, or deadlines it includes are not described here.",
+ "who_it_affects": [
+  {
+   "group": "Federal agencies",
+   "how": "They would likely be the ones told to review or change AI-related policies, though the details are not given."
+  },
+  {
+   "group": "Companies and researchers that build AI",
+   "how": "They may face fewer federal barriers, depending on what the order actually changes."
+  }
+ ],
+ "when_it_takes_effect": "Signed January 23, 2025; specific effective dates or deadlines are not stated in the source material.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

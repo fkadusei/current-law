@@ -1,0 +1,20 @@
+{
+ "headline": "A 2019 executive order changes how the U.S. government carries out sanctions tied to the spread of dangerous weapons.",
+ "what_it_does": "Based on its title, this order sets rules for how federal agencies run sanctions meant to stop the spread, or 'proliferation,' of weapons such as nuclear, chemical, or biological arms. It also amends Executive Order 12851, an earlier order on the same topic. No summary was provided, so the specific changes are not described here.",
+ "who_it_affects": [
+  {
+   "group": "Federal agencies that handle sanctions",
+   "how": "The order likely changes which agencies carry out proliferation sanctions or how they do it."
+  },
+  {
+   "group": "Foreign governments, companies, or people targeted by proliferation sanctions",
+   "how": "They may be affected by how these sanctions are put in place and enforced."
+  }
+ ],
+ "when_it_takes_effect": "Signed August 1, 2019; the title does not state a separate start date.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

@@ -1,0 +1,24 @@
+{
+ "headline": "2006 executive order freezes Sudan's government property in the US and restricts dealings with that government.",
+ "what_it_does": "Based on its title, this order blocks, or freezes, property belonging to the Government of Sudan that falls under US control. It also bars certain transactions with the Government of Sudan. No summary was provided, so the specific details, exceptions, and penalties are not described here.",
+ "who_it_affects": [
+  {
+   "group": "Government of Sudan",
+   "how": "Its property under US control is frozen and cannot be used or moved without permission."
+  },
+  {
+   "group": "US businesses and individuals dealing with Sudan's government",
+   "how": "They are restricted from carrying out certain transactions with the Government of Sudan."
+  },
+  {
+   "group": "US banks and financial institutions",
+   "how": "They must freeze any covered property of the Government of Sudan that they hold."
+  }
+ ],
+ "when_it_takes_effect": "Signed October 13, 2006; the exact effective date is not stated in the title.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

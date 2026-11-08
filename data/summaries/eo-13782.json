@@ -1,0 +1,20 @@
+{
+ "headline": "Executive order cancels earlier presidential orders that set rules for companies holding federal government contracts.",
+ "what_it_does": "This order revokes, or cancels, one or more earlier executive orders about federal contracting. Federal contracting is when the government pays private companies to provide goods or services. The title does not say which orders are revoked or what rules they contained, so the exact changes cannot be described from this source alone.",
+ "who_it_affects": [
+  {
+   "group": "Companies that hold or bid on federal government contracts",
+   "how": "Rules these companies had to follow under the canceled orders no longer apply."
+  },
+  {
+   "group": "Workers employed by federal contractors",
+   "how": "Any protections or requirements tied to the canceled orders may no longer apply to their workplaces."
+  }
+ ],
+ "when_it_takes_effect": "Signed March 27, 2017; the exact effective date is not stated in the provided material.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

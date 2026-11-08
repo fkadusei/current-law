@@ -1,0 +1,20 @@
+{
+ "headline": "President Biden extends certain federal advisory committees and makes changes to some earlier executive orders.",
+ "what_it_does": "This order keeps certain federal advisory committees running so they do not expire. These committees give advice to the President and federal agencies. The order also makes changes to some earlier executive orders. The title does not name the committees or describe the changes.",
+ "who_it_affects": [
+  {
+   "group": "Members of federal advisory committees",
+   "how": "Committees covered by the order can keep meeting and advising the government instead of shutting down."
+  },
+  {
+   "group": "Federal agencies that rely on these committees",
+   "how": "Agencies can keep getting advice from the committees that were continued."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

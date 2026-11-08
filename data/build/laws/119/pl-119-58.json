@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Public Lands and Natural Resources",
  "sponsor": "Sen. Crapo, Mike [R-ID]",
- "official_summary": null,
+ "official_summary": "<p><strong>Secure Rural Schools Reauthorization Act of 2025</strong></p><p>This act extends and modifies the Secure Rural Schools (SRS) program, under which states and counties containing certain federal land&nbsp;may receive payments from the Forest&nbsp;Service or the Bureau of Land Management (BLM) for schools, roads, and certain other municipal services.</p><p>The act modifies the SRS program, including by</p><ul><li>extending payments made to states and counties containing federal land through FY2026,</li><li>providing lapsed payments&nbsp;for FY2024 and FY2025,</li><li>extending&nbsp;the authority of counties to initiate projects using such funds through FY2028, and</li><li>extending the authority to initiate projects proposed by resource advisory committees through FY2028.</li></ul>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-119s356enr/uslm/BILLS-119s356enr.xml"
@@ -3528,5 +3528,32 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "Law restarts and extends federal Secure Rural Schools payments to states and counties with national forest and certain federal land through 2026.",
+  "what_it_does": "The law extends the Secure Rural Schools program, which sends Forest Service and Bureau of Land Management payments to states and counties that contain certain federal land. The money helps pay for schools, roads, and some other local services. It extends payments through fiscal year 2026 and makes up payments that lapsed for fiscal years 2024 and 2025. It also gives counties and local resource advisory committees until fiscal year 2028 to start projects using these funds.",
+  "who_it_affects": [
+   {
+    "group": "Rural counties and states with national forest or certain BLM land",
+    "how": "They will receive federal payments for fiscal years 2024 through 2026, including back payments for the two years the program had lapsed."
+   },
+   {
+    "group": "Students and school districts in these rural counties",
+    "how": "Schools may get funding from these payments, since the program money can go toward schools."
+   },
+   {
+    "group": "Residents of rural counties with federal land",
+    "how": "Payments can support local roads and certain other county services they use."
+   },
+   {
+    "group": "Resource advisory committees",
+    "how": "These local committees can keep starting projects funded by the program through fiscal year 2028."
+   }
+  ],
+  "when_it_takes_effect": "Enacted December 18, 2025; covers payments for fiscal years 2024 through 2026, with project authority through fiscal year 2028.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

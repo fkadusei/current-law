@@ -3519,5 +3519,28 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "Law requires the Secret Service to use the same staffing standards when protecting Presidents, Vice Presidents, and major candidates for those offices.",
+  "what_it_does": "This law requires the U.S. Secret Service to use one set of standards when deciding how many agents are needed to protect Presidents, Vice Presidents, and major Presidential and Vice Presidential candidates. The Department of Homeland Security decides who counts as a major candidate after consulting an advisory committee made up of congressional leaders.",
+  "who_it_affects": [
+   {
+    "group": "Major Presidential and Vice Presidential candidates",
+    "how": "The number of Secret Service agents assigned to protect them must be set using the same standards used for sitting Presidents and Vice Presidents."
+   },
+   {
+    "group": "The U.S. Secret Service",
+    "how": "The agency must apply equal standards across these protected people when deciding how many agents to assign."
+   },
+   {
+    "group": "Presidents and Vice Presidents",
+    "how": "The standards used to staff their protection must also be applied to major candidates."
+   }
+  ],
+  "when_it_takes_effect": "Signed into law October 1, 2024; the summary does not state a separate start date.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

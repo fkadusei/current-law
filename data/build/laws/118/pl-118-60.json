@@ -3511,5 +3511,48 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "Short-term law keeps FAA programs, airport grants, and aviation taxes running for one more week, through May 17, 2024.",
+  "what_it_does": "This law briefly extends the Federal Aviation Administration's (FAA's) programs and spending authority through May 17, 2024, so they would not lapse while Congress worked on a longer bill. It keeps airport construction and planning grants flowing, continues drone safety and testing programs, and extends several advisory committees and pilot programs. It also lets the government keep collecting aviation taxes, such as those on airline tickets and aviation fuel, and spend money from the Airport and Airway Trust Fund.",
+  "who_it_affects": [
+   {
+    "group": "Public-use airports and the state and local governments that run them",
+    "how": "They can keep receiving federal Airport Improvement Program grants for planning, construction, noise, and land-use projects through May 17, 2024."
+   },
+   {
+    "group": "Airline passengers",
+    "how": "Taxes on airline tickets continue to be collected, and consumer and disability advisory committees keep operating."
+   },
+   {
+    "group": "Passengers with disabilities",
+    "how": "The advisory committee that addresses their air travel needs keeps its authority through May 17, 2024."
+   },
+   {
+    "group": "Small communities served by the Essential Air Service program",
+    "how": "Rules used to decide their eligibility for subsidized passenger air service stay in place through May 17, 2024."
+   },
+   {
+    "group": "Drone operators and drone companies",
+    "how": "FAA drone test sites, safety exemptions, and drone detection and enforcement programs continue through May 17, 2024."
+   },
+   {
+    "group": "Airlines and aircraft fuel buyers",
+    "how": "Federal aviation fuel and ticket taxes continue to apply through May 17, 2024."
+   },
+   {
+    "group": "Commercial spaceflight companies",
+    "how": "A pause on certain new federal safety rules for crewed launch vehicles is extended to May 18, 2024."
+   },
+   {
+    "group": "Airports in the Marshall Islands, Micronesia, Palau, and Midway Island",
+    "how": "They remain eligible for certain federal airport development funding through May 17, 2024."
+   }
+  ],
+  "when_it_takes_effect": "Enacted May 10, 2024; extensions run through May 17, 2024 (May 18, 2024 for the spaceflight rule pause).",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

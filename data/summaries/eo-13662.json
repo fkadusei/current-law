@@ -1,0 +1,20 @@
+{
+ "headline": "A 2014 executive order expands US sanctions by freezing the property of more people tied to the situation in Ukraine.",
+ "what_it_does": "This order adds to earlier US actions over the situation in Ukraine. It lets the government freeze, or block, property and assets in the United States owned by additional people or groups found to be contributing to that situation. The title does not name who is targeted or how they are chosen, so details beyond this are not covered here.",
+ "who_it_affects": [
+  {
+   "group": "People and organizations named under the order",
+   "how": "Their property and assets under US control can be frozen so they cannot use or move them."
+  },
+  {
+   "group": "US banks, businesses, and individuals",
+   "how": "They would generally be expected to stop dealing with the property of those who are blocked."
+  }
+ ],
+ "when_it_takes_effect": "Signed March 20, 2014; the material provided does not state a separate start date.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

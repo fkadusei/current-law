@@ -1,0 +1,28 @@
+{
+ "headline": "Creates a commission to study whether the Weitzman National Museum of American Jewish History in Philadelphia should become part of the Smithsonian.",
+ "what_it_does": "The law sets up an eight-member commission, with two members each picked by the top Republican and Democratic leaders in the House and Senate. Within two years of its first meeting, the commission must send Congress and the President a report on the museum's collections, finances, operating costs, and role in efforts to study and counter antisemitism. The report must include a fundraising plan and ideas for new laws. The commission ends 30 days after it turns in its final report.",
+ "who_it_affects": [
+  {
+   "group": "Weitzman National Museum of American Jewish History",
+   "how": "The museum's collections, finances, and costs will be reviewed to decide whether it could be moved into the Smithsonian."
+  },
+  {
+   "group": "Smithsonian Institution",
+   "how": "The commission will look at how the museum's collections overlap with the Smithsonian's and what taking it over might involve."
+  },
+  {
+   "group": "Congressional leaders",
+   "how": "The Senate majority and minority leaders, the House Speaker, and the House minority leader each appoint two commission members."
+  },
+  {
+   "group": "Congress and the President",
+   "how": "They will receive the commission's plan and recommendations, which could lead to future legislation."
+  }
+ ],
+ "when_it_takes_effect": "Enacted December 11, 2024; the report is due within two years of the commission's first meeting.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

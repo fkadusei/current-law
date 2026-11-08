@@ -1,0 +1,24 @@
+{
+ "headline": "President Bush canceled an earlier executive order and memo that set up labor-management partnerships in the federal government.",
+ "what_it_does": "This order revokes an earlier executive order and a presidential memorandum about labor-management partnerships. Those earlier measures encouraged federal agencies to work with employee unions through formal partnership arrangements. With this order, agencies are no longer required to follow those earlier partnership directions. No summary was provided, so details beyond the title are limited.",
+ "who_it_affects": [
+  {
+   "group": "Federal government employees",
+   "how": "Formal partnership programs between their agencies and their unions are no longer required by presidential order."
+  },
+  {
+   "group": "Unions representing federal workers",
+   "how": "They lose the formal partnership role the earlier order and memo had set up with agency management."
+  },
+  {
+   "group": "Federal agency managers",
+   "how": "They are no longer directed to set up or keep labor-management partnerships under the revoked order and memo."
+  }
+ ],
+ "when_it_takes_effect": "Signed February 17, 2001",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

@@ -33,5 +33,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2024 law directs Congress to award one Congressional Gold Medal to Vietnam War Dustoff helicopter air ambulance crews for their service.",
+  "what_it_does": "The law provides for a single Congressional Gold Medal to be awarded to Dustoff crews, the helicopter air ambulance crews that served during the Vietnam War. The medal recognizes their military service. The official summary does not describe any money, services, or rules beyond the award itself.",
+  "who_it_affects": [],
+  "when_it_takes_effect": null,
+  "ceremonial": true,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

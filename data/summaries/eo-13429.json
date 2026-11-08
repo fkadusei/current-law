@@ -1,0 +1,24 @@
+{
+ "headline": "President Bush created an emergency board to look into a labor dispute between Metro-North Railroad and its track maintenance workers.",
+ "what_it_does": "This order set up a Presidential Emergency Board to investigate a dispute between Metro-North Railroad and its maintenance of way workers, who are represented by the International Brotherhood of Teamsters. Maintenance of way workers build and repair railroad tracks and related structures. Under federal railway labor law, creating such a board usually delays a strike or lockout while the board studies the dispute and makes recommendations. The title does not give details on the board's members, deadlines, or the issues in the dispute.",
+ "who_it_affects": [
+  {
+   "group": "Metro-North Railroad track maintenance workers represented by the Teamsters",
+   "how": "Their dispute with the railroad is sent to an emergency board for investigation, which typically puts a strike on hold for a set period."
+  },
+  {
+   "group": "Metro-North Railroad management",
+   "how": "The railroad's dispute with its workers is reviewed by the board, which typically bars a lockout or one-sided changes for a set period."
+  },
+  {
+   "group": "Metro-North commuter rail riders in the New York City area",
+   "how": "Setting up the board typically delays any strike that could disrupt their train service."
+  }
+ ],
+ "when_it_takes_effect": "2007-04-04",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

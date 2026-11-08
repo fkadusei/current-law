@@ -1,0 +1,20 @@
+{
+ "headline": "A 2004 executive order freezes the property of certain people and bans exporting certain goods to Syria.",
+ "what_it_does": "Based on its title, this order blocks, or freezes, property belonging to certain persons. It also bans the export of certain goods from the United States to Syria. The title does not say which people or which goods are covered.",
+ "who_it_affects": [
+  {
+   "group": "People and organizations named or described in the order",
+   "how": "Their property under U.S. control can be frozen, so they cannot use or move it."
+  },
+  {
+   "group": "U.S. businesses that export to Syria",
+   "how": "They are barred from sending certain goods to Syria."
+  }
+ ],
+ "when_it_takes_effect": "Signed May 11, 2004; the title does not give a separate start date.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

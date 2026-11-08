@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Energy",
  "sponsor": "Rep. Palmer, Gary J. [R-AL-6]",
- "official_summary": null,
+ "official_summary": "<p>This joint resolution nullifies the rule titled <em>Energy Conservation Program: Energy Conservation Standards for Consumer Gas-fired Instantaneous Water Heaters </em>and submitted by the Department of Energy (DOE) on December 26, 2024. Under the rule, DOE adopted amended energy conservation standards for gas-fired instantaneous water heaters to achieve the maximum improvement in energy efficiency that DOE determined was technologically feasible and economically justified.</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-119hjres20enr/uslm/BILLS-119hjres20enr.xml"
@@ -4368,5 +4368,28 @@
   "House": "R",
   "Senate": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "Congress cancels a Department of Energy rule that set stricter energy efficiency standards for gas-fired tankless water heaters used in homes.",
+  "what_it_does": "This law uses the Congressional Review Act to cancel a Department of Energy rule submitted on December 26, 2024. That rule would have raised the energy efficiency standards for consumer gas-fired instantaneous (tankless) water heaters. With the rule cancelled, the stricter standards do not take effect. Under the Congressional Review Act, the agency generally cannot issue a substantially similar rule unless Congress later authorizes it.",
+  "who_it_affects": [
+   {
+    "group": "Companies that make gas-fired tankless water heaters",
+    "how": "They will not have to meet the stricter efficiency standards the rule would have required."
+   },
+   {
+    "group": "Homeowners and renters who buy gas-fired tankless water heaters",
+    "how": "The models available to them will not have to meet the higher efficiency levels the rule set."
+   },
+   {
+    "group": "Department of Energy",
+    "how": "The agency's rule is cancelled, and it is generally barred from issuing a substantially similar rule without new approval from Congress."
+   }
+  ],
+  "when_it_takes_effect": "Enacted May 9, 2025; the rule is treated as having no force or effect.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

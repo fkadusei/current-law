@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Government Operations and Politics",
  "sponsor": "Rep. Moore, Barry [R-AL-1]",
- "official_summary": null,
+ "official_summary": "<p><strong>Stop Secret Spending Act of 2025</strong></p><p>This bill expands a requirement for federal agencies to report expenditures on the USAspending.gov website to include <em>other transaction agreement </em>expenditures. (Other transaction agreements, or OTAs, are contractual instruments other than standard procurement contracts, grants, or cooperative agreements; they are exempt from many federal procurement laws and regulations).</p><p>Under current law, federal agencies must report expenditures on federal awards to USAspending.gov with the term <em>federal award</em> defined as federal grants, loans, cooperative agreements, contracts, and certain other types of expenditures. This bill expands the definition of federal award to include expenditures under OTAs, and therefore such expenditures must be included on the USAspending.gov website.</p><p>The Department of the Treasury must ensure that data relating to OTAs are automatically transmitted to the website and a centralized view of this data is available on the website.&nbsp;Treasury must also annually post on the&nbsp;USAspending.gov website a report that includes (1) the total amount of federal spending on federal awards for which data has not been posted on the website, and (2) the reason why such spending data was not posted.</p><p>For 10 years after enactment, the Office of Inspector General of specified federal agencies must periodically submit to Congress and make publicly available a report assessing the agency's spending data and use of data standards.</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2069enr/uslm/BILLS-119hr2069enr.xml"
@@ -39,5 +39,36 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "New law requires federal agencies to post spending under \"other transaction agreements\" on the public USAspending.gov website.",
+  "what_it_does": "The law adds other transaction agreements (OTAs), special contracts that skip many normal federal buying rules, to the types of spending agencies must report on USAspending.gov. The Treasury Department must make sure OTA data flows to the website automatically and can be viewed in one place. Treasury must also post a yearly report on how much federal award spending was not posted on the site and why. For 10 years, inspectors general at certain agencies must send Congress public reports reviewing their agency's spending data.",
+  "who_it_affects": [
+   {
+    "group": "Federal agencies that use other transaction agreements",
+    "how": "They must now report OTA spending to USAspending.gov, as they already do for grants, loans, and contracts."
+   },
+   {
+    "group": "Companies and organizations that receive OTA funding",
+    "how": "Details of their OTA awards will be posted on a public government website."
+   },
+   {
+    "group": "Department of the Treasury",
+    "how": "It must set up automatic OTA data transfers, a central view of the data, and a yearly report on unposted spending."
+   },
+   {
+    "group": "Inspectors general at specified federal agencies",
+    "how": "For 10 years, they must regularly review and publicly report on their agency's spending data and use of data standards."
+   },
+   {
+    "group": "Members of the public, journalists, and researchers",
+    "how": "They will be able to see OTA spending and information about missing spending data on USAspending.gov."
+   }
+  ],
+  "when_it_takes_effect": "Enacted September 11, 2026; inspector general reporting lasts 10 years after enactment. The summary does not give specific start dates for other requirements.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

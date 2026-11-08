@@ -1,0 +1,24 @@
+{
+ "headline": "Executive order directs reviews to decide whether certain secret government documents about the September 11, 2001 attacks can be made public.",
+ "what_it_does": "This order calls for declassification reviews of certain government documents related to the terrorist attacks of September 11, 2001. A declassification review checks whether secret records can be released to the public, in full or in part. No summary was provided, so details such as which documents, which agencies, and what deadlines apply are not covered here.",
+ "who_it_affects": [
+  {
+   "group": "Families of people killed or injured on September 11, 2001",
+   "how": "They could gain access to more government information about the attacks if documents are released after review."
+  },
+  {
+   "group": "Federal agencies that hold classified records about the attacks",
+   "how": "They would need to review certain documents to decide whether they can be declassified."
+  },
+  {
+   "group": "Researchers, journalists, and the general public",
+   "how": "They may be able to read records that were previously kept secret, depending on what the reviews decide."
+  }
+ ],
+ "when_it_takes_effect": "Signed September 3, 2021; specific review deadlines are not stated in the title.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

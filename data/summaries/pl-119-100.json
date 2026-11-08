@@ -1,0 +1,28 @@
+{
+ "headline": "New law requires the FCC to clearly allow emergency phone alerts to be sent when a shark attack happens.",
+ "what_it_does": "The law directs the Federal Communications Commission (FCC) to issue an order that explicitly allows wireless emergency alerts to be sent to mobile phones after a shark attack. Officials can already send these alerts for things like severe weather, missing children, and other threats to life or property. This law adds shark attacks to the situations clearly covered.",
+ "who_it_affects": [
+  {
+   "group": "Beachgoers and swimmers in coastal areas",
+   "how": "They may get emergency alerts on their phones warning them about a shark attack nearby."
+  },
+  {
+   "group": "State and local emergency officials",
+   "how": "They will have clear permission to send wireless emergency alerts about shark attacks."
+  },
+  {
+   "group": "Federal Communications Commission",
+   "how": "The agency must issue an order explicitly permitting these shark attack alerts."
+  },
+  {
+   "group": "Wireless phone carriers",
+   "how": "They may carry shark attack alerts through the existing emergency alert system."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted June 26, 2026; the alerts are allowed once the FCC issues its order, and the summary gives no deadline for that.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

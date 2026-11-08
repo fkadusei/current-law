@@ -1,0 +1,28 @@
+{
+ "headline": "New law bans imports of low-enriched uranium made in Russia or by Russian companies, with limited waivers allowed until 2028.",
+ "what_it_does": "The law bans bringing unused low-enriched uranium made in Russia or by a Russian company into the United States. It also bans uranium that was swapped for Russian uranium or obtained in other ways meant to get around the ban. The Department of Energy can grant exceptions if no other workable supply exists to keep a reactor or US nuclear company running, or if the imports are in the national interest. Any exception must end by January 1, 2028, and the ban itself ends on December 31, 2040.",
+ "who_it_affects": [
+  {
+   "group": "US nuclear power plant operators",
+   "how": "They can no longer buy unused low-enriched uranium from Russia unless the Department of Energy grants a temporary exception."
+  },
+  {
+   "group": "US nuclear energy companies",
+   "how": "They may apply for a waiver if they cannot find another workable uranium supply, but any waiver must end by January 1, 2028."
+  },
+  {
+   "group": "Russian uranium producers and companies",
+   "how": "They are blocked from selling unused low-enriched uranium into the US market, including through swaps or workarounds."
+  },
+  {
+   "group": "Department of Energy",
+   "how": "It decides whether to grant waivers based on supply needs or the national interest."
+  }
+ ],
+ "when_it_takes_effect": "Enacted May 13, 2024; all waivers must end by January 1, 2028; the ban ends December 31, 2040.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

@@ -1,0 +1,24 @@
+{
+ "headline": "Requires Customs and Border Protection to review and update its port-of-entry inspection manuals at least every three years.",
+ "what_it_does": "This law requires U.S. Customs and Border Protection (CBP) to review and update certain manuals and policies for inspections at ports of entry at least once every three years. The updates must make sure inspection practices keep up with new technology and methods used to hide illegal activity at the border, such as smuggling drugs or people. CBP must send a report summarizing the changes to the homeland security committees in the Senate and House.",
+ "who_it_affects": [
+  {
+   "group": "U.S. Customs and Border Protection officers and staff",
+   "how": "Their inspection manuals and policies at ports of entry must be reviewed and updated at least every three years."
+  },
+  {
+   "group": "Travelers and shippers crossing at U.S. ports of entry",
+   "how": "The inspection practices they go through may change as CBP updates its rules to respond to new smuggling methods."
+  },
+  {
+   "group": "Congressional homeland security committees",
+   "how": "They will receive reports from CBP summarizing the changes made in each update."
+  }
+ ],
+ "when_it_takes_effect": "Enacted March 18, 2024; reviews and updates are required at least once every three years.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

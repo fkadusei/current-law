@@ -1,0 +1,20 @@
+{
+ "headline": "Executive order directs federal agencies to address security risks from certain drones, especially those tied to foreign adversaries.",
+ "what_it_does": "Based on its title, this order deals with security risks from certain unmanned aircraft systems, commonly called drones. It is generally understood to direct federal agencies to review risks from drones linked to foreign adversaries and to consider limits on buying or using them. No official summary was provided, so the exact requirements and deadlines are not described here.",
+ "who_it_affects": [
+  {
+   "group": "Federal agencies",
+   "how": "They may be directed to review, and possibly limit, their purchase and use of certain drones."
+  },
+  {
+   "group": "Drone makers and sellers, especially those linked to foreign countries",
+   "how": "Their ability to sell drones to the federal government could be affected."
+  }
+ ],
+ "when_it_takes_effect": "Signed January 18, 2021; executive orders usually take effect when signed.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

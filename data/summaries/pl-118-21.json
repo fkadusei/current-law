@@ -1,0 +1,28 @@
+{
+ "headline": "New law requires the VA to let veterans and their representatives request claim records online and get them within 120 days.",
+ "what_it_does": "The VA must create and maintain a secure website or online tool where people with VA claims, or their representatives, can request records about their claims and benefits. Requesters must say what format they want, the VA must confirm receipt within 10 days, and it must fill the request within 120 days. The VA's websites must also show a plain-language warning about laws governing agents and attorneys each time a claimant logs in, along with links to report violations, find VA-recognized representatives, and see final discipline decisions.",
+ "who_it_affects": [
+  {
+   "group": "Veterans and others with VA claims or benefits",
+   "how": "They can request their claim records online and must receive them within 120 days."
+  },
+  {
+   "group": "Representatives of VA claimants",
+   "how": "They can use the online tool to request records on behalf of the people they represent."
+  },
+  {
+   "group": "Agents and attorneys who help with VA claims",
+   "how": "Claimants will see warnings about rule violations, links to report misconduct, and public discipline decisions each time they log in."
+  },
+  {
+   "group": "Department of Veterans Affairs",
+   "how": "The VA must build and run the records request tool, meet the 10-day and 120-day deadlines, and add the new warnings and links to its sites."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on November 13, 2023; the summary does not give a specific deadline for the VA to launch the online tool.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

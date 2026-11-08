@@ -1,0 +1,20 @@
+{
+ "headline": "Executive order updates the official list of contagious diseases for which the federal government may quarantine people.",
+ "what_it_does": "This order revises the list of communicable diseases that are 'quarantinable' under federal law. Diseases on this list are ones for which federal health officials may detain, isolate, or conditionally release people to stop the disease from spreading. The title does not say which diseases were added or removed.",
+ "who_it_affects": [
+  {
+   "group": "People entering the US or traveling between states",
+   "how": "People who may have been exposed to a disease on the revised list could be subject to federal quarantine or isolation."
+  },
+  {
+   "group": "Federal public health officials",
+   "how": "The revised list sets which diseases they may use federal quarantine powers to control."
+  }
+ ],
+ "when_it_takes_effect": "Not stated in the source; signed July 31, 2014.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

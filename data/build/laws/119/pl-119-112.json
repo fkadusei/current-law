@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Energy",
  "sponsor": "Rep. Schrier, Kim [D-WA-8]",
- "official_summary": null,
+ "official_summary": "<p><strong>Hydropower Relicensing Transparency Act</strong></p><p>This bill directs the Federal Energy Regulatory Commission to report annually to Congress on the status of the&nbsp;relicensing process for each application for a renewed hydropower dam license.</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr3657enr/uslm/BILLS-119hr3657enr.xml"
@@ -42,5 +42,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "New law requires federal energy regulators to report to Congress each year on the status of hydropower dam license renewals.",
+  "what_it_does": "The law directs the Federal Energy Regulatory Commission (FERC) to send Congress a yearly report. The report must give the status of the renewal process for each application to renew a hydropower dam license.",
+  "who_it_affects": [
+   {
+    "group": "Federal Energy Regulatory Commission",
+    "how": "It must prepare and send Congress an annual report on every pending hydropower license renewal."
+   },
+   {
+    "group": "Companies and utilities that operate hydropower dams",
+    "how": "The status of their license renewal applications will be tracked and reported to Congress each year."
+   },
+   {
+    "group": "Members of Congress",
+    "how": "They will receive yearly updates on where each hydropower relicensing case stands."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

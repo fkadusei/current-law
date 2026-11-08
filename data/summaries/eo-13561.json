@@ -1,0 +1,24 @@
+{
+ "headline": "Presidential order setting updated pay rates for federal employees and military members for 2011.",
+ "what_it_does": "This is the yearly type of order a president signs to set official pay tables for people paid by the federal government. Based on its title, it adjusts certain federal pay rates, such as pay schedules for civilian workers, senior officials, and the military. No summary was provided, so the exact amounts and details are not described here.",
+ "who_it_affects": [
+  {
+   "group": "Federal civilian employees",
+   "how": "Their official pay schedules for the coming year are set or adjusted by this order."
+  },
+  {
+   "group": "Members of the military",
+   "how": "Their pay rates may be adjusted under this order."
+  },
+  {
+   "group": "Senior federal officials and political appointees",
+   "how": "Pay levels for top executive positions may be set or adjusted by this order."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

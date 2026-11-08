@@ -1,0 +1,20 @@
+{
+ "headline": "President Bush declared a national emergency that let the military use special emergency powers for construction projects.",
+ "what_it_does": "Based on the title, this order uses a national emergency declaration to unlock emergency construction authority. It was signed about two months after the September 11, 2001 attacks. It is generally understood to let the Secretary of Defense start military construction projects that Congress had not specifically approved, using military construction money that had not yet been spent.",
+ "who_it_affects": [
+  {
+   "group": "Department of Defense and the military services",
+   "how": "They gained authority to start construction projects needed during the emergency without waiting for separate approval from Congress."
+  },
+  {
+   "group": "Congress",
+   "how": "Lawmakers' usual project-by-project approval of military construction could be bypassed for projects under this emergency authority."
+  }
+ ],
+ "when_it_takes_effect": "November 16, 2001",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

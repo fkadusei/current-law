@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Commerce",
  "sponsor": "Rep. Valadao, David G. [R-CA-22]",
- "official_summary": null,
+ "official_summary": "<p><strong>Romance Scam Prevention Act</strong></p><p>This act requires online dating service providers (i.e., mobile applications or websites) to provide users with&nbsp;a fraud ban notification if the user has established an account with the service and received a message through the service from a banned user of the service.</p><p>The fraud ban notification must include (1) the username or other profile identifier of the banned user and the most recent time when the user who is receiving the notification sent or received a message through the service&nbsp;to or from the banned user, (2) a statement that the banned user may have been using a false identity or&nbsp;attempting to defraud other users, (3) a statement that the user should not send cash (or another form of currency) or personal financial information to another user, (4) information about avoiding online fraud (e.g., a link to another website or a disclosure), and (5) contact information for the provider's customer service department.</p><p>The act provides for enforcement of these requirements by the Federal Trade Commission and state attorneys general.&nbsp;&nbsp;</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2481enr/uslm/BILLS-119hr2481enr.xml"
@@ -42,5 +42,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Dating apps and websites must warn users when someone who messaged them is later banned for fraud.",
+  "what_it_does": "Online dating apps and websites must send a fraud ban notice to users who got a message from someone the service has banned. The notice must name the banned user's profile, say when they last exchanged messages, and warn that the person may have used a fake identity or tried to cheat users. It must also tell users not to send money or financial information, give tips on avoiding online fraud, and list customer service contact information. The Federal Trade Commission and state attorneys general can enforce these rules.",
+  "who_it_affects": [
+   {
+    "group": "People who use online dating apps or websites",
+    "how": "They will get a warning if someone who messaged them is banned for possible fraud."
+   },
+   {
+    "group": "Companies that run online dating apps or websites",
+    "how": "They must send fraud ban notices with specific information and can face enforcement if they do not."
+   },
+   {
+    "group": "Federal Trade Commission and state attorneys general",
+    "how": "They are given the power to enforce the new notice requirements."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

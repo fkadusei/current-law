@@ -1,0 +1,20 @@
+{
+ "headline": "President Bush used his power under the Trade Act of 1974 to waive certain trade rules for Turkmenistan.",
+ "what_it_does": "This order waives certain requirements of the Trade Act of 1974 as they apply to Turkmenistan. That law limits some trade benefits for certain countries based on their emigration policies, and it lets the President waive those limits. A waiver like this usually lets a country qualify for things such as U.S. government-backed trade credit or investment guarantees. The title does not spell out which benefits are affected.",
+ "who_it_affects": [
+  {
+   "group": "The government of Turkmenistan",
+   "how": "Turkmenistan is no longer held to certain Trade Act requirements that could block it from some U.S. trade benefits."
+  },
+  {
+   "group": "U.S. businesses that trade with or invest in Turkmenistan",
+   "how": "They may gain access to U.S. government trade or investment support for deals involving Turkmenistan, depending on how the waiver is applied."
+  }
+ ],
+ "when_it_takes_effect": "2007-06-28",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

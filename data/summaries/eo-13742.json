@@ -1,0 +1,20 @@
+{
+ "headline": "Presidential order ends the national emergency declared in response to the government of Burma's actions and policies.",
+ "what_it_does": "This order ends a U.S. national emergency about the government of Burma (also called Myanmar). That emergency had been the legal basis for U.S. economic sanctions on Burma. Ending it lifts the sanctions that depended on it.",
+ "who_it_affects": [
+  {
+   "group": "U.S. businesses and investors",
+   "how": "They may face fewer federal limits on trade with and investment in Burma."
+  },
+  {
+   "group": "People and companies in Burma previously covered by U.S. sanctions",
+   "how": "Sanctions that relied on the emergency, such as frozen assets or bans on dealings, would no longer apply under that authority."
+  }
+ ],
+ "when_it_takes_effect": "October 7, 2016",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

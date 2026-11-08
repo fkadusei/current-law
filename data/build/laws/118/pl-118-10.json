@@ -3536,5 +3536,28 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2023 law directs the Treasury to mint commemorative coins for the Marine Corps' 250th anniversary and send the surcharges to a Marine Corps heritage group.",
+  "what_it_does": "The law tells the Treasury Department to mint and issue up to 50,000 gold $5 coins, 400,000 silver $1 coins, and 750,000 half-dollar coins marking the 250th anniversary of the Marine Corps. The extra amount buyers pay above face value, called surcharges, must go to the Marine Corps Heritage Foundation. The foundation may use that money only to support the Marine Corps Heritage Center.",
+  "who_it_affects": [
+   {
+    "group": "Coin collectors and buyers",
+    "how": "People can buy these commemorative coins from the Treasury while supplies last, and they pay a surcharge above face value."
+   },
+   {
+    "group": "Marine Corps Heritage Foundation",
+    "how": "The foundation receives the surcharge money from coin sales, and it must use that money for the Marine Corps Heritage Center."
+   },
+   {
+    "group": "Marine Corps Heritage Center visitors and supporters",
+    "how": "The center's programs may be funded by the coin surcharge revenue."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on July 26, 2023. The official summary does not give a separate start date for coin sales.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

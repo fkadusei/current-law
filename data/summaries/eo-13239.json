@@ -1,0 +1,20 @@
+{
+ "headline": "Executive order names Afghanistan and the airspace above it as a combat zone, which mainly affects federal taxes for U.S. troops serving there.",
+ "what_it_does": "This order officially designates Afghanistan and its airspace as a combat zone. Under federal tax law, this designation generally lets service members leave some or all of their military pay for time in the zone out of their taxable income. It also generally gives them more time to file tax returns and meet other IRS deadlines. The order is widely reported to apply back to September 19, 2001, but the title alone does not confirm the details.",
+ "who_it_affects": [
+  {
+   "group": "U.S. military members serving in or over Afghanistan",
+   "how": "Their pay for service in the zone can be partly or fully excluded from federal income tax, and they may get extra time for tax deadlines."
+  },
+  {
+   "group": "Families of service members serving in Afghanistan",
+   "how": "Households filing joint tax returns may see lower taxes and extended filing deadlines tied to the service member's time in the zone."
+  }
+ ],
+ "when_it_takes_effect": "Signed December 12, 2001; widely reported to apply back to September 19, 2001",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

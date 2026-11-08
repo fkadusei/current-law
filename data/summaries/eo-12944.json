@@ -1,0 +1,20 @@
+{
+ "headline": "Executive order adjusting certain federal pay rates and allowances, likely the yearly raise for federal workers.",
+ "what_it_does": "The order adjusts certain pay rates and allowances set by the federal government. Orders with this title are usually issued each year to put new pay tables in place for federal employees and members of the military. No summary was provided, so the exact amounts and which pay systems are covered cannot be confirmed here.",
+ "who_it_affects": [
+  {
+   "group": "Federal civilian employees",
+   "how": "Their pay rates may change under the new pay tables the order sets."
+  },
+  {
+   "group": "Members of the military",
+   "how": "Their pay and allowances may be adjusted under the order."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

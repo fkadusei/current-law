@@ -1,0 +1,52 @@
+{
+ "headline": "Suspends the federal debt limit until January 2025, caps federal spending for two years, ends the student loan payment pause, and changes SNAP and TANF rules.",
+ "what_it_does": "This law suspends the federal debt limit through January 1, 2025, so the government can keep borrowing to pay its bills. It sets limits on yearly discretionary spending for FY2024 and FY2025 and takes back unspent money from many programs, including COVID-19 relief funds and some IRS funding. It ends the pause on federal student loan payments and interest, expands work requirements for some food aid recipients, and changes environmental review rules for federal projects. It also approves the permits for the Mountain Valley Pipeline and blocks court challenges to them.",
+ "who_it_affects": [
+  {
+   "group": "People with federal student loans",
+   "how": "Payments, interest, and involuntary collections restart 60 days after June 30, 2023, and the Education Department cannot extend the pause without approval from Congress."
+  },
+  {
+   "group": "SNAP recipients ages 50 to 54 who are able-bodied and have no dependents",
+   "how": "They become subject to work requirements in stages, reaching age 54 by FY2025, with these rules ending October 1, 2030."
+  },
+  {
+   "group": "Homeless people, veterans, and former foster youth age 24 or younger who receive SNAP",
+   "how": "They are newly exempt from the extra SNAP work requirements for able-bodied adults without dependents."
+  },
+  {
+   "group": "States that run SNAP and TANF programs",
+   "how": "They can give out fewer SNAP work-requirement exemptions, must follow new TANF work-rate and reporting rules, and must report job and earnings results for people who leave TANF."
+  },
+  {
+   "group": "Families receiving TANF cash assistance",
+   "how": "States face changes in how their work participation rates are counted, which may affect how states run their programs."
+  },
+  {
+   "group": "Companies and agencies planning major projects such as energy, roads, and pipelines",
+   "how": "Federal environmental reviews get page limits, deadlines, a single lead agency, and a narrower scope, and energy storage projects qualify for faster review."
+  },
+  {
+   "group": "Communities and landowners along the Mountain Valley Pipeline in Virginia and West Virginia",
+   "how": "All permits for the pipeline are approved by law and cannot be challenged in court, including lawsuits already pending."
+  },
+  {
+   "group": "Federal agencies and programs that rely on discretionary funding",
+   "how": "Their total funding is capped for FY2024 and FY2025, with automatic across-the-board cuts if the caps are exceeded."
+  },
+  {
+   "group": "Programs with unspent COVID-19 relief and other funds",
+   "how": "Unspent money for programs in areas like public health, housing, education, small business, farm aid, and the IRS is canceled."
+  },
+  {
+   "group": "Veterans affected by toxic exposure",
+   "how": "The law provides funding for the VA fund that pays for care related to toxic exposures."
+  }
+ ],
+ "when_it_takes_effect": "Enacted June 3, 2023; student loan pause ends 60 days after June 30, 2023; SNAP age changes start 90 days after enactment; most TANF changes start October 1, 2024, with some on October 1, 2025; debt limit suspended through January 1, 2025.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

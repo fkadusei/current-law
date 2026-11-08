@@ -1,0 +1,24 @@
+{
+ "headline": "Executive order requires companies with federal government contracts to give their workers paid sick leave.",
+ "what_it_does": "This order sets up a requirement that businesses holding contracts with the federal government provide paid sick leave to their employees. No summary was provided, so details such as how much leave workers earn, what it can be used for, and which contracts are covered are not described here.",
+ "who_it_affects": [
+  {
+   "group": "Employees of federal contractors",
+   "how": "They would be able to take paid time off when sick under the order's rules."
+  },
+  {
+   "group": "Businesses with federal government contracts",
+   "how": "They would need to offer paid sick leave to their workers to meet the terms of their contracts."
+  },
+  {
+   "group": "Federal agencies that award contracts",
+   "how": "They would need to include the paid sick leave requirement in their contracts."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

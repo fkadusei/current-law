@@ -39,5 +39,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Employers and health insurers no longer have to automatically mail health coverage tax forms 1095-B and 1095-C unless a person asks for one.",
+  "what_it_does": "Employers and health insurance providers still report health coverage information to the IRS. However, they no longer must automatically send forms 1095-B and 1095-C to covered people, and can instead provide them only when requested. Requested forms must be sent by January 31 or within 30 days of the request, whichever is later. Employers and insurers must give people timely notice that they can ask for a form, following IRS rules.",
+  "who_it_affects": [
+   {
+    "group": "Employers that offer health coverage, including large employers that file Form 1095-C",
+    "how": "They may skip automatically sending coverage forms to workers and instead send them only on request, after giving notice of that option."
+   },
+   {
+    "group": "Health insurance providers",
+    "how": "They may provide Form 1095-B only when a covered person asks, as long as they give timely notice of the right to request it."
+   },
+   {
+    "group": "People with health coverage through an employer or insurer",
+    "how": "They may no longer get a 1095-B or 1095-C form automatically and may need to request one if they want a copy."
+   }
+  ],
+  "when_it_takes_effect": "Enacted December 23, 2024; the summary does not state a separate start date.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

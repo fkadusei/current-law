@@ -36,5 +36,20 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Members of Congress convicted of public corruption crimes lose their congressional retirement pensions without waiting for all appeals to end.",
+  "what_it_does": "This law makes a Member of Congress convicted of a crime related to public corruption ineligible for retirement payments earned through their service as a Member. These payments come from the Civil Service Retirement System or the Federal Employees' Retirement System. Before this law, a Member lost these payments only after a final conviction, meaning after all appeals were used up.",
+  "who_it_affects": [
+   {
+    "group": "Current and former Members of Congress convicted of public corruption crimes",
+    "how": "They become ineligible for retirement payments based on their congressional service once convicted, rather than only after all appeals are finished."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

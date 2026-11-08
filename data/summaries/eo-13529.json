@@ -1,0 +1,24 @@
+{
+ "headline": "President Obama authorized calling certain military reserve members to active duty.",
+ "what_it_does": "This order allows the military to call up members of the Selected Reserve and some members of the Individual Ready Reserve for active duty. Reservists usually train part-time and keep civilian jobs until they are called up. The title does not say how many people may be called, for how long, or for what mission.",
+ "who_it_affects": [
+  {
+   "group": "Members of the Selected Reserve in the armed forces",
+   "how": "They may be ordered to leave civilian life and serve on active military duty."
+  },
+  {
+   "group": "Certain Individual Ready Reserve members",
+   "how": "Some former service members still on reserve status may be ordered back to active duty."
+  },
+  {
+   "group": "Employers and families of reservists",
+   "how": "They may lose a worker or family member to active military service for a period of time."
+  }
+ ],
+ "when_it_takes_effect": "January 16, 2010",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

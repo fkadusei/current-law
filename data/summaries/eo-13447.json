@@ -1,0 +1,20 @@
+{
+ "headline": "President Bush signed an order making further 2007 changes to the Manual for Courts-Martial, the rulebook for military trials.",
+ "what_it_does": "This order amends the Manual for Courts-Martial, which sets the rules and procedures for military criminal trials. The title says these are further changes made in 2007, following earlier ones. No summary was provided, so the specific changes are not described here.",
+ "who_it_affects": [
+  {
+   "group": "Members of the US armed forces",
+   "how": "Service members facing military criminal charges may be tried under the updated court-martial rules."
+  },
+  {
+   "group": "Military lawyers, judges, and commanders",
+   "how": "People who run or take part in courts-martial must follow the amended procedures."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

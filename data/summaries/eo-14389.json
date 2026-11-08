@@ -1,0 +1,16 @@
+{
+ "headline": "President Trump signed an order ending certain tariff actions; the specific tariffs affected are not described in the available information.",
+ "what_it_does": "Based on its title, this executive order ends some tariff actions, which are taxes on imported goods, that were previously in place. The available information does not say which tariffs are ended, which countries or products are involved, or why.",
+ "who_it_affects": [
+  {
+   "group": "Businesses that import goods covered by the ended tariffs",
+   "how": "They may no longer have to pay those specific tariffs, depending on which tariff actions the order covers."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

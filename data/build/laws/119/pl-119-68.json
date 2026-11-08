@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Public Lands and Natural Resources",
  "sponsor": "Rep. Gosar, Paul A. [R-AZ-9]",
- "official_summary": null,
+ "official_summary": "<p><strong>La Paz County Solar Energy and Job Creation Act</strong></p><p>This act directs the Department of the Interior, after receiving a request from La Paz County, Arizona, to convey approximately&nbsp;3,400 acres of identified land managed by the Bureau of Land Management to the county for fair market value.</p><p>Interior must exclude from the conveyance any federal land that contains significant cultural, environmental, wildlife, or recreational resources.</p><p>As a condition of the conveyance, La Paz County and any subsequent owner must</p><ul><li>make good faith efforts to avoid disturbing tribal artifacts;</li><li>minimize impacts on tribal artifacts if they are disturbed;</li><li>coordinate with the Colorado River Indian Tribes Tribal Historic Preservation Office to identify artifacts of cultural and historic significance; and</li><li>allow tribal representatives to rebury unearthed artifacts at, or near, where they were discovered.</li></ul><p>The federal land is withdrawn from the operation of U.S. mining and mineral leasing laws, and thus the land is not available for new mining claims, new mineral or geothermal leases, nor sales&nbsp;of mineral materials.</p><p>The county must pay&nbsp;all costs related to the conveyance.</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1043enr/uslm/BILLS-119hr1043enr.xml"
@@ -42,5 +42,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "New law lets La Paz County, Arizona, buy about 3,400 acres of federal land at fair market value.",
+  "what_it_does": "If La Paz County, Arizona, asks, the Interior Department must sell it about 3,400 acres of Bureau of Land Management land for fair market value. Land with significant cultural, environmental, wildlife, or recreational resources must be left out of the sale. The county must pay all costs of the transfer, and the land is closed to new mining claims, mineral or geothermal leases, and mineral material sales. The county and any later owners must take steps to protect tribal artifacts found on the land.",
+  "who_it_affects": [
+   {
+    "group": "La Paz County, Arizona",
+    "how": "The county can request and buy about 3,400 acres of federal land but must pay fair market value and all transfer costs."
+   },
+   {
+    "group": "Colorado River Indian Tribes",
+    "how": "Their Tribal Historic Preservation Office must be consulted to identify important artifacts, and tribal representatives may rebury any artifacts dug up near where they were found."
+   },
+   {
+    "group": "Future owners of the land",
+    "how": "Anyone who later owns the land must make good faith efforts to avoid or limit disturbing tribal artifacts."
+   },
+   {
+    "group": "Mining and mineral companies",
+    "how": "The land is no longer open to new mining claims, mineral or geothermal leases, or sales of mineral materials."
+   }
+  ],
+  "when_it_takes_effect": "Enacted December 29, 2025; the land transfer happens after La Paz County submits a request.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

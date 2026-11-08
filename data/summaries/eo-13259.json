@@ -1,0 +1,24 @@
+{
+ "headline": "Executive order names certain international organizations as covered under US anti-bribery and securities laws.",
+ "what_it_does": "This order officially designates certain international organizations as \"public international organizations\" under the Securities Exchange Act of 1934 and the Foreign Corrupt Practices Act of 1977. Under these laws, officials of designated organizations are treated like foreign government officials. This means it is illegal for covered US companies and individuals to bribe them to win or keep business. The title does not say which organizations are named.",
+ "who_it_affects": [
+  {
+   "group": "US companies and individuals doing business abroad",
+   "how": "They are barred from offering bribes to officials of the designated organizations, as they already are with foreign government officials."
+  },
+  {
+   "group": "Companies with securities registered in the US",
+   "how": "Their anti-bribery and related rules under federal securities law now cover dealings with officials of the designated organizations."
+  },
+  {
+   "group": "Officials of the designated international organizations",
+   "how": "They are now treated as foreign officials under US anti-bribery law."
+  }
+ ],
+ "when_it_takes_effect": "Signed March 19, 2002; the exact effective date is not stated in the provided material.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

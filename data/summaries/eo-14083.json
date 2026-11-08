@@ -1,0 +1,24 @@
+{
+ "headline": "Executive order directs the federal panel that reviews foreign investment in U.S. companies to weigh changing national security risks.",
+ "what_it_does": "This order gives direction to the Committee on Foreign Investment in the United States (CFIUS), a group of federal agencies that reviews certain purchases of, and investments in, U.S. businesses by foreign buyers. Based on its title, it tells the committee to fully consider national security risks that change over time when it reviews these deals. No summary was provided, so the specific risks it names are not described here.",
+ "who_it_affects": [
+  {
+   "group": "Foreign companies and investors buying into U.S. businesses",
+   "how": "Their deals that fall under CFIUS review may be judged with closer attention to changing security risks."
+  },
+  {
+   "group": "U.S. businesses seeking foreign investment or buyers",
+   "how": "Deals involving foreign money may face reviews that weigh a broader or updated set of security concerns."
+  },
+  {
+   "group": "Federal agencies on the CFIUS committee",
+   "how": "They receive direction on what security risks to consider when reviewing foreign investment deals."
+  }
+ ],
+ "when_it_takes_effect": "Signed September 15, 2022; exact effective date not stated in the provided material.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

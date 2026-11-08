@@ -1,0 +1,20 @@
+{
+ "headline": "President Obama updated the Manual for Courts-Martial, the rulebook for military criminal trials, in 2016.",
+ "what_it_does": "This order changes the Manual for Courts-Martial, which sets the rules for how military criminal cases are handled. Presidents update this manual from time to time, often to match new laws passed by Congress. No summary was provided, so the specific changes are not described here.",
+ "who_it_affects": [
+  {
+   "group": "Members of the US armed forces",
+   "how": "Service members charged with crimes under military law are tried under the rules in this manual."
+  },
+  {
+   "group": "Military lawyers and judges",
+   "how": "Military prosecutors, defense lawyers, and judges must follow the updated court-martial rules."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

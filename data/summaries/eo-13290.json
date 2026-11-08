@@ -1,0 +1,20 @@
+{
+ "headline": "President Bush ordered the US government to take ownership of certain Iraqi property held in the United States.",
+ "what_it_does": "This executive order directs the US government to confiscate certain property belonging to Iraq and transfer (\"vest\") ownership of it to the United States. It was signed on the day the US-led military action in Iraq began. The title does not spell out which property is covered or how it will be used, so details are limited here.",
+ "who_it_affects": [
+  {
+   "group": "The government of Iraq",
+   "how": "Certain Iraqi property located in the US is taken over and becomes owned by the US government."
+  },
+  {
+   "group": "US banks and other institutions holding the Iraqi property",
+   "how": "They would be required to hand over or transfer the covered property as directed by the US government."
+  }
+ ],
+ "when_it_takes_effect": "Signed March 20, 2003; the effective date is not stated in the title.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

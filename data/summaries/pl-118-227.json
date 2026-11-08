@@ -1,0 +1,24 @@
+{
+ "headline": "Law requires the federal government to sell a parcel of public land in Clifton, Colorado, to Mesa County at fair market value.",
+ "what_it_does": "The law directs the Bureau of Land Management to transfer a piece of federal land in Clifton, Colorado, to Mesa County. The county must pay fair market value for the land and cover all costs of the transfer, including surveying. The money from the sale goes into a federal fund called the Federal Land Disposal Account, where it can be spent.",
+ "who_it_affects": [
+  {
+   "group": "Mesa County, Colorado, government",
+   "how": "The county gains ownership of the land but must pay its fair market value plus all transfer and survey costs."
+  },
+  {
+   "group": "Residents of Clifton, Colorado",
+   "how": "Land in their community moves from federal to county control."
+  },
+  {
+   "group": "Bureau of Land Management",
+   "how": "The agency must carry out the transfer and gives up management of the parcel."
+  }
+ ],
+ "when_it_takes_effect": "Enacted January 4, 2025; the summary does not give a deadline for completing the transfer.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

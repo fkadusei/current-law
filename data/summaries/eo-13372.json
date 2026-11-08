@@ -1,0 +1,20 @@
+{
+ "headline": "A 2005 executive order clarified the wording of earlier orders that freeze certain property and ban certain transactions.",
+ "what_it_does": "This order clarifies the meaning of some earlier executive orders. Those earlier orders froze the property of certain people or groups and banned certain business dealings with them. No summary was provided, so which orders were changed and exactly how are not stated here.",
+ "who_it_affects": [
+  {
+   "group": "People and groups named under the earlier sanctions orders",
+   "how": "The rules freezing their property and limiting dealings with them may have been clarified."
+  },
+  {
+   "group": "US individuals, businesses, and organizations that might deal with sanctioned parties",
+   "how": "They may need to follow the clarified rules on which transactions are banned."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

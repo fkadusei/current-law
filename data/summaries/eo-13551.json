@@ -1,0 +1,20 @@
+{
+ "headline": "2010 executive order freezes US-held property of certain people and groups linked to North Korea.",
+ "what_it_does": "Based on its title, this order blocks, or freezes, property and property interests of certain people and organizations connected to North Korea. Blocked property generally cannot be sold, moved, or used while it is under US control. The title does not say exactly who is covered or why, so details are limited here.",
+ "who_it_affects": [
+  {
+   "group": "People and organizations named or targeted under the order",
+   "how": "Their property within US reach would be frozen and could not be used or transferred."
+  },
+  {
+   "group": "US banks, businesses, and individuals",
+   "how": "They would generally be barred from dealing in property belonging to the targeted people or groups."
+  }
+ ],
+ "when_it_takes_effect": "Signed August 30, 2010; the source does not state a separate effective date.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

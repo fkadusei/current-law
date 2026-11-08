@@ -1,0 +1,20 @@
+{
+ "headline": "Clinton order removes the Naval Special Warfare Development Group from the federal labor-management relations program.",
+ "what_it_does": "This executive order takes the Naval Special Warfare Development Group, a Navy special operations unit, out of the federal program that covers labor unions and collective bargaining for government workers. As a result, federal civilian employees in this unit would not be covered by that program's union and bargaining rules. No summary was provided, so details beyond the title are limited.",
+ "who_it_affects": [
+  {
+   "group": "Federal civilian employees at the Naval Special Warfare Development Group",
+   "how": "They are excluded from the federal labor-management relations program, which covers union representation and collective bargaining."
+  },
+  {
+   "group": "Federal employee labor unions",
+   "how": "They would no longer be able to represent or bargain for workers in this unit under the program."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

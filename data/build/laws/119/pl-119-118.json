@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Health",
  "sponsor": "Sen. Collins, Susan M. [R-ME]",
- "official_summary": null,
+ "official_summary": "<p><strong>Kay Hagan Tick Reauthorization Act</strong></p><p>This act reauthorizes through FY2030 activities of the Centers for Disease Control and Prevention to address vector-borne diseases (e.g., diseases spread by bites from ticks or mosquitoes). These activities include (1) a national strategy, (2) grants for regional centers of excellence, and (3) cooperative agreements with state, local, and tribal health departments to increase capacity for preventing and responding to vector-borne diseases.</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-119s2398enr/uslm/BILLS-119s2398enr.xml"
@@ -39,5 +39,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Law extends CDC programs fighting diseases spread by ticks and mosquitoes through fiscal year 2030.",
+  "what_it_does": "This law renews the authority for the Centers for Disease Control and Prevention (CDC) to run programs on diseases spread by bites from ticks or mosquitoes, such as Lyme disease. It keeps these programs going through fiscal year 2030. The programs include a national strategy, grants for regional centers of excellence, and agreements with state, local, and tribal health departments to help them prevent and respond to these diseases.",
+  "who_it_affects": [
+   {
+    "group": "State, local, and tribal health departments",
+    "how": "They can keep getting CDC cooperative agreements to build their ability to prevent and respond to tick- and mosquito-borne diseases."
+   },
+   {
+    "group": "Regional centers of excellence for vector-borne diseases",
+    "how": "They remain eligible for CDC grants to support their work on these diseases."
+   },
+   {
+    "group": "People who live in or visit areas with ticks or mosquitoes",
+    "how": "They may benefit from continued public health work to prevent and respond to diseases spread by these bites."
+   }
+  ],
+  "when_it_takes_effect": "Enacted September 30, 2026; programs are reauthorized through fiscal year 2030.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

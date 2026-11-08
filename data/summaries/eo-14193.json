@@ -1,0 +1,24 @@
+{
+ "headline": "Executive order places new import taxes (duties) tied to concerns about illegal drugs crossing the US-Canada border.",
+ "what_it_does": "The order imposes duties, which are taxes on imported goods, linked to the flow of illegal drugs across the northern border with Canada. The title does not say which goods are covered, how large the duties are, or how long they last.",
+ "who_it_affects": [
+  {
+   "group": "US businesses that import goods from Canada",
+   "how": "They may have to pay new duties on goods brought into the country."
+  },
+  {
+   "group": "Canadian companies that sell to US buyers",
+   "how": "Their goods may cost more to sell in the US because of the added duties."
+  },
+  {
+   "group": "US consumers",
+   "how": "Prices for some imported products could change if the duties are passed on to buyers."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

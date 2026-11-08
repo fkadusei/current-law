@@ -1,0 +1,24 @@
+{
+ "headline": "Law requires the FAA to set up a task force on pilot safety notices and build a new notice system with a backup by September 2024.",
+ "what_it_does": "The law tells the Federal Aviation Administration (FAA) to create a task force to study how it publishes NOTAMs. These are notices that warn pilots about unusual conditions in the airspace system, such as a closed runway. The task force must review current methods and rules, find better ways to organize and present the information, and report recommendations to Congress. By September 30, 2024, the FAA must finish putting in place a federal NOTAM system and a backup system, and brief Congress on a plan to make the format more consistent with international practice.",
+ "who_it_affects": [
+  {
+   "group": "Pilots and flight crews",
+   "how": "They may receive flight safety notices in a new format meant to make important information easier to review and remember."
+  },
+  {
+   "group": "Federal Aviation Administration",
+   "how": "The agency must form a task force, build a new notice system with a backup, and report to Congress by set deadlines."
+  },
+  {
+   "group": "Airlines and other aircraft operators",
+   "how": "They would rely on the new federal notice system and its backup for flight planning in the U.S. and abroad."
+  }
+ ],
+ "when_it_takes_effect": "Enacted June 3, 2023; the FAA must finish the new NOTAM system and backup by September 30, 2024.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

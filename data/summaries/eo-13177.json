@@ -1,0 +1,24 @@
+{
+ "headline": "Clinton order set up a national commission and a presidential council to study \"offsets\" in defense and commercial trade.",
+ "what_it_does": "Based on its title, this order created two groups. One is a National Commission to look at offsets in defense trade. Offsets are deals where a country buying US goods, such as military equipment, requires the seller to give something back, like local jobs or investment. The other is a President's Council to look at offsets in commercial, or non-military, trade.",
+ "who_it_affects": [
+  {
+   "group": "US defense contractors that sell to foreign governments",
+   "how": "Their use of offset deals in foreign sales was set to be studied by the new national commission."
+  },
+  {
+   "group": "US companies that export commercial goods",
+   "how": "Offset deals in their non-military sales abroad were set to be reviewed by the new presidential council."
+  },
+  {
+   "group": "Federal agencies involved in trade and defense",
+   "how": "They would likely take part in or support the work of the new commission and council."
+  }
+ ],
+ "when_it_takes_effect": "Signed December 4, 2000",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

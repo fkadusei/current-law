@@ -1,0 +1,24 @@
+{
+ "headline": "Executive order signed in 2020 targets US investments in securities that help fund companies linked to China's military.",
+ "what_it_does": "Based on its title, this order treats investments in certain securities, such as stocks, as a threat when they provide money to companies tied to China's military. It appears to set limits on investing in those companies. No summary was provided, so the specific rules, covered companies, and penalties cannot be confirmed here.",
+ "who_it_affects": [
+  {
+   "group": "Americans who invest in stocks and other securities",
+   "how": "They may face limits on buying or holding securities of companies the government links to China's military."
+  },
+  {
+   "group": "Investment funds, brokers, and financial firms",
+   "how": "They may need to change what they offer or hold to avoid the covered companies' securities."
+  },
+  {
+   "group": "Chinese companies identified as tied to the military",
+   "how": "They may lose access to money from American investors."
+  }
+ ],
+ "when_it_takes_effect": "Signed November 12, 2020; the available information does not say when its rules begin.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

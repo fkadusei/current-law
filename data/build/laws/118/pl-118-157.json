@@ -3520,5 +3520,32 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "New law requires federal building security committees to formally answer Federal Protective Service security recommendations within 90 days.",
+  "what_it_does": "When the Federal Protective Service (FPS) gives a security recommendation for a federal building, that building's Facility Security Committee must reply to the Department of Homeland Security (DHS) within 90 days. The reply must say whether the committee will adopt or reject the recommendation, explain the costs and benefits, and justify accepting the risk if it rejects it. DHS must track these replies, take reasonable steps to make sure committees respond, and report to Congress. The law applies only to General Services Administration buildings protected by FPS and other federal buildings that pay FPS for protection.",
+  "who_it_affects": [
+   {
+    "group": "Facility Security Committees in covered federal buildings",
+    "how": "They must respond in writing to each FPS security recommendation within 90 days, including cost details and reasons for any rejection."
+   },
+   {
+    "group": "Federal agencies that rent or own space in covered buildings",
+    "how": "Their representatives on the security committees must help decide on and explain responses to FPS recommendations."
+   },
+   {
+    "group": "Department of Homeland Security",
+    "how": "It must create a process to monitor recommendations and responses and send Congress a report 270 days after enactment and every year after that."
+   },
+   {
+    "group": "Congress",
+    "how": "It will receive yearly reports on security recommendations, how committees responded, and efforts to reduce risks."
+   }
+  ],
+  "when_it_takes_effect": "Enacted December 17, 2024; the first DHS report to Congress is due about 270 days later, and the law expires five years after enactment (December 2029).",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

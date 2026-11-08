@@ -36,5 +36,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Federal agencies that use working dogs must follow government auditors' recommendations to better protect the dogs' health and welfare.",
+  "what_it_does": "Federal agencies that run working dog programs, and contractors that manage those programs, must carry out the recommendations in an October 2022 Government Accountability Office report on the health and welfare of working dogs. The State Department must also make sure that working dogs it donates to foreign partners are handed over and monitored according to those same recommendations.",
+  "who_it_affects": [
+   {
+    "group": "Federal agencies with working dog programs",
+    "how": "They must put in place the GAO's recommendations on caring for the health and welfare of their dogs."
+   },
+   {
+    "group": "Contractors that manage federal working dog programs",
+    "how": "They must also follow the GAO's recommendations for the dogs in their care."
+   },
+   {
+    "group": "The State Department",
+    "how": "It must take steps to ensure that working dogs given to foreign partners are donated and monitored according to the GAO recommendations."
+   },
+   {
+    "group": "Foreign governments and partners that receive working dogs from the State Department",
+    "how": "Dog donations to them will be carried out and checked on under the GAO's recommended standards."
+   }
+  ],
+  "when_it_takes_effect": "Enacted December 23, 2024; the summary does not give a separate start date or deadline.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

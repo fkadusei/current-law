@@ -1,0 +1,24 @@
+{
+ "headline": "A 1997 executive order froze Sudanese government property and banned many transactions with Sudan.",
+ "what_it_does": "The order blocks, or freezes, property belonging to the government of Sudan that falls under US control. It also bars certain business and financial transactions with Sudan. The source material gives only the title, so details such as exceptions, penalties, and exact rules are not described here.",
+ "who_it_affects": [
+  {
+   "group": "The government of Sudan",
+   "how": "Its property under US control is frozen and cannot be used or moved."
+  },
+  {
+   "group": "US businesses and individuals who trade with or invest in Sudan",
+   "how": "They are barred from many transactions with Sudan, such as trade and financial dealings."
+  },
+  {
+   "group": "US banks and financial institutions",
+   "how": "They must freeze Sudanese government assets they hold and stop prohibited transactions."
+  }
+ ],
+ "when_it_takes_effect": "Signed November 3, 1997; the provided material does not state an exact start date.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

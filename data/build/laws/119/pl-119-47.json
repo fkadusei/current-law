@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Energy",
  "sponsor": "Sen. Sullivan, Dan [R-AK]",
- "official_summary": null,
+ "official_summary": "<p>This joint resolution reopens portions of the National Petroleum Reserve for oil and gas leasing. (The reserve is an approximately 23-million-acre area on Alaska’s North Slope.)</p><p>Specifically, the joint resolution nullifies a plan submitted by the Bureau of Land Management&nbsp;in a rule titled <em>National Petroleum Reserve in Alaska Integrated Activity Plan Record of Decision&nbsp;</em>and issued on April 25, 2022. The&nbsp;2022 plan replaced the 2020 plan and closed approximately 48% of the reserve to oil and gas leasing&nbsp;in order to protect certain surface resources and uses, such as protecting wildlife and providing subsistence&nbsp;for communities. Thus, the joint resolution removes the protections provided under the 2022 plan and reverts to the 2020 plan.</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-119sjres80enr/uslm/BILLS-119sjres80enr.xml"
@@ -4368,5 +4368,28 @@
   "House": "R",
   "Senate": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "Congress cancels a 2022 federal land plan for Alaska's National Petroleum Reserve, reopening areas it had closed to oil and gas leasing.",
+  "what_it_does": "This law uses the Congressional Review Act to cancel a 2022 Bureau of Land Management plan for the National Petroleum Reserve in Alaska, a roughly 23-million-acre area on Alaska's North Slope. The 2022 plan had closed about 48% of the reserve to oil and gas leasing to protect things like wildlife and subsistence uses by local communities. With the 2022 plan canceled, the earlier 2020 plan applies again, reopening those areas to possible leasing.",
+  "who_it_affects": [
+   {
+    "group": "Oil and gas companies",
+    "how": "Companies can again seek leases in parts of the reserve that the 2022 plan had closed."
+   },
+   {
+    "group": "Alaska Native and other North Slope communities",
+    "how": "The land-use protections for subsistence activities, such as hunting and fishing, that came with the 2022 plan are removed."
+   },
+   {
+    "group": "Bureau of Land Management",
+    "how": "The agency must manage the reserve under the 2020 plan instead of the 2022 plan."
+   }
+  ],
+  "when_it_takes_effect": "Enacted December 5, 2025",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

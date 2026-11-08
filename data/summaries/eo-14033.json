@@ -1,0 +1,20 @@
+{
+ "headline": "President Biden ordered sanctions on people found to be destabilizing the Western Balkans, freezing their US assets and barring their entry.",
+ "what_it_does": "This order allows the US government to block (freeze) property and interests in property in the United States belonging to certain people judged to be contributing to instability in the Western Balkans. It also suspends entry into the United States for those people. The title does not list which specific people or actions are covered, so details depend on the full order and later government decisions.",
+ "who_it_affects": [
+  {
+   "group": "People and groups the US government identifies as destabilizing the Western Balkans",
+   "how": "Their property in the US can be frozen and they can be barred from entering the country."
+  },
+  {
+   "group": "US businesses and individuals",
+   "how": "They would generally be blocked from dealing with property belonging to people sanctioned under the order."
+  }
+ ],
+ "when_it_takes_effect": "Signed June 8, 2021; the exact effective date is not given in the provided material.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

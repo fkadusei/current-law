@@ -1,0 +1,28 @@
+{
+ "headline": "New law requires the VA to review the maximum life insurance coverage for servicemembers and veterans every five years.",
+ "what_it_does": "The Department of Veterans Affairs must review the top coverage amount offered under two life insurance programs: Servicemembers' Group Life Insurance and Veterans' Group Life Insurance. The review must happen every five years and consider how much consumer prices rose over the previous five fiscal years. The VA must report on what it finds. The summary does not say the law itself changes the coverage amounts.",
+ "who_it_affects": [
+  {
+   "group": "Servicemembers enrolled in Servicemembers' Group Life Insurance",
+   "how": "The maximum amount of their life insurance coverage will be reviewed every five years with rising prices in mind."
+  },
+  {
+   "group": "Veterans enrolled in Veterans' Group Life Insurance",
+   "how": "The maximum amount of their life insurance coverage will be reviewed every five years with rising prices in mind."
+  },
+  {
+   "group": "Families and beneficiaries of insured servicemembers and veterans",
+   "how": "The payouts they could receive are covered by the new regular review."
+  },
+  {
+   "group": "Department of Veterans Affairs",
+   "how": "The agency must carry out the five-year reviews and report on the results."
+  }
+ ],
+ "when_it_takes_effect": "Enacted December 12, 2025; the summary does not give a specific start date for the first review.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

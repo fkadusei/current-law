@@ -1,0 +1,24 @@
+{
+ "headline": "Temporary funding law ends the partial Homeland Security shutdown and funds the department through May 22, 2026.",
+ "what_it_does": "This law gives the Department of Homeland Security (DHS) short-term funding, ending a partial DHS shutdown that began on February 14, 2026. Most DHS agencies and programs are funded at their 2025 levels until May 22, 2026, or until a full-year DHS spending law passes, whichever comes first. It also sets aside money for back pay to federal workers affected by the shutdown. It approves certain spending commitments made during the shutdown, such as those needed to protect life and property.",
+ "who_it_affects": [
+  {
+   "group": "Federal employees at DHS agencies",
+   "how": "They are covered by funds set aside for back pay, under current law, for the time they were affected by the shutdown."
+  },
+  {
+   "group": "DHS agencies and programs",
+   "how": "They can operate again, generally at their 2025 funding levels, through May 22, 2026, or until a full-year DHS funding law is enacted."
+  },
+  {
+   "group": "People and businesses that rely on DHS services",
+   "how": "DHS services affected by the shutdown can resume under the restored funding."
+  }
+ ],
+ "when_it_takes_effect": "Enacted April 30, 2026; funding lasts through May 22, 2026, or until a full-year DHS funding law is enacted, whichever comes first.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

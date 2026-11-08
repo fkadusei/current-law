@@ -1,0 +1,20 @@
+{
+ "headline": "President Bush ordered updates to the Manual for Courts-Martial, the rulebook used for military trials.",
+ "what_it_does": "This order makes changes to the Manual for Courts-Martial, which sets the rules for how military courts handle criminal cases. No summary was provided, so the specific changes are not described here. Presidents regularly update this manual through executive orders.",
+ "who_it_affects": [
+  {
+   "group": "Members of the US armed forces",
+   "how": "The rules used if they are charged and tried in a military court may change."
+  },
+  {
+   "group": "Military lawyers and judges",
+   "how": "They must follow the updated procedures and rules in courts-martial."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

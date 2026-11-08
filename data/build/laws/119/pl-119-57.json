@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Law",
  "sponsor": "Sen. Kennedy, John [R-LA]",
- "official_summary": null,
+ "official_summary": "<p><strong>Foundation of the Federal Bar Association Charter Amendments Act of 2025</strong></p><p>This act revises the federal charter for the Foundation of the Federal Bar Association to shift authority from the charter to the bylaws.</p><p>Specifically, it makes the following changes:</p><ul><li>removes the requirement for&nbsp;the foundation to be incorporated and domiciled in the District of Columbia;</li><li>requires the board of directors to decide, and specify in the bylaws, the location of the principal office;</li><li>specifies that the bylaws—not the charter—must provide for the terms of membership, the responsibilities of the board of directors, and the election of officers;</li><li>prohibits a director or officer, in his or her corporate capacity, from contributing to, supporting, or participating in political activities;</li><li>allows income and assets of the corporation to be used to reasonably compensate or reimburse expenses of an officer, director, or member; to award a grant to the Federal Bar Association chapter of an officer, director, or member; and to reasonably compensate employees;</li><li>expands a prohibition on loans for directors and officers to include members and employees; and</li><li>specifies that on dissolution or final liquidation, any remaining assets must be distributed as provided by the board of directors instead of deposited in the Treasury.</li></ul>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-119s616enr/uslm/BILLS-119s616enr.xml"
@@ -36,5 +36,36 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Law updates the federal charter of the Foundation of the Federal Bar Association, moving many rules from the charter into the group's own bylaws.",
+  "what_it_does": "The law changes the congressional charter for the Foundation of the Federal Bar Association. It drops the requirement that the foundation be based in Washington, D.C., and lets its board choose its main office location. Membership terms, board duties, and officer elections will now be set in the bylaws instead of the charter. It also changes rules on pay, grants, loans, political activity, and what happens to the foundation's assets if it closes.",
+  "who_it_affects": [
+   {
+    "group": "Foundation of the Federal Bar Association",
+    "how": "The foundation gains more control over its own rules through its bylaws and is no longer required to be based in Washington, D.C."
+   },
+   {
+    "group": "Foundation officers, directors, and members",
+    "how": "They may receive reasonable pay or expense reimbursement, cannot take part in political activities in their official roles, and members are now barred from receiving loans from the foundation."
+   },
+   {
+    "group": "Foundation employees",
+    "how": "The foundation may pay them reasonable compensation, but they are now barred from receiving loans from it."
+   },
+   {
+    "group": "Federal Bar Association chapters",
+    "how": "A chapter connected to a foundation officer, director, or member may receive grants from the foundation."
+   },
+   {
+    "group": "U.S. Treasury",
+    "how": "If the foundation closes, its remaining assets will be distributed as the board decides instead of going to the Treasury."
+   }
+  ],
+  "when_it_takes_effect": "Enacted December 12, 2025; the summary does not state a separate effective date.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

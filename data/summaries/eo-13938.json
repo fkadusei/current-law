@@ -1,0 +1,24 @@
+{
+ "headline": "A 2020 executive order directing federal officials to allow more prescription drugs to be imported into the US, with the stated goal of lowering prices.",
+ "what_it_does": "Based on its title, this order tells federal agencies to take steps to increase the importation of prescription drugs into the United States. The stated purpose is to lower drug prices for patients in the US. No summary was provided, so the specific methods, conditions, and agencies involved are not described here.",
+ "who_it_affects": [
+  {
+   "group": "People who buy prescription drugs in the US",
+   "how": "The order aims to make lower-priced imported drugs more available to them."
+  },
+  {
+   "group": "Drug makers, importers, and pharmacies",
+   "how": "They may face new or changed federal rules about bringing drugs in from other countries."
+  },
+  {
+   "group": "Federal health regulators",
+   "how": "They are directed to act on expanding drug importation."
+  }
+ ],
+ "when_it_takes_effect": "Signed July 24, 2020; specific deadlines for agency action are not stated in the available material.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

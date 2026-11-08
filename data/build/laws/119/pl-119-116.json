@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Transportation and Public Works",
  "sponsor": "Sen. Cruz, Ted [R-TX]",
- "official_summary": null,
+ "official_summary": "<p><strong>Modernizing Access to Our Public Oceans Act</strong></p><p>This act&nbsp;directs the National Oceanic and Atmospheric Administration (NOAA) to standardize and publish geospatial data related to public recreational use of federal waterways (e.g., boating and fishing).</p><p>Under the act, NOAA must consult with relevant stakeholders (including state and local governments, Indian tribes, and Native Hawaiian organizations) to develop and adopt standards for the coordination and dissemination of geospatial data relating to fishing restrictions and recreational vessels' use of federal waterways, including the exclusive economic zone of the United States (EEZ). (The EEZ generally includes waters between 3 and 200 miles seaward from the U.S. coastline.)</p><p>Within four years after the act is enacted, NOAA must provide geographic information system data on a public website that identifies and describes the locations where and conditions under which certain recreational activities are restricted in federal waterways. Specifically, the website must identify (1) locations where fishing restrictions are imposed, (2) areas in the EEZ with restrictions on specified recreational vessel types, and (3) federally protected areas (e.g., National Marine Sanctuaries). NOAA must also continue to provide digitized navigation information related to the EEZ and make the information available on the website to the extent practicable.</p><p>The act allows NOAA to coordinate and partner with nonfederal entities to carry out this act. It also directs NOAA to work with other federal agencies to ensure compatibility and interoperability among federal databases with respect to collecting and disseminating geospatial data related to the public outdoor recreational use of the EEZ.</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-119s759enr/uslm/BILLS-119s759enr.xml"
@@ -39,5 +39,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "New law requires NOAA to publish online maps showing where fishing and recreational boating are restricted in federal ocean waters.",
+  "what_it_does": "The law directs the National Oceanic and Atmospheric Administration (NOAA) to set common standards for map data about fishing limits and recreational boat use in federal waters. Within four years, NOAA must post this data on a public website showing where fishing is restricted, where certain types of recreational boats are limited, and where federally protected areas like National Marine Sanctuaries are. NOAA must keep providing digital navigation information for federal ocean waters and add it to the website where practical. NOAA may partner with non-federal groups and must work with other federal agencies so their databases work together.",
+  "who_it_affects": [
+   {
+    "group": "Recreational anglers",
+    "how": "They will be able to look up online where and when fishing is restricted in federal waters."
+   },
+   {
+    "group": "Recreational boaters",
+    "how": "They will be able to find maps showing areas in federal ocean waters where certain types of recreational boats are restricted."
+   },
+   {
+    "group": "State and local governments, Indian tribes, and Native Hawaiian organizations",
+    "how": "NOAA must consult with them when developing the data standards."
+   },
+   {
+    "group": "Federal agencies that collect ocean recreation data",
+    "how": "They must work with NOAA to make their databases compatible with one another."
+   }
+  ],
+  "when_it_takes_effect": "Enacted September 25, 2026; NOAA must have the public website data available within four years of enactment.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

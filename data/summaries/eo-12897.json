@@ -1,0 +1,24 @@
+{
+ "headline": "Executive order sets rules for how federal agencies handle court orders to take money from federal workers' paychecks to pay debts.",
+ "what_it_does": "Based on its title, this order deals with garnishment, which is when part of a worker's pay is held back to pay a debt under a legal order. It covers how this process applies to people who work for the federal government. No summary was provided, so the exact details are not described here.",
+ "who_it_affects": [
+  {
+   "group": "Federal government employees",
+   "how": "Part of their pay may be withheld to pay debts when a valid legal order requires it."
+  },
+  {
+   "group": "People and businesses owed money by federal employees",
+   "how": "They may be able to collect debts through garnishment of a federal worker's pay."
+  },
+  {
+   "group": "Federal agencies",
+   "how": "They are expected to process garnishment orders against their employees' pay."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

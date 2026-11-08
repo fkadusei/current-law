@@ -1,0 +1,20 @@
+{
+ "headline": "Biden ends a national emergency that had allowed US sanctions on people connected to the International Criminal Court.",
+ "what_it_does": "This order ends a national emergency that a previous order declared about the International Criminal Court (ICC). That earlier emergency gave the government power to impose penalties, such as freezing assets, on certain people linked to the court's work. Ending the emergency removes the legal basis for those penalties under the earlier order.",
+ "who_it_affects": [
+  {
+   "group": "International Criminal Court officials and staff",
+   "how": "People tied to the court who were targeted or could be targeted under the earlier emergency are no longer subject to sanctions under it."
+  },
+  {
+   "group": "US banks, businesses, and individuals",
+   "how": "They no longer face restrictions under the earlier emergency on dealing with people who had been sanctioned under it."
+  }
+ ],
+ "when_it_takes_effect": "April 1, 2021",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

@@ -42,5 +42,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "New law lets American Samoa amend its own territorial constitution by majority vote without needing a separate act of Congress.",
+  "what_it_does": "This law repeals an earlier federal rule that required an act of Congress before any change to American Samoa's constitution could take effect. With that rule gone, the people of American Samoa can approve changes to their constitution through their own process. Congress still keeps its overall power over US territories under the US Constitution.",
+  "who_it_affects": [
+   {
+    "group": "Residents and voters of American Samoa",
+    "how": "They can approve changes to their territorial constitution by majority vote without waiting for Congress to pass a law."
+   },
+   {
+    "group": "American Samoa's territorial government",
+    "how": "Constitutional changes it proposes no longer need separate congressional approval to take effect."
+   },
+   {
+    "group": "US Secretary of the Interior",
+    "how": "The Secretary keeps a role in overseeing American Samoa's constitution under a 1951 executive order, now without the extra step of congressional action."
+   }
+  ],
+  "when_it_takes_effect": "Enacted January 4, 2025; no separate effective date is given in the summary.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

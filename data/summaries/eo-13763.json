@@ -1,0 +1,16 @@
+{
+ "headline": "Sets the order of EPA officials who would temporarily lead the agency if top leaders cannot serve.",
+ "what_it_does": "This executive order lists which Environmental Protection Agency officials would step in, and in what order, to act as the agency's head if the Administrator and other top leaders die, resign, or cannot do the job. Orders like this help the agency keep running without a gap in leadership. The title alone does not show which specific positions are on the list.",
+ "who_it_affects": [
+  {
+   "group": "Senior EPA officials",
+   "how": "Certain officials may be called on to serve as acting head of the agency if the positions above them are empty or those leaders are unable to serve."
+  }
+ ],
+ "when_it_takes_effect": "Not stated in the title; orders like this usually take effect when signed, which was January 13, 2017.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

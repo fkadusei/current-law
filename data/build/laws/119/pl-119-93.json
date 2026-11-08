@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Native Americans",
  "sponsor": "Rep. Begich, Nicholas [R-AK-At Large]",
- "official_summary": null,
+ "official_summary": "<p><strong>Cape Fox Land Entitlement Finalization Act of 2025</strong></p><p>This act waives a statutory core township selection requirement for the Cape Fox Corporation and allows Cape Fox to receive&nbsp;other lands to fulfill its remaining land entitlement. Cape Fox is an Alaska Native village corporation for the Alaska Native village of Saxman, Alaska.</p><p>Specifically, the act states that Cape Fox shall not be required to receive its previously selected land of approximately 185 acres located within the township in which the Alaska Native village of Saxman, Alaska, is located. Instead, the act allows Cape Fox to receive&nbsp;land outside of Cape Fox's current exterior selection boundary upon written notice of the new selection to the Department of the Interior.&nbsp;</p><p>In particular, if Cape Fox submits written notice of its selection of approximately&nbsp;180 acres of surface land within the&nbsp;Tongass National Forest in Alaska to Interior within 90 days of the act's enactment, then Interior must convey the federal land to Cape Fox. Upon conveyance of the surface estate of the federal land to Cape Fox, Interior must convey the subsurface estate of the federal land to Sealaska Corporation (the Alaska Native regional corporation representing southeastern Alaska).</p><p>The act reserves a public access easement on the federal land conveyed to Cape Fox and Sealaska.</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2815enr/uslm/BILLS-119hr2815enr.xml"
@@ -42,5 +42,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Law lets Cape Fox Corporation, an Alaska Native village corporation, finish its land claim using about 180 acres of Tongass National Forest land.",
+  "what_it_does": "Cape Fox no longer has to take about 185 acres it had selected in the township around the village of Saxman, Alaska. Instead, it can choose land outside its current selection boundary to complete its remaining land entitlement. If Cape Fox sends written notice to the Interior Department within 90 days choosing about 180 acres of surface land in the Tongass National Forest, Interior must transfer that land. The underground rights go to Sealaska Corporation, and a public access easement is kept on the land.",
+  "who_it_affects": [
+   {
+    "group": "Cape Fox Corporation and its Alaska Native shareholders from Saxman",
+    "how": "They can receive about 180 acres of Tongass National Forest surface land in place of land they had selected near Saxman."
+   },
+   {
+    "group": "Sealaska Corporation",
+    "how": "It receives the subsurface (underground) rights to the land conveyed to Cape Fox."
+   },
+   {
+    "group": "Members of the public who use the Tongass National Forest",
+    "how": "The transferred land leaves federal ownership, but a public access easement is kept on it."
+   },
+   {
+    "group": "The Department of the Interior",
+    "how": "It must transfer the land if Cape Fox gives written notice within 90 days."
+   }
+  ],
+  "when_it_takes_effect": "Enacted May 19, 2026; Cape Fox has 90 days after enactment to send written notice of its selection.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

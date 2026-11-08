@@ -1,10 +1,16 @@
 ---
 import Base from "../layouts/Base.astro";
+import { allLaws, executiveOrders } from "../lib/data.js";
+const base = import.meta.env.BASE_URL.replace(/\/$/, "");
+const laws = allLaws(), eos = executiveOrders();
+const first = laws.reduce((a, l) => (l.enacted && l.enacted < a ? l.enacted : a), "9999").slice(0, 4);
+const voted = laws.filter((l) => l.recorded_vote).length;
 ---
 <Base title="About">
+  <section slot="hero" class="page-hero"><div class="wrap"><p class="eyebrow-label">About this site</p><h1>Every federal law, in plain English</h1><p>Who voted for it, who signed it, and what it means for you. Built from official public records.</p></div></section>
+  <div class="about">
   <article class="card pad prose">
-    <h1>About Current Law</h1>
-    <p>Current Law shows every US federal law since 1973: what it does in plain English, how each member of the House and Senate voted, and which President signed it. It also lists executive orders, which a President issues without a vote in Congress.</p>
+    <p class="lead">Current Law shows every US federal law since 1973: what it does in plain English, how each member of the House and Senate voted, and which President signed it. It also lists executive orders, which a President issues without a vote in Congress.</p>
     <h2>How the colors work</h2>
     <p>Each law is colored by the party that supplied most of its "yes" votes, counting the House and Senate together. <span class="party-D"><strong>Blue</strong></span> means most yes votes came from Democrats; <span class="party-R"><strong>red</strong></span> means most came from Republicans. The darker the color, the more one-sided the vote: the lightest shade is close to an even split, and the darkest means only one party voted yes.</p>
     <p>This can differ from which party controlled Congress, so each law shows both. For example, a law can be labeled "Republican House" but "Passed by a Democratic majority."</p>
@@ -24,9 +30,37 @@ import Base from "../layouts/Base.astro";
       <li>Independents are counted with Democrats when deciding which party controlled a chamber, since almost all of them caucused with Democrats.</li>
     </ul>
   </article>
+  <aside class="card pad facts">
+    <h2>On the site now</h2>
+    <dl>
+      <div><dt>{laws.length.toLocaleString()}</dt><dd>laws, {first} to today</dd></div>
+      <div><dt>{voted.toLocaleString()}</dt><dd>with a full roll-call vote record</dd></div>
+      <div><dt>{eos.length.toLocaleString()}</dt><dd>executive orders since 1994</dd></div>
+    </dl>
+    <p class="muted small">Laws from 1973 to {Number(first) - 1} are being added.</p>
+    <div class="cta">
+      <a class="btn" href={`${base}/calendar/`}>Browse by date</a>
+      <a class="btn ghost" href={`${base}/presidents/`}>Browse by President</a>
+    </div>
+  </aside>
+  </div>
 </Base>
 <style>
   .pad { padding: 24px; }
+  .about { display: grid; grid-template-columns: minmax(0, 760px) 300px; gap: 20px; align-items: start; }
+  @media (max-width: 960px) { .about { grid-template-columns: 1fr; } }
+  .facts { position: sticky; top: 96px; }
+  .facts h2 { margin: 0 0 10px; font-size: 1.15rem; }
+  .facts dl { margin: 0; display: grid; gap: 12px; }
+  .facts dl div { padding-bottom: 10px; border-bottom: 1px solid var(--border); }
+  .facts dt { font-size: 1.6rem; font-weight: 800; line-height: 1.1; }
+  .facts dd { margin: 2px 0 0; color: var(--muted); font-size: .9rem; }
+  .small { font-size: .85rem; }
+  .cta { display: flex; flex-direction: column; gap: 8px; margin-top: 12px; }
+  .btn { display: block; text-align: center; padding: 10px 14px; border-radius: 10px; font-weight: 700; text-decoration: none; background: var(--navy); color: #fff; }
+  .btn.ghost { background: var(--surface-2); color: var(--text); }
   .prose { max-width: 760px; }
-  .prose h2 { margin-top: 1.5rem; }
+  .prose h2 { margin-top: 1.6rem; }
+  .prose h2:first-of-type { margin-top: 1.2rem; }
+  .lead { font-size: 1.1rem; margin-top: 0; }
 </style>

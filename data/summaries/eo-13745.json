@@ -1,0 +1,20 @@
+{
+ "headline": "President Obama hands a specific presidential duty to the head of the Office of Personnel Management.",
+ "what_it_does": "This order transfers, or delegates, a function that belongs to the President to the Director of the Office of Personnel Management (OPM), the agency that manages the federal civilian workforce. The title does not say which function is being delegated. Without more detail, its exact effects are unclear.",
+ "who_it_affects": [
+  {
+   "group": "The Director of the Office of Personnel Management",
+   "how": "The Director gains authority to carry out a task that the President would otherwise handle."
+  },
+  {
+   "group": "Federal civilian employees",
+   "how": "They may be affected if the delegated function involves federal workforce rules, but the title does not say how."
+  }
+ ],
+ "when_it_takes_effect": "Likely upon signing on October 31, 2016, though the source does not state this.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Economics and Public Finance",
  "sponsor": "Rep. Cole, Tom [R-OK-4]",
- "official_summary": null,
+ "official_summary": "<p><strong>Consolidated Appropriations Act, 2026</strong></p><p>This bill provides appropriations to several federal departments and agencies for the remainder of FY2026 and provides continuing FY2026 appropriations for the Department of Homeland Security (DHS) through February 13, 2026. It also extends various expiring programs and authorities.</p><p>Specifically, the bill includes 5 of the 12 regular FY2026 appropriations bills:</p><ul><li>the Department of Defense Appropriations Act, 2026;</li><li>the Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations&nbsp;Act, 2026;&nbsp;</li><li>the Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2026;</li><li>the Financial Services and General Government Appropriations Act, 2026; and</li><li>the National Security, Department of State, and Related Programs Appropriations Act, 2026.</li></ul><p>The departments, agencies, and activities funded in the bill include</p><ul><li>the&nbsp;Department of Defense,</li><li>the Department of Labor,</li><li>the Department of Health and Human Services,</li><li>the Department of Education,</li><li>the Department of Transportation,</li><li>the Department of Housing and Urban Development,&nbsp;</li><li>the Department of the Treasury,</li><li>the Executive Office of the President,</li><li>the judiciary,</li><li>the District of Columbia,</li><li>the Department of State and related programs,</li><li>the administration and oversight of foreign assistance programs, &nbsp;</li><li>bilateral economic assistance,</li><li>international security assistance,</li><li>multilateral assistance,</li><li>export and investment assistance, and</li><li>several related and independent agencies.</li></ul><p>In addition, the bill includes a continuing resolution (CR) that provides continuing FY2026 appropriations to DHS through the earlier of February 13, 2026, or the enactment of the DHS appropriations act. The CR funds most DHS programs and activities at the FY2025 levels.</p><p>The bill also extends several expiring programs and authorities, including</p><ul><li>the U.S. Grain Standards Act;</li><li>the Commodity Futures Trading Commission’s whistleblower program;</li><li>the National Flood Insurance Program;</li><li>the Forest Service's participation in the Agriculture Conservation Experienced Services Program;</li><li>the Transportation Security Administration’s&nbsp;Reimbursable Screening Services Program;</li><li>the Motor Carrier Safety Advisory Committee;</li><li>several authorities and programs related to cybersecurity;</li><li>the technology modernization fund and board;</li><li>the U.S. Parole Commission;</li><li>the special assessment on nonindigent persons or entities convicted of certain offenses involving sexual abuse or human trafficking;</li><li>several immigration-related programs and authorities;</li><li>the authority for the U.S. Sentencing Commission to promulgate certain guidelines or amendments related to the use of unmanned aircraft;&nbsp;</li><li>certain bankruptcy fees;</li><li>trade preferences for Haiti and countries in sub-Saharan Africa;</li><li>the Temporary Assistance for Needy Families (TANF) program; and</li><li>several health care authorities and programs.&nbsp;</li></ul>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr7148enr/uslm/BILLS-119hr7148enr.xml"
@@ -4362,5 +4362,48 @@
   "House": "R",
   "Senate": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "Congress funds five major spending areas for the rest of fiscal year 2026, briefly funds Homeland Security, and extends many expiring programs.",
+  "what_it_does": "This law pays for many federal agencies through the end of fiscal year 2026, including Defense, Labor, Health and Human Services, Education, Transportation, Housing, Treasury, the courts, and the State Department. It funds the Department of Homeland Security only through February 13, 2026, mostly at 2025 levels, unless a full Homeland Security funding bill passes sooner. It also extends a long list of programs that were set to expire, such as the National Flood Insurance Program, the TANF cash assistance program for low-income families, trade benefits for Haiti and sub-Saharan Africa, and several health care and immigration programs.",
+  "who_it_affects": [
+   {
+    "group": "Federal employees and contractors at the funded agencies",
+    "how": "Their agencies have funding for the rest of the fiscal year, which keeps operations running."
+   },
+   {
+    "group": "Homeland Security employees and programs",
+    "how": "They are funded only through February 13, 2026, mostly at 2025 levels, unless a full-year bill passes first."
+   },
+   {
+    "group": "Homeowners and renters who buy federal flood insurance",
+    "how": "The National Flood Insurance Program is extended so policies can continue to be sold and renewed."
+   },
+   {
+    "group": "Low-income families who get TANF cash assistance",
+    "how": "The TANF program is extended so benefits and state grants can continue."
+   },
+   {
+    "group": "Businesses that trade with Haiti and sub-Saharan African countries",
+    "how": "Special trade preferences for goods from these countries are extended."
+   },
+   {
+    "group": "Military service members and the Defense Department",
+    "how": "Defense programs receive full-year funding for fiscal year 2026."
+   },
+   {
+    "group": "Travelers and the TSA",
+    "how": "TSA's program that lets outside groups pay for extra screening services is extended."
+   },
+   {
+    "group": "Grain producers and buyers",
+    "how": "The U.S. Grain Standards Act, which covers grain inspection and grading, is extended."
+   }
+  ],
+  "when_it_takes_effect": "Enacted February 3, 2026; most funding runs through the end of fiscal year 2026 (September 30, 2026), while Homeland Security funding runs through February 13, 2026, or until its full-year bill is passed.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

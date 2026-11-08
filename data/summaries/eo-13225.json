@@ -1,0 +1,20 @@
+{
+ "headline": "Bush order keeps certain federal advisory committees running past their scheduled end dates.",
+ "what_it_does": "This executive order extends the life of certain federal advisory committees. These are groups of experts and members of the public that give advice to the President or federal agencies. Without an extension, such committees would end on a set date. The title does not say which committees are covered or for how long.",
+ "who_it_affects": [
+  {
+   "group": "Members of the covered advisory committees",
+   "how": "They can keep serving and meeting because their committees continue instead of shutting down."
+  },
+  {
+   "group": "Federal agencies and the White House",
+   "how": "They keep getting advice from the continued committees."
+  }
+ ],
+ "when_it_takes_effect": "Signed September 28, 2001; the exact effective date and how long the extension lasts are not stated in the title.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

@@ -1,0 +1,20 @@
+{
+ "headline": "Obama order assigns certain presidential duties over military promotions and appointments to other officials.",
+ "what_it_does": "Based on its title, this order hands off some of the President's legal duties for promoting and appointing members of the armed forces. It likely names which officials, such as the Secretary of Defense, carry out these duties. No summary was provided, so the exact details are not clear.",
+ "who_it_affects": [
+  {
+   "group": "Members of the armed forces up for promotion or appointment",
+   "how": "Some of their promotion or appointment actions may be handled by officials other than the President."
+  },
+  {
+   "group": "Defense Department leaders",
+   "how": "They may take on duties that the law first gave to the President."
+  }
+ ],
+ "when_it_takes_effect": "Not stated in the material provided; orders like this usually take effect when signed (January 27, 2012).",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

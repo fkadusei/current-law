@@ -1,0 +1,20 @@
+{
+ "headline": "Executive order freezes US-held property of certain people found to be contributing to the conflict in the Democratic Republic of the Congo.",
+ "what_it_does": "This order blocks, or freezes, property and financial interests in the United States that belong to certain people tied to the conflict in the Democratic Republic of the Congo. Blocked property generally cannot be transferred, paid out, or used. No summary was provided, so details such as exactly who is named or how people are added are not covered here.",
+ "who_it_affects": [
+  {
+   "group": "People and groups found to be contributing to the conflict in the Democratic Republic of the Congo",
+   "how": "Their property and financial interests under US control are frozen."
+  },
+  {
+   "group": "US banks, businesses, and individuals",
+   "how": "They generally may not do business with or move property belonging to the people covered by the order."
+  }
+ ],
+ "when_it_takes_effect": "Signed October 27, 2006; exact effective date not stated in the source provided.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

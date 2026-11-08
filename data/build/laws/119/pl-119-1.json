@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Immigration",
  "sponsor": "Sen. Britt, Katie Boyd [R-AL]",
- "official_summary": null,
+ "official_summary": "<p><strong>Laken Riley Act</strong></p><p>This act requires the Department of Homeland Security (DHS) to detain certain non-U.S. nationals (<em>aliens</em> under federal law) who have been arrested for burglary, theft, larceny, shoplifting, assault of a law enforcement officer, or any crime that results in death or serious bodily injury to another person. The act also authorizes states to sue the federal government for decisions or alleged failures related to immigration enforcement.</p><p>Under this act, DHS must detain an individual who (1) is unlawfully present in the United States or did not possess the necessary documents when applying for admission; and (2) has been charged with, arrested for, convicted of, or admits to having committed acts that constitute the essential elements of the above crimes.</p><p>The act also authorizes state governments to sue for injunctive relief over certain immigration-related decisions or alleged failures by the federal government if the decision or failure caused the state or its residents harm, including financial harm of more than $100. Specifically, the state government may sue the federal government over a</p><ul><li>decision to release a non-U.S. national from custody;</li><li>failure to fulfill requirements relating to inspecting individuals seeking admission into the United States, including requirements related to asylum interviews;</li><li>failure to fulfill a requirement to stop issuing visas to nationals of a country that unreasonably denies or delays acceptance of nationals of that country;</li><li>violation of limitations on immigration parole, such as the requirement that parole be granted only on a case-by-case basis; or</li><li>failure to detain an individual who has been ordered removed from the United States.</li></ul>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-119s5enr/uslm/BILLS-119s5enr.xml"
@@ -4354,5 +4354,36 @@
   "House": "R",
   "Senate": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "The Laken Riley Act requires immigration detention for certain non-citizens charged with specific crimes and lets states sue over federal immigration decisions.",
+  "what_it_does": "The Department of Homeland Security (DHS) must detain non-citizens who are in the U.S. unlawfully, or who lacked required documents when seeking entry, if they are charged with, arrested for, convicted of, or admit to burglary, theft, larceny, shoplifting, assaulting a police officer, or a crime that kills or seriously injures someone. The law also lets state governments sue the federal government to stop certain immigration decisions or failures that harm the state or its residents, including money losses over $100. These include releasing someone from custody, not following rules on inspecting people at entry or on asylum interviews, misusing immigration parole, not detaining people ordered removed, and not stopping visas for countries that refuse to take back their citizens.",
+  "who_it_affects": [
+   {
+    "group": "Non-citizens in the U.S. unlawfully or without proper entry documents",
+    "how": "They must be held in DHS detention if charged with, arrested for, convicted of, or admitting to any of the listed crimes, even before a conviction."
+   },
+   {
+    "group": "Department of Homeland Security",
+    "how": "DHS loses discretion to release people in the covered group and can be sued by states over certain release, parole, inspection, and detention decisions."
+   },
+   {
+    "group": "State governments",
+    "how": "States gain the right to sue the federal government for court orders over certain immigration enforcement decisions that cause harm, including financial harm over $100."
+   },
+   {
+    "group": "Citizens of countries that refuse or delay taking back their nationals",
+    "how": "States can sue if the federal government fails to stop issuing visas to people from those countries as required."
+   },
+   {
+    "group": "People seeking asylum or immigration parole",
+    "how": "States can challenge in court federal actions that do not follow rules on inspection, asylum interviews, or case-by-case parole decisions."
+   }
+  ],
+  "when_it_takes_effect": "Enacted January 29, 2025; the summary does not list a separate start date.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

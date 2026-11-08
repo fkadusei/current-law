@@ -1,0 +1,24 @@
+{
+ "headline": "Executive order sets COVID-19 safety rules for companies that hold contracts with the federal government.",
+ "what_it_does": "This order, signed by President Biden, deals with COVID-19 safety protocols for federal contractors. Based on its title, it calls for businesses that work under federal government contracts to follow certain COVID safety steps. The source material gives no further detail on what those steps are or how they are enforced.",
+ "who_it_affects": [
+  {
+   "group": "Businesses with federal government contracts",
+   "how": "They would be expected to follow COVID-19 safety protocols set under this order."
+  },
+  {
+   "group": "Employees of federal contractors",
+   "how": "Their workplaces would be covered by the COVID-19 safety requirements the order sets for contractors."
+  },
+  {
+   "group": "Federal agencies that award contracts",
+   "how": "They would be involved in applying the safety requirements to the companies they contract with."
+  }
+ ],
+ "when_it_takes_effect": "Signed September 9, 2021; specific start dates are not given in the source material.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

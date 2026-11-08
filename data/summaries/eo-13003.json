@@ -1,0 +1,24 @@
+{
+ "headline": "Clinton creates a federal emergency board to look into labor disputes between major freight railroads and their track maintenance workers' union.",
+ "what_it_does": "This order sets up a Presidential Emergency Board to investigate disputes between several large railroads and their workers represented by the Brotherhood of Maintenance of Way Employes. The railroads include Conrail, Burlington Northern, CSX, Norfolk Southern, Santa Fe, Union Pacific, Chicago & North Western, and Kansas City Southern. Under federal railroad labor law, creating such a board generally starts a waiting period during which strikes and lockouts are put on hold while the board studies the dispute and reports back.",
+ "who_it_affects": [
+  {
+   "group": "Railroad track maintenance workers in the Brotherhood of Maintenance of Way Employes",
+   "how": "Their dispute with the railroads goes to a federal board for investigation, and a strike is likely delayed while the board does its work."
+  },
+  {
+   "group": "The listed freight railroads",
+   "how": "Their dispute with the union is reviewed by the board, and a lockout or changes to work terms are likely delayed during the review."
+  },
+  {
+   "group": "Businesses and travelers that rely on these rail lines",
+   "how": "Rail service may avoid disruption from a strike or lockout while the board investigates."
+  }
+ ],
+ "when_it_takes_effect": "May 15, 1996",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

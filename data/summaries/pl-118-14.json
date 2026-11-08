@@ -1,0 +1,28 @@
+{
+ "headline": "Law lets the federal government split management of the national organ transplant network among multiple organizations and removes a funding cap.",
+ "what_it_does": "The law changes how the Health Resources and Services Administration (HRSA) funds and runs the Organ Procurement and Transplantation Network, which connects the people and groups involved in organ donation and transplants. In the past, one organization held the contract to manage the network; now HRSA may give multiple grants, contracts, or cooperative agreements. It removes the limit on how much money can go toward running the network and requires the network's board of directors to be funded through separate awards. It also directs the Government Accountability Office to review how the network has been paid for over time, including registration fees.",
+ "who_it_affects": [
+  {
+   "group": "Organizations that manage or want to manage the organ transplant network",
+   "how": "More than one organization can now receive federal awards to help run the network, instead of a single contractor."
+  },
+  {
+   "group": "Health Resources and Services Administration (HRSA)",
+   "how": "The agency gains authority to divide network management among multiple awards and is no longer bound by a funding cap."
+  },
+  {
+   "group": "Organ donation and transplant professionals, such as transplant centers and organ procurement organizations",
+   "how": "They work within a network whose management and funding structure may change under the new rules, and the fees they pay may be reviewed by the GAO."
+  },
+  {
+   "group": "Government Accountability Office",
+   "how": "It must review the network's past financing, including the use of registration fees."
+  }
+ ],
+ "when_it_takes_effect": "Enacted September 22, 2023",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

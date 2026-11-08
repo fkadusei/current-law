@@ -1,6 +1,6 @@
 {
   // Cloudflare Workers deployment for usacurrentlaw.org.
-  // Static site from ./site/dist; the worker only handles /api/* (news headlines).
+  // Static site from ./site/dist; the worker handles /api/* (news headlines, chat assistant).
   "name": "current-law",
   "main": "./worker/index.js",
   "compatibility_date": "2026-11-01",
@@ -10,5 +10,10 @@
     "not_found_handling": "404-page",
     "html_handling": "auto-trailing-slash",
     "run_worker_first": ["/api/*"]
-  }
+  },
+  // Chat assistant: hard daily spending cap in US dollars. The Anthropic key is a
+  // Cloudflare secret named ANTHROPIC_API_KEY (set in the dashboard, never in code).
+  "vars": { "CHAT_DAILY_CAP_USD": "2" },
+  "durable_objects": { "bindings": [{ "name": "CHAT_GUARD", "class_name": "ChatGuard" }] },
+  "migrations": [{ "tag": "v1", "new_sqlite_classes": ["ChatGuard"] }]
 }

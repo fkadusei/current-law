@@ -39,5 +39,24 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Law extends and updates a federal grant program that helps pay for conservation projects for birds that migrate across the Americas.",
+  "what_it_does": "The law renews the Neotropical Migratory Bird Conservation Act's grant program through fiscal year 2028. It raises the limit on how much of a project's cost the federal government can pay. It also requires the Department of the Interior to report on an advisory group set up under the program, including who is on it if applicable.",
+  "who_it_affects": [
+   {
+    "group": "Groups and agencies that run bird conservation projects",
+    "how": "They can keep applying for federal grants through 2028, and the federal government may now cover a larger share of project costs."
+   },
+   {
+    "group": "Department of the Interior",
+    "how": "It must continue running the grant program and write a report on the program's advisory group."
+   }
+  ],
+  "when_it_takes_effect": "Enacted April 24, 2024; the program is reauthorized through fiscal year 2028.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

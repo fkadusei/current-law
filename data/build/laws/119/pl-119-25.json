@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Public Lands and Natural Resources",
  "sponsor": "Rep. Moulton, Seth [D-MA-6]",
- "official_summary": null,
+ "official_summary": "<p><strong>Salem Maritime National Historical Park Redesignation and Boundary Study Act</strong></p><p>This act redesignates the Salem Maritime National Historic Site in Massachusetts as the Salem Maritime National Historical Park. In addition, the act directs the Department of the Interior to conduct and report on a boundary study. The study must evaluate the suitability and feasibility of including in the National Park System, as part of the Salem Maritime National Historical Park, sites and resources in the study area associated with its maritime history, coastal defenses, and military history.</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2215enr/uslm/BILLS-119hr2215enr.xml"
@@ -3531,5 +3531,28 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "Renames the Salem Maritime site in Massachusetts a National Historical Park and orders a study on possibly expanding it.",
+  "what_it_does": "This law changes the name of the Salem Maritime National Historic Site in Massachusetts to the Salem Maritime National Historical Park. It also directs the Department of the Interior to study whether nearby sites tied to the area's maritime history, coastal defenses, and military history should be added to the park. The department must report its findings. The study itself does not add any land to the park.",
+  "who_it_affects": [
+   {
+    "group": "Department of the Interior (National Park Service)",
+    "how": "Must carry out and report on a study of whether certain nearby historic sites are suitable and practical to add to the park."
+   },
+   {
+    "group": "Owners and managers of historic sites in the Salem study area",
+    "how": "Their sites tied to maritime, coastal defense, or military history may be reviewed for possible future inclusion in the park."
+   },
+   {
+    "group": "Visitors to the Salem park",
+    "how": "The site they visit will carry a new official name, the Salem Maritime National Historical Park."
+   }
+  ],
+  "when_it_takes_effect": "Enacted July 15, 2025; the summary does not list a separate start date or a deadline for the study.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

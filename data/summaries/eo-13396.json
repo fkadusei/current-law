@@ -1,0 +1,20 @@
+{
+ "headline": "Executive order freezes US-held property of certain people found to be contributing to the conflict in Côte d'Ivoire.",
+ "what_it_does": "This order blocks, or freezes, property and assets under US control that belong to certain people tied to the conflict in Côte d'Ivoire, a country in West Africa. Blocked property generally cannot be sold, moved, or used. No summary was provided, so details such as who is named and how people are chosen are not covered here.",
+ "who_it_affects": [
+  {
+   "group": "People found to be contributing to the conflict in Côte d'Ivoire",
+   "how": "Their property and assets under US control are frozen."
+  },
+  {
+   "group": "US banks, businesses, and individuals",
+   "how": "They would generally have to freeze any property of the covered people that they hold and avoid dealing in it."
+  }
+ ],
+ "when_it_takes_effect": "Signed February 7, 2006; the title does not give a separate start date.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

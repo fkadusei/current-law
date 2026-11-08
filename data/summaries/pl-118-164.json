@@ -1,0 +1,20 @@
+{
+ "headline": "Law directs the federal government to sell certain land at Camp Williams, Utah, to the state of Utah at fair market value.",
+ "what_it_does": "This law tells the Bureau of Land Management (BLM) to transfer certain federal land inside the boundaries of Camp Williams, Utah, to the state of Utah. Utah must pay the BLM the fair market value of the land. The law's title refers to the Mountain View Corridor, a highway project in Utah, but the official summary does not describe how the land will be used.",
+ "who_it_affects": [
+  {
+   "group": "State of Utah",
+   "how": "Utah gains ownership of the specified federal land in exchange for paying its fair market value."
+  },
+  {
+   "group": "Bureau of Land Management",
+   "how": "The BLM must convey the land to Utah and receives payment for it."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on December 23, 2024; the summary does not give a deadline for the land transfer.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

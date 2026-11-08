@@ -1,0 +1,16 @@
+{
+ "headline": "Clinton order makes further changes to an earlier executive order, Executive Order 12981, which deals with export controls.",
+ "what_it_does": "This order changes the text of Executive Order 12981, which had already been amended before. Order 12981 set out how federal agencies review applications to export certain goods and technology. No summary was provided, so the exact changes are not described here.",
+ "who_it_affects": [
+  {
+   "group": "Federal agencies that review export license applications",
+   "how": "The order changes the rules in Executive Order 12981 that guide how these agencies work, though the specific changes are not stated in the source material."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

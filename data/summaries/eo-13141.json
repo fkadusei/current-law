@@ -1,0 +1,20 @@
+{
+ "headline": "A 1999 executive order requires the federal government to review the environmental effects of certain trade agreements.",
+ "what_it_does": "The order directs the federal government to study how certain trade agreements may affect the environment. These reviews are meant to inform the United States as it negotiates trade deals. Only the title was provided, so details such as which agreements are covered and how the reviews work are not described here.",
+ "who_it_affects": [
+  {
+   "group": "Federal trade negotiators and agencies",
+   "how": "They must carry out environmental reviews as part of preparing certain trade agreements."
+  },
+  {
+   "group": "Industries and workers affected by trade deals",
+   "how": "Trade agreements that affect them may be shaped in part by the results of environmental reviews."
+  }
+ ],
+ "when_it_takes_effect": "Signed November 16, 1999; executive orders typically take effect when signed.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

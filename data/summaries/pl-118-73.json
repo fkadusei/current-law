@@ -1,0 +1,24 @@
+{
+ "headline": "New law adds Alpine, Texas, and Mount Vernon, Washington, to the list of places where federal court must be held.",
+ "what_it_does": "This law adds Alpine, Texas, to the places where federal court must be held in the Pecos Division of the Western District of Texas. It also adds Mount Vernon, Washington, to the places where federal court must be held in the Western District of Washington.",
+ "who_it_affects": [
+  {
+   "group": "People with federal court cases in the Pecos Division of the Western District of Texas",
+   "how": "Federal court sessions must now also be held in Alpine, Texas."
+  },
+  {
+   "group": "People with federal court cases in the Western District of Washington",
+   "how": "Federal court sessions must now also be held in Mount Vernon, Washington."
+  },
+  {
+   "group": "Federal courts in these two districts",
+   "how": "They are now required to hold court in these added locations."
+  }
+ ],
+ "when_it_takes_effect": "The summary does not give a separate start date; the law was enacted on July 30, 2024.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

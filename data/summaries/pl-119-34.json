@@ -1,0 +1,28 @@
+{
+ "headline": "New law requires the Commerce Department to report yearly to Congress on export licenses involving restricted entities in arms-embargoed countries.",
+ "what_it_does": "The Bureau of Industry and Security (BIS), part of the Commerce Department, must send Congress a yearly report on license applications, other approval requests, and on-site checks for exports of controlled items to certain listed entities. These are entities in countries under U.S. arms embargoes that also appear on the Entity List or the Military End-User List. The report must include who applied, where the item is going, what BIS decided, and results of any compliance checks. The details are kept from the public except for overall statistics, and information that could harm an ongoing investigation is left out.",
+ "who_it_affects": [
+  {
+   "group": "Companies that apply for licenses to export controlled items",
+   "how": "Details about their license applications to restricted entities, including their names and BIS's decisions, will be reported to Congress but not made public."
+  },
+  {
+   "group": "Commerce Department's Bureau of Industry and Security",
+   "how": "The agency must prepare and send a new yearly report to Congress on these licenses and end-use checks."
+  },
+  {
+   "group": "Members of Congress",
+   "how": "They will receive regular information on how export licenses to restricted foreign entities are handled."
+  },
+  {
+   "group": "Foreign entities on the Entity List or Military End-User List in arms-embargoed countries",
+   "how": "Requests to send U.S.-controlled items to them will be tracked and reported to Congress each year."
+  }
+ ],
+ "when_it_takes_effect": "Enacted August 19, 2025; reports are required annually, but the summary does not give the first due date.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

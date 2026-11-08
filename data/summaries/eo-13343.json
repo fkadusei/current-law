@@ -1,0 +1,20 @@
+{
+ "headline": "Executive order closed federal government departments and agencies for one day on June 11, 2004.",
+ "what_it_does": "This order closed executive branch departments and agencies of the federal government on Friday, June 11, 2004. The title gives no further details, such as exceptions for certain offices or the reason for the closure.",
+ "who_it_affects": [
+  {
+   "group": "Federal government employees",
+   "how": "Most executive branch workers were given the day off when their offices closed on June 11, 2004."
+  },
+  {
+   "group": "People who use federal agency services",
+   "how": "Federal offices that serve the public were generally closed that day, so in-person services were likely unavailable."
+  }
+ ],
+ "when_it_takes_effect": "June 11, 2004",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

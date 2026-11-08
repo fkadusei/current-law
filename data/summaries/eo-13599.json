@@ -1,0 +1,24 @@
+{
+ "headline": "2012 order freezes property in US hands belonging to Iran's government and Iranian banks.",
+ "what_it_does": "This executive order blocks, or freezes, property and interests in property belonging to the Government of Iran and to Iranian financial institutions. Blocked property generally cannot be transferred, paid out, sold, or otherwise dealt in without US government permission. The details here come mainly from the order's title, since no summary was provided.",
+ "who_it_affects": [
+  {
+   "group": "The Government of Iran",
+   "how": "Its property under US jurisdiction is frozen and cannot be moved or used."
+  },
+  {
+   "group": "Iranian banks and other Iranian financial institutions",
+   "how": "Their property under US jurisdiction is frozen, cutting them off from those assets."
+  },
+  {
+   "group": "US banks, businesses, and individuals holding Iranian government or Iranian bank property",
+   "how": "They must freeze that property and generally cannot carry out transactions involving it without government permission."
+  }
+ ],
+ "when_it_takes_effect": "Signed February 5, 2012",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

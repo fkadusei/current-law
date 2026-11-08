@@ -1,0 +1,20 @@
+{
+ "headline": "Executive order lets the U.S. freeze property of certain people connected to the conflict in South Sudan.",
+ "what_it_does": "This order allows the U.S. government to block, or freeze, property and assets in the United States that belong to certain people connected to South Sudan. Once property is blocked, it generally cannot be moved, sold, or used. The title does not say exactly who is targeted or what actions lead to someone being named.",
+ "who_it_affects": [
+  {
+   "group": "People named under the order in connection with South Sudan",
+   "how": "Their property and assets under U.S. control can be frozen."
+  },
+  {
+   "group": "U.S. banks, businesses, and individuals",
+   "how": "They would generally be barred from dealing in the blocked property of the people named."
+  }
+ ],
+ "when_it_takes_effect": "Signed April 3, 2014; exact effective date not stated in the title.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

@@ -1,0 +1,24 @@
+{
+ "headline": "Executive order sets the rules for how the federal government classifies, protects, and declassifies national security information.",
+ "what_it_does": "This order sets up a system for deciding which government information about national security is kept secret. It covers how information gets classified, how it must be protected, and how it is later declassified and released. No summary was provided, so this description is based mainly on the title.",
+ "who_it_affects": [
+  {
+   "group": "Federal agencies and officials who handle national security information",
+   "how": "They must follow the order's rules for marking, protecting, and declassifying secret information."
+  },
+  {
+   "group": "Government employees and contractors with security clearances",
+   "how": "Their access to and handling of classified information is governed by these rules."
+  },
+  {
+   "group": "Researchers, journalists, and members of the public seeking government records",
+   "how": "The rules affect when and how classified records may become available to the public."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

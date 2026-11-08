@@ -1,0 +1,20 @@
+{
+ "headline": "Executive order sets new pay rates for certain federal workers, a routine yearly step taken near the end of each year.",
+ "what_it_does": "This order adjusts the pay rates for certain groups of people paid by the federal government. Orders with this title are usually issued each December to set pay schedules for the coming year. The title alone does not give the exact amounts or say which pay systems are covered.",
+ "who_it_affects": [
+  {
+   "group": "Federal civilian employees",
+   "how": "Their pay rates may be updated under the new schedules set by the order."
+  },
+  {
+   "group": "Members of the armed forces",
+   "how": "Military pay rates are often included in this yearly pay order, though the title does not confirm the details."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

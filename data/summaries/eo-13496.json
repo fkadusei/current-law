@@ -1,0 +1,20 @@
+{
+ "headline": "Executive order requires notices telling workers about their rights under federal labor laws.",
+ "what_it_does": "Based on its title, this order deals with making sure employees are told about their rights under federal labor laws. It is generally understood to require companies with federal government contracts to post notices informing workers of their rights under the National Labor Relations Act, such as the right to form or join a union. Details about how it is carried out are not included in the source provided.",
+ "who_it_affects": [
+  {
+   "group": "Companies with federal government contracts",
+   "how": "They would be required to post notices telling their workers about federal labor law rights."
+  },
+  {
+   "group": "Employees of federal contractors",
+   "how": "They would receive written notice of their rights under federal labor laws at their workplace."
+  }
+ ],
+ "when_it_takes_effect": "Signed January 30, 2009; specific effective dates for the requirements are not stated in the source provided.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

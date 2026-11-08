@@ -1,0 +1,20 @@
+{
+ "headline": "Executive order calls for reviewing the cases of people held at Guantanamo Bay and closing the detention facilities there.",
+ "what_it_does": "This order directs the federal government to review the cases of individuals held at the U.S. Naval Base at Guantanamo Bay, Cuba, and to decide what should happen to each of them. It also calls for closing the detention facilities at the base. No official summary was provided, so details such as deadlines and how the review works are not described here.",
+ "who_it_affects": [
+  {
+   "group": "People detained at Guantanamo Bay",
+   "how": "Their cases would be reviewed to decide what happens to each person, such as where they are held or sent."
+  },
+  {
+   "group": "Federal agencies that handle detention, including the military",
+   "how": "They would carry out the case reviews and work toward closing the detention facilities."
+  }
+ ],
+ "when_it_takes_effect": "Signed January 22, 2009",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

@@ -1,0 +1,20 @@
+{
+ "headline": "Executive order bars federal agencies from buying products made with forced or indentured child labor.",
+ "what_it_does": "This 1999 executive order directs federal agencies not to buy goods that were made, in whole or in part, using forced or indentured child labor. Only the title was provided, so details such as how products are identified or how the rule is enforced are not covered here.",
+ "who_it_affects": [
+  {
+   "group": "Federal agencies that buy goods",
+   "how": "They must avoid purchasing products made with forced or indentured child labor."
+  },
+  {
+   "group": "Companies that sell products to the federal government",
+   "how": "They may need to make sure the goods they supply were not made using forced or indentured child labor."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

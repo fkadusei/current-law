@@ -1,0 +1,20 @@
+{
+ "headline": "Executive order adjusting pay rates for certain federal workers, likely the yearly federal pay update for 2022.",
+ "what_it_does": "The title says this order adjusts certain federal rates of pay. Orders with this title are usually issued each December to set new pay tables for the coming year. These tables often cover federal civilian workers, members of the military, and some senior officials. No summary was provided, so the exact pay changes cannot be confirmed here.",
+ "who_it_affects": [
+  {
+   "group": "Federal civilian employees",
+   "how": "Their pay rates may be updated under new pay tables set by the order."
+  },
+  {
+   "group": "Members of the uniformed services",
+   "how": "Military pay rates may be adjusted if the order covers them, as these yearly orders usually do."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

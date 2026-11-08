@@ -1,0 +1,28 @@
+{
+ "headline": "Congress blocked Washington, DC's rewrite of its criminal laws, the Revised Criminal Code Act of 2022, from taking effect.",
+ "what_it_does": "This joint resolution cancels a DC Council law that would have rewritten many of the city's criminal laws. That DC law would have added legal definitions for parts of crimes, changed sentencing guidelines and penalties, and expanded the right to a jury trial for some misdemeanor charges. Because Congress rejected it, DC's existing criminal laws stay in place.",
+ "who_it_affects": [
+  {
+   "group": "People charged with crimes in Washington, DC",
+   "how": "They remain under DC's existing criminal laws and penalties, not the changes the DC Council had approved."
+  },
+  {
+   "group": "People facing certain misdemeanor charges in DC",
+   "how": "They do not get the wider right to a jury trial that the DC law would have provided."
+  },
+  {
+   "group": "DC Council and DC residents",
+   "how": "A law passed by their local government was overturned by Congress using its power to review DC legislation."
+  },
+  {
+   "group": "Prosecutors, defense lawyers, and judges in DC courts",
+   "how": "They continue working under the current criminal code rather than the revised definitions and sentencing rules."
+  }
+ ],
+ "when_it_takes_effect": "March 20, 2023, when the resolution became law.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

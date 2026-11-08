@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Finance and Financial Sector",
  "sponsor": "Sen. Scott, Tim [R-SC]",
- "official_summary": null,
+ "official_summary": "<p>This joint resolution nullifies the final rule issued by the Consumer Financial Protection Bureau titled <em>Overdraft Lending: Very Large Financial Institutions</em> and published on December 30, 2024. The rule revises provisions regarding charges for insufficient funds in a customer’s bank account (i.e., overdrafts) at very large financial institutions. Under&nbsp;the rule, these institutions must (1) cap overdraft charges at $5; (2) with justification, cap charges at a higher amount; or (3) handle overdrafts as credit and comply with applicable Truth in Lending Act disclosure requirements.</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-119sjres18enr/uslm/BILLS-119sjres18enr.xml"
@@ -4369,5 +4369,28 @@
   "House": "R",
   "Senate": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "Congress cancels a federal rule that would have limited overdraft fees at very large banks and credit unions.",
+  "what_it_does": "This law cancels a Consumer Financial Protection Bureau rule published on December 30, 2024. That rule would have required very large financial institutions to cap overdraft fees at $5, set a higher cap they could justify, or treat overdrafts as loans under Truth in Lending Act disclosure rules. With the rule canceled, those requirements do not take effect.",
+  "who_it_affects": [
+   {
+    "group": "Customers of very large banks and credit unions who overdraw their accounts",
+    "how": "Their overdraft fees will not be subject to the $5 cap or the other limits the canceled rule would have set."
+   },
+   {
+    "group": "Very large financial institutions",
+    "how": "They do not have to change how they charge for overdrafts or follow the loan disclosure rules the canceled rule would have required."
+   },
+   {
+    "group": "Consumer Financial Protection Bureau",
+    "how": "Its overdraft rule for very large institutions is voided, and under the Congressional Review Act it generally cannot issue a substantially similar rule without new approval from Congress."
+   }
+  ],
+  "when_it_takes_effect": "Enacted May 9, 2025; the rule is nullified as of enactment.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

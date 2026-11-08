@@ -1,0 +1,24 @@
+{
+ "headline": "Executive order changes the tariffs (import taxes) the US set on goods from Canada tied to concerns about illegal drugs crossing the northern border.",
+ "what_it_does": "This order amends an earlier executive order that put duties, or import taxes, on goods coming into the US from Canada. That earlier order linked the duties to the flow of illegal drugs across the northern border. No summary was provided, so the specific changes, such as new tariff rates or which goods are covered, cannot be confirmed from the title alone.",
+ "who_it_affects": [
+  {
+   "group": "US businesses that import goods from Canada",
+   "how": "The amount of import tax they pay on Canadian goods may change under the amended order."
+  },
+  {
+   "group": "Canadian companies that sell to US buyers",
+   "how": "Their products may face different duties when entering the US."
+  },
+  {
+   "group": "US consumers",
+   "how": "Prices of some Canadian-made products could change if the import taxes on them change."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

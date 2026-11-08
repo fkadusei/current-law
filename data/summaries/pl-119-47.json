@@ -1,0 +1,24 @@
+{
+ "headline": "Congress cancels a 2022 federal land plan for Alaska's National Petroleum Reserve, reopening areas it had closed to oil and gas leasing.",
+ "what_it_does": "This law uses the Congressional Review Act to cancel a 2022 Bureau of Land Management plan for the National Petroleum Reserve in Alaska, a roughly 23-million-acre area on Alaska's North Slope. The 2022 plan had closed about 48% of the reserve to oil and gas leasing to protect things like wildlife and subsistence uses by local communities. With the 2022 plan canceled, the earlier 2020 plan applies again, reopening those areas to possible leasing.",
+ "who_it_affects": [
+  {
+   "group": "Oil and gas companies",
+   "how": "Companies can again seek leases in parts of the reserve that the 2022 plan had closed."
+  },
+  {
+   "group": "Alaska Native and other North Slope communities",
+   "how": "The land-use protections for subsistence activities, such as hunting and fishing, that came with the 2022 plan are removed."
+  },
+  {
+   "group": "Bureau of Land Management",
+   "how": "The agency must manage the reserve under the 2020 plan instead of the 2022 plan."
+  }
+ ],
+ "when_it_takes_effect": "Enacted December 5, 2025",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

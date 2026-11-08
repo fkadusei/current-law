@@ -36,5 +36,36 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "New law lets EPA issue up to 15 permits for outside groups to clean up abandoned hardrock mines without taking on legal liability.",
+  "what_it_does": "The law creates a seven-year EPA pilot program for \"Good Samaritans\": people or groups who did not own, run, or pollute an abandoned hardrock mine and are not legally responsible for it. EPA may issue up to 15 permits letting them clean up mine waste, such as acid mine drainage, without being held liable under the Clean Water Act or the federal Superfund law (CERCLA) for pollution at the site. Applicants must show the project is low risk and that they have the money and resources to finish it, and EPA must deny the permit if a responsible owner or operator is found. EPA can also issue permits for testing a site first, and must report on the program within eight years.",
+  "who_it_affects": [
+   {
+    "group": "Nonprofits, conservation groups, companies, and local governments with no past tie to a mine",
+    "how": "They can apply for permits to clean up abandoned hardrock mines and be protected from liability under key federal pollution laws."
+   },
+   {
+    "group": "Communities near abandoned hardrock mines",
+    "how": "Mine sites near them may be cleaned up, and state, local, and tribal governments must be notified of cleanup applications."
+   },
+   {
+    "group": "State, local, and tribal governments",
+    "how": "They receive notice of permit applications and must be told by permit holders of any unplanned release of mine waste."
+   },
+   {
+    "group": "Federal land management agencies",
+    "how": "They get new Good Samaritan Mine Remediation Funds and can approve the sale of materials recovered from cleanups on federal land, with the money going toward cleanup costs."
+   },
+   {
+    "group": "Past or current owners and operators of abandoned mines",
+    "how": "Sites where EPA finds a responsible owner or operator cannot get Good Samaritan permits, so those parties remain responsible."
+   }
+  ],
+  "when_it_takes_effect": "Enacted December 17, 2024; the pilot program ends after seven years, and EPA must report on it within eight years.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

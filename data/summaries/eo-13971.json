@@ -1,0 +1,20 @@
+{
+ "headline": "Executive order targets apps and other software made or controlled by Chinese companies as a threat to the United States.",
+ "what_it_does": "This order treats certain apps and software developed or controlled by Chinese companies as a threat to the United States. Based on the title alone, it calls for federal action to address that threat. No summary was provided, so the specific apps, rules, penalties, and deadlines are not described here.",
+ "who_it_affects": [
+  {
+   "group": "Chinese companies that make apps or software",
+   "how": "Their apps and software available in the United States are the main target of the order."
+  },
+  {
+   "group": "People and businesses in the US that use apps from Chinese companies",
+   "how": "They could be affected if the order leads to limits on those apps."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

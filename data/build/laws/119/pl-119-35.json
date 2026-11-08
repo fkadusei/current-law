@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Armed Forces and National Security",
  "sponsor": "Rep. Smith, Christopher H. [R-NJ-4]",
- "official_summary": null,
+ "official_summary": "<p>This act designates the community-based outpatient clinic of the Department of Veterans Affairs in Toms River, New Jersey, as the Leonard G. “Bud” Lomell VA Clinic.</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2170enr/uslm/BILLS-119hr2170enr.xml"
@@ -39,5 +39,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A new law names a VA outpatient clinic in Toms River, New Jersey, after Leonard G. \"Bud\" Lomell.",
+  "what_it_does": "This act renames the Department of Veterans Affairs community-based outpatient clinic in Toms River, New Jersey. The clinic will be called the Leonard G. \"Bud\" Lomell VA Clinic. The law does not change the clinic's services, staffing, or hours based on the official summary provided.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law was enacted on September 5, 2025, and the renaming took effect on that date.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -1,0 +1,20 @@
+{
+ "headline": "Executive order addressing whether workers keep their jobs when a new company takes over certain federal contracts.",
+ "what_it_does": "Based on its title, this order deals with keeping qualified workers from losing their jobs when the federal government switches certain contracts from one company to another. It likely directs the new contractor to offer jobs to qualified workers who did the work under the old contract. No official summary was provided, so the exact contracts covered and the details are not confirmed here.",
+ "who_it_affects": [
+  {
+   "group": "Workers employed by companies holding certain federal contracts",
+   "how": "They may be offered jobs with the new company when the contract changes hands."
+  },
+  {
+   "group": "Companies that win certain federal contracts",
+   "how": "They may have to offer jobs to qualified workers from the previous contractor before hiring others."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

@@ -1,0 +1,24 @@
+{
+ "headline": "President Bush created a federal emergency board to look into labor disputes between Metro-North Railroad and some of its unionized workers.",
+ "what_it_does": "This order set up an emergency board to investigate disputes between Metro-North Railroad and certain employees represented by labor unions. Boards like this are typically created under the Railway Labor Act and report back to the President. The title does not name the unions or describe the specific issues in the dispute.",
+ "who_it_affects": [
+  {
+   "group": "Metro-North Railroad employees represented by the unions involved",
+   "how": "Their contract dispute with the railroad was sent to a federal board for investigation."
+  },
+  {
+   "group": "Metro-North Railroad management",
+   "how": "The railroad's dispute with these unions became subject to review by the federal board."
+  },
+  {
+   "group": "Commuters who ride Metro-North",
+   "how": "Boards like this are often used to delay strikes or other job actions while the dispute is reviewed, though the title alone does not confirm the effect on service."
+  }
+ ],
+ "when_it_takes_effect": "December 6, 2006",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

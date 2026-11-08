@@ -1,0 +1,20 @@
+{
+ "headline": "A 2007 order set out how the President read a Geneva Conventions rule on treating detainees, as applied to a CIA detention and interrogation program.",
+ "what_it_does": "The order gave the President's official reading of Common Article 3 of the Geneva Conventions, which sets basic rules for the humane treatment of people held in certain armed conflicts. It applied that reading to a detention and interrogation program run by the Central Intelligence Agency (CIA). The title alone does not give the specific rules or limits the order set.",
+ "who_it_affects": [
+  {
+   "group": "CIA officers and staff",
+   "how": "Their detention and interrogation work was to follow the President's reading of Common Article 3 set out in this order."
+  },
+  {
+   "group": "People held in the CIA detention program",
+   "how": "How they could be detained and questioned was governed by the standards described in this order."
+  }
+ ],
+ "when_it_takes_effect": "Signed July 20, 2007",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

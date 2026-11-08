@@ -1,0 +1,16 @@
+{
+ "headline": "President Trump signed an order changing which officials are assigned certain powers under the Defense Production Act.",
+ "what_it_does": "This order changes how some powers under the Defense Production Act are handed out to federal agencies or officials. The Defense Production Act lets the government take steps such as putting certain orders for key goods ahead of others and supporting production of materials it considers vital to national defense. No summary was provided, so the specific powers involved and the officials who gain or lose them are not known from the available information.",
+ "who_it_affects": [
+  {
+   "group": "Federal agencies and officials",
+   "how": "Some may gain or lose authority to carry out certain parts of the Defense Production Act."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

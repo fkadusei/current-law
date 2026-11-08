@@ -1,0 +1,24 @@
+{
+ "headline": "Executive order creates a new job category, called Schedule G, within the part of the federal workforce known as the excepted service.",
+ "what_it_does": "This order creates a new category of federal jobs called Schedule G. It places these jobs in the excepted service, which covers federal positions that are filled outside the standard competitive hiring process used for most government jobs. The title alone does not say which jobs would be included, how many, or what rules would apply to them.",
+ "who_it_affects": [
+  {
+   "group": "Federal government employees",
+   "how": "Some federal positions may be placed in the new Schedule G category, which could change how those jobs are filled and managed."
+  },
+  {
+   "group": "People applying for federal jobs",
+   "how": "Jobs placed in Schedule G would be filled outside the usual competitive hiring process."
+  },
+  {
+   "group": "Federal agencies",
+   "how": "Agencies gain a new job category they may use for certain positions."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

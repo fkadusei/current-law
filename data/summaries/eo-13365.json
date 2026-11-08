@@ -1,0 +1,20 @@
+{
+ "headline": "President Bush signed an order making the 2004 updates to the Manual for Courts-Martial, the rulebook for military trials.",
+ "what_it_does": "This order changes the Manual for Courts-Martial, which sets the rules and procedures for military trials under the Uniform Code of Military Justice. No summary was provided, so the specific changes are not described here. Presidents regularly issue orders like this to update the manual.",
+ "who_it_affects": [
+  {
+   "group": "Members of the U.S. armed forces",
+   "how": "Changes to the manual can affect how service members accused of crimes are charged, tried, and sentenced in military courts."
+  },
+  {
+   "group": "Military lawyers, judges, and commanders",
+   "how": "They must follow the updated rules when handling military justice cases."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

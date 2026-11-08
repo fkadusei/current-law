@@ -1,0 +1,24 @@
+{
+ "headline": "Executive order extends an earlier change to the \"reciprocal\" tariff rates the US charges on imports from other countries.",
+ "what_it_does": "This order extends a previous change to the \"reciprocal\" tariff rates, which are taxes the US places on goods imported from other countries. Based on the title, it keeps that earlier change in place for a longer time instead of letting it end. The source does not say which countries, products, or rates are involved, or for how long.",
+ "who_it_affects": [
+  {
+   "group": "US businesses that import goods",
+   "how": "The tariff rates they pay on imported goods may stay at the modified level for longer than first planned."
+  },
+  {
+   "group": "Foreign countries and companies that export to the US",
+   "how": "The tariff rates applied to their goods entering the US are affected by the extension."
+  },
+  {
+   "group": "Consumers who buy imported products",
+   "how": "Prices of some imported goods may be affected, since tariff costs can be passed on to buyers."
+  }
+ ],
+ "when_it_takes_effect": "Signed July 7, 2025; the source does not state the exact start or end dates of the extension.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

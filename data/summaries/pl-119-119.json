@@ -1,0 +1,24 @@
+{
+ "headline": "Social Security must give identity theft victims one point of contact to handle their case from start to finish.",
+ "what_it_does": "The Social Security Administration must provide a single point of contact for people whose Social Security number has been misused or whose card was lost in the mail or in transit. This contact must be a team or group of specially trained employees. They must track each case until it is resolved and work with other parts of the agency to fix problems as quickly as possible. Staff on the team can change, but the agency must keep records consistent and notify affected people when appropriate.",
+ "who_it_affects": [
+  {
+   "group": "People whose Social Security number has been stolen or misused",
+   "how": "They will have one specially trained team at Social Security handling their case until it is resolved."
+  },
+  {
+   "group": "People whose Social Security card was lost while being delivered",
+   "how": "They will get the same single point of contact to track and resolve their issue."
+  },
+  {
+   "group": "Social Security Administration employees",
+   "how": "The agency must set up and train a team to serve as the point of contact and keep procedures for continuity of records when staff change."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

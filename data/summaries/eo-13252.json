@@ -1,0 +1,24 @@
+{
+ "headline": "Presidential order removes certain federal government offices from the program that lets federal workers join unions and bargain collectively.",
+ "what_it_does": "This executive order excludes some federal agencies or offices from the Federal Labor-Management Relations Program. That program sets the rules for union representation and collective bargaining for most federal civilian employees. The title does not say which offices were excluded or why. Under federal law, a president may make such exclusions for units whose main work involves intelligence, investigations, or national security.",
+ "who_it_affects": [
+  {
+   "group": "Federal employees in the excluded offices",
+   "how": "They would no longer be covered by the federal program that allows union representation and collective bargaining at their workplace."
+  },
+  {
+   "group": "Federal employee unions",
+   "how": "They would lose the ability to represent or bargain for workers in the excluded offices."
+  },
+  {
+   "group": "Managers in the affected federal offices",
+   "how": "They would no longer have to follow federal labor-relations bargaining rules for employees in those offices."
+  }
+ ],
+ "when_it_takes_effect": "Signed January 7, 2002; the title does not state a separate effective date.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

@@ -1,0 +1,16 @@
+{
+ "headline": "President Biden cancels certain earlier presidential orders and directives.",
+ "what_it_does": "This executive order revokes, or cancels, certain earlier presidential actions so they no longer apply. The title does not say which actions were canceled, and no summary was provided. Any rules or programs created by those earlier actions would end or be changed as a result.",
+ "who_it_affects": [
+  {
+   "group": "Federal agencies",
+   "how": "Agencies would stop carrying out the earlier presidential actions that this order cancels."
+  }
+ ],
+ "when_it_takes_effect": "Signed February 24, 2021; executive orders usually take effect when signed unless they say otherwise.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

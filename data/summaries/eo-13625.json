@@ -1,0 +1,24 @@
+{
+ "headline": "A 2012 executive order aimed at making it easier for veterans, service members, and military families to get mental health care.",
+ "what_it_does": "This executive order directs the federal government to improve access to mental health services for people connected to the military. Only the title was provided, so the specific steps, agencies, and deadlines it sets are not described here.",
+ "who_it_affects": [
+  {
+   "group": "Veterans",
+   "how": "The order aims to make mental health services easier for veterans to get."
+  },
+  {
+   "group": "Active-duty service members",
+   "how": "The order aims to improve access to mental health care for people currently serving in the military."
+  },
+  {
+   "group": "Military families",
+   "how": "The order aims to make mental health services more available to the families of service members and veterans."
+  }
+ ],
+ "when_it_takes_effect": "Signed August 31, 2012; executive orders usually take effect when signed.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

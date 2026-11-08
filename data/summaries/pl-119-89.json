@@ -1,0 +1,24 @@
+{
+ "headline": "New law requires the FCC to screen companies applying for rural broadband funding to make sure they can actually build the networks.",
+ "what_it_does": "The Federal Communications Commission (FCC) must create a vetting process for applicants seeking money from programs that pay for broadband in high-cost areas, such as rural communities. Applicants must show they have the technical, financial, and operational ability to build the network and a reasonable business plan. The FCC must also look at each applicant's record of following the rules in other government broadband programs. After the FCC finalizes its rules, only applicants that meet the standards can receive funding, and the FCC must set financial penalties for applicants that default before they are approved to start receiving support.",
+ "who_it_affects": [
+  {
+   "group": "Internet service providers and other companies applying for high-cost universal service funding",
+   "how": "They must submit detailed plans and documents proving their abilities, and they could face financial penalties if they default during the review process."
+  },
+  {
+   "group": "People living in rural and other high-cost areas",
+   "how": "Broadband projects meant to serve them would be funded only through applicants that pass the FCC's new screening standards."
+  },
+  {
+   "group": "Federal Communications Commission",
+   "how": "The agency must write new rules to set up and run the vetting process and penalty system."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted May 11, 2026; the funding restrictions apply after the FCC finalizes its rules, and the summary does not give a deadline for that.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

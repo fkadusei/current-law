@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Armed Forces and National Security",
  "sponsor": "Rep. Dexter, Maxine [D-OR-3]",
- "official_summary": null,
+ "official_summary": "<p><strong>Focused Assistance and Skills Training for Veterans' Employment and Transition Success Act or the FAST VETS Act</strong></p><p>This act establishes conditions under which a veteran's individualized vocational rehabilitation plan (under the Veteran Readiness and Employment program) must be redeveloped. The&nbsp;program provides job training and employment-related services to veterans with service-connected disabilities.</p><p>Currently, the Department of Veterans Affairs (VA) must formulate and annually review an individualized vocational rehabilitation plan for veterans who have a serious employment handicap and have a reasonably feasible vocational goal.</p><p>The act provides that such plan must be redeveloped with the veteran if the VA determines the achievement of the long-range rehabilitation goals for the veteran are no longer feasible due to changes in the employment handicap of the veteran and are more likely under a different plan.</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr4446enr/uslm/BILLS-119hr4446enr.xml"
@@ -42,5 +42,24 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "New law requires the VA to redo a disabled veteran's job rehabilitation plan when changes in their disability make the current goals unrealistic.",
+  "what_it_does": "The VA's Veteran Readiness and Employment program gives job training and job help to veterans with service-connected disabilities. Veterans with a serious employment handicap get a personal vocational rehabilitation plan that the VA reviews each year. This law says the VA must work with the veteran to create a new plan if changes in the veteran's employment handicap make the long-term goals no longer reachable, and a different plan would make success more likely.",
+  "who_it_affects": [
+   {
+    "group": "Veterans with service-connected disabilities in the Veteran Readiness and Employment program",
+    "how": "Their personal job rehabilitation plan must be redone with them if changes in their disability make their current long-term goals no longer realistic."
+   },
+   {
+    "group": "Department of Veterans Affairs",
+    "how": "The VA must redevelop a veteran's plan with the veteran when it finds the current goals are no longer feasible and a different plan would work better."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

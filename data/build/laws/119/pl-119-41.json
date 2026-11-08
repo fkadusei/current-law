@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Transportation and Public Works",
  "sponsor": "Sen. Duckworth, Tammy [D-IL]",
- "official_summary": null,
+ "official_summary": "<p><strong>Bottles and Breastfeeding Equipment Screening Enhancement Act</strong></p><p>This bill directs the Transportation Security Administration to issue or update guidance to minimize the risk for contamination of breast milk, baby formula, purified deionized water for infants, juice, and related products that are subject to re-screening or additional screening, including by ensuring adherence to hygienic standards. Related products include ice packs, freezer packs, frozen gel packs, and other accessories required to cool breast milk, baby formula, and juice.</p><p>In addition, the bill directs the Department of Homeland Security Office of Inspector General to audit compliance with these requirements and submit a report to Congress.</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-119s260enr/uslm/BILLS-119s260enr.xml"
@@ -39,5 +39,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "New law requires TSA to update airport screening rules to reduce contamination of breast milk, baby formula, and related items.",
+  "what_it_does": "The law directs the Transportation Security Administration (TSA) to issue or update guidance to lower the risk of contaminating breast milk, baby formula, purified water for infants, juice, and similar items during extra screening at airports. This includes following hygiene standards. It also covers ice packs, freezer packs, gel packs, and other gear used to keep these items cool. The Department of Homeland Security's Inspector General must check whether TSA follows these rules and report to Congress.",
+  "who_it_affects": [
+   {
+    "group": "Parents and caregivers traveling with babies",
+    "how": "Formula, infant water, juice, and cooling packs they carry through airport security should be screened under updated hygiene guidance."
+   },
+   {
+    "group": "People who breastfeed or pump while traveling",
+    "how": "Breast milk and the gear used to keep it cold should be handled in ways meant to reduce contamination during extra screening."
+   },
+   {
+    "group": "TSA screening officers",
+    "how": "They will need to follow new or updated guidance on how to handle these items during re-screening or additional screening."
+   },
+   {
+    "group": "DHS Office of Inspector General",
+    "how": "It must audit TSA's compliance with the new requirements and report its findings to Congress."
+   }
+  ],
+  "when_it_takes_effect": "Signed into law on November 25, 2025; the summary does not give a specific deadline for the TSA guidance or the audit.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

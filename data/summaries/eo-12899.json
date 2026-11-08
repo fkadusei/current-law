@@ -1,0 +1,24 @@
+{
+ "headline": "President Clinton created a board to look into a labor dispute between the Long Island Rail Road and some of its union workers.",
+ "what_it_does": "This order set up an emergency board to study a dispute between the Long Island Rail Road and certain employees represented by the United Transportation Union. Under federal railroad labor law, such boards usually look into the facts and suggest a way to settle the dispute. Creating a board also generally delays strikes or lockouts for a set period while it does its work.",
+ "who_it_affects": [
+  {
+   "group": "Long Island Rail Road employees represented by the United Transportation Union",
+   "how": "Their dispute with the railroad went to an emergency board for review, which typically delays any strike for a time."
+  },
+  {
+   "group": "Long Island Rail Road management",
+   "how": "The railroad's dispute with these workers was placed before a federal board for investigation and recommendations."
+  },
+  {
+   "group": "Long Island Rail Road riders",
+   "how": "Creating the board likely put off a possible work stoppage that could have disrupted train service."
+  }
+ ],
+ "when_it_takes_effect": "1994-02-15",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

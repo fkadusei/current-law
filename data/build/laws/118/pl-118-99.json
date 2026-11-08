@@ -36,5 +36,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "New law requires federal agencies to publish data and guidance on reusing surplus government property like vehicles, furniture, and office equipment.",
+  "what_it_does": "The General Services Administration (GSA) must post online the data from certain agency reports on excess personal property, meaning items like vehicles, furniture, and office equipment, but not land or buildings. Federal agencies must also make public their internal rules for using excess property before buying new items. These rules must cover topics such as checking for excess property first and judging whether it is suitable to use. Agencies must share this information with the GSA, and these requirements end five years after the law was enacted.",
+  "who_it_affects": [
+   {
+    "group": "Federal agencies",
+    "how": "They must publish their guidance on reusing excess property, include required topics such as considering excess property before buying new, and send this information to the GSA."
+   },
+   {
+    "group": "General Services Administration",
+    "how": "It must post data from agency reports on excess personal property on the internet."
+   },
+   {
+    "group": "Members of the public and watchdog groups",
+    "how": "They will be able to see online data and agency guidance about how the government handles its surplus property."
+   }
+  ],
+  "when_it_takes_effect": "Enacted October 1, 2024; the requirements expire five years after enactment (around October 1, 2029).",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Congress",
  "sponsor": "Sen. Tillis, Thomas [R-NC]",
- "official_summary": null,
+ "official_summary": "<p><strong>Semiquincentennial Congressional Time Capsule Act</strong></p><p>This act requires the Architect of the Capitol to create a congressional time capsule in honor of the 250<sup>th</sup> anniversary of the Declaration of Independence to be buried in the Capitol Visitor Center on or before July 4, 2026.</p><p>The time capsule shall contain a joint letter from congressional leadership (the Speaker and Minority Leader of the House of Representatives and the Majority and Minority Leaders of the Senate)&nbsp;and such other contents as they shall determine.&nbsp;</p><p>The act directs the Architect of the Capitol to also install a plaque about the time capsule, subject to the approval of the Committee on House Administration of the House&nbsp;and the&nbsp;Committee on Rules and Administration of the Senate.</p><p>The time capsule shall be sealed until July 4, 2276. On that date, the Speaker of the House and the Senate Majority Leader&nbsp;shall present the time capsule to the 244th Congress.&nbsp;</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-119s3705enr/uslm/BILLS-119s3705enr.xml"
@@ -36,5 +36,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Law directs the Architect of the Capitol to bury a congressional time capsule for the nation's 250th birthday, to be opened in 2276.",
+  "what_it_does": "The Architect of the Capitol must bury a time capsule with a plaque in the Capitol Visitor Center by July 4, 2026, holding a joint letter from the top House and Senate leaders and other items they choose, to stay sealed until July 4, 2276, when it will be given to the 244th Congress.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "Enacted February 18, 2026; the time capsule must be buried on or before July 4, 2026, and stays sealed until July 4, 2276.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

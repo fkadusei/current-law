@@ -39,5 +39,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Changes how oil and gas companies sharing drilling agreements on federal land pay royalties while waiting for Interior to decide each company's share.",
+  "what_it_does": "When several oil and gas leaseholders join a shared drilling agreement on federal land, each now pays royalties based on its own proposed share of production until the Department of the Interior decides the official shares. After Interior decides, each company has until the end of the third month after getting the decision to fix any over- or underpayment. If the company paid its monthly royalties fully and on time, Interior must waive interest owed through that third month. This replaces the old rule where the first company to drill generally paid royalties for all production in the meantime.",
+  "who_it_affects": [
+   {
+    "group": "Oil and gas companies with joint drilling agreements on federal leases",
+    "how": "They pay royalties on their own proposed share and get three months after Interior's decision to correct payments, with interest waived if they paid fully and on time."
+   },
+   {
+    "group": "Department of the Interior",
+    "how": "It must waive interest on royalties through the correction period for companies that paid on time, and it collects royalties under the new allocation process."
+   },
+   {
+    "group": "Indian tribes and owners of Indian lands",
+    "how": "Agreements that include Indian lands are excluded, so the existing rules still apply to them."
+   }
+  ],
+  "when_it_takes_effect": "Enacted September 20, 2024; the summary does not give a separate start date.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

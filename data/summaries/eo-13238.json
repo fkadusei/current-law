@@ -1,0 +1,20 @@
+{
+ "headline": "Federal executive departments and agencies closed on Monday, December 24, 2001, Christmas Eve.",
+ "what_it_does": "This order closed federal executive departments and agencies on Monday, December 24, 2001. That gave most federal workers an extra day off right before the Christmas holiday. The title does not give details about exceptions or pay.",
+ "who_it_affects": [
+  {
+   "group": "Federal government employees in executive departments and agencies",
+   "how": "Most did not have to report to work on December 24, 2001."
+  },
+  {
+   "group": "People who needed in-person federal services",
+   "how": "Federal executive offices were closed that day, so people could not get those services in person."
+  }
+ ],
+ "when_it_takes_effect": "Monday, December 24, 2001",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

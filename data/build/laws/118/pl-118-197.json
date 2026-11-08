@@ -3509,5 +3509,24 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "Law extends the U.S. Holocaust Memorial Museum's authority to run certain Holocaust education programs through 2030.",
+  "what_it_does": "This law renews the U.S. Holocaust Memorial Museum's legal authority to carry out certain Holocaust education program activities. That authority now lasts through fiscal year 2030. The summary does not describe any new programs or set specific funding amounts.",
+  "who_it_affects": [
+   {
+    "group": "U.S. Holocaust Memorial Museum",
+    "how": "The museum keeps its authority to run certain Holocaust education programs through fiscal year 2030."
+   },
+   {
+    "group": "Teachers and schools that use Holocaust education resources",
+    "how": "Education programs run by the museum are authorized to continue through fiscal year 2030."
+   }
+  ],
+  "when_it_takes_effect": "Enacted December 23, 2024; authorization extended through fiscal year 2030.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

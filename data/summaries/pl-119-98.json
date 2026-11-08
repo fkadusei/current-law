@@ -1,0 +1,40 @@
+{
+ "headline": "Law provides $70 billion through 2029 to Homeland Security, Border Patrol, and ICE for border security and immigration enforcement.",
+ "what_it_does": "This law gives $70 billion to the Department of Homeland Security, Customs and Border Protection (CBP), and Immigration and Customs Enforcement (ICE), available through fiscal year 2029. The money pays for hiring and equipping agents, border surveillance technology, drug-detection equipment at ports of entry, and immigration arrests and related operations. It also sets aside funds for investigators who work to identify and rescue victims of child sexual exploitation. It was passed as a budget reconciliation bill, which cannot be filibustered in the Senate, and the budget plan behind it allowed it to add to the federal deficit.",
+ "who_it_affects": [
+  {
+   "group": "Border Patrol agents and CBP staff",
+   "how": "CBP gets money to hire, pay, train, and equip more agents and support staff, though funds for hiring processing coordinators cannot be used after October 31, 2028."
+  },
+  {
+   "group": "ICE employees and Homeland Security Investigations agents",
+   "how": "ICE gets money for more personnel, transportation, technology, facilities, and legal staff, plus added child exploitation investigators and forensic analysts."
+  },
+  {
+   "group": "Immigrants living in the U.S. without legal status",
+   "how": "ICE receives funding for operations to arrest certain people who are in the country unlawfully."
+  },
+  {
+   "group": "State and local police agencies",
+   "how": "Funding supports 287(g) agreements that let local officers do some immigration enforcement work, along with training on identifying child abuse victims."
+  },
+  {
+   "group": "Travelers and people crossing at U.S. borders and ports of entry",
+   "how": "The law pays for new inspection equipment, surveillance technology, and the biometric entry and exit tracking system."
+  },
+  {
+   "group": "Victims of child sexual exploitation",
+   "how": "Funds are directed to hiring investigators and analysts focused on identifying and rescuing victims."
+  },
+  {
+   "group": "Companies that make border surveillance technology",
+   "how": "Surveillance towers bought with this money must be tested and accepted by CBP as able to detect and track objects on their own using AI or similar tools."
+  }
+ ],
+ "when_it_takes_effect": "Enacted June 10, 2026; funding is available through fiscal year 2029.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

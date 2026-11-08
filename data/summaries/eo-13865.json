@@ -1,0 +1,20 @@
+{
+ "headline": "Executive order directs federal agencies to coordinate efforts to protect the country against electromagnetic pulses.",
+ "what_it_does": "This order, signed in March 2019, deals with electromagnetic pulses, which are bursts of energy that can damage electronics and power systems. Based on its title, it sets up coordination among federal agencies to make the nation more resilient to these events. No summary was provided, so the specific duties, deadlines, and agencies involved are not described here.",
+ "who_it_affects": [
+  {
+   "group": "Federal agencies",
+   "how": "They are expected to coordinate their work on preparing for and responding to electromagnetic pulses."
+  },
+  {
+   "group": "Operators of critical infrastructure such as the power grid",
+   "how": "Their systems are the kind most likely to be the focus of federal resilience planning, though the specific effects are not stated."
+  }
+ ],
+ "when_it_takes_effect": "Signed March 26, 2019; executive orders generally take effect when signed.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

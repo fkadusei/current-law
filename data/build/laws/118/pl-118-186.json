@@ -3510,5 +3510,28 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "New law gives Homeland Security's science office legal authority to research better tools for detecting fentanyl, xylazine, and similar drugs.",
+  "what_it_does": "The law puts into federal statute the work of the Department of Homeland Security's Science and Technology Directorate to research and develop drug detection equipment and reference libraries for law enforcement. This includes portable devices, equipment that can test complex samples, and technology such as artificial intelligence to spot new substances. The directorate must follow standards from the National Institute of Standards and Technology and use information from the Drug Enforcement Administration in this work.",
+  "who_it_affects": [
+   {
+    "group": "Law enforcement agencies",
+    "how": "They are the intended users of the improved drug detection equipment and reference libraries the directorate develops."
+   },
+   {
+    "group": "Department of Homeland Security's Science and Technology Directorate",
+    "how": "It gains clear legal authority for its drug detection research and must follow certain federal standards and data sources."
+   },
+   {
+    "group": "National Institute of Standards and Technology and Drug Enforcement Administration",
+    "how": "Their standards and drug information are to be relied on by the directorate in this research."
+   }
+  ],
+  "when_it_takes_effect": "Enacted December 23, 2024; the summary does not state a separate start date.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

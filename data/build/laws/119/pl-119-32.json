@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Armed Forces and National Security",
  "sponsor": "Sen. Kelly, Mark [D-AZ]",
- "official_summary": null,
+ "official_summary": "<p><strong>ACES Act of 2025</strong></p><p>This act requires the Department of Veterans Affairs to enter into an agreement with the National Academies of Sciences, Engineering, and Medicine to study and report on the prevalence and mortality of cancers among veterans who served on active duty as aircrew members and regularly flew in fixed-wing aircraft.</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-119s201enr/uslm/BILLS-119s201enr.xml"
@@ -36,5 +36,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "New law orders a study of cancer rates and cancer deaths among veterans who served as military aircrew on fixed-wing planes.",
+  "what_it_does": "The law requires the Department of Veterans Affairs (VA) to make an agreement with the National Academies of Sciences, Engineering, and Medicine. The National Academies will study how common cancers are, and how often they cause death, among certain veterans. The study covers veterans who served on active duty as aircrew members and regularly flew in fixed-wing aircraft, and the results must be reported.",
+  "who_it_affects": [
+   {
+    "group": "Veterans who served as aircrew on fixed-wing military aircraft",
+    "how": "Their cancer rates and cancer deaths will be studied, which could inform future VA policies."
+   },
+   {
+    "group": "Department of Veterans Affairs",
+    "how": "The VA must set up and pay for an agreement with the National Academies to carry out the study."
+   },
+   {
+    "group": "National Academies of Sciences, Engineering, and Medicine",
+    "how": "The organization will conduct the study and report its findings."
+   }
+  ],
+  "when_it_takes_effect": "Enacted August 14, 2025; the summary does not give deadlines for the study or report.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -1,0 +1,16 @@
+{
+ "headline": "President Bush changed an earlier executive order that set up a performance-based organization to run air traffic services within the FAA.",
+ "what_it_does": "This order amends Executive Order 13180, a 2000 order that created an Air Traffic Performance-Based Organization inside the Federal Aviation Administration (FAA). The title does not say what was changed. No summary was provided, so the specific changes cannot be described here.",
+ "who_it_affects": [
+  {
+   "group": "FAA air traffic operations",
+   "how": "The order changes the rules for the organization that runs air traffic services, but the exact changes are not stated in the title."
+  }
+ ],
+ "when_it_takes_effect": "Likely when signed on June 4, 2002, though the source material does not say.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

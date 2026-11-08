@@ -1,0 +1,24 @@
+{
+ "headline": "Executive order sets up how the U.S. carries out an international treaty on collecting child support across countries.",
+ "what_it_does": "This order deals with putting into practice an international agreement on recovering child support and other family support payments across national borders. The agreement is meant to help families get support payments when a parent lives in another country. No summary was provided, so the exact steps the order takes, such as which agencies are given which jobs, are not described here.",
+ "who_it_affects": [
+  {
+   "group": "Parents and children owed child support by someone living in another country",
+   "how": "The treaty this order carries out is meant to help them seek and collect support payments across borders."
+  },
+  {
+   "group": "Parents living in the U.S. who owe support to family in another country",
+   "how": "They may face support claims handled under the treaty's process."
+  },
+  {
+   "group": "Federal and state child support agencies",
+   "how": "They are likely involved in carrying out the treaty, though the order's specific assignments are not described in the available information."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

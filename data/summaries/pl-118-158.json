@@ -1,0 +1,48 @@
+{
+ "headline": "Law keeps the federal government funded through March 14, 2025, adds disaster aid, and extends health and farm programs that were expiring.",
+ "what_it_does": "This law funds most federal agencies at 2024 levels until March 14, 2025, preventing a government shutdown that would have started after December 20, 2024. It adds emergency money for recovery from hurricanes, wildfires, floods, tornadoes, and other disasters, and orders one-time aid payments to some farmers whose expected costs are higher than their expected earnings. It also extends many health programs, including Medicare telehealth rules, through March 31, 2025, and extends the 2018 farm bill programs through September 30, 2025.",
+ "who_it_affects": [
+  {
+   "group": "Federal employees and people who use federal services",
+   "how": "Agencies stay open and funded at about 2024 levels through March 14, 2025, instead of shutting down."
+  },
+  {
+   "group": "People and communities hit by recent natural disasters",
+   "how": "FEMA, small business disaster loans, highway repair, housing and community grants, and other disaster programs get added money."
+  },
+  {
+   "group": "Farmers and ranchers",
+   "how": "Some crop producers get one-time economic aid payments, and programs like Price Loss Coverage and Dairy Margin Coverage continue for 2025."
+  },
+  {
+   "group": "People on Medicare",
+   "how": "Telehealth options, including care from home and audio-only visits, and the hospital-at-home program continue through March 31, 2025."
+  },
+  {
+   "group": "Rural hospitals and ambulance services",
+   "how": "Extra Medicare payments for low-volume and Medicare-dependent rural hospitals and for rural ground ambulance rides continue through March 31, 2025."
+  },
+  {
+   "group": "Patients at community health centers and people with diabetes, including in tribal communities",
+   "how": "Funding for community health centers, the National Health Service Corps, and special diabetes programs continues through March 31, 2025."
+  },
+  {
+   "group": "Families needing child care in disaster areas",
+   "how": "States get added Child Care and Development Block Grant money as part of disaster relief."
+  },
+  {
+   "group": "Veterans",
+   "how": "VA health care, cemeteries, and facility projects get added disaster-related money, and planned cuts to some VA health accounts are paused."
+  },
+  {
+   "group": "Students and borrowers with federal student aid",
+   "how": "The Education Department may spend faster to keep loan servicing and the student aid application process running."
+  }
+ ],
+ "when_it_takes_effect": "December 21, 2024; government funding runs through March 14, 2025, most health extensions through March 31, 2025, and farm bill programs through September 30, 2025.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

@@ -1,0 +1,20 @@
+{
+ "headline": "Executive order addresses US investments in certain national security technologies and products in countries the government considers of concern.",
+ "what_it_does": "Based on its title, this order deals with money that Americans invest in certain technologies and products tied to national security when those investments go to countries of concern. No summary was provided, so it is not clear from this source which technologies, which countries, or what specific limits or reporting rules are involved.",
+ "who_it_affects": [
+  {
+   "group": "US investors and investment firms",
+   "how": "People and companies that invest in national security technology businesses in countries of concern may face new federal limits or requirements."
+  },
+  {
+   "group": "US companies doing business in countries of concern",
+   "how": "Firms making investments abroad in the covered technology areas may need to follow new federal rules."
+  }
+ ],
+ "when_it_takes_effect": "Signed August 9, 2023; the source does not say when any specific rules begin.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

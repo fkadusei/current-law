@@ -1,0 +1,20 @@
+{
+ "headline": "Executive order aimed at stopping taxpayer money from going to news media outlets the order calls biased.",
+ "what_it_does": "Based on its title, this executive order seeks to end federal taxpayer funding for certain news media organizations that the order describes as biased. The material provided does not say which outlets, programs, or funding sources are covered, or how the funding would be stopped.",
+ "who_it_affects": [
+  {
+   "group": "News media organizations that receive federal funding",
+   "how": "They could lose federal money, depending on which outlets and programs the order actually covers."
+  },
+  {
+   "group": "People who use media services supported by federal funds",
+   "how": "Services they rely on could change if the outlets providing them lose federal support."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

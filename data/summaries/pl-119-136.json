@@ -1,0 +1,24 @@
+{
+ "headline": "New law sets up a way for wireless emergency alerts to reach cell phones by satellite, not just through regular cell networks.",
+ "what_it_does": "Wireless emergency alerts now go out only through ground-based cell networks of carriers that choose to take part. This law requires those participating carriers to tell the FCC whether they will also send alerts by satellite. The FCC must write technical standards and rules for satellite alerts, and carriers that choose to send them must follow those rules. Carriers that choose not to must tell their new and current customers, and customers may opt out of satellite alerts.",
+ "who_it_affects": [
+  {
+   "group": "Mobile phone service providers that take part in the emergency alert system",
+   "how": "They must tell the FCC whether they will send alerts by satellite, follow FCC rules if they do, and notify customers if they don't."
+  },
+  {
+   "group": "Cell phone users",
+   "how": "They may get emergency alerts by satellite, such as in areas without cell coverage, and can choose to opt out of satellite alerts."
+  },
+  {
+   "group": "Federal Communications Commission (FCC)",
+   "how": "It must create technical standards and regulations to make satellite emergency alerts possible."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

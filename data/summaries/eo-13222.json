@@ -1,0 +1,20 @@
+{
+ "headline": "President Bush ordered that existing US rules controlling exports of certain goods and technology stay in force after the underlying law expired.",
+ "what_it_does": "This order keeps the federal government's export control rules in effect. These rules decide which goods, software, and technology need government permission before being sent out of the country. The order was issued as the law that normally authorized these rules, the Export Administration Act, was set to lapse. It used the President's emergency economic powers to continue the existing rules rather than create new ones.",
+ "who_it_affects": [
+  {
+   "group": "US companies that export goods, software, or technology",
+   "how": "They must keep following the same export licensing rules and restrictions that were already in place."
+  },
+  {
+   "group": "Makers and sellers of items with both civilian and military uses",
+   "how": "Their products remain subject to government review and possible license requirements before shipment abroad."
+  }
+ ],
+ "when_it_takes_effect": "Signed August 17, 2001, to keep the rules in place as the prior law lapsed.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

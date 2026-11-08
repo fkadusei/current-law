@@ -1,0 +1,28 @@
+{
+ "headline": "Executive order concerns labeling certain Muslim Brotherhood chapters as terrorist groups under U.S. law.",
+ "what_it_does": "This order deals with naming certain chapters of the Muslim Brotherhood as Foreign Terrorist Organizations and Specially Designated Global Terrorists. The title does not say which chapters are included or what steps officials must take. Under U.S. law, these labels generally make it a crime to give the group material support, freeze its assets in the U.S., and can bar its members from entering the country.",
+ "who_it_affects": [
+  {
+   "group": "Chapters of the Muslim Brotherhood covered by the order",
+   "how": "They may face frozen U.S. assets and bans on dealings with Americans if formally designated."
+  },
+  {
+   "group": "People and organizations in the U.S. with ties to those chapters",
+   "how": "Giving money, goods, or services to a designated group can bring criminal charges or sanctions."
+  },
+  {
+   "group": "Banks and other financial institutions",
+   "how": "They may have to block transactions and freeze property linked to designated chapters."
+  },
+  {
+   "group": "Non-citizens linked to designated chapters",
+   "how": "Membership in or support for a designated group can make a person unable to get a visa or enter the U.S."
+  }
+ ],
+ "when_it_takes_effect": "The order was signed on November 24, 2025; the timing of any formal designations is not stated in the title.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

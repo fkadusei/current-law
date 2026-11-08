@@ -1,0 +1,28 @@
+{
+ "headline": "Executive order on using project labor agreements for federal construction projects.",
+ "what_it_does": "This order deals with the use of project labor agreements on construction projects paid for by the federal government. A project labor agreement is a contract made before work starts that sets wages, hours, and other job terms for workers on a project, usually negotiated with labor unions. The material provided does not say which projects are covered, what size triggers the rules, or what exceptions apply.",
+ "who_it_affects": [
+  {
+   "group": "Construction companies that bid on federal projects",
+   "how": "They may need to agree to a project labor agreement to work on certain federal construction jobs."
+  },
+  {
+   "group": "Construction workers on federal projects",
+   "how": "Their pay and job terms on covered projects may be set by a project labor agreement."
+  },
+  {
+   "group": "Building trade labor unions",
+   "how": "They may take part in negotiating the agreements used on federal construction projects."
+  },
+  {
+   "group": "Federal agencies that manage construction",
+   "how": "They may have to consider or include project labor agreements when planning and contracting for building projects."
+  }
+ ],
+ "when_it_takes_effect": "Signed February 4, 2022; specific start dates are not stated in the provided material.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

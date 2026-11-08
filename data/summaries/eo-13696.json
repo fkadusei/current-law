@@ -1,0 +1,20 @@
+{
+ "headline": "President Obama signed a 2015 order updating the Manual for Courts-Martial, the rulebook for military criminal trials.",
+ "what_it_does": "This executive order makes changes to the Manual for Courts-Martial, which sets the rules and procedures for military criminal trials. No summary was provided, so the specific changes are not described here. Presidents issue orders like this regularly to update the manual, often to reflect new laws passed by Congress.",
+ "who_it_affects": [
+  {
+   "group": "Members of the US armed forces",
+   "how": "The updated rules apply to service members who face charges under military law."
+  },
+  {
+   "group": "Military judges, prosecutors, and defense lawyers",
+   "how": "They must follow the amended procedures when handling courts-martial cases."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

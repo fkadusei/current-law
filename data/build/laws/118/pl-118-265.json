@@ -36,5 +36,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Congress named a Hillsboro, Oregon post office building after former Representative Elizabeth Furse.",
+  "what_it_does": "This law renames the U.S. Postal Service facility at 125 South 1st Avenue in Hillsboro, Oregon, as the Elizabeth Furse Post Office Building. It is a naming measure only. It does not change how the post office operates, what services it offers, or its hours.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law was enacted on January 4, 2025.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -1,0 +1,24 @@
+{
+ "headline": "New law requires the White House budget office and federal agencies to name officials in charge of improving how government services are delivered.",
+ "what_it_does": "The White House Office of Management and Budget (OMB) must name a senior official as the Federal Government Service Delivery Lead. This person coordinates efforts across the whole government to improve how benefits and services reach people, businesses, and organizations. Heads of certain federal agencies are made responsible for their agency's service delivery and must name a senior official to lead improvement efforts.",
+ "who_it_affects": [
+  {
+   "group": "Office of Management and Budget",
+   "how": "Must designate or appoint a senior official to coordinate government-wide service delivery improvements."
+  },
+  {
+   "group": "Heads of certain federal executive agencies",
+   "how": "Become responsible for continuously improving their agency's services and must name a senior official to lead that work."
+  },
+  {
+   "group": "Individuals, businesses, and organizations that get federal benefits or services",
+   "how": "Are the intended focus of the improvement efforts, though the summary does not describe specific changes to any benefit or service."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on January 4, 2025; the summary does not list a separate start date or deadlines.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

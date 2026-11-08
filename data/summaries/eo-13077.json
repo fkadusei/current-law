@@ -1,0 +1,16 @@
+{
+ "headline": "Clinton order changes an earlier order on protecting the nation's critical infrastructure.",
+ "what_it_does": "This order amends Executive Order 13010, a 1996 order that set up a presidential commission to study how to protect key national systems such as power, communications, and transportation from attack or failure. The title does not say what specific changes were made. Earlier amendments to that order adjusted how the commission worked and how long it would last, but this summary cannot confirm the details of this one.",
+ "who_it_affects": [
+  {
+   "group": "The President's Commission on Critical Infrastructure Protection and related federal agencies",
+   "how": "The order changes the rules in Executive Order 13010 that govern their work on infrastructure protection."
+  }
+ ],
+ "when_it_takes_effect": "Likely upon signing on March 10, 1998, though the source does not state this.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

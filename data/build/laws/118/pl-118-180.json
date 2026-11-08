@@ -3510,5 +3510,32 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "Law extends federal autism research, education, and early detection programs through 2029 and adds new reporting requirements.",
+  "what_it_does": "This law renews several federal autism programs through fiscal year 2029. These include a CDC program that tracks and studies developmental disabilities, HHS activities that support autism education, early detection, and intervention, and the Interagency Autism Coordinating Committee within HHS. It also updates reporting rules, including requiring HHS to report on whether training programs for developmental-behavioral pediatricians could be expanded.",
+  "who_it_affects": [
+   {
+    "group": "People with autism and their families",
+    "how": "Federal programs for autism research, early detection, and intervention services continue through 2029."
+   },
+   {
+    "group": "Researchers studying autism and developmental disabilities",
+    "how": "The CDC surveillance and research program that tracks developmental disabilities is renewed."
+   },
+   {
+    "group": "Developmental-behavioral pediatricians and medical trainees",
+    "how": "HHS must study whether training programs for these specialists could be expanded."
+   },
+   {
+    "group": "Federal health agencies (CDC and HHS)",
+    "how": "They keep running these autism programs and must meet updated reporting requirements."
+   }
+  ],
+  "when_it_takes_effect": "Enacted December 23, 2024; programs are reauthorized through fiscal year 2029.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

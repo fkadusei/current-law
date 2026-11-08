@@ -1,0 +1,24 @@
+{
+ "headline": "President Clinton set up an emergency board to look into a labor dispute between Metro-North Commuter Railroad and some of its unions.",
+ "what_it_does": "This order creates a temporary emergency board to investigate a dispute between Metro-North Commuter Railroad and workers represented by certain labor unions. Under federal railway labor law, such boards usually study the dispute and make recommendations. While a board does its work, strikes and lockouts are generally put on hold for a set period. The title does not give details about the dispute itself.",
+ "who_it_affects": [
+  {
+   "group": "Metro-North Commuter Railroad employees in the involved unions",
+   "how": "Their labor dispute is sent to a federal board for investigation, which typically delays any strike while the board works."
+  },
+  {
+   "group": "Metro-North Commuter Railroad management",
+   "how": "The railroad must take part in the board's investigation and generally cannot lock out workers during the waiting period."
+  },
+  {
+   "group": "Commuters who ride Metro-North trains",
+   "how": "The process typically delays a possible strike that could disrupt their train service."
+  }
+ ],
+ "when_it_takes_effect": "Signed February 22, 1995",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

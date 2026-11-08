@@ -1,0 +1,20 @@
+{
+ "headline": "2014 order freezes US-held property of certain people found to be contributing to the conflict in the Central African Republic.",
+ "what_it_does": "This executive order blocks, or freezes, property and assets in the United States belonging to certain people tied to the conflict in the Central African Republic. Orders like this usually also bar Americans from doing business with the people named. No summary was provided, so the specific rules for who can be targeted are not described here.",
+ "who_it_affects": [
+  {
+   "group": "People and groups found to be contributing to the conflict in the Central African Republic",
+   "how": "Their property and assets under US control can be frozen."
+  },
+  {
+   "group": "US banks, businesses, and individuals",
+   "how": "They may have to freeze assets of people named under the order and generally may not deal with them."
+  }
+ ],
+ "when_it_takes_effect": "Signed May 12, 2014; the exact effective date is not stated in the material provided.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

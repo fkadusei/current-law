@@ -1,0 +1,20 @@
+{
+ "headline": "Executive order signed in January 2021 requiring mask-wearing to protect the federal workforce.",
+ "what_it_does": "Based on its title, this order requires people to wear masks in order to protect federal workers. It was signed on President Biden's first day in office, during the COVID-19 pandemic. No official summary was provided, so the exact rules, places covered, and enforcement details are not described here.",
+ "who_it_affects": [
+  {
+   "group": "Federal employees",
+   "how": "The order is aimed at protecting federal workers, likely through mask requirements at work."
+  },
+  {
+   "group": "People in or around federal workplaces",
+   "how": "Others at federal sites may also have been required to wear masks, though the title alone does not say exactly who."
+  }
+ ],
+ "when_it_takes_effect": "Signed January 20, 2021; the title alone does not state a separate start date.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

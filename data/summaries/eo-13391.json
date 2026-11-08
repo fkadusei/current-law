@@ -1,0 +1,20 @@
+{
+ "headline": "Executive order adds more people to US sanctions targeting those accused of undermining democracy in Zimbabwe.",
+ "what_it_does": "This order expands existing US sanctions tied to Zimbabwe. It blocks the property and assets in the United States of additional people found to be undermining democratic processes or institutions there. Blocked assets generally cannot be moved, sold, or used, and Americans are generally barred from doing business with the people named.",
+ "who_it_affects": [
+  {
+   "group": "People and groups in or connected to Zimbabwe named under the order",
+   "how": "Any property or money they hold in the United States or under US control is frozen."
+  },
+  {
+   "group": "US banks, businesses, and individuals",
+   "how": "They generally may not do business with or transfer assets to the people whose property is blocked."
+  }
+ ],
+ "when_it_takes_effect": "Signed November 22, 2005; the exact effective date is not stated in the title.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

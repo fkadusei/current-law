@@ -1,0 +1,16 @@
+{
+ "headline": "A 2020 executive order aimed at protecting the nation's main electric power grid, the bulk-power system.",
+ "what_it_does": "This executive order deals with the security of the bulk-power system, the large network of power plants and high-voltage lines that delivers electricity across the country. No official summary was provided, so the specific rules, agencies, and requirements in the order cannot be described here with confidence.",
+ "who_it_affects": [
+  {
+   "group": "Electric utilities and power grid operators",
+   "how": "The order addresses the security of the systems these companies own and run, though the specific requirements are not described in the available material."
+  }
+ ],
+ "when_it_takes_effect": "Signed May 1, 2020; executive orders generally take effect when signed unless they say otherwise.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

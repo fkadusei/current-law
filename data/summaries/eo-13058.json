@@ -1,0 +1,24 @@
+{
+ "headline": "Clinton executive order limits tobacco smoking in federal workplaces to protect federal workers and visitors from secondhand smoke.",
+ "what_it_does": "This executive order sets rules to protect people from tobacco smoke in federal executive branch workplaces. Based on its title, it restricts smoking in federal work buildings so that employees and members of the public are not exposed to secondhand smoke. No official summary was provided, so the specific details, such as exceptions or designated smoking areas, are not described here.",
+ "who_it_affects": [
+  {
+   "group": "Federal executive branch employees",
+   "how": "They face limits on where they can smoke at work and less exposure to coworkers' tobacco smoke."
+  },
+  {
+   "group": "Members of the public who visit federal offices",
+   "how": "They would face less exposure to tobacco smoke when visiting federal buildings."
+  },
+  {
+   "group": "Federal agencies",
+   "how": "They are responsible for carrying out the smoking rules in the workplaces they run."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

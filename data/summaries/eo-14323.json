@@ -1,0 +1,20 @@
+{
+ "headline": "Presidential order names actions by Brazil's government as a threat to the United States and directs a federal response.",
+ "what_it_does": "This executive order states that actions by the government of Brazil pose a threat to the United States. The title alone does not say what steps the order takes in response. Orders with titles like this often use emergency economic powers, such as tariffs or sanctions, but the details are not given in the material provided.",
+ "who_it_affects": [
+  {
+   "group": "The government of Brazil",
+   "how": "The order names Brazil's government as the source of the threats it addresses."
+  },
+  {
+   "group": "US businesses that trade with Brazil",
+   "how": "They may face new rules or costs, depending on what actions the order takes."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

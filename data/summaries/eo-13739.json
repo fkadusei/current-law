@@ -1,0 +1,20 @@
+{
+ "headline": "Obama order ends the US national emergency tied to the situation in Côte d'Ivoire, a country in West Africa.",
+ "what_it_does": "This order ends a national emergency the US had declared over events in or related to Côte d'Ivoire. National emergencies like this are usually used to allow economic sanctions, such as freezing certain people's property or limiting business with them. Ending the emergency generally removes those emergency-based restrictions. The title alone does not list which specific rules were lifted.",
+ "who_it_affects": [
+  {
+   "group": "People and groups previously targeted by US sanctions related to Côte d'Ivoire",
+   "how": "Restrictions placed on them under the emergency, such as frozen assets, would generally no longer apply."
+  },
+  {
+   "group": "US businesses and individuals dealing with Côte d'Ivoire",
+   "how": "They would no longer have to follow emergency-based limits on dealings connected to the situation in that country."
+  }
+ ],
+ "when_it_takes_effect": "Signed September 14, 2016; the exact effective date is not stated in the title.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

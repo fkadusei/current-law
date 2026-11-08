@@ -1,0 +1,24 @@
+{
+ "headline": "Executive order creates an emergency board to look into labor disputes between the Long Island Rail Road and some of its unionized workers.",
+ "what_it_does": "The order sets up a federal emergency board to investigate disputes between the Long Island Rail Road Company and certain employees represented by labor unions. Under federal railroad labor law, a board like this usually studies the dispute and reports to the President. While this process is underway, strikes and other work changes are generally put on hold. No summary was provided, so details such as which unions are involved or the board's deadlines are not known here.",
+ "who_it_affects": [
+  {
+   "group": "Long Island Rail Road workers represented by the unions in the dispute",
+   "how": "Their dispute with the railroad will be reviewed by a federal board, which generally delays any strike while the review happens."
+  },
+  {
+   "group": "Long Island Rail Road Company",
+   "how": "The company must take part in the board's investigation of its disputes with these unions."
+  },
+  {
+   "group": "Commuters who ride the Long Island Rail Road",
+   "how": "Setting up the board generally delays a possible strike, which could affect whether train service continues in the near term."
+  }
+ ],
+ "when_it_takes_effect": "Signed September 16, 2025; the specific effective date and board deadlines were not provided.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

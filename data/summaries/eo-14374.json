@@ -1,0 +1,24 @@
+{
+ "headline": "Executive order creates a second federal emergency board to look into labor disputes between the Long Island Rail Road and some of its unions.",
+ "what_it_does": "The order sets up a second emergency board to investigate unresolved disputes between the Long Island Rail Road and some of its workers' unions. The title does not say what the disputes are about. Under federal railway labor law, boards like this usually review both sides' positions and report back, and strikes or lockouts are typically on hold while the process runs.",
+ "who_it_affects": [
+  {
+   "group": "Long Island Rail Road workers represented by the unions in the dispute",
+   "how": "Their labor dispute with the railroad will be reviewed by a federal board, which may delay any strike while the process continues."
+  },
+  {
+   "group": "Long Island Rail Road Company",
+   "how": "The railroad must take part in the board's investigation and generally cannot take actions like a lockout during this period."
+  },
+  {
+   "group": "Commuters who ride the Long Island Rail Road",
+   "how": "The board process may delay a possible strike that could disrupt train service."
+  }
+ ],
+ "when_it_takes_effect": "Signed January 14, 2026",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

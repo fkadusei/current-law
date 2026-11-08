@@ -1,0 +1,48 @@
+{
+ "headline": "Law renews and expands federal programs on drug addiction, overdoses, and mental health through 2030.",
+ "what_it_does": "This law extends many federal programs on substance use, overdose prevention, treatment, and recovery through fiscal year 2030, and expands some of them. It lets first responder grants cover overdoses from drugs other than opioids, allows state and tribal opioid grants to pay for fentanyl and xylazine test strips where legal, and requires steps to protect the 9-8-8 Suicide & Crisis Lifeline from cyberattacks. It also directs health agencies to issue guidance on at-home drug disposal, review how buprenorphine-naloxone is classified, and make several changes to rules on controlled substances.",
+ "who_it_affects": [
+  {
+   "group": "People with substance use disorders and people in recovery",
+   "how": "Federal grants for treatment centers, recovery support, job training, transportation, and temporary recovery housing for up to two years continue through 2030."
+  },
+  {
+   "group": "Pregnant and postpartum women with substance use disorders",
+   "how": "Grants for residential treatment, recovery support, and case management continue, and grant recipients may reach out to women most affected."
+  },
+  {
+   "group": "Police, firefighters, and other first responders",
+   "how": "Grants for overdose reversal drugs like naloxone and related training continue and can now cover overdoses from drugs other than opioids."
+  },
+  {
+   "group": "State and tribal governments",
+   "how": "They can use opioid response grants for drug test strips, and the CDC cannot require states to use specific vendors for prescription drug monitoring programs."
+  },
+  {
+   "group": "People who call the 9-8-8 Suicide & Crisis Lifeline and crisis centers",
+   "how": "Crisis centers and the lifeline's network administrator must report cybersecurity problems, and the government must study the lifeline's security risks."
+  },
+  {
+   "group": "Health care workers and students in addiction and mental health fields",
+   "how": "Student loan repayment, workforce training grants, and minority fellowships, now including addiction medicine, continue through 2030."
+  },
+  {
+   "group": "Schools and youth programs",
+   "how": "Youth overdose prevention grants continue, groups of local school districts can now apply, and applicants must show how they will keep programs going after grants end."
+  },
+  {
+   "group": "Pharmacies and doctors who prescribe controlled substances",
+   "how": "Pharmacies may deliver certain self-administered schedule III-V drugs to prescribers under safety programs, and more organizations can provide required DEA training."
+  },
+  {
+   "group": "Children and families affected by trauma or prenatal alcohol exposure",
+   "how": "Programs for child traumatic stress and fetal alcohol spectrum disorders continue or are re-established, with grants for research, education, and support services."
+  }
+ ],
+ "when_it_takes_effect": "Enacted December 1, 2025; most programs are reauthorized through fiscal year 2030. HHS must update overdose reversal drug references in grant rules within one year, and the DEA training change applies retroactively to December 29, 2022.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

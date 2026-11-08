@@ -1,0 +1,24 @@
+{
+ "headline": "Law updates how employers and insurers report health coverage to the IRS and gives large employers more time to respond to penalty notices.",
+ "what_it_does": "The law puts into statute two IRS practices for health coverage tax forms (1095-B and 1095-C): using a person's full name and birth date when their taxpayer ID number isn't available, and sending the forms electronically if the person has agreed ahead of time. It requires the IRS to give large employers at least 90 days, instead of the usual 30, to respond to the first letter proposing a penalty for not offering affordable coverage. It also sets a six-year time limit for the IRS to assess that penalty.",
+ "who_it_affects": [
+  {
+   "group": "Large employers (generally 50 or more full-time employees)",
+   "how": "They get at least 90 days to respond to an IRS penalty letter and can only be assessed the coverage penalty within six years."
+  },
+  {
+   "group": "Employers and health insurers that file 1095-B and 1095-C forms",
+   "how": "They have clear legal authority to use a name and birth date in place of a missing taxpayer ID and to send forms electronically with prior consent."
+  },
+  {
+   "group": "People with health coverage through an employer or insurer",
+   "how": "They may receive their 1095 forms electronically if they agreed to it ahead of time."
+  }
+ ],
+ "when_it_takes_effect": "Enacted December 23, 2024; the summary does not give specific start dates for each provision.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

@@ -39,5 +39,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Law extends three U.S. Geological Survey water-tracking programs through 2028 and updates rules for federal stream gauges.",
+  "what_it_does": "This law renews three U.S. Geological Survey (USGS) programs through fiscal year 2028: the Federal Priority Streamgage program, which measures water flow in major rivers and streams; a groundwater monitoring program, including the National Groundwater Monitoring Network; and grants for new ways to estimate, measure, and monitor water. It renames the National Streamflow Information Program as the Federal Priority Streamgage program. It requires that the water-quality sensors on stream gauges be precipitation water-quality sensors. It also requires each gauge site to match federal needs identified through regular outreach and feedback, such as a 2022 USGS report on program priorities.",
+  "who_it_affects": [
+   {
+    "group": "U.S. Geological Survey",
+    "how": "The agency is authorized to keep running these water monitoring and grant programs through 2028 and must follow new rules for gauge sensors and site selection."
+   },
+   {
+    "group": "Groups that apply for water technology grants",
+    "how": "Grants for developing water estimation, measurement, and monitoring tools remain authorized through 2028."
+   },
+   {
+    "group": "People and agencies that rely on flood and drought data",
+    "how": "Stream and groundwater monitoring that tracks water levels and conditions like floods and droughts continues under the renewed programs."
+   }
+  ],
+  "when_it_takes_effect": "Enacted December 23, 2024; programs are reauthorized through fiscal year 2028.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

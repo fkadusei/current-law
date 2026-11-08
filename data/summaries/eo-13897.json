@@ -1,0 +1,24 @@
+{
+ "headline": "A 2019 order canceled an earlier rule about hiring workers when a new company takes over a federal service contract.",
+ "what_it_does": "This order revokes Executive Order 13495, signed in 2009. That earlier order generally required a company taking over a federal service contract to first offer jobs to qualified workers from the company that had the contract before. With this order, new contractors no longer have to make those first job offers. Agencies were directed to remove the rules that carried out the old order.",
+ "who_it_affects": [
+  {
+   "group": "Companies that win federal service contracts",
+   "how": "They no longer must offer jobs first to the workers of the contractor they replace."
+  },
+  {
+   "group": "Workers employed on federal service contracts, such as janitors, security guards, and food service workers",
+   "how": "They lose the guaranteed first chance to keep their jobs when a new company takes over the contract."
+  },
+  {
+   "group": "Federal agencies that manage service contracts",
+   "how": "They must stop enforcing the old job-offer requirement and update their contracting rules."
+  }
+ ],
+ "when_it_takes_effect": "Signed October 31, 2019; related contracting rules were to be removed afterward.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

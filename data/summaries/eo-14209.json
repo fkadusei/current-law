@@ -1,0 +1,20 @@
+{
+ "headline": "Executive order pauses enforcement of the federal law that bans bribing foreign government officials to win business.",
+ "what_it_does": "This order pauses enforcement of the Foreign Corrupt Practices Act (FCPA). That law makes it illegal for US companies and people to bribe foreign officials to get or keep business. The title says the pause is meant to support American economic and national security. No summary was provided, so details such as how long the pause lasts and which cases it covers are not clear from the source.",
+ "who_it_affects": [
+  {
+   "group": "US companies that do business in other countries",
+   "how": "They may face less federal enforcement under the foreign bribery law while the pause is in place."
+  },
+  {
+   "group": "Federal prosecutors and investigators who handle foreign bribery cases",
+   "how": "Their enforcement work under the FCPA is paused."
+  }
+ ],
+ "when_it_takes_effect": "Signed February 10, 2025; the title does not say how long the pause lasts.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

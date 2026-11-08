@@ -36,5 +36,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Law requires NIH to send its yearly Alzheimer's research budget estimate directly to the President and Congress.",
+  "what_it_does": "Each year, starting in fiscal year 2024, the National Institutes of Health (NIH) must estimate how much money and staff it needs for work under the National Alzheimer's Project. NIH sends this estimate straight to the President, who passes it on to Congress. The Department of Health and Human Services and a federal Alzheimer's advisory council may comment on the estimate but cannot change it.",
+  "who_it_affects": [
+   {
+    "group": "National Institutes of Health",
+    "how": "Must prepare and submit a yearly budget and staffing estimate for Alzheimer's and dementia work."
+   },
+   {
+    "group": "Department of Health and Human Services and the Advisory Council on Alzheimer's Research, Care, and Services",
+    "how": "Can add comments to NIH's estimate but are not allowed to edit it."
+   },
+   {
+    "group": "Congress",
+    "how": "Receives NIH's own estimate of what it needs for Alzheimer's efforts, which it can use when setting funding."
+   },
+   {
+    "group": "People with Alzheimer's disease or related dementias and their families",
+    "how": "May be affected indirectly through how federal research on these diseases is planned and funded."
+   }
+  ],
+  "when_it_takes_effect": "Enacted October 1, 2024; annual budget estimates are required beginning with fiscal year 2024.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

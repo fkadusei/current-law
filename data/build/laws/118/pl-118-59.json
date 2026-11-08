@@ -36,5 +36,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "The REPORT Act expands what online companies must report about child sexual exploitation and makes them keep report contents longer.",
+  "what_it_does": "Online service providers must already report child sexual abuse material to the National Center for Missing and Exploited Children (NCMEC). This law adds child sex trafficking and the enticement of minors into illegal sexual activity to what they must report, raises the maximum fines for companies that knowingly and willfully fail to report, and requires them to keep report contents for 1 year instead of 90 days. It also limits legal liability for vendors that store this material for NCMEC and for minors who report images of themselves.",
+  "who_it_affects": [
+   {
+    "group": "Internet and online service companies, such as email, messaging, social media, and cloud storage providers",
+    "how": "They must report more types of child exploitation, keep report contents for a full year, and face higher maximum fines for knowingly and willfully failing to report."
+   },
+   {
+    "group": "Minors depicted in sexual abuse images, and people acting on their behalf",
+    "how": "They are protected from civil lawsuits and criminal charges when they report the material to NCMEC's CyberTipline, even if they include a copy of the image."
+   },
+   {
+    "group": "Vendors that contract with NCMEC",
+    "how": "They get limited legal protection for storing and transferring the material, but must meet certain cybersecurity requirements."
+   },
+   {
+    "group": "The National Center for Missing and Exploited Children",
+    "how": "It will receive reports on a wider range of crimes against children and can rely on outside vendors to store and transfer the material."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on May 7, 2024. The summary does not list separate effective dates.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -1,0 +1,24 @@
+{
+ "headline": "Executive order directs federal agencies to consult with Indian tribal governments when making policies that affect tribes.",
+ "what_it_does": "This order sets rules for how federal agencies work with Indian tribal governments. Agencies must consult with tribal officials when developing regulations or policies that have significant effects on tribes. It is meant to support government-to-government relationships between the United States and tribes. Agencies must set up a process for this consultation and name an official responsible for it.",
+ "who_it_affects": [
+  {
+   "group": "Federally recognized Indian tribes",
+   "how": "Tribal governments get a formal chance to give input before federal agencies adopt policies or rules that affect them."
+  },
+  {
+   "group": "Members of Native American tribes",
+   "how": "Federal policies that affect their communities are supposed to be shaped with input from their tribal governments."
+  },
+  {
+   "group": "Federal agencies",
+   "how": "Agencies must follow consultation steps and keep records of how they worked with tribes when making rules with tribal effects."
+  }
+ ],
+ "when_it_takes_effect": "About 60 days after signing (early January 2001)",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

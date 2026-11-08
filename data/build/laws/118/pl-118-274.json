@@ -3527,5 +3527,36 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "Law transfers control of the RFK Stadium campus from the National Park Service to Washington, D.C., allowing new development there.",
+  "what_it_does": "The law moves management of the Robert F. Kennedy Memorial Stadium Campus from the National Park Service to the District of Columbia. D.C. may use or allow others to use the land for a stadium, homes, businesses, open space, and certain other public purposes. At least 30% of the campus must be parks and open space, and no federal money may be spent on stadium purposes. The transfer lasts for a set term, and control can return to the federal government under certain conditions.",
+  "who_it_affects": [
+   {
+    "group": "District of Columbia government",
+    "how": "Gains control over the RFK campus and must survey the site, report to Congress, protect nearby National Park Service land, and share certain cleanup costs with the Interior Department."
+   },
+   {
+    "group": "National Park Service and the Department of the Interior",
+    "how": "Hand over management of the campus and must reach an agreement with D.C. on splitting some environmental and cleanup costs."
+   },
+   {
+    "group": "D.C. residents and visitors",
+    "how": "May see new housing, businesses, a possible stadium, and required parks and open space on the campus."
+   },
+   {
+    "group": "Developers and sports teams",
+    "how": "May be allowed by D.C. to build and use stadium, commercial, or residential projects on the site, but cannot receive federal funds for stadium purposes."
+   },
+   {
+    "group": "Federal taxpayers",
+    "how": "Federal funds cannot be used to pay for stadium purposes on the campus."
+   }
+  ],
+  "when_it_takes_effect": "Enacted January 6, 2025; the transfer lasts for a set term and can be reversed under specified conditions.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

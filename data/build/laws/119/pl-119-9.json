@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Energy",
  "sponsor": "Rep. Goldman, Craig [R-TX-12]",
- "official_summary": null,
+ "official_summary": "<p>This joint resolution eliminates new, more stringent energy conservation standards for commercial refrigerators, freezers, and refrigerator-freezers. Under the joint resolution, such equipment is no longer required to comply with the new standards.</p><p>Specifically, the joint resolution nullifies&nbsp;the <a href=\"https://www.federalregister.gov/documents/2025/01/21/2024-31214/energy-conservation-program-energy-conservation-standards-for-commercial-refrigerators-freezers-and\">rule</a> titled <em>Energy Conservation Program: Energy Conservation Standards for Commercial Refrigerators, Freezers, and Refrigerator-Freezers&nbsp;</em>and published by the Department of Energy's Office of Energy Efficiency and Renewable Energy on January 21, 2025. Under the rule, the office adopted new energy conservation standards for commercial refrigeration equipment to achieve the maximum improvement in energy efficiency that is technologically feasible and economically justified. The rule required the equipment to comply with the those standards by January 22, 2029.</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-119hjres75enr/uslm/BILLS-119hjres75enr.xml"
@@ -4344,5 +4344,28 @@
   "House": "R",
   "Senate": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "Congress cancels a Department of Energy rule that set stricter energy-efficiency standards for commercial refrigerators and freezers.",
+  "what_it_does": "This law uses the Congressional Review Act to cancel a Department of Energy rule published on January 21, 2025. That rule set new, stricter energy-efficiency standards for commercial refrigerators, freezers, and refrigerator-freezers, with a compliance deadline of January 22, 2029. Because the rule is cancelled, this equipment no longer has to meet those new standards.",
+  "who_it_affects": [
+   {
+    "group": "Makers of commercial refrigerators and freezers",
+    "how": "They no longer have to redesign equipment to meet the stricter standards by January 22, 2029."
+   },
+   {
+    "group": "Businesses that buy commercial refrigeration equipment, such as grocery stores, restaurants, and convenience stores",
+    "how": "The equipment they buy will not be required to meet the new, higher efficiency levels set by the cancelled rule."
+   },
+   {
+    "group": "Department of Energy",
+    "how": "The department's Office of Energy Efficiency and Renewable Energy cannot enforce the cancelled rule."
+   }
+  ],
+  "when_it_takes_effect": "May 9, 2025, when the law was enacted; the cancelled rule's January 22, 2029 compliance deadline no longer applies.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

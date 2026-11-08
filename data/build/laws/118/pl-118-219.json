@@ -39,5 +39,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Congress named a South Carolina post office in Surfside Beach after Nancy Yount Childs.",
+  "what_it_does": "This law renames the U.S. Postal Service facility at 420 Highway 17 North in Surfside Beach, South Carolina, as the Nancy Yount Childs Post Office Building. It is an honorary naming measure. It does not change postal services, rules, or costs.",
+  "who_it_affects": [],
+  "when_it_takes_effect": null,
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

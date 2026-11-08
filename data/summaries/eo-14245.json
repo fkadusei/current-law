@@ -1,0 +1,24 @@
+{
+ "headline": "Executive order sets up tariffs on goods from countries that import oil from Venezuela.",
+ "what_it_does": "Based on its title, this order allows the US to charge tariffs, which are taxes on imports, on goods from countries that buy oil from Venezuela. No summary was provided, so details such as the tariff rate, which countries are covered, and how decisions are made are not described here.",
+ "who_it_affects": [
+  {
+   "group": "Countries that import Venezuelan oil",
+   "how": "Goods they send to the United States may face added tariffs."
+  },
+  {
+   "group": "US businesses that import goods from those countries",
+   "how": "They may pay higher costs on those imports because of the tariffs."
+  },
+  {
+   "group": "Venezuela's oil industry",
+   "how": "Other countries may have less reason to buy its oil if doing so leads to US tariffs."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

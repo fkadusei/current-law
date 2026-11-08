@@ -10,19 +10,55 @@ export function getStaticPaths() {
 }
 const { p } = Astro.props;
 const base = import.meta.env.BASE_URL.replace(/\/$/, "");
+const info = PRESIDENT_INFO[p.id] || {};
 const laws = allLaws().filter((l) => l.president?.id === p.id);
 const eos = executiveOrders().filter((e) => e.president?.id === p.id);
+const own = p.party[0];
+const other = own === "D" ? "R" : "D";
+const n = (side) => laws.filter((l) => l.party_color?.side === side).length;
+const voice = laws.filter((l) => !l.party_color).length;
+const oneParty = laws.filter((l) => l.party_color?.party_line).length;
+const partyWord = { D: "Democratic", R: "Republican" };
+const SHOW = 60;
 ---
-<Base title={p.name} kind="President">
-  <p class="muted crumbs"><a href={`${base}/presidents/`}>Presidents</a></p>
-  <h1>{p.name}</h1>
-  <p class={`party-${p.party[0]} role`}>{p.party} · {PRESIDENT_INFO[p.id]?.years}{PRESIDENT_INFO[p.id]?.note ? ` · ${PRESIDENT_INFO[p.id].note}` : ""}</p>
+<Base title={p.name} kind="President" description={`Laws signed and executive orders issued by ${p.name}.`}>
+  <section slot="hero" class={`page-hero pres-hero hero-${own}`}>
+    <div class="wrap">
+      <p class="crumbs"><a href={`${base}/presidents/`}>Presidents</a></p>
+      <p class="eyebrow-label">{p.party} · {info.years}{info.note ? ` · ${info.note}` : ""}</p>
+      <h1>{p.name}</h1>
+      <div class="hstats">
+        <div><strong>{laws.length.toLocaleString()}</strong><span>laws signed</span></div>
+        <div><strong>{eos.length.toLocaleString()}</strong><span>executive orders</span></div>
+        {laws.length > 0 && <div><strong>{n(own)}</strong><span>passed mostly by {partyWord[own]} votes</span></div>}
+        {laws.length > 0 && <div><strong>{n(other)}</strong><span>passed mostly by {partyWord[other]} votes</span></div>}
+        {laws.length > 0 && <div><strong>{voice}</strong><span>voice vote, no roll call</span></div>}
+      </div>
+      {laws.length > 0 && (
+        <div class="mix" aria-hidden="true">
+          {n("D") > 0 && <span class="m-D" style={`flex:${n("D")}`}></span>}
+          {n("R") > 0 && <span class="m-R" style={`flex:${n("R")}`}></span>}
+          {voice > 0 && <span class="m-V" style={`flex:${voice}`}></span>}
+        </div>
+      )}
+      {oneParty > 0 && <p class="op">⚠ {oneParty} of these laws passed with yes votes from only one party.</p>}
+    </div>
+  </section>
 
-  <h2>Laws signed ({laws.length})</h2>
-  {laws.length ? <div class="grid">{laws.map((l) => <LawCard law={l} />)}</div>
-    : <p class="muted">Laws from this presidency haven't been loaded yet.</p>}
+  <h2>Laws signed <span class="count">{laws.length}</span></h2>
+  {laws.length ? (
+    <>
+      <div class="grid">{laws.slice(0, SHOW).map((l) => <LawCard law={l} />)}</div>
+      {laws.length > SHOW && (
+        <details class="more">
+          <summary>Show all {laws.length} laws</summary>
+          <div class="grid">{laws.slice(SHOW).map((l) => <LawCard law={l} />)}</div>
+        </details>
+      )}
+    </>
+  ) : <div class="card empty"><strong>Laws from this presidency are on the way.</strong><p class="muted">The site covers laws from 2013 on so far, and older laws back to 1973 are being added. You can still browse this President's executive orders below.</p></div>}
 
-  <h2>Executive orders ({eos.length})</h2>
+  <h2>Executive orders <span class="count">{eos.length}</span></h2>
   {eos.length ? (
     <div class="card table-wrap">
       <table>
@@ -32,11 +68,24 @@ const eos = executiveOrders().filter((e) => e.president?.id === p.id);
         ))}</tbody>
       </table>
     </div>
-  ) : <p class="muted">No executive orders in the data for this President yet (online records start in 1994).</p>}
+  ) : <div class="card empty"><p class="muted">No executive orders here yet. Online records start in 1994.</p></div>}
 </Base>
 <style>
-  .crumbs { font-size: .88rem; }
-  .role { font-weight: 600; margin-top: 0; }
+  .pres-hero .crumbs { font-size: .85rem; margin: 0 0 16px; color: rgb(255 255 255 / .7); }
+  .hero-R { background: radial-gradient(900px 380px at 90% -10%, rgb(212 42 58 / .55), transparent 60%), linear-gradient(180deg, var(--navy), var(--navy-2)); border-bottom: 6px solid var(--rep); }
+  .hero-D { background: radial-gradient(900px 380px at 90% -10%, rgb(30 95 209 / .6), transparent 60%), linear-gradient(180deg, var(--navy), var(--navy-2)); border-bottom: 6px solid var(--dem); }
+  .hstats { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 10px; margin-top: 20px; max-width: 860px; }
+  .hstats div { display: flex; flex-direction: column; padding: 10px 14px; border-radius: 12px; background: rgb(255 255 255 / .08); border: 1px solid rgb(255 255 255 / .14); }
+  .hstats strong { font-size: 1.6rem; line-height: 1.1; color: #fff; }
+  .hstats span { font-size: .8rem; color: rgb(255 255 255 / .75); max-width: 150px; }
+  .mix { display: flex; gap: 2px; height: 10px; max-width: 760px; margin-top: 18px; border-radius: 99px; overflow: hidden; }
+  .m-D { background: var(--dem); } .m-R { background: var(--rep); } .m-V { background: #9aa3b2; }
+  .op { display: inline-block; margin: 16px 0 0; padding: 6px 12px; border-radius: 999px; font-weight: 700; font-size: .88rem; background: #fff3c4; color: #5a4300 !important; }
+  .count { display: inline-block; font-size: .85rem; vertical-align: middle; padding: 2px 10px; border-radius: 999px; background: var(--surface-2); color: var(--muted); margin-left: 6px; }
+  .empty { padding: 18px; }
+  .empty p { margin: 6px 0 0; }
+  .more { margin-top: 14px; }
+  .more summary { cursor: pointer; font-weight: 600; color: var(--accent); padding: 8px 0; }
   .table-wrap { overflow-x: auto; }
   .nowrap { white-space: nowrap; }
 </style>

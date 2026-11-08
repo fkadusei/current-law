@@ -1,0 +1,20 @@
+{
+ "headline": "Executive order aims to make the country less vulnerable to disruptions in positioning, navigation, and timing services such as GPS.",
+ "what_it_does": "This order deals with positioning, navigation, and timing services, which tell devices where they are and what time it is. GPS is the best-known example. Based on its title, the order sets federal policy on using these services responsibly so that disruptions or attacks cause less harm. No summary was provided, so the specific requirements are not described here.",
+ "who_it_affects": [
+  {
+   "group": "Federal agencies",
+   "how": "They are likely directed to carry out the order's policy on how these services are used and protected."
+  },
+  {
+   "group": "Operators of systems that rely on GPS or similar timing and location signals",
+   "how": "They may be affected by federal guidance on using these services in a way that holds up during disruptions."
+  }
+ ],
+ "when_it_takes_effect": "Signed February 12, 2020",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

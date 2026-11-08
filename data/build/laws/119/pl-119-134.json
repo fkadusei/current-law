@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Energy",
  "sponsor": "Rep. Kennedy, Mike [R-UT-3]",
- "official_summary": null,
+ "official_summary": "<p><strong>License to Drill Act</strong></p><p>This act extends through FY2037 the Bureau of Land Management’s (BLM’s) authority to collect oil and gas permit processing fees. For each new permit application, BLM collects a fee that is transferred to the BLM Permit Processing Improvement Fund.&nbsp;(Under current law, the fees are authorized through FY2026.)</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr7831enr/uslm/BILLS-119hr7831enr.xml"
@@ -45,5 +45,24 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Law lets the Bureau of Land Management keep charging oil and gas drilling permit fees through fiscal year 2037.",
+  "what_it_does": "The Bureau of Land Management (BLM) charges a fee for each new application for a permit to drill for oil or gas. This law extends BLM's authority to collect that fee through fiscal year 2037. Before this law, the authority was set to end after fiscal year 2026. The fees go into a BLM fund used to improve how permits are processed.",
+  "who_it_affects": [
+   {
+    "group": "Oil and gas companies that apply for drilling permits on federal land",
+    "how": "They will keep paying a fee for each new permit application through fiscal year 2037."
+   },
+   {
+    "group": "Bureau of Land Management",
+    "how": "The agency keeps a source of money for its Permit Processing Improvement Fund for about 11 more years."
+   }
+  ],
+  "when_it_takes_effect": "Enacted October 20, 2026; extends fee authority through fiscal year 2037.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

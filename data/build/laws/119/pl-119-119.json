@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Social Welfare",
  "sponsor": "Rep. Kustoff, David [R-TN-8]",
- "official_summary": null,
+ "official_summary": "<p><strong>Improving Social Security's Service to Victims of Identity Theft Act</strong></p><p>This act requires the Social Security Administration to provide a single point of contact for any individual whose Social Security number has been misused or whose Social Security card has been lost in transport. The point of contact must track cases&nbsp;to completion and coordinate with other units to resolve issues as quickly as possible.</p><p>The point of contact must consist of a team or subset of specially trained employees. Staffing may change provided there are procedures in place to ensure continuity of records and notify affected individuals when appropriate.</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5345enr/uslm/BILLS-119hr5345enr.xml"
@@ -39,5 +39,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Social Security must give identity theft victims one point of contact to handle their case from start to finish.",
+  "what_it_does": "The Social Security Administration must provide a single point of contact for people whose Social Security number has been misused or whose card was lost in the mail or in transit. This contact must be a team or group of specially trained employees. They must track each case until it is resolved and work with other parts of the agency to fix problems as quickly as possible. Staff on the team can change, but the agency must keep records consistent and notify affected people when appropriate.",
+  "who_it_affects": [
+   {
+    "group": "People whose Social Security number has been stolen or misused",
+    "how": "They will have one specially trained team at Social Security handling their case until it is resolved."
+   },
+   {
+    "group": "People whose Social Security card was lost while being delivered",
+    "how": "They will get the same single point of contact to track and resolve their issue."
+   },
+   {
+    "group": "Social Security Administration employees",
+    "how": "The agency must set up and train a team to serve as the point of contact and keep procedures for continuity of records when staff change."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

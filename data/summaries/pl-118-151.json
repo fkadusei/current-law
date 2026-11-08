@@ -1,0 +1,20 @@
+{
+ "headline": "Law protects small patent applicants from fines if they mistakenly but honestly claim a fee discount they did not qualify for.",
+ "what_it_does": "The U.S. Patent and Trademark Office charges lower patent fees to small businesses and \"micro entities\" such as individual inventors. Under prior law, anyone who falsely claimed one of these discounts faced a fine. This law says no fine applies if the person or business claimed the discount in good faith, meaning they honestly believed they qualified.",
+ "who_it_affects": [
+  {
+   "group": "Small businesses and individual inventors who apply for patents",
+   "how": "They will not be fined if they claim a reduced patent fee in good faith and it later turns out they did not qualify."
+  },
+  {
+   "group": "U.S. Patent and Trademark Office",
+   "how": "The agency can no longer fine applicants whose incorrect claims of a fee discount were made in good faith."
+  }
+ ],
+ "when_it_takes_effect": "Enacted December 17, 2024; the summary does not state a separate effective date.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

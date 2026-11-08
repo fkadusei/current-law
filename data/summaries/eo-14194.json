@@ -1,0 +1,24 @@
+{
+ "headline": "Executive order places new import taxes (duties) on goods, tied to concerns about the US southern border with Mexico.",
+ "what_it_does": "This order puts duties, which are taxes on imported goods, in place as a response to conditions at the US southern border. Because the southern border is shared with Mexico, the duties likely apply to goods coming from Mexico. The title alone does not give the tax rates, which products are covered, or any exceptions.",
+ "who_it_affects": [
+  {
+   "group": "US businesses that import goods from Mexico",
+   "how": "They may have to pay added taxes when bringing covered goods into the country."
+  },
+  {
+   "group": "Mexican companies that sell goods to the US",
+   "how": "Their products may cost more for US buyers because of the new duties."
+  },
+  {
+   "group": "US consumers",
+   "how": "Prices on some imported goods could change if businesses pass the added costs on to shoppers."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

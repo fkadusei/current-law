@@ -1,0 +1,20 @@
+{
+ "headline": "Executive order expands US sanctions on people and groups found to be undermining democracy in Zimbabwe.",
+ "what_it_does": "This order adds more people and groups to an existing US sanctions program on Zimbabwe. Their property and assets that are in the United States or controlled by Americans are frozen, or \"blocked.\" Based on the title, it targets those seen as undermining democratic processes or institutions in Zimbabwe. Details of exactly who is covered are not provided here.",
+ "who_it_affects": [
+  {
+   "group": "People and organizations named under the order",
+   "how": "Any of their property or money held in the US or by US persons is frozen and cannot be used or moved."
+  },
+  {
+   "group": "US banks, businesses, and individuals",
+   "how": "They generally may not do business with or transfer assets to the people and groups whose property is blocked."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

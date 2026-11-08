@@ -1,0 +1,16 @@
+{
+ "headline": "President Clinton amended an earlier order that sets the rules for how the government classifies and declassifies national security information.",
+ "what_it_does": "This order changes Executive Order 12958, which governs how federal agencies mark, protect, and release classified national security information. The title does not say exactly what was changed. Based on the title alone, the specific details of the amendment cannot be confirmed.",
+ "who_it_affects": [
+  {
+   "group": "Federal agencies that handle classified information",
+   "how": "They must follow the updated rules for classifying, protecting, or declassifying national security records."
+  }
+ ],
+ "when_it_takes_effect": "Signed November 19, 1999; the exact effective date is not stated in the provided material.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

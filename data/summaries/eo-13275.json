@@ -1,0 +1,24 @@
+{
+ "headline": "President Bush created a board to investigate and report on certain labor disputes in the U.S. shipping and port industry.",
+ "what_it_does": "This order set up a Board of Inquiry to look into certain labor disputes affecting the U.S. maritime industry. The board was to gather facts and report back to the President. Under federal labor law, such a report can be an early step before the government asks a court to temporarily halt a strike or lockout. The title does not say which disputes or which ports were involved.",
+ "who_it_affects": [
+  {
+   "group": "Maritime and port workers and their unions",
+   "how": "Their labor dispute with employers became the subject of a federal fact-finding review."
+  },
+  {
+   "group": "Shipping companies and port employers",
+   "how": "Their side of the dispute was also reviewed by the board."
+  },
+  {
+   "group": "Businesses that ship or receive goods through U.S. ports",
+   "how": "The review could lead to further federal action that affects whether port operations stop or continue."
+  }
+ ],
+ "when_it_takes_effect": "October 7, 2002, when the order was signed",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

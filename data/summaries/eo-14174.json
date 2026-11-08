@@ -1,0 +1,16 @@
+{
+ "headline": "President Trump canceled a set of earlier executive orders; the title alone does not say which ones.",
+ "what_it_does": "This order revokes, or cancels, certain executive orders issued by earlier presidents. Once an executive order is revoked, federal agencies no longer have to follow its instructions. The title does not name which orders were canceled or what topics they covered, so the specific effects cannot be described from this information alone.",
+ "who_it_affects": [
+  {
+   "group": "Federal agencies and their employees",
+   "how": "They stop carrying out the policies and instructions in the canceled orders."
+  }
+ ],
+ "when_it_takes_effect": "Signed January 21, 2025; the exact effective date is not stated in the provided material.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

@@ -1,0 +1,24 @@
+{
+ "headline": "Public schools must charge in-state tuition to Selected Reserve members using Montgomery GI Bill benefits, or lose VA approval.",
+ "what_it_does": "The law tells the Department of Veterans Affairs to disapprove courses at schools that charge more than in-state tuition to people using Montgomery GI Bill-Selected Reserve education benefits. This applies to students living in the state where the school is located, no matter which state they officially call home. Schools that charge these students out-of-state rates could no longer have their courses approved for these benefits.",
+ "who_it_affects": [
+  {
+   "group": "Members of the military Selected Reserve using Montgomery GI Bill-Selected Reserve benefits",
+   "how": "They could pay in-state tuition at a school in the state where they live, even if their legal residence is in another state."
+  },
+  {
+   "group": "Colleges and other schools that accept VA education benefits",
+   "how": "They must charge these students no more than in-state tuition to keep their courses approved by the VA for these benefits."
+  },
+  {
+   "group": "Department of Veterans Affairs",
+   "how": "It must disapprove courses at schools that charge these students more than in-state tuition."
+  }
+ ],
+ "when_it_takes_effect": "The summary does not give a start date; the law was enacted on December 12, 2025.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

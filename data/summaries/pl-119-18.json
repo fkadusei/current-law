@@ -1,0 +1,24 @@
+{
+ "headline": "Law lets the Defense Department again sell extra aircraft and parts for fighting wildfires, through October 1, 2035.",
+ "what_it_does": "This law renews the Department of Defense's power to sell its excess aircraft and aircraft parts that are fit for commercial sale, so buyers can use them to fight wildfires. It allows these aircraft to drop water on fires, not just fire retardant as under the old rule. It also removes a past limit on using these purchased aircraft to help fight wildfires in other countries.",
+ "who_it_affects": [
+  {
+   "group": "Companies that provide aerial firefighting services",
+   "how": "They can again buy surplus military aircraft and parts for wildfire work and may use them to drop water as well as fire retardant."
+  },
+  {
+   "group": "Department of Defense",
+   "how": "It regains authority to sell certain excess aircraft and parts for wildfire suppression until October 1, 2035."
+  },
+  {
+   "group": "Countries needing wildfire help",
+   "how": "Aircraft bought under this program are no longer limited in providing wildfire suppression assistance abroad."
+  }
+ ],
+ "when_it_takes_effect": "The sales authority begins June 12, 2025, and ends October 1, 2035.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

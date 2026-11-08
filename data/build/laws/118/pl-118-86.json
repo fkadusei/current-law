@@ -36,5 +36,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law extends federal support for the national Poison Help line, a public awareness campaign, and grants to poison control centers through 2029.",
+  "what_it_does": "The law renews several federal poison control programs through fiscal year 2029. It continues the national Poison Help phone line. It also continues a national media campaign to teach the public and health care providers about the help line and other resources. And it continues a grant program that helps poison control centers provide their services.",
+  "who_it_affects": [
+   {
+    "group": "People who call the Poison Help line",
+    "how": "The national help line people call for advice about poisonings stays authorized through 2029."
+   },
+   {
+    "group": "Poison control centers",
+    "how": "They remain eligible for federal grants that support their ability to provide services."
+   },
+   {
+    "group": "Doctors, nurses, and other health care providers",
+    "how": "They continue to be a target of a national campaign that informs them about the help line and related resources."
+   }
+  ],
+  "when_it_takes_effect": "Enacted September 26, 2024; programs are authorized through fiscal year 2029.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

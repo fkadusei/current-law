@@ -1,0 +1,40 @@
+{
+ "headline": "Creates federal rules for payment stablecoins, limiting who can issue them and requiring full one-to-one backing with cash or similar safe assets.",
+ "what_it_does": "Only approved issuers, such as bank subsidiaries or federally or state-approved companies, may issue payment stablecoins, which are digital coins meant to be redeemable for a fixed dollar value. Issuers must hold reserves equal to every coin they issue in cash, bank deposits, short-term Treasuries, or similar assets, publish their reserves monthly, and explain how people can cash out. Knowingly issuing without approval can bring fines of up to $1 million per violation and up to 5 years in prison. Approved stablecoins are not treated as securities or commodities, but issuers must follow anti-money laundering laws.",
+ "who_it_affects": [
+  {
+   "group": "Companies that issue stablecoins",
+   "how": "They must get federal or state approval, keep one-to-one reserves, publish monthly reserve reports checked by an accounting firm, and follow capital, risk, and anti-money laundering rules."
+  },
+  {
+   "group": "People who hold or use stablecoins",
+   "how": "Coins from approved issuers must be backed by reserves and redeemable under published policies and fees, and the law sets how holders are treated if an issuer goes bankrupt."
+  },
+  {
+   "group": "Crypto exchanges and other digital asset service providers",
+   "how": "Three years after enactment, they may not offer or sell stablecoins in the U.S. unless the coins come from approved issuers or qualifying foreign issuers."
+  },
+  {
+   "group": "Foreign stablecoin issuers",
+   "how": "They can offer coins in the U.S. only if Treasury finds their home country's rules comparable, they register with the OCC, hold enough reserves in a U.S. institution in most cases, and their country is not under U.S. sanctions."
+  },
+  {
+   "group": "Public companies outside the financial industry",
+   "how": "They may not issue payment stablecoins unless a federal review committee approves them unanimously."
+  },
+  {
+   "group": "Banks, credit unions, and trust companies",
+   "how": "They may issue stablecoins through subsidiaries, and they keep their power to issue digital assets that represent deposits."
+  },
+  {
+   "group": "Certain federal employees",
+   "how": "They must report holdings of approved stablecoins worth more than $5,000 on their financial disclosure forms."
+  }
+ ],
+ "when_it_takes_effect": "The earlier of 18 months after enactment (January 18, 2027) or 120 days after regulators issue final rules; the ban on exchanges selling unapproved stablecoins starts 3 years after enactment (July 18, 2028).",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

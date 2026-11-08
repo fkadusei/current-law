@@ -39,5 +39,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Congress approves the first US-Taiwan trade agreement and sets rules for how future US-Taiwan trade deals are negotiated and approved.",
+  "what_it_does": "This law gives Congress's approval to a June 1, 2023, trade agreement between the United States and Taiwan that covers topics like customs procedures and how regulations are made. The agreement can take effect no sooner than 30 days after the President certifies in writing that Taiwan has taken the steps needed to comply. For future agreements under the same initiative, the U.S. Trade Representative must share negotiating texts with Congress and give daily briefings to certain members during negotiating rounds. A future agreement cannot take effect unless its text is posted publicly online at least 60 days before signing and Congress passes a law approving it.",
+  "who_it_affects": [
+   {
+    "group": "Businesses that import or export goods between the US and Taiwan",
+    "how": "They may see changes in customs administration and regulatory practices once the agreement takes effect."
+   },
+   {
+    "group": "The U.S. Trade Representative's office",
+    "how": "It must share US negotiating texts with Congress before sharing them with Taiwan or outside parties, share Taiwan's texts within three days, and brief certain members of Congress daily during negotiations."
+   },
+   {
+    "group": "Members of Congress",
+    "how": "They gain access to negotiating texts and briefings, and must pass a law approving any future US-Taiwan agreement before it can take effect."
+   },
+   {
+    "group": "The general public",
+    "how": "The text of any future US-Taiwan agreement must be posted on a public USTR website at least 60 days before the President enters into it."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted August 7, 2023; the June 1, 2023, agreement can enter into force no earlier than 30 days after the President certifies to Congress that Taiwan has taken the needed steps to comply.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

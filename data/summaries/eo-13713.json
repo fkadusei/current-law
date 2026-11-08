@@ -1,0 +1,20 @@
+{
+ "headline": "Federal executive departments and agencies closed for half of the workday on Thursday, December 24, 2015, Christmas Eve.",
+ "what_it_does": "This executive order closed executive departments and agencies of the federal government for half of the workday on Thursday, December 24, 2015. Federal workers got part of Christmas Eve off. The title does not give further details, such as which part of the day was closed or whether any offices had to stay open.",
+ "who_it_affects": [
+  {
+   "group": "Federal employees in executive departments and agencies",
+   "how": "Many were excused from work for half of the day on December 24, 2015."
+  },
+  {
+   "group": "People who use federal offices and services",
+   "how": "Some federal offices may have had shorter hours on December 24, 2015."
+  }
+ ],
+ "when_it_takes_effect": "Thursday, December 24, 2015",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

@@ -1,0 +1,24 @@
+{
+ "headline": "Executive order directs federal agencies to review the 2015 \"Waters of the United States\" rule.",
+ "what_it_does": "This order calls for a review of the federal \"Waters of the United States\" rule. That rule defines which streams, wetlands, and other waters fall under federal water pollution law. The order itself does not change the rule; it starts a review that could lead to the rule being revised or withdrawn. Only the title was provided, so details beyond this are limited.",
+ "who_it_affects": [
+  {
+   "group": "Farmers, ranchers, builders, and other landowners",
+   "how": "Any later change to the rule could affect whether they need federal permits for work near streams or wetlands on their land."
+  },
+  {
+   "group": "Federal environmental agencies",
+   "how": "They are directed to carry out the review of the rule."
+  },
+  {
+   "group": "State governments",
+   "how": "A change in federal coverage could shift how much responsibility states have for regulating their own waters."
+  }
+ ],
+ "when_it_takes_effect": "Signed February 28, 2017; executive orders generally take effect when signed.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

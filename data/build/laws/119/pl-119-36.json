@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Finance and Financial Sector",
  "sponsor": "Rep. Rose, John W. [R-TN-6]",
- "official_summary": null,
+ "official_summary": "<p><strong>Homebuyers Privacy Protection Act</strong></p><p>This act limits the circumstances in which credit reporting agencies may provide consumer credit reports to third parties in connection with residential mortgage transactions.&nbsp;</p><p>Specifically, the act prohibits a credit reporting agency from providing a consumer's credit report to a third party in connection with a residential mortgage transaction unless the transaction consists of a firm offer of credit or insurance and&nbsp;(1) the third party provides documentation certifying that it has the consumer's consent; or (2) the third party has originated a mortgage on behalf of the consumer, is a current mortgage loan&nbsp;servicer to the consumer, or has a current specified banking relationship with the consumer.</p><p>These provisions take effect 180 days after enactment.</p><p>The Government Accountability Office must study and report on the value of trigger leads (a marketing tactic facilitated by credit reporting agencies that may result in unsolicited credit offers to a consumer after a consumer applies for a separate type of credit) received by text message.</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2808enr/uslm/BILLS-119hr2808enr.xml"
@@ -42,5 +42,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "New law limits when credit bureaus can share a person's credit report with other companies after they apply for a home loan.",
+  "what_it_does": "When someone applies for a mortgage, credit reporting agencies may no longer give that person's credit report to outside companies for credit or insurance offers unless certain conditions are met. The outside company must either have the person's documented consent, or already have a relationship with them, such as being their current mortgage servicer, having made a mortgage for them, or having a current banking relationship with them. The law also requires the Government Accountability Office to study the value of 'trigger leads,' which are unrequested credit offers sent after a person applies for credit, when those offers arrive by text message.",
+  "who_it_affects": [
+   {
+    "group": "People applying for a home mortgage",
+    "how": "Their credit reports can be shared with fewer outside companies, which may reduce the unrequested loan or insurance offers they get after applying."
+   },
+   {
+    "group": "Credit reporting agencies",
+    "how": "They must limit sales of mortgage-related credit reports to companies that show the consumer's consent or have an existing relationship with the consumer."
+   },
+   {
+    "group": "Mortgage lenders, insurers, and marketers that buy trigger leads",
+    "how": "They can no longer get these credit reports unless they have the consumer's documented consent or a current lending, servicing, or banking relationship with the consumer."
+   },
+   {
+    "group": "Banks and mortgage servicers with existing customers",
+    "how": "They may still receive credit reports for their current customers who apply for a mortgage."
+   }
+  ],
+  "when_it_takes_effect": "The limits on sharing credit reports take effect 180 days after enactment, around March 4, 2026. The law was enacted on September 5, 2025.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

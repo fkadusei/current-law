@@ -1,4 +1,5 @@
 ---
+import ChatWidget from "../components/ChatWidget.astro";
 const { title, kind, description = "Every US federal law since 1973: what it does, who voted for it, and who signed it." } = Astro.props;
 const base = import.meta.env.BASE_URL.replace(/\/$/, "");
 const path = Astro.url.pathname.replace(base, "") || "/";
@@ -7,7 +8,7 @@ const nav = [
   ["/politicians/", "Politicians"],
   ["/presidents/", "Presidents"],
   ["/executive-orders/", "Executive orders"],
-  ["/about/", "About"],
+  ["/calendar/", "Calendar"],
 ];
 ---
 <!doctype html>
@@ -77,6 +78,7 @@ const nav = [
     {kind && <span hidden data-pagefind-filter="type" data-pagefind-meta="type">{kind}</span>}
     <slot />
   </main>
+  <ChatWidget />
   <footer class="site-footer">
     <div class="wrap footer-inner">
       <div>
@@ -85,7 +87,7 @@ const nav = [
       </div>
       <div>
         <p class="footer-h">Explore</p>
-        {nav.map(([href, label]) => <a href={`${base}${href}`}>{label}</a>)}
+        {[...nav, ["/about/", "About"]].map(([href, label]) => <a href={`${base}${href}`}>{label}</a>)}
       </div>
       <div>
         <p class="footer-h">Sources</p>
@@ -281,7 +283,7 @@ const nav = [
   .theme button svg { width: 16px; height: 16px; }
   .theme button:hover { color: #fff; }
   .theme button[aria-checked="true"] { background: #fff; color: var(--navy); }
-  .gsearch { position: relative; flex: 1 1 260px; max-width: 420px; order: 3; }
+  .gsearch { position: relative; flex: 1 1 220px; max-width: 380px; order: 3; }
   @media (min-width: 1100px) { .gsearch { order: 0; } }
   .gsearch input[type="search"] { width: 100%; padding: 10px 40px 10px 40px; border-radius: 999px; border: 1px solid rgb(255 255 255 / .16); background: rgb(255 255 255 / .08); color: #fff; }
   .gsearch input::placeholder { color: rgb(255 255 255 / .6); }

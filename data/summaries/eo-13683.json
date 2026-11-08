@@ -1,0 +1,16 @@
+{
+ "headline": "A 2014 executive order makes changes to three earlier executive orders; the title alone does not explain what those changes are.",
+ "what_it_does": "This order, signed by President Obama, amends three earlier executive orders: 11030, 13653, and 13673. No summary was provided, so the specific changes cannot be described with confidence. Executive orders like this often make technical or administrative updates to how federal agencies carry out earlier orders.",
+ "who_it_affects": [
+  {
+   "group": "Federal agencies",
+   "how": "Agencies that carry out the three earlier orders may have to follow updated instructions, though the details are not given in the title."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

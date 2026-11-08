@@ -1,0 +1,24 @@
+{
+ "headline": "A 2005 order lets the U.S. freeze the assets of people and groups that help spread weapons of mass destruction.",
+ "what_it_does": "The order blocks, or freezes, property and assets in the United States belonging to people and groups tied to spreading weapons of mass destruction, such as nuclear, chemical, or biological weapons. It also covers those who support them. People and businesses under U.S. jurisdiction generally cannot do business with anyone whose property is blocked. The government can add names to the blocked list over time.",
+ "who_it_affects": [
+  {
+   "group": "People, companies, and organizations accused of helping spread weapons of mass destruction",
+   "how": "Their property and money under U.S. control can be frozen, and they can be cut off from dealing with Americans."
+  },
+  {
+   "group": "U.S. banks, businesses, and individuals",
+   "how": "They must not do business with anyone whose property is blocked and may need to freeze assets they hold for those parties."
+  },
+  {
+   "group": "Federal agencies such as the Treasury and State Departments",
+   "how": "They are responsible for naming who is covered and enforcing the asset freezes."
+  }
+ ],
+ "when_it_takes_effect": "Signed June 28, 2005; took effect at 12:01 a.m. EDT on June 29, 2005.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

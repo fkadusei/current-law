@@ -157,7 +157,7 @@ const fmt = (n) => n.toLocaleString("en-US");
           ${presName ? `<span class="pill signer p-${presParty}">✍ Signed by ${esc(presName)}</span>` : `<span class="pill alert">Became law over a veto</span>`}
           ${Object.entries(ctl).map(([ch, p]) => `<span class="pill ghost ctl"><i class="dot-${p}"></i>${p === "R" ? "Republican" : "Democratic"} ${ch}</span>`).join("")}
         </div>
-      </div>${dy + ry ? `<div class="yes-split"><span class="ys-label">Yes votes</span><span class="ys-bar"><span class="d" style="flex:${dy}"></span><span class="r" style="flex:${ry}"></span></span><span class="ys-nums"><b class="party-D">${dy} D</b><b class="party-R">${ry} R</b></span></div>` : ""}</a>`;
+      </div>${dy + ry ? `<div class="yes-split"><span class="ys-label">Yes votes</span><span class="ys-bar">${dy ? `<span class="d" style="flex:${dy}"></span>` : ""}${ry ? `<span class="r" style="flex:${ry}"></span>` : ""}</span><span class="ys-nums"><b class="party-D">${dy} D</b><b class="party-R">${ry} R</b></span></div>` : ""}</a>`;
   }
   function render(reset) {
     if (reset) { list.innerHTML = ""; shown = 0; }

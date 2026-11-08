@@ -1,0 +1,24 @@
+{
+ "headline": "A 2005 executive order changes how the government decides who can get a security clearance to see classified national security information.",
+ "what_it_does": "Based on its title, this order aims to strengthen the federal government's process for deciding whether a person is eligible for access to classified national security information, a process known as a security clearance. No summary was provided, so the specific changes it makes are not described here.",
+ "who_it_affects": [
+  {
+   "group": "Federal employees who need security clearances",
+   "how": "The process used to decide whether they can access classified information may change."
+  },
+  {
+   "group": "Government contractors and their workers who need security clearances",
+   "how": "Their clearance eligibility reviews may follow updated procedures."
+  },
+  {
+   "group": "Federal agencies that grant security clearances",
+   "how": "They may need to change how they review and decide clearance eligibility."
+  }
+ ],
+ "when_it_takes_effect": "Signed June 27, 2005; no separate start date is given in the available information.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

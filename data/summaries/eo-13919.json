@@ -1,0 +1,20 @@
+{
+ "headline": "Executive order allowing the military to call members of the Selected Reserve to active duty.",
+ "what_it_does": "This order allows members of the Selected Reserve of the US Armed Forces to be ordered to active duty. The Selected Reserve is the part of the reserves that trains regularly and can be called up first. Only the title was provided, so details such as how many people could be called, for how long, and for what mission are not covered here.",
+ "who_it_affects": [
+  {
+   "group": "Members of the military's Selected Reserve",
+   "how": "They could be ordered to leave civilian life and serve on active duty."
+  },
+  {
+   "group": "Families and civilian employers of reservists",
+   "how": "They could be affected when a reservist is called away from home and their regular job."
+  }
+ ],
+ "when_it_takes_effect": "Signed April 30, 2020",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

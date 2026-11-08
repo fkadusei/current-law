@@ -1,0 +1,20 @@
+{
+ "headline": "Executive order lets the U.S. government punish people and companies that help Iran's oil, gas, and chemical industries.",
+ "what_it_does": "This order gives U.S. officials the power to place sanctions on people or companies that provide goods, services, technology, or support to Iran's energy and petrochemical industries. The title does not spell out the exact sanctions or the rules for when they apply, so details are limited here.",
+ "who_it_affects": [
+  {
+   "group": "Companies and individuals that supply Iran's energy and petrochemical industries",
+   "how": "They could face U.S. sanctions if they provide goods, services, technology, or support to these industries."
+  },
+  {
+   "group": "Iran's energy and petrochemical industries",
+   "how": "They may find it harder to get outside goods, technology, and services."
+  }
+ ],
+ "when_it_takes_effect": "Signed November 20, 2011; exact effective date not stated in the title.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

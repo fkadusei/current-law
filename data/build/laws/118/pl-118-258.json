@@ -3515,5 +3515,48 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "Renews federal child welfare programs through 2029 and lets tribal agencies use federal tax refunds to collect past-due child support.",
+  "what_it_does": "Title I extends funding through fiscal year 2029 for major child welfare programs, court improvement grants, and grants for families affected by substance use, with 3% of certain funds going directly to Indian tribes. It expands family support services to youth under 26, allows short-term crisis help like housing or food aid, and adds options such as virtual caseworker visits and grants to support ties between foster children and incarcerated parents. Title II lets tribal child support agencies use the federal tax refund offset program and receive certain IRS and Social Security information to locate parents and collect support.",
+  "who_it_affects": [
+   {
+    "group": "Children and youth in foster care",
+    "how": "Programs serving them are funded through 2029, and youth over 18 may have virtual caseworker visits if they agree."
+   },
+   {
+    "group": "Young adults under 26 and families in crisis",
+    "how": "They can receive family preservation and support services, including short-term help such as housing or food assistance."
+   },
+   {
+    "group": "Kinship caregivers, such as grandparents raising grandchildren",
+    "how": "Grants are authorized to evaluate kinship navigator programs that help them find support."
+   },
+   {
+    "group": "Families affected by parental substance use",
+    "how": "Regional partnership grants that fund services for these families are renewed and revised."
+   },
+   {
+    "group": "Foster children with incarcerated parents",
+    "how": "Demonstration grants are authorized to support their relationships with those parents."
+   },
+   {
+    "group": "Indian tribes and tribal child support agencies",
+    "how": "Tribes receive 3% of certain child welfare funds directly, and tribal agencies gain access to federal tax refund offsets and certain tax and Social Security information."
+   },
+   {
+    "group": "Noncustodial parents who owe past-due child support to tribal agencies",
+    "how": "Their federal tax refunds can now be taken to pay overdue support collected by tribal agencies."
+   },
+   {
+    "group": "State child welfare agencies and family courts",
+    "how": "They get renewed funding, guidance on holding remote court proceedings, and a federal review aimed at reducing paperwork time."
+   }
+  ],
+  "when_it_takes_effect": "Child welfare provisions (Title I) take effect October 1, 2025; the summary does not state a separate date for the child support provisions (Title II), which was enacted January 4, 2025.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

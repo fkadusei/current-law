@@ -1,0 +1,20 @@
+{
+ "headline": "A 2020 executive order lets the U.S. freeze the property of people and groups involved in conventional weapons trade with Iran.",
+ "what_it_does": "Based on its title, this order allows the U.S. government to block, or freeze, property and assets in the United States belonging to certain people tied to Iran's conventional arms activities. Conventional arms are non-nuclear weapons such as guns, missiles, tanks, and aircraft. People whose property is blocked generally cannot use or move it, and Americans generally cannot do business with them. No summary was provided, so details about exactly who can be targeted are not covered here.",
+ "who_it_affects": [
+  {
+   "group": "People and companies involved in supplying, selling, or transferring conventional weapons to or from Iran",
+   "how": "Their property and assets under U.S. control can be frozen."
+  },
+  {
+   "group": "U.S. businesses and banks",
+   "how": "They generally may not do business with or handle assets for people named under the order."
+  }
+ ],
+ "when_it_takes_effect": "Signed September 21, 2020; exact effective date not stated in the provided material.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

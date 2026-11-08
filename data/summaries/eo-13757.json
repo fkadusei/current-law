@@ -1,0 +1,20 @@
+{
+ "headline": "Obama order expands an existing national emergency on harmful cyber activity, adding further steps to respond to it.",
+ "what_it_does": "This order builds on an earlier national emergency declared over harmful hacking and other cyber activity. It takes additional steps under that emergency, which generally means allowing financial penalties, such as freezing assets, against those found responsible. No summary was provided, so the exact new steps are not described here.",
+ "who_it_affects": [
+  {
+   "group": "People and groups outside the US found to be behind harmful cyber activity",
+   "how": "They may face penalties such as having their property in the US frozen and being cut off from dealings with Americans."
+  },
+  {
+   "group": "US businesses and banks",
+   "how": "They may be barred from doing business with people or groups named under the order."
+  }
+ ],
+ "when_it_takes_effect": "Signed December 28, 2016",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

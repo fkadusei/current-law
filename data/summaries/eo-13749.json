@@ -1,0 +1,20 @@
+{
+ "headline": "Executive order sets rules for moving certain Foreign Service employees into regular competitive federal civil service jobs.",
+ "what_it_does": "Based on its title, this order lets certain employees of the Foreign Service be appointed to jobs in the competitive service, the main part of the federal civil service. The details of which employees qualify and under what conditions are not given in the available information.",
+ "who_it_affects": [
+  {
+   "group": "Certain Foreign Service employees",
+   "how": "They may become eligible for appointment to competitive service jobs elsewhere in the federal government."
+  },
+  {
+   "group": "Federal agencies that hire for competitive service jobs",
+   "how": "They may be able to appoint these Foreign Service employees under the rules set by the order."
+  }
+ ],
+ "when_it_takes_effect": "Signed November 29, 2016; no separate start date is given in the available information.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

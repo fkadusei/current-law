@@ -1,0 +1,20 @@
+{
+ "headline": "President Bush signed an order in 2002 updating the Manual for Courts-Martial, the rulebook for military trials.",
+ "what_it_does": "This order makes changes to the Manual for Courts-Martial, which sets the procedures and rules of evidence used in U.S. military justice cases. No summary was provided, so the specific changes are not described here.",
+ "who_it_affects": [
+  {
+   "group": "Members of the U.S. armed forces",
+   "how": "Changes to the manual can affect how service members accused of crimes under military law are charged, tried, or sentenced."
+  },
+  {
+   "group": "Military lawyers and judges",
+   "how": "They must follow the updated rules when handling courts-martial."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

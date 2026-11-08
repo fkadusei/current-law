@@ -1,0 +1,20 @@
+{
+ "headline": "A 1998 executive order bans dealings with terrorists who threaten to disrupt the Middle East peace process.",
+ "what_it_does": "Based on its title, this order bars transactions with terrorists found to threaten the Middle East peace process. Orders like this usually block property and forbid people in the US from doing business with named people or groups. No summary was provided, so the specific people or groups covered and the exact rules are not described here.",
+ "who_it_affects": [
+  {
+   "group": "Terrorists and terrorist groups covered by the order",
+   "how": "They are cut off from transactions with people and businesses under US control."
+  },
+  {
+   "group": "US citizens, businesses, and banks",
+   "how": "They are forbidden from doing business with, or handling money for, those covered by the order."
+  }
+ ],
+ "when_it_takes_effect": "Signed August 20, 1998; the title does not state a separate start date.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

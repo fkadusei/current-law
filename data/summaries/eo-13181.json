@@ -1,0 +1,20 @@
+{
+ "headline": "A 2000 executive order sets privacy protections for people's health information when the government uses it in oversight investigations.",
+ "what_it_does": "Based on its title, this order aims to protect the privacy of personal health information that federal officials see while investigating or overseeing health care. It likely limits how that information can be used or shared during and after those investigations. No summary was provided, so the specific rules and limits are not described here.",
+ "who_it_affects": [
+  {
+   "group": "Patients whose medical records are reviewed in government health oversight investigations",
+   "how": "Their health information is meant to get added privacy protection when officials review it."
+  },
+  {
+   "group": "Federal agencies and investigators who conduct health care oversight",
+   "how": "They would face privacy limits on how they handle health information gathered in these investigations."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

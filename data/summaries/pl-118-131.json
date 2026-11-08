@@ -1,0 +1,24 @@
+{
+ "headline": "New law adds protections and independence for the internal watchdog at the Government Accountability Office (GAO).",
+ "what_it_does": "If GAO removes or transfers its Inspector General (the official who investigates problems inside GAO), it must give both chambers of Congress a written, detailed, case-specific reason at least 30 days in advance. Only the Comptroller General, who heads GAO, may place the Inspector General on non-duty status, and only under set rules. GAO must pass along the Inspector General's yearly budget request to Congress without changing it. The Inspector General must get legal advice from a lawyer who reports directly to the Inspector General or to another inspector general.",
+ "who_it_affects": [
+  {
+   "group": "GAO Inspector General",
+   "how": "Gains advance notice rules for removal or transfer, a budget request GAO cannot change, and their own legal counsel."
+  },
+  {
+   "group": "GAO leadership, including the Comptroller General",
+   "how": "Must explain any removal or transfer of the Inspector General to Congress in writing 30 days ahead and follow limits on placing the Inspector General on non-duty status."
+  },
+  {
+   "group": "Members of Congress",
+   "how": "Receive written explanations before the Inspector General is removed or transferred, and see the Inspector General's budget request as written."
+  }
+ ],
+ "when_it_takes_effect": "Enacted November 25, 2024; the summary does not list a separate effective date.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

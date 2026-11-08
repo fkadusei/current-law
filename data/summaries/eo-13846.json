@@ -1,0 +1,20 @@
+{
+ "headline": "A 2018 executive order brings back certain US sanctions against Iran.",
+ "what_it_does": "This executive order puts back in place certain US sanctions on Iran that had been lifted or paused. Sanctions are penalties, such as limits on trade and money transfers, meant to pressure a foreign government. The title does not list which sanctions are included or how they work, so details are limited here.",
+ "who_it_affects": [
+  {
+   "group": "Businesses and banks that deal with Iran",
+   "how": "They may face penalties or restrictions if they do business covered by the reimposed sanctions."
+  },
+  {
+   "group": "The government and economy of Iran",
+   "how": "Iran is the target of the restored sanctions."
+  }
+ ],
+ "when_it_takes_effect": "Signed August 6, 2018; the title does not give specific start dates for each sanction.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

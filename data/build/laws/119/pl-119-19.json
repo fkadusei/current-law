@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Finance and Financial Sector",
  "sponsor": "Sen. Kennedy, John [R-LA]",
- "official_summary": null,
+ "official_summary": "<p>This joint resolution nullifies the final rule issued by the Department of the Treasury’s Office of the Comptroller of the Currency titled <em>Business Combinations Under the Bank Merger Act</em> and published on September 25, 2024. The rule revises procedures for reviewing applications for proposed bank mergers, such as by removing automatic approvals under an expedited review procedure and by discontinuing streamlined application forms.</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-119sjres13enr/uslm/BILLS-119sjres13enr.xml"
@@ -4367,5 +4367,24 @@
   "House": "R",
   "Senate": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "Congress cancels a 2024 federal rule that changed how bank merger applications are reviewed by the Office of the Comptroller of the Currency.",
+  "what_it_does": "This law uses the Congressional Review Act to cancel a rule issued in September 2024 by the Office of the Comptroller of the Currency (OCC), a Treasury office that oversees national banks. That rule changed how the OCC reviews requests from banks that want to merge. Among other things, it ended automatic approvals under a faster review process and stopped the use of shorter application forms. With the rule canceled, it has no legal effect.",
+  "who_it_affects": [
+   {
+    "group": "National banks and federal savings associations planning mergers",
+    "how": "Their merger applications will no longer be reviewed under the procedures set by the canceled 2024 rule."
+   },
+   {
+    "group": "Office of the Comptroller of the Currency",
+    "how": "The agency cannot enforce the 2024 rule and, under the Congressional Review Act, cannot issue a substantially similar rule unless Congress later authorizes it."
+   }
+  ],
+  "when_it_takes_effect": "Enacted June 20, 2025",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

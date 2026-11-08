@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Armed Forces and National Security",
  "sponsor": "Sen. Cornyn, John [R-TX]",
- "official_summary": null,
+ "official_summary": "<p><strong>National Defense Authorization Act for Fiscal Year 2026</strong></p><p>This bill sets forth policies and authorities for FY2026 for Department of Defense (DOD) programs and activities, military construction, and the national security programs of the Department of Energy (DOE). The bill also sets forth policies and authorities for the Department of State, the Coast Guard, and the Intelligence Community (IC).</p><p>Among other elements, the bill</p><ul><li>authorizes the procurement of various items, including aircraft, ships, and missiles;</li><li>sets active duty and reserve component personnel strength levels;</li><li>sets policy regarding various aspects of military health care and military compensation;</li><li>sets policy regarding DOD acquisitions and acquisition management, including contracting authorities and domestic sourcing;</li><li>sets policy for various matters related to DOD interactions with foreign nations, including matters concerning Israel, Ukraine, and the Indo-Pacific;</li><li>sets policy for various matters related to DOD cyber operations, cybersecurity, and artificial intelligence;</li><li>authorizes specified military construction projects and extends the authorization of certain projects from previous fiscal years;</li><li>authorizes the National Nuclear Security Administration, Defense Nuclear Facilities Safety Board, Naval Petroleum Reserves, and Maritime Administration;</li><li>sets policy regarding the organization and workforce of the State Department;</li><li>sets acquisition and personnel policy for the Coast Guard;&nbsp;</li><li>sets policy for merchant mariner credentials, vessel safety, and oil pollution response; and</li><li>sets policy for the IC regarding artificial intelligence and biotechnology.</li></ul><p>For additional information on the National Defense Authorization Act (NDAA) see</p><ul><li><a href=\"https://www.congress.gov/crs-product/IF10516\">In Focus IF10516, Defense Primer: Navigating the&nbsp;NDAA</a>, and</li><li><a href=\"https://www.congress.gov/crs-product/IF10515\">In Focus IF10515, Defense Primer: The&nbsp;NDAA Process</a>.</li></ul>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-119s1071enr/uslm/BILLS-119s1071enr.xml"
@@ -4370,5 +4370,48 @@
   "House": "R",
   "Senate": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "The yearly defense law sets Pentagon policies and spending limits for 2026, plus rules for the State Department, Coast Guard, and intelligence agencies.",
+  "what_it_does": "This law sets policies and authorizes spending for Defense Department programs, military construction, and Energy Department nuclear security work for fiscal year 2026. It approves buying aircraft, ships, and missiles, and sets how many active duty and reserve troops the military can have. It also sets rules on military health care and pay, defense contracting, cybersecurity, and artificial intelligence. It covers policies on Israel, Ukraine, and the Indo-Pacific, along with rules for the State Department workforce, the Coast Guard, merchant mariners, and intelligence agencies.",
+  "who_it_affects": [
+   {
+    "group": "Active duty and reserve service members",
+    "how": "The law sets troop strength levels and policies on military pay and health care."
+   },
+   {
+    "group": "Military families who use military health care",
+    "how": "The law changes policies for parts of the military health care system."
+   },
+   {
+    "group": "Defense contractors and companies that sell to the military",
+    "how": "The law sets contracting rules, including requirements about buying goods made in the US."
+   },
+   {
+    "group": "Communities near military bases",
+    "how": "The law authorizes specific military construction projects and extends some earlier ones."
+   },
+   {
+    "group": "State Department employees",
+    "how": "The law sets policies on how the State Department is organized and staffed."
+   },
+   {
+    "group": "Coast Guard members",
+    "how": "The law sets personnel and purchasing policies for the Coast Guard."
+   },
+   {
+    "group": "Merchant mariners and commercial vessel operators",
+    "how": "The law sets policies on mariner credentials, vessel safety, and oil spill response."
+   },
+   {
+    "group": "Workers at Energy Department nuclear security sites",
+    "how": "The law authorizes programs of the National Nuclear Security Administration and related agencies."
+   }
+  ],
+  "when_it_takes_effect": "Enacted December 18, 2025; covers fiscal year 2026 (October 1, 2025 to September 30, 2026), though individual provisions may have different dates.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

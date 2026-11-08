@@ -1,0 +1,20 @@
+{
+ "headline": "Obama order updates the rules for who can receive the Purple Heart, the military award for those wounded or killed.",
+ "what_it_does": "This order changes an earlier presidential order, Executive Order 11016, which sets the rules for awarding the Purple Heart. It updates the eligibility criteria, meaning it changes who qualifies for the medal. The title alone does not say exactly which rules were added or changed.",
+ "who_it_affects": [
+  {
+   "group": "Members of the US armed forces who are wounded or killed",
+   "how": "The updated criteria may change whether they or their families can receive the Purple Heart."
+  },
+  {
+   "group": "Families of service members who died in service",
+   "how": "They may become eligible to receive the medal on behalf of a loved one if the new criteria cover that person's case."
+  }
+ ],
+ "when_it_takes_effect": "Signed January 12, 2017; the title does not state a separate effective date.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

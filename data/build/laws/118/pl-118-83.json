@@ -4356,5 +4356,56 @@
   "House": "R",
   "Senate": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "Temporary funding law kept the federal government open through December 20, 2024, added Secret Service money, and extended many expiring programs.",
+  "what_it_does": "This stopgap spending law funded most federal agencies at 2024 levels until December 20, 2024, or until full-year spending bills passed, preventing a shutdown on October 1, 2024. It added money for Secret Service protection, the presidential transition, and the January 2025 inauguration. It also extended many programs that were about to expire, including the National Flood Insurance Program, replacement of stolen SNAP benefits, and a long list of veterans' health, housing, and burial programs.",
+  "who_it_affects": [
+   {
+    "group": "Federal employees",
+    "how": "Agencies could keep paying staff at the rate needed to avoid furloughs while the temporary funding lasted."
+   },
+   {
+    "group": "Families using WIC and other food aid",
+    "how": "The law let USDA spend enough to keep WIC and the Commodity Supplemental Food Program serving current participants, and extended authority to replace SNAP benefits stolen through card skimming."
+   },
+   {
+    "group": "Homeowners with federal flood insurance",
+    "how": "The National Flood Insurance Program was reauthorized through the end of the temporary funding period."
+   },
+   {
+    "group": "People hit by disasters and wildfires",
+    "how": "FEMA's Disaster Relief Fund and Forest Service wildfire funds could be spent as fast as needed, and claim deadlines for the Hermit's Peak/Calf Canyon Fire in New Mexico were extended."
+   },
+   {
+    "group": "Veterans",
+    "how": "Many VA programs were extended through FY2025, including nursing home care for some disabled veterans, homeless veteran services, rural mental health care, and burial benefits for some spouses and children."
+   },
+   {
+    "group": "Families receiving federal housing vouchers",
+    "how": "HUD could use leftover prior-year funds to prevent families from losing rental assistance because of funding shortfalls."
+   },
+   {
+    "group": "Low-income families receiving TANF",
+    "how": "TANF cash assistance funding was extended for the length of the temporary funding period."
+   },
+   {
+    "group": "Farmers and ranchers",
+    "how": "USDA could fund approved farm ownership and operating loans, and livestock price reporting rules were extended."
+   },
+   {
+    "group": "Medical laboratories serving Medicare patients",
+    "how": "Certain Medicare lab reporting requirements and related payment cuts were delayed until 2026."
+   },
+   {
+    "group": "Rural air travelers",
+    "how": "The Essential Air Service program could be funded at the rate needed to keep flights to small communities running."
+   }
+  ],
+  "when_it_takes_effect": "Signed September 26, 2024; government funding ran from October 1, 2024, through December 20, 2024 (or earlier if full-year bills passed), while many veterans and other extensions run through September 30, 2025, or later.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Social Welfare",
  "sponsor": "Rep. Fong, Vince [R-CA-20]",
- "official_summary": null,
+ "official_summary": "<p><strong>Clergy Act</strong></p><p>This act establishes a two-year window for members of the clergy who have opted out of Social Security and Medicare taxes (and are thus ineligible for benefits under those programs) to opt back in.</p><p>Under current law, certain ministers, members of religious orders, and Christian Science practitioners who object to participation in public insurance programs on religious or conscientious grounds may apply to the Internal Revenue Service (IRS) for an exemption from Social Security and Medicare taxes on ministerial earnings.&nbsp;Individuals who are approved for the exemption do&nbsp;not receive Social Security or Medicare benefits in retirement unless they have qualifying credits from other employment. The exemption is irrevocable. </p><p>Under the act, clergy members may choose to revoke their exemption by filing an application with the IRS by the due date of their federal income tax return for the second taxable year after December 31, 2028 (i.e., April 15, 2031, unless an individual obtains an extension to file their taxes). A clergy member may choose for the revocation to take effect in taxable year 2029 or taxable year 2030. A revocation under the act is permanent.</p><p>Clergy members who opt back in will generally need 10 years of covered employment (40 credits) to be eligible for Social Security and Medicare&nbsp;benefits, as is currently required for these programs.</p><p>The IRS must develop a plan to inform clergy members of their eligibility to revoke prior exemptions, pursuant to the act's changes.</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr227enr/uslm/BILLS-119hr227enr.xml"
@@ -3514,5 +3514,28 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "Clergy who opted out of Social Security and Medicare taxes get a one-time window to opt back in.",
+  "what_it_does": "Some ministers, members of religious orders, and Christian Science practitioners got an IRS exemption from Social Security and Medicare taxes on their church earnings, which also meant giving up those benefits. Until now that choice could not be undone. This law lets them cancel the exemption by filing with the IRS by their tax return due date for 2030 (usually April 15, 2031), with the change starting in tax year 2029 or 2030. Canceling is permanent, and the IRS must make a plan to tell clergy about this option.",
+  "who_it_affects": [
+   {
+    "group": "Ministers, members of religious orders, and Christian Science practitioners with a current exemption",
+    "how": "They can choose to start paying Social Security and Medicare taxes on their ministry earnings again and earn credits toward benefits, but the choice cannot be reversed."
+   },
+   {
+    "group": "Clergy who opt back in",
+    "how": "They will generally still need 10 years of covered work (40 credits) to qualify for Social Security and Medicare benefits."
+   },
+   {
+    "group": "The Internal Revenue Service",
+    "how": "It must process revocation requests and create a plan to inform eligible clergy about the new option."
+   }
+  ],
+  "when_it_takes_effect": "Revocations can take effect for tax year 2029 or 2030; applications are due by the tax filing deadline for tax year 2030 (generally April 15, 2031, or later with an extension).",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

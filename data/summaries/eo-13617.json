@@ -1,0 +1,20 @@
+{
+ "headline": "Executive order freezes certain Russian government property in the U.S. tied to a deal on uranium taken from nuclear weapons.",
+ "what_it_does": "The order blocks, or freezes, certain property of the Russian government connected to the handling of highly enriched uranium taken from dismantled nuclear weapons. Blocked property generally cannot be transferred, seized, or otherwise dealt with without U.S. government permission. Only the title was available, so the exact scope and details are not described here.",
+ "who_it_affects": [
+  {
+   "group": "The Government of the Russian Federation",
+   "how": "Some of its property linked to the disposal of weapons-grade uranium is frozen under U.S. control."
+  },
+  {
+   "group": "U.S. companies and individuals dealing with that property",
+   "how": "They may be barred from transferring or handling the blocked property without government approval."
+  }
+ ],
+ "when_it_takes_effect": "Signed June 25, 2012; the exact effective date is not stated in the title.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

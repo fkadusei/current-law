@@ -1,4 +1,5 @@
 ---
+import Avatar from "./Avatar.astro";
 import { displayName, PARTY_NAME, formatDate } from "../lib/data.js";
 import Hemicycle from "./Hemicycle.astro";
 const { vote, index } = Astro.props;
@@ -45,7 +46,7 @@ const label = { yea: "Yes", nay: "No", present: "Present", "not voting": "Didn't
         <tbody>
           {members.map((m) => (
             <tr data-q={`${displayName(m.name)} ${m.state}`.toLowerCase()}>
-              <td>{m.bioguide ? <a href={`${base}/politicians/${m.bioguide}/`}>{displayName(m.name)}</a> : displayName(m.name)}</td>
+              <td><span class="who"><Avatar bioguide={m.bioguide} name={displayName(m.name)} party={m.party} size={34} />{m.bioguide ? <a href={`${base}/politicians/${m.bioguide}/`}>{displayName(m.name)}</a> : displayName(m.name)}</span></td>
               <td class={`party-${m.party}`}>{m.party}</td>
               <td>{m.state}</td>
               <td class={`v-${m.vote.replace(" ", "-")}`}>{label[m.vote]}</td>
@@ -73,6 +74,7 @@ const label = { yea: "Yes", nay: "No", present: "Present", "not voting": "Didn't
   .nay-R { background: color-mix(in srgb, var(--rep) 35%, var(--surface-2)); }
   .nay-I { background: color-mix(in srgb, var(--ind) 35%, var(--surface-2)); }
   details { margin-top: 12px; }
+  .who { display: inline-flex; align-items: center; gap: 12px; }
   summary { cursor: pointer; font-weight: 600; padding: 6px 0; }
   .member-filter { width: 100%; margin: 8px 0; }
   .table-scroll { max-height: 420px; overflow: auto; border: 1px solid var(--border); border-radius: 8px; }

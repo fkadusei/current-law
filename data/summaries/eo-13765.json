@@ -1,0 +1,20 @@
+{
+ "headline": "A 2017 executive order directs federal agencies to reduce the costs of the Affordable Care Act while Congress works toward repealing it.",
+ "what_it_does": "Based on its title, this order tells the executive branch to lessen the economic burden of the Patient Protection and Affordable Care Act (often called the ACA or Obamacare). It treats the law as expected to be repealed and calls for easing its impact in the meantime. No official summary was provided, so the specific steps agencies must take are not described here.",
+ "who_it_affects": [
+  {
+   "group": "People and businesses covered by Affordable Care Act rules",
+   "how": "Federal agencies may change how they carry out ACA requirements in ways meant to lower costs for those subject to the law."
+  },
+  {
+   "group": "Federal agencies that run the Affordable Care Act",
+   "how": "They are directed to look for ways to reduce the law's economic burden while repeal is pending."
+  }
+ ],
+ "when_it_takes_effect": "Signed January 20, 2017; executive orders generally take effect when signed.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

@@ -1,0 +1,28 @@
+{
+ "headline": "Short-term extension keeps foreign intelligence surveillance powers under FISA Title VII, including Section 702, in place until June 12, 2026.",
+ "what_it_does": "This law extends the surveillance powers in Title VII of the Foreign Intelligence Surveillance Act until June 12, 2026. Title VII lets the government collect electronic communications of people who are not U.S. persons and are believed to be outside the United States, in order to gather foreign intelligence. This includes Section 702. The summary describes only the new end date and does not mention other changes to the rules.",
+ "who_it_affects": [
+  {
+   "group": "U.S. intelligence agencies",
+   "how": "They can keep using Title VII surveillance powers, including Section 702, until June 12, 2026."
+  },
+  {
+   "group": "Non-U.S. persons outside the United States",
+   "how": "Their communications can continue to be collected for foreign intelligence purposes under Title VII during the extension."
+  },
+  {
+   "group": "Americans who communicate with people overseas",
+   "how": "Their communications may still be picked up incidentally when a foreign target is monitored, and may later be searched under certain conditions."
+  },
+  {
+   "group": "Communications and internet companies",
+   "how": "They may continue to be required to help the government with Title VII collection during the extension."
+  }
+ ],
+ "when_it_takes_effect": "Enacted April 30, 2026; extends the authorities until June 12, 2026.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

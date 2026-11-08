@@ -1,0 +1,20 @@
+{
+ "headline": "Executive order closes federal agencies on December 24, 2020, giving most federal workers Christmas Eve off.",
+ "what_it_does": "This order closes the executive departments and agencies of the federal government on Thursday, December 24, 2020, the day before Christmas. Orders like this usually give most federal employees a paid day off. They also usually let agency leaders keep some offices open or require some workers to report for national security, defense, or other public needs.",
+ "who_it_affects": [
+  {
+   "group": "Federal government employees",
+   "how": "Most executive branch workers get December 24, 2020 off from work, though some may still be required to work."
+  },
+  {
+   "group": "People who use federal offices and services",
+   "how": "Many federal offices may be closed or have limited service on December 24, 2020."
+  }
+ ],
+ "when_it_takes_effect": "December 24, 2020",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

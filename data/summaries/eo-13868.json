@@ -1,0 +1,20 @@
+{
+ "headline": "A 2019 executive order by President Trump on energy infrastructure and economic growth; its specific provisions are not described in the source.",
+ "what_it_does": "Based on its title, this order deals with energy infrastructure and economic growth. Energy infrastructure can include things like pipelines and other facilities that move or supply energy. The source material gives only the title, so the order's specific rules, directions to agencies, and deadlines cannot be described here.",
+ "who_it_affects": [
+  {
+   "group": "Federal agencies",
+   "how": "Executive orders usually direct federal agencies, but this one's specific instructions are not given in the source."
+  },
+  {
+   "group": "Companies that build or run energy facilities",
+   "how": "The title suggests the order concerns energy infrastructure, but the source does not say how these companies are affected."
+  }
+ ],
+ "when_it_takes_effect": "Signed April 10, 2019; the source does not give a separate effective date.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

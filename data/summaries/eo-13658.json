@@ -1,0 +1,24 @@
+{
+ "headline": "A 2014 executive order sets a minimum wage for workers employed by companies that hold federal government contracts.",
+ "what_it_does": "This order sets a minimum hourly wage that federal contractors must pay workers on their government contracts. It applies to businesses that do work for the federal government under contract. No summary was provided, so details such as the wage amount, which contracts are covered, and start dates are not described here.",
+ "who_it_affects": [
+  {
+   "group": "Workers employed by federal contractors",
+   "how": "They are covered by a set minimum hourly wage for their work on federal contracts."
+  },
+  {
+   "group": "Businesses that hold federal government contracts",
+   "how": "They must pay covered workers at least the minimum wage set by the order."
+  },
+  {
+   "group": "Federal agencies that award contracts",
+   "how": "They are expected to apply the wage requirement to the contracts they manage."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

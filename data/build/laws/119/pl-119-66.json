@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Congress",
  "sponsor": "Sen. Lummis, Cynthia M. [R-WY]",
- "official_summary": null,
+ "official_summary": "<p><strong>Congressional Award Program Reauthorization Act</strong></p><p>This act reauthorizes through FY2028 the Congressional Award Board, the board that administers the Congressional Award Program, and modifies&nbsp;program medals.</p><p>(The program, established by law in 1979, awards medals to youth ages 14 to 23 who satisfy standards of achievement set by the board. The program aims to promote initiative, achievement, and excellence among youth in the areas of public service, personal development, and physical fitness.)</p><p>The act removes a requirement for program medals to consist of gold-plate over bronze, rhodium over bronze, or bronze.</p><p>The reauthorization is effective as if enacted on October 1, 2023 (the date on which a prior reauthorization expired).</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-119s284enr/uslm/BILLS-119s284enr.xml"
@@ -3536,5 +3536,24 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "Law extends the Congressional Award Board through 2028 and drops the required metals for youth award medals.",
+  "what_it_does": "This law keeps the Congressional Award Board running through fiscal year 2028. The board runs the Congressional Award Program, which gives medals to young people ages 14 to 23 who meet goals in public service, personal development, and physical fitness. The law also removes a rule that the medals must be made of gold-plate over bronze, rhodium over bronze, or bronze. The extension counts back to October 1, 2023, when the last authorization ran out.",
+  "who_it_affects": [
+   {
+    "group": "Young people ages 14 to 23",
+    "how": "They can keep earning Congressional Award medals through the program until at least fiscal year 2028."
+   },
+   {
+    "group": "The Congressional Award Board",
+    "how": "The board is legally authorized again, with no gap since October 1, 2023, and no longer has to use specific metals for medals."
+   }
+  ],
+  "when_it_takes_effect": "Enacted December 26, 2025, but treated as if it took effect October 1, 2023; authorization runs through fiscal year 2028.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

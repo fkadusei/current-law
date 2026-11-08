@@ -1,0 +1,16 @@
+{
+ "headline": "President Trump signed an order canceling an earlier executive order about economic competition.",
+ "what_it_does": "This order revokes, or cancels, a previous executive order dealing with competition. The title does not say which earlier order it cancels. It is likely the 2021 order that directed federal agencies to take steps on competition in many industries, but the source given here does not confirm that. No other details about the order's effects were provided.",
+ "who_it_affects": [
+  {
+   "group": "Federal agencies",
+   "how": "Agencies would no longer be bound by the instructions in the canceled competition order."
+  }
+ ],
+ "when_it_takes_effect": "Executive orders usually take effect when signed, which was August 13, 2025, but the source does not state a date.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

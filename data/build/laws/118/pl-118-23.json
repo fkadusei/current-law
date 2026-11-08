@@ -3557,5 +3557,32 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "Law directs the federal standards agency to research better ways to detect xylazine, new synthetic opioids, and other new drugs.",
+  "what_it_does": "The law requires the National Institute of Standards and Technology (NIST) to support research on identifying xylazine, an animal tranquilizer, along with new synthetic opioids and other new psychoactive drugs. This includes work on fast chemical-testing tools and voluntary best practices for safely handling, moving, and testing these substances. NIST must work with other agencies, colleges, and private companies on this. The Government Accountability Office must also study how well the federal government can detect and respond to these new drugs.",
+  "who_it_affects": [
+   {
+    "group": "National Institute of Standards and Technology",
+    "how": "It must support research, testing tools, and voluntary best practices for identifying xylazine and other new drugs."
+   },
+   {
+    "group": "Crime labs, police, and public health workers who test drugs",
+    "how": "They may gain access to new voluntary guidance and faster testing methods for identifying dangerous substances."
+   },
+   {
+    "group": "Colleges, universities, and private companies",
+    "how": "They may partner with NIST on research to improve drug detection and analysis."
+   },
+   {
+    "group": "Government Accountability Office",
+    "how": "It must study the federal government's ability to detect and respond to new psychoactive drugs like xylazine."
+   }
+  ],
+  "when_it_takes_effect": "Enacted December 19, 2023; the summary does not give specific deadlines.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

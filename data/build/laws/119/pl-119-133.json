@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Public Lands and Natural Resources",
  "sponsor": "Rep. Ciscomani, Juan [R-AZ-6]",
- "official_summary": null,
+ "official_summary": "<p><strong>Chiricahua National Park Act</strong></p><p>This bill redesignates the Chiricahua National Monument in Arizona as the Chiricahua National Park.</p><p>The bill directs the National Park Service (NPS) to (1) ensure the protection of traditional cultural and religious sites in the park, and (2) provide access to those sites by members of Indian tribes for traditional cultural and customary uses. </p><p>Upon the request of an Indian tribe, the&nbsp;NPS may temporarily close to general public use one or more specific areas of the park to protect traditional cultural and customary uses in the area by members of the tribe. The closure must be limited to the smallest practicable area for the minimum period necessary for the traditional cultural and religious activities.</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr6380enr/uslm/BILLS-119hr6380enr.xml"
@@ -42,5 +42,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Changes Chiricahua National Monument in Arizona into a national park and protects tribal access to cultural and religious sites there.",
+  "what_it_does": "This law renames the Chiricahua National Monument in Arizona as the Chiricahua National Park. It directs the National Park Service to protect traditional cultural and religious sites in the park and to let members of Indian tribes use those sites for traditional practices. If a tribe asks, the Park Service may briefly close specific areas to the general public so tribal members can carry out these activities. Any closure must cover the smallest area possible for the shortest time needed.",
+  "who_it_affects": [
+   {
+    "group": "Members of Indian tribes with ties to the area",
+    "how": "They are guaranteed access to traditional cultural and religious sites in the park, and their tribes can ask for temporary closures to hold traditional activities."
+   },
+   {
+    "group": "Park visitors",
+    "how": "Some specific areas of the park may be closed to the public for short periods when a tribe requests it for cultural or religious activities."
+   },
+   {
+    "group": "National Park Service",
+    "how": "The agency must manage the site as a national park, protect cultural and religious sites, and handle tribal requests for temporary closures."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on October 20, 2026; the summary does not give a separate start date.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

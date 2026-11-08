@@ -1,0 +1,16 @@
+{
+ "headline": "President Bush changes five earlier executive orders and cancels a sixth, Executive Order 13011.",
+ "what_it_does": "This order amends five earlier executive orders: 11030, 13279, 13339, 13381, and 13389. It also fully cancels Executive Order 13011. Only the title is available, so the specific changes are not described here.",
+ "who_it_affects": [
+  {
+   "group": "Federal agencies",
+   "how": "Agencies that carry out the amended or canceled orders may have to follow updated instructions."
+  }
+ ],
+ "when_it_takes_effect": "Not stated in the source; it was signed May 12, 2006.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

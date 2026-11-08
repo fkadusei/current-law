@@ -1,0 +1,52 @@
+{
+ "headline": "Law ends the fall 2025 government shutdown, funds most agencies through January 30, 2026, and gives full-year funding to agriculture, veterans, military construction, and Congress.",
+ "what_it_does": "This law ended the shutdown that began October 1, 2025. It keeps most federal agencies funded at 2025 levels until January 30, 2026, and provides full-year 2026 funding for farm and food programs (including SNAP and WIC), the FDA, veterans programs, military construction, and Congress. It guarantees back pay for federal workers, reverses layoffs made during the shutdown, and blocks new layoffs through January 30. It also extends many expiring programs, such as farm bill programs, Medicare telehealth options, community health center funding, and veterans housing and health programs, and it narrows the legal definition of hemp.",
+ "who_it_affects": [
+  {
+   "group": "Federal employees",
+   "how": "Furloughed and working employees get back pay for the shutdown, shutdown-era layoffs are reversed, and most layoffs are blocked through January 30, 2026."
+  },
+  {
+   "group": "People who get SNAP or WIC benefits",
+   "how": "These food aid programs receive full-year 2026 funding, and the law sets monthly milk limits for WIC food packages."
+  },
+  {
+   "group": "Veterans",
+   "how": "VA health care, benefits, homelessness programs, and the Veterans Crisis Line are funded for the year, and VA may not cut Crisis Line staff or services or report certain veterans to the gun background check system without a court finding that they are dangerous."
+  },
+  {
+   "group": "People on Medicare",
+   "how": "Expanded telehealth options, including care from home and audio-only visits, continue through January 30, 2026."
+  },
+  {
+   "group": "Makers and sellers of hemp and CBD products",
+   "how": "The legal definition of hemp now limits total THC, not just delta-9 THC, and excludes many hemp-derived cannabinoid products."
+  },
+  {
+   "group": "Farmers and ranchers",
+   "how": "Programs under the 2018 farm bill are extended through September 30, 2026, and USDA farm, conservation, and crop insurance programs are funded."
+  },
+  {
+   "group": "State governments and other grantees",
+   "how": "States that used their own money to keep federal programs running during the shutdown can be paid back, with interest."
+  },
+  {
+   "group": "Members of Congress",
+   "how": "Members of Congress get no cost-of-living pay raise in fiscal year 2026, and the law funds more security for lawmakers and Supreme Court justices."
+  },
+  {
+   "group": "Patients at community health centers and rural hospitals",
+   "how": "Funding for community health centers and extra Medicare payments to certain small rural hospitals and rural ambulance services continue through January 30, 2026."
+  },
+  {
+   "group": "School meal programs",
+   "how": "Schools may not buy poultry or seafood from China for school meal programs, and fewer schools must follow paid-lunch pricing rules in the 2026-2027 school year."
+  }
+ ],
+ "when_it_takes_effect": "Enacted November 12, 2025; funding is treated as starting October 1, 2025. Most agency funding and many extensions last through January 30, 2026, while agriculture, veterans, military construction, and legislative branch funding run through September 30, 2026.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

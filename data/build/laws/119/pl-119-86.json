@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Economics and Public Finance",
  "sponsor": "Rep. Cole, Tom [R-OK-4]",
- "official_summary": null,
+ "official_summary": "<p><strong>Further Additional Continuing Appropriations Act, 2026</strong></p><p>This bill provides continuing FY2026 appropriations to the Department of Homeland Security (DHS) through May 22, 2026. It is known as a continuing resolution (CR) and ends the partial DHS shutdown that began on February 14, 2026, due to a lapse in appropriations for DHS.</p><p>The CR generally funds most&nbsp;DHS agencies and&nbsp;programs&nbsp;at the FY2025 levels through the earlier of May 22, 2026, or the enactment of the FY2026 DHS appropriations act.</p><p>The bill also requires specified funds to be used to provide back pay, in accordance with current law, to federal employees affected by a government shutdown due to a lapse in appropriations.</p><p>Finally, the bill ratifies and approves certain obligations that were incurred during a government shutdown, including obligations incurred to maintain the essential level of activity to protect life and property and bring about an orderly termination of government functions.</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr7147enr/uslm/BILLS-119hr7147enr.xml"
@@ -3529,5 +3529,28 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "Temporary funding law ends the partial Homeland Security shutdown and funds the department through May 22, 2026.",
+  "what_it_does": "This law gives the Department of Homeland Security (DHS) short-term funding, ending a partial DHS shutdown that began on February 14, 2026. Most DHS agencies and programs are funded at their 2025 levels until May 22, 2026, or until a full-year DHS spending law passes, whichever comes first. It also sets aside money for back pay to federal workers affected by the shutdown. It approves certain spending commitments made during the shutdown, such as those needed to protect life and property.",
+  "who_it_affects": [
+   {
+    "group": "Federal employees at DHS agencies",
+    "how": "They are covered by funds set aside for back pay, under current law, for the time they were affected by the shutdown."
+   },
+   {
+    "group": "DHS agencies and programs",
+    "how": "They can operate again, generally at their 2025 funding levels, through May 22, 2026, or until a full-year DHS funding law is enacted."
+   },
+   {
+    "group": "People and businesses that rely on DHS services",
+    "how": "DHS services affected by the shutdown can resume under the restored funding."
+   }
+  ],
+  "when_it_takes_effect": "Enacted April 30, 2026; funding lasts through May 22, 2026, or until a full-year DHS funding law is enacted, whichever comes first.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

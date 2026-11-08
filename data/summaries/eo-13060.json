@@ -1,0 +1,24 @@
+{
+ "headline": "President Clinton created an emergency board to look into a labor dispute between Amtrak and its track maintenance workers' union.",
+ "what_it_does": "This order set up a temporary emergency board to investigate a dispute between Amtrak and its employees represented by the Brotherhood of Maintenance of Way Employes, a union of workers who maintain railroad tracks and structures. Under federal railway labor law, creating such a board typically delays strikes or lockouts while the board studies the dispute and makes recommendations. The title alone does not give details on the board's members, deadlines, or the specific issues in dispute.",
+ "who_it_affects": [
+  {
+   "group": "Amtrak track and maintenance workers in the Brotherhood of Maintenance of Way Employes",
+   "how": "Their labor dispute with Amtrak is reviewed by a federal board, which generally pauses any strike while the review happens."
+  },
+  {
+   "group": "Amtrak",
+   "how": "The railroad must take part in the board's investigation and generally cannot change working conditions or lock out workers during the review."
+  },
+  {
+   "group": "Amtrak passengers",
+   "how": "Train service may avoid disruption from a strike while the board does its work."
+  }
+ ],
+ "when_it_takes_effect": "Signed August 21, 1997",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

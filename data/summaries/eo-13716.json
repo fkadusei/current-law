@@ -1,0 +1,20 @@
+{
+ "headline": "Executive order cancels four earlier Iran sanctions orders and changes a fifth, in connection with the 2015 Iran nuclear agreement.",
+ "what_it_does": "This order revokes Executive Orders 13574, 13590, 13622, and 13645, which were earlier presidential orders setting sanctions on Iran. It also amends Executive Order 13628 on Iran. It gives the government authority to carry out parts of certain sanctions laws that fall outside what the U.S. agreed to under the Joint Comprehensive Plan of Action of July 14, 2015. The title does not list which specific sanctions or industries are involved.",
+ "who_it_affects": [
+  {
+   "group": "Companies and individuals doing business involving Iran",
+   "how": "Sanctions rules set by the four canceled orders no longer apply, while some other sanctions stay in place under the amended order and existing laws."
+  },
+  {
+   "group": "Federal agencies that enforce sanctions",
+   "how": "They get updated authority to carry out the parts of sanctions laws not covered by U.S. commitments under the 2015 agreement."
+  }
+ ],
+ "when_it_takes_effect": "Signed January 16, 2016; the title does not state a separate start date.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

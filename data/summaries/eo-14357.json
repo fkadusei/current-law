@@ -1,0 +1,24 @@
+{
+ "headline": "Executive order changes the extra import taxes (tariffs) on goods from China that were tied to the synthetic opioid supply chain.",
+ "what_it_does": "This order modifies duties, which are extra taxes on imports, that the U.S. had placed on goods from China to address the flow of synthetic opioids like fentanyl. The title does not say whether the duties go up or down, or by how much. No summary was provided, so the specific details are not known from this source.",
+ "who_it_affects": [
+  {
+   "group": "U.S. businesses that import goods from China",
+   "how": "The amount of extra duty they pay on Chinese goods may change."
+  },
+  {
+   "group": "Shoppers who buy products made in China",
+   "how": "Prices on some imported goods could shift if import costs change."
+  },
+  {
+   "group": "Chinese exporters selling to the U.S.",
+   "how": "The tariff rates on their goods entering the U.S. are being modified."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

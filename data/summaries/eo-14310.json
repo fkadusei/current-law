@@ -1,0 +1,28 @@
+{
+ "headline": "Executive order further extends the federal government's delay in enforcing the law that restricts TikTok in the United States.",
+ "what_it_does": "This order extends, again, an earlier pause on enforcing a federal law aimed at TikTok. That law generally bars app stores and web hosting companies from supporting TikTok unless its China-based owner sells it. The title and the lack of a summary do not give the new end date or other details.",
+ "who_it_affects": [
+  {
+   "group": "People in the US who use TikTok",
+   "how": "The app can keep operating while enforcement of the law stays on hold."
+  },
+  {
+   "group": "App stores and internet hosting companies",
+   "how": "They get more time before the government enforces the law's penalties for supporting TikTok."
+  },
+  {
+   "group": "TikTok and its parent company, ByteDance",
+   "how": "They get more time to work out a possible sale or other arrangement before the law is enforced."
+  },
+  {
+   "group": "Businesses and creators who earn money on TikTok",
+   "how": "They can keep using the platform during the extended delay."
+  }
+ ],
+ "when_it_takes_effect": "Signed June 19, 2025; the length of the extension is not stated in the provided material.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

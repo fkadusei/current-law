@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Native Americans",
  "sponsor": "Sen. Daines, Steve [R-MT]",
- "official_summary": null,
+ "official_summary": "<p><strong>Crow Tribe Water Rights Settlement Amendments Act of 2025</strong></p><p>This bill revises the water rights settlement agreement entered into by the Crow Tribe of Montana and Montana.</p><p>The Crow Tribe Water Rights Settlement Act of 2010 ratified, authorized, and confirmed the water rights compact between the tribe and Montana. Among other provisions, this settlement act authorized the Bureau of Reclamation to plan, design and construct the following two major projects on the Crow Reservation: (1) the rehabilitation and improvement of the Crow Irrigation Project (CIP); and (2) the planning, design, and construction of the MR&amp;I System (the municipal, rural, and industrial water system of the Crow Reservation).</p><p>Among other provisions, the bill revises the settlement act to</p><ul><li>replace references to the <em>MR&amp;I System</em> with <em>MR&amp;I Projects</em>;&nbsp;</li><li>establish a nontrust, interest-bearing account&nbsp;(to be known as the Crow&nbsp;CIP Implementation Account) to allow Reclamation to continue to work on the rehabilitation of the CIP;&nbsp;</li><li>create a new MR&amp;I Projects Account, through which the tribe must use funds for activities related to water production, treatment, or delivery infrastructure; and</li><li>extend by five years (to 2030) the period during which the tribe has the exclusive right to construct hydropower facilities on the Yellowtail&nbsp;Afterbay Dam in Montana.</li></ul>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-119s240enr/uslm/BILLS-119s240enr.xml"
@@ -42,5 +42,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Law updates the 2010 Crow Tribe water rights settlement, changing how irrigation and drinking water project money is handled and extending a hydropower deadline.",
+  "what_it_does": "This law changes the 2010 water rights settlement between the Crow Tribe and the state of Montana. It creates an interest-bearing account so the Bureau of Reclamation can keep fixing up the Crow Irrigation Project. It replaces the single planned community water system with broader \"MR&I Projects\" and sets up a new account the tribe must use for building water production, treatment, or delivery systems. It also gives the tribe five more years, until 2030, as the only party allowed to build hydropower facilities at the Yellowtail Afterbay Dam.",
+  "who_it_affects": [
+   {
+    "group": "Members of the Crow Tribe of Montana",
+    "how": "Their tribe gets new accounts and more flexibility for water infrastructure projects, plus more time to develop hydropower at the Yellowtail Afterbay Dam."
+   },
+   {
+    "group": "People who live on or farm the Crow Reservation",
+    "how": "Work on the reservation's irrigation system and community water supply projects will be funded and managed under the revised rules."
+   },
+   {
+    "group": "Bureau of Reclamation",
+    "how": "The agency gets a new account it can use to continue repairing and improving the Crow Irrigation Project."
+   }
+  ],
+  "when_it_takes_effect": "Enacted October 15, 2026; the tribe's exclusive hydropower right is extended to 2030.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -1,0 +1,20 @@
+{
+ "headline": "A 1994 executive order on nuclear cooperation between the United States and the European Atomic Energy Community (EURATOM).",
+ "what_it_does": "This order deals with the United States' working relationship with EURATOM, a European group that oversees civilian nuclear energy among its member countries. No summary was provided, so its exact terms cannot be confirmed from the source material. Based on the title, it likely sets or continues US policy on sharing nuclear materials, equipment, or technology with EURATOM for peaceful uses.",
+ "who_it_affects": [
+  {
+   "group": "US companies that export nuclear materials, equipment, or technology",
+   "how": "Their ability to send nuclear goods to European countries in EURATOM may depend on the cooperation this order addresses."
+  },
+  {
+   "group": "Federal agencies that oversee nuclear exports",
+   "how": "They would carry out whatever cooperation rules or decisions the order sets."
+  }
+ ],
+ "when_it_takes_effect": "Likely upon signing on March 9, 1994; the source does not say.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

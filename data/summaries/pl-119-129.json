@@ -1,0 +1,24 @@
+{
+ "headline": "Dating apps and websites must warn users when someone who messaged them is later banned for fraud.",
+ "what_it_does": "Online dating apps and websites must send a fraud ban notice to users who got a message from someone the service has banned. The notice must name the banned user's profile, say when they last exchanged messages, and warn that the person may have used a fake identity or tried to cheat users. It must also tell users not to send money or financial information, give tips on avoiding online fraud, and list customer service contact information. The Federal Trade Commission and state attorneys general can enforce these rules.",
+ "who_it_affects": [
+  {
+   "group": "People who use online dating apps or websites",
+   "how": "They will get a warning if someone who messaged them is banned for possible fraud."
+  },
+  {
+   "group": "Companies that run online dating apps or websites",
+   "how": "They must send fraud ban notices with specific information and can face enforcement if they do not."
+  },
+  {
+   "group": "Federal Trade Commission and state attorneys general",
+   "how": "They are given the power to enforce the new notice requirements."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

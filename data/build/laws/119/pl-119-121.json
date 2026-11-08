@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Arts, Culture, Religion",
  "sponsor": "Sen. Blackburn, Marsha [R-TN]",
- "official_summary": null,
+ "official_summary": "<p><strong>American Music Tourism Act of 2025</strong></p><p>This bill directs the National Travel and Tourism Office (NTTO) of the Department of Commerce to promote tourism to music-related and sports attractions.</p><p>The bill requires NTTO to promote domestic and international travel and tourism to&nbsp;U.S. music festivals, concert venues, and other music-related attractions and locations. The bill also expands NTTO's current mandate to facilitate sports and recreation events and activities to include the&nbsp;promotion of international travel and tourism to such activities in the United States.</p><p>NTTO must report its activities and findings to Congress within one year after the bill's enactment and, thereafter, every two years.&nbsp;</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-119s195enr/uslm/BILLS-119s195enr.xml"
@@ -36,5 +36,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "New law directs the Commerce Department's tourism office to promote travel to U.S. music attractions and international travel to U.S. sports events.",
+  "what_it_does": "The law tells the National Travel and Tourism Office, part of the Department of Commerce, to promote travel within the U.S. and from abroad to American music festivals, concert venues, and other music-related places. It also widens the office's existing sports and recreation work to include promoting international travel to sports events in the U.S. The office must report to Congress on its work within one year, and then every two years after that.",
+  "who_it_affects": [
+   {
+    "group": "Music festivals, concert venues, and other music-related attractions",
+    "how": "They may be included in federal efforts to attract visitors from the U.S. and other countries."
+   },
+   {
+    "group": "Organizers of sports and recreation events in the U.S.",
+    "how": "Their events may be promoted by the federal tourism office to travelers from other countries."
+   },
+   {
+    "group": "National Travel and Tourism Office",
+    "how": "The office takes on new promotion duties and must send regular reports to Congress."
+   },
+   {
+    "group": "Congress",
+    "how": "It will receive a report within one year and then every two years on the office's activities and findings."
+   }
+  ],
+  "when_it_takes_effect": "Enacted October 9, 2026; the first report to Congress is due within one year after that, then every two years.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -1,0 +1,28 @@
+{
+ "headline": "Executive order changes which farm and food products are covered by the reciprocal tariffs on imported goods.",
+ "what_it_does": "This order changes the scope of the reciprocal tariffs, which are taxes on goods imported into the United States, as they apply to certain agricultural products. The title does not say which products are affected or whether the change adds or removes products from the tariffs. No summary was provided, so the details are not clear from the available information.",
+ "who_it_affects": [
+  {
+   "group": "Businesses that import certain agricultural products",
+   "how": "The tariffs they pay on some farm and food imports may change, depending on which products the order covers."
+  },
+  {
+   "group": "Foreign producers that export agricultural products to the U.S.",
+   "how": "Their goods may face different tariff treatment when entering the U.S. market."
+  },
+  {
+   "group": "U.S. farmers and food producers",
+   "how": "They may see changes in competition from imported versions of the affected products."
+  },
+  {
+   "group": "Shoppers who buy groceries",
+   "how": "Prices on some imported foods could change if tariffs on them are raised or lowered."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

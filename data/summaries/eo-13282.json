@@ -1,0 +1,24 @@
+{
+ "headline": "Executive order sets new 2003 pay rates for many federal government workers and officials.",
+ "what_it_does": "This order adjusts certain federal pay rates, likely as part of the yearly update to government pay schedules. Orders like this usually set new pay tables for federal civilian employees, senior officials, and members of the military. The title alone does not give the exact amounts or the full list of pay systems covered.",
+ "who_it_affects": [
+  {
+   "group": "Federal civilian employees",
+   "how": "Their pay rates are likely updated under new pay schedules for the coming year."
+  },
+  {
+   "group": "Members of the uniformed military services",
+   "how": "Their pay rates may be adjusted, since yearly pay orders usually include military pay tables."
+  },
+  {
+   "group": "Senior federal officials and executives",
+   "how": "Pay rates for high-level government positions may be updated."
+  }
+ ],
+ "when_it_takes_effect": "Likely the first pay period starting on or after January 1, 2003, which is typical for yearly pay orders; the title does not confirm this.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

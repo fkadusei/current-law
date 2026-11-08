@@ -36,5 +36,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A federal law renames a Postal Service facility in Comstock Park, Michigan, after Captain Miguel Justin Nava.",
+  "what_it_does": "This act names the U.S. Postal Service building at 3913 Leland Avenue Northwest in Comstock Park, Michigan, the Captain Miguel Justin Nava Post Office. It changes only the official name of the facility. It does not change postal services, mail delivery, or staffing.",
+  "who_it_affects": [],
+  "when_it_takes_effect": null,
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

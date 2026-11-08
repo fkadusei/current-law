@@ -1,0 +1,28 @@
+{
+ "headline": "Raises VA disability and survivor payments by the same percentage as the Social Security cost-of-living increase taking effect December 1, 2024.",
+ "what_it_does": "Requires the Department of Veterans Affairs (VA) to raise several benefit amounts by the same percentage as the Social Security cost-of-living increase that starts December 1, 2024. This covers disability compensation, extra payments for dependents, the clothing allowance for certain disabled veterans, and payments to surviving spouses and children. The VA must publish the new amounts in the Federal Register. The VA may also make a similar increase for certain other people paid disability compensation under separate rules.",
+ "who_it_affects": [
+  {
+   "group": "Veterans who receive VA disability compensation",
+   "how": "Their monthly payments go up by the same percentage as the Social Security cost-of-living increase."
+  },
+  {
+   "group": "Disabled veterans with dependents",
+   "how": "The extra payments they receive for spouses, children, or other dependents also increase."
+  },
+  {
+   "group": "Disabled veterans who get the VA clothing allowance",
+   "how": "The clothing allowance amount increases by the same percentage."
+  },
+  {
+   "group": "Surviving spouses and children of veterans who receive dependency and indemnity compensation",
+   "how": "Their survivor payments increase by the same percentage."
+  }
+ ],
+ "when_it_takes_effect": "December 1, 2024",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

@@ -1,0 +1,20 @@
+{
+ "headline": "President Clinton ordered that certain federal advisory committees keep operating instead of expiring.",
+ "what_it_does": "This executive order keeps certain federal advisory committees in operation. These are groups that give advice to the President or federal agencies. The title does not say which committees are included or how long they will continue.",
+ "who_it_affects": [
+  {
+   "group": "Members of the affected federal advisory committees",
+   "how": "They can keep serving on committees that might otherwise have ended."
+  },
+  {
+   "group": "Federal agencies and the White House",
+   "how": "They keep getting advice from the committees that were continued."
+  }
+ ],
+ "when_it_takes_effect": "Signed September 29, 1995; the exact effective date and end date are not stated in the title.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

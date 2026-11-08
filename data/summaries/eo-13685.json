@@ -1,0 +1,20 @@
+{
+ "headline": "Executive order bans most US trade and investment with Ukraine's Crimea region and allows freezing assets of certain people tied to it.",
+ "what_it_does": "Based on its title, this order blocks (freezes) property in the US belonging to certain people connected to the Crimea region of Ukraine. It also bans certain business dealings involving Crimea, such as trade and investment between the US and that region. The specific people and transactions covered are not described in the title.",
+ "who_it_affects": [
+  {
+   "group": "US businesses and investors",
+   "how": "They are barred from certain trade, investment, and other transactions involving the Crimea region."
+  },
+  {
+   "group": "People and companies tied to Crimea who are named under the order",
+   "how": "Their property and assets under US control can be frozen, and Americans generally cannot deal with them."
+  }
+ ],
+ "when_it_takes_effect": "Signed December 19, 2014; exact effective date not stated in the provided material.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

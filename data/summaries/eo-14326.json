@@ -1,0 +1,24 @@
+{
+ "headline": "Executive order changes the rates of the \"reciprocal\" tariffs, the import taxes the U.S. charges on goods from other countries.",
+ "what_it_does": "This order changes the reciprocal tariff rates set up by earlier executive orders. Tariffs are taxes paid on goods brought into the United States from other countries. The title says the order further modifies these rates, but no summary was provided, so the specific new rates and the countries affected are not described here.",
+ "who_it_affects": [
+  {
+   "group": "U.S. businesses that import goods",
+   "how": "They may pay different tariff amounts on goods they bring in from other countries."
+  },
+  {
+   "group": "Foreign companies that sell goods to the U.S.",
+   "how": "The tariff rates applied to their products when they enter the U.S. may change."
+  },
+  {
+   "group": "Shoppers who buy imported products",
+   "how": "Prices of some imported goods could change if businesses pass tariff costs on to customers."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

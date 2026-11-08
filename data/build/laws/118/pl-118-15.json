@@ -4357,5 +4357,60 @@
   "House": "R",
   "Senate": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "Short-term spending law kept the federal government open through November 17, 2023, added disaster aid, and extended many expiring programs.",
+  "what_it_does": "This law funded most federal agencies at their 2023 levels through November 17, 2023, which prevented a government shutdown on October 1. It added emergency money for FEMA's Disaster Relief Fund. It also extended many programs that were about to expire, including FAA aviation programs and airline ticket and fuel taxes through December 31, 2023, and the National Flood Insurance Program and several health and family programs through mid-November. It renewed FDA fees for animal drug applications through 2028.",
+  "who_it_affects": [
+   {
+    "group": "Federal employees",
+    "how": "Agencies stayed funded and could pay staff at the rate needed to avoid furloughs during the extension period."
+   },
+   {
+    "group": "People in areas hit by natural disasters",
+    "how": "FEMA received emergency funding and could spend at the rate needed for response and recovery."
+   },
+   {
+    "group": "Homeowners and renters with flood insurance",
+    "how": "The National Flood Insurance Program was reauthorized through November 17, 2023."
+   },
+   {
+    "group": "Airline passengers and airports",
+    "how": "FAA operations, airport grants, small-community air service programs, and aviation taxes on tickets and fuel were extended through December 31, 2023."
+   },
+   {
+    "group": "Families using WIC and other food aid",
+    "how": "USDA could spend at the rate needed to keep current participation in WIC and the Commodity Supplemental Food Program."
+   },
+   {
+    "group": "Low-income families receiving TANF",
+    "how": "Funding for the Temporary Assistance for Needy Families program was extended."
+   },
+   {
+    "group": "Patients at community health centers",
+    "how": "Funding for community health centers, the National Health Service Corps, and special diabetes programs was extended through November 17, 2023."
+   },
+   {
+    "group": "Hospitals serving many low-income patients",
+    "how": "Planned cuts to Medicaid disproportionate-share hospital payments were delayed until November 18, 2023."
+   },
+   {
+    "group": "Federal wildland firefighters",
+    "how": "Funding continued for their base salary increase."
+   },
+   {
+    "group": "Animal drug makers",
+    "how": "The FDA can keep collecting fees for brand-name and generic animal drug applications through fiscal year 2028."
+   },
+   {
+    "group": "Children and families in the child welfare system",
+    "how": "Child welfare and family support programs were funded through November 17, 2023."
+   }
+  ],
+  "when_it_takes_effect": "Enacted September 30, 2023; most funding lasted through November 17, 2023, FAA extensions through December 31, 2023, and animal drug fees through fiscal year 2028.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -1,6 +1,9 @@
 // Cloudflare Worker for usacurrentlaw.org.
-// Serves /api/headlines (a politics news ticker built from public RSS feeds)
-// and hands every other request to the static site.
+// Serves /api/headlines (a politics news ticker built from public RSS feeds),
+// /api/ask (the chat assistant) and hands every other request to the static site.
+
+import { handleAsk, ChatGuard } from "./chat.js";
+export { ChatGuard };
 
 // A mix of outlets from across the spectrum, so the ticker isn't one-sided.
 const FEEDS = [
@@ -85,6 +88,7 @@ export default {
   async fetch(request, env, ctx) {
     const url = new URL(request.url);
     if (url.pathname === "/api/headlines") return headlines(request, ctx);
+    if (url.pathname === "/api/ask") return handleAsk(request, env);
     return env.ASSETS.fetch(request);
   },
 };

@@ -1,0 +1,24 @@
+{
+ "headline": "President Obama set up a federal emergency board to look into a labor dispute between the Long Island Rail Road and some of its unionized workers.",
+ "what_it_does": "This order creates an emergency board to investigate disputes between the Long Island Rail Road Company and certain employees represented by labor unions. Such boards are set up under federal railroad labor law to study a dispute and make recommendations. The title does not say what the dispute was about or what the board would recommend.",
+ "who_it_affects": [
+  {
+   "group": "Long Island Rail Road workers represented by the unions involved",
+   "how": "Their dispute with the railroad is reviewed by a federal board instead of being settled only between the two sides."
+  },
+  {
+   "group": "Long Island Rail Road Company",
+   "how": "The railroad's dispute with these unions becomes the subject of a federal investigation."
+  },
+  {
+   "group": "Long Island Rail Road riders",
+   "how": "Their commuter rail service depends on how the labor dispute is resolved, though the order's direct effect on service is not stated."
+  }
+ ],
+ "when_it_takes_effect": "Signed March 20, 2014",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

@@ -1,0 +1,20 @@
+{
+ "headline": "Executive order sets added protections for how US intelligence agencies collect and use signals intelligence.",
+ "what_it_does": "This order adds safeguards to US signals intelligence activities. Signals intelligence means information gathered by intercepting electronic communications and other signals. No summary was provided, so the specific rules, limits, and procedures in the order cannot be described here.",
+ "who_it_affects": [
+  {
+   "group": "US intelligence agencies",
+   "how": "They must follow the added safeguards when they collect and handle signals intelligence."
+  },
+  {
+   "group": "People whose electronic communications may be collected by US intelligence",
+   "how": "Their communications are covered by the added protections, though the details are not given in the title."
+  }
+ ],
+ "when_it_takes_effect": "Signed October 7, 2022; the title does not state a separate start date.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

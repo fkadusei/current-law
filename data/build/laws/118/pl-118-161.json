@@ -36,5 +36,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Public Law 118-161 authorizes a Congressional Gold Medal to Everett Alvarez Jr. to recognize his service to the nation.",
+  "what_it_does": "The law provides for the award of a Congressional Gold Medal to Everett Alvarez Jr. It honors his service to the country. The official summary does not describe any other requirements or benefits.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law was enacted on December 23, 2024. The summary does not list a separate effective date.",
+  "ceremonial": true,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

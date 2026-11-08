@@ -1,0 +1,20 @@
+{
+ "headline": "Executive order changes a 2001 order on calling military members to active duty, reportedly to allow recalling retired Air Force members.",
+ "what_it_does": "This order amends Executive Order 13223, a 2001 order issued after the September 11 attacks that let the military call reserve members to active duty during the national emergency. Only the title was provided here. Public reporting at the time said the change let the Air Force recall a limited number of retired members, mainly pilots, to active duty to help with a pilot shortage.",
+ "who_it_affects": [
+  {
+   "group": "Retired Air Force members, especially pilots",
+   "how": "They could reportedly be called back to active military service under this change."
+  },
+  {
+   "group": "The Air Force and Defense Department",
+   "how": "They reportedly gained added authority to bring retired service members back to active duty."
+  }
+ ],
+ "when_it_takes_effect": "Signed October 20, 2017",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

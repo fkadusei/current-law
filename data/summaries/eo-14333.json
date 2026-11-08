@@ -1,0 +1,20 @@
+{
+ "headline": "President Trump issued an executive order declaring a crime emergency in Washington, D.C.",
+ "what_it_does": "This executive order formally declares a crime emergency in the District of Columbia. No summary was provided, so the specific actions, powers, or agencies involved cannot be confirmed from the title alone. Emergency declarations like this are generally used to justify a stronger federal role in responding to a problem.",
+ "who_it_affects": [
+  {
+   "group": "People who live in, work in, or visit Washington, D.C.",
+   "how": "The order focuses on crime in the city, so it may affect public safety activity and policing they encounter."
+  },
+  {
+   "group": "The District of Columbia's local government and police",
+   "how": "The emergency declaration may change how local officials and police work with the federal government, though the details are not given in the title."
+  }
+ ],
+ "when_it_takes_effect": "Signed August 11, 2025; the title does not state a separate start date.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

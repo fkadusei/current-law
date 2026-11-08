@@ -1,0 +1,20 @@
+{
+ "headline": "President Bush ended a national emergency about UNITA, an armed group in Angola, and canceled the executive orders tied to it.",
+ "what_it_does": "This order ends a national emergency that the US had declared over the actions and policies of UNITA, a rebel group in Angola. It also revokes the earlier executive orders linked to that emergency. Those earlier orders had put US sanctions in place, such as limits on trade with UNITA.",
+ "who_it_affects": [
+  {
+   "group": "US companies and individuals who trade internationally",
+   "how": "Restrictions from the earlier UNITA-related orders no longer apply to their dealings."
+  },
+  {
+   "group": "UNITA and people connected to it",
+   "how": "They are no longer the target of the US sanctions set up under the revoked orders."
+  }
+ ],
+ "when_it_takes_effect": "May 6, 2003",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

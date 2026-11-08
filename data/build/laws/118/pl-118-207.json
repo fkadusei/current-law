@@ -36,5 +36,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "New law requires federal reviews of the quality of audits done on groups that receive federal grants and certain contracts.",
+  "what_it_does": "The law requires the Office of Management and Budget (OMB) to pick one or more federal agencies to study how well \"single audits\" are done across the government. A single audit is an independent review of the finances and federal awards of a non-federal group, such as a state, city, or nonprofit. OMB must also create a strategy, and the General Services Administration must build data tools, to spot risks to federal award money using Federal Audit Clearinghouse data. The Government Accountability Office must later review how well these efforts work and how much paperwork they create.",
+  "who_it_affects": [
+   {
+    "group": "States, local governments, tribes, nonprofits, and other groups that receive federal grants or cost reimbursement contracts",
+    "how": "Their required single audits will be studied more closely, and their audit data will be used to spot risks to federal funds."
+   },
+   {
+    "group": "Independent auditors who conduct single audits",
+    "how": "The quality of their audit work will be reviewed in government-wide studies, and GAO will look at their reporting burdens."
+   },
+   {
+    "group": "Federal agencies, including OMB and the General Services Administration",
+    "how": "They must carry out audit quality studies, develop a risk strategy, and build analytic tools."
+   },
+   {
+    "group": "Government Accountability Office",
+    "how": "It must evaluate the strategy, tools, and reporting burdens within four years."
+   }
+  ],
+  "when_it_takes_effect": "Enacted December 23, 2024; the first government-wide audit quality study is due within three years (and every six years after), and the GAO evaluation is due within four years.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Economics and Public Finance",
  "sponsor": "Rep. Cole, Tom [R-OK-4]",
- "official_summary": null,
+ "official_summary": "<p><strong>Commerce, Justice, Science; Energy and Water Development; and Interior and Environment Appropriations Act, 2026</strong></p><p>This bill provides FY2026 appropriations to several federal departments and agencies for activities and programs related to commerce, law enforcement, science, energy and water development, public lands, and the environment.</p><p>Specifically, the bill includes 3 of the 12 regular FY2026 appropriations bills:</p><ul><li>the Commerce, Justice, Science, and Related Agencies Appropriations Act, 2026;</li><li>the Energy and Water Development and Related Agencies Appropriations Act,&nbsp;2026; and</li><li>the Department of the Interior, Environment, and Related Agencies Appropriations Act, 2026.</li></ul><p>The departments, agencies, and activities funded in the bill include</p><ul><li>the Department of Commerce,</li><li>the Department of Justice,</li><li>the National Aeronautics and Space Administration (NASA),</li><li>the National Science Foundation,</li><li>U.S. Army Corps of Engineers civil works projects,</li><li>the Department of Energy,</li><li>the Department of the Interior,</li><li>the Environmental Protection Agency,</li><li>the Forest Service,</li><li>the Indian Health Service, and</li><li>several related and independent agencies.</li></ul><p>The bill also sets forth requirements and restrictions for using funds provided by this and other appropriations acts.</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr6938enr/uslm/BILLS-119hr6938enr.xml"
@@ -4354,5 +4354,36 @@
   "House": "R",
   "Senate": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "Law provides fiscal year 2026 funding for federal agencies covering commerce, justice, science, energy, water projects, public lands, and the environment.",
+  "what_it_does": "This law combines 3 of the 12 regular yearly spending bills for fiscal year 2026. It provides money for agencies including the Departments of Commerce, Justice, Energy, and the Interior, as well as NASA, the National Science Foundation, the Environmental Protection Agency, the Forest Service, the Indian Health Service, and Army Corps of Engineers water projects. It also sets rules and limits on how these and other funds can be used. The summary does not give specific dollar amounts.",
+  "who_it_affects": [
+   {
+    "group": "Federal agencies and their employees",
+    "how": "Agencies such as the Justice Department, NASA, the EPA, and the Forest Service receive their funding for fiscal year 2026."
+   },
+   {
+    "group": "American Indians and Alaska Natives",
+    "how": "The Indian Health Service, which provides health care to tribal members, is funded under this law."
+   },
+   {
+    "group": "Scientists and research institutions",
+    "how": "Funding for NASA and the National Science Foundation supports research programs and grants."
+   },
+   {
+    "group": "Communities near rivers, ports, and waterways",
+    "how": "Army Corps of Engineers civil works projects, such as water infrastructure, are funded."
+   },
+   {
+    "group": "Visitors to and users of public lands",
+    "how": "The Interior Department and Forest Service, which manage national parks, forests, and other public lands, receive funding."
+   }
+  ],
+  "when_it_takes_effect": "Enacted January 23, 2026; funds cover fiscal year 2026 (October 1, 2025 through September 30, 2026).",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

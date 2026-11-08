@@ -36,5 +36,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "New law lets federal agencies share personal records with the Congressional Budget Office without first getting each person's written consent.",
+  "what_it_does": "The Privacy Act of 1974 generally bars federal agencies from sharing certain records about a person unless that person agrees in writing. This law adds the Congressional Budget Office (CBO) to the list of exceptions, so agencies can share these records with CBO or its authorized representatives without that consent. The goal is to speed up data sharing between CBO and federal agencies. Other offices, such as the Government Accountability Office and the National Archives, already have this exception.",
+  "who_it_affects": [
+   {
+    "group": "People whose personal information is held in federal agency records",
+    "how": "Their records covered by the Privacy Act can now be shared with CBO without their prior written consent."
+   },
+   {
+    "group": "Congressional Budget Office",
+    "how": "CBO can get records about individuals from federal agencies more quickly, without needing each person's written consent."
+   },
+   {
+    "group": "Federal agencies",
+    "how": "Agencies may now give CBO records about individuals without first getting those people's written consent."
+   }
+  ],
+  "when_it_takes_effect": "Enacted October 2, 2024; the summary does not give a separate start date.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

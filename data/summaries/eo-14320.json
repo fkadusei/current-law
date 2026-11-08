@@ -1,0 +1,20 @@
+{
+ "headline": "Executive order aims to boost exports of American-made artificial intelligence technology to other countries.",
+ "what_it_does": "Based on its title, this order sets federal policy to promote selling American artificial intelligence (AI) technology abroad. The \"AI technology stack\" usually means the full set of parts that make AI work, such as computer chips, data centers, software, and AI models. No official summary was provided, so the specific programs, agencies, and rules involved are not described here.",
+ "who_it_affects": [
+  {
+   "group": "US companies that make AI chips, software, cloud services, or AI models",
+   "how": "They may get federal government support in selling their products to foreign buyers."
+  },
+  {
+   "group": "Foreign governments and businesses that buy AI technology",
+   "how": "They may see more offers of American AI products backed by US government promotion."
+  }
+ ],
+ "when_it_takes_effect": "Signed July 23, 2025; executive orders generally take effect when signed unless they state otherwise.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

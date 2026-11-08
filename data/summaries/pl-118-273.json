@@ -1,0 +1,24 @@
+{
+ "headline": "Law ends two rules that cut Social Security benefits for people who also get certain government or other non-covered pensions.",
+ "what_it_does": "The law repeals the government pension offset, which reduced Social Security spouse and survivor benefits for people who also get their own government pension. It also repeals the windfall elimination provision, which reduced Social Security benefits for people who also get a pension or disability benefit from a job that did not withhold Social Security taxes. The changes apply to benefits payable after December 2023.",
+ "who_it_affects": [
+  {
+   "group": "Retired state and local government workers, such as some teachers, police officers, and firefighters, with pensions from jobs that did not pay Social Security taxes",
+   "how": "Their own Social Security benefits are no longer reduced because of those pensions."
+  },
+  {
+   "group": "Spouses, widows, and widowers who receive their own government pension",
+   "how": "Their Social Security spouse or survivor benefits are no longer reduced because of their government pension."
+  },
+  {
+   "group": "People who get a disability benefit from an employer that did not withhold Social Security taxes",
+   "how": "Their Social Security benefits are no longer reduced under the windfall elimination provision."
+  }
+ ],
+ "when_it_takes_effect": "Enacted January 5, 2025; applies to Social Security benefits payable after December 2023.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

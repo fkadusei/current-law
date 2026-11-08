@@ -1,0 +1,20 @@
+{
+ "headline": "President Trump signed an order to withdraw the United States from the World Health Organization.",
+ "what_it_does": "This executive order starts the process of taking the United States out of the World Health Organization (WHO), the United Nations agency that works on global public health. No summary was provided, so details such as funding or staffing changes are not described here.",
+ "who_it_affects": [
+  {
+   "group": "Federal health agencies and officials who work with the WHO",
+   "how": "Their country's formal membership in the WHO would end, which may change how they take part in its work."
+  },
+  {
+   "group": "The World Health Organization",
+   "how": "It would lose the United States as a member country."
+  }
+ ],
+ "when_it_takes_effect": "Signed January 20, 2025; the source does not say when the withdrawal becomes final.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

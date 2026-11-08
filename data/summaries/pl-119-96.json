@@ -1,0 +1,24 @@
+{
+ "headline": "New law orders a government report on esophageal cancer costs and screening among people covered by the federal employee health plan.",
+ "what_it_does": "The law requires the Government Accountability Office (GAO), Congress's watchdog agency, to send Congress a report. The report must look at how much the Federal Employees Health Benefits Program spends on care for federal workers and retirees with esophageal cancer. It must also look at how often plan members at high risk for esophageal cancer get screened, based on accepted medical guidelines. The law does not change benefits, coverage, or screening rules.",
+ "who_it_affects": [
+  {
+   "group": "Federal employees and retirees in the Federal Employees Health Benefits Program",
+   "how": "Their esophageal cancer costs and screening rates will be studied, but their coverage does not change."
+  },
+  {
+   "group": "Government Accountability Office",
+   "how": "It must research and write the report for Congress."
+  },
+  {
+   "group": "Members of Congress",
+   "how": "They will receive the report's findings to use in future decisions."
+  }
+ ],
+ "when_it_takes_effect": "Enacted June 9, 2026; the summary does not give a deadline for the report.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

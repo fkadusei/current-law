@@ -1,0 +1,24 @@
+{
+ "headline": "Executive order sets updated pay rates for federal employees and other federal pay systems for the coming year.",
+ "what_it_does": "This order adjusts certain federal pay rates, as its title states. Orders like this are issued each year to put the annual pay raise for federal workers into effect. They usually update the pay tables for groups such as General Schedule employees, senior executives, top officials, and members of the military. The title alone does not give the exact amounts.",
+ "who_it_affects": [
+  {
+   "group": "Federal civilian employees",
+   "how": "Their pay scales are likely updated under the new rates."
+  },
+  {
+   "group": "Members of the uniformed services",
+   "how": "Their basic pay rates may be adjusted, as is common in these yearly orders."
+  },
+  {
+   "group": "Senior federal officials and executives",
+   "how": "Pay levels for top government positions may be set at new amounts."
+  }
+ ],
+ "when_it_takes_effect": "Not stated in the title; annual pay orders like this usually take effect with the first pay period beginning on or after January 1 of the next year (here, 2000).",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

@@ -1,0 +1,20 @@
+{
+ "headline": "A 1999 executive order creates a National Infrastructure Assurance Council focused on protecting the nation's key infrastructure.",
+ "what_it_does": "This order sets up a council called the National Infrastructure Assurance Council. Based on the title, the council deals with keeping the country's important systems, such as those that run essential services, secure and reliable. No summary was provided, so details about the council's members, powers, and duties are not described here.",
+ "who_it_affects": [
+  {
+   "group": "Operators of critical infrastructure such as power, communications, and financial systems",
+   "how": "They may be the focus of the council's work on protecting key national systems."
+  },
+  {
+   "group": "Federal government officials",
+   "how": "The council is a new body within the executive branch that works on infrastructure protection."
+  }
+ ],
+ "when_it_takes_effect": "Likely on signing, July 14, 1999 (the source does not state a date)",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

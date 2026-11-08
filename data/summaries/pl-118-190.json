@@ -1,0 +1,28 @@
+{
+ "headline": "New law changes how federal agencies review progress on their goals and how government-wide priority goals are set and tracked.",
+ "what_it_does": "At least once a year, each federal agency must review progress on every goal in its strategic plan, judge how likely it is to meet each goal, and name risks that could get in the way. For the goals most at risk, agencies must lay out ways to improve. Government-wide priority goals must be updated at least in the first year of each presidential term, include plans to reach them within that term, and point to the parts of the budget that support them. The Government Accountability Office must report to Congress on how well the law works.",
+ "who_it_affects": [
+  {
+   "group": "Federal agencies",
+   "how": "They must do yearly reviews of their strategic goals, following guidance from the Office of Management and Budget, and plan fixes for goals at risk."
+  },
+  {
+   "group": "Office of Management and Budget",
+   "how": "It issues the guidance agencies follow for their reviews."
+  },
+  {
+   "group": "Presidential administrations",
+   "how": "They must update federal priority goals early in each term, with plans and budget links for reaching them within the term."
+  },
+  {
+   "group": "Government Accountability Office",
+   "how": "It must study the law's effectiveness and report back to Congress."
+  }
+ ],
+ "when_it_takes_effect": "Enacted December 23, 2024; the summary does not give a separate start date.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

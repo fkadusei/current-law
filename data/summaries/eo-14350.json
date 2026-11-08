@@ -1,0 +1,24 @@
+{
+ "headline": "President Trump extends again the delay in enforcing a federal law against the TikTok app.",
+ "what_it_does": "This order pushes back, once more, the date when the federal government will start enforcing rules against TikTok. A 2024 federal law requires TikTok to be sold by its China-based owner or be blocked in the US, and earlier orders had already delayed enforcement. No summary was provided, so the new deadline and other details are not described here.",
+ "who_it_affects": [
+  {
+   "group": "People in the US who use TikTok",
+   "how": "They can likely keep using the app while enforcement stays on hold."
+  },
+  {
+   "group": "TikTok and its parent company",
+   "how": "The company gets more time before the government acts against it under the law."
+  },
+  {
+   "group": "App stores and internet hosting companies",
+   "how": "They face a delay before any penalties for offering or supporting TikTok would be enforced."
+  }
+ ],
+ "when_it_takes_effect": "Signed September 16, 2025; the length of the new delay is not stated in the source provided.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

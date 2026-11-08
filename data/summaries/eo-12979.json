@@ -1,0 +1,20 @@
+{
+ "headline": "Executive order sets rules for how federal agencies handle complaints about how they award government contracts.",
+ "what_it_does": "This order deals with procurement protests, which are formal complaints that a federal agency acted unfairly or broke the rules when buying goods or services. It directs agencies to have their own process for handling these complaints. No summary was provided, so the specific details of the required process are not described here.",
+ "who_it_affects": [
+  {
+   "group": "Businesses that bid on federal government contracts",
+   "how": "They get an agency-level process to challenge contract decisions they believe were unfair or improper."
+  },
+  {
+   "group": "Federal agencies that buy goods and services",
+   "how": "They must follow set procedures when responding to complaints about their contracting decisions."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

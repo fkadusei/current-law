@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Finance and Financial Sector",
  "sponsor": "Sen. Ricketts, Pete [R-NE]",
- "official_summary": null,
+ "official_summary": "<p>This joint resolution nullifies the final rule issued by the Consumer Financial Protection Bureau (CFPB) titled <em>Defining Larger Participants of a Market for General-Use Digital Consumer Payment Applications</em> and published on December 10, 2024. The rule defines larger participants in the general-use digital consumer payment application market (i.e., payment apps) that are subject to&nbsp;CFPB supervisory authority. The rule defines larger participants in this market as nonbanks (1) with an annual volume of at least 50 million transactions, and (2) that are not small business concerns.</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-119sjres28enr/uslm/BILLS-119sjres28enr.xml"
@@ -4370,5 +4370,28 @@
   "House": "R",
   "Senate": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "Congress cancels a consumer bureau rule that would have let it supervise large nonbank payment app companies.",
+  "what_it_does": "This law cancels a rule issued by the Consumer Financial Protection Bureau (CFPB) on December 10, 2024. That rule would have put large payment app companies that are not banks under CFPB supervision. It covered companies handling at least 50 million transactions a year that are not small businesses. With the rule canceled, the CFPB does not gain this supervision power under it.",
+  "who_it_affects": [
+   {
+    "group": "Large nonbank companies that run digital payment apps",
+    "how": "They will not be subject to CFPB supervision, such as exams, under this rule."
+   },
+   {
+    "group": "People who use payment apps to send money or pay for things",
+    "how": "The apps they use will not be supervised by the CFPB under this rule."
+   },
+   {
+    "group": "Consumer Financial Protection Bureau",
+    "how": "The bureau loses the supervision authority the rule would have given it over these companies."
+   }
+  ],
+  "when_it_takes_effect": "May 9, 2025, when it was signed into law.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

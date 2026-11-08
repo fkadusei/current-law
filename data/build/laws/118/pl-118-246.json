@@ -39,5 +39,36 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Law expands the Bureau of Reclamation's power to restore fish habitat and manage water projects in the Klamath Basin of Oregon and California.",
+  "what_it_does": "The law lets the Bureau of Reclamation plan, build, run, and maintain restoration projects in the Klamath Basin, such as facilities that keep fish from being pulled into irrigation systems and projects that restore habitat, including tribal fisheries. The agency can sign agreements with states, local governments, tribes, and private parties, and accept outside money for this work. It allows the agency to pay up to 69% of the operating and maintenance costs of Pumping Plant D, run by the Tulelake Irrigation District. It also gives legal backing to a 2016 agreement under which the agency takes over ownership and operation of Keno Dam and operation of Link River Dam.",
+  "who_it_affects": [
+   {
+    "group": "Native American tribes in the Klamath Basin",
+    "how": "Restoration projects may include restoring tribal fishery resources held in trust, and tribes can partner with the Bureau of Reclamation on this work."
+   },
+   {
+    "group": "Farmers and irrigators in the Klamath Basin",
+    "how": "Projects aim to reduce harm to fish and water life caused by irrigation diversions, which may change irrigation facilities in the area."
+   },
+   {
+    "group": "Tulelake Irrigation District in California",
+    "how": "The district can be repaid for up to 69% of the costs to operate and maintain Pumping Plant D."
+   },
+   {
+    "group": "State and local governments and private groups in Oregon and California",
+    "how": "They can enter contracts and agreements with the Bureau of Reclamation and contribute money to restoration projects."
+   },
+   {
+    "group": "Current operators of Keno Dam and Link River Dam",
+    "how": "The Bureau of Reclamation is authorized to take ownership and operation of Keno Dam and operation of Link River Dam under the 2016 agreement."
+   }
+  ],
+  "when_it_takes_effect": "Enacted January 4, 2025; the summary does not list a separate start date.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

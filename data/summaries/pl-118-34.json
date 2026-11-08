@@ -1,0 +1,32 @@
+{
+ "headline": "Short-term law keeps FAA programs, airport grants, and aviation taxes running through March 8, 2024.",
+ "what_it_does": "This law temporarily extends certain Federal Aviation Administration (FAA) programs through March 8, 2024. These include drone (unmanned aircraft) pilot programs, weather reporting programs, the Remote Tower Pilot Program, the Essential Air Service Program, and airport improvement grants. It also lets the FAA keep spending from the Airport and Airway Trust Fund and keep collecting the aviation fuel taxes, airline ticket taxes, and other fees that pay into that fund.",
+ "who_it_affects": [
+  {
+   "group": "Airline passengers",
+   "how": "Taxes on airline tickets that fund federal aviation programs continue to be collected through March 8, 2024."
+  },
+  {
+   "group": "Public-use airports",
+   "how": "They can keep receiving federal Airport Improvement Program grants for planning, building, and noise-reduction projects."
+  },
+  {
+   "group": "Residents of small and rural communities",
+   "how": "The Essential Air Service Program, which helps keep commercial flights going to these communities, continues."
+  },
+  {
+   "group": "Drone operators and drone test sites",
+   "how": "FAA drone pilot programs, including test sites and remote detection and identification efforts, continue."
+  },
+  {
+   "group": "Airlines and aircraft operators",
+   "how": "Taxes on aviation fuel continue to be collected to fund the Airport and Airway Trust Fund."
+  }
+ ],
+ "when_it_takes_effect": "Enacted December 26, 2023; extensions run through March 8, 2024.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

@@ -1,0 +1,24 @@
+{
+ "headline": "Executive order removes certain federal workplaces from the programs that govern union relations with federal employees.",
+ "what_it_does": "Based on its title, this order excludes some federal agencies or parts of agencies from federal labor-management relations programs. These programs set the rules for how federal employee unions and agencies bargain and work together. No official summary was provided, so the specific agencies and details are not described here.",
+ "who_it_affects": [
+  {
+   "group": "Federal employees in the excluded agencies or offices",
+   "how": "They may no longer be covered by the usual federal rules on union representation and bargaining with their agency."
+  },
+  {
+   "group": "Unions that represent federal workers",
+   "how": "They may lose the ability to bargain on behalf of employees in the excluded parts of government."
+  },
+  {
+   "group": "Managers at the affected federal agencies",
+   "how": "They may no longer have to follow federal labor-management rules for the excluded workforces."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

@@ -36,5 +36,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "The SHARE IT Act requires federal agencies to own, store, and share custom-built software code so other agencies can reuse it.",
+  "what_it_does": "Federal agencies must make sure that custom code they pay for or that federal employees write is owned by the agency, stored in at least one public or private repository, and available to federal employees. Agency software contracts must secure enough rights so the code can be shared, used, and changed across the government. Classified code, code mainly for national security systems, and intelligence community code are excluded, and agencies may hold back code to protect personal privacy.",
+  "who_it_affects": [
+   {
+    "group": "Federal agencies",
+    "how": "They must store custom-developed code in a repository, make it accessible to federal employees, and report on things like how often code is reused."
+   },
+   {
+    "group": "Companies that build custom software under federal contracts",
+    "how": "Their contracts must give the government rights to access, share, use, and modify the code they create for agencies."
+   },
+   {
+    "group": "Federal employees who write or use software",
+    "how": "They gain access to code developed by other agencies under set procedures."
+   },
+   {
+    "group": "Agency chief information officer offices",
+    "how": "They may exempt code from being shared or made public to protect individual privacy."
+   }
+  ],
+  "when_it_takes_effect": "Enacted December 23, 2024; reporting standards are due within 120 days, and federal contracting rules must be updated within one year.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

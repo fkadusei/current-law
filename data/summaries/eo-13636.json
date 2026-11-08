@@ -1,0 +1,20 @@
+{
+ "headline": "Executive order from 2013 aimed at improving cybersecurity for the nation's critical infrastructure.",
+ "what_it_does": "This order sets federal policy on protecting critical infrastructure from cyber threats. Critical infrastructure usually means systems the country depends on, such as power, water, communications, and finance. No summary was provided, so the specific steps the order requires are not described here.",
+ "who_it_affects": [
+  {
+   "group": "Federal agencies",
+   "how": "They are likely directed to take steps to improve cybersecurity for critical infrastructure."
+  },
+  {
+   "group": "Companies that run critical infrastructure systems",
+   "how": "Their cybersecurity practices are the focus of the order, though the exact requirements are not described in the available material."
+  }
+ ],
+ "when_it_takes_effect": "Signed February 12, 2013",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

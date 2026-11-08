@@ -1,0 +1,20 @@
+{
+ "headline": "Executive order on how the 2020 Census population count is used to divide U.S. House seats among the states.",
+ "what_it_does": "This order deals with the census count taken every 10 years and how it is used to decide how many seats each state gets in the U.S. House of Representatives. Its title says it aims to make that count and the seat division lawful and accurate. No summary was provided, so the specific instructions in the order are not described here.",
+ "who_it_affects": [
+  {
+   "group": "States",
+   "how": "The census count decides how many House seats, and electoral votes, each state receives."
+  },
+  {
+   "group": "The Census Bureau and Commerce Department",
+   "how": "These agencies carry out the census count and report the numbers used to divide House seats."
+  }
+ ],
+ "when_it_takes_effect": "Signed January 20, 2021",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

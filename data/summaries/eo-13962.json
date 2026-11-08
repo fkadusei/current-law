@@ -1,0 +1,20 @@
+{
+ "headline": "Executive order on access to COVID-19 vaccines bought or developed by the US government.",
+ "what_it_does": "Based on its title, this order deals with making sure people can get COVID-19 vaccines that the US government has obtained or supported. No official summary was provided, so the specific rules, steps, and agency duties it sets are not described here.",
+ "who_it_affects": [
+  {
+   "group": "People in the United States seeking a COVID-19 vaccine",
+   "how": "The order concerns their access to vaccines provided through the US government, though the details are not given in the source material."
+  },
+  {
+   "group": "Federal agencies handling COVID-19 vaccines",
+   "how": "The order likely directs how these agencies manage access to government vaccines, but the specific instructions are not described in the available information."
+  }
+ ],
+ "when_it_takes_effect": "Signed December 8, 2020; the exact effective date is not stated in the source material.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

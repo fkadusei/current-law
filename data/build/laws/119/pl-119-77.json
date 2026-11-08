@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Social Welfare",
  "sponsor": "Sen. Kennedy, John [R-LA]",
- "official_summary": null,
+ "official_summary": "<p><strong>Ending Improper Payments to Deceased People Act</strong></p><p>This act permanently allows the Department of the Treasury to access certain death records maintained by the Social Security Administration (SSA) to help prevent and recover improper payments (e.g., payments&nbsp;to deceased individuals).&nbsp;The act also establishes evidentiary requirements the SSA must meet before identifying an individual as deceased.</p><p>Current law requires the&nbsp;SSA to share its Death Master File with the Do Not Pay system maintained by Treasury for three years.&nbsp;The act makes this requirement permanent.&nbsp;Treasury must enter into an agreement with the SSA related to Treasury's share of the cost of state death data.</p><p>The act also prohibits the SSA from recording a death in the master file unless the SSA has clear and convincing evidence that the individual should be presumed deceased. If an individual is incorrectly identified as deceased and provides the SSA with supporting documentation, the SSA may notify certain agencies that have access to the master file, including Treasury and federal or state agencies that provide or disburse federally funded benefits.</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-119s269enr/uslm/BILLS-119s269enr.xml"
@@ -36,5 +36,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Treasury gets permanent access to Social Security death records to stop federal payments to dead people, with new safeguards against false death listings.",
+  "what_it_does": "The law makes permanent a requirement that the Social Security Administration (SSA) share its full death records with Treasury's Do Not Pay system, which checks federal payments before they go out. That sharing had been set to last only three years. Treasury must reach an agreement with SSA on its share of the cost of state death data. SSA may not list someone as dead unless it has clear and convincing evidence, and it may alert other agencies if a living person was wrongly listed and sends proof.",
+  "who_it_affects": [
+   {
+    "group": "People wrongly listed as dead by Social Security",
+    "how": "If they send supporting documents, SSA may notify Treasury and federal or state benefit agencies so their records can be corrected."
+   },
+   {
+    "group": "People who receive federal or federally funded benefits",
+    "how": "Their payments can be checked against Social Security death records, with a higher evidence standard required before SSA marks anyone as dead."
+   },
+   {
+    "group": "Families of people who have died",
+    "how": "Federal payments still going to a deceased relative are more likely to be stopped or recovered."
+   },
+   {
+    "group": "Federal and state agencies that pay out federal funds",
+    "how": "They can rely on permanent access to SSA death data through Treasury's Do Not Pay system to prevent and recover improper payments."
+   }
+  ],
+  "when_it_takes_effect": "Enacted February 10, 2026; the summary does not give separate start dates for specific provisions.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

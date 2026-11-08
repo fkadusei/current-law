@@ -1,0 +1,20 @@
+{
+ "headline": "Executive order changes an earlier order that limited US investments in securities of companies tied to China's military.",
+ "what_it_does": "This order amends Executive Order 13959, an earlier order about investments in stocks and other securities that help fund companies linked to China's military. Based on the title alone, it changes the rules or terms of that earlier order. The title does not spell out exactly which parts were changed.",
+ "who_it_affects": [
+  {
+   "group": "US investors and investment firms",
+   "how": "They may face changed rules about buying or holding securities of companies identified as tied to China's military."
+  },
+  {
+   "group": "Chinese companies identified as linked to China's military",
+   "how": "The rules about whether Americans can invest in their securities may be changed by this order."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Public Lands and Natural Resources",
  "sponsor": "Rep. Moore, Blake D. [R-UT-1]",
- "official_summary": null,
+ "official_summary": "<p><strong>Modernizing Access to our Public Waters Act or the MAPWaters Act of 2025 or the MAPWaters Act of 2025</strong></p><p>This act directs the Forest Service and the Department of the Interior to standardize and publish data relating to the public's access to&nbsp;federal waterways for recreational use.</p><p>(Sec. 3) The Forest Service and Interior must jointly develop and adopt interagency standards for data collection and dissemination of geospatial data relating to public outdoor recreational access of federal waterways and federal fishing restrictions. The standards must ensure compatibility and interoperability among applicable federal databases with respect to collection and dissemination of such data.</p><p>(Sec. 4) Within five years, the Forest Service and Interior must also digitize and make publicly available online certain geographic information system data about (1) federal waterway restrictions, (2) federal waterway access and navigation information, and (3) federal fishing restrictions. They must also update the data about waterway restrictions, waterway access, and navigation information at least twice per year. Data about fishing restrictions must be updated in real time as changes go into effect.</p><p>The&nbsp;Forest Service and Interior&nbsp;must also develop a process to allow members of the public to submit questions or comments regarding the data regarding waterway restrictions,&nbsp;waterway access, and navigation information.</p><p>The requirements under this section do&nbsp;not apply to irrigation canals and flowage easements.</p><p>(Sec. 5)&nbsp;To carry out the act, the Forest Service and Interior may (1) coordinate and partner with nonfederal agencies, private entities, and nonprofit partners; and (2) enter into agreements with third parties.</p><p>The&nbsp;Forest Service and Interior may work with the U.S. Geological Survey to collect, aggregate, digitize, standardize, and publish data on their behalf.</p><p>(Sec. 6)&nbsp;The Forest Service and Interior must annually report to specified congressional committees on their progress in meeting the requirements of this act.</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr187enr/uslm/BILLS-119hr187enr.xml"
@@ -3530,5 +3530,32 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "New law requires federal agencies to publish online maps and data showing where the public can access federal waters for boating and fishing.",
+  "what_it_does": "The Forest Service and the Department of the Interior must create shared standards for collecting and sharing map data about public access to federal waterways and federal fishing rules. Within five years, they must put this data online, including waterway restrictions, access points, navigation information, and fishing restrictions. Waterway data must be updated at least twice a year, and fishing restriction data must be updated in real time as changes take effect. The agencies must also set up a way for the public to send questions or comments about the waterway data, and must report their progress to Congress every year.",
+  "who_it_affects": [
+   {
+    "group": "People who boat, paddle, or fish on federal waters",
+    "how": "They will be able to find online maps and data showing where they can access federal waterways and what fishing and waterway restrictions apply."
+   },
+   {
+    "group": "Forest Service and Department of the Interior",
+    "how": "They must develop data standards, digitize and publish waterway and fishing data within five years, keep it updated, and report yearly to Congress."
+   },
+   {
+    "group": "U.S. Geological Survey",
+    "how": "It may collect, standardize, and publish the data on behalf of the Forest Service and Interior."
+   },
+   {
+    "group": "State and local agencies, private companies, and nonprofits",
+    "how": "They may partner or sign agreements with the federal agencies to help carry out the law."
+   }
+  ],
+  "when_it_takes_effect": "Enacted December 26, 2025; the online data must be published within five years.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

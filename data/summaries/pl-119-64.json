@@ -1,0 +1,24 @@
+{
+ "headline": "New law lets taxpayers in federally declared disaster areas keep refund rights when the IRS pushes back their tax filing deadline.",
+ "what_it_does": "When the IRS postpones the tax return deadline because of a federally declared disaster or certain other events, the extra time now counts as an extension when figuring how much of a refund a person can claim. Before this law, taxes paid earlier, such as paycheck withholding, could fall outside the allowed refund window and be lost. The law also says the payment due date the IRS uses before mailing a notice demanding payment includes any disaster postponement.",
+ "who_it_affects": [
+  {
+   "group": "Taxpayers living in federally declared disaster areas",
+   "how": "They can still get refunds of taxes they already paid, such as paycheck withholding, even if they file late using a disaster deadline postponement."
+  },
+  {
+   "group": "Taxpayers who owe money and live in disaster areas",
+   "how": "The IRS cannot mail a notice demanding payment before the postponed disaster payment deadline."
+  },
+  {
+   "group": "Internal Revenue Service",
+   "how": "The agency must change how it calculates refund limits and when it sends payment demand notices for people with disaster postponements."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

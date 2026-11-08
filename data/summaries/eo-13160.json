@@ -1,0 +1,24 @@
+{
+ "headline": "Clinton order bans discrimination in education and training programs run by the federal government, covering race, sex, disability, sexual orientation, and more.",
+ "what_it_does": "This executive order bars discrimination in education and training programs that federal agencies themselves run. Protected traits listed in the title include race, sex, color, national origin, disability, religion, age, sexual orientation, and status as a parent. Based on the title, it applies to programs the government conducts directly, not necessarily to programs it only funds.",
+ "who_it_affects": [
+  {
+   "group": "People who take part in federally run education and training programs",
+   "how": "They are protected from being treated unfairly in these programs because of the traits listed in the order."
+  },
+  {
+   "group": "Federal agencies that run education or training programs",
+   "how": "They must run these programs without discriminating on the listed grounds."
+  },
+  {
+   "group": "Parents and gay, lesbian, and bisexual participants",
+   "how": "The order names parental status and sexual orientation as protected traits in these federal programs."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

@@ -1,0 +1,24 @@
+{
+ "headline": "Law reduces the number of federal court divisions in northern Alabama from seven to five.",
+ "what_it_does": "This law changes federal law to combine the seven divisions of the U.S. District Court for the Northern District of Alabama into five divisions. Divisions decide which counties are grouped together and where federal court cases in the region are handled. The official summary does not list which divisions are merged or which counties move.",
+ "who_it_affects": [
+  {
+   "group": "People and businesses with federal court cases in northern Alabama",
+   "how": "Their cases may be assigned to a different, combined court division than before."
+  },
+  {
+   "group": "Residents of northern Alabama called for federal jury duty",
+   "how": "Jury pools may be drawn from the new, larger combined divisions."
+  },
+  {
+   "group": "Federal judges, court staff, and lawyers in the Northern District of Alabama",
+   "how": "They will work under a new structure of five divisions instead of seven."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

@@ -1,0 +1,20 @@
+{
+ "headline": "Congress cancels an EPA rule that set up how the agency would charge oil and gas facilities a fee for high methane emissions.",
+ "what_it_does": "This law uses the Congressional Review Act to cancel an EPA rule published on November 18, 2024. That rule laid out how the EPA would collect a yearly \"waste emissions charge\" from certain oil and gas facilities that released more methane and other greenhouse gases than set limits. The rule also covered how facilities could offset (\"net\") emissions and qualify for exemptions. According to the official summary, the result is that the annual charge under the Methane Emissions Reduction Program is eliminated.",
+ "who_it_affects": [
+  {
+   "group": "Oil and gas companies with onshore or offshore production facilities",
+   "how": "They will no longer pay the yearly EPA charge for methane emissions above the set limits under the canceled rule."
+  },
+  {
+   "group": "Environmental Protection Agency",
+   "how": "The EPA can no longer enforce the canceled rule's procedures for collecting the charge, offsetting emissions, and granting exemptions."
+  }
+ ],
+ "when_it_takes_effect": "March 14, 2025, when the resolution was signed into law.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

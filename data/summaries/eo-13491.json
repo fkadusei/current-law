@@ -1,0 +1,20 @@
+{
+ "headline": "Executive order signed in 2009 setting rules meant to keep the questioning of detainees within the law.",
+ "what_it_does": "Based on its title, this order sets rules for how the U.S. government may question, or interrogate, people it holds in custody. Its stated goal is to make sure those interrogations follow the law. No official summary was provided, so the specific rules and methods it covers are not described here.",
+ "who_it_affects": [
+  {
+   "group": "People held in U.S. government custody",
+   "how": "The order sets rules for how they may be questioned."
+  },
+  {
+   "group": "Federal officials and agencies that question detainees",
+   "how": "They must follow the order's rules when carrying out interrogations."
+  }
+ ],
+ "when_it_takes_effect": "Signed January 22, 2009; no separate start date was provided.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

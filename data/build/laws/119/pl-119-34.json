@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Foreign Trade and International Finance",
  "sponsor": "Rep. Jackson, Ronny [R-TX-13]",
- "official_summary": null,
+ "official_summary": "<p><strong>Maintaining American Superiority by Improving Export Control Transparency Act</strong></p><p>This act requires the Department of Commerce's Bureau of Industry and Security (BIS) to annually report to Congress on export control licensing.</p><p>Under current law, BIS administers and enforces controls on the export of dual-use goods (e.g., items with both civilian and military uses) and certain military parts and components. These export controls are implemented primarily under the Export Control Reform Act of 2018 (ECRA) through the Export Administration Regulations (EAR).</p><p>Under this act, BIS must annually report to Congress on license applications, other requests for authorization, and end-use checks (on-site verifications conducted by BIS) for the export, reexport, release, and in-country transfer of items subject to the&nbsp;EAR to covered entities. A covered entity is any entity that (1) is located in a country listed in Country Group D:5 (countries that are identified by the Department of State as subject to U.S. arms embargoes), and (2) is included on the Entity List or the Military End-User List (two of the lists published by BIS containing information on the individuals, organizations, and addresses subject to restrictions involving items subject to the EAR).</p><p>The act&nbsp;requires this report to include specified information, such as the name of the entity submitting the application, where the item is being exported, the decision with respect to the license application or authorization, and information on any end-use checks to ensure&nbsp;compliance with U.S. export controls. The information shall be exempt from public disclosure (except for aggregate statistics). Additionally, BIS must exclude from the report any information that could jeopardize an ongoing investigation.</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1316enr/uslm/BILLS-119hr1316enr.xml"
@@ -39,5 +39,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "New law requires the Commerce Department to report yearly to Congress on export licenses involving restricted entities in arms-embargoed countries.",
+  "what_it_does": "The Bureau of Industry and Security (BIS), part of the Commerce Department, must send Congress a yearly report on license applications, other approval requests, and on-site checks for exports of controlled items to certain listed entities. These are entities in countries under U.S. arms embargoes that also appear on the Entity List or the Military End-User List. The report must include who applied, where the item is going, what BIS decided, and results of any compliance checks. The details are kept from the public except for overall statistics, and information that could harm an ongoing investigation is left out.",
+  "who_it_affects": [
+   {
+    "group": "Companies that apply for licenses to export controlled items",
+    "how": "Details about their license applications to restricted entities, including their names and BIS's decisions, will be reported to Congress but not made public."
+   },
+   {
+    "group": "Commerce Department's Bureau of Industry and Security",
+    "how": "The agency must prepare and send a new yearly report to Congress on these licenses and end-use checks."
+   },
+   {
+    "group": "Members of Congress",
+    "how": "They will receive regular information on how export licenses to restricted foreign entities are handled."
+   },
+   {
+    "group": "Foreign entities on the Entity List or Military End-User List in arms-embargoed countries",
+    "how": "Requests to send U.S.-controlled items to them will be tracked and reported to Congress each year."
+   }
+  ],
+  "when_it_takes_effect": "Enacted August 19, 2025; reports are required annually, but the summary does not give the first due date.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

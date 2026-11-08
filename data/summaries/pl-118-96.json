@@ -1,0 +1,32 @@
+{
+ "headline": "New law puts two ICE programs into law: one supports staff exposed to trafficking-related trauma, the other helps human trafficking victims.",
+ "what_it_does": "The law formally creates and updates two programs in Homeland Security Investigations, part of ICE. The IMPACTT Program must train employees and supervisors to spot burnout and trauma, using licensed clinicians, and point staff to help inside and outside ICE, which may include faith-based resources. The Victim Assistance Program must place victim and forensic interview specialists in certain offices and may buy emergency items like food, clothing, transportation, and temporary shelter for victims. DHS must report yearly to Congress on trainings given, staff trained, and victims helped.",
+ "who_it_affects": [
+  {
+   "group": "Homeland Security Investigations employees who work with trafficking victims",
+   "how": "They get required training on recognizing burnout, compassion fatigue, and other trauma, plus information on support resources."
+  },
+  {
+   "group": "Frontline supervisors in Homeland Security Investigations",
+   "how": "They get extra training on spotting signs of trauma and burnout in the employees they supervise."
+  },
+  {
+   "group": "Victims of human trafficking identified in HSI criminal investigations",
+   "how": "They may receive emergency food, clothing, hygiene products, transportation, and temporary shelter not already provided by nonprofit groups."
+  },
+  {
+   "group": "HSI offices, including those on human trafficking and child sexual exploitation task forces",
+   "how": "Each Special Agent in Charge office must have at least one forensic interview specialist and one victim assistance specialist, and task force offices must have a victim assistance specialist."
+  },
+  {
+   "group": "Licensed clinicians",
+   "how": "They must be the ones to lead the IMPACTT training modules."
+  }
+ ],
+ "when_it_takes_effect": "Enacted October 1, 2024; first report to Congress due one year later; the law's provisions end on October 1, 2030.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

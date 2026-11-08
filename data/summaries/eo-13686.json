@@ -1,0 +1,16 @@
+{
+ "headline": "Executive order sets new pay rates for certain federal government jobs.",
+ "what_it_does": "This order adjusts pay rates for certain federal positions. Orders with this title are usually issued each December to set federal pay for the coming year. The title alone does not give the exact amounts or which pay schedules changed.",
+ "who_it_affects": [
+  {
+   "group": "Federal government employees",
+   "how": "Pay rates for certain federal jobs are adjusted under this order."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

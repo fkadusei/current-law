@@ -1,0 +1,28 @@
+{
+ "headline": "New law requires a pilot program testing whether certain freight logistics companies should be allowed to join a federal supply chain security partnership.",
+ "what_it_does": "The Department of Homeland Security must run a pilot program that lets certain third-party logistics companies take part in the Customs Trade Partnership Against Terrorism (CTPAT). CTPAT is a voluntary program where businesses work with the government on cargo and supply chain security. The pilot will test whether including these companies improves port security, helps fight terrorism, or prevents supply chain security breaches. The Government Accountability Office must also report on how well CTPAT works.",
+ "who_it_affects": [
+  {
+   "group": "Non-asset-based third-party logistics providers",
+   "how": "Companies licensed by the Department of Transportation that arrange international freight shipping, without owning the equipment themselves, may be able to join CTPAT through the pilot."
+  },
+  {
+   "group": "Asset-based third-party logistics providers",
+   "how": "Companies that handle cross-border shipping using their own warehouses and resources, and are licensed or bonded by certain federal agencies, may be able to join CTPAT through the pilot."
+  },
+  {
+   "group": "Department of Homeland Security",
+   "how": "The department must set up and run the pilot program to judge whether adding these companies meets CTPAT's security goals."
+  },
+  {
+   "group": "Government Accountability Office",
+   "how": "The office must study and report on how effective CTPAT is."
+  }
+ ],
+ "when_it_takes_effect": "Enacted October 1, 2024; the summary does not give specific start dates or deadlines for the pilot or report.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

@@ -1,0 +1,16 @@
+{
+ "headline": "President Clinton changed an earlier executive order, Executive Order 12898, which deals with environmental justice for minority and low-income communities.",
+ "what_it_does": "This order amends Executive Order 12898, signed in 1994. That earlier order directed federal agencies to look at how their programs and policies affect the health and environment of minority and low-income communities. No summary was provided, so the specific changes this amendment makes cannot be described here.",
+ "who_it_affects": [
+  {
+   "group": "Federal agencies covered by Executive Order 12898",
+   "how": "The amendment changes the rules or setup that these agencies follow under the 1994 environmental justice order, though the exact change is not stated in the title."
+  }
+ ],
+ "when_it_takes_effect": "Signed January 30, 1995; no separate start date is given in the available information.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

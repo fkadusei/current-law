@@ -1,0 +1,20 @@
+{
+ "headline": "Executive order freezes certain property and bans some transactions connected to Libya.",
+ "what_it_does": "Based on its title, this order blocks (freezes) certain property tied to Libya and bars certain business or financial dealings related to Libya. Orders like this usually stop the targeted people or entities from using or moving property held in the United States or by Americans. No summary was provided, so the exact people, entities, and transactions covered are not described here.",
+ "who_it_affects": [
+  {
+   "group": "People and organizations tied to Libya who are named or covered by the order",
+   "how": "Their property under U.S. control may be frozen and cannot be used or moved."
+  },
+  {
+   "group": "U.S. banks, businesses, and individuals",
+   "how": "They may be barred from certain transactions involving the covered Libya-related property or parties."
+  }
+ ],
+ "when_it_takes_effect": "Signed February 25, 2011; no separate start date is given in the title.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

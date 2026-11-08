@@ -1,0 +1,20 @@
+{
+ "headline": "Executive order allows the U.S. to freeze assets of, and bar entry to, certain people found to be contributing to the situation in Mali.",
+ "what_it_does": "Based on its title, this order lets the U.S. government block property, meaning freeze assets under U.S. control, belonging to certain people tied to the situation in Mali. It also suspends entry into the United States for those people. No summary was provided, so details on who qualifies and how they are chosen are not described here.",
+ "who_it_affects": [
+  {
+   "group": "People and groups found to be contributing to the situation in Mali",
+   "how": "Their property under U.S. control could be frozen, and they could be barred from entering the United States."
+  },
+  {
+   "group": "U.S. banks, businesses, and individuals",
+   "how": "They would generally be expected not to deal in the frozen property of people named under the order."
+  }
+ ],
+ "when_it_takes_effect": "Signed July 26, 2019; the exact effective date is not stated in the provided material.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

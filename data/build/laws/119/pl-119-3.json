@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Public Lands and Natural Resources",
  "sponsor": "Sen. Kennedy, John [R-LA]",
- "official_summary": null,
+ "official_summary": "<p>This joint resolution&nbsp;rescinds a requirement for lessees and operators to submit an archaeological report with any oil and gas exploration or development plan they submit to the Bureau of Ocean Energy Management (BOEM) for approval of activities proposed on the Outer Continental Shelf.&nbsp;(An archaeological report identifies&nbsp;material remains of human life or activities that are at least 50 years old and that are of archaeological interest.)</p><p>Specifically, the joint resolution nullifies BOEM's final rule titled <em>Protection of Marine Archaeological&nbsp;</em><em>Resources</em> and published on September 3, 2024.</p><p>Nullifying this rule requires BOEM to reinstate regulations that were previously in effect and authorized&nbsp;BOEM to&nbsp;require an archaeological&nbsp;report only if a BOEM regional director has reason to believe that an archaeological resource may be present in the lease area.</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-119sjres11enr/uslm/BILLS-119sjres11enr.xml"
@@ -4360,5 +4360,28 @@
   "House": "R",
   "Senate": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "Congress cancels a 2024 offshore drilling rule that required archaeological reports with every oil and gas plan on the Outer Continental Shelf.",
+  "what_it_does": "This law uses the Congressional Review Act to cancel a Bureau of Ocean Energy Management (BOEM) rule published on September 3, 2024. That rule required offshore oil and gas companies to include an archaeological report with every exploration or development plan. These reports identify human-made remains, such as shipwrecks, that are at least 50 years old. With the rule canceled, the older rules return, and a report is required only when a BOEM regional director has reason to believe archaeological resources may be in the lease area.",
+  "who_it_affects": [
+   {
+    "group": "Offshore oil and gas lessees and operators",
+    "how": "They no longer have to submit an archaeological report with every plan, only when a BOEM regional director believes archaeological resources may be present."
+   },
+   {
+    "group": "Bureau of Ocean Energy Management",
+    "how": "The agency must bring back its earlier regulations and cannot issue a substantially similar rule without new approval from Congress."
+   },
+   {
+    "group": "People and groups involved with underwater historical sites",
+    "how": "Fewer automatic surveys will be done to find shipwrecks and other older human remains in offshore lease areas before drilling plans are approved."
+   }
+  ],
+  "when_it_takes_effect": "March 14, 2025",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

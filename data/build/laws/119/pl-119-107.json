@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Public Lands and Natural Resources",
  "sponsor": "Rep. Hudson, Richard [R-NC-9]",
- "official_summary": null,
+ "official_summary": "<p><strong>National Emergency Medical Services Memorial Extension Act</strong></p><p>This bill reauthorizes the National Emergency Medical Services Memorial Foundation to establish&nbsp;in Washington, DC, a monument to commemorate the commitment and service represented by emergency medical services. This authorization expires seven years after enactment of the bill.</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2196enr/uslm/BILLS-119hr2196enr.xml"
@@ -42,5 +42,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Congress gives a private foundation more time to build a memorial in Washington, DC, honoring emergency medical services workers.",
+  "what_it_does": "This law renews the National Emergency Medical Services Memorial Foundation's permission to build a monument in Washington, DC, honoring the service of emergency medical services. The new permission lasts seven years from the date the law was enacted.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "Took effect when signed on September 11, 2026; the permission to build the memorial expires seven years later, around September 11, 2033.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

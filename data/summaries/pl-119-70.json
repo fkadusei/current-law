@@ -1,0 +1,24 @@
+{
+ "headline": "New law stops counting VA disability pay as income when deciding if veterans qualify for Community Development Block Grant help.",
+ "what_it_does": "When deciding whether a veteran qualifies for help paid for by Community Development Block Grants, the money they get for a service-connected disability will no longer count as income. These federal grants go to cities for things like fixing up neighborhoods, economic development, and community services. The law also requires the Government Accountability Office to report on how disability pay is counted across all Department of Housing and Urban Development programs. That report must point out where those programs handle it differently from this new rule.",
+ "who_it_affects": [
+  {
+   "group": "Veterans who receive service-connected disability compensation",
+   "how": "Their disability pay will not count as income when they apply for help funded by Community Development Block Grants, which may make it easier to qualify."
+  },
+  {
+   "group": "Cities and local agencies that run Community Development Block Grant programs",
+   "how": "They must leave out veterans' service-connected disability pay when checking whether applicants are eligible."
+  },
+  {
+   "group": "Government Accountability Office",
+   "how": "It must study and report on how disability pay is treated in all HUD programs and flag any that conflict with this rule."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on January 20, 2026. The summary does not give a separate start date or a deadline for the GAO report.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

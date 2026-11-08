@@ -1,0 +1,20 @@
+{
+ "headline": "A 2000 executive order directed federal help for small businesses that export and for workers who lost jobs, based only on its title.",
+ "what_it_does": "This executive order, signed by President Bill Clinton, deals with federal assistance to small businesses that sell goods abroad. The title also mentions \"dislocated\" people, likely workers who lost jobs, but the title is cut off and no summary was provided. The specific programs, agencies, and types of help are not described in the available material.",
+ "who_it_affects": [
+  {
+   "group": "Small businesses that export goods or services",
+   "how": "The order is aimed at providing them some form of federal assistance, though the details are not given."
+  },
+  {
+   "group": "Dislocated workers",
+   "how": "The title suggests they are also meant to receive assistance, but the source does not say what kind."
+  }
+ ],
+ "when_it_takes_effect": "Signed October 6, 2000; the source does not state a separate effective date.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

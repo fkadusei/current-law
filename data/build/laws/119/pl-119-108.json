@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Taxation",
  "sponsor": "Rep. Steube, W. Gregory [R-FL-17]",
- "official_summary": null,
+ "official_summary": "<p><strong>Doug LaMalfa Federal Disaster Tax Relief Certainty Act</strong></p><p>This act extends the federal tax deduction for qualified disaster-related personal casualty losses and the exclusion from gross income of qualified wildfire relief payments.</p><p>Under current law, unreimbursed personal casualty losses arising in a qualified disaster area (qualified disaster-related personal casualty losses) are deductible (as an itemized tax deduction or as part of the standard tax deduction) if such losses exceed $500 per casualty. A <em>qualified disaster area</em> is an area with respect to which a major disaster has been declared during the period beginning in 2020 and ending 60 days after&nbsp;July 4, 2025, if the incident period begins on or after December 28, 2019, and on or before July 4, 2025.</p><p>The act extends the federal tax deduction for qualified disaster-related personal casualty losses by defining a <em>qualified disaster area</em> as an area with respect to which a major disaster&nbsp;has been declared if the incident period&nbsp;begins on or after December 28, 2019, and before January 1, 2027.</p><p>The act provides&nbsp;that the exclusion from gross income of qualified wildfire relief payments applies to such payments attributable to forest or range fires declared a federal disaster after 2014 and before 2027, regardless of when such payments are received. (Currently, qualified wildfire relief payments attributable to forest or range fires declared a federal disaster after 2014 and received after 2019 and before 2026 may be excluded from gross income.)</p><p>The act also provides statutory authority for several related tax rules.</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5366enr/uslm/BILLS-119hr5366enr.xml"
@@ -39,5 +39,24 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Law extends federal tax breaks for people with uninsured disaster losses and for people who receive wildfire relief payments.",
+  "what_it_does": "People can deduct unreimbursed personal property losses from a federally declared major disaster if the loss is more than $500 per event, whether or not they itemize. This law covers disasters whose incident period begins between December 28, 2019, and the end of 2026, instead of ending in mid-2025. It also lets people leave wildfire relief payments out of their taxable income for federally declared forest or range fires from 2015 through 2026, no matter when the payment is received. It also adds legal authority for several related tax rules.",
+  "who_it_affects": [
+   {
+    "group": "People whose homes or personal property were damaged in federally declared major disasters",
+    "how": "They can deduct unreimbursed losses over $500 per disaster for disasters that begin through the end of 2026, even if they take the standard deduction."
+   },
+   {
+    "group": "People who receive payments for wildfire damage",
+    "how": "They do not owe federal income tax on qualified relief payments tied to federally declared forest or range fires from 2015 through 2026, regardless of when the money arrives."
+   }
+  ],
+  "when_it_takes_effect": "Enacted September 11, 2026; covers disasters with incident periods beginning December 28, 2019, through December 31, 2026.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

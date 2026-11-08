@@ -1,0 +1,16 @@
+{
+ "headline": "President Trump signed an executive order declaring a national emergency related to the country's energy supply.",
+ "what_it_does": "This order formally declares a national energy emergency in the United States. Under federal law, declaring a national emergency can let the president and federal agencies use special powers that are not normally available. No summary was provided, so the specific actions the order requires are not described here.",
+ "who_it_affects": [
+  {
+   "group": "Federal agencies",
+   "how": "An emergency declaration may allow agencies to use special emergency powers related to energy, though the exact directions are not stated in the available material."
+  }
+ ],
+ "when_it_takes_effect": "Signed January 20, 2025; the source material does not state a separate start date.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

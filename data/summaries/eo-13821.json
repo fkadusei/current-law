@@ -1,0 +1,24 @@
+{
+ "headline": "Executive order directs federal agencies to speed up requests to place broadband equipment in rural areas.",
+ "what_it_does": "Based on its title, this order tells federal agencies to make it faster and simpler to handle requests to put broadband internet facilities, such as towers or other equipment, in rural America. No official summary was provided, so the specific steps and agencies involved are not described here.",
+ "who_it_affects": [
+  {
+   "group": "Companies that build broadband internet networks",
+   "how": "They may face a faster, simpler process when asking to place equipment in rural areas."
+  },
+  {
+   "group": "People living in rural areas",
+   "how": "The order aims to make it easier to build broadband facilities in their communities."
+  },
+  {
+   "group": "Federal agencies that review these requests",
+   "how": "They are directed to streamline and speed up how they handle requests to locate broadband facilities."
+  }
+ ],
+ "when_it_takes_effect": "Signed January 8, 2018; executive orders usually take effect when signed.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

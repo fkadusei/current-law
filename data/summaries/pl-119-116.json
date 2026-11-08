@@ -1,0 +1,28 @@
+{
+ "headline": "New law requires NOAA to publish online maps showing where fishing and recreational boating are restricted in federal ocean waters.",
+ "what_it_does": "The law directs the National Oceanic and Atmospheric Administration (NOAA) to set common standards for map data about fishing limits and recreational boat use in federal waters. Within four years, NOAA must post this data on a public website showing where fishing is restricted, where certain types of recreational boats are limited, and where federally protected areas like National Marine Sanctuaries are. NOAA must keep providing digital navigation information for federal ocean waters and add it to the website where practical. NOAA may partner with non-federal groups and must work with other federal agencies so their databases work together.",
+ "who_it_affects": [
+  {
+   "group": "Recreational anglers",
+   "how": "They will be able to look up online where and when fishing is restricted in federal waters."
+  },
+  {
+   "group": "Recreational boaters",
+   "how": "They will be able to find maps showing areas in federal ocean waters where certain types of recreational boats are restricted."
+  },
+  {
+   "group": "State and local governments, Indian tribes, and Native Hawaiian organizations",
+   "how": "NOAA must consult with them when developing the data standards."
+  },
+  {
+   "group": "Federal agencies that collect ocean recreation data",
+   "how": "They must work with NOAA to make their databases compatible with one another."
+  }
+ ],
+ "when_it_takes_effect": "Enacted September 25, 2026; NOAA must have the public website data available within four years of enactment.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

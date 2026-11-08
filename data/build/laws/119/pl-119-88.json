@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Native Americans",
  "sponsor": "Sen. Thune, John [R-SD]",
- "official_summary": null,
+ "official_summary": "<p><strong>Tribal Trust Land Homeownership Act of 2025</strong></p><p>This act sets forth requirements for the processing of a proposed residential leasehold mortgage, business leasehold mortgage, land mortgage, or right-of-way document by the Bureau of Indian Affairs (BIA). The BIA must notify lenders upon receipt of such documentation, perform a preliminary review of such documents not later than 10 days after receipt, and approve or disapprove of such documents within 20 or 30 days, depending on the type of application.</p><p>Additionally, the act sets forth requirements for the BIA regarding (1) response times for the completion of certified title status reports, (2) notification of delays in processing, and (3) the form of notices and delivery of certain reports.</p><p>The act also provides relevant federal agencies and Indian tribes with read-only access to the Trust Asset and Accounting Management System maintained by the BIA.</p><p>The Government Accountability Office must report on digitizing documents for the purpose of streamlining and expediting the completion of mortgage packages for residential mortgages on Indian land.</p><p>Finally, the act establishes within the BIA's Division of Real Estate Services the position of Realty Ombudsman.</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-119s723enr/uslm/BILLS-119s723enr.xml"
@@ -3532,5 +3532,40 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "New law sets deadlines for the Bureau of Indian Affairs to review and approve mortgages and related documents on tribal trust land.",
+  "what_it_does": "The Bureau of Indian Affairs (BIA) must tell lenders when it receives mortgage or right-of-way documents for tribal trust land, do a first review within 10 days, and approve or deny them within 20 or 30 days, depending on the type. It also sets response times for title status reports and requires notice when processing is delayed. Tribes and certain federal agencies get read-only access to a BIA land and accounting records system. The law also creates a Realty Ombudsman position at the BIA and asks the Government Accountability Office (GAO) to study putting mortgage documents into digital form.",
+  "who_it_affects": [
+   {
+    "group": "People seeking home mortgages on tribal trust land",
+    "how": "Their home and land mortgage paperwork must be reviewed by the BIA within set deadlines."
+   },
+   {
+    "group": "Businesses leasing tribal trust land",
+    "how": "Business leasehold mortgages must also be processed by the BIA within set time limits."
+   },
+   {
+    "group": "Mortgage lenders",
+    "how": "They must be notified when the BIA receives their documents and told about any processing delays."
+   },
+   {
+    "group": "Indian tribes",
+    "how": "They get read-only access to the BIA's Trust Asset and Accounting Management System."
+   },
+   {
+    "group": "Bureau of Indian Affairs",
+    "how": "It must meet new review deadlines, follow notice rules, and add a Realty Ombudsman position."
+   },
+   {
+    "group": "Government Accountability Office",
+    "how": "It must report on digitizing documents to speed up mortgage processing on Indian land."
+   }
+  ],
+  "when_it_takes_effect": "Enacted May 4, 2026; the summary does not give separate start dates for specific requirements.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

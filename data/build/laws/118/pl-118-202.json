@@ -36,5 +36,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "New law tells TSA to let transportation workers apply once and pay one lower fee for multiple security background check programs.",
+  "what_it_does": "The law directs TSA to simplify how people apply for and renew security background check programs, mainly the TWIC card and the hazardous materials endorsement on commercial driver's licenses. People can enroll once and have that application and vetting used for other programs, or sign up for several at once for a single fee lower than paying separately. TSA must offer a faster renewal process, share expiration dates with states, and post information online. The Government Accountability Office must audit these programs for duplicate costs, and TSA must act on its recommendations and report to Congress.",
+  "who_it_affects": [
+   {
+    "group": "Truck drivers who haul hazardous materials",
+    "how": "They could reuse one TSA application for other programs, pay a lower combined fee, and renew more quickly."
+   },
+   {
+    "group": "Port and maritime workers who need a TWIC card",
+    "how": "They could enroll in TWIC and other TSA background check programs at the same time with one application and one reduced fee."
+   },
+   {
+    "group": "State driver's license agencies",
+    "how": "They will receive expiration dates from TSA so commercial driver's licenses show a driver's current hazardous materials status."
+   },
+   {
+    "group": "Transportation Security Administration",
+    "how": "It must change its enrollment and renewal systems, post information online, possibly issue rules on a faster timeline, and carry out GAO recommendations."
+   }
+  ],
+  "when_it_takes_effect": "Enacted December 23, 2024; the summary does not give specific deadlines for TSA's changes.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

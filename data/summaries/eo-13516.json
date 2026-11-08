@@ -1,0 +1,16 @@
+{
+ "headline": "President Obama changed the rules in an earlier executive order, Executive Order 13462.",
+ "what_it_does": "This order amends Executive Order 13462, a 2008 order that set up the President's Intelligence Advisory Board and the Intelligence Oversight Board. These boards advise the President on US spy agencies and on whether their activities follow the law. No summary was provided, so the specific changes are not described here.",
+ "who_it_affects": [
+  {
+   "group": "Members of the President's Intelligence Advisory Board and Intelligence Oversight Board",
+   "how": "The rules that govern these advisory boards may have changed, but the details are not given in the material provided."
+  }
+ ],
+ "when_it_takes_effect": "Executive orders usually take effect when signed; this one is dated November 2, 2009.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

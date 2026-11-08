@@ -1,0 +1,24 @@
+{
+ "headline": "President Obama creates an emergency board to look into labor disputes between Philadelphia-area transit agency SEPTA and some of its unionized workers.",
+ "what_it_does": "This order sets up an emergency board to investigate disputes between the Southeastern Pennsylvania Transportation Authority (SEPTA) and some of its employees who are represented by labor unions. The board's job is to look into the disagreements between the two sides. The title does not say which unions or issues are involved or what the board must recommend.",
+ "who_it_affects": [
+  {
+   "group": "SEPTA employees represented by the unions involved",
+   "how": "Their labor dispute with SEPTA will be reviewed by a federal emergency board."
+  },
+  {
+   "group": "Southeastern Pennsylvania Transportation Authority (SEPTA)",
+   "how": "The agency's disputes with these unionized workers will be investigated by the board."
+  },
+  {
+   "group": "People who ride SEPTA in the Philadelphia area",
+   "how": "They may be affected by how the labor dispute plays out while the board does its work."
+  }
+ ],
+ "when_it_takes_effect": "Likely on signing, June 14, 2014",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

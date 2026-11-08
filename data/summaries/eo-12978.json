@@ -1,0 +1,20 @@
+{
+ "headline": "1995 order freezes the assets of major drug traffickers and bars Americans from doing business with them.",
+ "what_it_does": "This executive order blocks, or freezes, money and property belonging to people the government names as significant narcotics traffickers. It also bans transactions with them. Based on the title alone, it appears to stop people and businesses under U.S. rules from dealing with these traffickers. The source does not list who was named or how they were chosen.",
+ "who_it_affects": [
+  {
+   "group": "People and groups named as significant narcotics traffickers",
+   "how": "Their money and property under U.S. control can be frozen, and they can be cut off from dealings with U.S. parties."
+  },
+  {
+   "group": "U.S. banks and businesses",
+   "how": "They would have to freeze assets tied to named traffickers and refuse transactions with them."
+  }
+ ],
+ "when_it_takes_effect": "Signed October 21, 1995; the source does not give a separate start date.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

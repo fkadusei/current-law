@@ -1,0 +1,28 @@
+{
+ "headline": "Law expands tax relief for disaster losses and makes East Palestine derailment and wildfire relief payments tax-free.",
+ "what_it_does": "The law lengthens the period of time an area hit by a major disaster counts as a 'qualified disaster area.' People there can deduct disaster losses above $500 each, even if they take the standard deduction, and without the usual 10%-of-income limit. It also makes payments for the East Palestine, Ohio, train derailment and certain wildfire relief payments free from federal income tax. People who already paid tax on wildfire relief payments get more time to claim a refund.",
+ "who_it_affects": [
+  {
+   "group": "People with personal property losses from major federally declared disasters",
+   "how": "More of them can deduct unreimbursed losses above $500 per disaster event, even without itemizing."
+  },
+  {
+   "group": "Residents and others affected by the East Palestine, Ohio, train derailment",
+   "how": "Payments received on or after February 3, 2023, from government agencies, Norfolk Southern Railway, or its agents or insurers are not counted as taxable income."
+  },
+  {
+   "group": "People who received wildfire relief payments",
+   "how": "Compensation received from 2020 through 2025 for losses from federally declared wildfires declared after 2014, including lost wages, injury, death, and emotional distress, is not taxed as income."
+  },
+  {
+   "group": "People who already paid tax on wildfire relief payments",
+   "how": "They get extra time to file for a refund or credit of that tax."
+  }
+ ],
+ "when_it_takes_effect": "Enacted December 12, 2024; East Palestine payments covered from February 3, 2023, and wildfire payments received from 2020 through 2025.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

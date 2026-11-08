@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Crime and Law Enforcement",
  "sponsor": "Rep. Mast, Brian J. [R-FL-21]",
- "official_summary": null,
+ "official_summary": "<p><strong>Medal of Sacrifice Act of 2025</strong></p><p>This act directs the President to issue a medal of sacrifice for eligible law enforcement officers and first responders who are killed in the line of duty.</p><p>The act also directs the President to establish a commission on the medal of sacrifice and appoint its members. The act sets forth responsibilities of the commission, including to advise on the design of the medal and determine how the medal will be presented.</p><p>Under the act, eligible law enforcement officers and first responders include federal, state, local, tribal, or territorial law enforcement officers or first responders who are not subject to an official act of wrongdoing (e.g., a determination that the officer or first responder acted outside the scope of their duties or in a manner that was not in accordance with official policies or procedures).</p><p>A law enforcement officer or first responder who is subject to an official act of wrongdoing is generally not eligible for the medal of sacrifice. However, in the case of such an officer or first responder, the act requires the commission to investigate the circumstances surrounding the officer or first responder's cause of death and issue a final determination on their eligibility.</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr3497enr/uslm/BILLS-119hr3497enr.xml"
@@ -42,5 +42,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Creates a presidential Medal of Sacrifice for law enforcement officers and first responders killed in the line of duty.",
+  "what_it_does": "The law directs the President to award a Medal of Sacrifice to eligible law enforcement officers and first responders who die in the line of duty. It also has the President set up and appoint a commission to advise on the medal's design and decide how it will be presented. Officers or first responders found to have committed an official act of wrongdoing, such as acting outside their duties or against official policy, are generally not eligible. In those cases, the commission must investigate the death and make a final decision on eligibility.",
+  "who_it_affects": [
+   {
+    "group": "Families of federal, state, local, tribal, and territorial law enforcement officers killed in the line of duty",
+    "how": "Their fallen family members may be honored with the Medal of Sacrifice."
+   },
+   {
+    "group": "Families of first responders killed in the line of duty",
+    "how": "Their fallen family members may be honored with the Medal of Sacrifice."
+   },
+   {
+    "group": "Families of officers or first responders with an official finding of wrongdoing",
+    "how": "Their loved ones are generally not eligible, but the commission must investigate the death and issue a final decision on eligibility."
+   },
+   {
+    "group": "Members appointed to the new commission",
+    "how": "They will advise on the medal's design, decide how it is presented, and review eligibility in wrongdoing cases."
+   }
+  ],
+  "when_it_takes_effect": "Enacted May 28, 2026; the summary does not give a separate start date.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

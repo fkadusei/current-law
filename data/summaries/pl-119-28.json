@@ -1,0 +1,36 @@
+{
+ "headline": "Congress cancels unspent money previously set aside for many foreign aid programs and for the Corporation for Public Broadcasting.",
+ "what_it_does": "This law takes back (rescinds) money Congress had already approved but that had not yet been committed. The cuts affect State Department and USAID programs, several independent foreign-affairs agencies, and the Corporation for Public Broadcasting. The President proposed these cuts under a 1974 budget law, and they only take effect because Congress passed them. Some programs are protected from the cuts, including global health funds for HIV/AIDS, tuberculosis, malaria, nutrition, and mother-and-child health, and commodity-based food aid.",
+ "who_it_affects": [
+  {
+   "group": "Public radio and TV stations",
+   "how": "Unspent federal money for the Corporation for Public Broadcasting, which funds public broadcasters, is canceled."
+  },
+  {
+   "group": "People and groups abroad who receive U.S. foreign aid",
+   "how": "Unspent money for programs such as refugee help, disaster aid, democracy programs, development aid, and some global health work is canceled, with certain listed exceptions."
+  },
+  {
+   "group": "International organizations and peacekeeping missions",
+   "how": "Unspent U.S. contributions to international organizations, peacekeeping, and the Clean Technology Fund are canceled."
+  },
+  {
+   "group": "Small independent federal agencies",
+   "how": "Unspent funds for the Inter-American Foundation, the U.S. African Development Foundation, and the U.S. Institute of Peace are canceled."
+  },
+  {
+   "group": "USAID",
+   "how": "Unspent money for the agency's operating expenses is canceled."
+  },
+  {
+   "group": "Jordan and Egypt",
+   "how": "Economic aid set aside for these two countries is excluded from the cuts."
+  }
+ ],
+ "when_it_takes_effect": "July 24, 2025, when it was signed into law.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

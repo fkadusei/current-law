@@ -1,0 +1,20 @@
+{
+ "headline": "Executive order uses national emergency powers to let certain estimated payment deadlines be pushed back for a limited time.",
+ "what_it_does": "This order relies on the President's national emergency powers to allow deadlines for certain estimated payments owed to the federal government to be temporarily extended. It was signed in April 2020, during the national emergency declared earlier that year. The title does not say exactly which payments are covered, who qualifies, or how long the extensions last.",
+ "who_it_affects": [
+  {
+   "group": "People or businesses that owe certain estimated payments to the federal government",
+   "how": "They may get extra time to make those payments while the extension is in place."
+  },
+  {
+   "group": "Federal agencies that collect these payments",
+   "how": "They may be given authority to set later due dates for the covered payments."
+  }
+ ],
+ "when_it_takes_effect": "Signed April 18, 2020; extensions are described as temporary.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

@@ -1,0 +1,24 @@
+{
+ "headline": "President Trump signed an executive order adding more federal steps to respond to what it calls a crime emergency in Washington, D.C.",
+ "what_it_does": "This executive order adds to earlier federal actions on crime in the District of Columbia. No official summary was provided, so the specific measures it orders are not described here. Based on the title, it directs further federal action on public safety in D.C.",
+ "who_it_affects": [
+  {
+   "group": "Residents and visitors of Washington, D.C.",
+   "how": "They may see changes in how crime and public safety are handled in the city."
+  },
+  {
+   "group": "Federal agencies and law enforcement working in D.C.",
+   "how": "They may be given new or expanded duties related to crime in the city."
+  },
+  {
+   "group": "The D.C. local government",
+   "how": "Its role in public safety may be affected by the added federal measures."
+  }
+ ],
+ "when_it_takes_effect": "Signed August 25, 2025; executive orders usually take effect when signed unless they say otherwise.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

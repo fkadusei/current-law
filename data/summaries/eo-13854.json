@@ -1,0 +1,20 @@
+{
+ "headline": "Executive order closes most federal government departments and agencies on Monday, December 24, 2018, Christmas Eve.",
+ "what_it_does": "This order closes the executive departments and agencies of the federal government on December 24, 2018, the day before Christmas. That gives many federal workers the day off. No summary was provided, so details such as which workers might still have to report are not covered here.",
+ "who_it_affects": [
+  {
+   "group": "Federal government employees",
+   "how": "Many federal workers in executive departments and agencies would not report to work on December 24, 2018."
+  },
+  {
+   "group": "People who use federal government offices and services",
+   "how": "Federal offices covered by the order would be closed to the public that day."
+  }
+ ],
+ "when_it_takes_effect": "December 24, 2018",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

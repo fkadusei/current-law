@@ -1,0 +1,20 @@
+{
+ "headline": "Trump order cancels an earlier executive order that set up labor-management forums in the federal government.",
+ "what_it_does": "This order revokes a previous executive order that created labor-management forums. The forums were meetings where federal agency managers and unions representing federal workers discussed workplace issues. With the earlier order revoked, agencies are no longer required to keep these forums. The title gives few other details.",
+ "who_it_affects": [
+  {
+   "group": "Federal government employees and the unions that represent them",
+   "how": "They lose a formal forum, created by the earlier order, for discussing workplace matters with agency managers."
+  },
+  {
+   "group": "Federal agency managers",
+   "how": "They are no longer required to hold labor-management forums under the revoked order."
+  }
+ ],
+ "when_it_takes_effect": "2017-09-29 (date signed)",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

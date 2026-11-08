@@ -1,0 +1,20 @@
+{
+ "headline": "Bush order changes an earlier order that called up military reservists to active duty and gave related powers to defense officials.",
+ "what_it_does": "This order amends Executive Order 13223, an earlier order that called members of the Ready Reserve of the Armed Forces to active duty and handed certain powers to the Secretary of Defense and at least one other official. The title does not say what specific changes were made. No summary was provided, so details are limited.",
+ "who_it_affects": [
+  {
+   "group": "Members of the Ready Reserve of the Armed Forces",
+   "how": "The rules for calling them to active duty under the earlier order may be changed by this amendment."
+  },
+  {
+   "group": "The Secretary of Defense and other named officials",
+   "how": "The powers given to them under the earlier order may be adjusted."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

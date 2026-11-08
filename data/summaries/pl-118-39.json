@@ -1,0 +1,20 @@
+{
+ "headline": "New law requires Customs and Border Protection to remove personal details like Social Security and passport numbers from public shipping manifests.",
+ "what_it_does": "Ships and aircraft entering the U.S. must send a manifest, a list of what they carry, to U.S. Customs and Border Protection (CBP). Some of this manifest information can be made public. This law directs CBP to remove personally identifiable information, such as Social Security numbers and passport numbers, from these manifests before the public can see them.",
+ "who_it_affects": [
+  {
+   "group": "People moving household goods to the U.S. from abroad, such as returning military members and overseas workers",
+   "how": "Their Social Security numbers, passport numbers, and similar personal details listed on shipping manifests must be removed before the records are made public."
+  },
+  {
+   "group": "U.S. Customs and Border Protection",
+   "how": "The agency must strip personal identifying information from manifests before making them publicly accessible."
+  }
+ ],
+ "when_it_takes_effect": "Enacted February 9, 2024; the summary does not give a separate start date.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

@@ -1,0 +1,20 @@
+{
+ "headline": "Executive order keeps certain federal advisory committees running or restarts them, and changes some earlier executive orders.",
+ "what_it_does": "This order continues or reestablishes a set of federal advisory committees, which are groups that give advice to the President or federal agencies. It also amends some earlier executive orders. The title does not say which committees or which orders are covered, or what the changes are.",
+ "who_it_affects": [
+  {
+   "group": "Members of federal advisory committees",
+   "how": "Committees covered by the order can keep meeting and giving advice instead of shutting down."
+  },
+  {
+   "group": "Federal agencies that support advisory committees",
+   "how": "Agencies keep running and staffing the committees that the order continues or restarts."
+  }
+ ],
+ "when_it_takes_effect": "Signed September 30, 2021; the exact effective date is not stated in the title.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

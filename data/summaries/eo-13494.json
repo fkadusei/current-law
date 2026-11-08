@@ -1,0 +1,24 @@
+{
+ "headline": "Executive order says federal contractors cannot bill the government for costs of trying to sway workers' views on forming a union.",
+ "what_it_does": "The order makes the costs of activities meant to persuade employees for or against union organizing or collective bargaining \"unallowable\" under federal contracts. This means contractors cannot be repaid with government contract money for these costs. It directs that federal contracting rules be updated to carry this out. Because no official summary was provided, this description relies on the order's general known purpose.",
+ "who_it_affects": [
+  {
+   "group": "Companies with federal government contracts",
+   "how": "They cannot charge the government for spending on efforts to influence their workers' decisions about unions or collective bargaining."
+  },
+  {
+   "group": "Employees of federal contractors",
+   "how": "Their employers' efforts to persuade them about unionizing will not be paid for with federal contract funds."
+  },
+  {
+   "group": "Federal contracting agencies",
+   "how": "They must apply the new cost rules when reviewing what contractors can be repaid for."
+  }
+ ],
+ "when_it_takes_effect": "Signed January 30, 2009; federal contracting rules were to be updated afterward to carry it out.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

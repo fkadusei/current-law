@@ -1,0 +1,24 @@
+{
+ "headline": "Executive order hands more Defense Production Act powers over health and medical supplies to federal officials to respond to COVID-19.",
+ "what_it_does": "This order delegates, or passes down, additional presidential powers under the Defense Production Act to other federal officials. The Defense Production Act lets the government direct private industry to make or prioritize goods needed for national defense or emergencies. Based on its title, this order applies those powers to health and medical resources needed to respond to the spread of COVID-19. The title alone does not say exactly which officials receive the powers or which supplies are covered.",
+ "who_it_affects": [
+  {
+   "group": "Federal agency officials",
+   "how": "Certain federal officials gain authority to use Defense Production Act powers over health and medical resources."
+  },
+  {
+   "group": "Companies that make or supply medical products",
+   "how": "These businesses could be directed by the government to prioritize or increase production of health and medical resources."
+  },
+  {
+   "group": "Hospitals and health care workers",
+   "how": "They may be affected by how the government directs the production and distribution of medical supplies during the pandemic."
+  }
+ ],
+ "when_it_takes_effect": "Signed March 27, 2020; the effective date is not stated in the title.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

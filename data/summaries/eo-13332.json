@@ -1,0 +1,16 @@
+{
+ "headline": "President Bush updates certain federal pay rates, revising pay levels set earlier.",
+ "what_it_does": "This order makes a further change to certain rates of pay. The word \"further\" suggests it revises an earlier pay order. The title alone does not say which pay rates change, by how much, or for whom.",
+ "who_it_affects": [
+  {
+   "group": "Federal government workers whose pay is set by presidential pay orders",
+   "how": "Their pay rates may have been adjusted, but the title alone does not give the details."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

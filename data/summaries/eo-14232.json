@@ -1,0 +1,20 @@
+{
+ "headline": "Executive order changes earlier tariffs that were placed on imports to address illegal drugs crossing the US southern border.",
+ "what_it_does": "This order amends an earlier presidential order that put duties, or import taxes, on goods tied to concerns about illegal drugs coming across the southern border. The title shows it changes those duties but does not say exactly how. No official summary was provided, so the specific changes are not described here.",
+ "who_it_affects": [
+  {
+   "group": "US businesses that import goods from across the southern border",
+   "how": "The import taxes they pay on certain goods may change under the amended rules."
+  },
+  {
+   "group": "Foreign companies that export goods to the US from across the southern border",
+   "how": "The duties applied to their products when they enter the US may be adjusted."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

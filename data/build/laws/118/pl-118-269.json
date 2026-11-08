@@ -36,5 +36,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A law renames the Elwood, Indiana Postal Service building at 119 North Anderson Street after Officer Noah Jacob Shahnavaz.",
+  "what_it_does": "This act names a specific U.S. Postal Service building in Elwood, Indiana, as the Officer Noah Jacob Shahnavaz Post Office Building. It changes only the building's official designation and does not change how mail is handled or what services the office provides.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law was enacted on January 4, 2025.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

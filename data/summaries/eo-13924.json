@@ -1,0 +1,20 @@
+{
+ "headline": "A 2020 executive order directing federal agencies to ease regulations to help the economy recover.",
+ "what_it_does": "Based on its title, this order tells federal agencies to look for ways to reduce or relax regulations to support economic recovery. It was signed in May 2020, during the early economic downturn of the COVID-19 pandemic. No summary was provided, so the specific steps agencies were told to take are not described here.",
+ "who_it_affects": [
+  {
+   "group": "Federal agencies",
+   "how": "They are directed to review and ease regulations in support of economic recovery."
+  },
+  {
+   "group": "Businesses subject to federal regulations",
+   "how": "They may face fewer or relaxed regulatory requirements as a result of agency actions."
+  }
+ ],
+ "when_it_takes_effect": "Signed May 19, 2020",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

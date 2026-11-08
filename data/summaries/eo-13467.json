@@ -1,0 +1,28 @@
+{
+ "headline": "2008 executive order changes how the government checks whether people can work for it, work as contractors, or access classified information.",
+ "what_it_does": "This order reforms the processes the federal government uses to decide three things: whether a person is suitable for a government job, whether a contractor employee is fit for their work, and whether a person can be trusted with classified national security information. No summary was provided, so the specific changes are not described here.",
+ "who_it_affects": [
+  {
+   "group": "People applying for or holding federal government jobs",
+   "how": "The process used to judge whether they are suitable for government employment is changed."
+  },
+  {
+   "group": "Employees of government contractors",
+   "how": "The process used to judge whether they are fit to do contract work for the government is changed."
+  },
+  {
+   "group": "People who need a security clearance",
+   "how": "The process used to decide whether they can access classified national security information is changed."
+  },
+  {
+   "group": "Federal agencies that do background checks and grant clearances",
+   "how": "They must follow the reformed processes set out in the order."
+  }
+ ],
+ "when_it_takes_effect": "Signed June 30, 2008; the provided material does not state a separate effective date.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

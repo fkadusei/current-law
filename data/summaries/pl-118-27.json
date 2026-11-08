@@ -1,0 +1,20 @@
+{
+ "headline": "Temporarily lets the FCC finish issuing licenses for wireless airwaves it auctioned before its auction authority expired in March 2023.",
+ "what_it_does": "The FCC's legal authority to hold spectrum auctions expired on March 9, 2023. Because of this, the FCC had not issued licenses for airwaves that companies had already won in auctions held before that date. This law gives the FCC temporary power to process those license applications. That power ends 90 days after the law was enacted.",
+ "who_it_affects": [
+  {
+   "group": "Companies that won FCC spectrum auctions on or before March 9, 2023",
+   "how": "The FCC can now process their pending license applications so they can use the airwaves they bid on."
+  },
+  {
+   "group": "Federal Communications Commission",
+   "how": "The agency gets a 90-day window to process applications for these previously auctioned airwaves."
+  }
+ ],
+ "when_it_takes_effect": "December 19, 2023; the authority expires 90 days later (about March 18, 2024).",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

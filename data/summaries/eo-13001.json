@@ -1,0 +1,20 @@
+{
+ "headline": "President Clinton created an emergency board to look into a labor dispute between several railroads and a union representing their workers.",
+ "what_it_does": "This order sets up a presidential emergency board to investigate a dispute between certain railroads, represented by the National Railway Labor Conference, and their employees, represented by the Transportation Communications International Union. Emergency boards like this are used under federal railway labor law to study a dispute and suggest a way to settle it. No details about the dispute or the board's findings were provided.",
+ "who_it_affects": [
+  {
+   "group": "Railroad workers in the Transportation Communications International Union",
+   "how": "Their dispute with their employers is sent to a board for investigation, which typically delays any strike while the board does its work."
+  },
+  {
+   "group": "Railroads represented by the National Railway Labor Conference",
+   "how": "Their dispute with these workers is placed under review by the board, which typically delays any lockout or one-sided changes during the process."
+  }
+ ],
+ "when_it_takes_effect": "1996-05-08",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

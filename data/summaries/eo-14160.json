@@ -1,0 +1,24 @@
+{
+ "headline": "Executive order on who counts as a US citizen at birth, widely known as the birthright citizenship order.",
+ "what_it_does": "Only the title was provided, so this summary is limited. The order is widely reported to direct federal agencies to stop issuing citizenship documents, such as passports, to certain children born in the US. This would apply when the mother was in the country unlawfully or only temporarily, and the father was not a US citizen or green card holder. The order has faced court challenges, and courts have blocked it from taking effect.",
+ "who_it_affects": [
+  {
+   "group": "Babies born in the US to parents without citizenship or permanent legal status",
+   "how": "They could be denied US citizenship papers, such as passports, if the order takes effect."
+  },
+  {
+   "group": "Parents in the US on temporary visas or without legal status",
+   "how": "Their US-born children might not be recognized as citizens under the order."
+  },
+  {
+   "group": "Federal agencies that issue citizenship documents",
+   "how": "They are told to change which births they treat as giving US citizenship."
+  }
+ ],
+ "when_it_takes_effect": "Reported to apply to births starting 30 days after signing (February 19, 2025), but courts have blocked it from taking effect.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

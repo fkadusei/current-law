@@ -1,0 +1,20 @@
+{
+ "headline": "President Clinton ordered that federal rules controlling exports from the United States stay in force.",
+ "what_it_does": "This order kept the government's export control rules in effect. These rules decide which goods and technology need government permission before they can be sent to other countries. Based on the title alone, the order continues existing rules rather than creating new ones. Historically, orders like this were used when the law behind these rules expired, but the source here gives no details.",
+ "who_it_affects": [
+  {
+   "group": "US companies that export goods or technology",
+   "how": "They must keep following the existing export rules, including getting licenses where required."
+  },
+  {
+   "group": "Federal agencies that oversee exports",
+   "how": "They can keep enforcing the existing export control rules."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

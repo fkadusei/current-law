@@ -1,0 +1,28 @@
+{
+ "headline": "Creates a presidential Medal of Sacrifice for law enforcement officers and first responders killed in the line of duty.",
+ "what_it_does": "The law directs the President to award a Medal of Sacrifice to eligible law enforcement officers and first responders who die in the line of duty. It also has the President set up and appoint a commission to advise on the medal's design and decide how it will be presented. Officers or first responders found to have committed an official act of wrongdoing, such as acting outside their duties or against official policy, are generally not eligible. In those cases, the commission must investigate the death and make a final decision on eligibility.",
+ "who_it_affects": [
+  {
+   "group": "Families of federal, state, local, tribal, and territorial law enforcement officers killed in the line of duty",
+   "how": "Their fallen family members may be honored with the Medal of Sacrifice."
+  },
+  {
+   "group": "Families of first responders killed in the line of duty",
+   "how": "Their fallen family members may be honored with the Medal of Sacrifice."
+  },
+  {
+   "group": "Families of officers or first responders with an official finding of wrongdoing",
+   "how": "Their loved ones are generally not eligible, but the commission must investigate the death and issue a final decision on eligibility."
+  },
+  {
+   "group": "Members appointed to the new commission",
+   "how": "They will advise on the medal's design, decide how it is presented, and review eligibility in wrongdoing cases."
+  }
+ ],
+ "when_it_takes_effect": "Enacted May 28, 2026; the summary does not give a separate start date.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

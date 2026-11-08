@@ -1,0 +1,20 @@
+{
+ "headline": "Clinton order kept certain existing federal advisory committees running instead of letting them expire.",
+ "what_it_does": "This order extended the life of a set of federal advisory committees, which are groups that give advice to the President and federal agencies. Without action, such committees can end after a set time. Orders like this usually extend committees for about two years. The title does not say which committees were covered.",
+ "who_it_affects": [
+  {
+   "group": "Members of the covered federal advisory committees",
+   "how": "They could keep serving and advising the government because their committees did not expire."
+  },
+  {
+   "group": "Federal agencies that rely on these committees",
+   "how": "They kept getting advice from these committees without having to set up new ones."
+  }
+ ],
+ "when_it_takes_effect": "Signed September 30, 1999",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

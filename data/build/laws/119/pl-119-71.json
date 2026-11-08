@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Armed Forces and National Security",
  "sponsor": "Rep. Bergman, Jack [R-MI-1]",
- "official_summary": null,
+ "official_summary": "<p><strong>VA Budget Shortfall Accountability Act</strong></p><p>This act requires the Government Accountability Office (GAO) to review and report on the circumstances and causes of the shortfall in funding of the Veterans Benefits Administration for FY2024 and the expected shortfall in funding of the Veterans Health Administration in FY2025. The Department of Veterans Affairs must submit such GAO report to Congress.&nbsp;For each of the five fiscal years following the date of enactment of this act, GAO must conduct subsequent reviews and reports regarding the funding of the VA.</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1823enr/uslm/BILLS-119hr1823enr.xml"
@@ -42,5 +42,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "New law requires a federal watchdog to study why the VA ran short of money in 2024 and 2025, and to keep reviewing VA funding.",
+  "what_it_does": "The Government Accountability Office (GAO) must review and report on what caused the Veterans Benefits Administration's funding shortfall in fiscal year 2024. It must also look at the expected funding shortfall at the Veterans Health Administration in fiscal year 2025. The Department of Veterans Affairs must send the GAO report to Congress. GAO must also do follow-up reviews of VA funding for each of the next five fiscal years.",
+  "who_it_affects": [
+   {
+    "group": "Department of Veterans Affairs",
+    "how": "The VA's budget and spending will be reviewed by GAO, and the VA must deliver the GAO report to Congress."
+   },
+   {
+    "group": "Government Accountability Office",
+    "how": "GAO must carry out an initial review plus yearly follow-up reviews of VA funding for five fiscal years."
+   },
+   {
+    "group": "Congress",
+    "how": "Lawmakers will receive reports explaining the causes of recent VA funding shortfalls and later reviews of VA funding."
+   },
+   {
+    "group": "Veterans",
+    "how": "The law does not directly change veterans' benefits or health care, but it requires study of shortfalls in the offices that provide them."
+   }
+  ],
+  "when_it_takes_effect": "Enacted January 20, 2026; follow-up GAO reviews continue for five fiscal years after that date.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Public Lands and Natural Resources",
  "sponsor": "Rep. Stauber, Pete [R-MN-8]",
- "official_summary": null,
+ "official_summary": "<p>This joint resolution&nbsp;opens&nbsp;approximately 225,504 acres of National Forest System lands in Cook, Lake, and Saint Louis Counties in Minnesota to mineral and geothermal leasing. Specifically, the joint resolution nullifies <a href=\"https://www.federalregister.gov/documents/2023/01/31/2023-01969/public-land-order-no-7917-for-withdrawal-of-federal-lands-cook-lake-and-saint-louis-counties-mn\">Public Land Order 7917</a>, which withdrew such land from mineral and geothermal leasing for 20 years beginning&nbsp;in 2023. The Bureau of Land Management issued the order to protect and preserve the Rainy River Watershed, the Boundary Waters Canoe Area Wilderness, the Boundary Waters Canoe Area Wilderness Mining Protection Area, and the 1854 Ceded Territory of the Lake Superior Chippewa from potential adverse effects of mineral and geothermal exploration and development. The joint resolution removes such protections and allows such land to be leased for the exploration and development of minerals and geothermal energy.</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-119hjres140enr/uslm/BILLS-119hjres140enr.xml"
@@ -4353,5 +4353,32 @@
   "House": "R",
   "Senate": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "Congress cancels a 2023 order that had blocked mineral and geothermal leasing on about 225,504 acres of national forest in northeastern Minnesota.",
+  "what_it_does": "This law overturns Public Land Order 7917, a Bureau of Land Management rule from 2023. That order had closed about 225,504 acres of National Forest land in Cook, Lake, and Saint Louis Counties to mineral and geothermal leasing for 20 years. The order was meant to protect the Rainy River Watershed, the Boundary Waters Canoe Area Wilderness and its nearby Mining Protection Area, and the 1854 Ceded Territory of the Lake Superior Chippewa. With the order cancelled, the land can again be leased for mineral and geothermal exploration and development.",
+  "who_it_affects": [
+   {
+    "group": "Mining and geothermal energy companies",
+    "how": "They can now seek federal leases to explore for and develop minerals and geothermal energy on these lands."
+   },
+   {
+    "group": "Lake Superior Chippewa bands",
+    "how": "Land in the 1854 Ceded Territory that had been shielded from mineral and geothermal leasing is no longer protected by the cancelled order."
+   },
+   {
+    "group": "Residents of Cook, Lake, and Saint Louis Counties, Minnesota",
+    "how": "National Forest land in their area is reopened to possible mineral and geothermal leasing and development."
+   },
+   {
+    "group": "Visitors to the Boundary Waters Canoe Area Wilderness",
+    "how": "Nearby lands in the Rainy River Watershed and the Mining Protection Area lose the leasing protections the 2023 order had put in place."
+   }
+  ],
+  "when_it_takes_effect": "April 27, 2026, when the law was enacted.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

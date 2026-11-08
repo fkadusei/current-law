@@ -1,0 +1,20 @@
+{
+ "headline": "President Clinton set up an emergency board to look into a labor dispute between the Soo Line Railroad and some of its union workers.",
+ "what_it_does": "This order creates a special emergency board to investigate a dispute between the Soo Line Railroad Company and certain employees represented by the United Transportation Union. Boards like this are normally set up under federal railroad labor law to study a dispute and report back to the President. The title does not give details about the dispute or the board's findings.",
+ "who_it_affects": [
+  {
+   "group": "Soo Line Railroad Company",
+   "how": "The company's dispute with some of its workers is placed under review by a federal emergency board."
+  },
+  {
+   "group": "Soo Line railroad workers represented by the United Transportation Union",
+   "how": "Their dispute with the railroad is investigated by a federal emergency board."
+  }
+ ],
+ "when_it_takes_effect": "August 29, 1994 (date signed)",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

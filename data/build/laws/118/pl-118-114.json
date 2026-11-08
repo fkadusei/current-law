@@ -39,5 +39,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Requires the VA to pay reissued benefits, which a fiduciary misused, to a veteran's estate if the veteran dies before receiving them.",
+  "what_it_does": "Some VA beneficiaries have a fiduciary, a person or group chosen to manage their benefit payments. When a fiduciary misuses that money, the VA can reissue the lost benefits. This law requires the VA to pay those reissued benefits to the beneficiary's estate if the beneficiary dies before the payment is made. The VA must pay this money the same way it already pays other benefits owed after a beneficiary's death.",
+  "who_it_affects": [
+   {
+    "group": "Families and estates of VA beneficiaries whose benefits were misused by a fiduciary",
+    "how": "They can receive reissued benefits that the beneficiary died before getting."
+   },
+   {
+    "group": "VA beneficiaries who have a fiduciary managing their benefits",
+    "how": "Reissued benefits owed to them will no longer be lost if they die before payment is made."
+   },
+   {
+    "group": "Department of Veterans Affairs",
+    "how": "It must pay these reissued benefits after a beneficiary's death using its existing process for such payments."
+   }
+  ],
+  "when_it_takes_effect": "Enacted November 25, 2024; the summary does not give a separate start date.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -36,5 +36,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A federal law directs the Treasury to mint commemorative coins for the 2026 FIFA World Cup and send the coin surcharges to a U.S. FIFA subsidiary for soccer programs.",
+  "what_it_does": "The law requires the Department of the Treasury to mint coins honoring the FIFA World Cup 2026, which will be held in the United States, Mexico, and Canada. Treasury must promptly pay all surcharges collected from coin sales to FWC2026 US, Inc., the U.S. subsidiary of FIFA that runs the men's tournament. The money is to be used for soccer programs and activities in the United States. The summary does not list coin designs, mintage numbers, or surcharge amounts.",
+  "who_it_affects": [
+   {
+    "group": "People who buy the commemorative coins",
+    "how": "Buyers would pay the coin surcharges, which go to FWC2026 US, Inc. for U.S. soccer programs."
+   },
+   {
+    "group": "FWC2026 US, Inc.",
+    "how": "The company receives the coin surcharge proceeds from the Treasury for soccer programs and activities in the United States."
+   },
+   {
+    "group": "U.S. soccer programs and participants",
+    "how": "Programs and activities in the United States may receive funding from the coin surcharge proceeds."
+   },
+   {
+    "group": "U.S. Mint and Treasury Department",
+    "how": "Treasury must mint the coins and transfer the surcharge money promptly to the designated company."
+   }
+  ],
+  "when_it_takes_effect": "Enacted December 11, 2024. The official summary does not give a specific date for coin release or surcharge payments.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

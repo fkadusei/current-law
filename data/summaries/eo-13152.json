@@ -1,0 +1,20 @@
+{
+ "headline": "A 2000 executive order changed an earlier order that bans job discrimination in the federal government.",
+ "what_it_does": "This order amends Executive Order 11478, which sets equal employment opportunity rules for federal government jobs. The title shows it changes those rules, but no summary was provided, so the exact changes cannot be confirmed from the source material.",
+ "who_it_affects": [
+  {
+   "group": "Federal government employees and job applicants",
+   "how": "The order changes the equal employment opportunity rules that apply to how federal agencies hire and treat workers."
+  },
+  {
+   "group": "Federal agencies",
+   "how": "Agencies must follow the updated equal employment opportunity rules in their hiring and personnel practices."
+  }
+ ],
+ "when_it_takes_effect": "Signed May 2, 2000; the source material does not give a separate start date.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

@@ -1,0 +1,20 @@
+{
+ "headline": "President Obama ordered that people found to be adding to the conflict in Libya have their US assets frozen and be barred from entering the country.",
+ "what_it_does": "This order allows the US government to freeze, or block, the property and money in the United States of people found to be contributing to the situation in Libya. It also stops those people from entering the United States. The title does not explain who decides which people are covered or what actions count, so details are limited.",
+ "who_it_affects": [
+  {
+   "group": "People found to be contributing to the situation in Libya",
+   "how": "Their property in the United States can be frozen, and they can be barred from entering the country."
+  },
+  {
+   "group": "US banks and businesses",
+   "how": "They would likely be barred from handling property or money belonging to people named under the order."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

@@ -1,0 +1,24 @@
+{
+ "headline": "President Clinton set up an emergency board to look into a labor dispute between Philadelphia-area commuter rail and its locomotive engineers.",
+ "what_it_does": "This order creates an emergency board to investigate a dispute between the Southeastern Pennsylvania Transportation Authority (SEPTA) and its workers represented by the Brotherhood of Locomotive Engineers. The board's job is to study the dispute. Boards like this are usually set up under federal railroad labor law and report their findings to the President. The title does not give details about the dispute or the board's members.",
+ "who_it_affects": [
+  {
+   "group": "SEPTA locomotive engineers represented by the Brotherhood of Locomotive Engineers",
+   "how": "Their labor dispute with SEPTA is placed before a federal emergency board for investigation."
+  },
+  {
+   "group": "Southeastern Pennsylvania Transportation Authority (SEPTA)",
+   "how": "The agency's dispute with its engineers' union is reviewed by the emergency board."
+  },
+  {
+   "group": "Commuter rail riders in the Philadelphia area",
+   "how": "Their rail service is tied to the outcome of the labor dispute being investigated."
+  }
+ ],
+ "when_it_takes_effect": "July 18, 1996 (date signed)",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

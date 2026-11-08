@@ -1,0 +1,20 @@
+{
+ "headline": "A 2009 executive order directs federal agencies to reduce improper payments, meaning federal money paid in error or in the wrong amount.",
+ "what_it_does": "Based on its title, this order tells federal agencies to cut down on improper payments. These are payments made to the wrong person, in the wrong amount, or without proper support. No summary was provided, so the specific steps, targets, and reporting rules in the order are not described here.",
+ "who_it_affects": [
+  {
+   "group": "Federal agencies that make payments",
+   "how": "They are directed to take steps to reduce payments made in error."
+  },
+  {
+   "group": "People, businesses, and groups that receive federal payments",
+   "how": "Payments they receive may face closer checks for accuracy."
+  }
+ ],
+ "when_it_takes_effect": "Signed November 20, 2009; specific deadlines are not given in the source material.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

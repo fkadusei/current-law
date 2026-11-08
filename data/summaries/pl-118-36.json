@@ -1,0 +1,24 @@
+{
+ "headline": "New law lets Senators' home state offices add approved security space and costs without counting them against size and rent limits.",
+ "what_it_does": "Senators' offices in their home states have limits on how big they can be and how much rent they can cost, based on the state's population. This law says office space used for approved security or safety features does not count toward the size limit, and the cost of those features does not count toward the rent limit. The features must be the kind allowed by the Senate Committee on Rules and Administration and approved by the Senate Sergeant at Arms; costs must also be listed separately. The law names an IT security closet and a secure lobby or reception area as allowed features.",
+ "who_it_affects": [
+  {
+   "group": "U.S. Senators and their home state office staff",
+   "how": "Their state offices can include extra approved security space, such as secure lobbies and IT security closets, beyond the normal size and rent limits."
+  },
+  {
+   "group": "Senate Sergeant at Arms and Senate Committee on Rules and Administration",
+   "how": "They decide which security features qualify and approve the space and costs that are left out of the limits."
+  },
+  {
+   "group": "Landlords who rent office space to Senators",
+   "how": "Leases may include separately listed security costs that are paid outside the usual rent cap."
+  }
+ ],
+ "when_it_takes_effect": "Enacted January 26, 2024; the summary does not state a separate effective date.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

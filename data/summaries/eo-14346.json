@@ -1,0 +1,20 @@
+{
+ "headline": "Executive order changes which goods are covered by \"reciprocal\" tariffs and sets steps for putting trade and security deals into effect.",
+ "what_it_does": "Based on its title, this order changes the scope of the \"reciprocal\" tariffs set earlier in 2025, meaning it adjusts which imported goods or countries those tariffs apply to. It also sets up procedures for carrying out trade and security agreements the US makes with other countries. No summary was provided, so the specific goods, countries, and tariff rates affected are not known from this source.",
+ "who_it_affects": [
+  {
+   "group": "US businesses that import goods",
+   "how": "The tariffs they pay on some imported products may go up, go down, or be removed, depending on the changes in scope."
+  },
+  {
+   "group": "Foreign countries and exporters that trade with the US",
+   "how": "The order sets procedures for carrying out trade and security agreements that can change the tariffs their goods face."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

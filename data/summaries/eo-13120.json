@@ -1,0 +1,24 @@
+{
+ "headline": "A 1999 order lets the military call members of the Selected Reserve and certain Individual Ready Reserve members to active duty.",
+ "what_it_does": "This executive order authorizes ordering members of the Selected Reserve, and certain members of the Individual Ready Reserve, of the U.S. Armed Forces to active duty. The title does not say how many people could be called up, for how long, or for what mission. No summary was provided, so other details are not covered here.",
+ "who_it_affects": [
+  {
+   "group": "Members of the Selected Reserve, including Reserve and National Guard units",
+   "how": "They could be ordered to leave civilian life and serve on active military duty."
+  },
+  {
+   "group": "Certain members of the Individual Ready Reserve",
+   "how": "These former active-duty service members who still have a reserve commitment could be called back to active duty."
+  },
+  {
+   "group": "Families and civilian employers of called-up reservists",
+   "how": "They may have to adjust when a family member or employee is ordered to active duty."
+  }
+ ],
+ "when_it_takes_effect": "Signed April 27, 1999; the exact effective date is not stated in the title.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

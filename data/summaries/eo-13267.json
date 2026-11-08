@@ -1,0 +1,20 @@
+{
+ "headline": "President Bush created an office inside the Office of Management and Budget to plan the setup of a new Department of Homeland Security.",
+ "what_it_does": "This order set up a Transition Planning Office within the Office of Management and Budget (OMB), the White House office that manages the federal budget. Based on its title, the office's job was to plan for creating the Department of Homeland Security. No summary was provided, so details about the office's staff, powers, and timeline are not described here.",
+ "who_it_affects": [
+  {
+   "group": "Federal agencies expected to move into a new Department of Homeland Security",
+   "how": "Their shift into the new department would be planned by this transition office."
+  },
+  {
+   "group": "Office of Management and Budget staff",
+   "how": "OMB took on a new office responsible for planning the new department."
+  }
+ ],
+ "when_it_takes_effect": "June 20, 2002 (date signed; exact effective date not stated in the source)",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

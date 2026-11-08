@@ -36,5 +36,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2024 law directs the Treasury to mint commemorative coins honoring working dogs, with part of each sale going to America's VetDogs.",
+  "what_it_does": "The law tells the Treasury Department to mint 50,000 $5 gold coins, 500,000 $1 silver coins, and 750,000 half-dollar clad coins. The coin designs must reflect working dogs' roles in detection, military service, therapy, and assistance. Coins may only be issued during the one-year period beginning January 1, 2027, and every sale must include a surcharge paid to America's VetDogs.",
+  "who_it_affects": [
+   {
+    "group": "People who buy the commemorative coins",
+    "how": "They can purchase these coins, and each sale includes a surcharge on top of the coin's price."
+   },
+   {
+    "group": "America's VetDogs",
+    "how": "The charity receives the surcharge money from coin sales to pay for general expenses of its mission."
+   },
+   {
+    "group": "Coin collectors",
+    "how": "They gain access to a limited run of coins with designs honoring working dogs, available only during 2027."
+   }
+  ],
+  "when_it_takes_effect": "The act became law on November 25, 2024, but coins may only be issued from January 1, 2027, through December 31, 2027.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

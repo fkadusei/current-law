@@ -1,0 +1,20 @@
+{
+ "headline": "A 2014 executive order freezes the property of more people found to be contributing to the situation in Ukraine.",
+ "what_it_does": "This order adds to an earlier order on Ukraine by naming more people whose property can be blocked. Blocking usually means any of their money or property under US control is frozen. It also usually means Americans may not do business with them. Details on exactly who is covered are not available from the title alone.",
+ "who_it_affects": [
+  {
+   "group": "People and groups found to be contributing to the situation in Ukraine",
+   "how": "Their property and money under US control can be frozen."
+  },
+  {
+   "group": "US banks, businesses, and individuals",
+   "how": "They would generally be barred from dealing with the people whose property is blocked."
+  }
+ ],
+ "when_it_takes_effect": "Signed March 16, 2014; the exact effective date is not stated in the title.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

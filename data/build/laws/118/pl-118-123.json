@@ -42,5 +42,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Requires FEMA and the GAO to report to Congress on disaster help for people with intellectual and developmental disabilities and their families.",
+  "what_it_does": "FEMA must send Congress a report within 120 days describing the help and resources it gives, through states, local governments, nonprofits, and individuals, to people with intellectual and developmental disabilities and their families after major disasters. FEMA and the Government Accountability Office (GAO) must each review this help, point out any legal barriers to providing it, and make recommendations to Congress. The law calls for reports and reviews; it does not itself change benefits or create new programs.",
+  "who_it_affects": [
+   {
+    "group": "People with intellectual and developmental disabilities and their families",
+    "how": "The disaster help they receive from FEMA will be reviewed, and Congress will get recommendations that could shape future aid."
+   },
+   {
+    "group": "Federal Emergency Management Agency (FEMA)",
+    "how": "FEMA must report to Congress within 120 days and also review its assistance, identify legal barriers, and make recommendations."
+   },
+   {
+    "group": "Government Accountability Office (GAO)",
+    "how": "GAO must do its own review of FEMA's assistance, identify legal barriers, and make recommendations to Congress."
+   },
+   {
+    "group": "State and local governments and nonprofit organizations",
+    "how": "Their role in passing FEMA help to these individuals and families will be described and reviewed in the reports."
+   }
+  ],
+  "when_it_takes_effect": "Enacted November 25, 2024; FEMA's first report is due within 120 days (by about March 25, 2025).",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

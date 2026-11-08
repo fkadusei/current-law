@@ -1,0 +1,16 @@
+{
+ "headline": "Sets the order of officials who would lead the Office of Management and Budget if the Director cannot serve.",
+ "what_it_does": "This order lists which officials at the Office of Management and Budget (OMB) would act as Director if the Director dies, resigns, or is otherwise unable to do the job. It sets a line of succession so the office keeps working without a gap in leadership. No summary was provided, so details such as the exact officials named are not covered here.",
+ "who_it_affects": [
+  {
+   "group": "Senior officials at the Office of Management and Budget",
+   "how": "Certain officials are placed in a set order to temporarily take over the Director's duties if needed."
+  }
+ ],
+ "when_it_takes_effect": "May 21, 2012 (date signed)",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

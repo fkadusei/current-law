@@ -1,0 +1,20 @@
+{
+ "headline": "Executive order directs federal agencies to tighten security on classified computer networks while still sharing classified information responsibly.",
+ "what_it_does": "This order calls for changes to how the federal government protects its classified computer networks. It aims to balance two goals: sharing classified information with those who need it, and guarding it from misuse or leaks. The title points to changes in how agencies are organized and run, but no summary was provided, so the specific steps are not described here.",
+ "who_it_affects": [
+  {
+   "group": "Federal agencies that run or use classified networks",
+   "how": "They are expected to change how they protect and share classified information on their networks."
+  },
+  {
+   "group": "Federal employees and contractors with security clearances",
+   "how": "They may face new or stricter rules on how they access, handle, and share classified information."
+  }
+ ],
+ "when_it_takes_effect": "Signed October 7, 2011; executive orders usually take effect when signed.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Crime and Law Enforcement",
  "sponsor": "Rep. Walberg, Tim [R-MI-5]",
- "official_summary": null,
+ "official_summary": "<p><strong>Enhancing Detection of Human Trafficking Act</strong></p><p>This act requires the Department of Labor to provide training and education to its employees on how to effectively assist law enforcement in detecting human trafficking.</p><p>The act directs Labor to determine which employees should receive the training and education based on their official duties. Further, it requires the training and education to include information that is appropriate for the employees' location or environment; that reflects current trends and best practices for the location or environment; and that is relevant to detecting human trafficking, identifying suspected victims, and referring potential cases to the Department of Justice and other appropriate authorities.</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr4307enr/uslm/BILLS-119hr4307enr.xml"
@@ -39,5 +39,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "New law requires the Department of Labor to train certain employees to help spot human trafficking and report it to authorities.",
+  "what_it_does": "The Department of Labor must train and educate some of its employees on how to help law enforcement detect human trafficking. Labor decides which employees get the training based on their job duties. The training must fit the employees' work location or setting, reflect current trends and best practices, and cover spotting trafficking, identifying possible victims, and referring cases to the Department of Justice and other authorities.",
+  "who_it_affects": [
+   {
+    "group": "Department of Labor employees",
+    "how": "Employees chosen based on their job duties must receive training on detecting human trafficking and referring possible cases."
+   },
+   {
+    "group": "Victims of human trafficking",
+    "how": "Labor employees will be trained to identify suspected victims and refer their cases to the proper authorities."
+   },
+   {
+    "group": "Department of Justice and other law enforcement agencies",
+    "how": "They may receive more referrals of possible trafficking cases from trained Labor employees."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on October 20, 2026; the summary does not give a specific deadline for starting the training.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

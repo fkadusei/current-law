@@ -39,5 +39,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Congress renamed a Postal Service facility in Muskego, Wisconsin, after Colonel Hans Christian Heg.",
+  "what_it_does": "This law names the U.S. Postal Service building at S74w16860 Janesville Road in Muskego, Wisconsin, the Colonel Hans Christian Heg Post Office. Heg was a Norwegian-born Union Army colonel in the Civil War. The change is only a name change and does not alter postal services, rules, or staffing.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law was enacted on November 25, 2024, and the new name applies from that date.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

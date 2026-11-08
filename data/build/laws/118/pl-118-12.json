@@ -3536,5 +3536,15 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "Law names the VA clinic in Indian River, Michigan, the \"Pfc. Justin T. Paton Department of Veterans Affairs Clinic.\"",
+  "what_it_does": "This law gives an official name to the new Department of Veterans Affairs outpatient clinic in Indian River, Michigan, honoring Pfc. Justin T. Paton.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "2023-07-28",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

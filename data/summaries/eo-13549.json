@@ -1,0 +1,24 @@
+{
+ "headline": "Executive order sets up a program for sharing classified national security information with state, local, tribal, and private sector groups.",
+ "what_it_does": "This order creates a federal program that covers how classified national security information is handled when it is shared outside the federal government. It applies to state, local, and tribal governments and to private companies and organizations. No summary was provided, so the specific rules, such as who runs the program or how security clearances work, cannot be described here.",
+ "who_it_affects": [
+  {
+   "group": "State, local, and tribal government officials",
+   "how": "They may receive classified national security information under the rules of this program."
+  },
+  {
+   "group": "Private sector organizations",
+   "how": "Companies and groups that receive classified information would follow the program's rules for handling it."
+  },
+  {
+   "group": "Federal agencies that share classified information",
+   "how": "They would share classified information with non-federal groups under this program."
+  }
+ ],
+ "when_it_takes_effect": "Signed August 18, 2010",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

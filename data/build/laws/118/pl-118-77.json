@@ -3517,5 +3517,28 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "Lets family members, guardians, and others who act for certain crime victims get repaid by convicted defendants for their own costs.",
+  "what_it_does": "Under existing federal law, courts must order people convicted of certain crimes to pay restitution to their victims. This law requires courts to also order restitution to a person who has taken on a victim's rights because the victim is under 18, incompetent, incapacitated, or has died. That person can be repaid for reasonable lost income, child care, travel, and other costs from taking part in the investigation, prosecution, or court proceedings. They can also be repaid for lost income, travel, and other costs of taking the victim to medical and nonmedical care, including physical and occupational therapy and rehabilitation.",
+  "who_it_affects": [
+   {
+    "group": "Parents, legal guardians, family members, and estate representatives of crime victims who are minors, incapacitated, or deceased",
+    "how": "They can now receive court-ordered repayment from the convicted defendant for their own reasonable costs tied to the case and to the victim's care."
+   },
+   {
+    "group": "People convicted of certain federal crimes",
+    "how": "Courts must order them to pay restitution to the person acting for the victim, in addition to restitution already owed to victims."
+   },
+   {
+    "group": "Federal courts",
+    "how": "Judges must include these added costs when ordering restitution in covered cases."
+   }
+  ],
+  "when_it_takes_effect": "Enacted July 30, 2024; the summary does not state a separate effective date.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

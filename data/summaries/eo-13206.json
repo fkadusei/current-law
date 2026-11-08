@@ -1,0 +1,20 @@
+{
+ "headline": "President Bush ends an emergency order that had been used to keep certain U.S. export controls in place.",
+ "what_it_does": "This order ends a national emergency authority that had been used to run certain export controls, the rules on what goods and technology can be shipped out of the country. Presidents used this kind of emergency power when the regular export control law had lapsed. Ending it suggests the controls would be run under regular law instead, but the title alone does not give details.",
+ "who_it_affects": [
+  {
+   "group": "U.S. companies that export goods or technology",
+   "how": "The legal basis for the export rules they follow shifts away from emergency power, though the title does not say whether the rules themselves change."
+  },
+  {
+   "group": "Federal agencies that enforce export rules",
+   "how": "They would rely on authority other than the ended emergency to enforce export controls."
+  }
+ ],
+ "when_it_takes_effect": "Not stated in the title; the order was signed April 4, 2001.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

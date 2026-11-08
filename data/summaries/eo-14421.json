@@ -1,0 +1,20 @@
+{
+ "headline": "President Trump declared a national emergency related to protecting the U.S. bulk-power system, the network that generates and moves most electricity.",
+ "what_it_does": "This executive order declares a national emergency concerning the security of the bulk-power system, which includes large power plants and high-voltage transmission lines. Declaring a national emergency can let the President use special powers under federal law. No summary of the order's specific actions was provided, so its exact rules and requirements are not described here.",
+ "who_it_affects": [
+  {
+   "group": "Electric utilities and power grid operators",
+   "how": "They run the bulk-power system that the emergency declaration is aimed at securing."
+  },
+  {
+   "group": "Companies that make or sell equipment for the power grid",
+   "how": "They may be affected if the order sets rules on grid equipment, but the title alone does not say so."
+  }
+ ],
+ "when_it_takes_effect": "Signed August 26, 2026; the specific effective date is not stated in the provided material.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

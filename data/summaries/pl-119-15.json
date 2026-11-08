@@ -1,0 +1,28 @@
+{
+ "headline": "Congress cancels EPA approval that let California enforce its own pollution rules for heavy-duty trucks, including its Advanced Clean Trucks rule.",
+ "what_it_does": "The Clean Air Act generally bars states from setting their own vehicle emission standards, but California can ask the EPA for a waiver. This law uses the Congressional Review Act to cancel the EPA decision that granted California waivers for several heavy-duty vehicle rules. These include rules on emission warranties and maintenance, Advanced Clean Trucks, zero-emission airport shuttles, and certification of zero-emission power trains. Without the waivers, California cannot enforce these rules.",
+ "who_it_affects": [
+  {
+   "group": "Makers of heavy-duty trucks and engines",
+   "how": "They no longer have to meet California's separate warranty, maintenance, and zero-emission truck sales requirements covered by the cancelled waiver."
+  },
+  {
+   "group": "California Air Resources Board",
+   "how": "The state agency loses federal approval to enforce the covered heavy-duty vehicle regulations."
+  },
+  {
+   "group": "Airport shuttle operators in California",
+   "how": "They are no longer bound by the state's zero-emission airport shuttle rule covered by the waiver."
+  },
+  {
+   "group": "Other states that adopted California's truck standards",
+   "how": "States that follow California's rules may be unable to enforce these same standards, since they depended on California's waiver."
+  }
+ ],
+ "when_it_takes_effect": "June 12, 2025, when it was signed into law",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

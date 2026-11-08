@@ -33,5 +33,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A federal law awards a posthumous Congressional Gold Medal to Shirley Chisholm and sends it to the Smithsonian for display.",
+  "what_it_does": "The law provides for a Congressional Gold Medal to honor Shirley Chisholm, the first African American woman elected to Congress, recognizing her activism, independence, and groundbreaking political career. The gold medal is to be given to the Smithsonian Institution and displayed there. The law also allows duplicate medals to be made in bronze and offered for sale to the public.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law was enacted on December 12, 2024.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

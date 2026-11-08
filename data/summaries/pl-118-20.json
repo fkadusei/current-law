@@ -1,0 +1,24 @@
+{
+ "headline": "Lets the VA provide medical and dental care to certain South Korean veterans who served in the Vietnam War.",
+ "what_it_does": "This law adds certain veterans of South Korea's armed forces who served in Vietnam between January 9, 1962, and May 7, 1975, or during another period the VA sets, to those who may get some VA benefits, such as medical and dental care. The VA would give this care under an existing law. That law requires South Korea to ask for the care and to have an agreement that pays the VA back for its costs.",
+ "who_it_affects": [
+  {
+   "group": "South Korean veterans who served in Vietnam during the covered period",
+   "how": "They may become eligible for VA benefits such as medical and dental care."
+  },
+  {
+   "group": "Department of Veterans Affairs",
+   "how": "It is allowed to provide this care once South Korea makes a request and a repayment agreement is in place."
+  },
+  {
+   "group": "Government of South Korea",
+   "how": "It must request the care and agree to repay the VA's costs for the benefits to be provided."
+  }
+ ],
+ "when_it_takes_effect": "Signed into law on November 13, 2023. Care can begin only after South Korea makes a request and a repayment agreement is in place.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

@@ -1,0 +1,20 @@
+{
+ "headline": "President Bush ended the national emergency on the Taliban and changed the 2001 order that targets terrorist funding.",
+ "what_it_does": "This order ended a national emergency about the Taliban that was first declared in 1999, when the Taliban controlled much of Afghanistan. It also changed Executive Order 13224, the September 2001 order that blocks the money and property of people and groups linked to terrorism. The title does not spell out the exact changes. Other records indicate the Taliban and its leader were moved under the terrorism order so that sanctions on them could continue.",
+ "who_it_affects": [
+  {
+   "group": "The Taliban and people linked to it",
+   "how": "Sanctions on them were moved from the ended Taliban emergency to the 2001 terrorism order instead of being dropped."
+  },
+  {
+   "group": "US banks, businesses, and individuals",
+   "how": "They still could not deal with blocked Taliban-linked people or groups, now under the rules of the terrorism order."
+  }
+ ],
+ "when_it_takes_effect": "Signed July 2, 2002; the exact effective date is not given in the source material.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

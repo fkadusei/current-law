@@ -1,0 +1,20 @@
+{
+ "headline": "A 1995 executive order bars people in the US from doing business with terrorists who threaten to disrupt the Middle East peace process.",
+ "what_it_does": "This executive order prohibits transactions with terrorists who threaten to disrupt the Middle East peace process. Based on the title alone, it appears to forbid financial and other dealings with these terrorists. No official summary was provided, so details such as which groups or people are covered and how the rules are enforced are not described here.",
+ "who_it_affects": [
+  {
+   "group": "People and businesses in the United States",
+   "how": "They are barred from carrying out transactions with the terrorists covered by the order."
+  },
+  {
+   "group": "Terrorists and groups that threaten the Middle East peace process",
+   "how": "They are cut off from transactions with people and businesses covered by the order."
+  }
+ ],
+ "when_it_takes_effect": "Signed January 23, 1995; the exact effective date is not stated in the title.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

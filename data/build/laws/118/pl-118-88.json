@@ -3509,5 +3509,15 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "Congress authorized a Congressional Gold Medal to tennis champion Billie Jean King for her work advancing equal rights for women.",
+  "what_it_does": "This law provides for the award of a Congressional Gold Medal to Billie Jean King. The medal honors her leadership in advancing equal rights for women in sports, schools, and society. Congress awards gold medals as a formal national honor.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law was enacted on September 26, 2024.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

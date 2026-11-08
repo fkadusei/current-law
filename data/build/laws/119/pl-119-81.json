@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Armed Forces and National Security",
  "sponsor": "Rep. Griffith, H. Morgan [R-VA-9]",
- "official_summary": null,
+ "official_summary": "<p>This bill authorizes the President to award the Medal of Honor to John W. Ripley for his acts of valor on April 2, 1972, as a member of the Marine Corps during the Vietnam War, for which he was previously awarded the Navy Cross.</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr7211enr/uslm/BILLS-119hr7211enr.xml"
@@ -39,5 +39,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "New law allows the President to award the Medal of Honor to Marine John W. Ripley for heroism in the Vietnam War.",
+  "what_it_does": "This law allows the President to award the Medal of Honor to John W. Ripley for his actions on April 2, 1972, while serving in the Marine Corps during the Vietnam War. He was already given the Navy Cross for those same actions.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "Upon enactment, March 26, 2026",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

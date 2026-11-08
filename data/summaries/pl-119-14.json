@@ -1,0 +1,24 @@
+{
+ "headline": "Congress cancels an EPA rule that set hazardous air pollution limits for the rubber processing part of tire manufacturing.",
+ "what_it_does": "This law uses the Congressional Review Act to cancel an EPA rule on hazardous air pollutants from rubber tire manufacturing. The rule had set emission limits for the rubber processing subcategory. EPA wrote it after a 2020 federal court decision said the agency must address unregulated pollution from major industries when it does its 8-year technology reviews. With the rule cancelled, those new limits do not take effect.",
+ "who_it_affects": [
+  {
+   "group": "Rubber tire manufacturers",
+   "how": "They no longer have to meet the emission limits the cancelled rule set for rubber processing."
+  },
+  {
+   "group": "People living near tire manufacturing plants",
+   "how": "The added limits on hazardous air pollutants from rubber processing at nearby plants will not apply."
+  },
+  {
+   "group": "Environmental Protection Agency",
+   "how": "The agency cannot enforce this rule, and under the Congressional Review Act it generally cannot issue a substantially similar rule unless Congress authorizes it."
+  }
+ ],
+ "when_it_takes_effect": "Enacted May 23, 2025; the rule is treated as having no force or effect.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

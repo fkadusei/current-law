@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Armed Forces and National Security",
  "sponsor": "Rep. Connolly, Gerald E. [D-VA-11]",
- "official_summary": null,
+ "official_summary": "<p><strong>Veteran Fraud Reimbursement Act of 2025</strong></p><p>This act modifies the procedures by which the Department of Veterans Affairs (VA) reissues misused benefits to a beneficiary, including by requiring the VA to establish methods and timing with respect to determining whether an instance of misuse by a fiduciary is the result of negligence by the VA. The act also provides that if a beneficiary predeceases a&nbsp;reissuance, the VA must pay the amount to a surviving beneficiary in the same method as certain other VA benefits are paid upon the death of a beneficiary.</p><p>Under the&nbsp;act, the VA may not withhold the reissuing of a benefit payment by reason of a pending determination regarding the VA's negligence in relation to the instance of misuse by a fiduciary. Additionally, the VA is not required to make a determination regarding its negligence for each instance of misuse by a fiduciary of all or part of an individual's benefit paid to such fiduciary.</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1912enr/uslm/BILLS-119hr1912enr.xml"
@@ -39,5 +39,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "New law changes how the VA repays veterans whose benefits were misused by a fiduciary handling their money.",
+  "what_it_does": "When a fiduciary (a person appointed to manage a beneficiary's VA benefits) misuses that money, the VA can reissue the lost benefits. This law says the VA cannot hold back those repayments while it decides whether its own negligence played a role. The VA must set up methods and timelines for making those negligence decisions, but it does not have to make one for every case of misuse. If the beneficiary dies before being repaid, the money goes to a survivor, the same way some other VA benefits are paid after a death.",
+  "who_it_affects": [
+   {
+    "group": "Veterans and other VA beneficiaries who have a fiduciary manage their benefits",
+    "how": "If their fiduciary misuses their benefits, their repayment cannot be delayed while the VA reviews whether it was negligent."
+   },
+   {
+    "group": "Survivors of VA beneficiaries",
+    "how": "They can receive reissued benefits that were owed to a beneficiary who died before being repaid."
+   },
+   {
+    "group": "Department of Veterans Affairs",
+    "how": "It must create methods and timelines for deciding whether misuse cases resulted from its own negligence."
+   }
+  ],
+  "when_it_takes_effect": "Enacted December 12, 2025; the summary does not state a separate effective date.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

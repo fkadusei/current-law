@@ -1,0 +1,16 @@
+{
+ "headline": "President Trump signed an executive order about threats to the United States from Cuba's government; details are not provided in the source.",
+ "what_it_does": "This executive order addresses what it calls threats to the United States from the government of Cuba. Only the title was available, so the specific actions it takes are not known from this source. Orders with titles like this often involve national security steps such as sanctions or trade and travel limits, but this summary cannot confirm what this order does.",
+ "who_it_affects": [
+  {
+   "group": "The government of Cuba",
+   "how": "The order is aimed at the Cuban government, though the specific measures are not described in the available material."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

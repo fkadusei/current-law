@@ -1,0 +1,205 @@
+---
+import Base from "../layouts/Base.astro";
+---
+<Base title="Calendar" description="See which federal laws were enacted and which executive orders were signed on any day, month or date range.">
+  <section slot="hero" class="page-hero">
+    <div class="wrap">
+      <p class="eyebrow-label">Calendar</p>
+      <h1>What became law, and when</h1>
+      <p>Pick a day on the calendar, or choose a date range, to see every law enacted and executive order signed.</p>
+    </div>
+  </section>
+
+  <div class="cal-layout">
+    <div class="card cal-box">
+      <div class="cal-nav">
+        <button type="button" id="prev" aria-label="Previous month">‹</button>
+        <div class="cal-title"><select id="m" aria-label="Month"></select><select id="y" aria-label="Year"></select></div>
+        <button type="button" id="next" aria-label="Next month">›</button>
+      </div>
+      <div class="cal-grid" id="grid" role="grid" aria-label="Calendar"></div>
+      <div class="cal-key">
+        <span><i class="k R"></i>Mostly Republican votes</span><span><i class="k D"></i>Mostly Democratic votes</span><span><i class="k N"></i>No recorded vote</span><span><i class="k EO"></i>Executive order</span><span><i class="k HOL"></i>Federal holiday</span>
+      </div>
+      <form class="range" id="range">
+        <p class="range-h">Or pick a date range</p>
+        <label>From <input type="date" id="from" required /></label>
+        <label>To <input type="date" id="to" required /></label>
+        <button type="submit">Show</button>
+      </form>
+      <div class="presets">
+        <button type="button" data-p="month">This month</button>
+        <button type="button" data-p="year">This year</button>
+        <button type="button" data-p="last30">Last 30 days</button>
+      </div>
+    </div>
+
+    <div class="cal-results">
+      <h2 id="rtitle">Loading…</h2>
+      <p class="muted" id="rsub"></p>
+      <ul class="rlist" id="rlist"></ul>
+    </div>
+  </div>
+
+  <section class="holidays">
+    <h2>Federal holidays in <span id="hyear"></span></h2>
+    <p class="muted">The days federal offices close, set by law in 5 U.S.C. 6103. When one lands on a weekend, it's observed on the nearest weekday. Tap a holiday to see what else happened that day.</p>
+    <ul class="hgrid" id="hlist"></ul>
+  </section>
+</Base>
+
+<script>
+  import { holidaysIn, holidaysBetween } from "../lib/holidays.js";
+  const $ = (id) => document.getElementById(id);
+  const MONTHS = ["January","February","March","April","May","June","July","August","September","October","November","December"];
+  const iso = (d) => `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}-${String(d.getDate()).padStart(2, "0")}`;
+  const nice = (s) => { const [y, m, d] = s.split("-").map(Number); return `${MONTHS[m - 1]} ${d}, ${y}`; };
+  const esc = (s) => String(s ?? "").replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" })[c]);
+
+  const [laws, orders] = await Promise.all([fetch("/data/dates.json").then((r) => r.json()), fetch("/data/orders.json").then((r) => r.json())]);
+  const byDay = new Map();
+  const bump = (d, kind) => { if (!d) return; const e = byDay.get(d) || { R: 0, D: 0, N: 0, EO: 0 }; e[kind]++; byDay.set(d, e); };
+  for (const l of laws) bump(l[1], l[4] === "R" ? "R" : l[4] === "D" ? "D" : "N");
+  for (const o of orders) bump(o[2], "EO");
+  const days = [...byDay.keys()].sort();
+  const firstYear = Number(days[0].slice(0, 4)), lastYear = Math.max(new Date().getFullYear(), Number(days.at(-1).slice(0, 4)));
+
+  let view = new Date(); view.setDate(1);
+  const latest = days.at(-1);
+  MONTHS.forEach((n, i) => $("m").add(new Option(n, i)));
+  for (let y = lastYear; y >= firstYear; y--) $("y").add(new Option(y, y));
+
+  function drawMonth() {
+    $("m").value = view.getMonth(); $("y").value = view.getFullYear();
+    const grid = $("grid"); grid.innerHTML = "";
+    for (const w of ["Sun","Mon","Tue","Wed","Thu","Fri","Sat"]) grid.insertAdjacentHTML("beforeend", `<span class="dow">${w}</span>`);
+    const start = new Date(view); const pad = start.getDay();
+    for (let i = 0; i < pad; i++) grid.insertAdjacentHTML("beforeend", `<span></span>`);
+    const dim = new Date(view.getFullYear(), view.getMonth() + 1, 0).getDate();
+    const hol = new Map();
+    for (const h of holidaysIn(view.getFullYear())) { hol.set(h.date, h); if (h.observed) hol.set(h.observed, { ...h, isObserved: true }); }
+    for (let d = 1; d <= dim; d++) {
+      const key = iso(new Date(view.getFullYear(), view.getMonth(), d));
+      const e = byDay.get(key);
+      const dots = e ? ["R","D","N","EO"].filter((k) => e[k]).map((k) => `<i class="k ${k}"></i>`).join("") : "";
+      const total = e ? e.R + e.D + e.N + e.EO : 0;
+      const h = hol.get(key);
+      const hname = h ? `${h.name}${h.isObserved ? " (observed)" : ""}` : "";
+      grid.insertAdjacentHTML("beforeend", `<button type="button" class="day${e ? " has" : ""}${h ? " hol" : ""}" data-d="${key}" title="${esc(hname)}" aria-label="${nice(key)}${h ? ", " + esc(hname) : ""}: ${total} items"><span class="dn">${d}</span><span class="dots">${dots}</span>${total > 1 ? `<span class="cnt">${total}</span>` : ""}</button>`);
+    }
+    markSelected();
+    drawHolidays();
+  }
+  let sel = { from: null, to: null };
+  function markSelected() {
+    document.querySelectorAll(".day").forEach((b) => b.classList.toggle("sel", sel.from && b.dataset.d >= sel.from && b.dataset.d <= sel.to));
+  }
+  function show(from, to, push = true) {
+    if (from > to) [from, to] = [to, from];
+    sel = { from, to }; markSelected();
+    $("from").value = from; $("to").value = to;
+    const l = laws.filter((r) => r[1] >= from && r[1] <= to).reverse();
+    const o = orders.filter((r) => r[2] >= from && r[2] <= to);
+    $("rtitle").textContent = from === to ? nice(from) : `${nice(from)} – ${nice(to)}`;
+    const hs = holidaysBetween(from, to);
+    $("rsub").textContent = `${hs.length ? `${hs.length} federal ${hs.length === 1 ? "holiday" : "holidays"} · ` : ""}${l.length} ${l.length === 1 ? "law" : "laws"} enacted · ${o.length} executive ${o.length === 1 ? "order" : "orders"} signed`;
+    const items = [
+      ...l.map((r) => ({ d: r[1], html: `<li class="ri side-${r[4]}"><span class="rtag">Law</span><div><a href="/laws/${r[0]}/">${esc(r[2])}</a>${r[3] ? `<p>${esc(r[3])}</p>` : ""}<small>${nice(r[1])} · Signed by ${esc(r[5])}</small></div></li>` })),
+      ...o.map((r) => ({ d: r[2], html: `<li class="ri side-EO"><span class="rtag">Order</span><div><a href="/executive-orders/${r[0]}/">${esc(r[1])}</a>${r[4] ? `<p>${esc(r[4])}</p>` : ""}<small>${nice(r[2])} · Executive Order ${r[0]} · ${esc(r[3])}</small></div></li>` })),
+      ...hs.map((h) => ({ d: h.date, html: holItem(h) })),
+    ].sort((a, b) => b.d.localeCompare(a.d));
+    $("rlist").innerHTML = items.length ? items.slice(0, 400).map((i) => i.html).join("") + (items.length > 400 ? `<li class="muted">Showing the 400 most recent. Narrow the range to see the rest.</li>` : "")
+      : `<li class="muted">Nothing was enacted or signed ${from === to ? "on this day" : "in this range"}.</li>`;
+    if (push) history.replaceState(null, "", from === to ? `?date=${from}` : `?from=${from}&to=${to}`);
+  }
+  function holItem(h) {
+    const law = h.lawId ? `<a class="hl" href="/laws/${h.lawId}/">${esc(h.law)}</a>` : esc(h.law);
+    return `<li class="ri side-HOL"><span class="rtag hol">Holiday</span><div><strong class="ht">${esc(h.name)}</strong><p>${esc(h.about)}</p><small>${nice(h.date)}${h.observed ? ` · observed ${nice(h.observed)}` : ""} · ${esc(h.rule)} · Set by ${law}</small></div></li>`;
+  }
+  function drawHolidays() {
+    const y = view.getFullYear();
+    $("hyear").textContent = y;
+    const today = iso(new Date());
+    $("hlist").innerHTML = holidaysIn(y).map((h) => {
+      const when = h.observed || h.date;
+      return `<li class="hcard${when < today ? " past" : ""}"><button type="button" data-d="${when}"><span class="hdate"><b>${MONTHS[Number(when.slice(5, 7)) - 1].slice(0, 3)}</b><span>${Number(when.slice(8))}</span></span><span class="hinfo"><strong>${esc(h.name)}</strong><small>${esc(h.rule)}${h.observed ? ` · observed ${nice(h.observed)}` : ""}${h.local ? " · D.C. area" : ""}</small></span></button></li>`;
+    }).join("");
+  }
+  $("hlist").addEventListener("click", (e) => { const b = e.target.closest("button[data-d]"); if (!b) return; view = new Date(b.dataset.d + "T00:00"); view.setDate(1); drawMonth(); show(b.dataset.d, b.dataset.d); window.scrollTo({ top: $("rtitle").getBoundingClientRect().top + scrollY - 160, behavior: "smooth" }); });
+  function showMonth(push = true) {
+    const y = view.getFullYear(), m = view.getMonth();
+    show(iso(new Date(y, m, 1)), iso(new Date(y, m + 1, 0)), push);
+  }
+
+  $("prev").onclick = () => { view.setMonth(view.getMonth() - 1); drawMonth(); showMonth(); };
+  $("next").onclick = () => { view.setMonth(view.getMonth() + 1); drawMonth(); showMonth(); };
+  $("m").onchange = $("y").onchange = () => { view = new Date(Number($("y").value), Number($("m").value), 1); drawMonth(); showMonth(); };
+  $("grid").addEventListener("click", (e) => { const b = e.target.closest(".day"); if (b) show(b.dataset.d, b.dataset.d); });
+  $("range").addEventListener("submit", (e) => { e.preventDefault(); const f = $("from").value, t = $("to").value; view = new Date(f + "T00:00"); view.setDate(1); drawMonth(); show(f, t); });
+  document.querySelectorAll(".presets button").forEach((b) => b.onclick = () => {
+    const now = new Date();
+    if (b.dataset.p === "month") { view = new Date(now.getFullYear(), now.getMonth(), 1); drawMonth(); return showMonth(); }
+    if (b.dataset.p === "year") { view = new Date(now.getFullYear(), now.getMonth(), 1); drawMonth(); return show(`${now.getFullYear()}-01-01`, iso(now)); }
+    const past = new Date(now); past.setDate(now.getDate() - 30); view = new Date(now.getFullYear(), now.getMonth(), 1); drawMonth(); show(iso(past), iso(now));
+  });
+
+  const q = new URLSearchParams(location.search);
+  const valid = (s) => /^\d{4}-\d{2}-\d{2}$/.test(s || "");
+  if (valid(q.get("date"))) { view = new Date(q.get("date") + "T00:00"); view.setDate(1); drawMonth(); show(q.get("date"), q.get("date"), false); }
+  else if (valid(q.get("from")) && valid(q.get("to"))) { view = new Date(q.get("from") + "T00:00"); view.setDate(1); drawMonth(); show(q.get("from"), q.get("to"), false); }
+  else { view = new Date(latest + "T00:00"); view.setDate(1); drawMonth(); showMonth(false); }
+</script>
+
+<style is:global>
+  .cal-layout { display: grid; grid-template-columns: minmax(300px, 400px) 1fr; gap: 28px; align-items: start; }
+  @media (max-width: 860px) { .cal-layout { grid-template-columns: 1fr; } }
+  .cal-box { padding: 16px; position: sticky; top: calc(var(--topbar-h, 110px) + 16px); }
+  @media (max-width: 860px) { .cal-box { position: static; } }
+  .cal-nav { display: flex; align-items: center; justify-content: space-between; gap: 8px; margin-bottom: 10px; }
+  .cal-nav > button { width: 36px; height: 36px; border-radius: 50%; border: 1px solid var(--border); background: var(--surface); color: var(--text); font-size: 1.3rem; cursor: pointer; }
+  .cal-title { display: flex; gap: 6px; } .cal-title select { padding: 7px 10px; font-weight: 600; }
+  .cal-grid { display: grid; grid-template-columns: repeat(7, 1fr); gap: 4px; }
+  .dow { text-align: center; font-size: .7rem; font-weight: 700; color: var(--muted); text-transform: uppercase; padding: 4px 0; }
+  .day { position: relative; aspect-ratio: 1; border: 1px solid transparent; border-radius: 10px; background: transparent; color: var(--muted); font: inherit; cursor: pointer; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 3px; padding: 0; }
+  .day.has { background: var(--surface-2); color: var(--text); font-weight: 600; }
+  .day:hover { border-color: var(--accent); }
+  .day.sel { background: color-mix(in srgb, var(--accent) 22%, var(--surface)); border-color: var(--accent); color: var(--text); }
+  .dn { font-size: .9rem; line-height: 1; }
+  .dots { display: flex; gap: 2px; height: 6px; }
+  .cnt { position: absolute; top: 2px; right: 4px; font-size: .58rem; color: var(--muted); }
+  .k { display: inline-block; width: 6px; height: 6px; border-radius: 50%; }
+  .k.HOL { background: transparent; box-shadow: inset 0 0 0 2px var(--gold); width: 8px; height: 8px; }
+  .day.hol { box-shadow: inset 0 0 0 2px var(--gold); }
+  .day.hol::after { content: "★"; position: absolute; top: 1px; left: 4px; font-size: .6rem; color: var(--gold); }
+  .ri.side-HOL { border-left-color: var(--gold); background: color-mix(in srgb, var(--gold) 9%, var(--surface)); }
+  .rtag.hol { background: var(--gold); color: #1b1300; }
+  .ri .ht { display: block; } .ri a.hl { display: inline; font-weight: 500; color: var(--accent); }
+  .holidays { margin-top: 48px; }
+  .hgrid { list-style: none; padding: 0; margin: 16px 0 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 10px; }
+  .hcard button { width: 100%; display: flex; gap: 14px; align-items: center; text-align: left; padding: 12px 14px; border-radius: 14px; border: 1px solid var(--border); background: var(--surface); color: var(--text); font: inherit; cursor: pointer; transition: transform .15s, box-shadow .15s; }
+  .hcard button:hover { transform: translateY(-2px); box-shadow: var(--shadow); border-color: var(--gold); }
+  .hcard.past button { opacity: .6; }
+  .hdate { flex: none; width: 52px; height: 56px; border-radius: 10px; display: flex; flex-direction: column; align-items: center; justify-content: center; background: var(--navy); color: #fff; line-height: 1.05; }
+  .hdate b { font-size: .66rem; text-transform: uppercase; letter-spacing: .1em; color: var(--gold); }
+  .hdate span { font: 700 1.4rem var(--serif); }
+  .hinfo { display: flex; flex-direction: column; min-width: 0; } .hinfo small { color: var(--muted); font-size: .78rem; }
+  .k.R { background: var(--rep); } .k.D { background: var(--dem); } .k.N { background: #8a8f98; } .k.EO { background: var(--gold); }
+  .cal-key { display: flex; flex-wrap: wrap; gap: 6px 14px; font-size: .75rem; color: var(--muted); margin: 12px 0 4px; }
+  .cal-key .k { width: 8px; height: 8px; margin-right: 5px; }
+  .range { display: grid; grid-template-columns: 1fr 1fr auto; gap: 8px; align-items: end; border-top: 1px solid var(--border); margin-top: 12px; padding-top: 12px; }
+  .range-h { grid-column: 1 / -1; margin: 0; font-weight: 600; font-size: .9rem; }
+  .range label { display: flex; flex-direction: column; font-size: .75rem; color: var(--muted); gap: 3px; }
+  .range input { font: inherit; padding: 8px; border-radius: 10px; border: 1px solid var(--border); background: var(--surface); color: var(--text); min-width: 0; }
+  .range button, .presets button { font: 600 .85rem var(--sans); padding: 9px 14px; border-radius: 10px; border: 0; background: var(--navy); color: #fff; cursor: pointer; }
+  .presets { display: flex; gap: 6px; flex-wrap: wrap; margin-top: 10px; }
+  .presets button { background: var(--surface-2); color: var(--text); }
+  .cal-results h2 { margin-top: 0; }
+  .rlist { list-style: none; padding: 0; margin: 12px 0 0; display: grid; gap: 10px; }
+  .ri { display: flex; gap: 12px; align-items: flex-start; padding: 12px 14px; background: var(--surface); border: 1px solid var(--border); border-left: 5px solid #8a8f98; border-radius: 12px; }
+  .ri.side-R { border-left-color: var(--rep); } .ri.side-D { border-left-color: var(--dem); } .ri.side-EO { border-left-color: var(--gold); }
+  .ri > div { min-width: 0; }
+  .ri a { display: block; font-weight: 600; text-decoration: none; color: var(--text); } .ri a:hover { color: var(--accent); text-decoration: underline; }
+  .ri p { margin: 3px 0; font-size: .9rem; color: var(--muted); }
+  .ri small { color: var(--muted); font-size: .78rem; }
+  .rtag { flex: none; font-size: .64rem; font-weight: 700; text-transform: uppercase; letter-spacing: .08em; background: var(--navy-2); color: #fff; border-radius: 6px; padding: 3px 7px; margin-top: 2px; }
+</style>

@@ -1,0 +1,20 @@
+{
+ "headline": "A 1994 executive order froze property and assets in the US belonging to certain people from Haiti.",
+ "what_it_does": "Based on its title, this order blocks, or freezes, property belonging to certain Haitian nationals. Blocked property generally cannot be sold, moved, or used without government permission. No summary was provided, so the exact people covered and the specific rules are not described here.",
+ "who_it_affects": [
+  {
+   "group": "Certain Haitian nationals",
+   "how": "Their property under US control could be frozen and made unusable without government permission."
+  },
+  {
+   "group": "US banks and businesses holding property of covered Haitian nationals",
+   "how": "They would likely have to freeze those assets and not deal in them."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

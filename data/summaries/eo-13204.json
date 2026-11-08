@@ -1,0 +1,20 @@
+{
+ "headline": "Executive order ends an earlier rule that protected workers from losing their jobs when certain federal contracts changed hands.",
+ "what_it_does": "This order cancels an earlier executive order on \"nondisplacement of qualified workers\" under certain federal contracts. That earlier order, generally understood to be Executive Order 12933 from 1994, required a new contractor taking over certain federal service contracts to first offer jobs to qualified workers from the previous contractor. With this revocation, new contractors no longer had to make that offer. The title alone gives few details, so the exact scope is not spelled out here.",
+ "who_it_affects": [
+  {
+   "group": "Workers employed by companies holding certain federal service contracts",
+   "how": "They lost a guaranteed first chance at keeping their jobs when a new company took over the contract."
+  },
+  {
+   "group": "Companies that win federal service contracts",
+   "how": "They were no longer required to offer jobs first to the previous contractor's qualified workers and could choose their own staff."
+  }
+ ],
+ "when_it_takes_effect": "Signed February 17, 2001; the title does not state a separate start date.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

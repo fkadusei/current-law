@@ -1,0 +1,20 @@
+{
+ "headline": "Executive order sets 2012 pay rates for certain federal workers, likely including civilian employees and members of the military.",
+ "what_it_does": "This order adjusts pay rates for certain federal government jobs. Orders with this title are issued each year to set the official pay schedules for the coming year. Only the title was provided, so the exact pay changes and which groups they cover cannot be confirmed here.",
+ "who_it_affects": [
+  {
+   "group": "Federal civilian employees",
+   "how": "Their official pay rates for the coming year may be set or changed by this order."
+  },
+  {
+   "group": "Members of the uniformed services",
+   "how": "Their basic pay rates may be adjusted under this order."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

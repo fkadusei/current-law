@@ -1,0 +1,28 @@
+{
+ "headline": "Congress cancels the Bureau of Land Management's January 2025 land management plan for federal lands in North Dakota.",
+ "what_it_does": "This law uses the Congressional Review Act to cancel a plan the Bureau of Land Management (BLM) issued on January 8, 2025, for lands run by its North Dakota Field Office. That plan updated a 1988 plan. Among other changes, it limited oil and gas development in areas with low potential for those resources and limited new coal leasing to areas within four miles of existing mines. With the 2025 plan canceled, those changes no longer take effect.",
+ "who_it_affects": [
+  {
+   "group": "Oil and gas companies",
+   "how": "The 2025 plan's limits on oil and gas development in low-potential areas of BLM land in North Dakota are removed."
+  },
+  {
+   "group": "Coal mining companies",
+   "how": "The 2025 plan's rule restricting new coal leasing to areas within four miles of existing mines is removed."
+  },
+  {
+   "group": "Bureau of Land Management",
+   "how": "The agency can no longer use the 2025 North Dakota plan to manage these lands and, under the Congressional Review Act, generally cannot issue a substantially similar plan without new approval from Congress."
+  },
+  {
+   "group": "People who use or live near BLM lands in North Dakota",
+   "how": "Management of these federal lands will no longer follow the 2025 plan's changes."
+  }
+ ],
+ "when_it_takes_effect": "December 11, 2025, when the law was enacted.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

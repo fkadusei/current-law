@@ -1,0 +1,20 @@
+{
+ "headline": "Executive order aimed at limiting federal benefits for people living in the U.S. without legal immigration status.",
+ "what_it_does": "Based on its title, this order appears meant to stop federal money or benefits from going to people who are in the country without legal permission. No official summary was provided, so the specific programs, rules, and steps it requires are not clear from the source material.",
+ "who_it_affects": [
+  {
+   "group": "Immigrants without legal status",
+   "how": "They may face new limits on getting federally funded benefits or services."
+  },
+  {
+   "group": "Federal agencies that run benefit programs",
+   "how": "They would likely be told to review or change how they check who qualifies for benefits."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

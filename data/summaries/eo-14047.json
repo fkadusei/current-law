@@ -1,0 +1,24 @@
+{
+ "headline": "Executive order adds measles to the federal list of diseases for which people can be quarantined.",
+ "what_it_does": "This order adds measles to the official list of communicable diseases that federal health authorities may use quarantine and isolation powers to control. Being on this list allows federal officials, such as the CDC, to detain, isolate, or conditionally release people who may have or may have been exposed to the disease, to help stop its spread into or within the United States.",
+ "who_it_affects": [
+  {
+   "group": "People who have or may have been exposed to measles",
+   "how": "They can now be placed under federal quarantine or isolation to prevent spreading the disease."
+  },
+  {
+   "group": "International travelers arriving in the United States",
+   "how": "Those suspected of carrying measles may face federal quarantine measures at ports of entry."
+  },
+  {
+   "group": "Federal public health officials, including the CDC",
+   "how": "They gain legal authority to use quarantine and isolation powers for measles cases."
+  }
+ ],
+ "when_it_takes_effect": "2021-09-17",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

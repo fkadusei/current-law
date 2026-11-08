@@ -39,5 +39,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Law permanently lets states use federal job-help grants to serve everyone who files for unemployment benefits, not just a smaller group.",
+  "what_it_does": "The law changes rules for Department of Labor grants that pay states to offer reemployment services and eligibility checks to people claiming unemployment benefits. Before, the law said these grants could only serve claimants the state flagged as likely to run out of benefits and needing job search help. Yearly spending bills had been allowing the grants to cover all claimants. This law makes that broader use permanent.",
+  "who_it_affects": [
+   {
+    "group": "People who file for unemployment benefits",
+    "how": "Any claimant, not just those flagged as likely to run out of benefits, can be served by these grant-funded job search services and eligibility reviews."
+   },
+   {
+    "group": "State unemployment and workforce agencies",
+    "how": "States can permanently use these federal grants for all unemployment claimants without relying on yearly spending bill language."
+   },
+   {
+    "group": "Department of Labor",
+    "how": "The department's grants to states for reemployment services now permanently cover all unemployment claimants."
+   }
+  ],
+  "when_it_takes_effect": "Enacted November 25, 2024; the summary does not state a separate start date.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

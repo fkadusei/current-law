@@ -1,0 +1,24 @@
+{
+ "headline": "Congress cancels a 2024 Energy Department rule that changed certification, labeling, and enforcement requirements for certain appliances and equipment.",
+ "what_it_does": "This law uses the Congressional Review Act to overturn a Department of Energy rule published on October 9, 2024. That rule changed how makers of certain home appliances, such as washing machines and dishwashers, and certain commercial equipment, such as computer room air conditioners, must certify and label their products' energy efficiency. The rule was meant to match reporting with current energy standards and test methods and to give the department information to classify products. With the rule cancelled, those changes do not take effect, and the department generally cannot issue a substantially similar rule without new approval from Congress.",
+ "who_it_affects": [
+  {
+   "group": "Manufacturers of home appliances like washing machines and dishwashers",
+   "how": "They will not have to meet the new certification, labeling, and reporting requirements the 2024 rule would have added."
+  },
+  {
+   "group": "Makers of commercial equipment such as computer room air conditioners",
+   "how": "They are not subject to the rule's changed certification and enforcement provisions."
+  },
+  {
+   "group": "Department of Energy",
+   "how": "The department loses the rule's updated reporting requirements and is limited in issuing a substantially similar rule in the future."
+  }
+ ],
+ "when_it_takes_effect": "May 9, 2025",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

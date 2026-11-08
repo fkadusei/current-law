@@ -1,0 +1,28 @@
+{
+ "headline": "Executive order updates how the federal government manages background checks, security clearances, and job suitability decisions for its workers.",
+ "what_it_does": "This order changes the Civil Service Rules and two earlier executive orders (13488 and 13467). Based on its title, it updates the government-wide system for deciding who gets security clearances, who is suitable or fit to work for the federal government, and who gets official ID credentials. It also changes who oversees these processes across the executive branch. No summary was provided, so the specific details are not described here.",
+ "who_it_affects": [
+  {
+   "group": "Federal employees and job applicants",
+   "how": "The rules for judging whether they are suitable or fit for federal jobs are updated."
+  },
+  {
+   "group": "People who hold or are applying for security clearances",
+   "how": "The process for granting and reviewing clearances is changed."
+  },
+  {
+   "group": "Federal contractors and their workers",
+   "how": "They may be affected by updated rules for credentials and access to federal facilities and systems."
+  },
+  {
+   "group": "Federal agencies that run background checks",
+   "how": "Their oversight structure and processes for clearances and credentialing are reorganized."
+  }
+ ],
+ "when_it_takes_effect": "Signed January 17, 2017; the specific effective date is not stated in the provided material.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

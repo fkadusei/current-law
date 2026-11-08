@@ -1,0 +1,16 @@
+{
+ "headline": "President Clinton canceled an earlier executive order, Executive Order 12834.",
+ "what_it_does": "This order revokes Executive Order 12834, so the rules in that earlier order no longer apply. The available material gives only the title. It does not describe what the earlier order required or what changes once it is canceled.",
+ "who_it_affects": [
+  {
+   "group": "People who were covered by Executive Order 12834",
+   "how": "Any requirements the earlier order placed on them end once it is revoked, but the available material does not say who those people are."
+  }
+ ],
+ "when_it_takes_effect": "Not stated in the available material. Executive orders usually take effect when signed, which here was December 28, 2000.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

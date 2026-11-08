@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Law",
  "sponsor": "Sen. Cornyn, John [R-TX]",
- "official_summary": null,
+ "official_summary": "<p><strong>Holocaust Expropriated Art Recovery Act of 2025</strong></p><p>This act permanently extends and expands judicial authority under the Holocaust Expropriated Art Recovery Act of 2016. The law allows and establishes procedures for civil claims and causes of action to recover artwork and other property lost between 1933 and 1945 because of Nazi persecution.</p><p>Among the changes, the act removes the deadline for filing civil claims or causes of action. Currently, the filing deadline is December 31, 2026. (Claims must still be filed within six years of the claimant's discovery of the property in question.)</p><p>The act permits courts to exercise jurisdiction over civil claims or causes of action against a foreign state without regard to the nationality or citizenship of the alleged victim. The art or property at issue must still have a connection to the foreign state's commercial activities in the United States.</p><p>Additionally, the act authorizes nationwide service of process, which allows courts to exercise personal jurisdiction over defendants in any judicial district where they may be found, reside, have an agent, or transact business.</p><p>Finally, the act limits the defenses that may be asserted against civil claims or causes of action, including by prohibiting</p><ul><li>defenses based on the passage of time, including equitable defenses such as laches (i.e., unreasonable delays); and</li><li>discretionary bases for dismissal that are unrelated to the merits of the claim, including international comity&nbsp;(i.e., deference to the laws of other countries).</li></ul><p>These changes apply to pending and future civil claims or causes of action.</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-119s1884enr/uslm/BILLS-119s1884enr.xml"
@@ -39,5 +39,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Law makes permanent the rules for suing to recover art and property taken during Nazi persecution, and widens who can sue and where.",
+  "what_it_does": "This law permanently extends a 2016 law that lets people sue in US courts to get back art and other property lost between 1933 and 1945 because of Nazi persecution. It removes the December 31, 2026 filing deadline, though claims must still be filed within six years of finding the property. It lets courts hear claims against foreign governments no matter the victim's nationality, if the property is tied to that government's business activity in the US. It also lets cases be brought in any federal district where a defendant can be found and bars defenses based on delay or deference to other countries' laws.",
+  "who_it_affects": [
+   {
+    "group": "Holocaust victims, their heirs, and others seeking to recover property lost to Nazi persecution",
+    "how": "They no longer face the 2026 filing deadline and can sue regardless of their nationality, as long as they file within six years of finding the property."
+   },
+   {
+    "group": "Museums, galleries, collectors, and others who hold disputed artwork",
+    "how": "They can no longer get these cases dismissed by arguing the claim was brought too late or should be left to another country's courts."
+   },
+   {
+    "group": "Foreign governments with commercial activity in the US",
+    "how": "They can be sued over disputed property tied to their US commercial activity even when the victim was not a US citizen."
+   },
+   {
+    "group": "Federal courts",
+    "how": "They gain authority to hear these cases against defendants found, living, or doing business in any district, and the changes apply to cases already pending."
+   }
+  ],
+  "when_it_takes_effect": "Enacted April 13, 2026; applies to pending and future claims.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

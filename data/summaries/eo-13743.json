@@ -1,0 +1,20 @@
+{
+ "headline": "Obama executive order on charitable fundraising, likely tied to the giving program for federal workers.",
+ "what_it_does": "This order deals with charitable fundraising. No summary was provided, so its exact rules are not clear from the source. Presidential orders on this topic usually set rules for the Combined Federal Campaign, the program that lets federal employees give to charities through their workplace.",
+ "who_it_affects": [
+  {
+   "group": "Federal employees",
+   "how": "They may be affected if the order changes how the workplace charity giving program for federal workers runs."
+  },
+  {
+   "group": "Charities that raise money from federal workers",
+   "how": "They may be affected if the order changes the rules for taking part in federal workplace fundraising."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

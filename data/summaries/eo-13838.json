@@ -1,0 +1,24 @@
+{
+ "headline": "Executive order exempts certain recreational service businesses on federal lands from a 2014 order setting a minimum wage for federal contractors.",
+ "what_it_does": "Executive Order 13658, issued in 2014, set a higher minimum wage for workers on certain federal contracts. This order creates an exemption from that rule for recreational services offered on federal lands, such as businesses that guide trips or rent equipment under permits on public lands. The title alone does not spell out the exact services covered or any limits on the exemption.",
+ "who_it_affects": [
+  {
+   "group": "Outfitters, guides, and other recreational service businesses operating on federal lands",
+   "how": "They would no longer have to follow the federal contractor minimum wage rule from Executive Order 13658 for covered recreational services."
+  },
+  {
+   "group": "Workers employed by recreational service businesses on federal lands",
+   "how": "They may no longer be covered by the federal contractor minimum wage from Executive Order 13658, though other wage laws may still apply."
+  },
+  {
+   "group": "Federal land management agencies",
+   "how": "Agencies that issue permits or contracts for recreation on federal lands would apply the exemption to those agreements."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

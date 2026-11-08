@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Public Lands and Natural Resources",
  "sponsor": "Rep. Titus, Dina [D-NV-1]",
- "official_summary": null,
+ "official_summary": "<p><strong>Sloan Canyon Conservation and Lateral Pipeline Act</strong></p><p>This act expands the boundaries of the Sloan Canyon National Conservation Area in Clark County, Nevada, and grants rights-of-way&nbsp;through the conservation area&nbsp;and other land administered by the Bureau of Land Management (BLM)&nbsp;for the construction of a water transmission pipeline and related facilities.</p><p>Specifically, the act requires the BLM to grant certain rights-of-way to the Southern Nevada Water Authority (SNWA)&nbsp;for the purposes&nbsp;of (1) performing geotechnical investigations within the rights-of-way, and (2) constructing and operating a water pipeline and related facilities.&nbsp;</p><p>The rights-of-way may not be located through or under areas designated as wilderness, and construction of the pipeline may not permanently adversely affect surface resources within the conservation area. The BLM may place other reasonable terms and conditions on the issuance of rights-of-way as necessary to protect the conservation area’s resources.</p><p>In tunneling the water pipeline, SNWA may excavate and dispose of sand, gravel, minerals, and other materials as needed. The BLM must enter into a memorandum of understanding with SNWA to identify federal land on which SNWA may dispose of such materials.&nbsp;</p><p>The act also adds approximately 9,290 acres of land&nbsp;to the conservation area. This expansion of the conservation area is subject to valid existing rights (e.g., utility transmission rights), must not preclude authorized activities within existing rights-of-way or corridors, and must not preclude the BLM from authorizing new utility rights-of-way.</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr972enr/uslm/BILLS-119hr972enr.xml"
@@ -42,5 +42,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Law adds about 9,290 acres to Nevada's Sloan Canyon National Conservation Area and grants land for a Southern Nevada water pipeline.",
+  "what_it_does": "The law expands the Sloan Canyon National Conservation Area in Clark County, Nevada, by about 9,290 acres. It requires the Bureau of Land Management (BLM) to give the Southern Nevada Water Authority rights-of-way to study the ground and to build and run a water pipeline through the area and other BLM land. The pipeline cannot go through or under wilderness areas and cannot permanently harm surface resources in the conservation area. The water authority may dig out and dispose of sand, gravel, and other materials while tunneling, on federal land chosen through an agreement with the BLM.",
+  "who_it_affects": [
+   {
+    "group": "Southern Nevada Water Authority",
+    "how": "It gets rights-of-way on federal land to investigate, build, and operate a water pipeline, subject to BLM conditions."
+   },
+   {
+    "group": "Bureau of Land Management",
+    "how": "It must grant the rights-of-way, may set reasonable conditions to protect the area, and must sign an agreement on where dug-up materials can be disposed of."
+   },
+   {
+    "group": "Utility companies with rights-of-way in the area",
+    "how": "Their existing rights and activities are protected, and the BLM can still approve new utility rights-of-way in the expanded area."
+   },
+   {
+    "group": "Residents and visitors in Clark County, Nevada",
+    "how": "More land comes under conservation area protection, and a new water pipeline will be built through the region."
+   }
+  ],
+  "when_it_takes_effect": "Enacted May 19, 2026; no separate effective date is stated in the summary.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

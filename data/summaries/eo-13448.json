@@ -1,0 +1,20 @@
+{
+ "headline": "Executive order freezes US-held property of certain people tied to Burma's government and bars Americans from dealing with them.",
+ "what_it_does": "The order freezes property and assets in the United States, or held by Americans, that belong to certain people and groups connected to Burma (also called Myanmar). It also bans Americans from making certain transactions with those people. The title does not list exactly who is targeted, so details are limited here.",
+ "who_it_affects": [
+  {
+   "group": "People and groups linked to Burma who are named under the order",
+   "how": "Their property and money under US control would be frozen, and they could not do business with Americans."
+  },
+  {
+   "group": "US citizens, companies, and banks",
+   "how": "They would be barred from certain financial dealings and trades with the people and groups targeted by the order."
+  }
+ ],
+ "when_it_takes_effect": "Signed October 18, 2007; exact effective date not stated in the source material.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

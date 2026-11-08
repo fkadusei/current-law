@@ -1,0 +1,16 @@
+{
+ "headline": "President Clinton put Executive Order 13083 on hold, so its instructions stopped applying while the suspension lasts.",
+ "what_it_does": "This order suspends an earlier order, Executive Order 13083, so that order no longer takes effect for now. Only the title was provided, so the details of the earlier order and any related terms are not covered here.",
+ "who_it_affects": [
+  {
+   "group": "Federal agencies",
+   "how": "Agencies stop following the instructions in Executive Order 13083 while it is suspended."
+  }
+ ],
+ "when_it_takes_effect": "The order was signed on August 5, 1998. The provided material does not state a separate start date.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

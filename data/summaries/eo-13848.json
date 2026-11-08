@@ -1,0 +1,20 @@
+{
+ "headline": "Executive order sets up a way to impose sanctions on foreign people or groups that interfere in US elections.",
+ "what_it_does": "This order creates a process for the US government to punish foreign interference in American elections with sanctions. Sanctions are penalties such as blocking property or limiting business dealings. Only the title was provided, so details about how interference is identified and which penalties apply are not covered here.",
+ "who_it_affects": [
+  {
+   "group": "Foreign individuals, companies, and governments",
+   "how": "They could face US sanctions if found to have interfered in a US election."
+  },
+  {
+   "group": "US businesses and banks",
+   "how": "They may have to stop dealing with anyone who is sanctioned under this order."
+  }
+ ],
+ "when_it_takes_effect": "Signed September 12, 2018",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

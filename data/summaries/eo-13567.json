@@ -1,0 +1,20 @@
+{
+ "headline": "Executive order sets up regular reviews of people held at the Guantánamo Bay naval base under the 2001 military force law.",
+ "what_it_does": "This order calls for periodic reviews of people detained at Guantánamo Bay Naval Station under the Authorization for Use of Military Force, the law Congress passed after the September 11, 2001 attacks. Based on the title, it creates a process for checking each detainee's case again over time. No summary was provided, so details such as who does the reviews, how often, and what standards apply are not described here.",
+ "who_it_affects": [
+  {
+   "group": "People detained at Guantánamo Bay under the Authorization for Use of Military Force",
+   "how": "Their detention would be looked at again on a repeating basis instead of only once."
+  },
+  {
+   "group": "Federal agencies involved in military detention",
+   "how": "They would be responsible for carrying out the periodic reviews the order calls for."
+  }
+ ],
+ "when_it_takes_effect": "Signed March 7, 2011; the title does not say when reviews begin.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

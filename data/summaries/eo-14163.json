@@ -1,0 +1,20 @@
+{
+ "headline": "Executive order changes how the U.S. refugee admissions program works.",
+ "what_it_does": "This executive order directs changes to the U.S. Refugee Admissions Program, the federal program that screens and resettles refugees from other countries. The title says the program is being \"realigned,\" but no summary was provided, so the specific changes are not described here.",
+ "who_it_affects": [
+  {
+   "group": "Refugees seeking to resettle in the United States",
+   "how": "Their path to being admitted through the federal refugee program may change."
+  },
+  {
+   "group": "Refugee resettlement agencies and groups that help them",
+   "how": "Their work may be affected by changes to how refugees are admitted."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

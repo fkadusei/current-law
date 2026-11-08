@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Armed Forces and National Security",
  "sponsor": "Rep. Van Orden, Derrick [R-WI-3]",
- "official_summary": null,
+ "official_summary": "<p><strong>VA Home Loan Program Reform Act</strong></p><p>This act authorizes the Department of Veterans Affairs (VA) to take certain actions in cases of default on home loans under the VA home loan program, establishes a partial claim program, and temporarily increases amounts authorized for transitional housing and supportive services for veterans who are experiencing homelessness.</p><p>First, the act authorizes the VA to pay the holder of a loan guaranteed by the VA an amount necessary to avoid the foreclosure of the loan, provided that the holder of the loan and the veteran obligated on the loan execute documents to ensure the VA obtains a secured interest in the property covered by the loan.</p><p>The VA must prescribe loss mitigation procedures to help prevent the foreclosure of such a home loan. The VA may not take specified administrative actions (e.g., consent to the modification of loan terms) until the sequence of mitigation options has been completed.</p><p>Next, the act establishes a five-year Partial Claim Program under which the VA may make a partial claim (purchase a&nbsp;portion of the indebtedness) on VA loans for primary residences that are in default or at imminent risk of default. Individuals who default on loans for which the VA has made a partial claim under this program must be liable to the VA for any loss resulting from the default.</p><p>Further, the VA must report to Congress on its strategy to ensure that veterans who purchase homes under the VA home loan program are not at a disadvantage when attempting to secure representation by a real estate agent or broker.</p><p>Finally,&nbsp;the act temporarily increases the amounts authorized for the VA’s Grant and Per Diem program for FY2025 and FY2026. (The program provides funding&nbsp;to public or nonprofit private entities that provide housing and supportive services to veterans experiencing homelessness.)</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1815enr/uslm/BILLS-119hr1815enr.xml"
@@ -42,5 +42,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "New law lets the VA step in to help veterans avoid foreclosure on VA-backed home loans and boosts funding for homeless veteran programs.",
+  "what_it_does": "The VA can pay a lender the amount needed to stop a foreclosure on a VA-guaranteed home loan, in exchange for a secured interest in the home. It creates a five-year Partial Claim Program in which the VA can buy part of the debt on a primary home that is behind on payments or close to it, and requires the VA to set loss mitigation steps lenders must follow first. The VA must also report to Congress on making sure VA loan buyers are not disadvantaged when seeking a real estate agent. It temporarily raises authorized funding for the VA's Grant and Per Diem program for homeless veterans.",
+  "who_it_affects": [
+   {
+    "group": "Veterans with VA-guaranteed home loans who are behind on payments",
+    "how": "They may get VA help to avoid foreclosure, but they owe the VA for any loss if they later default on a loan the VA partly paid off."
+   },
+   {
+    "group": "Banks and companies that hold or service VA-guaranteed home loans",
+    "how": "They must follow VA loss mitigation steps in order and may receive VA payments to resolve loans in default."
+   },
+   {
+    "group": "Veterans buying homes with VA loans",
+    "how": "The VA must report on how to keep them from being disadvantaged when trying to hire a real estate agent or broker."
+   },
+   {
+    "group": "Veterans experiencing homelessness and the public or nonprofit groups that serve them",
+    "how": "More money is authorized for the Grant and Per Diem program, which funds housing and support services, for fiscal years 2025 and 2026."
+   }
+  ],
+  "when_it_takes_effect": "Enacted July 30, 2025; the Partial Claim Program runs for five years, and the homeless program funding increase covers FY2025 and FY2026.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Public Lands and Natural Resources",
  "sponsor": "Rep. Comer, James [R-KY-1]",
- "official_summary": null,
+ "official_summary": "<p>This bill directs the Department of the Interior to remove all deed restrictions from approximately 3.62 acres located at 2956 Park Avenue, on the Paducah Memorial Army Reserve Center in&nbsp;Paducah, Kentucky. The restrictions include easements, exceptions, reservations, terms, conditions, and covenants described in the quitclaim deed that was executed on April 27, 2012. The deed conveyed land from Interior to the City of&nbsp;Paducah, Kentucky.</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1276enr/uslm/BILLS-119hr1276enr.xml"
@@ -42,5 +42,24 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Law removes federal deed restrictions from about 3.62 acres of land in Paducah, Kentucky, that the city got from the government in 2012.",
+  "what_it_does": "The law directs the Department of the Interior to remove all deed restrictions on about 3.62 acres at 2956 Park Avenue, on the Paducah Memorial Army Reserve Center site. The restrictions come from a 2012 deed that transferred the land from Interior to the City of Paducah. They include easements, reservations, conditions, and other terms in that deed.",
+  "who_it_affects": [
+   {
+    "group": "City of Paducah, Kentucky",
+    "how": "The city would hold the land without the federal limits and conditions that were written into the 2012 deed."
+   },
+   {
+    "group": "Department of the Interior",
+    "how": "The department must take the steps needed to remove the deed restrictions on the parcel."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on September 11, 2026. The summary does not give a deadline for Interior to remove the restrictions.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -3500,5 +3500,24 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "Law makes certain temporary federal district court judge positions permanent in ten states.",
+  "what_it_does": "This law changes some temporary federal district court judgeships into permanent ones. The affected courts are in specific judicial districts in Alabama, Arizona, California, Florida, Hawaii, Kansas, Missouri, New Mexico, North Carolina, and Texas. Making a judgeship permanent means the seat can be filled again when the judge leaves, instead of going away.",
+  "who_it_affects": [
+   {
+    "group": "Federal district courts in the listed districts",
+    "how": "These courts keep judge positions that otherwise could have been lost when the current judges leave."
+   },
+   {
+    "group": "People and businesses with cases in federal court in these ten states",
+    "how": "Their courts keep the same number of judge seats over time to hear cases."
+   }
+  ],
+  "when_it_takes_effect": "Enacted December 23, 2024; the summary does not give a separate start date.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -3507,5 +3507,28 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "New law lets federal maternal and child health grant money be used to help prevent stillbirths.",
+  "what_it_does": "This law expands the Maternal and Child Health Services Block Grant, a federal grant program for mothers, babies, and children. It adds research and activities to prevent stillbirths to the list of things the grant can pay for. A stillbirth is when a baby dies in the womb late in pregnancy.",
+  "who_it_affects": [
+   {
+    "group": "Pregnant women and expecting families",
+    "how": "They may benefit from new stillbirth prevention efforts paid for through the grant program."
+   },
+   {
+    "group": "State maternal and child health programs",
+    "how": "They can now use block grant funds for research and activities aimed at preventing stillbirths."
+   },
+   {
+    "group": "Researchers studying pregnancy and stillbirth",
+    "how": "Their work on preventing stillbirths may now be supported by this grant program."
+   }
+  ],
+  "when_it_takes_effect": "Enacted July 12, 2024; the summary does not give a separate start date.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

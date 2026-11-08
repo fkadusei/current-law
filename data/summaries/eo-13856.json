@@ -1,0 +1,24 @@
+{
+ "headline": "Executive order sets the 2019 pay rates for many federal government employees and officials.",
+ "what_it_does": "This order adjusts the pay rates for certain federal jobs, as the title states. Orders like this are issued each year to set new pay schedules for federal workers, such as civilian employees, senior officials, and members of the military. The title alone does not give the exact pay amounts or changes.",
+ "who_it_affects": [
+  {
+   "group": "Federal civilian employees",
+   "how": "Their pay schedules for the coming year are set or adjusted by this order."
+  },
+  {
+   "group": "Senior federal officials and executives",
+   "how": "Pay rates for top-level government positions are among those this type of order adjusts."
+  },
+  {
+   "group": "Members of the uniformed services",
+   "how": "Military pay rates are typically included in this yearly pay order."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

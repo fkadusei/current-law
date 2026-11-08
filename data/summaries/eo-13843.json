@@ -1,0 +1,24 @@
+{
+ "headline": "Executive order moves federal administrative law judges out of the competitive civil service hiring system.",
+ "what_it_does": "This order takes administrative law judges, who decide disputes inside federal agencies, out of the competitive service. The competitive service normally uses standard exams and ranking rules run by the Office of Personnel Management to fill jobs. With this change, agencies can pick and hire these judges more directly instead of going through that process.",
+ "who_it_affects": [
+  {
+   "group": "People applying to be federal administrative law judges",
+   "how": "They are no longer chosen through the standard competitive exam and ranking process, and agencies select them more directly."
+  },
+  {
+   "group": "Federal agencies that use administrative law judges",
+   "how": "Agency leaders gain more control over choosing the judges who hear cases at their agency."
+  },
+  {
+   "group": "People and businesses with cases before federal agencies",
+   "how": "The judges who decide their cases, such as Social Security disability appeals, are hired under a different process."
+  }
+ ],
+ "when_it_takes_effect": "Signed July 10, 2018; exact effective date not stated in the provided material.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

@@ -1,0 +1,16 @@
+{
+ "headline": "President Bush changed an earlier order that set up a commission to study special education in the United States.",
+ "what_it_does": "This order makes changes to Executive Order 13227, which created the President's Commission on Excellence in Special Education. The title does not say what exactly was changed. Such amendments often adjust details like the commission's size, membership, or deadlines, but the source material here does not confirm which details were affected.",
+ "who_it_affects": [
+  {
+   "group": "Members of the President's Commission on Excellence in Special Education",
+   "how": "The rules for the commission they serve on were changed in some way not described in the title."
+  }
+ ],
+ "when_it_takes_effect": "2002-02-06 (date signed; actual effective date not stated in the source)",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

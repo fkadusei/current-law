@@ -1,0 +1,24 @@
+{
+ "headline": "A 2008 executive order removed certain federal government offices from the program that lets federal workers bargain through unions.",
+ "what_it_does": "This order excludes certain federal agencies or offices from the Federal Labor-Management Relations Program. That program sets the rules for federal employees to join unions and bargain with management over working conditions. The title does not say which offices were excluded or why. Presidents usually make these exclusions for offices doing intelligence, investigative, or national security work.",
+ "who_it_affects": [
+  {
+   "group": "Federal employees in the excluded offices",
+   "how": "They would lose coverage under the federal program that allows union representation and collective bargaining."
+  },
+  {
+   "group": "Federal employee unions",
+   "how": "They would no longer be able to represent or bargain for workers in the excluded offices."
+  },
+  {
+   "group": "Managers at the affected federal offices",
+   "how": "They would no longer have to follow the program's bargaining rules for those workers."
+  }
+ ],
+ "when_it_takes_effect": "Signed November 26, 2008; the provided material gives no separate effective date.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Armed Forces and National Security",
  "sponsor": "Sen. Sullivan, Dan [R-AK]",
- "official_summary": null,
+ "official_summary": "<p>This bill requires the Department of Veterans Affairs (VA) to provide quarterly budget briefings to Congress, prohibits the VA from providing specified pay incentives to senior-level employees, and establishes an office to carry out customer service initiatives of the VA.</p><p><em>Protecting Regular Order for Veterans Act of 2025 or the PRO Veterans Act of 2025</em></p><p>(Sec. 1) This section requires the VA to provide quarterly budget briefings to Congress, which must include information on&nbsp;any budget shortfalls the VA may be experiencing. The VA must present its plans to address or mitigate shortfalls during such briefings.</p><p>Next, the section prohibits the VA from providing certain senior-level employees with a critical skill incentive, which is generally a payment bonus for employees possessing a high-demand skill or skill that is at a shortage. Specifically, the VA may not provide such an incentive to an employee in a Senior Executive Service position or other comparable position in the VA Central Office, regardless of the actual location where the employee performs the functions of the position.&nbsp; Senior-level employees whose positions are primarily in the VA Central Office but perform some portion of their job function based out of non-Central Office VA facilities are eligible for an incentive for&nbsp;their non-Central Office work.</p><p>The section also provides that an incentive may only be provided to senior-level employees on an individual basis and upon approval by specified officers (e.g., the Under Secretary for Health).</p><p>The VA must report to Congress annually regarding senior-level employees who were provided a critical skill incentive.</p><p><em>Improving Veterans’ Experience Act of 2025</em></p><p>(Sec. 2) This section establishes the Veterans Experience Office through&nbsp;FY2028 to carry out the key customer experience initiatives of the VA relating to veteran and beneficiary satisfaction with and usage of VA benefits and services.</p><p>The Government Accountability Office must complete an analysis of and report on the methodology, effectiveness, and implementation of findings and feedback of veterans and beneficiaries used by the VA, including the Veterans Experience Office, to improve customer experience and satisfaction.</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-119s423enr/uslm/BILLS-119s423enr.xml"
@@ -36,5 +36,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "New law requires VA budget briefings to Congress, limits bonuses for top VA officials, and creates a Veterans Experience Office through 2028.",
+  "what_it_does": "The Department of Veterans Affairs (VA) must brief Congress every three months on its budget, including any shortfalls and its plans to fix them. The VA can no longer give 'critical skill' bonuses to senior executives working in its central headquarters office, and any such bonuses for other senior staff must be approved one person at a time by specific top officials and reported to Congress each year. The law also sets up a Veterans Experience Office through fiscal year 2028 to work on how satisfied veterans are with VA benefits and services. The Government Accountability Office must study how well the VA uses veteran feedback to improve service.",
+  "who_it_affects": [
+   {
+    "group": "Senior VA executives in the central office",
+    "how": "They can no longer receive critical skill bonuses for central office work, though some may still get them for work done at other VA facilities."
+   },
+   {
+    "group": "Other senior-level VA employees",
+    "how": "Any critical skill bonus must be approved individually by designated top officials, such as the Under Secretary for Health, and is reported to Congress."
+   },
+   {
+    "group": "Veterans and VA beneficiaries",
+    "how": "A Veterans Experience Office will work through fiscal year 2028 on improving their satisfaction with and use of VA benefits and services."
+   },
+   {
+    "group": "Members of Congress",
+    "how": "They will receive quarterly VA budget briefings, including information on shortfalls, plus yearly reports on senior staff bonuses and a GAO report on VA customer service."
+   }
+  ],
+  "when_it_takes_effect": "Enacted August 14, 2025; the Veterans Experience Office runs through fiscal year 2028.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

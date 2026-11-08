@@ -1,0 +1,20 @@
+{
+ "headline": "President Bush ordered a freeze on property of the Government of Burma in the US and barred certain transactions with it.",
+ "what_it_does": "This executive order blocks, or freezes, property and interests in property of the Government of Burma (also called Myanmar) that fall under US control. It also bans certain transactions, which are not spelled out in the title. No summary was provided, so the exact details are not described here.",
+ "who_it_affects": [
+  {
+   "group": "The Government of Burma",
+   "how": "Its property that is in the US or held by US persons is frozen and cannot be moved or used."
+  },
+  {
+   "group": "US businesses and banks that deal with Burma",
+   "how": "They must freeze covered property and avoid the transactions the order prohibits."
+  }
+ ],
+ "when_it_takes_effect": "Signed July 28, 2003; the exact effective date is not stated in the title.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

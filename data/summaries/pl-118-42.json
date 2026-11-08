@@ -1,0 +1,52 @@
+{
+ "headline": "Funds six groups of federal agencies for fiscal year 2024 and extends several health, family, and Pacific island programs.",
+ "what_it_does": "This law sets fiscal year 2024 spending for military construction and veterans' services, farm and food programs, the FDA, the Justice and Commerce Departments, NASA and science agencies, energy and water projects, the Interior Department and EPA, and transportation and housing programs. It also adds many rules on how that money can and cannot be used. It extends several health and family programs, makes some Medicaid changes, and approves updated agreements with Micronesia, the Marshall Islands, and Palau.",
+ "who_it_affects": [
+  {
+   "group": "Veterans",
+   "how": "It funds VA health care and benefits, requires the VA to stop using Social Security numbers to verify identity by September 30, 2024 (with exceptions), and allows VA care for veterans living in Micronesia, the Marshall Islands, and Palau."
+  },
+  {
+   "group": "Veterans who cannot have children because of a service-connected disability",
+   "how": "VA medical funds may be used for fertility treatment or adoption reimbursement for them."
+  },
+  {
+   "group": "People who get SNAP, WIC, or school meals",
+   "how": "It funds these food programs, keeps current school meal sodium limits through the 2026-2027 school year, and requires that flavored milk be allowed in school meals."
+  },
+  {
+   "group": "People enrolled in Medicaid",
+   "how": "It permanently requires state Medicaid coverage of medication treatment for opioid use disorder and, starting January 1, 2026, bars states from dropping people from Medicaid or CHIP just because they are incarcerated."
+  },
+  {
+   "group": "Doctors and hospitals that treat Medicare patients",
+   "how": "It raises some Medicare physician payments for services from March 9, 2024, to January 1, 2025, and extends extra payments for some small and rural hospitals through 2024."
+  },
+  {
+   "group": "Low-income families with children",
+   "how": "It extends the TANF cash assistance program through fiscal year 2024 and child welfare programs through December 31, 2024."
+  },
+  {
+   "group": "Patients at community health centers",
+   "how": "It extends funding for community health centers and the National Health Service Corps through December 31, 2024."
+  },
+  {
+   "group": "Renters and homebuyers who use federal housing aid",
+   "how": "It funds HUD programs, including rental vouchers, public housing, homeless assistance, and FHA mortgage insurance."
+  },
+  {
+   "group": "Citizens of Micronesia, the Marshall Islands, and Palau living in the U.S.",
+   "how": "Those living here lawfully can get federal means-tested benefits without the usual five-year waiting period."
+  },
+  {
+   "group": "Farmers and rural communities",
+   "how": "It funds farm, conservation, crop insurance, rural housing, rural water, and rural broadband programs, with at least 10% of some funds going to persistent poverty counties."
+  }
+ ],
+ "when_it_takes_effect": "Enacted March 9, 2024; funding covers fiscal year 2024, with some provisions taking effect later (for example, the Medicaid incarceration rule on January 1, 2026).",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

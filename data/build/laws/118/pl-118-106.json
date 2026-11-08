@@ -3534,5 +3534,32 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "New law gives designated House and Senate staff observers the legal right to watch how states run federal elections.",
+  "what_it_does": "The law puts into federal statute the role of congressional election observers. These are House or Senate employees chosen in writing by the top Republican or Democrat on the committees that oversee elections. States must give these observers full access to watch every step of running a federal election, from casting and counting ballots to audits, recounts, and certification. Observers may not handle ballots or equipment, support any candidate, reduce voter privacy, or interfere with voting or election work.",
+  "who_it_affects": [
+   {
+    "group": "State and local election officials",
+    "how": "They must let designated congressional observers watch all parts of federal election administration and must send written notice to the relevant committee leaders within 24 hours if they remove an observer."
+   },
+   {
+    "group": "House and Senate staff designated as election observers",
+    "how": "They gain a legal right to observe federal election procedures but must follow rules against handling ballots, advocating, or interfering, and can be removed for misconduct."
+   },
+   {
+    "group": "Leaders of the House Committee on House Administration and the Senate Committee on Rules and Administration",
+    "how": "The chair and ranking minority member can designate observers in writing and must be notified if one is removed."
+   },
+   {
+    "group": "Voters in federal elections",
+    "how": "Observers are barred from interfering with voters or reducing ballot secrecy and voter privacy."
+   }
+  ],
+  "when_it_takes_effect": "Enacted October 4, 2024; the summary does not state a separate effective date.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

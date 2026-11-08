@@ -1,0 +1,28 @@
+{
+ "headline": "Law moves certain national forest land near Arizona's Salt River to the Bureau of Reclamation for expanded hydropower use.",
+ "what_it_does": "The law transfers National Forest System land near the Salt River in Arizona to the Bureau of Reclamation so it can be used to generate hydropower for the Salt River Federal Reclamation Project. Facilities built on the land by two local Salt River Project organizations must meet Reclamation's standards, and Reclamation takes ownership once they are mostly finished, while the local groups run and maintain them. The land transfer is exempt from review under the National Environmental Policy Act, and Reclamation is named the lead agency for environmental compliance.",
+ "who_it_affects": [
+  {
+   "group": "Salt River Project Agricultural Improvement and Power District and Salt River Valley Water Users' Association",
+   "how": "They must build any facilities on the land to Reclamation's standards and are responsible for operating and maintaining them after Reclamation takes ownership."
+  },
+  {
+   "group": "Bureau of Reclamation",
+   "how": "It gains control of the transferred land, takes ownership of completed facilities, and leads environmental compliance for the project."
+  },
+  {
+   "group": "U.S. Forest Service",
+   "how": "It gives up management of the National Forest System land that is transferred to Reclamation."
+  },
+  {
+   "group": "People who use or live near the affected national forest land in Arizona",
+   "how": "The land moves out of the National Forest System and its transfer skips the usual National Environmental Policy Act review."
+  }
+ ],
+ "when_it_takes_effect": "Enacted December 23, 2024; the summary does not state a separate effective date.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

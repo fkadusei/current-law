@@ -1,0 +1,28 @@
+{
+ "headline": "Law adjusts the federal crime of foreign officials demanding or taking bribes, changing who is covered and what conduct is banned.",
+ "what_it_does": "This law changes the Foreign Extortion Prevention Act, passed in 2023, which made it a federal crime for foreign officials to demand or accept bribes. It narrows who counts as a foreign official by leaving out people acting unofficially for a foreign government or international organization. It widens the banned conduct to cover bribes tied to influencing any act or decision, not just official acts. It also makes clear the law reaches foreign officials who demand or accept bribes while they are in the United States.",
+ "who_it_affects": [
+  {
+   "group": "Foreign government officials and international organization officials",
+   "how": "They can face US criminal charges for demanding or accepting bribes in return for influencing any act or decision, including while they are in the United States."
+  },
+  {
+   "group": "People acting unofficially for a foreign government or international organization",
+   "how": "They are no longer counted as foreign officials under this criminal law."
+  },
+  {
+   "group": "US companies and individuals doing business abroad",
+   "how": "The officials they deal with are covered by a broader ban on asking for or taking bribes."
+  },
+  {
+   "group": "Federal prosecutors",
+   "how": "They work under revised definitions of who can be charged and what conduct is illegal."
+  }
+ ],
+ "when_it_takes_effect": "Enacted July 30, 2024; the summary does not give a separate effective date.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

@@ -1,0 +1,20 @@
+{
+ "headline": "President Bush assigned certain duties about military appointments, promotions, and commissions to other officials.",
+ "what_it_does": "This order hands off some of the President's duties related to appointing, promoting, and commissioning members of the armed forces. Based on the title, these duties likely go to the Secretary of Defense or other defense officials. No summary was provided, so the exact duties and who receives them are not clear.",
+ "who_it_affects": [
+  {
+   "group": "Members of the armed forces up for appointment, promotion, or commission",
+   "how": "Some decisions about their appointments, promotions, or commissions may be handled by officials other than the President."
+  },
+  {
+   "group": "Defense Department officials",
+   "how": "They may take on some duties for military appointments and promotions that the President used to handle."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

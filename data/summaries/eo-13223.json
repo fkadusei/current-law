@@ -1,0 +1,24 @@
+{
+ "headline": "President Bush ordered members of the military's Ready Reserve to active duty and gave related powers to two Cabinet secretaries.",
+ "what_it_does": "This order calls members of the Ready Reserve of the U.S. Armed Forces to active duty. It hands certain powers to carry out the call-up to the Secretary of Defense and the Secretary of Transportation. At the time, the Secretary of Transportation oversaw the Coast Guard. The order was signed three days after the September 11, 2001 attacks, but the details here come from the title only.",
+ "who_it_affects": [
+  {
+   "group": "Members of the Ready Reserve (part-time military reservists and National Guard members)",
+   "how": "They could be called away from civilian life to serve on full-time active duty."
+  },
+  {
+   "group": "Coast Guard reservists",
+   "how": "The Secretary of Transportation, who then oversaw the Coast Guard, was given authority over their call-up."
+  },
+  {
+   "group": "Families and civilian employers of reservists",
+   "how": "They could lose a family member's or worker's presence while that person served on active duty."
+  }
+ ],
+ "when_it_takes_effect": "Signed September 14, 2001; the title does not give a separate start date.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

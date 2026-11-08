@@ -1,0 +1,125 @@
+---
+// "Ask Current Law" chat: a floating button that opens a small chat window.
+---
+<div class="chat" id="chat" data-open="false">
+  <button type="button" class="chat-fab" id="chat-fab" aria-expanded="false" aria-controls="chat-panel">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16v11H9l-5 4z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/><path d="M8 9.5h8M8 12.5h5" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+    <span>Ask a question</span>
+  </button>
+  <section class="chat-panel" id="chat-panel" role="dialog" aria-label="Ask Current Law" hidden>
+    <header class="chat-head">
+      <div><strong>Ask Current Law</strong><small>AI assistant · answers come from this site's data</small></div>
+      <button type="button" class="chat-x" id="chat-x" aria-label="Close chat">✕</button>
+    </header>
+    <div class="chat-log" id="chat-log" aria-live="polite">
+      <div class="msg bot"><p>Hi! Ask me about any federal law, how your members of Congress voted, or what passed on a certain date.</p>
+        <div class="chips">
+          <button type="button" class="chip-q">What laws passed in July 2024?</button>
+          <button type="button" class="chip-q">How did Ohio's senators vote on the CHIPS Act?</button>
+          <button type="button" class="chip-q">Which laws help veterans?</button>
+        </div>
+      </div>
+    </div>
+    <form class="chat-form" id="chat-form" autocomplete="off">
+      <label class="sr-only" for="chat-in">Your question</label>
+      <input id="chat-in" maxlength="500" placeholder="Type your question…" />
+      <button type="submit" aria-label="Send"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 12l16-8-6 16-2-6z" fill="currentColor"/></svg></button>
+    </form>
+    <p class="chat-note">AI can make mistakes. Check the linked pages for the official record.</p>
+  </section>
+</div>
+<script>
+  const root = document.getElementById("chat");
+  const panel = document.getElementById("chat-panel");
+  const fab = document.getElementById("chat-fab");
+  const log = document.getElementById("chat-log");
+  const form = document.getElementById("chat-form");
+  const input = document.getElementById("chat-in");
+  const history = [];
+  let busy = false;
+  const toggle = (open) => {
+    panel.hidden = !open; root.dataset.open = String(open); fab.setAttribute("aria-expanded", String(open));
+    if (open) input.focus();
+  };
+  fab.addEventListener("click", () => toggle(panel.hidden));
+  document.getElementById("chat-x").addEventListener("click", () => toggle(false));
+  document.addEventListener("keydown", (e) => { if (e.key === "Escape" && !panel.hidden) toggle(false); });
+
+  // Safe tiny Markdown: escape everything, then allow **bold**, lists and links to this site or https.
+  const esc = (s) => s.replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" })[c]);
+  function render(md) {
+    const lines = esc(md).split(/\n+/);
+    let html = "", inList = false;
+    for (const raw of lines) {
+      let line = raw.replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>")
+        .replace(/\[([^\]]+)\]\(((?:\/|https:\/\/)[^)\s]*)\)/g, (m, t, u) => `<a href="${u}"${u.startsWith("/") ? "" : ' target="_blank" rel="noopener"'}>${t}</a>`);
+      const li = line.match(/^\s*(?:[-*•]|\d+\.)\s+(.*)/);
+      if (li) { if (!inList) { html += "<ul>"; inList = true; } html += `<li>${li[1]}</li>`; continue; }
+      if (inList) { html += "</ul>"; inList = false; }
+      if (line.trim()) html += `<p>${line}</p>`;
+    }
+    return html + (inList ? "</ul>" : "");
+  }
+  function add(role, text) {
+    const div = document.createElement("div");
+    div.className = `msg ${role === "user" ? "me" : "bot"}`;
+    if (role === "user") div.textContent = text; else div.innerHTML = render(text);
+    log.append(div); log.scrollTop = log.scrollHeight;
+    return div;
+  }
+  async function ask(q) {
+    if (busy || !q.trim()) return;
+    busy = true; input.value = "";
+    add("user", q); history.push({ role: "user", content: q });
+    const wait = add("bot", "…"); wait.classList.add("typing");
+    try {
+      const r = await fetch("/api/ask", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ messages: history.slice(-8) }) });
+      const d = await r.json();
+      const reply = d.reply || d.error || "Sorry, something went wrong.";
+      wait.remove(); add("bot", reply);
+      if (d.reply && !d.limited) history.push({ role: "assistant", content: reply }); else history.pop();
+    } catch {
+      wait.remove(); add("bot", "Sorry, I couldn't reach the assistant. Please try again."); history.pop();
+    }
+    busy = false; input.focus();
+  }
+  form.addEventListener("submit", (e) => { e.preventDefault(); ask(input.value); });
+  log.addEventListener("click", (e) => { const b = e.target.closest(".chip-q"); if (b) ask(b.textContent); });
+</script>
+<style>
+  .chat { position: fixed; right: 18px; bottom: 18px; z-index: 40; }
+  .chat-fab { display: inline-flex; align-items: center; gap: 8px; padding: 12px 18px; border: 0; border-radius: 999px; background: var(--navy); color: #fff; font: 600 .95rem var(--sans); cursor: pointer; box-shadow: 0 10px 30px rgb(0 0 0 / .3), inset 0 0 0 1px rgb(255 255 255 / .15); }
+  .chat-fab svg { width: 20px; height: 20px; color: var(--gold); }
+  .chat-fab:hover { background: var(--navy-2); }
+  .chat[data-open="true"] .chat-fab { display: none; }
+  .chat-panel { width: min(400px, calc(100vw - 24px)); height: min(600px, calc(100dvh - 120px)); display: flex; flex-direction: column; background: var(--surface); color: var(--text); border: 1px solid var(--border); border-radius: 18px; box-shadow: 0 20px 60px rgb(0 0 0 / .35); overflow: hidden; }
+  .chat-panel[hidden] { display: none; }
+  .chat-head { display: flex; justify-content: space-between; align-items: center; padding: 14px 16px; background: var(--navy); color: #fff; }
+  .chat-head div { display: flex; flex-direction: column; line-height: 1.25; }
+  .chat-head small { color: rgb(255 255 255 / .7); font-size: .74rem; }
+  .chat-x { border: 0; background: transparent; color: #fff; font-size: 1.1rem; cursor: pointer; padding: 4px 8px; border-radius: 8px; }
+  .chat-x:hover { background: rgb(255 255 255 / .12); }
+  .chat-log { flex: 1; overflow-y: auto; padding: 14px; display: flex; flex-direction: column; gap: 10px; font-size: .93rem; }
+  .msg { max-width: 88%; padding: 10px 13px; border-radius: 14px; line-height: 1.5; }
+  .msg p { margin: 0 0 6px; } .msg p:last-child { margin: 0; }
+  .msg ul { margin: 4px 0; padding-left: 18px; }
+  .msg.bot { background: var(--surface-2); align-self: flex-start; border-bottom-left-radius: 4px; }
+  .msg.me { background: var(--dem); color: #fff; align-self: flex-end; border-bottom-right-radius: 4px; white-space: pre-wrap; }
+  .msg.typing { color: var(--muted); animation: blink 1.2s infinite; }
+  @keyframes blink { 50% { opacity: .4; } }
+  .chips { display: flex; flex-direction: column; gap: 6px; margin-top: 10px; }
+  .chip-q { text-align: left; border: 1px solid var(--border); background: var(--surface); color: var(--accent); border-radius: 10px; padding: 7px 10px; font: 500 .85rem var(--sans); cursor: pointer; }
+  .chip-q:hover { border-color: var(--accent); }
+  .chat-form { display: flex; gap: 8px; padding: 10px; border-top: 1px solid var(--border); }
+  .chat-form input { flex: 1; min-width: 0; font: inherit; padding: 10px 14px; border-radius: 999px; border: 1px solid var(--border); background: var(--bg); color: var(--text); }
+  .chat-form input:focus { outline: 2px solid var(--accent); }
+  .chat-form button { width: 42px; height: 42px; flex: none; border: 0; border-radius: 50%; background: var(--dem); color: #fff; display: grid; place-items: center; cursor: pointer; }
+  .chat-form button svg { width: 18px; height: 18px; }
+  .chat-note { margin: 0; padding: 0 12px 10px; font-size: .72rem; color: var(--muted); text-align: center; }
+  @media (max-width: 560px) {
+    .chat { right: 12px; bottom: 12px; }
+    .chat-fab span { display: none; } .chat-fab { padding: 14px; }
+    .chat[data-open="true"] { left: 12px; top: calc(var(--topbar-h, 120px) + 8px); }
+    .chat-panel { width: 100%; height: 100%; }
+  }
+</style>

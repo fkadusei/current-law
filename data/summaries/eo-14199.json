@@ -1,0 +1,24 @@
+{
+ "headline": "Executive order pulls the US out of certain United Nations groups, ends funding to some, and orders a review of all international organizations.",
+ "what_it_does": "Based on its title, this order withdraws the United States from certain United Nations organizations and stops US funding to some of them. It also calls for a review of US support for all international organizations. The title does not say which organizations are affected or what the review might lead to.",
+ "who_it_affects": [
+  {
+   "group": "Certain United Nations organizations",
+   "how": "They would lose US membership and US funding, though the title does not name which ones."
+  },
+  {
+   "group": "Other international organizations the US belongs to or funds",
+   "how": "Their US support would be reviewed, which could lead to later changes."
+  },
+  {
+   "group": "Federal agencies that handle foreign affairs, such as the State Department",
+   "how": "They would likely carry out the withdrawals, stop the payments, and conduct the review."
+  }
+ ],
+ "when_it_takes_effect": "Signed February 4, 2025; the title does not give other dates or deadlines.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

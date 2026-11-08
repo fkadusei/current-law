@@ -1,0 +1,16 @@
+{
+ "headline": "President Bush extends an earlier executive order, Executive Order 13381, so it stays in effect for one more year.",
+ "what_it_does": "This order changes Executive Order 13381, which had already been amended before, so that it lasts one year longer than first planned. Without this change, the earlier order would have expired sooner. The title does not say what the earlier order covers, so its exact effects are not described here.",
+ "who_it_affects": [
+  {
+   "group": "Federal agencies and officials responsible for carrying out Executive Order 13381",
+   "how": "They must keep following the earlier order's directions for one more year."
+  }
+ ],
+ "when_it_takes_effect": "Signed June 29, 2006; it extends the earlier order's end date by one year.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

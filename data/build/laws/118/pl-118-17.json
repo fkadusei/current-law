@@ -3539,5 +3539,28 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "New law lets schools use certain federal education funds for programs like archery, hunting, shooting sports, and culinary arts.",
+  "what_it_does": "Before this law, federal elementary and secondary education funds could not be used to give anyone a dangerous weapon or training in using one. This law makes an exception for allowed program activities that give students instruction or enrichment, such as archery, hunting, other shooting sports, or culinary arts. Schools can now use these funds to buy or use such items for those programs.",
+  "who_it_affects": [
+   {
+    "group": "Public elementary and secondary schools",
+    "how": "They may use certain federal education funds for programs such as archery, hunting education, shooting sports, and culinary arts that involve items classified as dangerous weapons."
+   },
+   {
+    "group": "K-12 students",
+    "how": "They may have access to school programs in archery, hunting, shooting sports, or cooking that are paid for with federal education funds."
+   },
+   {
+    "group": "School districts and state education agencies",
+    "how": "They no longer face the earlier funding ban when they support these specific types of student programs."
+   }
+  ],
+  "when_it_takes_effect": "Enacted October 6, 2023",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

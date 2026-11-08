@@ -1,0 +1,20 @@
+{
+ "headline": "Executive order adds new limits on certain financial transactions involving Venezuela.",
+ "what_it_does": "This order, signed in 2018, bans certain additional kinds of transactions related to Venezuela. The word \"additional\" means it builds on earlier US restrictions on dealings with Venezuela. The title does not say which transactions are covered, so the details are not described here.",
+ "who_it_affects": [
+  {
+   "group": "US businesses and individuals that do business or invest in Venezuela",
+   "how": "They may be barred from certain transactions involving Venezuela that were allowed before."
+  },
+  {
+   "group": "The government of Venezuela and those dealing with it",
+   "how": "They may lose access to certain business or financial dealings with people and companies in the US."
+  }
+ ],
+ "when_it_takes_effect": "Signed May 21, 2018; the exact start date is not given in the source material.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

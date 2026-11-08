@@ -39,5 +39,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Law extends a CDC program on congenital heart disease research, tracking, and awareness through 2029 and requires a new HHS report and strategy.",
+  "what_it_does": "This law renews the National Congenital Heart Disease Research, Surveillance, and Awareness Program through fiscal year 2029. The program, run by the Centers for Disease Control and Prevention, collects data and runs education campaigns to better understand the causes and effects of congenital heart disease across different groups of people. The law also requires the Department of Health and Human Services to report on the awareness campaign and on its work to support health care workers who treat the condition, and to create a strategy to improve those efforts.",
+  "who_it_affects": [
+   {
+    "group": "People born with heart defects and their families",
+    "how": "The program that studies congenital heart disease and shares information about it continues through 2029."
+   },
+   {
+    "group": "Doctors, nurses, and other health care workers who treat congenital heart disease",
+    "how": "HHS must report on how it supports this workforce and develop a plan to improve that support."
+   },
+   {
+    "group": "Centers for Disease Control and Prevention and the Department of Health and Human Services",
+    "how": "These agencies keep running the program and must produce a new report and improvement strategy."
+   }
+  ],
+  "when_it_takes_effect": "Enacted November 21, 2024; the program is reauthorized through fiscal year 2029.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

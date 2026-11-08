@@ -1,0 +1,24 @@
+{
+ "headline": "Executive order aims to stop certain foreign countries from getting large amounts of Americans' sensitive personal data and government-related data.",
+ "what_it_does": "Based on its title, this order sets out federal action to block 'countries of concern' from accessing large collections of Americans' sensitive personal information. It also covers data connected to the US government. No summary was provided, so the specific rules, the countries covered, and the kinds of data included are not described here.",
+ "who_it_affects": [
+  {
+   "group": "Americans whose sensitive personal data is collected in bulk",
+   "how": "The order is meant to limit whether large sets of their personal information can reach certain foreign countries."
+  },
+  {
+   "group": "Companies that collect, sell, or share large amounts of personal data",
+   "how": "They may face new limits on sharing or selling that data with certain foreign countries or people tied to them."
+  },
+  {
+   "group": "US government agencies",
+   "how": "Data related to the government is also covered by the order's goal of preventing access by certain foreign countries."
+  }
+ ],
+ "when_it_takes_effect": "Signed February 28, 2024; the title does not give specific deadlines.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

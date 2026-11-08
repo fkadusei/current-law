@@ -1,0 +1,24 @@
+{
+ "headline": "President Clinton authorized calling members of the military's Selected Reserve up to active duty.",
+ "what_it_does": "This order allows members of the Selected Reserve of the U.S. Armed Forces to be ordered to active duty. The Selected Reserve includes part-time service members in the Reserve and National Guard who train regularly. The title does not say how many people could be called, for how long, or for what mission.",
+ "who_it_affects": [
+  {
+   "group": "Members of the Selected Reserve, including Reserve and National Guard units",
+   "how": "They could be ordered to leave their civilian lives and serve on full-time active duty."
+  },
+  {
+   "group": "Employers of reservists",
+   "how": "They could lose workers for a time while those workers serve on active duty."
+  },
+  {
+   "group": "Families of reservists",
+   "how": "They could be separated from family members who are called to serve."
+  }
+ ],
+ "when_it_takes_effect": "Signed December 8, 1995; the title does not state a separate start date.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

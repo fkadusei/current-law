@@ -39,5 +39,60 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "The EXPLORE Act sets new federal rules and programs for outdoor recreation on public lands, parks, forests, and waters.",
+  "what_it_does": "The law makes encouraging recreation a federal policy on public lands and waters and orders agencies to inventory recreation sites, build accessible trails, add shooting ranges, map bike trails, and study broadband needs. It simplifies permits for outfitters, guides, and groups, adds online and digital pass options, and lets small groups film or photograph in national parks without a permit. It also extends free park access for 4th graders through 2031, creates programs for veterans and gateway communities, and sets up new public-private partnerships.",
+  "who_it_affects": [
+   {
+    "group": "People with disabilities",
+    "how": "Agencies must assess accessibility, publish trail information, and build at least three new accessible trails and two accessible recreation sites in each region within seven years."
+   },
+   {
+    "group": "Outfitters, guides, and other recreation businesses",
+    "how": "Special recreation permits become easier to get, with online applications, a 60-day decision deadline, temporary two-year permits, and rules on insurance and liability waivers."
+   },
+   {
+    "group": "Veterans, service members, and Gold Star families",
+    "how": "Agencies must create outreach materials, name veteran liaisons, plan to increase their visits, and run a two-year pilot to hire veterans for conservation jobs."
+   },
+   {
+    "group": "4th graders and their families",
+    "how": "The Every Kid Outdoors program, which gives free access to federal lands and waters, is extended through FY2031."
+   },
+   {
+    "group": "Small groups filming or taking photos in national parks",
+    "how": "Groups of fewer than six people generally need no permit or fee, and groups of six to eight can get a free online authorization if they meet certain conditions."
+   },
+   {
+    "group": "Visitors to federal parks and forests",
+    "how": "They can buy the America the Beautiful Pass online and store it on a phone, pay fees online, and may see more parking, restrooms, maps, real-time crowd data, and new shooting ranges."
+   },
+   {
+    "group": "Boaters on federal waters",
+    "how": "Agencies may inspect and clean boats for invasive aquatic species, but cannot block boat access just because no inspection station exists."
+   },
+   {
+    "group": "Communities next to popular parks and forests",
+    "how": "Agencies must study local needs like housing and infrastructure, and local businesses can get training, loans, and loan guarantees to serve visitors."
+   },
+   {
+    "group": "Rock climbers",
+    "how": "Agencies must issue guidance recognizing climbing as an allowed use in wilderness areas, including rules for fixed anchors and keeping existing routes."
+   },
+   {
+    "group": "States, tribes, local governments, and nonprofits",
+    "how": "They can apply for park and battlefield grants, enter new cooperative and good neighbor agreements, and run or improve certain federal recreation facilities."
+   },
+   {
+    "group": "Campers in Arkansas's Ouachita National Forest",
+    "how": "The Forest Service must reopen existing campsites outside the floodplain within 30 days of the law and set up at least 27 new campsites in a recreation area closed to overnight camping since a deadly 2010 flood."
+   }
+  ],
+  "when_it_takes_effect": "Enacted January 4, 2025; many requirements have deadlines ranging from 30 days to 10 years after enactment.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

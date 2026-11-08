@@ -1,0 +1,20 @@
+{
+ "headline": "Executive order adjusting pay rates for certain federal workers, likely the yearly federal pay update for 2004.",
+ "what_it_does": "This order changes certain federal pay rates. Only the title is available, so the exact amounts and which pay scales changed are not given here. Orders with this title are usually the yearly update of federal pay tables, signed near the end of the year and taking effect in early January.",
+ "who_it_affects": [
+  {
+   "group": "Federal government employees",
+   "how": "Their pay rates may change under the adjusted pay tables."
+  },
+  {
+   "group": "Members of the uniformed services",
+   "how": "Their pay may be adjusted if they are covered by the order, as yearly pay orders often include military pay."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

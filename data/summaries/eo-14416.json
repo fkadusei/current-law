@@ -1,0 +1,20 @@
+{
+ "headline": "President Trump signed an executive order about the Smithsonian Institution; only the title is available, so its specific contents are unclear.",
+ "what_it_does": "This executive order concerns the Smithsonian Institution, the federally funded group of national museums and research centers. Its title says it aims to \"restore trust\" in the Smithsonian. No summary was provided, so the specific actions, rules, or deadlines it sets are not known from the available information.",
+ "who_it_affects": [
+  {
+   "group": "Smithsonian Institution leaders and staff",
+   "how": "The order is directed at the Smithsonian, but the specific changes it requires are not described in the available information."
+  },
+  {
+   "group": "Museum visitors",
+   "how": "People who visit Smithsonian museums could be affected if the order leads to changes in exhibits or programs, though no details are available."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

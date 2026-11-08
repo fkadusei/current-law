@@ -1,0 +1,20 @@
+{
+ "headline": "Bush order changes an earlier order that directed federal agencies to speed up reviews and permits for energy projects.",
+ "what_it_does": "This order amends Executive Order 13212, a 2001 order that told federal agencies to speed up their work on energy-related projects, such as permit decisions, and set up a task force to help. The title does not say exactly what was changed, and no summary was provided. The details of the amendment cannot be confirmed from the available information.",
+ "who_it_affects": [
+  {
+   "group": "Federal agencies that review or permit energy projects",
+   "how": "They remain under the earlier order's direction to speed up energy project decisions, with whatever changes this amendment made."
+  },
+  {
+   "group": "Companies seeking federal approval for energy projects",
+   "how": "They may be affected by changes to how the government speeds up reviews of their projects."
+  }
+ ],
+ "when_it_takes_effect": "Signed May 15, 2003; the exact effective date is not stated in the source material.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

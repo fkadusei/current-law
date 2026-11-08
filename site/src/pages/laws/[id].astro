@@ -23,6 +23,7 @@ const zeroNotes = Object.entries(zero).flatMap(([ch, ps]) => ps.map((p) => `No $
       <h1>{law.title}</h1>
       <div class="hero-tags">
         <span class="verdict">{passedByLabel(law)}</span>
+        {partyLine && <span class="oneparty">⚠ {partyLine}</span>}
         {law.president
           ? <a class={`signer-chip p-${law.president.party[0]}`} href={`${base}/presidents/${law.president.id}/`}>✍ Signed by {law.president.name}</a>
           : <span class="verdict">Became law over the President's veto</span>}
@@ -30,8 +31,8 @@ const zeroNotes = Object.entries(zero).flatMap(([ch, ps]) => ps.map((p) => `No $
       </div>
       {law.party_color && (
         <div class="yes-meter" aria-label={`Yes votes: ${law.party_color.d_yeas} Democratic, ${law.party_color.r_yeas} Republican`}>
-          <span class="ym-d" style={`flex:${law.party_color.d_yeas}`}>{law.party_color.d_yeas > 0 && `${law.party_color.d_yeas} Democratic yes`}</span>
-          <span class="ym-r" style={`flex:${law.party_color.r_yeas}`}>{law.party_color.r_yeas > 0 && `${law.party_color.r_yeas} Republican yes`}</span>
+          {law.party_color.d_yeas > 0 && <span class="ym-d" style={`flex:${law.party_color.d_yeas}`}>{`${law.party_color.d_yeas} Democratic yes`}</span>}
+          {law.party_color.r_yeas > 0 && <span class="ym-r" style={`flex:${law.party_color.r_yeas}`}>{`${law.party_color.r_yeas} Republican yes`}</span>}
         </div>
       )}
     </div>
@@ -110,6 +111,7 @@ const zeroNotes = Object.entries(zero).flatMap(([ch, ps]) => ps.map((p) => `No $
   .ctl-chip { padding: 6px 12px; border-radius: 999px; font-weight: 600; font-size: .9rem; border: 1px solid rgb(255 255 255 / .25); }
   .ctl-chip::before { content: ""; display: inline-block; width: 9px; height: 9px; border-radius: 50%; margin-right: 7px; }
   .ctl-chip.p-D::before { background: #6ea0ff; } .ctl-chip.p-R::before { background: #ff6b78; }
+  .oneparty { display: inline-flex; align-items: center; padding: 8px 14px; border-radius: 999px; font-weight: 700; font-size: .9rem; background: #fff3c4; color: #5a4300; box-shadow: 0 0 0 2px #e8b931; }
   .yes-meter { display: flex; gap: 3px; margin-top: 22px; max-width: 760px; height: 30px; border-radius: 10px; overflow: hidden; font-size: .8rem; font-weight: 700; }
   .yes-meter span { display: flex; align-items: center; padding: 0 10px; white-space: nowrap; overflow: hidden; min-width: 0; }
   .ym-d { background: var(--dem); } .ym-r { background: var(--rep); justify-content: flex-end; }

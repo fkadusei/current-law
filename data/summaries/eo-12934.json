@@ -1,0 +1,20 @@
+{
+ "headline": "Clinton order freezes property and adds sanctions tied to Bosnian Serb-controlled areas of Bosnia and Herzegovina.",
+ "what_it_does": "Based on its title, this order blocks (freezes) property connected to the Bosnian Serb-controlled areas of Bosnia and Herzegovina that falls under US control. It also adds other sanctions measures aimed at those areas. No summary was provided, so the exact details, such as which people, businesses, or transactions are covered, are not clear from the source.",
+ "who_it_affects": [
+  {
+   "group": "People and businesses tied to Bosnian Serb-controlled areas",
+   "how": "Their property and interests that are in the US or held by US persons would likely be frozen."
+  },
+  {
+   "group": "US companies and individuals",
+   "how": "They would likely be barred from certain dealings involving the blocked property or the Bosnian Serb-controlled areas."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

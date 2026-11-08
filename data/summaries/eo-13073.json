@@ -1,0 +1,16 @@
+{
+ "headline": "A 1998 executive order on preparing for the \"Year 2000\" computer date problem, known as Y2K.",
+ "what_it_does": "This order deals with the Year 2000 conversion, the work of fixing computer systems that stored years with only two digits and might misread 2000 as 1900. Only the title is available, so the specific steps, offices, and deadlines it set cannot be confirmed here.",
+ "who_it_affects": [
+  {
+   "group": "Federal agencies",
+   "how": "Agencies were likely the main focus, since executive orders mostly direct how the federal government operates, but the title alone does not list their duties."
+  }
+ ],
+ "when_it_takes_effect": "Signed February 4, 1998; the source material does not state a separate start date.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

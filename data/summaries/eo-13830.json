@@ -1,0 +1,20 @@
+{
+ "headline": "Executive order lets officials other than the President approve certain military medals and awards.",
+ "what_it_does": "This order hands off, or delegates, the President's power to approve certain military decorations to other officials. The title does not say which awards or which officials are covered, and no summary was provided.",
+ "who_it_affects": [
+  {
+   "group": "Members of the armed forces",
+   "how": "Certain medals they may receive could be approved by officials other than the President."
+  },
+  {
+   "group": "Defense and military department officials",
+   "how": "They may gain authority to approve certain military decorations."
+  }
+ ],
+ "when_it_takes_effect": "Likely on signing, April 20, 2018, but the source does not say.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

@@ -1,0 +1,24 @@
+{
+ "headline": "Executive order sets 2021 pay rates for federal civilian workers, military members, and other federal pay systems.",
+ "what_it_does": "This is the yearly order that sets pay rates for many federal jobs for the coming year. It updates pay tables for systems such as the General Schedule, the Foreign Service, and the uniformed military services. For 2021, it carried out an across-the-board raise of about 1% for most federal civilian workers and a 3% raise for military members. The official title gives few details, so specific amounts should be checked against the order's full text.",
+ "who_it_affects": [
+  {
+   "group": "Federal civilian employees",
+   "how": "Their base pay rates for 2021 were adjusted, generally by about 1%."
+  },
+  {
+   "group": "Members of the US military",
+   "how": "Their basic pay rates for 2021 were adjusted, generally by 3%."
+  },
+  {
+   "group": "Senior federal officials and other special pay systems",
+   "how": "Pay rates for groups such as executive-level officials, the Foreign Service, and some medical staff were set for 2021."
+  }
+ ],
+ "when_it_takes_effect": "Generally the first pay period starting on or after January 1, 2021",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

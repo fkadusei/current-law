@@ -1,0 +1,20 @@
+{
+ "headline": "A 1995 executive order links federal government purchasing to community right-to-know rules about chemical releases.",
+ "what_it_does": "Based on its title, this order connects how the federal government buys goods and services with community right-to-know rules. Those rules generally require public reporting of toxic chemicals released by facilities. No summary was provided, so the exact requirements are not described here.",
+ "who_it_affects": [
+  {
+   "group": "Companies with federal government contracts",
+   "how": "They may face chemical release reporting expectations tied to their federal contracts."
+  },
+  {
+   "group": "People living near industrial facilities",
+   "how": "They may gain more public information about chemicals released in their communities."
+  }
+ ],
+ "when_it_takes_effect": "Signed August 8, 1995; specific effective dates were not provided.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

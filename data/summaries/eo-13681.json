@@ -1,0 +1,20 @@
+{
+ "headline": "A 2014 executive order directing federal action to make consumer financial transactions more secure.",
+ "what_it_does": "This order, signed by President Obama, deals with the security of financial transactions made by consumers, such as card payments. Only the title was provided, so the specific steps it requires of federal agencies are not described here.",
+ "who_it_affects": [
+  {
+   "group": "Consumers who make card or electronic payments",
+   "how": "The order aims to make their financial transactions more secure, though the exact measures are not given in the source material."
+  },
+  {
+   "group": "Federal agencies",
+   "how": "Agencies are likely directed to take steps on payment security, but the specific duties are not described in the material provided."
+  }
+ ],
+ "when_it_takes_effect": "Signed October 17, 2014; any specific deadlines are not stated in the material provided.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

@@ -1,0 +1,20 @@
+{
+ "headline": "Federal agencies must tell the GAO when their rules are revoked, suspended, replaced, or otherwise stop being in effect.",
+ "what_it_does": "This law requires federal agencies to report to the Government Accountability Office (GAO) when one of their rules is made ineffective, such as being revoked, suspended, replaced, or amended. Each report must list the rule's title, its Federal Register citation, the date it was first sent to GAO, and a description of which parts are no longer in effect. The requirement lasts for six years.",
+ "who_it_affects": [
+  {
+   "group": "Federal agencies",
+   "how": "They must send GAO a report with specific details whenever one of their rules is made ineffective."
+  },
+  {
+   "group": "Government Accountability Office",
+   "how": "It will receive and keep track of information about agency rules that are no longer in effect."
+  }
+ ],
+ "when_it_takes_effect": "Enacted October 1, 2024; the requirement lasts for six years after that date.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

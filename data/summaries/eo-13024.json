@@ -1,0 +1,20 @@
+{
+ "headline": "Clinton order changes the rules for hiring students who finished approved federal career-related work-study programs into regular federal jobs.",
+ "what_it_does": "This order changes an earlier order, Executive Order 12015, which lets federal agencies hire students who complete approved career-related work-study programs into competitive civil service jobs. The title says it amends those rules, but no summary was provided, so the exact changes are not clear.",
+ "who_it_affects": [
+  {
+   "group": "Students in approved federal career-related work-study programs",
+   "how": "The rules for moving from their work-study program into a regular federal job may change."
+  },
+  {
+   "group": "Federal agencies",
+   "how": "Agencies may follow updated rules when hiring students who finish these programs."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

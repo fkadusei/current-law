@@ -1,0 +1,20 @@
+{
+ "headline": "Executive order changes how certain tariffs apply to goods brought into the United States.",
+ "what_it_does": "This order deals with tariffs, which are taxes on goods imported from other countries. The title says it addresses certain existing tariffs on imported items. No official summary was provided, so the exact tariffs covered and the specific changes are not described here.",
+ "who_it_affects": [
+  {
+   "group": "Businesses that import goods",
+   "how": "The order may change the tariff amounts they owe on some imported products."
+  },
+  {
+   "group": "Consumers who buy imported products",
+   "how": "Changes in tariffs can affect the prices of some imported goods."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

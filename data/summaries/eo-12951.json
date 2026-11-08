@@ -1,0 +1,20 @@
+{
+ "headline": "Clinton order sets rules for releasing photos taken by U.S. spy satellites to the public.",
+ "what_it_does": "This executive order deals with releasing images collected by the government's space-based intelligence satellites, which were normally kept secret. Based on its title, it sets out how some of this satellite imagery can be made public. It is widely linked to the release of older Cold War-era spy satellite photos, but no summary was provided to confirm the details.",
+ "who_it_affects": [
+  {
+   "group": "Researchers, historians, and scientists",
+   "how": "They may gain access to satellite images that were once classified."
+  },
+  {
+   "group": "Federal intelligence agencies",
+   "how": "They would have to follow the order's rules for reviewing and releasing satellite imagery."
+  }
+ ],
+ "when_it_takes_effect": "Likely upon signing on February 22, 1995",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

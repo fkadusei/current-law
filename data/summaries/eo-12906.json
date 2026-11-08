@@ -1,0 +1,20 @@
+{
+ "headline": "1994 executive order sets up a national system to coordinate how federal agencies collect and share geographic and map data.",
+ "what_it_does": "This order, based on its title, aims to coordinate how the federal government gathers geographic data, such as maps and location information. It sets up a framework called the National Spatial Data Infrastructure. The goal is to make this data easier to find and use and to cut down on duplicate collection. No official summary was provided, so specific requirements are not described here.",
+ "who_it_affects": [
+  {
+   "group": "Federal agencies that collect or use geographic and map data",
+   "how": "They are directed to coordinate how they gather geographic data and make it available."
+  },
+  {
+   "group": "People and organizations that use government map and location data",
+   "how": "They may find it easier to locate and get federal geographic data."
+  }
+ ],
+ "when_it_takes_effect": "Signed April 11, 1994; executive orders usually take effect when signed.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

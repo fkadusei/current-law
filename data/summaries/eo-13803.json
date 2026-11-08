@@ -1,0 +1,16 @@
+{
+ "headline": "Executive order brings back the National Space Council, a White House group that advises on space policy.",
+ "what_it_does": "This order revives the National Space Council, a group inside the executive branch that deals with US space policy. The title says the council is being brought back, which means it existed before and had stopped operating. No summary was provided, so details about who sits on the council and what exactly it must do are not covered here.",
+ "who_it_affects": [
+  {
+   "group": "Federal agencies involved in space activities",
+   "how": "These agencies may have their space work coordinated through the revived council."
+  }
+ ],
+ "when_it_takes_effect": "Signed June 30, 2017; executive orders usually take effect when signed.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

@@ -1,0 +1,20 @@
+{
+ "headline": "A 2020 executive order changing how the United States treats Hong Kong compared with mainland China.",
+ "what_it_does": "Based on its title, this order changes, or \"normalizes,\" how the US government treats Hong Kong under US policy. This appears to mean treating Hong Kong more like mainland China in place of the separate treatment it had received. No official summary was provided, so the specific rules, penalties, and agencies involved are not described here.",
+ "who_it_affects": [
+  {
+   "group": "US government agencies that handle policy toward Hong Kong",
+   "how": "They would carry out any changes the order makes to how Hong Kong is treated under US policy."
+  },
+  {
+   "group": "People and businesses dealing with Hong Kong",
+   "how": "They may face different US rules if Hong Kong loses separate treatment, though the details are not given in the source material."
+  }
+ ],
+ "when_it_takes_effect": "Signed July 14, 2020; the source material does not state a separate effective date.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

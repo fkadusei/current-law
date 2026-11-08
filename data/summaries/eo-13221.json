@@ -1,0 +1,20 @@
+{
+ "headline": "Executive order on reducing the power that federal government devices use while in standby mode.",
+ "what_it_does": "This order deals with devices that keep drawing electricity while switched off or in standby mode. Based on its title, it directs federal agencies to favor energy-efficient standby power devices when they buy equipment. No summary was provided, so specific rules and limits are not described here.",
+ "who_it_affects": [
+  {
+   "group": "Federal agencies",
+   "how": "They are likely directed to consider standby power use when buying electronic equipment."
+  },
+  {
+   "group": "Companies that sell electronics to the federal government",
+   "how": "Their products may need to meet energy-efficiency expectations for standby power to win government purchases."
+  }
+ ],
+ "when_it_takes_effect": "Signed July 31, 2001; the specific effective date is not stated in the provided material.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

@@ -1,0 +1,20 @@
+{
+ "headline": "President Obama waived certain Trade Act of 1974 rules for Belarus.",
+ "what_it_does": "This order uses the President's power to waive certain requirements of the Trade Act of 1974 for Belarus. That law includes rules, often called the Jackson-Vanik rules, that limit trade benefits and some US government financing for certain countries based on their emigration policies. A waiver like this usually lets those benefits or programs go ahead. No summary was provided, so the exact scope of this waiver is not clear from the title alone.",
+ "who_it_affects": [
+  {
+   "group": "US businesses that trade with or invest in Belarus",
+   "how": "They may gain access to US government trade financing or support that the Trade Act would otherwise limit."
+  },
+  {
+   "group": "The government of Belarus",
+   "how": "Belarus is treated as exempt from certain Trade Act requirements because of the waiver."
+  }
+ ],
+ "when_it_takes_effect": "Likely when signed on July 1, 2009, though the title does not state an effective date.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

@@ -1,0 +1,36 @@
+{
+ "headline": "Congress cancels a D.C. tax law, so D.C. income taxes again follow most of the 2025 federal tax changes.",
+ "what_it_does": "D.C. normally copies changes to federal tax law into its own tax code automatically. After the 2025 federal tax law (the 2025 reconciliation act) passed, the D.C. Council passed a temporary law that kept many of those federal changes out of D.C. taxes. This resolution cancels that D.C. law, so D.C. tax rules generally match the 2025 federal changes again. It also undoes other changes the D.C. law made, including restoring the D.C. child tax credit.",
+ "who_it_affects": [
+  {
+   "group": "D.C. taxpayers who take the standard deduction",
+   "how": "They get the larger standard deduction from the 2025 federal law and can deduct more cash gifts to charity on their D.C. taxes."
+  },
+  {
+   "group": "D.C. residents age 65 and older",
+   "how": "They can take an extra $6,000 deduction on their D.C. taxes."
+  },
+  {
+   "group": "D.C. workers who earn tips or overtime pay",
+   "how": "They can deduct qualified tips and qualified overtime pay on their D.C. taxes."
+  },
+  {
+   "group": "D.C. residents with car loans",
+   "how": "They can deduct qualified car loan interest on their D.C. taxes."
+  },
+  {
+   "group": "Businesses that pay D.C. taxes",
+   "how": "They can choose to write off 100% of certain nonresidential building costs right away and deduct 100% of research costs, going back to tax year 2022."
+  },
+  {
+   "group": "D.C. families with children",
+   "how": "The D.C. law's restoration of the D.C. child tax credit is undone."
+  }
+ ],
+ "when_it_takes_effect": "Signed into law February 18, 2026; the research cost deduction applies back to tax year 2022.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

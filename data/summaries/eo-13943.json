@@ -1,0 +1,20 @@
+{
+ "headline": "Executive order signed in August 2020 treats the WeChat messaging app as a threat under an existing national emergency over technology supply chains.",
+ "what_it_does": "The order names WeChat, a messaging and social media app, as a threat. It takes action under a national emergency already declared over the supply chain for information and communications technology and services. Only the title was provided, so the specific rules, bans, or penalties are not described here.",
+ "who_it_affects": [
+  {
+   "group": "People and businesses in the US who use WeChat",
+   "how": "The order targets WeChat, so its users may face limits, but the exact effects are not stated in the title."
+  },
+  {
+   "group": "Companies that provide information and communications technology and services",
+   "how": "The order takes added steps under a national emergency covering this industry's supply chain, though the details are not given here."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

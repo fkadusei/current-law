@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Native Americans",
  "sponsor": "Rep. Johnson, Dusty [R-SD-At Large]",
- "official_summary": null,
+ "official_summary": "<p><strong>Wounded Knee Massacre Memorial and Sacred Site Act</strong></p><p>This act directs the Department of the Interior to complete all actions necessary to place approximately 40 acres of land in Oglala Lakota County, South Dakota, into restricted fee status for the Oglala Sioux Tribe and the Cheyenne River Sioux Tribe. <em>Restricted fee status</em> refers to land that is owned by a tribe or tribal member but is subject to restrictions by the United States against alienation (i.e., sale or transfer) or encumbrance (e.g., liens, leases, or rights-of-way) by operation of law.</p><p>The act requires the land to be held and maintained as a memorial and sacred site, as outlined by the document titled<em> Covenant Between the Oglala Sioux Tribe and the Cheyenne River Sioux Tribe</em> and dated October 21, 2022. Further, it prohibits commercial development and gaming activity on the land.</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr165enr/uslm/BILLS-119hr165enr.xml"
@@ -3541,5 +3541,32 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "Law puts about 40 acres at Wounded Knee, South Dakota, into protected status for two Sioux tribes as a memorial and sacred site.",
+  "what_it_does": "The law directs the Department of the Interior to place about 40 acres of land in Oglala Lakota County, South Dakota, into restricted fee status for the Oglala Sioux Tribe and the Cheyenne River Sioux Tribe. Under this status, the tribes own the land, but federal law limits selling it, transferring it, or placing liens, leases, or rights-of-way on it. The land must be kept as a memorial and sacred site, following a 2022 agreement between the two tribes. Commercial development and gaming are not allowed on the land.",
+  "who_it_affects": [
+   {
+    "group": "Oglala Sioux Tribe",
+    "how": "The tribe will share ownership of the land, which must be kept as a memorial and sacred site under limits on selling or using it."
+   },
+   {
+    "group": "Cheyenne River Sioux Tribe",
+    "how": "The tribe will share ownership of the land, which must be kept as a memorial and sacred site under limits on selling or using it."
+   },
+   {
+    "group": "Department of the Interior",
+    "how": "The department must take all steps needed to place the land into restricted fee status."
+   },
+   {
+    "group": "Businesses and developers",
+    "how": "They cannot carry out commercial development or gaming on this land."
+   }
+  ],
+  "when_it_takes_effect": "Enacted December 19, 2025; the summary does not give a deadline for the Interior Department to finish the land transfer.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

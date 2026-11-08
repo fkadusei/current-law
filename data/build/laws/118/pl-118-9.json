@@ -3535,5 +3535,24 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "Federal agencies must post a short, plain-language summary of each proposed rule online and link to it in the rule notice.",
+  "what_it_does": "When a federal agency announces a proposed rule, the notice must now include a web address for a summary of that rule. The summary must be 100 words or fewer and written in plain language. It must be posted on regulations.gov.",
+  "who_it_affects": [
+   {
+    "group": "Federal agencies that write regulations",
+    "how": "They must write a plain-language summary of 100 words or fewer for each proposed rule, post it on regulations.gov, and include its web address in the rule notice."
+   },
+   {
+    "group": "Members of the public who follow or comment on proposed federal rules",
+    "how": "They can find a short, plain-language summary of each proposed rule on regulations.gov."
+   }
+  ],
+  "when_it_takes_effect": "The summary does not state a separate start date; the law was enacted July 25, 2023.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

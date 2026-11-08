@@ -1,0 +1,24 @@
+{
+ "headline": "Order requires federal agencies to offset the cost of administrative actions that would raise mandatory government spending.",
+ "what_it_does": "The order revives a budget rule called \"administrative PAYGO,\" short for \"pay as you go.\" Under it, an agency that wants to take an action on its own, without a new law, that would increase mandatory federal spending must also propose a way to cover that cost, such as savings elsewhere. The White House budget office (OMB) reviews these proposals and can grant exceptions. No abstract was provided, so this summary relies on the title and the order's general purpose.",
+ "who_it_affects": [
+  {
+   "group": "Federal agencies",
+   "how": "Agencies must identify cost offsets when proposing administrative actions that would increase mandatory spending."
+  },
+  {
+   "group": "White House Office of Management and Budget",
+   "how": "OMB is responsible for reviewing agency proposals and enforcing the offset requirement."
+  },
+  {
+   "group": "People who receive benefits from mandatory federal programs",
+   "how": "New administrative actions that would expand spending on these programs could face added review and require cuts or savings elsewhere."
+  }
+ ],
+ "when_it_takes_effect": "Signed October 10, 2019; it was later revoked in January 2021.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

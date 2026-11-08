@@ -3533,5 +3533,28 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "New law lets waterfowl hunters carry an electronic federal duck stamp instead of a paper one while hunting.",
+  "what_it_does": "Hunters of ducks and other waterfowl must have a federal duck stamp. This law lets them carry an electronic version of the stamp while hunting, instead of only a paper stamp. States must issue the electronic stamp at the time of purchase, and it is valid through the first June 30 after it is issued. After March 10 each year, the Department of the Interior must mail a paper stamp to each person who bought an electronic stamp for the season before.",
+  "who_it_affects": [
+   {
+    "group": "Waterfowl hunters",
+    "how": "They can show an electronic duck stamp while hunting and will later get a paper stamp from the federal government."
+   },
+   {
+    "group": "State wildlife agencies that sell duck stamps",
+    "how": "They must issue electronic stamps right when a hunter buys one."
+   },
+   {
+    "group": "Department of the Interior",
+    "how": "It must send paper stamps after March 10 each year to people who bought electronic stamps for the prior season."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted December 19, 2023; the summary does not give a separate start date.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

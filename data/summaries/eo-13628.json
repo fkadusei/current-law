@@ -1,0 +1,20 @@
+{
+ "headline": "A 2012 executive order put into effect certain Iran sanctions from a new law passed by Congress and added more sanctions on Iran.",
+ "what_it_does": "This order gives federal agencies the authority to carry out certain sanctions listed in the Iran Threat Reduction and Syria Human Rights Act of 2012. It also creates additional sanctions targeting Iran. The title does not say which people, companies, or activities are covered, so the details are not available here.",
+ "who_it_affects": [
+  {
+   "group": "People and companies doing business involving Iran",
+   "how": "They may face new limits or penalties under the sanctions this order puts into effect."
+  },
+  {
+   "group": "Federal agencies that enforce sanctions",
+   "how": "They are given authority to carry out the sanctions named in the 2012 law and in the order."
+  }
+ ],
+ "when_it_takes_effect": "Signed October 9, 2012; the exact start date is not stated in the title.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

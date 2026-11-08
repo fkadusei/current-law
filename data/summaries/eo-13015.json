@@ -1,0 +1,20 @@
+{
+ "headline": "Executive order creating a White House commission to study aviation safety and security.",
+ "what_it_does": "This order sets up a White House Commission on Aviation Safety and Security. Based on its title, the commission's job is to look at issues of air travel safety and security and advise the President. No other details were provided in the source material.",
+ "who_it_affects": [
+  {
+   "group": "Federal officials named to the commission",
+   "how": "They would be given the job of studying aviation safety and security for the White House."
+  },
+  {
+   "group": "Airline passengers and the aviation industry",
+   "how": "They could be affected later if the commission's advice leads to new rules, though this order itself only creates the commission."
+  }
+ ],
+ "when_it_takes_effect": "Signed August 22, 1996; executive orders usually take effect when signed.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

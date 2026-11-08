@@ -1,0 +1,44 @@
+{
+ "headline": "The yearly defense law sets Pentagon policies and spending limits for 2026, plus rules for the State Department, Coast Guard, and intelligence agencies.",
+ "what_it_does": "This law sets policies and authorizes spending for Defense Department programs, military construction, and Energy Department nuclear security work for fiscal year 2026. It approves buying aircraft, ships, and missiles, and sets how many active duty and reserve troops the military can have. It also sets rules on military health care and pay, defense contracting, cybersecurity, and artificial intelligence. It covers policies on Israel, Ukraine, and the Indo-Pacific, along with rules for the State Department workforce, the Coast Guard, merchant mariners, and intelligence agencies.",
+ "who_it_affects": [
+  {
+   "group": "Active duty and reserve service members",
+   "how": "The law sets troop strength levels and policies on military pay and health care."
+  },
+  {
+   "group": "Military families who use military health care",
+   "how": "The law changes policies for parts of the military health care system."
+  },
+  {
+   "group": "Defense contractors and companies that sell to the military",
+   "how": "The law sets contracting rules, including requirements about buying goods made in the US."
+  },
+  {
+   "group": "Communities near military bases",
+   "how": "The law authorizes specific military construction projects and extends some earlier ones."
+  },
+  {
+   "group": "State Department employees",
+   "how": "The law sets policies on how the State Department is organized and staffed."
+  },
+  {
+   "group": "Coast Guard members",
+   "how": "The law sets personnel and purchasing policies for the Coast Guard."
+  },
+  {
+   "group": "Merchant mariners and commercial vessel operators",
+   "how": "The law sets policies on mariner credentials, vessel safety, and oil spill response."
+  },
+  {
+   "group": "Workers at Energy Department nuclear security sites",
+   "how": "The law authorizes programs of the National Nuclear Security Administration and related agencies."
+  }
+ ],
+ "when_it_takes_effect": "Enacted December 18, 2025; covers fiscal year 2026 (October 1, 2025 to September 30, 2026), though individual provisions may have different dates.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

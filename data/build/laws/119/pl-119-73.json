@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Crime and Law Enforcement",
  "sponsor": "Rep. Fry, Russell [R-SC-7]",
- "official_summary": null,
+ "official_summary": "<p><strong>Trafficking Survivors Relief Act</strong></p><p>This act establishes a process to vacate convictions and expunge arrest records for certain criminal offenses committed by victims of human trafficking that directly result from or relate to having been a trafficking victim.</p><p>It defines the offenses eligible to be vacated or expunged and sets forth procedures for filing a motion.</p><p>The Government Accountability Office must assess the impact of this process, including the number of human trafficking survivors who file motions to vacate convictions or expunge records.</p><p>Under the act, U.S. Attorneys' Offices must report to the Department of Justice (DOJ)&nbsp;on the number of motions to vacate convictions or expunge arrest records that are filed. Additionally, the&nbsp;DOJ must report to Congress on&nbsp;professional training received by U.S. Attorneys on indicators of human trafficking during the preceding 12-month period.</p><p>The act permits certain grants for legal representation to be used to seek post-conviction relief.</p><p>Finally, the act allows a defendant to establish, as a defense,&nbsp;that the offenses were committed under duress&nbsp;by demonstrating that he or she was a victim of human trafficking at the time of the offense.</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr4323enr/uslm/BILLS-119hr4323enr.xml"
@@ -42,5 +42,36 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "New law lets human trafficking survivors ask federal courts to clear convictions and arrest records for crimes tied to being trafficked.",
+  "what_it_does": "The law sets up a process for trafficking survivors to ask a court to cancel (vacate) certain federal convictions or erase (expunge) arrest records when the offense directly resulted from or related to being trafficked. It also lets a person charged with a crime argue, as a defense, that they acted under duress because they were a trafficking victim at the time. Grants for legal help may now be used to seek this kind of relief after a conviction. The law also adds reporting and review requirements for federal prosecutors, the Justice Department, and the Government Accountability Office.",
+  "who_it_affects": [
+   {
+    "group": "Survivors of human trafficking with federal criminal records",
+    "how": "They can file a motion to have qualifying convictions vacated or arrest records expunged if the offense was tied to their trafficking."
+   },
+   {
+    "group": "People facing federal criminal charges who were trafficking victims",
+    "how": "They can claim as a defense that they committed the offense under duress because they were being trafficked at the time."
+   },
+   {
+    "group": "Legal aid providers that receive certain federal grants",
+    "how": "They may use grant money to represent trafficking survivors seeking post-conviction relief."
+   },
+   {
+    "group": "U.S. Attorneys' Offices and the Justice Department",
+    "how": "Prosecutors must report how many motions are filed, and the Justice Department must report to Congress on prosecutors' training in spotting signs of trafficking."
+   },
+   {
+    "group": "Government Accountability Office",
+    "how": "It must study the impact of the new process, including how many survivors file motions."
+   }
+  ],
+  "when_it_takes_effect": "Enacted January 23, 2026; the summary does not give a separate start date.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

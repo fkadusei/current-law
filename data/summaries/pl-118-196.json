@@ -1,0 +1,44 @@
+{
+ "headline": "New law changes VA disability exam rules, adds outreach to veterans, creates VA lawyer hiring programs, and adds a veterans appeals court judge.",
+ "what_it_does": "The law changes how the VA handles medical exams that veterans need for disability benefit claims, including which claim forms the VA must publish and what outside exam contractors must do. It requires the VA to study and report on travel pay for exams, support for government veterans service officers, and video hearings for appeals. It creates a law school internship at the Board of Veterans' Appeals and a loan repayment program for VA attorneys. It also extends a temporary increase in judges at the U.S. Court of Appeals for Veterans Claims and raises that number by one.",
+ "who_it_affects": [
+  {
+   "group": "Veterans filing disability benefit claims",
+   "how": "They will get outreach about which outside providers may contact them for exams and why they must share personal information to confirm their identity."
+  },
+  {
+   "group": "Veterans' legal representatives and claims agents",
+   "how": "Outside exam providers must send them copies of all exam scheduling messages sent to the veterans they represent."
+  },
+  {
+   "group": "Private doctors and contractors who do VA disability exams",
+   "how": "Their VA contracts must require them to share scheduling messages with a veteran's designated representative."
+  },
+  {
+   "group": "Private doctors filling out VA disability forms",
+   "how": "The VA no longer has to publish certain forms it decides cannot be properly completed by someone outside the VA."
+  },
+  {
+   "group": "Veterans who travel for disability exams, including those living abroad",
+   "how": "The VA must report on its efforts to pay them back for travel to exams inside or outside the United States."
+  },
+  {
+   "group": "First- and second-year law students",
+   "how": "They can apply for a new internship program at the Board of Veterans' Appeals."
+  },
+  {
+   "group": "Attorneys working for the VA",
+   "how": "Those who agree to work for the VA for at least three years may get help with student loans, courses, bar exam costs, or bar dues."
+  },
+  {
+   "group": "Veterans appealing benefit decisions",
+   "how": "The veterans claims appeals court keeps extra judges for longer and gets one more, and the VA must report on improving video hearings."
+  }
+ ],
+ "when_it_takes_effect": "Enacted December 23, 2024; the summary does not give specific start dates for each part.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

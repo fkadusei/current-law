@@ -36,5 +36,36 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "New law requires federal agencies to use job-specific skills tests, instead of mostly self-ratings, when hiring for most federal jobs.",
+  "what_it_does": "Federal agencies must use technical assessments, which are tests built for a specific job that let applicants show their actual skills and knowledge, to fill most competitive service jobs. These tests must be based on a study of the job and cannot rely mainly on applicants rating themselves. Agencies that find such tests impracticable must explain why in the job posting. The Office of Personnel Management (OPM) must plan the switch, review whether college or degree requirements for some jobs are justified, and report to Congress on progress and on hiring data by applicant demographics.",
+  "who_it_affects": [
+   {
+    "group": "People applying for federal government jobs",
+    "how": "Many applicants will be judged by job-specific tests of their skills rather than mainly by self-rated questionnaires."
+   },
+   {
+    "group": "Federal agencies and their hiring staff",
+    "how": "Agencies must favor technical assessments, may use subject matter experts and talent teams to build them, and must explain in job postings when they use other methods."
+   },
+   {
+    "group": "Applicants for scientific, technical, or professional federal jobs",
+    "how": "OPM must review whether minimum education requirements for these jobs are justified and recommend changes to Congress."
+   },
+   {
+    "group": "Office of Personnel Management (OPM)",
+    "how": "OPM must create a transition plan, study sharing tests across agencies, update records systems, and publish yearly progress and hiring data reports."
+   },
+   {
+    "group": "Government Accountability Office (GAO)",
+    "how": "GAO must report to Congress within three years on how the law is being carried out and suggest hiring improvements."
+   }
+  ],
+  "when_it_takes_effect": "Enacted December 23, 2024. Agencies must favor technical assessments right away; OPM reports are due within one year, the transition plan within 18 months, and full implementation within three years (by December 2027).",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

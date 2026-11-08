@@ -1,0 +1,24 @@
+{
+ "headline": "A 2014 executive order let the military call members of the Selected Reserve and some Individual Ready Reserve members to active duty.",
+ "what_it_does": "This order gave the military authority to order certain reserve troops to active duty. It covers members of the Selected Reserve and some members of the Individual Ready Reserve. The title does not say which mission the troops were needed for, how many could be called, or for how long.",
+ "who_it_affects": [
+  {
+   "group": "Members of the Selected Reserve of the Armed Forces",
+   "how": "They could be ordered to leave civilian life and serve on active duty."
+  },
+  {
+   "group": "Certain members of the Individual Ready Reserve",
+   "how": "Some of these former active-duty or reserve service members could be recalled to active duty."
+  },
+  {
+   "group": "Families and civilian employers of called-up reservists",
+   "how": "They could face the reservist's absence from home or work while the person serves on active duty."
+  }
+ ],
+ "when_it_takes_effect": "Signed October 16, 2014; the title does not give a separate start date.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

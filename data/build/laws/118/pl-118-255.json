@@ -36,5 +36,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A federal law names a Hawaii post office building in Captain Cook after Army First Lieutenant John Kuulei Kauhaihao.",
+  "what_it_does": "This act officially names the U.S. Postal Service facility at 82-6110 Mamalahoa Highway in Captain Cook, Hawaii, the Army 1st Lt. John Kuulei Kauhaihao Post Office Building. It changes only the building's official name and does not change postal services, rules, or costs.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law was enacted on January 4, 2025.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

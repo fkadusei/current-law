@@ -1,0 +1,24 @@
+{
+ "headline": "President Biden canceled a 2017 executive order on expanding apprenticeship programs.",
+ "what_it_does": "This order revokes Executive Order 13801, a 2017 order titled \"Expanding Apprenticeships in America.\" That earlier order had set up a path for industry groups and others to create and recognize their own apprenticeship programs, separate from the existing government-registered system. With the 2017 order canceled, federal agencies are told to review and consider rolling back rules and policies that were based on it.",
+ "who_it_affects": [
+  {
+   "group": "Businesses, trade groups, and other organizations running industry-recognized apprenticeship programs",
+   "how": "The federal policy that supported their separate apprenticeship programs is withdrawn, and related rules may be rolled back."
+  },
+  {
+   "group": "Workers in or considering apprenticeship programs",
+   "how": "The types of federally recognized apprenticeship programs open to them may change as agencies carry out the order."
+  },
+  {
+   "group": "The U.S. Department of Labor and other federal agencies",
+   "how": "They must review and possibly undo rules and actions taken under the 2017 order."
+  }
+ ],
+ "when_it_takes_effect": "Signed February 17, 2021; agency rule changes follow later.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

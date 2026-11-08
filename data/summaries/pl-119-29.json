@@ -1,0 +1,36 @@
+{
+ "headline": "New law lets the IRS delay federal tax deadlines after state-declared disasters and lengthens the automatic disaster extension to 120 days.",
+ "what_it_does": "The IRS could already push back tax deadlines after federally declared disasters. This law lets the IRS also delay deadlines after a state-declared disaster, such as a fire, flood, explosion, or other natural catastrophe, if the governor (or the D.C. mayor) asks in writing. Delayed deadlines can include filing returns, paying taxes, making retirement plan contributions, and tax assessments and collections. The law also raises the automatic deadline extension in federally declared disaster areas from 60 days to 120 days.",
+ "who_it_affects": [
+  {
+   "group": "People and businesses in areas hit by state-declared disasters",
+   "how": "They may get more time to file and pay federal taxes if their governor requests it and the IRS approves."
+  },
+  {
+   "group": "People whose home, business, or tax records are in a federally declared disaster area",
+   "how": "Their automatic extension for federal tax deadlines grows from 60 days to 120 days."
+  },
+  {
+   "group": "Disaster relief workers",
+   "how": "Those who qualify for the automatic extension now get 120 days instead of 60."
+  },
+  {
+   "group": "People injured in a federally declared disaster and families of those killed",
+   "how": "The automatic extension for their federal tax deadlines grows from 60 days to 120 days."
+  },
+  {
+   "group": "State governors, the D.C. mayor, and leaders of U.S. territories",
+   "how": "They can now formally ask the IRS to delay federal tax deadlines after a disaster in their state or territory."
+  },
+  {
+   "group": "Residents of D.C., Puerto Rico, the U.S. Virgin Islands, Guam, American Samoa, and the Northern Mariana Islands",
+   "how": "They are covered by the new state-declared disaster relief the same way state residents are."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on July 24, 2025. The summary does not give a separate start date.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

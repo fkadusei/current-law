@@ -1,0 +1,20 @@
+{
+ "headline": "Updates two older foreign intelligence surveillance orders to reflect the new Director of National Intelligence position created in 2004.",
+ "what_it_does": "This order changes two earlier executive orders, 12139 and 12949. Those orders deal with foreign intelligence electronic surveillance and physical searches under the Foreign Intelligence Surveillance Act. The changes bring them in line with the creation of the Office of the Director of National Intelligence, likely by updating which officials can take part in approving these surveillance requests. The title gives no further detail.",
+ "who_it_affects": [
+  {
+   "group": "Senior intelligence officials, including the Director of National Intelligence",
+   "how": "Their roles in the foreign intelligence surveillance and search process are updated to match the new intelligence leadership structure."
+  },
+  {
+   "group": "Federal agencies that request foreign intelligence surveillance or searches",
+   "how": "They follow the updated list of officials involved in these requests."
+  }
+ ],
+ "when_it_takes_effect": "2005-07-15",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

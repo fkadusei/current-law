@@ -1,0 +1,20 @@
+{
+ "headline": "Executive order expands US sanctions by allowing the government to freeze the property of more people and groups tied to the situation in Belarus.",
+ "what_it_does": "Based on its title, this order adds to existing US sanctions related to Belarus. It lets the US government block, or freeze, the property and assets in the US of additional people and organizations found to be contributing to the situation in Belarus. The material provided does not list which people, groups, or activities are covered.",
+ "who_it_affects": [
+  {
+   "group": "People and organizations linked to the situation in Belarus",
+   "how": "Those named under the order could have their property and assets under US control frozen."
+  },
+  {
+   "group": "US businesses, banks, and individuals",
+   "how": "They would generally be barred from dealing with the property of anyone sanctioned under the order."
+  }
+ ],
+ "when_it_takes_effect": "Signed August 9, 2021; the exact effective date is not stated in the provided material.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Native Americans",
  "sponsor": "Rep. Randall, Emily [D-WA-6]",
- "official_summary": null,
+ "official_summary": "<p><strong>Lower Elwha Klallam Tribe Project Lands Restoration Act</strong></p><p>This bill takes approximately 1,082.63 acres of specified lands in Washington into trust for the benefit of the Lower&nbsp;Elwha Klallam Tribe. Land taken into trust shall be part of the tribe's reservation.</p><p>Further, the bill prohibits gaming on the land taken into trust.</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2388enr/uslm/BILLS-119hr2388enr.xml"
@@ -45,5 +45,24 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Law places about 1,083 acres in Washington state into federal trust for the Lower Elwha Klallam Tribe and bans gaming there.",
+  "what_it_does": "The federal government takes about 1,082.63 acres of specified land in Washington state into trust for the Lower Elwha Klallam Tribe. The land becomes part of the tribe's reservation. The law also bans gaming, such as casinos, on this land.",
+  "who_it_affects": [
+   {
+    "group": "Members of the Lower Elwha Klallam Tribe",
+    "how": "Their tribe gains about 1,083 acres of land held in trust as part of its reservation."
+   },
+   {
+    "group": "People who might want to run or use gaming businesses on this land",
+    "how": "Gaming is not allowed on the land taken into trust."
+   }
+  ],
+  "when_it_takes_effect": "Enacted October 20, 2026; the summary does not give a separate start date.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

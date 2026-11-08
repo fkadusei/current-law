@@ -4359,5 +4359,60 @@
   "House": "R",
   "Senate": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "Annual defense law sets military policy and spending limits for 2025, raises junior enlisted pay, and covers many other agencies and programs.",
+  "what_it_does": "This yearly defense law authorizes spending levels and sets rules for the Defense Department, military construction, nuclear weapons programs, intelligence agencies, the State Department, and other agencies for fiscal year 2025. It does not itself provide money; that comes from separate spending bills. It changes military pay and benefits, sets troop numbers, limits or requires certain weapons purchases, and adds restrictions on dealings with China and other rival countries. It also includes many smaller measures, from passport process changes to a wireless spectrum auction.",
+  "who_it_affects": [
+   {
+    "group": "Junior enlisted service members (E-1 to E-4)",
+    "how": "They get a 10% basic pay raise starting April 1, 2025, on top of the 4.5% raise for all service members that started January 1, 2025."
+   },
+   {
+    "group": "Lower-income military families",
+    "how": "More families can get the Basic Needs Allowance because the income limit rises from 150% to 200% of the federal poverty guideline."
+   },
+   {
+    "group": "Military families using TRICARE",
+    "how": "TRICARE can no longer cover gender dysphoria treatments that could cause sterilization for children under 18."
+   },
+   {
+    "group": "Federal workers who serve in the Guard or Reserve",
+    "how": "Their paid military leave rises from 15 to 20 days a year."
+   },
+   {
+    "group": "Military spouses",
+    "how": "The Defense Department must run a paid fellowship program placing military spouses with employers."
+   },
+   {
+    "group": "Veterans and departing service members",
+    "how": "The Small Business Administration must offer entrepreneurship training, the VA must keep a toll-free helpline, and certain older veterans who never registered for the draft can still get federal jobs."
+   },
+   {
+    "group": "Defense contractors and suppliers",
+    "how": "They face new limits on ties to China, Huawei, and foreign-controlled shipyards, plus stricter rules on foreign specialty metals."
+   },
+   {
+    "group": "Colleges and universities",
+    "how": "They cannot get defense research money for basic research done with schools in China, Russia, and certain other countries, unless a waiver is granted."
+   },
+   {
+    "group": "Small telecommunications companies",
+    "how": "A $3.08 billion program, repaid from a wireless spectrum auction, will help them replace untrusted network equipment."
+   },
+   {
+    "group": "People applying for U.S. passports",
+    "how": "The State Department must work to speed up passport processing, may let more notaries accept applications, and should build a mobile app for tracking applications."
+   },
+   {
+    "group": "Defense Department job seekers",
+    "how": "For up to one year, the department cannot create or fill positions focused on diversity, equity, and inclusion."
+   }
+  ],
+  "when_it_takes_effect": "Enacted December 23, 2024; most provisions apply to fiscal year 2025, with some dates differing (for example, the junior enlisted pay raise on April 1, 2025).",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

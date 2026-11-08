@@ -39,5 +39,24 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "New law requires the Interior Department to consult health officials when deciding which minerals count as \"critical minerals.\"",
+  "what_it_does": "The Department of the Interior keeps an official list of critical minerals, elements, substances, and materials. This law requires Interior to include the Department of Health and Human Services (HHS) in the consultations it holds when deciding what goes on that list. The summary does not describe any new funding, penalties, or direct requirements on businesses or the public.",
+  "who_it_affects": [
+   {
+    "group": "Department of the Interior",
+    "how": "It must now include HHS when it consults with other agencies about critical mineral designations."
+   },
+   {
+    "group": "Department of Health and Human Services",
+    "how": "It gains a formal role in giving input on which minerals and materials are designated as critical."
+   }
+  ],
+  "when_it_takes_effect": "Enacted January 4, 2025; the summary does not give a separate start date.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

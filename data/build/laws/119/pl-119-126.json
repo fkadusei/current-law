@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Public Lands and Natural Resources",
  "sponsor": "Rep. Crane, Elijah [R-AZ-2]",
- "official_summary": null,
+ "official_summary": "<p>This bill directs the Forest Service to convey specified property to Gila County, Arizona, upon the county's submission of a written request for such conveyance. The property, identified as the Gila County Area, consists of approximately 232.9 acres of National Forest System land located in the Tonto National Forest in Arizona.</p><p>The county must use the land for the purposes of serving and supporting veterans.&nbsp;If any land conveyed under this bill ceases to be used for such purpose, all right, title, and interest in and to the land shall revert to the United States, at the discretion of the Forest Service.</p><p>The conveyance&nbsp;must be made with a&nbsp;quitclaim deed and without consideration (value, such as payment, provided in exchange for the property).</p><p>The Forest Service&nbsp;must not be required to provide any covenant or warranty for the land and improvements conveyed to the county under such conveyance.</p><p>As a condition of the conveyance, the county must pay all the costs associated with the conveyance, including any (1) surveys, (2)&nbsp;environmental analysis or resource survey required under federal law, and (3) analysis required to comply with certain provisions of the National Historic Preservation Act.</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr837enr/uslm/BILLS-119hr837enr.xml"
@@ -39,5 +39,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Law transfers about 233 acres of Tonto National Forest land in Arizona to Gila County, free of charge, for use serving veterans.",
+  "what_it_does": "The Forest Service must give about 232.9 acres of federal land, including the Pleasant Valley Ranger District administrative site, to Gila County, Arizona, once the county asks in writing. The county does not pay for the land, but it must pay all transfer costs, such as surveys, environmental reviews, and historic preservation reviews. The land is given \"as is,\" with no promises about its condition. The county must use it to serve and support veterans, or the Forest Service may take it back.",
+  "who_it_affects": [
+   {
+    "group": "Gila County, Arizona government",
+    "how": "The county can receive the land for free but must pay the costs of the transfer and use the land only for veterans' purposes."
+   },
+   {
+    "group": "Veterans in the Gila County area",
+    "how": "The land must be used for purposes that serve and support veterans."
+   },
+   {
+    "group": "U.S. Forest Service",
+    "how": "The agency must hand over the property when the county requests it and may reclaim the land if it stops being used for veterans."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on October 20, 2026; the transfer happens after Gila County submits a written request.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

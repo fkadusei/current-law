@@ -1,0 +1,20 @@
+{
+ "headline": "A 2012 executive order by President Obama allowed the U.S. government to impose more sanctions related to Iran.",
+ "what_it_does": "This order gave the federal government power to impose additional sanctions connected to Iran, on top of sanctions already in place. The title does not say exactly who could be targeted or what penalties apply. Sanctions like these usually limit access to the U.S. financial system or block certain business dealings.",
+ "who_it_affects": [
+  {
+   "group": "Iran's government and Iranian businesses",
+   "how": "They could face new limits on economic and financial dealings tied to the United States."
+  },
+  {
+   "group": "Foreign companies and banks that do business with Iran",
+   "how": "They could be penalized under the new sanctions, depending on how the order defines covered activity."
+  }
+ ],
+ "when_it_takes_effect": "Signed July 30, 2012; the exact effective date is not stated in the provided material.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

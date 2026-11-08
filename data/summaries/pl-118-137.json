@@ -1,0 +1,24 @@
+{
+ "headline": "Law widens the ban on US courts and agencies honoring trademarks the Cuban government took from their original owners.",
+ "what_it_does": "Before this law, US courts could not enforce or approve trademarks confiscated by the Cuban government when a Cuban national claimed them in the US. This law extends that ban to federal executive branch agencies and to anyone claiming such a trademark, if the mark was used with a confiscated business or asset. The ban does not apply if the original owner or their successor clearly agrees. It also applies only if the party claiming the mark knew or should have known, when it got the rights, that the mark matched or closely resembled one tied to a confiscated business or asset.",
+ "who_it_affects": [
+  {
+   "group": "Companies and people holding US trademark rights tied to businesses or assets the Cuban government confiscated",
+   "how": "US courts and federal agencies may refuse to enforce or approve those trademarks, even if the holder is not a Cuban national."
+  },
+  {
+   "group": "Original owners of confiscated Cuban businesses and their successors",
+   "how": "Their consent is now required before such a trademark can be enforced or approved."
+  },
+  {
+   "group": "Federal executive branch agencies that handle trademarks",
+   "how": "They are now barred, like the courts, from enforcing or validating covered confiscated trademarks."
+  }
+ ],
+ "when_it_takes_effect": "Enacted December 1, 2024; the summary does not give a separate start date.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Public Lands and Natural Resources",
  "sponsor": "Rep. Thompson, Bennie G. [D-MS-2]",
- "official_summary": null,
+ "official_summary": "<p><strong>Vicksburg National Military Park Boundary Modification Act</strong></p><p>This bill directs the Department of the Interior to convey approximately 7 acres of specified land (in two parcels) within the Vicksburg National Military Park to Mississippi for an interpretive center.</p><p>The conveyed land must&nbsp;facilitate public access to&nbsp;the park, may not be used in a manner that adversely impacts the park's resources or visitor experience, and remains subject to any use restriction&nbsp;that Interior determines is&nbsp;appropriate.</p><p>Interior must convey the land by quitclaim deed and without consideration, such as payment. Upon the conveyance of the land, Interior must modify the park's boundary to exclude the land.</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr4467enr/uslm/BILLS-119hr4467enr.xml"
@@ -39,5 +39,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Law transfers about 7 acres of Vicksburg National Military Park land to Mississippi, free of charge, for an interpretive center.",
+  "what_it_does": "The Department of the Interior must give about 7 acres of land, in two parcels, inside Vicksburg National Military Park to the state of Mississippi for an interpretive center. The land is given at no cost through a quitclaim deed. The land must help the public get into the park, cannot be used in ways that harm the park's resources or visitors' experience, and stays subject to any use limits Interior sets. After the transfer, the park's official boundary will be redrawn to leave out this land.",
+  "who_it_affects": [
+   {
+    "group": "State of Mississippi",
+    "how": "The state receives about 7 acres of former park land at no cost to build an interpretive center, subject to use limits."
+   },
+   {
+    "group": "Visitors to Vicksburg National Military Park",
+    "how": "The transferred land must be used to make it easier for the public to get into the park and may not harm the visitor experience."
+   },
+   {
+    "group": "National Park Service (Department of the Interior)",
+    "how": "The agency must transfer the land, set any use restrictions, and change the park's boundary to exclude it."
+   }
+  ],
+  "when_it_takes_effect": "Enacted October 20, 2026; the boundary change happens once the land is transferred, and no specific deadline is stated in the summary.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Commerce",
  "sponsor": "Sen. Ernst, Joni [R-IA]",
- "official_summary": null,
+ "official_summary": "<p><strong>Small Business Innovation and Economic Security Act</strong></p><p>This act reauthorizes through FY2031 and modifies the Small Business Innovation Research (SBIR) program, the Small Business Technology Transfer (STTR) program, and related pilot programs.&nbsp;(The SBIR and STTR programs are administered by various federal agencies and provide competitive awards for domestic small businesses to conduct research and development projects that have the potential for commercialization.)</p><p>Specifically, the act expands the requirements for federal agencies administering these programs to evaluate the security risks of the small businesses that apply for awards under the programs. If an agency denies an application for security reasons, the agency must provide the small business with&nbsp;the basis for such determination.</p><p>Further, each agency must set a maximum number of proposals per fiscal year that a small business concern may submit in response to Phase I and Phase II solicitations.</p><p>The act expands the training requirements for agencies' contracting officers and acquisition workforce with respect to Phase III (commercialization of technologies) awards under the&nbsp;SBIR and STTR programs.</p><p>The act also establishes strategic breakthrough allocations for critical technology areas. These are additional Phase II SBIR and STTR awards to&nbsp;small businesses that demonstrate an effective technology and receive matching funds.</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-119s3971enr/uslm/BILLS-119s3971enr.xml"
@@ -3521,5 +3521,32 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "Extends two federal small business research grant programs through 2031 and adds security reviews, proposal limits, and new larger awards for key technologies.",
+  "what_it_does": "This law renews the Small Business Innovation Research (SBIR) and Small Business Technology Transfer (STTR) programs, plus related pilot programs, through fiscal year 2031. These programs give competitive awards to U.S. small businesses to do research that could become products. The law expands security-risk reviews of applicants, caps how many proposals a business can submit each year, and adds extra Phase II awards for critical technology areas when a business shows its technology works and has matching funds.",
+  "who_it_affects": [
+   {
+    "group": "Small businesses that apply for SBIR or STTR research awards",
+    "how": "They will face broader security-risk reviews, must be told why if they are denied for security reasons, and will be limited in how many Phase I and Phase II proposals they can submit each year."
+   },
+   {
+    "group": "Small businesses working on critical technologies",
+    "how": "They can compete for additional Phase II awards if they show their technology is effective and secure matching funds."
+   },
+   {
+    "group": "Federal agencies that run SBIR and STTR programs",
+    "how": "They must carry out expanded security reviews, explain security-based denials, and set yearly caps on proposals per business."
+   },
+   {
+    "group": "Federal contracting officers and acquisition staff",
+    "how": "They must receive more training on Phase III awards, which help turn research into products the government can buy."
+   }
+  ],
+  "when_it_takes_effect": "Enacted April 13, 2026; the programs are reauthorized through fiscal year 2031.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

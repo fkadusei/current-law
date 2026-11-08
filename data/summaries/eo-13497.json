@@ -1,0 +1,20 @@
+{
+ "headline": "Cancels two earlier executive orders that had changed how the White House reviews new federal rules before agencies issue them.",
+ "what_it_does": "This order revokes two earlier executive orders, issued in 2002 and 2007, that had changed the White House process for reviewing federal regulations. It returns that review process to the version set up in 1993 under Executive Order 12866. The title gives few details, so this summary covers only that basic change.",
+ "who_it_affects": [
+  {
+   "group": "Federal agencies that write regulations",
+   "how": "They follow the review rules as they stood before the 2002 and 2007 changes when preparing new rules."
+  },
+  {
+   "group": "White House Office of Management and Budget staff who review regulations",
+   "how": "Their review of agency rules follows the earlier 1993 process instead of the revised one."
+  }
+ ],
+ "when_it_takes_effect": "Upon signing, January 30, 2009",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

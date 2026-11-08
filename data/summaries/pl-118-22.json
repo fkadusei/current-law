@@ -1,0 +1,52 @@
+{
+ "headline": "Temporary spending law kept the federal government open into early 2024 and extended the 2018 farm bill and several health programs.",
+ "what_it_does": "This law kept federal agencies funded, mostly at 2023 levels, to avoid a shutdown. Agencies covered by four spending bills, including agriculture, veterans, energy, and transportation and housing, were funded through January 19, 2024, and most others through February 2, 2024. It also extended the 2018 farm bill programs through September 30, 2024, and continued several health, Medicaid, Medicare, and child welfare programs into January 2024.",
+ "who_it_affects": [
+  {
+   "group": "Federal employees and people who use federal services",
+   "how": "Agencies stayed funded, so a government shutdown set for November 17, 2023, did not happen."
+  },
+  {
+   "group": "Farmers, including dairy, crop, sugar, wool, sheep, and organic producers",
+   "how": "Farm bill support programs, such as Price Loss Coverage and Dairy Margin Coverage, were extended through the 2024 crop year or the end of 2024."
+  },
+  {
+   "group": "Food banks and the people they serve",
+   "how": "The Emergency Food Assistance Program, which supplies food to food banks, was extended through September 2024."
+  },
+  {
+   "group": "Patients at community health centers and health workers in shortage areas",
+   "how": "Funding for community health centers, the National Health Service Corps, and teaching health centers was extended through January 19, 2024."
+  },
+  {
+   "group": "People with type 1 diabetes and Native American communities",
+   "how": "Special diabetes research and treatment programs, including one for American Indians, were funded through January 19, 2024."
+  },
+  {
+   "group": "Hospitals that serve many low-income patients",
+   "how": "Planned cuts to extra Medicaid payments for these hospitals were delayed until January 20, 2024."
+  },
+  {
+   "group": "Doctors and clinical labs paid by Medicare",
+   "how": "Certain Medicare payment adjustments for doctors were extended, and lab reporting rules and related payment cuts were delayed until 2025."
+  },
+  {
+   "group": "Families and children in the child welfare system",
+   "how": "Grants to states and tribes to keep families together and support adoption or reunification were funded through January 19, 2024."
+  },
+  {
+   "group": "Students at historically Black land-grant colleges",
+   "how": "Funding was provided for scholarships for students pursuing careers in food and agricultural sciences."
+  },
+  {
+   "group": "Student loan borrowers",
+   "how": "The Education Department was given flexibility to keep student loan servicing running."
+  }
+ ],
+ "when_it_takes_effect": "Enacted November 17, 2023; funding runs through January 19, 2024, or February 2, 2024, depending on the agency, and farm bill extensions run through September 30, 2024.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

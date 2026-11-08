@@ -1,0 +1,20 @@
+{
+ "headline": "A 2008 order changes a 1943 rule so federal agencies may, but are no longer required to, use Social Security numbers to identify people.",
+ "what_it_does": "This order updates Executive Order 9397 from 1943, which had told federal agencies to use Social Security numbers to identify people in their records. The change makes using these numbers optional instead of required. It also lets agencies use other ways to identify people, with the aim of cutting down on unneeded use of Social Security numbers. The title alone gives limited detail, so finer points are not covered here.",
+ "who_it_affects": [
+  {
+   "group": "Federal agencies",
+   "how": "They are no longer required to use Social Security numbers as the main way to identify people in their records and may use other identifiers."
+  },
+  {
+   "group": "People whose information is kept in federal records, such as federal workers, benefit recipients, and members of the public",
+   "how": "Their Social Security numbers may be collected or used less often if agencies switch to other identifiers."
+  }
+ ],
+ "when_it_takes_effect": "Signed November 18, 2008; executive orders usually take effect when signed.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

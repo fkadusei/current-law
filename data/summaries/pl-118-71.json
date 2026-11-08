@@ -1,0 +1,28 @@
+{
+ "headline": "New law sets up regular inspections of federal prisons and creates an ombudsman to take complaints about the Bureau of Prisons.",
+ "what_it_does": "The Justice Department's Inspector General must inspect federal prisons based on risk, with higher-risk facilities inspected more often, and inspections can be announced or surprise visits. The law also sets up an ombudsman in the Justice Department who can take complaints, look into problems, and recommend actions. The Bureau of Prisons may not retaliate against anyone who starts or causes an inspection or investigation under this law. Non-custody prison staff must spend 90% of their work week doing their main jobs.",
+ "who_it_affects": [
+  {
+   "group": "People held in federal prisons",
+   "how": "They can bring complaints to a new ombudsman and are protected from retaliation for using the law's complaint and inspection process."
+  },
+  {
+   "group": "Families and representatives of people in federal prisons",
+   "how": "They can contact the ombudsman and will be informed about its role."
+  },
+  {
+   "group": "Federal Bureau of Prisons staff and facilities",
+   "how": "Facilities face regular and possibly unannounced inspections, and non-custody employees must spend 90% of their work week in their primary positions."
+  },
+  {
+   "group": "Justice Department Office of the Inspector General",
+   "how": "It must carry out risk-based inspections of all Bureau of Prisons facilities."
+  }
+ ],
+ "when_it_takes_effect": "90 days after Congress provides funding to the Justice Department and its Inspector General specifically to carry out this law.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

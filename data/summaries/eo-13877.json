@@ -1,0 +1,24 @@
+{
+ "headline": "Executive order aimed at making health care prices and quality information easier for patients to see.",
+ "what_it_does": "Based on its title, this order focuses on making the prices and quality of health care in the United States more open to the public. Like most executive orders, it directs federal agencies to act rather than changing the law directly. No summary was provided, so the specific steps it requires are not described here.",
+ "who_it_affects": [
+  {
+   "group": "Patients",
+   "how": "Patients may get more information about what health care costs and how good it is before they choose care."
+  },
+  {
+   "group": "Hospitals and other health care providers",
+   "how": "Providers may face new federal rules about sharing price or quality information."
+  },
+  {
+   "group": "Health insurance companies",
+   "how": "Insurers may be affected by efforts to make health care prices more visible."
+  }
+ ],
+ "when_it_takes_effect": "Signed June 24, 2019; any specific rules would depend on later agency action.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

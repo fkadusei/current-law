@@ -39,5 +39,24 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Federal government takes certain Iowa land into trust for the Winnebago Tribe of Nebraska and adds it to the tribe's reservation.",
+  "what_it_does": "This law has the federal government hold specific land in Iowa in trust for the Winnebago Tribe of Nebraska. The land becomes part of the tribe's reservation. The law bans gaming, such as casinos, on this land.",
+  "who_it_affects": [
+   {
+    "group": "Members of the Winnebago Tribe of Nebraska",
+    "how": "Their tribe gains specified land in Iowa, held in trust by the federal government and added to its reservation."
+   },
+   {
+    "group": "Gaming businesses and the tribe's gaming operations",
+    "how": "Gaming is not allowed on the land taken into trust under this law."
+   }
+  ],
+  "when_it_takes_effect": "Enacted July 12, 2024",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Environmental Protection",
  "sponsor": "Sen. Curtis, John R. [R-UT]",
- "official_summary": null,
+ "official_summary": "<p>This joint resolution removes the requirements for sources of persistent and&nbsp;bioaccumulative hazardous air pollutants to comply with certain major source emissions standards when those sources reclassify as area sources (which have less stringent standards). Specifically, the joint resolution nullifies the Environmental Protection Agency rule titled <a href=\"https://www.federalregister.gov/documents/2024/09/10/2024-20074/review-of-final-rule-reclassification-of-major-sources-as-area-sources-under-section-112-of-the\">Review of Final Rule Reclassification of Major Sources as Area Sources Under Section 112 of the Clean Air Act</a>. The rule requires sources that seek to reclassify as area sources to implement certain control methods (e.g., continue to employ emission control methods required under the major sources requirements) to ensure they do not increase emissions beyond the major source requirements applicable at the time of reclassification.</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-119sjres31enr/uslm/BILLS-119sjres31enr.xml"
@@ -4362,5 +4362,28 @@
   "House": "R",
   "Senate": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "Congress canceled an EPA rule that kept certain stricter pollution controls on facilities that reclassify to a lower-emitting category under the Clean Air Act.",
+  "what_it_does": "This resolution uses the Congressional Review Act to cancel an EPA rule. The rule said that facilities releasing certain long-lasting, build-up-in-the-body hazardous air pollutants had to keep using some of their major-source pollution controls if they reclassified as smaller \"area sources.\" With the rule canceled, those facilities no longer have to meet those major-source requirements after reclassifying. Area sources generally face less strict standards.",
+  "who_it_affects": [
+   {
+    "group": "Industrial facilities that emit persistent and bioaccumulative hazardous air pollutants",
+    "how": "If they reclassify from major sources to area sources, they are no longer required by this rule to keep their major-source emission controls."
+   },
+   {
+    "group": "Environmental Protection Agency",
+    "how": "The agency's rule is voided, and under the Congressional Review Act it generally cannot issue a substantially similar rule without new authority from Congress."
+   },
+   {
+    "group": "People who live near facilities that reclassify as area sources",
+    "how": "The pollution standards that apply to nearby facilities that reclassify may be less strict than under the canceled rule."
+   }
+  ],
+  "when_it_takes_effect": "June 20, 2025, when the resolution was signed into law.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

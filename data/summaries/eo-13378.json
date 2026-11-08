@@ -1,0 +1,20 @@
+{
+ "headline": "President Bush changed an earlier order on the program that helps communities adjust to cuts in defense spending and military base changes.",
+ "what_it_does": "This order amends Executive Order 12788, which set up the Defense Economic Adjustment Program. That program coordinates federal help for communities hurt by changes in defense activity, such as military base closures or lost defense contracts. The title alone does not say exactly what was changed.",
+ "who_it_affects": [
+  {
+   "group": "Communities near military bases or defense businesses",
+   "how": "They rely on this program for federal help when defense changes hurt their local economy."
+  },
+  {
+   "group": "Federal agencies that take part in the program",
+   "how": "The changes may affect how these agencies organize or coordinate their help."
+  }
+ ],
+ "when_it_takes_effect": "Signed May 12, 2005",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

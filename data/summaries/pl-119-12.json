@@ -1,0 +1,28 @@
+{
+ "headline": "New federal law makes it a crime to post intimate images of people online without consent, including AI-made fakes, and requires fast removal.",
+ "what_it_does": "The law makes it a federal crime to post intimate images of a person online without their consent, whether the images are real or computer-generated (deepfakes). It also makes it a crime to threaten to post such images. People convicted can face prison, fines, or both, and must pay restitution to victims. Websites and apps built around user posts must set up a way for people to request removal of these images and must take them down within 48 hours of being notified.",
+ "who_it_affects": [
+  {
+   "group": "People whose intimate images are posted online without consent",
+   "how": "They can ask platforms to remove the images, which must be taken down within 48 hours of notice."
+  },
+  {
+   "group": "Minors depicted in intimate images",
+   "how": "Posting such images of a minor to abuse, harass, or for sexual purposes is a federal crime."
+  },
+  {
+   "group": "People who post or threaten to post intimate images of others",
+   "how": "They can face prison, fines, and required payments to victims."
+  },
+  {
+   "group": "Social media sites and other apps that mainly host user posts",
+   "how": "They must create a notice-and-removal process and remove reported images within 48 hours."
+  }
+ ],
+ "when_it_takes_effect": "Signed into law May 19, 2025; the summary does not list separate start dates for each requirement.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

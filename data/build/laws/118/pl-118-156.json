@@ -36,5 +36,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Law lets the Transportation Department pick an operator for the national commercial driver's license database and let it charge and use fees.",
+  "what_it_does": "The law gives the Department of Transportation clear legal power to choose a qualified operator to run, maintain, and update the Commercial Driver's License Information System, a national database of commercial driver licensing and disqualification records. The operator may collect fees for the system on the department's behalf and must spend them only on running and improving the system, including staff and administration costs. The department itself cannot be charged for using the system and must be able to see quarterly fee statements.",
+  "who_it_affects": [
+   {
+    "group": "State driver's license agencies",
+    "how": "States may again be charged user fees to use the database, which were paused starting October 1, 2023."
+   },
+   {
+    "group": "American Association of Motor Vehicle Administrators",
+    "how": "As the group that created and runs the system, it could be named the authorized operator allowed to collect and use fees."
+   },
+   {
+    "group": "Federal Motor Carrier Safety Administration and Department of Transportation",
+    "how": "The department gains authority to designate the operator, pays no fees for access, and gets quarterly fee reports."
+   },
+   {
+    "group": "Commercial truck and bus drivers",
+    "how": "Their licensing and disqualification records are kept in the system that this law funds and allows to be updated."
+   }
+  ],
+  "when_it_takes_effect": "Enacted December 17, 2024",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

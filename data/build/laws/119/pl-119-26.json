@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Crime and Law Enforcement",
  "sponsor": "Sen. Cassidy, Bill [R-LA]",
- "official_summary": null,
+ "official_summary": "<p><strong>Halt All Lethal Trafficking of Fentanyl Act or the HALT Fentanyl Act</strong></p><p>This act permanently places fentanyl-related substances as a class into schedule I of the Controlled Substances Act. A schedule I controlled substance is a drug, substance, or chemical that has a high potential for abuse; has no currently accepted medical value; and is subject to regulatory controls and administrative, civil, and criminal penalties under the Controlled Substances Act.</p><p>Under the act, offenses involving fentanyl-related substances are triggered by the same quantity thresholds and subject to the same penalties as offenses involving fentanyl analogues (e.g., offenses involving 100 grams or more trigger a 10-year mandatory minimum prison term).</p><p>Additionally, the act establishes a new, alternative registration process for certain schedule I research.</p><p>The act also makes several other changes to registration requirements for conducting research with controlled substances, including</p><ul><li>permitting a single registration for related research sites in certain circumstances,</li><li>waiving the requirement for a new inspection in certain situations, and</li><li>allowing a registered researcher to perform certain manufacturing activities with small quantities of a substance without obtaining a manufacturing registration.</li></ul><p>Finally, the act expresses the sense that Congress agrees with the interpretation of the Controlled Substances Act in <em>United States v. McCray</em>, a 2018 case decided by the U.S. District Court for the Western District of New York. In that case, the court held that butyryl fentanyl, a controlled substance, can be considered an analogue of fentanyl even though, under the Controlled Substances Act, the term <em>controlled substance analogue</em> specifically excludes a controlled substance.</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-119s331enr/uslm/BILLS-119s331enr.xml"
@@ -4359,5 +4359,28 @@
   "House": "R",
   "Senate": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "New law permanently lists fentanyl-related substances as Schedule I drugs and eases some rules for researchers who study these drugs.",
+  "what_it_does": "The law permanently puts fentanyl-related substances, as a group, in Schedule I, the strictest category of controlled drugs. Crimes involving these substances now carry the same quantity triggers and penalties as crimes involving fentanyl analogues, such as a 10-year mandatory minimum prison sentence for 100 grams or more. It also creates a new, alternative registration process for some Schedule I research and loosens several other registration rules for researchers. It states that Congress agrees with a 2018 court ruling that treated butyryl fentanyl as a fentanyl analogue.",
+  "who_it_affects": [
+   {
+    "group": "People charged with federal drug crimes involving fentanyl-related substances",
+    "how": "They face the same mandatory minimum prison terms and penalties that apply to fentanyl analogue offenses, based on drug quantity."
+   },
+   {
+    "group": "Scientists and research institutions studying Schedule I drugs",
+    "how": "They can use a new alternative registration process, may cover related sites under one registration, may skip a new inspection in some cases, and may do small-scale manufacturing without a separate manufacturing registration."
+   },
+   {
+    "group": "Federal prosecutors and drug enforcement agencies",
+    "how": "They can treat fentanyl-related substances as a permanent Schedule I class rather than relying on temporary scheduling."
+   }
+  ],
+  "when_it_takes_effect": "Enacted July 16, 2025; the summary does not list a separate start date.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

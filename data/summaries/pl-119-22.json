@@ -1,0 +1,24 @@
+{
+ "headline": "New law keeps certain Alaska Native settlement trust payments from counting against eligibility for need-based federal programs like SNAP.",
+ "what_it_does": "Alaska Native corporations can set up settlement trusts that make payments to Alaska Natives and their descendants. This law says certain of these payments will not be counted as income or resources when deciding whether a person who is aged, blind, or disabled qualifies for certain need-based federal programs. One example is the Supplemental Nutrition Assistance Program (SNAP), often called food stamps.",
+ "who_it_affects": [
+  {
+   "group": "Alaska Natives and their descendants who are aged, blind, or disabled",
+   "how": "Certain settlement trust payments they receive will not count against them when their eligibility for certain need-based federal programs is decided."
+  },
+  {
+   "group": "People who receive or apply for SNAP and similar need-based federal benefits",
+   "how": "For eligible Alaska Natives and descendants, agencies running these programs must leave certain settlement trust payments out of eligibility calculations."
+  },
+  {
+   "group": "Alaska Native settlement trusts",
+   "how": "Certain payments they make to aged, blind, or disabled beneficiaries will no longer reduce those beneficiaries' eligibility for certain federal aid."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

@@ -1,0 +1,52 @@
+{
+ "headline": "Broad housing law changes HUD and FHA programs, limits large investors from buying single-family homes, and eases some rules for community banks.",
+ "what_it_does": "The law creates and changes many federal housing programs, including grants for local housing plans, building repairs, and turning vacant buildings into housing. It loosens some environmental review rules for housing projects, raises some FHA loan limits, and drops the permanent-chassis rule for manufactured homes. It bars large investors who control 350 or more single-family homes from buying more, with fines of up to $1 million or three times the price per violation. It also changes several banking rules and temporarily bars the Federal Reserve from issuing a digital dollar until the end of 2030.",
+ "who_it_affects": [
+  {
+   "group": "Low- and moderate-income renters and homeowners",
+   "how": "HOME program eligibility expands to households earning up to 100% of the area median income, and new grants and loans can help pay for home repairs, accessibility, and energy upgrades."
+  },
+  {
+   "group": "Large institutional investors in single-family homes",
+   "how": "Those controlling at least 350 single-family homes are generally barred from buying more for 15 years, starting 180 days after enactment, with large civil fines for violations."
+  },
+  {
+   "group": "Veterans",
+   "how": "Mortgage applications must tell applicants they may qualify for a VA home loan, FHA borrowers must get a cost comparison with VA loans, and disability benefits are excluded from income for the HUD-VASH housing program."
+  },
+  {
+   "group": "Families in public or assisted housing",
+   "how": "Up to 5,000 families in a pilot can build savings in interest-bearing escrow accounts when higher earnings raise their rent, and the RAD conversion program becomes permanent with room for 100,000 more units."
+  },
+  {
+   "group": "People buying manufactured or lower-cost homes",
+   "how": "FHA loan limits rise for manufactured homes and home improvements, improvement loans can be used to build accessory dwelling units, and a pilot aims to increase mortgages of $100,000 or less."
+  },
+  {
+   "group": "Homebuyers using federally backed mortgages",
+   "how": "Lenders must offer a process for borrowers to ask for a reconsideration of their home's appraised value."
+  },
+  {
+   "group": "Section 8 landlords",
+   "how": "Units that passed certain other federal inspections in the past year can meet Section 8 inspection rules, and new landlords can request an inspection before signing a lease."
+  },
+  {
+   "group": "Cities, counties, states, and tribes",
+   "how": "They gain new grant options and some environmental review exemptions, CDBG grantees must post a searchable list of their undeveloped land, and CDBG funding will rise or fall by up to 10% based on local housing growth."
+  },
+  {
+   "group": "Community banks and credit unions",
+   "how": "Smaller banks get more flexibility on certain deposits, longer exam cycles, and easier new-bank applications, and many credit unions can hold fewer board meetings."
+  },
+  {
+   "group": "Real estate appraisers and trainees",
+   "how": "Eligibility rules change, trainees are added to the national registry, and grants will support appraiser workforce training."
+  }
+ ],
+ "when_it_takes_effect": "Enacted July 11, 2026; the investor purchase ban starts 180 days later and lasts 15 years, the digital currency ban ends December 31, 2030, and many pilot programs run for set periods of 3 to 10 years.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

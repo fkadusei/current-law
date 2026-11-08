@@ -1,0 +1,20 @@
+{
+ "headline": "Executive order sets up a federal center to coordinate how agencies enforce U.S. export control laws.",
+ "what_it_does": "Based on its title, this 2010 order creates an Export Enforcement Coordination Center. The center is meant to help federal agencies work together when enforcing laws that control which goods and technology can be shipped out of the country. No summary was provided, so details such as where the center is housed and exactly which agencies take part are not described here.",
+ "who_it_affects": [
+  {
+   "group": "Federal agencies that enforce export laws",
+   "how": "They would coordinate their export enforcement work through the new center."
+  },
+  {
+   "group": "Companies that export goods or technology",
+   "how": "Enforcement of export rules that apply to them would be coordinated across agencies through the center."
+  }
+ ],
+ "when_it_takes_effect": "Signed November 9, 2010; no separate start date is given in the source material.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

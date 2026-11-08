@@ -1,0 +1,20 @@
+{
+ "headline": "President Bush ordered the freezing of property held by certain people tied to Liberia and banned some goods from Liberia from entering the US.",
+ "what_it_does": "This order blocks, or freezes, property in the United States that belongs to certain people named or covered by the order, which is connected to Liberia. It also bans bringing certain goods from Liberia into the country. The title does not say which people or which goods are covered, so details beyond that are not provided here.",
+ "who_it_affects": [
+  {
+   "group": "People covered by the order who are connected to Liberia",
+   "how": "Their property and assets under US control can be frozen so they cannot use or move them."
+  },
+  {
+   "group": "US importers and businesses that trade with Liberia",
+   "how": "They may not bring certain Liberian goods into the United States."
+  }
+ ],
+ "when_it_takes_effect": "Signed July 22, 2004; the exact effective date is not stated in the provided material.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

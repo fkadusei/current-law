@@ -3531,5 +3531,36 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "Law renews several federal wildlife and conservation programs through 2030 and adds a black vulture permit program for livestock owners.",
+  "what_it_does": "This law extends funding authority through fiscal year 2030 for several wildlife and conservation programs, including wetlands conservation, the Chesapeake Bay Program, a chronic wasting disease task force, invasive species management, and fish habitat projects. It gives the U.S. Fish and Wildlife Service clear legal authority to run a program letting one public agency or Farm Bureau group per state hold a statewide permit to kill black vultures that attack livestock. It also funds completion of a national fish habitat study and database. Finally, it blocks the EPA through 2030 from regulating lead in fishing tackle under the Toxic Substances Control Act.",
+  "who_it_affects": [
+   {
+    "group": "Livestock farmers and ranchers",
+    "how": "They may get help protecting their animals from black vultures through a statewide permit held by a state agency or Farm Bureau organization."
+   },
+   {
+    "group": "State Farm Bureau organizations and public agencies",
+    "how": "One per state can hold a statewide permit to manage black vultures that prey on commercial livestock."
+   },
+   {
+    "group": "Anglers and makers of fishing gear",
+    "how": "The EPA cannot regulate lead in fishing tackle under the Toxic Substances Control Act through fiscal year 2030."
+   },
+   {
+    "group": "People and groups in the Chesapeake Bay watershed",
+    "how": "Chesapeake Bay restoration programs, public access sites, and grant programs are renewed through fiscal year 2030."
+   },
+   {
+    "group": "Wildlife agencies, landowners, and conservation groups",
+    "how": "Wetlands, fish habitat, invasive species, and chronic wasting disease programs that they may take part in or get grants from are renewed through fiscal year 2030."
+   }
+  ],
+  "when_it_takes_effect": "Enacted December 23, 2024; program authorizations run through fiscal year 2030.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

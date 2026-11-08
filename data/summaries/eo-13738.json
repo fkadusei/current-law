@@ -1,0 +1,20 @@
+{
+ "headline": "Executive order changes an earlier order, Executive Order 13673, which set labor-law rules for companies with federal contracts.",
+ "what_it_does": "This order amends Executive Order 13673, signed in 2014. That earlier order, known as the Fair Pay and Safe Workplaces order, set rules about how companies seeking federal contracts report and address labor law violations. The title alone does not say which parts were changed or how.",
+ "who_it_affects": [
+  {
+   "group": "Companies that hold or bid on federal contracts",
+   "how": "They may face changed requirements under the labor-law rules set by Executive Order 13673."
+  },
+  {
+   "group": "Workers employed by federal contractors",
+   "how": "Protections or rules tied to Executive Order 13673 may be affected by the changes."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

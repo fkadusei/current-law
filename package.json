@@ -2,6 +2,12 @@
   "name": "current-law",
   "private": true,
   "scripts": {
-    "build": "cd site && npm ci && npm run build"
+    "build": "npm ci && cd site && npm ci && npm run build"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^1.6.0"
+  },
+  "devDependencies": {
+    "wrangler": "^4.158.0"
   }
 }

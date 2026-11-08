@@ -1,0 +1,20 @@
+{
+ "headline": "President Bush created a White House Office of Homeland Security and a Homeland Security Council by executive order in October 2001.",
+ "what_it_does": "This order set up a new Office of Homeland Security inside the White House. It also created a Homeland Security Council, a group of senior officials meant to advise the President on homeland security. No summary was provided, so the specific powers and duties of these bodies are not described here.",
+ "who_it_affects": [
+  {
+   "group": "Federal agencies that work on domestic security",
+   "how": "They would work with the new White House office and council, though the exact coordination rules are not stated in the title."
+  },
+  {
+   "group": "Senior White House and Cabinet officials",
+   "how": "Some would take part in or work with the new Homeland Security Council."
+  }
+ ],
+ "when_it_takes_effect": "Signed October 8, 2001",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

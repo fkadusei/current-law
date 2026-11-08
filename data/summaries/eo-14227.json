@@ -1,0 +1,20 @@
+{
+ "headline": "Executive order changes an earlier order that set import duties tied to the situation at the U.S. southern border.",
+ "what_it_does": "This order amends an earlier executive order that placed duties, which are taxes on imported goods, as a response to conditions at the southern border. The title suggests these duties apply to goods coming from Mexico. No summary was provided, so the specific changes are not described here.",
+ "who_it_affects": [
+  {
+   "group": "Businesses that import goods from Mexico",
+   "how": "The order may change the duties they pay on those goods."
+  },
+  {
+   "group": "Mexican exporters selling to the U.S.",
+   "how": "Changes to the duties could affect the cost of selling their goods in the U.S. market."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

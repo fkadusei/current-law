@@ -3530,5 +3530,28 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "Law extends a federal grant program that helps state and local governments test DNA evidence, including sexual assault kits, through 2029.",
+  "what_it_does": "This law renews the Debbie Smith DNA Backlog Grant Program through fiscal year 2029. The program gives grants to state and local governments. The money helps them collect and analyze more DNA evidence, including evidence in sexual assault kits.",
+  "who_it_affects": [
+   {
+    "group": "State and local governments and their crime labs",
+    "how": "They can keep applying for federal grants to collect and test DNA evidence through fiscal year 2029."
+   },
+   {
+    "group": "Sexual assault survivors",
+    "how": "Grant money can continue to go toward testing evidence in sexual assault kits, which may affect how quickly their cases' evidence is analyzed."
+   },
+   {
+    "group": "Police and prosecutors",
+    "how": "They may continue to receive DNA test results from labs supported by these grants for use in criminal investigations."
+   }
+  ],
+  "when_it_takes_effect": "Enacted July 30, 2024; the grant program is renewed through fiscal year 2029.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

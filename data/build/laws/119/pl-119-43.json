@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Armed Forces and National Security",
  "sponsor": "Rep. Nehls, Troy E. [R-TX-22]",
- "official_summary": null,
+ "official_summary": "<p><strong>Medal of Honor Act</strong></p><p>This act increases the monthly special pension for living Medal of Honor recipients. The act also prohibits the Department of Veterans Affairs from increasing the amount of the pension for inflation if the amount was already increased during such year.</p><p>Additionally, the act extends a limitation on the pension paid to veterans who reside in Medicaid nursing homes and have no spouse or child. Currently, such pensions are limited to $90 per month through November 30, 2031. The act extends this limitation through January 31, 2033.</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr695enr/uslm/BILLS-119hr695enr.xml"
@@ -3538,5 +3538,28 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "New law raises the monthly special pension for living Medal of Honor recipients and extends a pension limit for some veterans in nursing homes.",
+  "what_it_does": "The law increases the monthly special pension paid to living Medal of Honor recipients. It stops the Department of Veterans Affairs from also giving an inflation increase to that pension in a year when the amount was already raised. It also extends an existing $90-per-month cap on pensions for certain veterans in Medicaid nursing homes, moving the end date from November 30, 2031, to January 31, 2033.",
+  "who_it_affects": [
+   {
+    "group": "Living Medal of Honor recipients",
+    "how": "They will receive a larger monthly special pension, though they will not get an extra inflation increase in a year when the pension was already raised."
+   },
+   {
+    "group": "Veterans with no spouse or child who live in Medicaid nursing homes",
+    "how": "Their VA pension stays capped at $90 per month for about 14 months longer, through January 31, 2033."
+   },
+   {
+    "group": "Department of Veterans Affairs",
+    "how": "It must pay the higher Medal of Honor pension and follow the new rule on inflation increases."
+   }
+  ],
+  "when_it_takes_effect": "Enacted December 1, 2025; the summary does not give a specific start date for the higher pension. The nursing home pension limit now runs through January 31, 2033.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -1,0 +1,24 @@
+{
+ "headline": "Executive order restarts the U.S. refugee admissions program, paired with stronger security screening of refugee applicants.",
+ "what_it_does": "Based on its title, this order restarts the U.S. Refugee Admissions Program, the system for bringing refugees from other countries to resettle in the United States. It ties the restart to improved or stronger vetting, meaning security and background checks on people applying as refugees. No official summary was provided, so the specific steps and requirements are not described here.",
+ "who_it_affects": [
+  {
+   "group": "Refugees applying to resettle in the United States",
+   "how": "Their applications can move forward again under the restarted program, with added security screening."
+  },
+  {
+   "group": "Federal agencies that screen and admit refugees",
+   "how": "They are responsible for carrying out the restarted program and its stronger vetting process."
+  },
+  {
+   "group": "Refugee resettlement organizations",
+   "how": "They may resume helping newly admitted refugees settle in U.S. communities."
+  }
+ ],
+ "when_it_takes_effect": "Signed October 24, 2017; executive orders usually take effect when signed unless they say otherwise.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

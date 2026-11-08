@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Government Operations and Politics",
  "sponsor": "Sen. Ernst, Joni [R-IA]",
- "official_summary": null,
+ "official_summary": "<p><strong>Billion Dollar Boondoggle Act</strong></p><p>This act requires the Office of Management and Budget (OMB) to collect information from federal agencies and report to Congress regarding projects that are behind schedule or have expenditures that have exceeded the original cost estimate.&nbsp;</p><p>Specifically, the act requires OMB to issue guidance directing federal agencies to annually submit specified information to OMB regarding certain federally funded projects that (1) are more than five years behind schedule, or (2) have expenditures that are at least $1 billion more than the original cost estimate for the project.&nbsp;</p><p>Among other information, the agencies must submit to OMB</p><ul><li>a description of each project;</li><li>an explanation of any change to the original scope of the project;</li><li>the original and current expected dates for the completion of the project;</li><li>the original and current cost estimates adjusted for inflation;&nbsp;</li><li>an explanation for any delays in completing the project or increases in the cost; and</li><li>the amount of and rationale for any award, incentive fee, or other type of bonus awarded for the project.</li></ul><p>The act also requires OMB to submit an annual report to Congress containing the information submitted by the agencies&nbsp;and post the report on the OMB website.&nbsp;</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-119s766enr/uslm/BILLS-119s766enr.xml"
@@ -39,5 +39,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "New law requires federal agencies to report each year on projects that are more than five years late or $1 billion over budget.",
+  "what_it_does": "The White House budget office (OMB) must tell federal agencies to send it yearly information on federally funded projects that are more than five years behind schedule or have cost at least $1 billion more than first estimated. Agencies must describe each project, any changes to its scope, original and current completion dates, original and current cost estimates adjusted for inflation, reasons for delays or cost increases, and any bonuses or incentive fees paid. OMB must then send an annual report to Congress and post it on its website.",
+  "who_it_affects": [
+   {
+    "group": "Federal agencies",
+    "how": "They must collect and send yearly details to OMB about their projects that are far behind schedule or far over budget."
+   },
+   {
+    "group": "Office of Management and Budget",
+    "how": "It must issue guidance to agencies, gather their information, and send a yearly public report to Congress."
+   },
+   {
+    "group": "Contractors on large federal projects",
+    "how": "Any bonuses, awards, or incentive fees they receive on delayed or over-budget projects will be listed, along with the reasons for them, in a public report."
+   },
+   {
+    "group": "Members of Congress and the public",
+    "how": "They will get a yearly report, posted online, showing which federal projects are badly delayed or over budget and why."
+   }
+  ],
+  "when_it_takes_effect": "Enacted October 7, 2026; the summary does not give specific deadlines for the guidance or first report.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

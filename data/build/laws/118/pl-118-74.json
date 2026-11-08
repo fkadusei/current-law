@@ -36,5 +36,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "New law requires federal agencies to buy only American flags made in the U.S. from U.S.-made or U.S.-grown materials.",
+  "what_it_does": "Federal agencies may not use their funds to buy a U.S. flag unless it was made in the United States from materials grown, produced, or made in the United States. The law includes exceptions. One exception applies when agencies cannot buy enough flags of good enough quality at market prices when they need them.",
+  "who_it_affects": [
+   {
+    "group": "Federal agencies",
+    "how": "They must follow new buying rules and check that the U.S. flags they buy are made domestically from U.S. materials, unless an exception applies."
+   },
+   {
+    "group": "U.S. flag manufacturers",
+    "how": "Companies that make flags in the United States from U.S. materials become the main eligible sellers of U.S. flags to federal agencies."
+   },
+   {
+    "group": "Foreign flag makers and sellers of imported flags",
+    "how": "They generally can no longer sell U.S. flags to federal agencies unless an exception applies."
+   },
+   {
+    "group": "U.S. producers of flag materials such as fabric and thread",
+    "how": "Flags sold to agencies must use U.S.-grown or U.S.-made materials, which may affect demand for these suppliers."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

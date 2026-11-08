@@ -3531,5 +3531,28 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "Law requires the Education Department to open the FAFSA student aid form by October 1 every year.",
+  "what_it_does": "The Department of Education must make the FAFSA, the form students use to apply for federal student aid, available by October 1 each year. Before this law, the department could wait until January 1 of the year a student planned to enroll. The department must also tell Congress by September 1 whether the form will be ready on time. If it will not be ready, the Secretary of Education must testify to Congress about the delay and how it affects students and families financially.",
+  "who_it_affects": [
+   {
+    "group": "College and career school students and applicants",
+    "how": "They can count on being able to submit the FAFSA starting by October 1 before the school year they plan to enroll."
+   },
+   {
+    "group": "Parents and families of students",
+    "how": "They get a fixed date for when they can start filling out the federal aid form with their student."
+   },
+   {
+    "group": "Department of Education",
+    "how": "It must meet a firm October 1 release date, certify readiness to Congress by September 1, and have its Secretary testify if the deadline will be missed."
+   }
+  ],
+  "when_it_takes_effect": "Enacted December 11, 2024; applies to each yearly FAFSA release by October 1, with readiness certification due to Congress by September 1.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

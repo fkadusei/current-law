@@ -3501,5 +3501,68 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "Broad veterans law changes VA health care, long-term care, education benefits, job rights, home loans, survivor benefits, and homeless programs.",
+  "what_it_does": "This law makes many changes to Department of Veterans Affairs (VA) programs. It sets rules for when veterans can get community care from non-VA doctors, expands home-based alternatives to nursing homes, and adds support for family caregivers. It changes GI Bill and Fry Scholarship rules, strengthens job protections for service members, expands home loan options for Native American veterans, and raises payments to groups that house homeless veterans. It also requires many reports, pilot programs, and reviews.",
+  "who_it_affects": [
+   {
+    "group": "Veterans using VA health care",
+    "how": "For two years, the VA must provide community care when the veteran and their referring clinician agree it is in the veteran's best medical interest, and the VA must do more outreach about this option."
+   },
+   {
+    "group": "Veterans who need long-term care and their family caregivers",
+    "how": "The VA may spend up to 100% of nursing home costs on home-based care, or more for veterans with ALS or spinal cord injuries, and caregivers can get mental health support and help moving to other programs if dropped from the caregiver program."
+   },
+   {
+    "group": "Veterans with service-connected disabilities in very remote rural areas",
+    "how": "The VA must pay for ambulance trips from certain areas 100 miles or more from the nearest VA medical center to a provider that can meet their needs."
+   },
+   {
+    "group": "Veterans with ischemic heart disease who are not eligible for VA dental care",
+    "how": "They may get VA dental care through a two-year pilot program."
+   },
+   {
+    "group": "Students using the GI Bill and Fry Scholarship",
+    "how": "Students get a full-time housing stipend in their final term, surviving spouses' Fry Scholarship benefits no longer expire, and certain students hurt by school closures from August 2021 through September 2025 get benefits restored."
+   },
+   {
+    "group": "Colleges and training programs that accept VA education benefits",
+    "how": "Schools must report certain unfavorable actions within 30 days and provide digital transcripts, or risk losing approval."
+   },
+   {
+    "group": "Veterans under age 62 seeking tech training",
+    "how": "Up to 4,000 eligible veterans per year through FY2028 can enroll in nondegree high-tech training programs."
+   },
+   {
+    "group": "Service members and veterans returning to civilian jobs",
+    "how": "Changes to job and reemployment rights law add court orders and change the remedies available against state and private employers."
+   },
+   {
+    "group": "Native American veterans",
+    "how": "They can refinance existing non-VA mortgages through the VA's Native American Direct Loan program, and Native lenders can get 1% VA loans to relend for homes on trust land."
+   },
+   {
+    "group": "Surviving spouses of veterans",
+    "how": "The definition of surviving spouse now includes same-sex spouses and drops a limit on people who presented themselves as married to someone else after the veteran's death without officially remarrying."
+   },
+   {
+    "group": "Families of veterans who die in VA hospice care at home",
+    "how": "They can receive a burial and funeral allowance for deaths before October 1, 2026, if the hospice care came right after VA hospital or nursing home care."
+   },
+   {
+    "group": "Homeless veterans and groups that serve them",
+    "how": "Through FY2027, the VA can pay higher daily rates to groups providing transitional housing and can provide items like food and clothing to veterans in the HUD-VASH housing program."
+   },
+   {
+    "group": "VA health care workers",
+    "how": "Optometrists are aligned with physicians for pay purposes, and the VA can waive pay limits to recruit or keep critical health staff."
+   }
+  ],
+  "when_it_takes_effect": "Enacted January 2, 2025; many provisions have their own timelines, such as a two-year community care rule, programs running through FY2027 or FY2028, and a hospice burial benefit for deaths before October 1, 2026.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

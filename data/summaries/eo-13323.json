@@ -1,0 +1,20 @@
+{
+ "headline": "Executive order assigns federal officials the job of handling rules for people arriving in and leaving the United States.",
+ "what_it_does": "Based on its title, this order gives specific federal agencies or officials the responsibility for carrying out duties related to people entering and leaving the United States. It appears to involve the Department of Homeland Security, created about a year earlier, and likely the State Department. No summary was provided, so the exact duties and agencies involved are not confirmed here.",
+ "who_it_affects": [
+  {
+   "group": "Federal agencies that handle immigration and border travel",
+   "how": "The order appears to set which agency or official is in charge of rules about arrivals and departures."
+  },
+  {
+   "group": "Travelers entering or leaving the United States",
+   "how": "The rules they must follow at the border may be written or enforced by the officials this order names."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

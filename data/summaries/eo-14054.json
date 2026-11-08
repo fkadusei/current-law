@@ -1,0 +1,20 @@
+{
+ "headline": "President Biden ends the national emergency the U.S. had declared over the situation in Burundi.",
+ "what_it_does": "This order ends a national emergency related to Burundi, a country in East Africa. National emergencies like this are usually the legal basis for U.S. sanctions, such as freezing the property of certain people. Ending the emergency generally means the sanctions tied to it stop. No abstract was provided, so specific details beyond the title are limited.",
+ "who_it_affects": [
+  {
+   "group": "People and organizations previously sanctioned under the Burundi emergency",
+   "how": "Any U.S. restrictions on them that depended on this emergency would generally no longer apply."
+  },
+  {
+   "group": "U.S. banks, businesses, and individuals dealing with Burundi",
+   "how": "They would generally no longer have to follow sanctions rules tied to this emergency."
+  }
+ ],
+ "when_it_takes_effect": "November 18, 2021, when the order was signed (assumed; not stated in the provided material)",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

@@ -1,0 +1,24 @@
+{
+ "headline": "New law adds College Station, Texas, and El Centro, California, as required locations for federal court sessions.",
+ "what_it_does": "The Local Access to Courts Act adds College Station to the list of places where federal court must be held in the Galveston Division of the Southern District of Texas. It also adds El Centro to the list of places where federal court must be held in the Southern District of California.",
+ "who_it_affects": [
+  {
+   "group": "People in the College Station, Texas, area with federal court cases",
+   "how": "They may be able to attend federal court closer to home instead of traveling to other court locations in the district."
+  },
+  {
+   "group": "People in the El Centro, California, area with federal court cases",
+   "how": "They may be able to attend federal court closer to home instead of traveling to other court locations in the district."
+  },
+  {
+   "group": "Federal courts in the Southern Districts of Texas and California",
+   "how": "These courts must now hold court in the newly added cities."
+  }
+ ],
+ "when_it_takes_effect": "The summary does not give a start date; the law was enacted on September 16, 2026.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

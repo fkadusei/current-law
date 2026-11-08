@@ -1,0 +1,20 @@
+{
+ "headline": "Executive order changes an earlier 1983 order that gave Interpol, the international police group, certain legal privileges and immunities in the US.",
+ "what_it_does": "This order amends Executive Order 12425, which had named Interpol as a public international organization. That status lets an organization receive certain legal privileges, exemptions, and immunities in the United States. The title shows that this order changes which of those protections apply to Interpol, but it does not describe the specific changes.",
+ "who_it_affects": [
+  {
+   "group": "Interpol and its staff and offices in the United States",
+   "how": "The order changes the legal privileges, exemptions, and immunities Interpol has while working in the US."
+  },
+  {
+   "group": "US federal agencies and courts",
+   "how": "They must follow the updated rules on what legal protections apply to Interpol."
+  }
+ ],
+ "when_it_takes_effect": "Likely when signed on December 16, 2009; the title does not state a separate date.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

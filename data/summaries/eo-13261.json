@@ -1,0 +1,20 @@
+{
+ "headline": "Sets the order of officials who would lead the Environmental Protection Agency if the top leader cannot, and updates other succession orders.",
+ "what_it_does": "This order lists which EPA officials would act as head of the agency, and in what order, if the Administrator and deputy are absent or unable to serve. It also changes some earlier executive orders about succession at other agencies. The title does not say which agencies or details are changed.",
+ "who_it_affects": [
+  {
+   "group": "Senior EPA officials",
+   "how": "They are placed in a set order to temporarily lead the agency if top leaders are unavailable."
+  },
+  {
+   "group": "Officials at other federal agencies covered by earlier succession orders",
+   "how": "Their place in line to temporarily lead their agencies may change under the amendments."
+  }
+ ],
+ "when_it_takes_effect": "Not stated in the title; executive orders of this kind usually take effect when signed, on March 19, 2002.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

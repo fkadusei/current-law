@@ -5,3 +5,5 @@ __pycache__/
 site/node_modules/
 site/dist/
 site/.astro/
+node_modules/
+.wrangler/

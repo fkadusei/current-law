@@ -1,0 +1,20 @@
+{
+ "headline": "Clinton order bans certain arms-related dealings with Rwanda and hands off power to carry out other UN arms embargoes.",
+ "what_it_does": "This executive order puts limits on certain transactions involving Rwanda, based on its title. It appears tied to a United Nations arms embargo on Rwanda. It also gives federal officials authority to carry out other UN arms embargoes. No summary was provided, so the exact rules and penalties are not described here.",
+ "who_it_affects": [
+  {
+   "group": "US companies and individuals who sell or ship weapons or military goods",
+   "how": "They are barred from certain transactions involving Rwanda covered by the order."
+  },
+  {
+   "group": "Federal agencies that enforce trade and arms rules",
+   "how": "They receive delegated authority to enforce the Rwanda restrictions and other UN arms embargoes."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

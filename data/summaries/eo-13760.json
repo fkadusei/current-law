@@ -1,0 +1,24 @@
+{
+ "headline": "Obama order removes certain federal agency units from the program that lets federal workers join unions and bargain collectively.",
+ "what_it_does": "This order adds certain federal agencies or offices to the list of those left out of the Federal Labor-Management Relations Program. That program sets the rules for federal workers to form unions and bargain with management. Workers in units that are excluded lose those collective bargaining rights under the program. The title does not say which units were excluded or why.",
+ "who_it_affects": [
+  {
+   "group": "Federal employees in the excluded agency units",
+   "how": "They would no longer be covered by the federal program that allows union representation and collective bargaining."
+  },
+  {
+   "group": "Federal employee unions",
+   "how": "They could no longer represent or bargain for workers in the excluded units under this program."
+  },
+  {
+   "group": "Managers at the affected federal agencies",
+   "how": "They would no longer have to bargain with unions for employees in the excluded units."
+  }
+ ],
+ "when_it_takes_effect": "Signed January 12, 2017; the title does not give a separate start date.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

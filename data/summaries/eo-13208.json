@@ -1,0 +1,24 @@
+{
+ "headline": "President Bush changes his earlier order on how federal construction projects handle contractors' labor relations.",
+ "what_it_does": "This order amends Executive Order 13202, an earlier 2001 order meant to keep the government neutral about contractors' labor relations on federal and federally funded construction projects. That earlier order generally stopped agencies from requiring or banning union agreements, often called project labor agreements, as a condition of the work. The title does not describe the change itself. It is widely understood to let agencies exempt some projects that already had such agreements in place.",
+ "who_it_affects": [
+  {
+   "group": "Construction contractors and subcontractors on federal or federally funded projects",
+   "how": "The rules about whether they can be required to sign union labor agreements for this work may be adjusted."
+  },
+  {
+   "group": "Construction workers and labor unions in the building trades",
+   "how": "Whether union agreements are used on some government-funded construction projects may change."
+  },
+  {
+   "group": "Federal agencies and recipients of federal construction grants",
+   "how": "Their instructions for setting labor terms on construction contracts are updated."
+  }
+ ],
+ "when_it_takes_effect": "2001-04-06",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

@@ -36,5 +36,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Law extends Homeland Security's power to run joint task forces through 2026 and adds yearly reporting to Congress.",
+  "what_it_does": "This law lets the Department of Homeland Security (DHS) keep setting up and running joint task forces through fiscal year 2026. These task forces coordinate work across DHS agencies and with other government and international partners. DHS must give Congress a staffing plan for each task force every year. It must also give Congress a yearly briefing on Joint Task Force-East, which works in the Gulf of Mexico and the Caribbean Sea against cross-border criminal groups and prepares for large migration events by sea.",
+  "who_it_affects": [
+   {
+    "group": "Department of Homeland Security agencies and staff",
+    "how": "DHS keeps its authority to run joint task forces through FY2026 and must send Congress yearly staffing plans and briefings."
+   },
+   {
+    "group": "Members of Congress and their committees",
+    "how": "They will receive yearly staffing plans for each task force and a yearly briefing on Joint Task Force-East."
+   },
+   {
+    "group": "People attempting to migrate by sea through the Caribbean or Gulf of Mexico",
+    "how": "A DHS task force that prepares for large migration events at sea in these waters can keep operating."
+   }
+  ],
+  "when_it_takes_effect": "Enacted October 1, 2024; task force authority extended through fiscal year 2026.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

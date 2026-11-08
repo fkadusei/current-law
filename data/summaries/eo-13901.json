@@ -1,0 +1,28 @@
+{
+ "headline": "Executive order setting 2020 pay rates for federal civilian employees, military members, and other federal pay schedules.",
+ "what_it_does": "This order sets new pay rates for many groups paid by the federal government. Orders like this one are issued each year to apply that year's pay changes to official pay tables. It covers schedules such as the General Schedule, locality pay, senior executive and top official pay, and military pay. The title alone does not state the exact percentages.",
+ "who_it_affects": [
+  {
+   "group": "Federal civilian employees on the General Schedule",
+   "how": "Their base pay and locality pay rates are updated for the new year."
+  },
+  {
+   "group": "Members of the US armed forces",
+   "how": "Their basic pay rates are adjusted under the new military pay tables."
+  },
+  {
+   "group": "Senior federal officials and executives",
+   "how": "Pay rates for top-level officials and senior executives are set under updated schedules."
+  },
+  {
+   "group": "Other federal workers on special pay systems",
+   "how": "Workers on schedules such as the Foreign Service or VA medical pay systems may see their pay rates updated."
+  }
+ ],
+ "when_it_takes_effect": "Annual pay orders like this usually take effect with the first pay period starting on or after January 1 of the new year, here January 2020.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

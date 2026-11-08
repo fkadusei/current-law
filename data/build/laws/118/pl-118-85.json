@@ -36,5 +36,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Law directs the FCC to give commercial rocket launch companies easier, faster access to radio frequencies used to communicate with rockets.",
+  "what_it_does": "Commercial rockets launching from the U.S. currently must use government-owned radio spectrum and ask the FCC for special temporary permission each time. This law requires the FCC to set rules for and allocate additional frequencies for commercial launches and reentries. It also requires the FCC to streamline approvals, including permits that cover multiple launches or sites, electronic filing, and better coordination with the National Telecommunications and Information Administration to speed up reviews.",
+  "who_it_affects": [
+   {
+    "group": "Commercial space launch companies",
+    "how": "They would gain access to more radio frequencies and a simpler, faster process to get permission to use them during launches and reentries."
+   },
+   {
+    "group": "Federal Communications Commission",
+    "how": "It must write new rules, allocate frequencies, and create a streamlined application process for launch communications."
+   },
+   {
+    "group": "National Telecommunications and Information Administration",
+    "how": "It must coordinate more closely with the FCC to speed up review of spectrum applications."
+   }
+  ],
+  "when_it_takes_effect": "Enacted September 26, 2024; the FCC must then complete rulemaking, and the summary does not give specific deadlines.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

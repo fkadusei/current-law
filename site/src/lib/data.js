@@ -118,5 +118,5 @@ export const PRESIDENT_INFO = {
   nixon: { years: "1969–1974" }, ford: { years: "1974–1977" }, carter: { years: "1977–1981" },
   reagan: { years: "1981–1989" }, "bush-hw": { years: "1989–1993" }, clinton: { years: "1993–2001" },
   "bush-w": { years: "2001–2009" }, obama: { years: "2009–2017" }, "trump-1": { years: "2017–2021", note: "First term" },
-  biden: { years: "2021–2025" }, "trump-2": { years: "2025–", note: "Second term" },
+  biden: { years: "2021–2025" }, "trump-2": { years: "2025–present", note: "Second term" },
 };

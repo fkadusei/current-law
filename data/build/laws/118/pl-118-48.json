@@ -3512,5 +3512,28 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "Law places about 17 acres in Pierce County, Washington, into federal trust for the Puyallup Tribe and bans gambling on that land.",
+  "what_it_does": "The federal government takes about 17.264 acres of specific land in Pierce County, Washington, into trust for the Puyallup Tribe of the Puyallup Reservation. This land becomes part of the tribe's reservation. The United States is not responsible for any environmental contamination on the land that happened on or before the day it is taken into trust. Gambling is not allowed on this land.",
+  "who_it_affects": [
+   {
+    "group": "Members of the Puyallup Tribe",
+    "how": "Their tribe gains about 17 acres of trust land that is added to its reservation, but it cannot be used for gambling."
+   },
+   {
+    "group": "Residents and local governments in Pierce County, Washington",
+    "how": "The land becomes part of the tribe's reservation, which can change how it is governed and taxed."
+   },
+   {
+    "group": "The federal government",
+    "how": "It holds the land in trust for the tribe but is not liable for any past environmental contamination on it."
+   }
+  ],
+  "when_it_takes_effect": "Enacted April 19, 2024; the summary does not state a separate start date.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

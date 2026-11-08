@@ -1,0 +1,20 @@
+{
+ "headline": "President Obama ended the national emergency tied to former Liberian President Charles Taylor's actions and policies.",
+ "what_it_does": "This order ends a national emergency the US had declared over the actions and policies of Charles Taylor, a former president of Liberia. Such emergencies are usually the legal basis for US sanctions, like freezing property. Ending the emergency generally means the sanctions based on it stop. The title alone does not give further details.",
+ "who_it_affects": [
+  {
+   "group": "Charles Taylor and people or groups linked to him",
+   "how": "US sanctions based on this emergency would generally no longer apply to them."
+  },
+  {
+   "group": "US businesses and individuals",
+   "how": "They would generally no longer be barred from dealings that were limited under this emergency."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

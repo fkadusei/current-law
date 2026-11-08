@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Public Lands and Natural Resources",
  "sponsor": "Sen. Justice, James C. [R-WV]",
- "official_summary": null,
+ "official_summary": "<p><strong>Hershel \"Woody\" Williams National Medal of Honor Monument Location Act</strong></p><p>This bill requires the authorized monument&nbsp;honoring Medal of Honor recipients to be located within the Reserve (the great cross-axis of the National Mall, which generally extends from the Capitol to the Lincoln Memorial and from the White House to the Jefferson Memorial).</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-119s858enr/uslm/BILLS-119s858enr.xml"
@@ -36,5 +36,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Requires the planned national monument honoring Medal of Honor recipients to be built within the central area of the National Mall.",
+  "what_it_does": "This law requires the already-authorized monument honoring Medal of Honor recipients to be placed within the Reserve, the central cross-shaped area of the National Mall that runs from the Capitol to the Lincoln Memorial and from the White House to the Jefferson Memorial.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "Upon enactment on September 10, 2026; the summary gives no other dates.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

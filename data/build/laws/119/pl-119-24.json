@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Public Lands and Natural Resources",
  "sponsor": "Rep. Horsford, Steven [D-NV-4]",
- "official_summary": null,
+ "official_summary": "<p><strong>Apex Area Technical Corrections Act</strong></p><p>This act directs the Department of the Interior to grant&nbsp;certain rights-of-way related to the Apex Project (an industrial park) to&nbsp;Clark County in Nevada,&nbsp;the city of North Las Vegas, and the Apex Industrial Park Owners Association. Thus, the act expedites the federal permitting process for expanding the industrial park's infrastructure.</p><p>Specifically,&nbsp;the act directs Interior to grant utility and transportation rights-of-way to the city of North Las Vegas and the Apex Industrial Park Owners Association for the connection of existing electric power, water, natural gas, telephone, railroad, and highway facilities to lands within the Apex Project site. (Interior is already directed to grant such rights-of-way to Clark County.)</p><p>Interior must also grant to the county, the city, and association such rights-of-way on public lands as may be necessary to support the development of the industrial park as a heavy use industrial zone. (Currently, Interior may grant the&nbsp;rights-of-way to the county.)</p><p>The act also requires that the withdrawal of the transferred lands within the Apex Site from&nbsp;all forms of entry and appropriation under the public land laws (e.g., leasing the land for minerals) continue in perpetuity.</p><p>In the case of the sale of mineral materials resulting from grading or other activities&nbsp;on the surface of a land parcel within the Apex Project site, the sales are exempt from quantity and term limitations placed on noncompetitive sales.</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr618enr/uslm/BILLS-119hr618enr.xml"
@@ -42,5 +42,36 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Law requires the Interior Department to grant land access for utilities and roads to expand the Apex Industrial Park near North Las Vegas, Nevada.",
+  "what_it_does": "The law directs the Interior Department to grant rights-of-way across federal land so North Las Vegas and the Apex Industrial Park Owners Association, along with Clark County, can connect power, water, gas, phone, rail, and highway lines to the Apex industrial park. It also requires, rather than just allows, Interior to grant other rights-of-way needed to develop the park as a heavy industrial zone. It keeps the transferred park lands permanently closed to claims and uses under public land laws, such as mineral leasing. Sales of rock, soil, and similar materials dug up during grading at the site are freed from the usual limits on amount and length for noncompetitive sales.",
+  "who_it_affects": [
+   {
+    "group": "Clark County, Nevada",
+    "how": "The county must now be granted, rather than may be granted, rights-of-way needed to develop the industrial park."
+   },
+   {
+    "group": "City of North Las Vegas",
+    "how": "The city will receive rights-of-way to connect utilities, rail, and roads to the park and to support its development."
+   },
+   {
+    "group": "Apex Industrial Park Owners Association",
+    "how": "The association will receive rights-of-way for utility and transportation connections and for developing the park."
+   },
+   {
+    "group": "Landowners and developers at the Apex site",
+    "how": "They can sell mineral materials from grading work without the normal quantity and time limits on noncompetitive sales."
+   },
+   {
+    "group": "Mining and mineral companies",
+    "how": "They cannot file claims or lease the transferred Apex lands under public land laws, since those lands stay withdrawn permanently."
+   }
+  ],
+  "when_it_takes_effect": "Enacted July 15, 2025; the summary does not give a separate effective date.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

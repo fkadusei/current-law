@@ -1,0 +1,20 @@
+{
+ "headline": "Executive order lets the U.S. freeze property of certain people and companies linked to Russian energy export pipelines.",
+ "what_it_does": "The order sets up a way for the U.S. government to block, or freeze, property and financial interests of certain people or companies connected to Russian energy export pipelines. Blocked property in the United States, or held by Americans, generally cannot be moved, sold, or used. Americans are generally barred from doing business with those who are blocked. The title alone does not say exactly which pipelines, people, or companies are covered.",
+ "who_it_affects": [
+  {
+   "group": "Companies and individuals involved in certain Russian energy export pipelines",
+   "how": "Their property and financial interests under U.S. control could be frozen if they are named under the order."
+  },
+  {
+   "group": "U.S. businesses, banks, and individuals",
+   "how": "They would generally be barred from doing business with, or moving property of, anyone blocked under the order."
+  }
+ ],
+ "when_it_takes_effect": "Signed August 20, 2021; the title does not state a separate effective date.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

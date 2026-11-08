@@ -3531,5 +3531,24 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "Law directs the National Park Service to study whether Lahaina, Hawaii, should become a National Heritage Area.",
+  "what_it_does": "This law tells the National Park Service to study whether it makes sense to designate Lahaina, in Maui County, Hawaii, as a National Heritage Area. The study will look at whether the area is suitable and whether the designation is practical. The law does not create the heritage area itself; that would require a later decision.",
+  "who_it_affects": [
+   {
+    "group": "Residents and communities of Lahaina, Maui County, Hawaii",
+    "how": "Their town will be reviewed for possible designation as a National Heritage Area under the National Heritage Areas Act."
+   },
+   {
+    "group": "National Park Service",
+    "how": "The agency must carry out the study of Lahaina's suitability and feasibility as a heritage area."
+   }
+  ],
+  "when_it_takes_effect": "Enacted December 23, 2024; the summary does not give a deadline for the study.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

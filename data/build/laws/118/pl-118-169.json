@@ -39,5 +39,24 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Lets the Interior Department use leftover Central Utah Project money for water conservation in the Great Salt Lake basin.",
+  "what_it_does": "This law allows the Department of the Interior to spend certain unspent funds from the Central Utah Project Completion Act. The money can be used for water conservation efforts in the Great Salt Lake basin. The summary does not give details on specific projects or amounts.",
+  "who_it_affects": [
+   {
+    "group": "Department of the Interior",
+    "how": "Gains permission to use certain leftover Central Utah Project funds for water conservation work in the Great Salt Lake basin."
+   },
+   {
+    "group": "People and communities in the Great Salt Lake basin in Utah",
+    "how": "May see water conservation projects in their area paid for with these funds."
+   }
+  ],
+  "when_it_takes_effect": "Enacted December 23, 2024",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

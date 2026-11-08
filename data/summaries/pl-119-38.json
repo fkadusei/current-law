@@ -1,0 +1,32 @@
+{
+ "headline": "New law requires the Justice Department to publicly release its unclassified records from the Jeffrey Epstein investigation and prosecution.",
+ "what_it_does": "The Department of Justice must post online, in a searchable and downloadable form, all unclassified records it holds about the investigation and prosecution of Jeffrey Epstein. This includes materials about Ghislaine Maxwell, flight logs and travel records, and records about people named in the case, including government officials. The department may hold back some information, such as victims' personal details and material that could harm an active federal investigation. Within 15 days after publishing, it must tell Congress what was released and withheld, summarize any redactions, and list government officials and politically exposed people named in the files.",
+ "who_it_affects": [
+  {
+   "group": "Department of Justice",
+   "how": "It must publish the Epstein-related records and send Congress a report on what it released, withheld, and redacted."
+  },
+  {
+   "group": "Victims in the Epstein case",
+   "how": "Their personal information may be withheld from the public release."
+  },
+  {
+   "group": "Government officials and other people named in the records",
+   "how": "Their names may appear in the published files and in a list the department must give Congress."
+  },
+  {
+   "group": "Members of Congress",
+   "how": "They will receive a report listing the categories of information released and withheld and the officials and politically exposed people named."
+  },
+  {
+   "group": "The general public",
+   "how": "People will be able to search and download the released records."
+  }
+ ],
+ "when_it_takes_effect": "Enacted November 19, 2025; the report to Congress is due within 15 days after the records are published. The summary does not state the publication deadline.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

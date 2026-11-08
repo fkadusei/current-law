@@ -39,5 +39,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Requires the General Services Administration to send Congress a yearly report on technology programs paid for by two specific funds.",
+  "what_it_does": "The General Services Administration (GSA) must report to Congress every year on each program paid for by the Federal Citizen Services Fund or by the Acquisition Services Fund for technology transformation services. The report must list programs funded in the past fiscal year or at any point in the past five years. For each program, it must explain what the program does, how it is funded, and what projects are part of it. Where it applies, the report must also list money repaid by other agencies or funds and the data used to make its estimates.",
+  "who_it_affects": [
+   {
+    "group": "General Services Administration",
+    "how": "The agency must prepare and send a detailed yearly report to Congress on certain technology programs and how they are funded."
+   },
+   {
+    "group": "Members of Congress and their committees",
+    "how": "They will receive yearly information on what GSA technology programs do and how they are paid for."
+   },
+   {
+    "group": "Other federal agencies that pay GSA for technology services",
+    "how": "Their repayments to GSA for these programs must be listed in the reports where they apply."
+   }
+  ],
+  "when_it_takes_effect": "At the start of the first fiscal year after enactment, which is October 1, 2025.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

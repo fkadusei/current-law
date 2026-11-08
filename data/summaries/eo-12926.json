@@ -1,0 +1,20 @@
+{
+ "headline": "A 1994 executive order directs the federal government on carrying out the National Voter Registration Act of 1993.",
+ "what_it_does": "This order deals with putting into practice the National Voter Registration Act of 1993, often called the \"motor voter\" law. That law set rules for how people can register to vote in federal elections, such as when getting a driver's license or visiting certain government offices. Based on its title, the order tells federal agencies how to help carry out that law. No summary was provided, so the specific instructions are not described here.",
+ "who_it_affects": [
+  {
+   "group": "Federal agencies",
+   "how": "They are given direction on their role in carrying out the National Voter Registration Act."
+  },
+  {
+   "group": "People registering to vote in federal elections",
+   "how": "They may be affected by how federal agencies help put the voter registration law into practice."
+  }
+ ],
+ "when_it_takes_effect": "Signed September 12, 1994",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

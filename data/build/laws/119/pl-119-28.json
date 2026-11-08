@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Economics and Public Finance",
  "sponsor": "Rep. Scalise, Steve [R-LA-1]",
- "official_summary": null,
+ "official_summary": "<p><strong>Rescissions Act of 2025</strong></p><p>This act rescinds specified unobligated funds that were provided to the Department of State, the U.S. Agency for International Development (USAID), various independent and related agencies, and the Corporation for Public Broadcasting.&nbsp;</p><p>The rescissions were proposed by the President under procedures included in the Congressional Budget and Impoundment Control Act of 1974. Under current law, the President may propose rescissions to Congress using specified procedures, and the rescissions must be enacted into law to take effect.&nbsp;</p><p>Specifically, the act rescinds funds that were provided to the State Department or the President for</p><ul><li>Contributions to International Organizations;</li><li>Contributions for International Peacekeeping Activities;</li><li>Global Health Programs (excluding funds for programs addressing HIV/AIDS, tuberculosis, malaria, nutrition, or maternal and child health);</li><li>Migration and Refugee Assistance;</li><li>the Complex Crises Fund;</li><li>the Democracy Fund;</li><li>the Economic Support Fund (excluding funds for assistance to Jordan, Egypt, or the Countering&nbsp;PRC Influence Fund);</li><li>Contributions to the Clean Technology Fund;</li><li>International Organization and Programs;</li><li>Development Assistance (excluding funds for Feed the Future Innovation Labs, the Countering PRC Influence Fund, or commodity-based food aid);</li><li>Assistance for Europe, Eurasia, and Central Asia;</li><li>International Disaster Assistance (excluding funds for commodity-based food aid); and</li><li>Transition Initiatives.</li></ul><p>The act also rescinds funds that were provided for&nbsp;</p><ul><li>USAID Operating Expenses,</li><li>the Inter-American Foundation,</li><li>the&nbsp;U.S. African Development Foundation,</li><li>the U.S. Institute of Peace, and</li><li>the Corporation for Public Broadcasting.</li></ul>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr4enr/uslm/BILLS-119hr4enr.xml"
@@ -4368,5 +4368,40 @@
   "House": "R",
   "Senate": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "Congress cancels unspent money previously set aside for many foreign aid programs and for the Corporation for Public Broadcasting.",
+  "what_it_does": "This law takes back (rescinds) money Congress had already approved but that had not yet been committed. The cuts affect State Department and USAID programs, several independent foreign-affairs agencies, and the Corporation for Public Broadcasting. The President proposed these cuts under a 1974 budget law, and they only take effect because Congress passed them. Some programs are protected from the cuts, including global health funds for HIV/AIDS, tuberculosis, malaria, nutrition, and mother-and-child health, and commodity-based food aid.",
+  "who_it_affects": [
+   {
+    "group": "Public radio and TV stations",
+    "how": "Unspent federal money for the Corporation for Public Broadcasting, which funds public broadcasters, is canceled."
+   },
+   {
+    "group": "People and groups abroad who receive U.S. foreign aid",
+    "how": "Unspent money for programs such as refugee help, disaster aid, democracy programs, development aid, and some global health work is canceled, with certain listed exceptions."
+   },
+   {
+    "group": "International organizations and peacekeeping missions",
+    "how": "Unspent U.S. contributions to international organizations, peacekeeping, and the Clean Technology Fund are canceled."
+   },
+   {
+    "group": "Small independent federal agencies",
+    "how": "Unspent funds for the Inter-American Foundation, the U.S. African Development Foundation, and the U.S. Institute of Peace are canceled."
+   },
+   {
+    "group": "USAID",
+    "how": "Unspent money for the agency's operating expenses is canceled."
+   },
+   {
+    "group": "Jordan and Egypt",
+    "how": "Economic aid set aside for these two countries is excluded from the cuts."
+   }
+  ],
+  "when_it_takes_effect": "July 24, 2025, when it was signed into law.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

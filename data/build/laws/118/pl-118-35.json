@@ -4370,5 +4370,52 @@
   "House": "R",
   "Senate": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "Temporary spending law keeps the federal government funded into March 2024 and extends several health, family, and security programs.",
+  "what_it_does": "This law, called a continuing resolution, prevents a government shutdown by funding federal agencies mostly at 2023 levels. Agencies covered by four spending bills, including agriculture, veterans affairs, energy, and transportation and housing, are funded through March 1, 2024, and most others through March 8, 2024. It also extends a list of expiring programs through March 8, 2024, including community health center funding, diabetes programs, child welfare grants, and drone-threat authorities. It delays planned cuts to Medicaid payments for hospitals that serve many low-income patients.",
+  "who_it_affects": [
+   {
+    "group": "Federal employees and people who use federal services",
+    "how": "Government agencies stay open and keep operating, mostly at last year's funding levels, instead of shutting down."
+   },
+   {
+    "group": "Patients at community health centers",
+    "how": "Funding for health centers that serve medically underserved areas continues through March 8, 2024."
+   },
+   {
+    "group": "Doctors in training and health workers in shortage areas",
+    "how": "Funding continues for primary care residency training in community clinics and for National Health Service Corps scholarships and student loan repayment."
+   },
+   {
+    "group": "People with Type 1 diabetes and Native American communities",
+    "how": "Funding continues for Type 1 diabetes research and for diabetes treatment and prevention programs for tribes."
+   },
+   {
+    "group": "Hospitals that serve many low-income patients",
+    "how": "Scheduled cuts to their extra Medicaid payments are delayed until March 9, 2024."
+   },
+   {
+    "group": "Doctors who bill Medicare",
+    "how": "A minimum adjustment that affects Medicare payment rates in some areas is extended through March 8, 2024."
+   },
+   {
+    "group": "Children and families in the child welfare system",
+    "how": "Grants to states and tribes for keeping families together, reunification, and adoption continue through March 8, 2024."
+   },
+   {
+    "group": "Teens and young parents",
+    "how": "Funding continues for sex education programs, including abstinence-focused and pregnancy-prevention programs."
+   },
+   {
+    "group": "People of Micronesia and the Marshall Islands",
+    "how": "U.S. grants and financial aid to these nations continue through March 8, 2024."
+   }
+  ],
+  "when_it_takes_effect": "Enacted January 19, 2024; funding runs through March 1, 2024, for some agencies and March 8, 2024, for most others and for the extended programs.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

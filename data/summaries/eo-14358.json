@@ -1,0 +1,24 @@
+{
+ "headline": "Executive order changes the \"reciprocal\" tariff rates on goods from China to match a new US-China trade arrangement.",
+ "what_it_does": "This order modifies the reciprocal tariff rates the United States charges on imports from China. According to its title, the changes are meant to carry out an economic and trade arrangement between the US and China. No summary was provided, so the exact new rates, which products are covered, and how long the changes last are not described here.",
+ "who_it_affects": [
+  {
+   "group": "US companies that import goods from China",
+   "how": "The tariffs they pay on Chinese goods covered by the reciprocal tariffs will change."
+  },
+  {
+   "group": "Consumers who buy products made in China",
+   "how": "Prices on some Chinese-made goods may shift as the tariff rates change."
+  },
+  {
+   "group": "Chinese exporters selling to the US",
+   "how": "The tariff rates applied to their goods entering the US will be adjusted."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

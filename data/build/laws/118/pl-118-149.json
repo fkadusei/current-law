@@ -33,5 +33,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Congress awards one Congressional Gold Medal to 60 diplomats who saved Jews during World War II, honoring them after their deaths.",
+  "what_it_does": "This law gives a single Congressional Gold Medal, awarded after death, to 60 diplomats for their service in saving Jews during World War II. The one medal is presented as a group to the eldest next of kin of each of the 60 diplomats. After that presentation, the medal goes to the U.S. Holocaust Memorial Museum.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law was enacted on December 12, 2024. The official summary does not give a date for the medal presentation.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

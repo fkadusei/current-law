@@ -1,0 +1,24 @@
+{
+ "headline": "New law requires federal agencies to list their recurring reports to Congress and flag ones that are outdated or duplicative.",
+ "what_it_does": "Federal agencies must include, in their yearly budget requests, a list of every recurring plan or report they send to Congress. For any report they find outdated or duplicative, they must recommend whether to end it, change it, combine it, or make it less frequent, and explain why. The White House Office of Management and Budget must review reports required from two or more agencies and make its own recommendations to Congress.",
+ "who_it_affects": [
+  {
+   "group": "Federal agencies",
+   "how": "They must track their recurring reports to Congress and add this list and any recommendations to their annual budget justifications."
+  },
+  {
+   "group": "Office of Management and Budget",
+   "how": "It must review reports that multiple agencies are required to submit and tell Congress whether they are outdated or duplicative."
+  },
+  {
+   "group": "Congressional committees",
+   "how": "They will receive agency lists and recommendations they can use to decide whether to change or end reporting requirements."
+  }
+ ],
+ "when_it_takes_effect": "Enacted December 23, 2024; the summary does not give a specific start date for the new budget requirements.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

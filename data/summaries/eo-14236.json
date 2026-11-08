@@ -1,0 +1,20 @@
+{
+ "headline": "A March 2025 executive order cancels another group of earlier presidential executive orders and actions.",
+ "what_it_does": "This order revokes a set of earlier executive orders and other presidential actions. Its title describes these as additional cancellations, following earlier ones. The title alone does not list which orders are canceled or what programs they covered.",
+ "who_it_affects": [
+  {
+   "group": "Federal agencies",
+   "how": "Agencies must stop carrying out the canceled orders and may need to change related policies or programs."
+  },
+  {
+   "group": "People and organizations covered by the canceled orders",
+   "how": "Any rules, programs, or protections created by the canceled orders may be changed or ended, depending on which orders are included."
+  }
+ ],
+ "when_it_takes_effect": "Signed March 14, 2025; the specific effective date is not stated in the title.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

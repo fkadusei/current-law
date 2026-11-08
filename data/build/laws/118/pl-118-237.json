@@ -39,5 +39,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Congress named the post office at 80 1st Street in Kingsland, Arkansas, the \"Kingsland 'Johnny Cash' Post Office.\"",
+  "what_it_does": "This law renames a U.S. Postal Service facility in Kingsland, Arkansas, at 80 1st Street. The building will now be officially called the Kingsland 'Johnny Cash' Post Office. It does not change how the post office operates or what services it provides.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law was enacted on January 4, 2025.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

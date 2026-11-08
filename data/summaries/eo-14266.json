@@ -1,0 +1,24 @@
+{
+ "headline": "Executive order changes the 'reciprocal' tariff rates on imports based on how each trading partner has responded to US tariffs.",
+ "what_it_does": "This order adjusts the tariff rates set under the earlier 'reciprocal tariff' policy. Based on its title, it changes rates depending on whether a trading partner struck back with its own tariffs or moved to work with the US on trade. Countries that retaliated may face higher rates, and those seen as cooperating may see their rates changed. The source material does not list the specific countries or new rates.",
+ "who_it_affects": [
+  {
+   "group": "US companies that import goods",
+   "how": "The tariffs they pay on imported products could go up or down depending on which country the goods come from."
+  },
+  {
+   "group": "Shoppers buying imported products",
+   "how": "Prices on some foreign-made goods could change if businesses pass tariff costs on to customers."
+  },
+  {
+   "group": "Foreign governments and exporters selling to the US",
+   "how": "The tariff rate their goods face may depend on whether their country retaliated against or cooperated with US trade actions."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

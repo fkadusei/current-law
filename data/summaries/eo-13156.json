@@ -1,0 +1,20 @@
+{
+ "headline": "Clinton order changes the rules for the National Partnership Council, which advised on how federal agencies and their unions work together.",
+ "what_it_does": "This order amends Executive Order 12871, the 1993 order that set up the National Partnership Council. That council advised the President on labor-management relations in the federal government. The title does not say exactly what was changed, such as who sits on the council or what it does.",
+ "who_it_affects": [
+  {
+   "group": "Federal employees and their unions",
+   "how": "The council deals with how federal workers' unions and agency managers cooperate, so changes to it may affect how their concerns are heard."
+  },
+  {
+   "group": "Federal agency managers",
+   "how": "Managers take part in the labor-management partnerships the council oversees, so changes to the council may affect their role."
+  }
+ ],
+ "when_it_takes_effect": "2000-05-17",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

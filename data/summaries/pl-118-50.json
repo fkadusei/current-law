@@ -1,0 +1,44 @@
+{
+ "headline": "Emergency spending law funds military and other aid for Ukraine, Israel, and Indo-Pacific allies, and requires TikTok to be sold or face a ban.",
+ "what_it_does": "This law provides extra emergency money in 2024 for the military, State Department, and other agencies to aid Ukraine, Israel, Gaza humanitarian efforts, and U.S. partners such as Taiwan. It also adds new sanctions on fentanyl traffickers, Iran, Hamas, and others, and lets the President seize Russian government assets in the U.S. to help Ukraine. It bans app stores and web hosts from supporting TikTok or other apps controlled by China, Russia, Iran, or North Korea unless the app is sold to a non-adversary owner. It also bars data brokers from selling Americans' sensitive personal data to those four countries.",
+ "who_it_affects": [
+  {
+   "group": "TikTok users and the company ByteDance",
+   "how": "TikTok must be sold to an owner not controlled by a foreign adversary or app stores and hosts must stop distributing and updating it, and users can request a copy of their account data before any ban."
+  },
+  {
+   "group": "App stores and internet hosting companies",
+   "how": "They face fines of up to $5,000 per U.S. user if they distribute, update, or host a covered foreign adversary controlled app."
+  },
+  {
+   "group": "Data brokers",
+   "how": "They may not sell or share Americans' sensitive data, such as Social Security numbers, location, health, or financial details, with North Korea, China, Russia, Iran, or companies they control, with the Federal Trade Commission enforcing the rule."
+  },
+  {
+   "group": "Ukrainians arriving in the U.S. during FY2024",
+   "how": "Eligible arrivals can get refugee-style resettlement help and other benefits."
+  },
+  {
+   "group": "Nonprofits such as houses of worship",
+   "how": "FEMA receives money for the Nonprofit Security Grant Program, which helps nonprofits pay for security."
+  },
+  {
+   "group": "U.S. banks and financial institutions",
+   "how": "They must report Russian government assets they hold, close certain accounts tied to Iranian leaders, and follow new anti-money-laundering rules related to fentanyl."
+  },
+  {
+   "group": "Foreign people and companies tied to fentanyl trafficking, Iran's oil and missile programs, Hamas, or captagon drugs",
+   "how": "They face required U.S. sanctions such as frozen property and visa bans."
+  },
+  {
+   "group": "The governments of Ukraine, Israel, and Taiwan",
+   "how": "They receive U.S. military equipment, funding, or economic support, and Ukraine must agree to arrangements for repaying some economic aid unless Congress allows the debt to be canceled."
+  }
+ ],
+ "when_it_takes_effect": "Signed April 24, 2024. Most funding is available through September 30, 2024 unless stated otherwise. The TikTok-related ban takes effect 270 days after enactment (January 19, 2025), with a possible one-time extension of up to 90 days.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

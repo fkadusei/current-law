@@ -1,0 +1,40 @@
+{
+ "headline": "Extends a key foreign surveillance program for two years and adds new limits and oversight on how the FBI searches the collected data.",
+ "what_it_does": "This law renews Section 702 of the Foreign Intelligence Surveillance Act (FISA) for two years. Section 702 lets the government collect communications of non-U.S. persons believed to be outside the country, which can also sweep in information about Americans. The law adds rules for when the FBI may search that data using Americans' names or other identifiers, raises penalties for misuse, and expands which companies can be required to help with surveillance. It also creates a commission to study FISA and recommend changes.",
+ "who_it_affects": [
+  {
+   "group": "Americans whose communications are collected incidentally",
+   "how": "FBI searches of Section 702 data using their names or identifiers generally need prior approval from a supervisor or attorney, and the Justice Department must audit those searches within 180 days."
+  },
+  {
+   "group": "FBI employees and supervisors",
+   "how": "They face required consequences for improper searches, including zero tolerance for willful misconduct and escalating penalties for mistakes, and federal workers who commit intentional misconduct before the surveillance courts can be suspended without pay or removed."
+  },
+  {
+   "group": "Members of Congress and other elected or appointed officials",
+   "how": "Searches using their names need approval from the FBI Deputy Director, political appointees cannot take part in approving those searches, and Members of Congress must generally be notified when their names are searched."
+  },
+  {
+   "group": "Communications and equipment service providers",
+   "how": "The definition of companies that can be required to assist with surveillance now includes any provider with access to equipment used to send or store communications, though homes, restaurants, community facilities, and public accommodations are excluded."
+  },
+  {
+   "group": "Political groups and news media",
+   "how": "Information from political organizations or media sources has limited use in applications for surveillance orders, which must now be backed by sworn statements."
+  },
+  {
+   "group": "Foreign visitors and immigrants applying to travel to the U.S.",
+   "how": "Section 702 data may be searched to screen non-U.S. persons being processed for travel to the United States, as long as no U.S. person terms are used."
+  },
+  {
+   "group": "Congressional leaders",
+   "how": "Specified leaders and up to two staff members each may attend proceedings of the Foreign Intelligence Surveillance Court and its review court."
+  }
+ ],
+ "when_it_takes_effect": "Enacted April 20, 2024; reauthorizes Section 702 for two years.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

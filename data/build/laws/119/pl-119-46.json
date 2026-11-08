@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Public Lands and Natural Resources",
  "sponsor": "Rep. Aderholt, Robert B. [R-AL-4]",
- "official_summary": null,
+ "official_summary": "<p>This joint resolution requests the Department of the Interior to authorize the display of U.S. semiquincentennial materials and other significant artifacts, digital content, film footage, and associated audio and imagery in and around the vicinity of the National Mall during the period beginning on December 31, 2025, and ending on January 5, 2026.</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-119hjres133enr/uslm/BILLS-119hjres133enr.xml"
@@ -36,5 +36,24 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Congress asks the Interior Department to allow special 250th-anniversary displays on the National Mall and Washington Monument from Dec. 31, 2025 to Jan. 5, 2026.",
+  "what_it_does": "This joint resolution asks the Secretary of the Interior to approve one-time displays on and around the National Mall and the Washington Monument. The displays may include materials marking the nation's 250th anniversary (the semiquincentennial), historic artifacts, digital content, film footage, and related sound and images. It is a request, not a requirement, and it covers only a six-day window.",
+  "who_it_affects": [
+   {
+    "group": "Visitors to the National Mall in Washington, D.C.",
+    "how": "They may see special anniversary displays, including video, images, and audio, on and near the Mall and the Washington Monument during the covered dates."
+   },
+   {
+    "group": "The Department of the Interior and National Park Service",
+    "how": "They are asked to authorize these unusual, one-time display arrangements on federal parkland they manage."
+   }
+  ],
+  "when_it_takes_effect": "Enacted December 2, 2025; covers displays from December 31, 2025, through January 5, 2026.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

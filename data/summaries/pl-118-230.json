@@ -1,0 +1,24 @@
+{
+ "headline": "New law lets the Interior Department use private property appraisers licensed in any state, not just the state where the land is.",
+ "what_it_does": "The law lets the Department of the Interior hire private appraisers who are licensed or certified in at least one state to value land and other real property it handles. Before, the appraiser had to be licensed in the state where the deal took place. Interior must still prefer appraisers licensed in the local state when it can, and may use out-of-state appraisers only if local ones are unavailable, not qualified for the job, or cost too much. Interior must also make its appraisal policies public.",
+ "who_it_affects": [
+  {
+   "group": "Private real estate appraisers",
+   "how": "Appraisers licensed in one state may now be hired for Interior property deals in other states when local appraisers are unavailable, not qualified, or more costly."
+  },
+  {
+   "group": "Landowners and others in property deals with the Interior Department",
+   "how": "Their property may be valued by an appraiser licensed outside their state in some cases."
+  },
+  {
+   "group": "Department of the Interior",
+   "how": "It has more options for hiring appraisers and must publish the text of its appraisal policies."
+  }
+ ],
+ "when_it_takes_effect": "Enacted January 4, 2025; the summary does not give a separate start date.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

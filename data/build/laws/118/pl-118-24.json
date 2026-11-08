@@ -39,5 +39,24 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Extends for four more years a bankruptcy rule that helps qualifying National Guard members and reservists file for Chapter 7 bankruptcy.",
+  "what_it_does": "When people file for Chapter 7 bankruptcy, which wipes out many debts, they usually must pass an income check called a means test. If their income is too high, the court can presume the filing is an abuse of the system. This law keeps an existing exemption from that check for qualifying National Guard members and reservists. The exemption was set to end on December 19, 2023, and this law extends it for four more years.",
+  "who_it_affects": [
+   {
+    "group": "National Guard members and military reservists called to active duty or homeland defense for at least 90 days since September 11, 2001",
+    "how": "They can keep skipping the Chapter 7 bankruptcy means test for four more years instead of losing that option in December 2023."
+   },
+   {
+    "group": "Lenders and other creditors of these service members",
+    "how": "They face four more years in which these service members can file Chapter 7 bankruptcy without the usual income-based presumption of abuse."
+   }
+  ],
+  "when_it_takes_effect": "Enacted December 19, 2023, the same day the exemption was set to expire; it extends the exemption for four more years.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

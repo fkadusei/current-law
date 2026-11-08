@@ -1,0 +1,28 @@
+{
+ "headline": "Executive order sets rules for honoring past fitness checks and rechecking people in federal public trust jobs.",
+ "what_it_does": "Based on its title, this order tells federal agencies to generally accept, or give \"reciprocity\" to, earlier fitness decisions about excepted service employees and federal contractor workers, instead of repeating them. It also calls for people in positions of public trust to be reinvestigated. No summary was provided, so details such as how often reinvestigations happen are not stated here.",
+ "who_it_affects": [
+  {
+   "group": "Federal employees in the excepted service",
+   "how": "A prior fitness decision about them may be accepted by other agencies rather than redone."
+  },
+  {
+   "group": "Employees of federal contractors",
+   "how": "Their earlier fitness checks may carry over when they work with a different agency."
+  },
+  {
+   "group": "People in federal positions of public trust",
+   "how": "They may be subject to periodic background reinvestigations."
+  },
+  {
+   "group": "Federal agencies",
+   "how": "They must follow the order's rules on accepting past fitness decisions and on reinvestigations."
+  }
+ ],
+ "when_it_takes_effect": "Signed January 16, 2009; the effective date is not stated in the provided material.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

@@ -1,0 +1,16 @@
+{
+ "headline": "A 2014 executive order took more steps under an existing national emergency tied to the conflict in the Democratic Republic of the Congo.",
+ "what_it_does": "President Obama signed this order to add to actions already in place under a national emergency about the conflict in the Democratic Republic of the Congo. The title says it takes \"additional steps\" but gives no details. Orders like this often expand sanctions, such as freezing the property of certain people, but the source provided does not say what this one changes.",
+ "who_it_affects": [
+  {
+   "group": "People and groups linked to the conflict in the Democratic Republic of the Congo",
+   "how": "They may face new or broader US government restrictions, but the source does not say what those are."
+  }
+ ],
+ "when_it_takes_effect": "Signed July 8, 2014; the source does not give a separate start date.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

@@ -1,0 +1,24 @@
+{
+ "headline": "Order lets the military call certain reserve troops to active duty under national emergency powers.",
+ "what_it_does": "This executive order uses the president's national emergency powers to allow members of the Selected Reserve, and some members of the Individual Ready Reserve, to be ordered to active duty. It was signed in March 2020, during a national emergency declared earlier that month. The title does not say how many people could be called up or for how long.",
+ "who_it_affects": [
+  {
+   "group": "Members of the Selected Reserve of the armed forces",
+   "how": "They could be ordered to leave civilian life and report for active military duty."
+  },
+  {
+   "group": "Certain members of the Individual Ready Reserve",
+   "how": "Some of these former active-duty service members who still have a reserve commitment could be called back to active duty."
+  },
+  {
+   "group": "Employers and families of reservists",
+   "how": "They could be affected if a reservist is called away from a job or home for active service."
+  }
+ ],
+ "when_it_takes_effect": "Signed March 27, 2020",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

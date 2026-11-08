@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Public Lands and Natural Resources",
  "sponsor": "Rep. Maloy, Celeste [R-UT-2]",
- "official_summary": null,
+ "official_summary": "<p>This joint resolution allows off-road vehicles to be used in certain areas of the Glen Canyon National Recreation Area, which is in northern Arizona and southeastern Utah and contains Lake Powell.</p><p>Specifically, the joint resolution nullifies the <a href=\"https://www.federalregister.gov/documents/2025/01/13/2025-00509/glen-canyon-national-recreation-area-motor-vehicles\">rule</a> issued by the National Park Service (NPS) titled<em> Glen Canyon National Recreation Area; Motor Vehicles&nbsp;</em>and published on January 13, 2025. Under the rule, the NPS limited the use of off-road vehicles, such as off-highway vehicles and all-terrain&nbsp;vehicles, in certain areas. For instance, the rule prohibited the use of off-road vehicles on an 8-mile segment of the Poison Spring Loop located on Route 633 proceeding north to Route 730 in the Orange Cliffs Special Management Unit. The rule also eliminated the authority of the NPS to&nbsp;open the upper portion of the Flint Trail in that unit to off-road vehicles. Additionally, the rule limited off-road vehicle&nbsp;use from certain roads to the shoreline of the lake.</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-119hjres60enr/uslm/BILLS-119hjres60enr.xml"
@@ -4368,5 +4368,28 @@
   "House": "R",
   "Senate": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "Congress cancels a National Park Service rule that limited off-road vehicle use in parts of Glen Canyon National Recreation Area.",
+  "what_it_does": "This law overturns a National Park Service rule published on January 13, 2025, that restricted off-road vehicles such as ATVs and off-highway vehicles in parts of Glen Canyon National Recreation Area in Arizona and Utah. The rule had banned these vehicles on an 8-mile stretch of the Poison Spring Loop in the Orange Cliffs Special Management Unit. It had also removed the Park Service's power to open the upper Flint Trail to off-road vehicles and limited off-road driving from certain roads to the Lake Powell shoreline. With the rule canceled, those limits do not apply.",
+  "who_it_affects": [
+   {
+    "group": "People who drive ATVs and other off-road vehicles in Glen Canyon",
+    "how": "They are no longer bound by the 2025 rule's limits on the Poison Spring Loop segment and on routes from certain roads to the Lake Powell shoreline."
+   },
+   {
+    "group": "National Park Service",
+    "how": "The agency's 2025 off-road vehicle rule for Glen Canyon is void, and under the Congressional Review Act it generally cannot issue a substantially similar rule without new approval from Congress."
+   },
+   {
+    "group": "Visitors to Lake Powell and the Orange Cliffs area",
+    "how": "Areas that the rule had closed to off-road vehicles may again see that kind of vehicle use."
+   }
+  ],
+  "when_it_takes_effect": "May 23, 2025",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Environmental Protection",
  "sponsor": "Rep. Obernolte, Jay [R-CA-23]",
- "official_summary": null,
+ "official_summary": "<p>This joint resolution revokes the waiver granted to the California Air Resources Board regarding new emissions standards for new 2024 and subsequent model year on-road heavy-duty&nbsp;vehicles and engines, off-road diesel engines, and off-road diesel-fueled auxiliary power units. (Under the Clean Air Act, California may seek waivers of the preemption prohibiting states from enacting certain emission standards.)</p><p>Specifically, the joint resolution nullifies the Environmental Protection Agency notice titled <a href=\"https://www.federalregister.gov/documents/2025/01/06/2024-31125/california-state-motor-vehicle-and-engine-and-nonroad-engine-pollution-control-standards-the-omnibus\">California State Motor Vehicle and Engine and&nbsp;Nonroad Engine Pollution Control Standards; The ‘Omnibus’ Low NOX Regulation; Waiver of Preemption; Notice of Decision</a>.</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-119hjres89enr/uslm/BILLS-119hjres89enr.xml"
@@ -4369,5 +4369,36 @@
   "House": "R",
   "Senate": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "Congress cancels EPA's approval of California's stricter nitrogen oxide (NOx) pollution rules for new heavy-duty trucks and diesel engines.",
+  "what_it_does": "This law uses the Congressional Review Act to cancel an EPA decision that let California set its own, stricter emissions standards. Those standards covered new heavy-duty on-road vehicles and engines from model year 2024 on, plus off-road diesel engines and diesel auxiliary power units. Normally federal law blocks states from setting their own vehicle emission rules unless EPA grants California a waiver. With the waiver revoked, California cannot enforce this \"Omnibus\" Low NOx rule.",
+  "who_it_affects": [
+   {
+    "group": "Makers of heavy-duty trucks and engines",
+    "how": "They no longer have to meet California's stricter NOx standards for new heavy-duty vehicles and engines sold there."
+   },
+   {
+    "group": "Makers of off-road diesel engines and auxiliary power units",
+    "how": "California's separate standards for these engines covered by the waiver can no longer be enforced."
+   },
+   {
+    "group": "California Air Resources Board",
+    "how": "The state agency loses federal approval to enforce this set of emission rules."
+   },
+   {
+    "group": "Trucking companies and buyers of heavy-duty vehicles in California",
+    "how": "New trucks and engines they buy will not need to meet the California-specific rule covered by the canceled waiver."
+   },
+   {
+    "group": "Other states that follow California's vehicle standards",
+    "how": "States that adopted California's version of these rules may no longer be able to rely on them."
+   }
+  ],
+  "when_it_takes_effect": "Upon enactment on June 12, 2025",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

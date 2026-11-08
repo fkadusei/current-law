@@ -4357,5 +4357,36 @@
   "House": "R",
   "Senate": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "Short-term spending law extends federal funding into March 2024 to avoid a shutdown and changes how student aid eligibility is calculated.",
+  "what_it_does": "This law extends temporary funding for federal agencies, mostly at 2023 levels. Agencies covered by four spending bills (including agriculture, FDA, energy, military construction, veterans affairs, transportation, and housing) are funded through March 8, 2024, and most other agencies through March 22, 2024. It also changes the student aid index formula for dependent students, setting a floor on a student's available income at -$1,500 for 2024-2025 and $0 for later years. It adds money for Federal Pell Grants starting in fiscal year 2025 and exempts these student aid changes from certain budget rules.",
+  "who_it_affects": [
+   {
+    "group": "Federal employees and agencies",
+    "how": "Agencies keep running with temporary funding instead of shutting down when the earlier extension ran out."
+   },
+   {
+    "group": "Veterans",
+    "how": "Veterans Affairs programs stay funded through March 8, 2024."
+   },
+   {
+    "group": "People who use federal food, housing, and transportation programs",
+    "how": "Programs in agriculture, housing, and transportation continue operating at about 2023 funding levels through March 8, 2024."
+   },
+   {
+    "group": "Dependent college students applying for federal aid",
+    "how": "The FAFSA formula that measures their own income changes, which can affect how much federal student aid they qualify for."
+   },
+   {
+    "group": "Students who receive Pell Grants",
+    "how": "The Pell Grant program gets additional funding starting in fiscal year 2025."
+   }
+  ],
+  "when_it_takes_effect": "Enacted March 1, 2024; funding extended through March 8, 2024 for some agencies and March 22, 2024 for most others; student aid changes apply starting with the 2024-2025 award year, with Pell funding beginning in fiscal year 2025.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

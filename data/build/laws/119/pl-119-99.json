@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Native Americans",
  "sponsor": "Sen. Sullivan, Dan [R-AK]",
- "official_summary": null,
+ "official_summary": "<p><strong>Alaska’s Right to Ivory Sales and Tradition Act or the ARTIST Act</strong></p><p>This act prohibits states from imposing bans on marine mammal products produced by Alaska Natives.</p><p>Specifically, states may not prohibit the interstate commerce, importation, sale, transfer, trade, barter, or possession of marine mammal ivory, marine mammal bone, or baleen legally produced by an Alaska Native as an authentic Alaska Native article of handicrafts and clothing.</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-119s254enr/uslm/BILLS-119s254enr.xml"
@@ -3518,5 +3518,28 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "New law stops states from banning the sale or possession of ivory, bone, and baleen crafts legally made by Alaska Natives.",
+  "what_it_does": "States may not ban the sale, trade, barter, transfer, possession, import, or interstate commerce of certain marine mammal products made by Alaska Natives. This covers marine mammal ivory, marine mammal bone, and baleen. It applies only to items legally produced by an Alaska Native as authentic Alaska Native handicrafts or clothing.",
+  "who_it_affects": [
+   {
+    "group": "Alaska Native artists and craftspeople",
+    "how": "They can sell and trade their legally made ivory, bone, and baleen handicrafts and clothing in states that previously banned these items."
+   },
+   {
+    "group": "State governments",
+    "how": "States with laws banning marine mammal ivory or similar products can no longer apply those bans to authentic Alaska Native handicrafts and clothing."
+   },
+   {
+    "group": "Buyers, collectors, and retailers of Alaska Native art",
+    "how": "They may buy, own, sell, and move these authentic items across state lines without facing state bans."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on June 12, 2026; the summary does not give a separate start date.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

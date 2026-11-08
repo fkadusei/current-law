@@ -3531,5 +3531,15 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "Congress named a Westminster, California post office the Little Saigon Vietnam War Veterans Memorial Post Office.",
+  "what_it_does": "This law renames a U.S. Postal Service facility at 9317 Bolsa Avenue in Westminster, California. The building will now be officially called the Little Saigon Vietnam War Veterans Memorial Post Office. It does not change postal services, rules, or staffing.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law was enacted on January 4, 2025.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -1,0 +1,24 @@
+{
+ "headline": "President Bush created an emergency board to look into a labor dispute between United Airlines and its mechanics' union.",
+ "what_it_does": "This order set up a special federal emergency board to investigate a dispute between United Airlines and its mechanics and related workers, who are represented by the International Association of Machinists and Aerospace Workers. Under federal labor law for airlines and railroads, boards like this usually study the dispute and report back to the President. While that process runs, the union generally cannot strike and the company generally cannot change working conditions for a set period. The title alone does not give details on the board's members or deadlines.",
+ "who_it_affects": [
+  {
+   "group": "United Airlines mechanics and related employees in the Machinists union",
+   "how": "Their contract dispute was sent to a federal board for review, which likely delayed any strike for a set period."
+  },
+  {
+   "group": "United Airlines",
+   "how": "The company's dispute with its mechanics was placed under federal review, which likely limited changes to working conditions during that time."
+  },
+  {
+   "group": "United Airlines passengers",
+   "how": "A board like this usually holds off a strike for a time, which can lower the chance of service disruptions during the review."
+  }
+ ],
+ "when_it_takes_effect": "December 20, 2001, when it was signed",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

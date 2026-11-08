@@ -1,0 +1,20 @@
+{
+ "headline": "2008 order freezes U.S.-held property of certain people and groups tied to Burma and bars Americans from some dealings with them.",
+ "what_it_does": "This order adds to existing U.S. sanctions on Burma (also called Myanmar). It freezes, or 'blocks,' property and financial assets in the United States that belong to certain people or organizations connected to Burma. It also bars Americans from certain business or money dealings with them. The title does not spell out who is covered.",
+ "who_it_affects": [
+  {
+   "group": "People and organizations tied to Burma who are named under the order",
+   "how": "Any of their property or assets under U.S. control can be frozen, so they cannot use or move it."
+  },
+  {
+   "group": "U.S. businesses, banks, and individuals",
+   "how": "They are generally barred from certain transactions with the people and organizations whose property is blocked."
+  }
+ ],
+ "when_it_takes_effect": "Signed April 30, 2008; the exact effective date is not given in the source material.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

@@ -1,0 +1,24 @@
+{
+ "headline": "Executive order bans certain trade and new investment between the United States and Russia in response to Russia's continued aggression.",
+ "what_it_does": "This order, signed by President Biden, prohibits certain goods from being imported from Russia and certain goods from being exported to Russia. It also bans certain new investment involving Russia. The title does not list which goods or investments are covered, so the exact scope is not described in the material provided.",
+ "who_it_affects": [
+  {
+   "group": "US businesses that import goods from Russia",
+   "how": "They may be barred from bringing certain Russian products into the United States."
+  },
+  {
+   "group": "US businesses that export goods to Russia",
+   "how": "They may be barred from selling or shipping certain products to Russia."
+  },
+  {
+   "group": "US investors and companies",
+   "how": "They may be barred from making certain new investments involving Russia."
+  }
+ ],
+ "when_it_takes_effect": "Signed March 11, 2022; specific start dates are not stated in the provided material.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

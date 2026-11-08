@@ -13,7 +13,7 @@
  "became_law": "signed",
  "policy_area": "Labor and Employment",
  "sponsor": "Sen. Marshall, Roger [R-KS]",
- "official_summary": null,
+ "official_summary": "<p><strong>Retire through Ownership Act</strong></p><p>This bill allows the fiduciary of an Employee Stock Ownership Plan (ESOP) to rely on a valuation provided by an independent valuation expert or business appraiser in determining the fair market value&nbsp;of the plan's&nbsp;assets if the assets are not securities for which there is a generally recognized market&nbsp;and the expert or appraiser follows specified methodologies.&nbsp;</p><p>In general,&nbsp;ESOPs are defined contribution pension plans where employees accrue shares of their employers' stock in individual accounts as part of their compensation. After separating from employment or retiring, employees receive the cash value of their shares.</p><p>Under the bill, an independent expert or appraiser must adhere to the methodology established under the Internal Revenue Service Ruling 59-60, which prescribes the factors a professional business appraiser should consider in forming a valuation of the stock&nbsp;for a closely held business.&nbsp;</p>",
  "text_links": [
   {
    "url": "https://www.govinfo.gov/content/pkg/BILLS-119s2403enr/uslm/BILLS-119s2403enr.xml"
@@ -3542,5 +3542,32 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "New law lets employee-owned company retirement plans rely on independent appraisals to value stock that is not publicly traded.",
+  "what_it_does": "This law covers Employee Stock Ownership Plans (ESOPs), retirement plans where workers build up shares of their employer's stock. When a company's stock is not traded on a public market, the person managing the plan can rely on a value set by an independent appraiser. The appraiser must follow the valuation method laid out in IRS Revenue Ruling 59-60, which lists the factors to weigh when valuing a privately held business.",
+  "who_it_affects": [
+   {
+    "group": "Workers in employee stock ownership plans at privately held companies",
+    "how": "The cash value they receive for their shares when they leave or retire may be based on an independent appraisal done under IRS Ruling 59-60 methods."
+   },
+   {
+    "group": "ESOP plan managers (fiduciaries)",
+    "how": "They may rely on a qualifying independent appraisal when deciding the fair market value of plan stock that has no public market."
+   },
+   {
+    "group": "Independent business appraisers and valuation experts",
+    "how": "Their valuations can be relied on by ESOP managers only if they follow the methods in IRS Ruling 59-60."
+   },
+   {
+    "group": "Privately held companies with ESOPs",
+    "how": "Their stock held in the plan may be valued using a qualifying independent appraisal."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

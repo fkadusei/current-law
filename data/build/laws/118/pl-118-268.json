@@ -3529,5 +3529,15 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "Congress named the post office at 119 Main Street in Plains, Georgia, after former President Jimmy Carter and his wife Rosalynn Carter.",
+  "what_it_does": "This law renames a U.S. Postal Service facility at 119 Main Street in Plains, Georgia, as the Jimmy and Rosalynn Carter Post Office. It changes only the official name of the building. It does not change how mail is delivered or what services the office provides.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law was enacted on January 4, 2025.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

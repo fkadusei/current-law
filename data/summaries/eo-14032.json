@@ -1,0 +1,20 @@
+{
+ "headline": "Executive order restricts Americans from investing in stocks and other securities that help fund certain Chinese companies.",
+ "what_it_does": "The order addresses US investment in publicly traded securities that provide money to certain companies in the People's Republic of China. It treats these investments as a national security threat and sets limits on Americans buying or holding them. The title alone does not say which companies are covered or how the rules work.",
+ "who_it_affects": [
+  {
+   "group": "US investors, including individuals and investment funds",
+   "how": "They may be barred from buying or holding securities tied to the covered Chinese companies."
+  },
+  {
+   "group": "Certain companies based in China",
+   "how": "They may lose access to money from American investors."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

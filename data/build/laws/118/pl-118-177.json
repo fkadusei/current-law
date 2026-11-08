@@ -39,5 +39,24 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Law adds Lafourche Parish, Louisiana, to the Atchafalaya National Heritage Area and gives the parish a seat on its managing group.",
+  "what_it_does": "This law expands the Atchafalaya National Heritage Area in Louisiana so that it now includes Lafourche Parish. It also adds Lafourche Parish to the local group that coordinates and manages the heritage area.",
+  "who_it_affects": [
+   {
+    "group": "Residents and local government of Lafourche Parish, Louisiana",
+    "how": "The parish becomes part of the heritage area and gains membership in the local group that coordinates it."
+   },
+   {
+    "group": "The local coordinating entity for the Atchafalaya National Heritage Area",
+    "how": "Its membership grows to include Lafourche Parish."
+   }
+  ],
+  "when_it_takes_effect": "Enacted December 23, 2024; the summary does not list a separate start date.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -1,0 +1,24 @@
+{
+ "headline": "A 2009 executive order setting rules for how records from the President's office are handled.",
+ "what_it_does": "This executive order deals with presidential records, the papers and files created by a President and White House staff. Based on its title alone, it sets policy on how these records are managed or made available. No official summary was provided, so the specific rules are not described here.",
+ "who_it_affects": [
+  {
+   "group": "Current and former Presidents",
+   "how": "The order likely shapes how their official records are handled after they are created."
+  },
+  {
+   "group": "The National Archives",
+   "how": "The agency that keeps presidential records would likely follow the rules in this order."
+  },
+  {
+   "group": "Researchers, journalists, and members of the public who request government records",
+   "how": "The order may affect how they can get access to presidential records."
+  }
+ ],
+ "when_it_takes_effect": "Signed January 21, 2009; executive orders usually take effect when signed.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

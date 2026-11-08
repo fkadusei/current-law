@@ -1,0 +1,20 @@
+{
+ "headline": "A 1994 executive order barred certain transactions between the United States and Haiti.",
+ "what_it_does": "This order from President Clinton banned some kinds of business or financial dealings involving Haiti. The title does not say which transactions were covered, and no summary was provided. It was one of several US sanctions on Haiti in the early 1990s.",
+ "who_it_affects": [
+  {
+   "group": "US businesses and individuals dealing with Haiti",
+   "how": "They were barred from taking part in the transactions the order prohibits."
+  },
+  {
+   "group": "People and businesses in Haiti",
+   "how": "They faced limits on transactions with people and companies in the United States."
+  }
+ ],
+ "when_it_takes_effect": "Signed June 10, 1994; the exact start date is not stated in the available information.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

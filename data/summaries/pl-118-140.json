@@ -1,0 +1,24 @@
+{
+ "headline": "Federal agencies must explain in grant announcements how they score and choose applicants for competitive grants.",
+ "what_it_does": "When a federal agency announces a competitive grant, the announcement must now describe its rating system and the criteria it uses to judge applications. It must say whether it uses weighted scoring and, if so, how much each criterion counts. It must also describe any other merit-based method used to evaluate applications. The Office of Management and Budget must create common data standards so agencies report on these grant applications the same way.",
+ "who_it_affects": [
+  {
+   "group": "Organizations and individuals that apply for federal competitive grants, such as nonprofits, universities, researchers, and local governments",
+   "how": "They will be able to see in advance how their applications will be rated and how much each scoring factor counts."
+  },
+  {
+   "group": "Federal agencies that award competitive grants (except the Government Accountability Office)",
+   "how": "They must include detailed scoring and selection information in each notice of funding opportunity."
+  },
+  {
+   "group": "The Office of Management and Budget",
+   "how": "It must develop shared data elements so agencies report grant application information in a consistent way."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on December 11, 2024; the summary does not state a separate start date for the requirements.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

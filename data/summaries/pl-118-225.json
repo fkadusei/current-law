@@ -1,0 +1,28 @@
+{
+ "headline": "New law requires Medicare and Medicaid agency to create a website with Medicaid information for people with disabilities and their caregivers.",
+ "what_it_does": "The law requires the Centers for Medicare & Medicaid Services (CMS) to set up a website with resources about Medicaid for people with disabilities and their caregivers. The site must explain who qualifies, list points of contact, describe covered long-term services, and share information on wait lists for certain home- and community-based services. CMS must also promote the website, for example by working with the Social Security Administration.",
+ "who_it_affects": [
+  {
+   "group": "People with disabilities",
+   "how": "They will have one website to find information about Medicaid eligibility, long-term services, and wait lists for home- and community-based care."
+  },
+  {
+   "group": "Family members and other caregivers of people with disabilities",
+   "how": "They will be able to use the website to learn about Medicaid coverage and who to contact for help."
+  },
+  {
+   "group": "Centers for Medicare & Medicaid Services (CMS)",
+   "how": "The agency must build the website, keep it stocked with the required information, and promote it."
+  },
+  {
+   "group": "Social Security Administration",
+   "how": "It may work with CMS to help spread the word about the website."
+  }
+ ],
+ "when_it_takes_effect": "Enacted January 4, 2025; the summary does not give a deadline for launching the website.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

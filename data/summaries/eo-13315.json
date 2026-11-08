@@ -1,0 +1,20 @@
+{
+ "headline": "Executive order freezes US-held property of the former Iraqi government, its senior officials, and their family members.",
+ "what_it_does": "This 2003 order blocks, or freezes, property and assets in the United States that belong to the former Iraqi regime under Saddam Hussein, its senior officials, and their family members. People and businesses in the US generally cannot transfer, use, or deal in that blocked property. The title says the order also takes \"certain other actions,\" but no details are provided here.",
+ "who_it_affects": [
+  {
+   "group": "Former Iraqi regime senior officials and their family members",
+   "how": "Their property and assets under US control are frozen and cannot be used or moved."
+  },
+  {
+   "group": "US banks, businesses, and individuals holding such property",
+   "how": "They must hold the blocked assets and generally may not complete transactions involving them."
+  }
+ ],
+ "when_it_takes_effect": "Signed August 28, 2003; exact effective date not stated in the provided material.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

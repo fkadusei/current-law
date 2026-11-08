@@ -1,0 +1,20 @@
+{
+ "headline": "Executive order closes federal executive departments and agencies for one day on January 9, 2025.",
+ "what_it_does": "This order closes the executive departments and agencies of the federal government on January 9, 2025. The title does not give the reason for the closing or list any exceptions, so details such as which offices might stay open are not covered here.",
+ "who_it_affects": [
+  {
+   "group": "Federal government employees",
+   "how": "Most workers at executive departments and agencies would not report to work on January 9, 2025, because their offices are closed."
+  },
+  {
+   "group": "People who use in-person federal offices and services",
+   "how": "People who planned to visit or get help from federal offices that day may find them closed and need to go another day."
+  }
+ ],
+ "when_it_takes_effect": "January 9, 2025 (one day only)",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

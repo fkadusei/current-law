@@ -1,0 +1,16 @@
+{
+ "headline": "President Bush amended an earlier executive order about how the U.S. Foreign Service is run; details are not given in the source.",
+ "what_it_does": "This 2005 order changes Executive Order 12293, an earlier order that set rules for the Foreign Service of the United States. The Foreign Service is the group of U.S. diplomats and staff who work at embassies and consulates abroad. The title does not say what specific changes were made, so the exact effects are unclear.",
+ "who_it_affects": [
+  {
+   "group": "Foreign Service officers and staff",
+   "how": "The order changes rules in an earlier executive order that governs the Foreign Service, but the specific changes are not described in the source."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

@@ -1,0 +1,20 @@
+{
+ "headline": "Executive order freezes property in the U.S. of certain people found to be undermining democratic processes or institutions in Belarus.",
+ "what_it_does": "This order lets the U.S. government block, or freeze, property and financial interests of certain people linked to undermining democracy in Belarus. Blocked property that is in the United States or held by U.S. persons cannot be transferred, paid out, or otherwise used. Americans are generally barred from doing business involving that property.",
+ "who_it_affects": [
+  {
+   "group": "People targeted for undermining democratic processes or institutions in Belarus",
+   "how": "Their property and assets under U.S. control can be frozen."
+  },
+  {
+   "group": "U.S. banks, businesses, and individuals",
+   "how": "They generally may not deal in or move property belonging to the people targeted by the order."
+  }
+ ],
+ "when_it_takes_effect": "June 16, 2006",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

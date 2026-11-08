@@ -1,0 +1,32 @@
+{
+ "headline": "Raises VA disability and survivor payments starting December 1, 2023, by the same percentage as the Social Security cost-of-living increase.",
+ "what_it_does": "This law requires the Department of Veterans Affairs (VA) to raise several benefit payments by the same percentage that Social Security benefits rise on December 1, 2023. The increase covers disability compensation, extra payments for dependents, the clothing allowance for certain disabled veterans, and payments to surviving spouses and children. The VA must publish the new amounts in the Federal Register. The VA may also make a similar increase to certain other disability compensation rates.",
+ "who_it_affects": [
+  {
+   "group": "Veterans with service-connected disabilities",
+   "how": "Their monthly disability compensation goes up by the same percentage as the Social Security cost-of-living increase."
+  },
+  {
+   "group": "Disabled veterans with spouses, children, or other dependents",
+   "how": "The extra compensation they get for dependents also goes up by the same percentage."
+  },
+  {
+   "group": "Certain disabled veterans who receive a clothing allowance",
+   "how": "Their clothing allowance increases by the same percentage."
+  },
+  {
+   "group": "Surviving spouses and children of veterans who died from service-connected causes",
+   "how": "Their dependency and indemnity compensation payments increase by the same percentage."
+  },
+  {
+   "group": "Department of Veterans Affairs",
+   "how": "It must calculate and pay the higher amounts and publish them in the Federal Register."
+  }
+ ],
+ "when_it_takes_effect": "The increase takes effect December 1, 2023.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

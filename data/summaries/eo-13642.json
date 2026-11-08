@@ -1,0 +1,24 @@
+{
+ "headline": "Executive order directs federal agencies to release government information in open, computer-readable formats by default.",
+ "what_it_does": "Based on its title, this order makes it the standard practice for federal agencies to publish government information in formats that are open and easy for computers to read and process. No official summary was provided, so details such as specific requirements, exceptions, or deadlines are not described here.",
+ "who_it_affects": [
+  {
+   "group": "Federal agencies",
+   "how": "They are directed to make open, machine-readable formats the default when releasing government information."
+  },
+  {
+   "group": "Researchers, software developers, and businesses that use public data",
+   "how": "They may find government information easier to download, analyze, and build tools with."
+  },
+  {
+   "group": "Members of the public",
+   "how": "They may have easier access to government information released online."
+  }
+ ],
+ "when_it_takes_effect": "Signed May 9, 2013; specific implementation dates are not stated in the provided material.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}

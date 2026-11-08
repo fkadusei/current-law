@@ -1,0 +1,24 @@
+{
+ "headline": "President Bush created an emergency board to look into a labor dispute between Northwest Airlines and its union aircraft mechanics.",
+ "what_it_does": "This order set up a Presidential Emergency Board to investigate a dispute between Northwest Airlines and its workers represented by the Aircraft Mechanics Fraternal Association. Boards like this are used under federal labor law for airlines and railroads. They study the dispute and report back to the President, and they typically delay a strike or lockout while the process runs.",
+ "who_it_affects": [
+  {
+   "group": "Northwest Airlines mechanics represented by the Aircraft Mechanics Fraternal Association",
+   "how": "Their contract dispute with the airline was put before a federal board for investigation, which typically delays any strike for a period of time."
+  },
+  {
+   "group": "Northwest Airlines",
+   "how": "The company's dispute with its mechanics' union was put under review by a federal board, which typically delays any lockout or changes to working conditions for a period of time."
+  },
+  {
+   "group": "Northwest Airlines passengers",
+   "how": "Flights could continue while the board investigated, since the process generally delays a strike or lockout."
+  }
+ ],
+ "when_it_takes_effect": "Signed March 9, 2001",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-08"
+}
