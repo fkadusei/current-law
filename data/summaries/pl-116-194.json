@@ -1,0 +1,24 @@
+{
+ "headline": "This law requires the General Services Administration to set up a program that helps federal agencies adopt modern technology while keeping cybersecurity in mind.",
+ "what_it_does": "The law directs the General Services Administration (GSA) to create an Information Technology Modernization Centers of Excellence Program. The program is meant to help executive branch agencies adopt newer technology. GSA must work with the Department of Homeland Security so that the tools and frameworks provided include adequate cybersecurity and protect the integrity, confidentiality, and availability of federal information. GSA must also report to Congress.",
+ "who_it_affects": [
+  {
+   "group": "Federal executive agencies",
+   "how": "Agencies may receive technology, tools, and frameworks through the new program to help them modernize their information systems."
+  },
+  {
+   "group": "Federal IT staff and contractors",
+   "how": "Staff who manage agency technology may work with tools and frameworks that the program makes available and must meet the cybersecurity goals the program sets."
+  },
+  {
+   "group": "Members of the public who use federal services",
+   "how": "The program aims to protect the security and reliability of federal information systems that hold their data, though the summary does not describe direct changes to individual services."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

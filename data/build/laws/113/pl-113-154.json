@@ -39,5 +39,24 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2014 law adds the desecration of cemeteries to the list of religious freedom violations covered by the International Religious Freedom Act.",
+  "what_it_does": "The law amends the International Religious Freedom Act of 1998, which tracks violations of religious freedom in countries around the world. It adds the desecration of cemeteries to the forms of violations that the Act covers. The official summary does not describe any new penalties, funding, or enforcement steps.",
+  "who_it_affects": [
+   {
+    "group": "Religious communities abroad whose cemeteries or burial sites may be damaged or destroyed",
+    "how": "Damage to their cemeteries is now recognized under the Act as a form of religious freedom violation."
+   },
+   {
+    "group": "State Department staff who prepare the annual international religious freedom reports",
+    "how": "They must consider cemetery desecration when documenting religious freedom violations in other countries."
+   }
+  ],
+  "when_it_takes_effect": "The law took effect when the President signed it on August 8, 2014.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

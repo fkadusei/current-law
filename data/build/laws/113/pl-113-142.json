@@ -39,5 +39,24 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2014 law lets members of the Hoonah Indian Association collect glaucous-winged gull eggs in Glacier Bay National Park under an annual plan.",
+  "what_it_does": "The law lets the Secretary of the Interior allow Hoonah Indian Association members to collect glaucous-winged gull eggs up to two times a year at up to five locations in Glacier Bay National Park in Alaska. It says this collection is a use the Alaska National Interest Lands Conservation Act specifically permits. The collection schedule and locations must be based on an annual plan prepared by the Secretary and the Association.",
+  "who_it_affects": [
+   {
+    "group": "Members of the Hoonah Indian Association",
+    "how": "They may collect gull eggs in Glacier Bay National Park up to two times a year at up to five approved locations, following an annual plan."
+   },
+   {
+    "group": "The Secretary of the Interior and the National Park Service",
+    "how": "They may allow the collection and must prepare the annual plan with the Association that sets its schedule and locations."
+   }
+  ],
+  "when_it_takes_effect": "The law took effect when it was enacted on July 25, 2014.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

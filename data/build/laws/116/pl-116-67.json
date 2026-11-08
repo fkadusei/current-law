@@ -36,5 +36,24 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2019 law expands the days on which the POW/MIA flag must be displayed at specified locations, from six listed holidays to every day the U.S. flag is displayed.",
+  "what_it_does": "Before this law, federal rules required the POW/MIA flag to be displayed only on six set days, including Memorial Day and Veterans Day. The law changes that so the POW/MIA flag must be displayed on every day the U.S. flag is displayed at those specified locations. The summary does not list the locations, so the exact places covered are not described here.",
+  "who_it_affects": [
+   {
+    "group": "Veterans and families of prisoners of war and missing service members",
+    "how": "The POW/MIA flag, which honors those still unaccounted for, must now be flown at covered locations on far more days of the year."
+   },
+   {
+    "group": "Staff who manage flag displays at covered federal sites",
+    "how": "They must display the POW/MIA flag on every day the U.S. flag is displayed, rather than only on the six listed dates."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on November 7, 2019. The summary does not describe a separate later start date.",
+  "ceremonial": true,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

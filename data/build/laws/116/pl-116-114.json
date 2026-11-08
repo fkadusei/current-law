@@ -3508,5 +3508,28 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "Congress extended a temporary federal rule that keeps fentanyl-related substances in the strictest drug category until May 6, 2021.",
+  "what_it_does": "The Drug Enforcement Administration had placed fentanyl-related substances in Schedule I of the Controlled Substances Act on a temporary basis. That order was set to expire on February 6, 2020, and this law extends it until May 6, 2021. The law also directs the Government Accountability Office to study how these substances are classified, research on them, and their importation into the United States, and to report back.",
+  "who_it_affects": [
+   {
+    "group": "Manufacturers, importers, and sellers of fentanyl-related substances",
+    "how": "The temporary Schedule I placement keeps these substances under the strictest federal controls for another year and a few months."
+   },
+   {
+    "group": "Researchers and laboratories that work with fentanyl-related substances",
+    "how": "They remain subject to Schedule I rules, which govern how these substances can be possessed, handled, and studied."
+   },
+   {
+    "group": "People who need or use fentanyl-related substances for lawful medical purposes",
+    "how": "The summary does not describe changes to medical access, so the effect on them is not specified beyond the continued scheduling."
+   }
+  ],
+  "when_it_takes_effect": "Enacted February 6, 2020, and extends the scheduling order through May 6, 2021.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

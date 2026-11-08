@@ -33,5 +33,24 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law raised the yearly cap on emergency aid for Americans returning from abroad after Hurricanes Irma and Jose, from $1 million to $25 million, for fiscal years 2017 and 2018.",
+  "what_it_does": "It changes the Social Security Act so the federal government can spend up to $25 million per year, instead of $1 million, on temporary help for U.S. citizens and their dependents who come back from a foreign country because of a crisis and have no other resources. The help can include money payments, temporary lodging, transportation, and other goods and services needed for health and welfare. The higher cap applies only to fiscal years 2017 and 2018.",
+  "who_it_affects": [
+   {
+    "group": "U.S. citizens and their dependents who return from a foreign country during a crisis",
+    "how": "They could receive a larger pool of temporary money, lodging, or transportation help if they have no other resources available."
+   },
+   {
+    "group": "State and federal agencies that administer temporary assistance for returning citizens",
+    "how": "They had a higher annual spending limit for this type of emergency aid during fiscal years 2017 and 2018."
+   }
+  ],
+  "when_it_takes_effect": "Enacted September 12, 2017; the higher $25 million cap applies to fiscal years 2017 and 2018.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

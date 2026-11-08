@@ -1,0 +1,24 @@
+{
+ "headline": "This law requires federal prison staff who respond to emergencies to be issued pepper spray after training, and asks the GAO to study its effects.",
+ "what_it_does": "The law amends the federal criminal code to require the Bureau of Prisons to issue oleoresin capsicum spray, also called pepper spray, to officers and employees who respond to emergencies at high-security, medium-security, and administrative facilities. Staff may use it to reduce violent acts by prisoners and visitors, but they must complete a training course before receiving it and take a refresher course each year. The Government Accountability Office must also evaluate how pepper spray affects crime and violence in these facilities, assess whether it should be given at low- or minimum-security facilities, and recommend safety improvements for Bureau of Prisons staff.",
+ "who_it_affects": [
+  {
+   "group": "Bureau of Prisons correctional officers who respond to emergencies",
+   "how": "They must receive pepper spray and complete initial and annual training on its use before carrying it at high-security, medium-security, and administrative facilities."
+  },
+  {
+   "group": "Bureau of Prisons employees who respond to emergencies",
+   "how": "Non-officer staff who respond to emergencies at covered facilities must also receive pepper spray and complete the required training."
+  },
+  {
+   "group": "Federal prisoners and visitors at high-security, medium-security, and administrative facilities",
+   "how": "Staff are permitted to use pepper spray to reduce violent acts by prisoners and visitors."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

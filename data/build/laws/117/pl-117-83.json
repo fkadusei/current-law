@@ -3533,5 +3533,24 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2022 law lets school districts reuse their FY2022 Impact Aid student counts or federal property data when applying for FY2023 funding.",
+  "what_it_does": "The law changes how local school districts apply for Impact Aid for fiscal year 2023. Instead of collecting new student count or federal property valuation data, districts must use the figures from their fiscal year 2022 applications, as applicable. Impact Aid helps districts that lose property tax revenue because of tax-exempt federal land or that spend more because federally connected children enroll, such as children living on Indian lands or military bases.",
+  "who_it_affects": [
+   {
+    "group": "Local educational agencies (school districts) that receive Impact Aid",
+    "how": "They must base their fiscal year 2023 Impact Aid applications on the student count or federal property data they reported in fiscal year 2022."
+   },
+   {
+    "group": "Families of federally connected children, such as children living on military bases or Indian lands",
+    "how": "Their children's enrollment is counted for Impact Aid funding, and the districts serving them apply under the rules in this law."
+   }
+  ],
+  "when_it_takes_effect": "Enacted January 21, 2022; it governs Impact Aid applications for fiscal year 2023.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

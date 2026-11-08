@@ -36,5 +36,24 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Makes permanent a rule that lets people in rare-disease clinical trials keep the first $2,000 a year they are paid without losing SSI or Medicaid eligibility.",
+  "what_it_does": "Before this law, an exclusion let people in clinical trials for rare diseases or conditions set aside the first $2,000 per year of trial compensation when agencies counted their resources for SSI and Medicaid eligibility. That exclusion was set to expire. This law removes the expiration date, so the exclusion continues indefinitely.",
+  "who_it_affects": [
+   {
+    "group": "People who take part in clinical trials for rare diseases or conditions",
+    "how": "They can receive up to $2,000 per year in trial compensation without that amount counting against their resource limits for SSI and Medicaid."
+   },
+   {
+    "group": "People who receive or apply for Supplemental Security Income (SSI) or Medicaid",
+    "how": "Trial compensation up to $2,000 per year is not counted as a resource when determining their eligibility."
+   }
+  ],
+  "when_it_takes_effect": "Enacted October 7, 2015; the summary does not state a separate effective date for the repeal of the sunset.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

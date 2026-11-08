@@ -1,0 +1,48 @@
+{
+ "headline": "The FAST Act is a five-year federal law (FY2016 to FY2020) that reauthorizes highway, transit, rail, safety, and trucking programs and makes many other changes across transportation and related areas.",
+ "what_it_does": "The law sets funding and rules for federal highway programs, public transit, passenger and freight rail, highway traffic and motor carrier safety, and hazardous materials transport for fiscal years 2016 through 2020. It also speeds up environmental review and permitting for some transportation projects and makes changes to tax and trust fund rules that pay for these programs. Other divisions cover vehicle recalls, Export-Import Bank rules, energy emergency powers, securities rules, and housing and lending provisions, many of which are only loosely related to transportation.",
+ "who_it_affects": [
+  {
+   "group": "State departments of transportation",
+   "how": "They receive federal highway and transit funds under new formulas, grant rules, and program requirements, and may take on more project approval duties."
+  },
+  {
+   "group": "Metropolitan planning organizations and local governments",
+   "how": "They must follow revised planning rules and may apply for new competitive grants for freight, safety, and transit projects."
+  },
+  {
+   "group": "Commuters and transit riders",
+   "how": "Transit agencies receive federal funds under revised formulas, and new rules govern transit safety oversight and vehicle purchasing."
+  },
+  {
+   "group": "Commercial truck drivers and motor carriers",
+   "how": "New rules cover hours of service, electronic logging device use, hair drug testing, driver licensing for some military members, and truck length and weight limits."
+  },
+  {
+   "group": "Railroads and Amtrak passengers",
+   "how": "Railroads face new safety rules and grade-crossing plans, and Amtrak faces new accounting, reporting, and board membership requirements."
+  },
+  {
+   "group": "Motor vehicle owners and rental companies",
+   "how": "Recall notice requirements, rental fleet recall rules, and penalty limits for manufacturers changed."
+  },
+  {
+   "group": "Small businesses owned by socially and economically disadvantaged individuals",
+   "how": "Federal highway and transit programs must spend at least 10% of covered funds through these firms."
+  },
+  {
+   "group": "Tribal governments",
+   "how": "They have new options for self-governance and tribal transportation funding."
+  },
+  {
+   "group": "Veterans and military members with commercial driving experience",
+   "how": "They may qualify for partial or full exemptions from some commercial driving tests."
+  }
+ ],
+ "when_it_takes_effect": "Signed into law on December 4, 2015; most highway and transit authorizations run through fiscal year 2020, and many sections have their own start dates.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

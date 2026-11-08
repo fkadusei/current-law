@@ -3516,5 +3516,28 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2021 law lets certain US intelligence and diplomatic employees who suffer brain injuries from hostile incidents on assignment receive payments.",
+  "what_it_does": "The law allows the CIA, the State Department, and other agencies to make payments to their personnel and families when a brain injury happens during an assignment at a foreign or domestic post. The injury must be linked to war, insurgency, hostile acts, terrorist activity, or another incident the agency designates, and it must not come from the worker's own willful misconduct. The authority covers injuries that happened before, on, or after the law's enactment date. Agencies must also send classified reports to Congress on payments made and their amounts.",
+  "who_it_affects": [
+   {
+    "group": "CIA, State Department, and other agency personnel stationed overseas or at domestic duty posts",
+    "how": "Eligible workers who suffer qualifying brain injuries on assignment may receive payments from their agency."
+   },
+   {
+    "group": "Families of eligible agency personnel",
+    "how": "Family members of covered workers may also be eligible to receive payments."
+   },
+   {
+    "group": "Federal agencies that employ intelligence and diplomatic personnel",
+    "how": "They must set up payment processes and submit classified reports to Congress on implementation."
+   }
+  ],
+  "when_it_takes_effect": "Upon enactment on October 8, 2021, and it applies to qualifying injuries incurred before, on, or after that date.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

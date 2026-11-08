@@ -39,5 +39,36 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Congress reauthorized and updated federal autism programs, requiring HHS to name an official to coordinate autism research and services through 2019.",
+  "what_it_does": "The law requires the Health and Human Services Secretary to appoint an official to oversee federal autism research, services, and support, and to work to reduce duplicate efforts across agencies. It extends several autism programs and the Interagency Autism Coordinating Committee through fiscal year 2019 and authorizes funding for them for fiscal years 2015 through 2019. It also changes the committee's duties and membership, adds respite care for caregivers as an allowed state activity, requires culturally competent education materials, and orders a report on the transition of young adults with autism from school services to adult services.",
+  "who_it_affects": [
+   {
+    "group": "People with autism spectrum disorder",
+    "how": "Federal autism research, services, and support activities are directed to be coordinated under a designated HHS official, and a report is required on challenges young adults face moving from school-based services to adult services."
+   },
+   {
+    "group": "Family caregivers of people with autism",
+    "how": "States may use program funds to include respite care, which gives caregivers temporary breaks, and to train providers in respite care."
+   },
+   {
+    "group": "State agencies that coordinate autism services",
+    "how": "Lead agencies at the state level may add respite care to their activities and must make information and education materials culturally competent."
+   },
+   {
+    "group": "Federal health agencies, including the National Institutes of Health",
+    "how": "They must coordinate autism work through the designated official and the Interagency Committee, and the committee's recommendations on the strategic plan and feedback processes are revised."
+   },
+   {
+    "group": "Researchers studying autism and developmental disabilities",
+    "how": "Regional centers of excellence in autism and developmental disabilities epidemiology are added as a type of eligible grant or cooperative agreement purpose, and research networks may be used for training and intervention studies."
+   }
+  ],
+  "when_it_takes_effect": "Enacted August 8, 2014; the program extensions and funding authorizations cover fiscal years 2015 through 2019.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

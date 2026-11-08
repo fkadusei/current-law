@@ -1,0 +1,28 @@
+{
+ "headline": "A new initiative inside the Justice Department will advise on and coordinate enforcement of laws that protect service members, veterans, and their families.",
+ "what_it_does": "The law creates the Servicemembers and Veterans Initiative within the Justice Department's Civil Rights Division. The initiative advises on enforcing criminal and civil laws that affect troops, veterans, and their families, and it recommends policy changes. It also serves as the point of contact between the Justice Department and the military branches, and it works with other Justice Department offices on fraud cases that target service members.",
+ "who_it_affects": [
+  {
+   "group": "Active-duty service members",
+   "how": "The Justice Department will have a dedicated office that considers their legal protections when it enforces federal laws."
+  },
+  {
+   "group": "Veterans",
+   "how": "Their legal concerns, including the enforcement of laws that protect them, get a dedicated point of review within the Justice Department."
+  },
+  {
+   "group": "Military families",
+   "how": "Spouses and dependents are included in the initiative's work on laws that affect them."
+  },
+  {
+   "group": "People targeted by fraud aimed at service members",
+   "how": "The initiative works with the Justice Department's Consumer Protection Branch on prosecuting federal fraud crimes that target troops."
+  }
+ ],
+ "when_it_takes_effect": "Enacted January 5, 2021; the official summary does not list a separate start date for the initiative.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

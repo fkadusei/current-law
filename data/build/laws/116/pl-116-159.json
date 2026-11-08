@@ -4350,5 +4350,48 @@
   "House": "D",
   "Senate": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "A stopgap spending law that keeps the federal government funded past October 1, 2020, and extends many expiring programs in health, transportation, farming, veterans, and other areas.",
+  "what_it_does": "Division A is a continuing resolution that funds most federal agencies at fiscal 2020 levels through December 11, 2020, or until full-year spending bills are enacted, which prevents a shutdown. The other divisions extend expiring authorities, such as Medicare and Medicaid programs, surface transportation and highway trust funds, SNAP and school meal waivers, VA health and benefits programs, and the U.S. Parole Commission, and they include some changes to Medicare repayment rules and DHS premium processing fees. Many extensions run through fiscal 2021 or 2022, and a few run to later dates.",
+  "who_it_affects": [
+   {
+    "group": "Federal agencies and their employees",
+    "how": "Agencies can keep spending at fiscal 2020 levels, and civilian employees can be paid under limits meant to avoid furloughs."
+   },
+   {
+    "group": "Medicare Part B enrollees",
+    "how": "The 2021 Part B premium is set by a formula based on the 2020 rate plus 25% of the difference from a preliminary 2021 rate."
+   },
+   {
+    "group": "Medicare providers who received accelerated or advance payments",
+    "how": "Repayment is delayed, recoupment is capped at set percentages, and interest on repayments is capped at 4% during the COVID-19 public health emergency."
+   },
+   {
+    "group": "SNAP recipients and families with children receiving school meals",
+    "how": "Pandemic EBT, SNAP certification and reporting flexibilities, and some school meal waivers are extended through fiscal 2021 or mid-2021."
+   },
+   {
+    "group": "Veterans and their families",
+    "how": "Many VA health care, housing, homeless veteran, and benefits programs are extended through fiscal 2022 or later."
+   },
+   {
+    "group": "Immigration benefit applicants",
+    "how": "DHS may offer premium processing for more immigration benefits and may raise and adjust the related fees."
+   },
+   {
+    "group": "Farmers and ranchers",
+    "how": "USDA farm loan spending limits are raised, and authority for certain price reporting and grain inspection programs is extended."
+   },
+   {
+    "group": "Highway, transit, and rail users and state and local transportation agencies",
+    "how": "Federal highway, transit, and road safety programs are funded at fiscal 2020 levels through fiscal 2021."
+   }
+  ],
+  "when_it_takes_effect": "Enacted October 1, 2020. Division A funding generally runs through December 11, 2020, and other extensions run through dates ranging from fiscal 2021 to 2031.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

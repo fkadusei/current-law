@@ -1,0 +1,40 @@
+{
+ "headline": "This 2015 law extends the federal terrorism insurance program through 2020, creates a national license-sharing body for insurance agents, and exempts some swaps from certain margin rules.",
+ "what_it_does": "Title I extends the Terrorism Insurance Program through December 31, 2020, and starts reducing the federal share of insured losses from terrorism to 80% beginning January 1, 2016. Title II creates the National Association of Registered Agents and Brokers (NARAB), a nonprofit that lets licensed insurance producers operate across state lines under one membership. Title III exempts certain non-cleared swaps from some initial and variation margin rules under the Commodity Exchange Act and the Securities Exchange Act.",
+ "who_it_affects": [
+  {
+   "group": "Insurance companies that sell commercial property and casualty coverage",
+   "how": "They take part in a federal program that shares terrorism losses, with the trigger amounts for federal payments rising each year from $100 million in 2015 to $200 million in 2020."
+  },
+  {
+   "group": "Businesses and property owners who buy terrorism insurance",
+   "how": "The federal backstop for terrorism insurance is set to expire at the end of 2020 unless Congress acts again."
+  },
+  {
+   "group": "Licensed insurance agents and brokers",
+   "how": "They may join NARAB to be licensed for insurance sales in multiple states, and they must pass an FBI criminal history check to join."
+  },
+  {
+   "group": "State insurance regulators",
+   "how": "They keep authority over consumer protection, market conduct, and discipline of producers, and they receive information from NARAB about where its members operate."
+  },
+  {
+   "group": "Small insurance producers",
+   "how": "NARAB may not set membership rules that unfairly limit their ability to join, including discriminatory fees."
+  },
+  {
+   "group": "Swap dealers and major swap participants",
+   "how": "Certain non-cleared swaps are exempt from prudential regulators' initial and variation margin rules if specified criteria are met."
+  },
+  {
+   "group": "Commercial companies that use swaps to hedge business risk",
+   "how": "Swaps they enter to manage commercial risk may qualify for the margin exemption if they meet the listed conditions, including notifying the CFTC how they will meet their obligations."
+  }
+ ],
+ "when_it_takes_effect": "The federal share reduction begins January 1, 2016, and the program extension runs through December 31, 2020. The summary does not list effective dates for the NARAB and swap margin provisions.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

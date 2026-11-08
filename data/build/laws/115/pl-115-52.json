@@ -877,5 +877,48 @@
  "control": {
   "Senate": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2017 law renews and revises FDA user fees and adds rules for drugs, devices, and related products.",
+  "what_it_does": "The FDA charges companies fees to review their applications, and this law extends many of those fee programs through fiscal year 2022 for brand name drugs, generic drugs, biosimilars, and medical devices. It replaces some fees, eliminates others such as certain supplemental application fees, and sets new annual program fees for drug and biosimilar application holders. The law also covers pediatric drug studies, expanded access to experimental drugs, drug shortages, device inspections, electronic submissions, drug imports, and over-the-counter hearing aids.",
+  "who_it_affects": [
+   {
+    "group": "Brand name drug companies",
+    "how": "They pay revised annual program fees for up to five approved drugs and must follow new pediatric study and reporting rules."
+   },
+   {
+    "group": "Generic drug makers",
+    "how": "They pay an annual program fee based on how many applications they hold, and companies that do not pay may not market their drugs."
+   },
+   {
+    "group": "Medical device manufacturers",
+    "how": "They must make submissions only in electronic form and may face a new risk-based inspection schedule and revised fee rules."
+   },
+   {
+    "group": "Biosimilar makers",
+    "how": "They pay annual program fees for up to five approved biosimilars and no longer pay certain supplemental application fees."
+   },
+   {
+    "group": "Children and pediatric patients",
+    "how": "Pediatric study requirements and labeling rules for drugs and devices are revised to address their use of these products."
+   },
+   {
+    "group": "Patients with rare or serious conditions",
+    "how": "Expanded access (compassionate use) rules and support for developing treatments for rare conditions are extended or revised."
+   },
+   {
+    "group": "Adults who buy hearing aids",
+    "how": "The FDA must create rules that allow certain hearing aids to be sold over the counter without a prescription, in stores, by mail, or online."
+   },
+   {
+    "group": "People who buy prescription drugs made outside the United States",
+    "how": "Imported prescription drugs are generally allowed only if the manufacturer authorizes them and they are properly labeled, with exceptions for shortages and certain Canadian imports."
+   }
+  ],
+  "when_it_takes_effect": "Signed into law on August 18, 2017. Many fee and program authorities run through fiscal year 2022, and some provisions have later start dates, such as a limit on certain user fee uses beginning in fiscal year 2024.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

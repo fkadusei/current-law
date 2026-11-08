@@ -1,0 +1,24 @@
+{
+ "headline": "This law lets the FAA pay the full cost for airports to buy equipment that tests fire suppression systems containing PFAS chemicals without releasing them.",
+ "what_it_does": "The law temporarily allows the Federal Aviation Administration to cover 100% of the cost for airports to purchase and use equipment that tests fire suppression systems containing PFAS, known as perfluoroalkyl and polyfluoroalkyl substances, without discharging those chemicals. PFAS are manmade substances that may harm human health. The FAA must also tell airports about this higher federal cost share and brief Congress on ways to reimburse airports that bought equipment with no federal money or with reduced federal money.",
+ "who_it_affects": [
+  {
+   "group": "Airports",
+   "how": "Airports can receive full federal funding for equipment that tests PFAS-containing fire suppression systems without releasing those chemicals, instead of paying a share of the cost."
+  },
+  {
+   "group": "Airports that already bought testing equipment",
+   "how": "The FAA must report to Congress on options to reimburse airports that paid for this equipment without federal funding or with only partial federal funding."
+  },
+  {
+   "group": "Firefighting and airport safety staff",
+   "how": "Airports that use this testing equipment may change how they test fire suppression systems to avoid releasing PFAS."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on December 20, 2022, and the 100% cost coverage is temporary, though the summary does not state an end date.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

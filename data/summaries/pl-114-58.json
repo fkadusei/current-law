@@ -1,0 +1,44 @@
+{
+ "headline": "A 2015 law extends expiring VA health, housing, education, and homelessness programs for about another year, and makes several construction and project changes.",
+ "what_it_does": "This law keeps many Department of Veterans Affairs programs running that were set to end. Most of the extensions run through fiscal year 2016, and some run through December 31, 2016. It also changes plans for a VA medical center project in Tampa, Florida, and authorizes several facility projects in New York and California, and it raises the authorized amount for a replacement VA medical center in Denver, Colorado.",
+ "who_it_affects": [
+  {
+   "group": "Veterans who receive VA health care",
+   "how": "Copayment collection for hospital and nursing home care, caregiver support, and several health pilot programs continue under the extended authority."
+  },
+  {
+   "group": "Veterans with service-connected disabilities who need nursing home care",
+   "how": "The VA's requirement to provide that nursing home care is extended through December 31, 2016."
+  },
+  {
+   "group": "Homeless veterans and veterans at risk of homelessness",
+   "how": "Reintegration, housing assistance, supportive services, and counseling programs continue through fiscal year 2016."
+  },
+  {
+   "group": "Veterans applying for or holding VA housing loans",
+   "how": "Specified housing loan provisions and definitions, including how property value is calculated at foreclosure, are extended through fiscal year 2016."
+  },
+  {
+   "group": "Veterans seeking education or training benefits",
+   "how": "The VA's Veterans' Advisory Committee on Education and the multipliers used to pay schools and apprenticeship providers for enrollment reports are extended."
+  },
+  {
+   "group": "Rural and disabled veterans who need transportation to VA facilities",
+   "how": "Transportation grants for highly rural veterans and rides to VA facilities for care or rehabilitation are extended."
+  },
+  {
+   "group": "Veterans in Denver, Colorado, and in the other named VA facility areas",
+   "how": "Construction and seismic projects at medical centers in Denver, Tampa, Canandaigua, Long Beach, West Los Angeles, and San Diego are authorized or adjusted, and large projects must use a non-VA federal entity for project management."
+  },
+  {
+   "group": "Veterans and service members with severe injuries, adaptive sports participants, and veterans with mobility-related disabilities",
+   "how": "Rehabilitation benefits, adaptive sports funding, and expanded eligibility for specially adapted housing assistance are extended."
+  }
+ ],
+ "when_it_takes_effect": "Enacted September 30, 2015; the extensions run through fiscal year 2016 or December 31, 2016, depending on the program.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

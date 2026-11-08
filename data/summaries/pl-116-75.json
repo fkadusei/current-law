@@ -1,0 +1,24 @@
+{
+ "headline": "Makes permanent the authority for the Supreme Court's Marshal and police to protect Justices, their guests, and court staff, and lets that protection extend beyond the states.",
+ "what_it_does": "The law removes the need to renew the Supreme Court's security authority, so it now continues without an end date. It allows the Marshal of the Supreme Court and the Supreme Court Police to protect Supreme Court Justices and their official guests. It also covers officers and employees of the Supreme Court. Protection may now be provided in any location, not only within a state.",
+ "who_it_affects": [
+  {
+   "group": "Supreme Court Justices",
+   "how": "They continue to receive security protection from the Marshal and Supreme Court Police, and that protection can now be provided anywhere, not only within a state."
+  },
+  {
+   "group": "Supreme Court officers and employees",
+   "how": "Court staff are covered by the same security protection from the Marshal and Supreme Court Police."
+  },
+  {
+   "group": "Official guests of Justices",
+   "how": "Guests who are with a Justice in an official capacity may receive the same protection."
+  }
+ ],
+ "when_it_takes_effect": "The law took effect when it was enacted on November 27, 2019.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

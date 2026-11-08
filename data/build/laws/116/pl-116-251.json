@@ -33,5 +33,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2020 federal law makes it a crime to misuse someone else's student loan account access for profit and adds scam warnings to student loan exit counseling.",
+  "what_it_does": "The law makes it a federal crime to knowingly use an account number or other access device that belongs to someone else, or was obtained fraudulently, to get into Department of Education systems for personal financial gain. A person convicted can face a fine, up to five years in prison, or both. It also requires colleges that take part in federal student aid to warn borrowers during exit counseling about third-party debt relief companies. The Department of Education must work to block unauthorized access to the National Student Loan Data System and warn borrowers about suspicious activity on their loan accounts.",
+  "who_it_affects": [
+   {
+    "group": "Borrowers with federal student loans",
+    "how": "They are warned about third-party debt relief companies and told to watch for suspicious activity on their loan accounts."
+   },
+   {
+    "group": "People who misuse others' student loan account access",
+    "how": "Using someone else's access device to get into Department of Education systems for profit is now a federal crime with possible prison time and fines."
+   },
+   {
+    "group": "Colleges and universities that participate in federal student aid programs",
+    "how": "They must include a caution about third-party student debt relief companies in the exit counseling they give departing borrowers."
+   },
+   {
+    "group": "Third-party student debt relief companies",
+    "how": "They are now the subject of required federal warnings given to borrowers at exit counseling."
+   }
+  ],
+  "when_it_takes_effect": "Enacted December 22, 2020; specific provisions take effect on the date of enactment unless otherwise stated in the statute.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

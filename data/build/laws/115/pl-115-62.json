@@ -33,5 +33,48 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law extends several expiring Department of Veterans Affairs programs for health care, benefits, and homeless veteran support, mostly through fiscal year 2019.",
+  "what_it_does": "The law keeps a set of VA authorities and programs from expiring. It extends health care rules such as copayment collection, nursing home care for veterans with service-connected disabilities, and child care for certain veterans receiving care. It also extends caregiver support, rural veteran transportation grants, and several pilot programs, some with shorter end dates such as January 6, 2018. Other sections continue homeless veteran reintegration programs, foreclosure and property authority, and adaptive sports funding.",
+  "who_it_affects": [
+   {
+    "group": "Veterans receiving VA health care",
+    "how": "VA authority to collect copayments, provide nursing home care, and provide child care for certain veterans is extended through fiscal year 2019."
+   },
+   {
+    "group": "Family caregivers of veterans",
+    "how": "Funding for VA assistance and support services for caregivers is reauthorized through fiscal year 2019."
+   },
+   {
+    "group": "Highly rural veterans",
+    "how": "VA grants to veterans service organizations that transport them to care are extended through fiscal year 2019."
+   },
+   {
+    "group": "Veterans with traumatic brain injury",
+    "how": "A community-based assisted living pilot program is extended through January 6, 2018."
+   },
+   {
+    "group": "Recently separated women veterans",
+    "how": "A retreat-setting counseling pilot program is extended through fiscal year 2019."
+   },
+   {
+    "group": "Homeless veterans and veterans at risk of homelessness",
+    "how": "VA reintegration programs, counseling referrals, housing support, and grants for homeless veterans with special needs are reauthorized."
+   },
+   {
+    "group": "Veterans with severe service-related injuries or illnesses",
+    "how": "VA authority to provide rehabilitation and vocational benefits to these service members is extended."
+   },
+   {
+    "group": "Veterans with disabilities seeking adapted housing or adaptive sports",
+    "how": "VA housing assistance programs and the adaptive sports program for disabled veterans and service members are extended."
+   }
+  ],
+  "when_it_takes_effect": "Enacted September 29, 2017. Most extensions run through fiscal year 2019, while some pilot programs end earlier, such as January 6, 2018.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

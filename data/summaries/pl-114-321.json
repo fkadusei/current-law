@@ -1,0 +1,24 @@
+{
+ "headline": "This law directs FEMA to create a subcommittee that studies and recommends ways to improve training and funding for responding to railroad hazardous materials emergencies.",
+ "what_it_does": "The law amends the Homeland Security Act of 2002 and requires FEMA to set up a subcommittee called the RESPONSE Subcommittee under its National Advisory Council. The subcommittee must review how emergency responders are trained for rail hazmat incidents, including in small communities near railroads, and how funding for that training is available and used. It must also look at sharing railroad and hazardous materials data and communications technology with local responders. When the council approves the subcommittee's recommendations and submits a report, the subcommittee ends within 90 days.",
+ "who_it_affects": [
+  {
+   "group": "State and local emergency responders, such as firefighters and hazmat teams",
+   "how": "The subcommittee's recommendations may shape how they are trained and funded for railroad hazardous materials incidents."
+  },
+  {
+   "group": "Residents of small communities near railroads",
+   "how": "The review specifically covers training and funding for responders who serve these communities."
+  },
+  {
+   "group": "Railroad companies that carry hazardous materials",
+   "how": "The subcommittee may look at data sharing about railroad shipments that responders use during incidents."
+  }
+ ],
+ "when_it_takes_effect": "Enacted December 16, 2016; the subcommittee's work and recommendations would follow after FEMA sets it up, and the subcommittee ends 90 days after the council's approving report.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

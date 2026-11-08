@@ -36,5 +36,20 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2015 law lengthens the advance notice period for Medicare Advantage payment rate announcements from 45 to 60 days.",
+  "what_it_does": "This law changes the Social Security Act's Medicare rules. It extends the annual notice period for announcing Medicare Advantage payment rates from 45 days to 60 days. It also gives Medicare Advantage organizations at least 30 days to comment on proposed changes.",
+  "who_it_affects": [
+   {
+    "group": "Medicare Advantage organizations",
+    "how": "They get at least 60 days' notice of the annual payment rate announcement instead of 45, and at least 30 days to comment on proposed changes."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

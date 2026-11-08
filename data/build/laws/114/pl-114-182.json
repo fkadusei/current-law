@@ -3549,5 +3549,40 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2016 law that rewrites how the EPA reviews and controls chemicals under TSCA, and adds a rural health care connectivity provision.",
+  "what_it_does": "The law amends the Toxic Substances Control Act so the EPA must screen chemicals, rank them as high or low priority, and complete risk evaluations on set deadlines. The EPA must review new chemicals before they are made or processed, and it can limit or ban chemicals that pose an unreasonable risk. The law also limits which business information can be kept confidential, restricts state rules on chemicals in some cases, and sets fees for manufacturers. Title II lets skilled nursing facilities request certain telecommunications services for rural residents at rates comparable to urban rates.",
+  "who_it_affects": [
+   {
+    "group": "Chemical manufacturers and processors",
+    "how": "They must give the EPA notices and pay fees, and new chemicals or new uses cannot be made or processed until the EPA makes a determination."
+   },
+   {
+    "group": "Workers, infants, children, pregnant women, and older adults",
+    "how": "The EPA must consider these groups as potentially more susceptible when it evaluates chemical risks."
+   },
+   {
+    "group": "Businesses that claim trade secrets or confidential business information",
+    "how": "They must reaffirm and back up confidentiality claims, and the claims are limited to set time periods."
+   },
+   {
+    "group": "State governments and state chemical regulators",
+    "how": "Many state rules on chemicals the EPA is reviewing are limited or preempted, and state penalties are capped at federal levels."
+   },
+   {
+    "group": "Mercury producers and exporters",
+    "how": "Certain mercury compounds cannot be exported starting January 1, 2020, with an exception for OECD countries for environmentally sound disposal."
+   },
+   {
+    "group": "Skilled nursing facilities and rural residents",
+    "how": "Skilled nursing facilities can now request Universal Service Fund telecommunications services to serve rural residents."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted June 22, 2016, and it sets its own deadlines, such as 180 days, one year, three and a half years, and later dates. The mercury export ban begins January 1, 2020.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -3502,5 +3502,32 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "This law bars the U.S. Treasury from exchanging international reserve assets held by Russia or Belarus and tells Treasury to oppose most financial aid to both countries.",
+  "what_it_does": "The law stops the Department of the Treasury from taking part in any exchange of Special Drawing Rights (SDRs) held by Russia or Belarus. SDRs are reserve assets kept by the International Monetary Fund and based on contributions from member countries. The law also tells Treasury to push other IMF member countries to block such exchanges and to direct U.S. representatives at international financial institutions to oppose loans or other aid to Russia or Belarus, except aid meeting basic human needs of civilians. The provisions end after five years, or 30 days after the President reports that Russia and Belarus have stopped destabilizing activities aimed at Ukraine's sovereignty and territorial integrity, and the President can waive them if he reports that doing so serves the national interest.",
+  "who_it_affects": [
+   {
+    "group": "The U.S. Department of the Treasury",
+    "how": "Treasury cannot take part in SDR exchanges involving Russia or Belarus and must advocate against such transactions and against their financial aid at international lenders."
+   },
+   {
+    "group": "Governments of Russia and Belarus",
+    "how": "They cannot use the U.S. Treasury to exchange their SDR reserve assets and face U.S. opposition to financial assistance, except aid for civilian basic human needs."
+   },
+   {
+    "group": "Civilians in Russia and Belarus",
+    "how": "Financial aid from international institutions aimed at meeting basic human needs of civilians is still allowed under the law."
+   },
+   {
+    "group": "International Monetary Fund member countries",
+    "how": "The U.S. will press them to refuse SDR exchanges involving Russia or Belarus."
+   }
+  ],
+  "when_it_takes_effect": "The law took effect on October 4, 2022, when it was enacted, and it ends five years later or earlier if the President reports the required change in Russian and Belarusian actions, with 30 days' notice, unless waived.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

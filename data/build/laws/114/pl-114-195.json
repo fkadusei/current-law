@@ -3539,5 +3539,32 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "This 2016 law directs the President to create a government-wide strategy to reduce global hunger and improve food security abroad, with reporting to Congress.",
+  "what_it_does": "The law requires the President to develop and carry out a Global Food Security Strategy that coordinates federal agencies working on food, nutrition, and resilience in other countries. It lets the President use foreign aid funds to prevent or address food shortages and allows emergency food aid to be bought locally or regionally after disasters. It also requires several reports to Congress, including on the strategy and on how agencies spend money on global food security. The law states that it does not change the authority of existing federal food and nutrition programs.",
+  "who_it_affects": [
+   {
+    "group": "Residents of food-insecure countries",
+    "how": "They may receive U.S.-funded aid aimed at improving farming, nutrition, and resilience to food shocks, and emergency food that can be purchased nearer to where disasters occur."
+   },
+   {
+    "group": "Small-scale farmers abroad",
+    "how": "The strategy aims to increase their productivity and incomes through U.S.-supported programs."
+   },
+   {
+    "group": "Federal departments and agencies working on foreign aid and agriculture",
+    "how": "They must coordinate their global food security work under a single presidentially directed strategy and report on their spending and progress."
+   },
+   {
+    "group": "U.S. universities with agricultural research programs",
+    "how": "The law encourages partnerships between U.S. and foreign universities that build agricultural capacity abroad."
+   }
+  ],
+  "when_it_takes_effect": "The law took effect when enacted on July 20, 2016; the strategy was due to Congress by October 1, 2016, and reports were due in 2017 and 2018.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

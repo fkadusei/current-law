@@ -42,5 +42,24 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law extends the time the Gullah/Geechee Cultural Heritage Corridor Commission is authorized to operate, through October 12, 2021.",
+  "what_it_does": "The Gullah/Geechee Cultural Heritage Act created a commission to support the cultural heritage corridor tied to Gullah/Geechee history. Before this law, that commission's authorization was set to end. This law amends the act to extend the commission's authorization through October 12, 2021. The summary does not describe other changes to the commission's duties.",
+  "who_it_affects": [
+   {
+    "group": "Members of the Gullah/Geechee Cultural Heritage Corridor Commission",
+    "how": "Their commission can keep operating for about five more years under the extended authorization."
+   },
+   {
+    "group": "Gullah/Geechee communities and cultural groups",
+    "how": "The commission's cultural preservation and promotion work, which covers their heritage, can continue through the extended period."
+   }
+  ],
+  "when_it_takes_effect": "The extension took effect when the law was enacted on October 7, 2016, and the commission's authorization now runs through October 12, 2021.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

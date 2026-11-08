@@ -33,5 +33,44 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2018 law changes how congressional workplace discrimination and harassment claims are filed, reviewed, and resolved, and extends protections to more people.",
+  "what_it_does": "The law renames the Office of Compliance as the Office of Congressional Workplace Rights and changes its claim process. Employees no longer must go through counseling and mediation before filing, mediation is optional, and a hearing officer conducts a preliminary review of each claim. The law also requires Members of Congress to reimburse the Treasury for certain awards or settlements tied to their own alleged discrimination or retaliation, and it adds workplace protections such as genetic information nondiscrimination and training requirements.",
+  "who_it_affects": [
+   {
+    "group": "Congressional employees who file workplace claims",
+    "how": "They can file a claim without first going through required counseling and mediation, must file within 180 days of the alleged violation, and can ask for remote work or paid leave while a claim is pending."
+   },
+   {
+    "group": "Current and former Members of Congress",
+    "how": "They may have to reimburse the Treasury for awards or settlements tied to their alleged discrimination or retaliation, and their salary or retirement pay can be withheld if they miss payment deadlines."
+   },
+   {
+    "group": "Employing offices in the legislative branch",
+    "how": "They must post a notice of employee rights, provide training on those rights (for noncongressional offices), and must respond to a preliminary review and a possible workplace survey."
+   },
+   {
+    "group": "Uncompensated interns, detailees, and fellows",
+    "how": "They are now covered by the law's nondiscrimination requirements and remedies."
+   },
+   {
+    "group": "Staff of the China Review Commission, Congressional-Executive China Commission, Helsinki Commission, and John C. Stennis Center",
+    "how": "The Congressional Accountability Act now applies to these bodies and their employees."
+   },
+   {
+    "group": "Library of Congress visitors alleging discrimination",
+    "how": "They may choose to bring a claim under either the Congressional Accountability Act or the Americans with Disabilities Act."
+   },
+   {
+    "group": "Senior staff and Members named in harassment or discrimination claims",
+    "how": "Final outcomes of these claims must be sent to congressional ethics committees, and the Senate Ethics Committee must review certain settlements."
+   }
+  ],
+  "when_it_takes_effect": "180 days after enactment on December 21, 2018, which is about June 19, 2019.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

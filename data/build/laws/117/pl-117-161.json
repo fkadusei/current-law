@@ -3512,5 +3512,32 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2022 law lets the Indian Health Service buy private land in Hemet, California, and build a paved road to the Desert Sage Youth Wellness Center.",
+  "what_it_does": "The law allows the Indian Health Service to buy a specific piece of private land in Hemet, California, at fair market value. It then allows the agency to build a paved road on that land so people can reach the Desert Sage Youth Wellness Center. After the road is built, the Indian Health Service must maintain it or make an agreement with Riverside County, California, to do so.",
+  "who_it_affects": [
+   {
+    "group": "Youth and families who use the Desert Sage Youth Wellness Center",
+    "how": "The center would gain a new paved road for getting to and from the facility."
+   },
+   {
+    "group": "The owner of the private land in Hemet",
+    "how": "The owner could sell the land to the Indian Health Service at fair market value."
+   },
+   {
+    "group": "Indian Health Service",
+    "how": "The agency is authorized to buy the land, build the road, and then maintain it or arrange for the county to maintain it."
+   },
+   {
+    "group": "Riverside County, California",
+    "how": "The county may take on maintenance of the road under an agreement with the Indian Health Service."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on July 29, 2022, but the official summary does not give a separate effective date or funding amount.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

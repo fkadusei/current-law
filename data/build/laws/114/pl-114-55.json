@@ -36,5 +36,40 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A short-term law that keeps airport, air traffic, and aviation funding and several related programs running from October 1, 2015, through March 31, 2016.",
+  "what_it_does": "The law extends many expiring aviation authorities through March 31, 2016, so they do not lapse at the end of the fiscal year. It covers airport improvement grants, air traffic control contracts, essential air service, FAA operations, and aviation research. It also extends several airport and aviation consumer and small business programs under earlier laws, and it extends the Airport and Airway Trust Fund spending authority along with the fuel and ticket taxes that feed it.",
+  "who_it_affects": [
+   {
+    "group": "Airports, including large and medium hub airports and small airports in the Marshall Islands, Micronesia, and Palau",
+    "how": "They can keep receiving airport improvement grants and related federal funding under the extended authorities through March 31, 2016."
+   },
+   {
+    "group": "Air travelers who buy airline tickets",
+    "how": "The ticket taxes that fund the Airport and Airway Trust Fund stay in effect through March 31, 2016."
+   },
+   {
+    "group": "Communities that rely on essential air service to reach larger airports",
+    "how": "Federal essential air service subsidies continue through March 31, 2016."
+   },
+   {
+    "group": "Operators of fractional ownership aircraft programs",
+    "how": "They keep their exemption from ticket taxes for aircraft in these programs through March 31, 2016."
+   },
+   {
+    "group": "Operators of up to four public-use airports in a redevelopment pilot program",
+    "how": "They can keep receiving grants for redevelopment of airport properties through March 31, 2016."
+   },
+   {
+    "group": "Commercial space flight companies",
+    "how": "The FAA's start date for its authority to propose rules limiting certain design features or operating practices is extended through March 31, 2016."
+   }
+  ],
+  "when_it_takes_effect": "Enacted September 30, 2015; the extended authorities run from October 1, 2015, through March 31, 2016.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

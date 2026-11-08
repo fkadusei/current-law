@@ -36,5 +36,44 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2014 law extends many expiring VA programs through 2015 and makes technical changes to the 2014 veterans health care access law.",
+  "what_it_does": "This law keeps a long list of Department of Veterans Affairs programs running that were set to expire, mostly by extending their authority through 2015 or fiscal year 2015. It covers health care such as nursing home care and copayment rules, homelessness services, certain housing and education benefits, and advisory committees. It also makes changes to the Veterans Access, Choice, and Accountability Act of 2014, including new rules for VA appointment scheduling, care from outside providers, and mobile vet centers. It also requires the VA to disapprove courses at public colleges that charge out-of-state veterans higher tuition than in-state residents.",
+  "who_it_affects": [
+   {
+    "group": "Veterans who need VA nursing home care or who receive VA hospital care",
+    "how": "Their VA nursing home care rights and the $10 per day hospital and $5 per day nursing home copayments are extended through 2015."
+   },
+   {
+    "group": "Homeless veterans and veterans at risk of homelessness",
+    "how": "Several VA homelessness, housing assistance, and counseling programs are extended through fiscal year 2015."
+   },
+   {
+    "group": "Veterans who wait for VA appointments",
+    "how": "If a veteran cannot schedule a VA appointment within wait-time goals, the veteran may choose an appointment at a VA facility that exceeds those goals."
+   },
+   {
+    "group": "Veterans using public colleges in states other than their own",
+    "how": "Public colleges that charge them higher tuition than in-state residents may be disapproved for veteran education benefits."
+   },
+   {
+    "group": "Veterans with lower-extremity losses from service after September 11, 2001",
+    "how": "Their access to VA specially adapted housing assistance is extended through fiscal year 2015."
+   },
+   {
+    "group": "VA health care workers with education loans",
+    "how": "Education Debt Reduction Program payments may now cover principal and interest on their educational loans."
+   },
+   {
+    "group": "Indian Health Service and VA patients in shared care",
+    "how": "The VA and Indian Health Service must jointly set performance measures to improve access and coordination of care."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on September 26, 2014, and most extensions run through 2015 or fiscal year 2015.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

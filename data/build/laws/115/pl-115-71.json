@@ -39,5 +39,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2017 law updates federal programs that screen and help deaf and hard-of-hearing babies and young children.",
+  "what_it_does": "The law amends the Public Health Service Act to revise federal programs for deaf and hard-of-hearing newborns and infants. It extends those programs to cover young children as well. The programs are reauthorized through fiscal year 2022. It also expands federal support for training of personnel, health care providers, and family members involved in these programs.",
+  "who_it_affects": [
+   {
+    "group": "Newborns and infants who are deaf or hard of hearing",
+    "how": "Federal early detection and intervention programs are revised to cover them and, under the law, young children as well."
+   },
+   {
+    "group": "Families of deaf or hard-of-hearing children",
+    "how": "Family members become eligible for federally supported education and training connected to these programs."
+   },
+   {
+    "group": "Health care providers and program personnel",
+    "how": "Federal support for their education and training in these programs is expanded."
+   }
+  ],
+  "when_it_takes_effect": "Enacted October 18, 2017; the programs are reauthorized through fiscal year 2022.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

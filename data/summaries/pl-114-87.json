@@ -1,0 +1,36 @@
+{
+ "headline": "A short-term extension that keeps federal highway, transit, and safety programs funded through December 4, 2015, and reduces FY2016 funds by amounts already advanced under the earlier extension.",
+ "what_it_does": "The bill extends authority and funding for many surface transportation programs from October 1, 2015 through December 4, 2015, so they do not lapse while Congress works on a longer bill. It covers federal-aid highways, highway and vehicle safety programs, public transit, hazardous materials safety, and related trust fund spending. It also directs the Department of Transportation to subtract from FY2016 amounts that were already provided under the prior extension for October 1 through November 20, 2015. The summary sets a $7,134,218,915 obligation ceiling for federal-aid highway and highway safety construction programs for the same period.",
+ "who_it_affects": [
+  {
+   "group": "State departments of transportation",
+   "how": "They keep receiving federal highway funds on the existing formulas through December 4, 2015, and their FY2016 allocations are reduced by amounts already advanced."
+  },
+  {
+   "group": "Public transit agencies and riders",
+   "how": "Federal formula, bus, and capital grants for public transportation continue on the same terms through December 4, 2015."
+  },
+  {
+   "group": "Tribal governments",
+   "how": "Transportation grants for public transportation on Indian reservations and Tribal High Priority Projects continue for the same period."
+  },
+  {
+   "group": "Commercial truck and bus companies and drivers",
+   "how": "Federal motor carrier safety grants and commercial driver's license program funding continue through December 4, 2015."
+  },
+  {
+   "group": "Recreational boaters and coastal states",
+   "how": "Sport fish and boating safety funds and boating infrastructure grants continue for the same period."
+  },
+  {
+   "group": "Hazardous materials shippers and emergency responders",
+   "how": "Hazmat transportation safety projects and hazmat training grants continue for the same period."
+  }
+ ],
+ "when_it_takes_effect": "Enacted November 20, 2015; the extended funding authority runs through December 4, 2015.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

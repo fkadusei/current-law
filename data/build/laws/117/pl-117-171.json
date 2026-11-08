@@ -39,5 +39,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Reese's Law directs the Consumer Product Safety Commission to set safety rules for button cell and coin batteries and the products that use them.",
+  "what_it_does": "The law requires the Consumer Product Safety Commission to create a product safety standard for button cell or coin batteries that pose an ingestion hazard. Batteries and products that contain them must carry warning labels about the ingestion danger, telling people to keep batteries away from children and to get medical help right away if one is swallowed. Products using these batteries must also have battery compartments designed to eliminate or reduce the risk of children aged six and under getting to the battery. Loose batteries sold or included separately must meet federal child-resistant packaging rules, and some toys and batteries that already meet certain existing standards are exempt.",
+  "who_it_affects": [
+   {
+    "group": "Parents and caregivers of young children",
+    "how": "They may see warning labels on button cell batteries and on products that use them, and child-resistant battery compartments or packaging."
+   },
+   {
+    "group": "Manufacturers of toys and consumer electronics that use button cell or coin batteries",
+    "how": "They must design battery compartments and labels to meet the new standard, though toys already meeting certain existing battery requirements are exempt."
+   },
+   {
+    "group": "Battery manufacturers and sellers",
+    "how": "Batteries sold alone or packaged separately must carry the required warnings and use child-resistant packaging, unless they meet the ANSI marking and packaging standard that the law exempts."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

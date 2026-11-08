@@ -39,5 +39,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law directs the Treasury to mint commemorative gold, silver, and half-dollar coins honoring the National Purple Heart Hall of Honor, with sales surcharges going to a nonprofit.",
+  "what_it_does": "The Treasury Department must produce $5 gold coins, $1 silver coins, and half-dollar coins that represent the National Purple Heart Hall of Honor. Coin sales are limited to a one-year period starting January 1, 2022. The law sets surcharges on these coins, and that money goes to the National Purple Heart Honor Mission, Inc. to support its work, including capital improvements to Hall of Honor facilities.",
+  "who_it_affects": [
+   {
+    "group": "People who buy the commemorative coins",
+    "how": "They pay the coin prices plus the set surcharge, and the surcharge money goes to the nonprofit instead of the general government."
+   },
+   {
+    "group": "National Purple Heart Honor Mission, Inc.",
+    "how": "It receives the surcharge revenue to fund its mission and facility improvements at the National Purple Heart Hall of Honor."
+   },
+   {
+    "group": "Purple Heart recipients and veterans",
+    "how": "The coins honor the Purple Heart and the Hall of Honor, but the law does not give them any new benefits or requirements."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted December 22, 2020, and coin issuance is limited to the one-year period beginning January 1, 2022.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

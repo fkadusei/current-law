@@ -39,5 +39,24 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law lets federal energy regulators extend the deadline for starting construction on a North Carolina hydroelectric dam project by up to six years.",
+  "what_it_does": "The law allows the Federal Energy Regulatory Commission (FERC) to extend, for up to six years, the time allowed to begin building the W. Kerr Scott Hydropower Project on the Yadkin River in Wilkes County, North Carolina. If the construction license has already expired, FERC may also reinstate it. The bill does not itself build or change the project.",
+  "who_it_affects": [
+   {
+    "group": "The project's license holder and developers working on the W. Kerr Scott Hydropower Project",
+    "how": "They get more time to start construction before the license would otherwise lapse, and the license can be revived if it has expired."
+   },
+   {
+    "group": "Residents and local governments in Wilkes County and along the Yadkin River",
+    "how": "The project's construction timeline may be extended, so any future dam work could start later than originally planned."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on July 23, 2018.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

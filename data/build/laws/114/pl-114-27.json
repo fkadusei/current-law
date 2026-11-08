@@ -4376,5 +4376,52 @@
   "House": "R",
   "Senate": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "Extends several U.S. trade preference programs, trade adjustment help for displaced workers, and some tax and customs rules through 2015 to 2025.",
+  "what_it_does": "The law extends duty-free trade benefits for many products from sub-Saharan Africa under AGOA through 2025 and for many products from developing countries under the GSP program through 2017. It extends duty-free apparel benefits for Haiti through 2025 and extends the Trade Adjustment Assistance program for workers hurt by trade through 2021. It also changes rules for antidumping and countervailing duty cases, extends a health insurance tax credit for certain eligible workers, adds tax reporting rules for education credits, and adjusts Medicare payments for dialysis for patients with acute kidney injury.",
+  "who_it_affects": [
+   {
+    "group": "Exporters and apparel makers in sub-Saharan African countries",
+    "how": "They keep duty-free access to U.S. markets for many goods, including apparel made with U.S. or regional yarn and fabric, through FY2025."
+   },
+   {
+    "group": "Apparel manufacturers and workers in Haiti",
+    "how": "Apparel assembled in Haiti and imported into the U.S. keeps duty-free treatment through 2025."
+   },
+   {
+    "group": "U.S. importers of apparel, footwear, and other covered goods",
+    "how": "They keep lower duty costs on eligible imports from the covered countries, and some new duty-free product categories were added."
+   },
+   {
+    "group": "Workers who lost jobs because of foreign trade",
+    "how": "They can receive training, reemployment help, and extra weeks of benefits under the Trade Adjustment Assistance program, and some earlier denied petitions must be reconsidered."
+   },
+   {
+    "group": "People who buy health insurance on their own and are eligible for trade adjustment benefits",
+    "how": "They can claim a refundable tax credit equal to 72.5% of their qualified health coverage costs for eligible months through 2019."
+   },
+   {
+    "group": "U.S. companies and industries involved in antidumping or countervailing duty cases",
+    "how": "Federal agencies have more room to use secondary information and certain calculation methods when setting duty rates."
+   },
+   {
+    "group": "Corporations with at least $1 billion in assets",
+    "how": "Their corporate estimated tax payment due in the third quarter of 2020 increases by 8%."
+   },
+   {
+    "group": "Students and families claiming education tax credits or deductions",
+    "how": "They must have a taxpayer identification number on a payee statement from the school to claim the American Opportunity, Hope, or Lifetime Learning credits or the tuition deduction."
+   },
+   {
+    "group": "Medicare patients with acute kidney injury and dialysis facilities",
+    "how": "Medicare pays for dialysis for these patients under a new payment rule starting January 1, 2017."
+   }
+  ],
+  "when_it_takes_effect": "Effective on enactment on June 29, 2015, with different provisions starting or ending on dates such as January 1, 2017 (Medicare dialysis payments and GSP extension end date of December 31, 2017), June 30, 2021 (Trade Adjustment Assistance), and September 30, 2025 (AGOA and Haiti end dates).",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -42,5 +42,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law names a post office building in Warrenville, Illinois, after Corporal Jeffrey Allen Williams.",
+  "what_it_does": "It officially renames the United States Postal Service facility at 3S101 Rockwell Street in Warrenville, Illinois, as the \"Corporal Jeffrey Allen Williams Post Office Building.\" The change is symbolic and does not change how the post office operates or what services it provides.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law took effect when it was enacted on December 14, 2018.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -3500,5 +3500,28 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "The FASTER Act adds sesame to the list of major food allergens that must be labeled on packaged foods and requires a federal report on food allergy research.",
+  "what_it_does": "The law expands the definition of major food allergen used in certain food-labeling rules so that sesame is now included alongside the other required allergens. It also directs the Department of Health and Human Services to report to Congress on food allergy research and data collection activities. The official summary does not give further detail on the report's specific contents.",
+  "who_it_affects": [
+   {
+    "group": "food manufacturers and packaged food companies",
+    "how": "They must list sesame on labels of packaged foods that contain it, in addition to the other major allergens already covered."
+   },
+   {
+    "group": "people with sesame allergies",
+    "how": "Packaged foods containing sesame must now be labeled clearly, making it easier to spot sesame in products."
+   },
+   {
+    "group": "people with food allergies in general",
+    "how": "The Department of Health and Human Services must report on food allergy research and data collection, which may shape future federal information on allergies."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

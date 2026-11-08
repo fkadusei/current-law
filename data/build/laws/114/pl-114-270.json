@@ -874,5 +874,28 @@
  "control": {
   "Senate": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2016 law requires the Department of Health and Human Services to report on video-based programs that connect specialists with primary care providers.",
+  "what_it_does": "The law requires HHS to study technology-enabled collaborative learning models, which use videoconferencing to link specialists with primary care providers for case-based learning, sharing best practices, and measuring outcomes. The report must analyze how these models are used and their impact, list recently funded models, and recommend ways to reduce barriers to adoption. It must also identify chances to use these models in HHS programs and address their role in continuing medical education.",
+  "who_it_affects": [
+   {
+    "group": "Department of Health and Human Services",
+    "how": "HHS must prepare and submit the report and its recommendations."
+   },
+   {
+    "group": "Primary care providers",
+    "how": "The report may lead to recommendations on adopting videoconference-based learning with specialists, though the summary does not state any required changes."
+   },
+   {
+    "group": "Specialist physicians",
+    "how": "The report may lead to recommendations on their role in videoconference-based learning with primary care providers, though the summary does not state any required changes."
+   }
+  ],
+  "when_it_takes_effect": "Enacted December 14, 2016; the source summary does not give a deadline for the HHS report.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

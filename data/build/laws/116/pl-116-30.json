@@ -36,5 +36,24 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2019 federal law requires certain public buildings with public restrooms to provide a private, clean room where people can express breast milk.",
+  "what_it_does": "The law requires certain public buildings that are open to the public and have a public restroom to provide a separate lactation room, not a bathroom, that is hygienic and available to anyone who needs to express milk. The room must be shielded from public view, free from intrusion, and include a chair, a working surface, and an electrical outlet if the building has electricity. A building operator may skip this requirement if it has no employee lactation room and no space that could be repurposed or made private with portable materials at reasonable cost, or if new construction is not feasible.",
+  "who_it_affects": [
+   {
+    "group": "Breastfeeding and pumping parents and caregivers who express milk away from home",
+    "how": "They can use a private, clean room with a chair, a work surface, and an outlet in covered public buildings instead of a restroom."
+   },
+   {
+    "group": "Operators of covered public buildings that have public restrooms",
+    "how": "They must provide a lactation room unless they qualify for one of the law's exceptions based on cost, feasibility, or available space."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

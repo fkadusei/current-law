@@ -36,5 +36,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2015 law lets federal officials waive or refund certain visa fees for adopted children whose immigrant visas expired because of circumstances beyond their adoptive parents' control.",
+  "what_it_does": "The law changes the Immigration and Nationality Act. It covers immigrant visas issued on or after March 27, 2013, for children adopted by U.S. citizens or coming to the U.S. to be adopted. If the child could not use the visa before it expired because of extraordinary circumstances, such as an exit permit being denied, the fees to renew or replace that visa may be waived or refunded. The word \"may\" means the fee relief is optional, not required.",
+  "who_it_affects": [
+   {
+    "group": "U.S. citizens who adopted a child abroad",
+    "how": "They may be able to have renewal or replacement visa fees waived or refunded if the child's visa expired before the child could travel because of circumstances outside their control."
+   },
+   {
+    "group": "Adopted children coming to the U.S. on immigrant visas",
+    "how": "Their visa renewal or replacement costs may be reduced or refunded in the situations the law describes."
+   },
+   {
+    "group": "State Department and immigration officials who handle visa fees",
+    "how": "They have the authority to decide whether to waive or refund these fees in qualifying cases."
+   }
+  ],
+  "when_it_takes_effect": "The law was signed October 16, 2015. The official summary does not give a separate effective date, and it covers visas issued on or after March 27, 2013.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

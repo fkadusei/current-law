@@ -1,0 +1,36 @@
+{
+ "headline": "Expands VA housing grants for disabled veterans and updates education and home loan rules for veterans.",
+ "what_it_does": "The law changes the VA Specially Adapted Housing program, which gives grants to veterans with certain service-connected disabilities to buy, build, or remodel homes. It adds veterans with certain visual impairments to eligibility and raises the lifetime cap on grants per veteran from three to six. It also raises the maximum assistance amounts and the total funding limits under the grants. In addition, it lets Post-9/11 GI Bill recipients get payment for certain licensing or certification prep courses, updates the work-study allowance, and changes the VA home loan fee table.",
+ "who_it_affects": [
+  {
+   "group": "Veterans with certain visual impairments",
+   "how": "They become eligible for VA Specially Adapted Housing grants under the updated rules."
+  },
+  {
+   "group": "Veterans with loss or loss of use of a lower extremity",
+   "how": "They must meet additional qualifications to receive these housing grants."
+  },
+  {
+   "group": "Veterans who have used multiple VA housing grants",
+   "how": "The cap on grants per veteran rises from three to six, and some may apply for additional assistance under both grants."
+  },
+  {
+   "group": "Post-9/11 GI Bill recipients",
+   "how": "They can receive payment for a covered preparatory course for a license, certification, or national test."
+  },
+  {
+   "group": "Veterans using the work-study benefit and the schools that provide it",
+   "how": "The law sets a new annual amount the VA must pay educational institutions for the work-study program."
+  },
+  {
+   "group": "Veterans using VA home loans",
+   "how": "The VA's loan fee table is changed, which affects the fees charged on these loans."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

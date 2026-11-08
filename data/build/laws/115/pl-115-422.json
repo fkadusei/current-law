@@ -3524,5 +3524,24 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "This law requires the VA to form a team of experts to study and report to Congress on problems with housing payments to student veterans.",
+  "what_it_does": "The law directs the Department of Veterans Affairs to create a team of experts. The team must look into problems with how education housing payments, also called stipends, are paid to eligible veterans. These problems came up after changes to the Forever GI Bill changed how the housing amount is calculated based on campus location. The team must report its findings to Congress.",
+  "who_it_affects": [
+   {
+    "group": "Veterans using GI Bill education benefits",
+    "how": "Their monthly housing stipend payments were the focus of the review, since changes to how the amount is calculated based on campus location caused implementation problems."
+   },
+   {
+    "group": "Department of Veterans Affairs staff",
+    "how": "The agency must form an expert team and prepare a report to Congress on these payment issues."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on January 3, 2019, and the summary does not give a specific deadline for the VA's report.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

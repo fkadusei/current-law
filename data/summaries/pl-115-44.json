@@ -1,0 +1,44 @@
+{
+ "headline": "A 2017 law that expands U.S. sanctions against Iran, Russia, and North Korea and sets new reporting and strategy requirements for several federal agencies.",
+ "what_it_does": "The law tells the President to impose sanctions on Iran's missile and weapons of mass destruction programs, arms sales to Iran, and Iran's Islamic Revolutionary Guard Corps, and it allows sanctions for certain human rights abuses in Iran. For Russia, it adds sanctions for areas such as cyber activity, oil projects, financial institutions, corruption, and arms transfers to Syria, and it requires congressional review before some sanctions are lifted or waived. For North Korea, it limits U.S. bank accounts that help foreign banks serve North Korea and targets North Korean shipping, forced-labor goods, and foreign employers of North Korean forced laborers. It also directs the Treasury Department to create a national strategy against terrorist financing.",
+ "who_it_affects": [
+  {
+   "group": "Iranian government agencies and the Islamic Revolutionary Guard Corps",
+   "how": "They face U.S. sanctions tied to missile programs, arms transfers, and related activities."
+  },
+  {
+   "group": "Foreign companies and people doing business with Iran's military or the Revolutionary Guard",
+   "how": "They can be sanctioned for selling military equipment or providing related financial or technical help to Iran."
+  },
+  {
+   "group": "Russian government officials, defense and intelligence entities, and energy and financial firms",
+   "how": "They can be sanctioned for listed activities, and some Russia sanctions can only be lifted or waived after congressional review."
+  },
+  {
+   "group": "U.S. banks and other financial institutions",
+   "how": "They may not keep correspondent accounts that foreign banks use to provide indirect financial services to North Korea."
+  },
+  {
+   "group": "Foreign governments that trade defense articles or services with North Korea",
+   "how": "They may be barred from receiving certain types of U.S. foreign assistance."
+  },
+  {
+   "group": "Importers and retailers of goods made with North Korean convict or forced labor",
+   "how": "Those goods can be subject to sanctions and restrictions."
+  },
+  {
+   "group": "Foreign employers of North Korean forced laborers",
+   "how": "They can be sanctioned under the law."
+  },
+  {
+   "group": "The Department of the Treasury and the Department of State",
+   "how": "Treasury must develop a national strategy against terrorist financing and sits on the National Security Council, and State must work with Ukraine on energy security and report on whether North Korea should be designated a state sponsor of terrorism."
+  }
+ ],
+ "when_it_takes_effect": "The law took effect when it was signed on August 2, 2017; the summary does not list other specific dates.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

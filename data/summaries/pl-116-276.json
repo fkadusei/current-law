@@ -1,0 +1,24 @@
+{
+ "headline": "A 2020 law requires federal leasing agencies to check and disclose foreign ownership of landlords who lease high-security office space to the government.",
+ "what_it_does": "Before the government signs or approves a lease for high-security office space, the landlord must name its top-level owner and say whether that owner is a foreign person or entity, including the country. Landlords must provide this when they first bid on a solicitation and update it every year. The General Services Administration must also create a government-wide plan for identifying owners of high-security leased spaces before leasing space to a federal tenant. The law also sets a rule for lease language that restricts access to high-security space.",
+ "who_it_affects": [
+  {
+   "group": "Companies and property owners that lease high-security office space to federal agencies",
+   "how": "They must disclose their highest-level owners, including whether any are foreign, when bidding and each year after."
+  },
+  {
+   "group": "General Services Administration and other federal leasing agencies",
+   "how": "They must collect and review ownership disclosures and develop a government-wide plan for identifying owners of high-security leased spaces."
+  },
+  {
+   "group": "Federal agencies that occupy high-security leased space",
+   "how": "Leases for the space they use must follow the ownership disclosure process and the rule on access-restriction language."
+  }
+ ],
+ "when_it_takes_effect": "Enacted December 31, 2020; the specific effective dates for individual provisions are not stated in the summary provided.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

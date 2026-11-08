@@ -1,0 +1,28 @@
+{
+ "headline": "This law makes several administrative changes to how the District of Columbia's courts, public defender office, and offender supervision agency handle money, staff, and programs.",
+ "what_it_does": "It lets the court system's executive officer collect money owed to the courts, such as erroneous payments to current or former employees, and buy uniforms for certain nonjudicial court workers within the federal uniform allowance limit. It lets the Court Services and Offender Supervision Agency create intermediate incentive programs for sentenced offenders and permanently accept gifts and reimbursements from the District government. It also lets the Public Defender Service accept grants, private contributions, and free services with board approval, and treats certain 1998 Board of Trustees members as Service employees in lawsuits.",
+ "who_it_affects": [
+  {
+   "group": "Current and former employees of the D.C. courts",
+   "how": "The court system can seek repayment of money it paid them by mistake."
+  },
+  {
+   "group": "Certain nonjudicial D.C. court employees",
+   "how": "The court system can buy uniforms for them, as long as yearly costs stay within the federal uniform allowance amount."
+  },
+  {
+   "group": "Sentenced offenders in D.C. supervised by the Court Services and Offender Supervision Agency",
+   "how": "The agency can create and run intermediate incentive programs that may apply to them."
+  },
+  {
+   "group": "Members of the Public Defender Service Board of Trustees as of October 21, 1998",
+   "how": "They are treated as Public Defender Service employees, rather than District employees, in lawsuits brought against them."
+  }
+ ],
+ "when_it_takes_effect": "Enacted January 28, 2016; the summary does not list a separate effective date.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

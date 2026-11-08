@@ -1,0 +1,24 @@
+{
+ "headline": "This law raises the yearly minimum and maximum amounts that FDA and NIH must transfer to two outside nonprofit foundations that support their work.",
+ "what_it_does": "The law changes the required yearly transfer amounts from the Food and Drug Administration to the Reagan-Udall Foundation for the FDA, and from the National Institutes of Health to the Foundation for the NIH. Each agency's minimum transfer goes from $500,000 to $1,250,000, and its maximum goes from $1,250,000 to $5,000,000. The summary does not describe how the foundations spend these funds.",
+ "who_it_affects": [
+  {
+   "group": "The Foundation for the National Institutes of Health",
+   "how": "It can receive a larger required yearly transfer from NIH, with a floor of $1,250,000 and a cap of $5,000,000."
+  },
+  {
+   "group": "The Reagan-Udall Foundation for the FDA",
+   "how": "It can receive a larger required yearly transfer from FDA, with a floor of $1,250,000 and a cap of $5,000,000."
+  },
+  {
+   "group": "The NIH and FDA",
+   "how": "Both agencies must transfer more money each year to their respective foundations under the new minimum and maximum amounts."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on March 15, 2022, and the summary does not give a separate effective date for the new amounts.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

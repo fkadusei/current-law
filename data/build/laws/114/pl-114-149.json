@@ -3536,5 +3536,15 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2016 law renames a military reserve center in Great Falls, Montana, after two Army captains.",
+  "what_it_does": "This law changes the official name of the Armed Forces Reserve Center in Great Falls, Montana. The new name honors Captain John E. Moran and Captain William Wylie Galt. It is a naming measure and does not change the center's funding, duties, or operations.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law was enacted on April 29, 2016, and the renaming took effect on that date.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

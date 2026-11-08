@@ -3520,5 +3520,24 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2021 law gave a federal commission on synthetic opioid trafficking more time, from 270 to 390 days, to submit its final report.",
+  "what_it_does": "The law changes one deadline in the Fentanyl Sanctions Act. The Commission on Combating Synthetic Opioid Trafficking must now submit its final report on its work and recommendations within 390 days instead of 270 days. The report covers ways to stop synthetic opioids from entering the United States. The law does not create new rules for private people or businesses.",
+  "who_it_affects": [
+   {
+    "group": "Members of the Commission on Combating Synthetic Opioid Trafficking",
+    "how": "They have 120 more days to finish and submit their final report to Congress and the President."
+   },
+   {
+    "group": "Congress and federal agencies that receive the commission's recommendations",
+    "how": "The final report, with its recommendations, arrives later than originally planned."
+   }
+  ],
+  "when_it_takes_effect": "Enacted October 19, 2021, and effective on that date.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

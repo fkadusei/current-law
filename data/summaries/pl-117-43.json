@@ -1,0 +1,32 @@
+{
+ "headline": "A short-term spending law that keeps the federal government funded at last year's levels through December 3, 2021, and extends several expiring programs.",
+ "what_it_does": "The act is a continuing resolution, which keeps federal agencies funded for fiscal year 2022 while Congress finishes the full spending bills. Most programs continue at fiscal year 2021 funding levels, with some exceptions. It also provides extra money for natural disaster costs and for support for evacuees from Afghanistan. Several expiring programs are extended, including the National Flood Insurance Program, Temporary Assistance for Needy Families, and the Department of Agriculture's authority to waive certain school meal requirements.",
+ "who_it_affects": [
+  {
+   "group": "Federal employees and federal agencies",
+   "how": "Agencies can keep operating without a shutdown because they receive temporary funding at last year's levels."
+  },
+  {
+   "group": "Homeowners and property owners in flood-prone areas",
+   "how": "The National Flood Insurance Program is extended so flood insurance policies can continue to be issued and renewed."
+  },
+  {
+   "group": "Low-income families receiving cash assistance",
+   "how": "The Temporary Assistance for Needy Families program is extended so states can keep providing benefits without a lapse."
+  },
+  {
+   "group": "Schools and students in school meal programs",
+   "how": "The Department of Agriculture keeps its authority to waive certain school meal requirements for a period of time."
+  },
+  {
+   "group": "People affected by natural disasters and Afghan evacuees",
+   "how": "The act provides supplemental funding to federal agencies for disaster-related activities and support for evacuees from Afghanistan."
+  }
+ ],
+ "when_it_takes_effect": "Enacted September 30, 2021; the temporary funding runs through the earlier of December 3, 2021, or when the full FY2022 appropriations act is enacted.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

@@ -3527,5 +3527,28 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2017 law permanently lets Washington, Oregon, and California set their own fishing rules for Dungeness crab in federal waters off their coasts where no federal fishery plan applies.",
+  "what_it_does": "Before this law, a provision from a 1998 law gave these three states this power only for a limited time. This law removes that end date, so the authority continues. It applies only to Dungeness crab fisheries that have no federal fishery management plan in effect.",
+  "who_it_affects": [
+   {
+    "group": "Commercial Dungeness crab fishers in Washington, Oregon, and California",
+    "how": "State rules on fishing in the federal zone off their coast can continue to apply to them without a planned end date."
+   },
+   {
+    "group": "Crab processors and seafood businesses in those three states",
+    "how": "They are affected by the same state fishing and processing rules that apply to the crab they buy and handle."
+   },
+   {
+    "group": "State fish and wildlife agencies in Washington, Oregon, and California",
+    "how": "They keep the legal power to adopt and enforce crab fishing rules in federal waters where no federal plan exists."
+   }
+  ],
+  "when_it_takes_effect": "Enacted August 18, 2017, with the end date removed so the state authority does not expire.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

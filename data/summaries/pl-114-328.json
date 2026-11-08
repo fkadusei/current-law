@@ -1,0 +1,40 @@
+{
+ "headline": "A massive annual defense bill that sets FY2017 spending limits and policies for the military, military construction, and Energy Department nuclear programs, and overhauls the military justice system.",
+ "what_it_does": "The law authorizes the Department of Defense to spend money on weapons, research, operations, personnel, health care, and construction for fiscal year 2017, though separate appropriations laws provide the actual money. It sets troop size limits, pay raises of 2.1 percent, changes to health care and retirement benefits, and many acquisition and contracting rules. It also rewrites the Uniform Code of Military Justice, which governs courts-martial, and includes military construction and Department of Energy national security provisions.",
+ "who_it_affects": [
+  {
+   "group": "Active duty service members and reserve component members",
+   "how": "They receive a 2.1 percent pay raise effective January 1, 2017, and are covered by changes to bonuses, leave, separation rules, and military justice procedures."
+  },
+  {
+   "group": "Military retirees and military families using TRICARE",
+   "how": "The law changes TRICARE plan options, enrollment fees for people who join on or after January 1, 2018, and access to urgent care and telehealth."
+  },
+  {
+   "group": "Veterans and former service members seeking discharge upgrades",
+   "how": "Discharge review boards must give liberal consideration to claims that PTSD or traumatic brain injury contributed to a lesser discharge."
+  },
+  {
+   "group": "Defense contractors and small businesses",
+   "how": "New rules cover contract types, cost accounting, bid and proposal costs, small business subcontracting, and commercial item purchasing."
+  },
+  {
+   "group": "Former spouses dividing military retired pay",
+   "how": "Divorce decrees divide retired pay based on the member's grade and years of service at the time of divorce, adjusted for cost-of-living increases."
+  },
+  {
+   "group": "Military court-martial defendants, victims, and judges",
+   "how": "The Military Justice Act rewrites court-martial procedures, sentencing, post-trial review, and the list of punishable offenses, with most changes taking effect two years after enactment."
+  },
+  {
+   "group": "Residents of Guam who were in the Japanese occupation during World War II",
+   "how": "The Guam World War II Loyalty Recognition Act sets up a Treasury fund and claims process for payments to eligible survivors and their families."
+  }
+ ],
+ "when_it_takes_effect": "Most provisions took effect on enactment on December 23, 2016, but many have their own dates, such as January 1, 2017 for the pay raise, January 1, 2018 for certain TRICARE fees, and two years after enactment for the military justice changes.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

@@ -39,5 +39,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law extends several PEPFAR oversight, funding-limit, and reporting rules for global HIV/AIDS programs through 2023 and 2024.",
+  "what_it_does": "The law changes the 2003 act that created PEPFAR, the U.S. global HIV/AIDS program. It extends oversight duties for inspectors general across several federal agencies through fiscal year 2023. It keeps a cap that limits U.S. money to the Global Fund to 33 percent of total contributions, and it keeps rules requiring some funds to be withheld in certain cases, such as when aid went to a country that repeatedly supported terrorism. It also extends a rule that more than half of the PEPFAR budget go to HIV/AIDS treatment and care, and extends yearly reports on treatment providers and costs through fiscal year 2024.",
+  "who_it_affects": [
+   {
+    "group": "People receiving HIV/AIDS treatment and care in countries supported by PEPFAR",
+    "how": "The rules keep a set share of the program's budget directed toward treatment and care services."
+   },
+   {
+    "group": "Health care providers and organizations that deliver HIV/AIDS treatment abroad",
+    "how": "They are covered by annual federal reporting requirements on treatment providers and costs, which are extended through fiscal year 2024."
+   },
+   {
+    "group": "Federal inspectors general at the State Department, U.S. Agency for Global Media, HHS, and USAID",
+    "how": "They must continue coordinating and conducting joint oversight of PEPFAR programs through fiscal year 2023."
+   },
+   {
+    "group": "The Global Fund to Fight AIDS, Tuberculosis and Malaria",
+    "how": "U.S. contributions are capped at 33 percent of total funds from all sources, and some contributions may be withheld under set conditions."
+   }
+  ],
+  "when_it_takes_effect": "Enacted December 11, 2018; the extended provisions run through fiscal year 2023, and the reporting requirements through fiscal year 2024.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -1,0 +1,24 @@
+{
+ "headline": "This law requires the VA to stop approving courses at public colleges that charge certain survivors and dependents out-of-state tuition rates.",
+ "what_it_does": "The law applies to public colleges and universities that charge a higher tuition and fee rate than in-state students to people entitled to the Survivors' and Dependents' Educational Assistance program. The Department of Veterans Affairs must disapprove courses at those schools, which means the VA cannot pay for them with this benefit. The official summary does not describe the details of how the VA must carry this out.",
+ "who_it_affects": [
+  {
+   "group": "Surviving spouses and children of certain deceased or disabled veterans",
+   "how": "Those who use the Survivors' and Dependents' Educational Assistance program may be unable to use it at public schools that charge them out-of-state rates."
+  },
+  {
+   "group": "Public colleges and universities",
+   "how": "Public schools that charge these students higher out-of-state tuition and fees may have their courses disapproved for this VA benefit."
+  },
+  {
+   "group": "Department of Veterans Affairs",
+   "how": "The VA must disapprove covered courses at public schools that charge these students higher tuition rates."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

@@ -1,0 +1,56 @@
+{
+ "headline": "This 2016 law changes several federal housing programs, including Section 8 vouchers, public housing, FHA condo loans, USDA rural loans, and homeless assistance.",
+ "what_it_does": "The law amends the United States Housing Act of 1937 and other housing laws. It sets new inspection, income-review, and asset rules for Section 8 vouchers and changes how project-based vouchers can be used. It also makes changes to FHA condominium mortgage insurance, USDA single family guaranteed loans, homeless assistance grants, and HIV/AIDS housing funds (HOPWA).",
+ "who_it_affects": [
+  {
+   "group": "Public housing agencies (PHAs)",
+   "how": "They must inspect units before making payments, review family incomes on set schedules, check assets, and follow new limits on project-based vouchers."
+  },
+  {
+   "group": "Families receiving Section 8 vouchers",
+   "how": "Their incomes are reviewed at move-in, each year, and when income rises or falls by 10%, and families with incomes above 120% of area median income for two years may face higher rent or lose assistance."
+  },
+  {
+   "group": "Households with net assets over $100,000",
+   "how": "PHAs may not rent to or assist them, though exceptions exist for domestic violence victims, homebuyers using assistance, and families selling a property."
+  },
+  {
+   "group": "Owners of properties with project-based vouchers",
+   "how": "Contracts can last up to 20 years, rent increases can be tied to a set HUD cost factor, and owners may add units under certain conditions."
+  },
+  {
+   "group": "Residents in manufactured housing receiving vouchers",
+   "how": "The rules for providing and calculating voucher assistance for these households were revised."
+  },
+  {
+   "group": "Youth aging out of foster care",
+   "how": "They can use a family unification voucher for up to 36 months instead of a shorter period."
+  },
+  {
+   "group": "Condominium owners and associations seeking FHA-insured mortgages",
+   "how": "Recertification is to become less burdensome, and FHA must issue owner-occupancy guidance, with a default 35% owner-occupancy rule if guidance is not issued within 90 days."
+  },
+  {
+   "group": "Lenders making USDA single family guaranteed loans",
+   "how": "USDA may delegate loan approval to preferred lenders and may charge up to $50 per loan to use its automated underwriting systems."
+  },
+  {
+   "group": "Local governments and homeless service providers",
+   "how": "Local governments receiving Emergency Solutions Grants may pass funds to PHAs or Local Redevelopment Authorities, and HUD must define the geographic area for the Continuum of Care Program."
+  },
+  {
+   "group": "HOPWA grantees and people with HIV/AIDS",
+   "how": "The formula for distributing HOPWA funds is revised, with grantee eligibility reviewed at least every 10 years and limits on year-to-year allocation changes."
+  },
+  {
+   "group": "Public housing residents in Los Angeles County, Alaska, Iowa, and Mississippi",
+   "how": "PHAs in these areas are exempt from putting residents on governing boards and may instead set up advisory boards of at least six residents or assistance recipients."
+  }
+ ],
+ "when_it_takes_effect": "The summary does not give one general start date for the whole law. Some parts set their own deadlines, such as FHA guidance due within 90 days of enactment, which was July 29, 2016.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

@@ -1,0 +1,28 @@
+{
+ "headline": "A 2020 law that gives statutory force to the USMCA trade agreement among the United States, Mexico, and Canada, which replaces NAFTA.",
+ "what_it_does": "The law sets up the legal framework for the USMCA trade agreement, which replaces the North American Free Trade Agreement. It creates interagency committees to monitor and enforce labor, environmental, and automobile-related parts of the agreement. It also sets penalties for falsely certifying goods under the rules of origin and allows certain agencies to assign employees to the U.S. embassy in Mexico to help with environmental enforcement. The summary also notes provisions on de minimis levels for U.S. exports and cooperation to prevent duty evasion.",
+ "who_it_affects": [
+  {
+   "group": "Businesses that export goods to Mexico or Canada",
+   "how": "They are covered by the agreement's de minimis levels and must follow its rules for certifying where their goods originate."
+  },
+  {
+   "group": "Importers and exporters that claim trade-agreement treatment for goods",
+   "how": "They face penalties if they falsely certify that goods meet the rules of origin."
+  },
+  {
+   "group": "Automobile manufacturers and parts suppliers",
+   "how": "They are subject to the agreement's automobile-related provisions, which federal committees monitor and enforce."
+  },
+  {
+   "group": "Federal agency employees",
+   "how": "Certain agencies may detail staff to the U.S. embassy in Mexico to support environmental monitoring and enforcement."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on January 29, 2020; the official summary does not state a separate effective date.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

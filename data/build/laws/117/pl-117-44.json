@@ -3517,5 +3517,40 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "A short-term law that extends federal highway, transit, rail, and related transportation programs for a few weeks in late 2021 while Congress worked on a longer bill.",
+  "what_it_does": "The law keeps current federal funding levels for highway, transit, and highway safety programs running through October 31, 2021. It also extends the Highway Trust Fund's spending authority through November 1, 2021, so payments can continue. It raises a funding cap for nationally significant freight and highway projects from $600 million to $700 million and extends related programs through fiscal year 2022. It also requires that federal workers who are furloughed or work without pay during any lapse in Highway Trust Fund authority be paid as soon as possible after the lapse ends.",
+  "who_it_affects": [
+   {
+    "group": "State and local governments that receive federal highway and transit money",
+    "how": "They can keep receiving federal funds for highway, transit, and safety projects at current levels through the end of October 2021."
+   },
+   {
+    "group": "Federal transportation employees",
+    "how": "If they are furloughed or required to work without pay during a lapse in Highway Trust Fund authority, they are to be paid once the lapse ends."
+   },
+   {
+    "group": "Freight and highway project sponsors seeking federal grants",
+    "how": "The funding cap for nationally significant freight and highway projects rises to $700 million, and the program authority runs through fiscal year 2022."
+   },
+   {
+    "group": "Railroads and communities near rail stations",
+    "how": "The Department of Transportation can keep offering direct loans and loan guarantees for railroad rehabilitation and development near rail stations through October 31, 2021."
+   },
+   {
+    "group": "Appalachian communities served by the Appalachian Regional Commission",
+    "how": "The commission's authority is reauthorized and extended through fiscal year 2022."
+   },
+   {
+    "group": "Anglers and boaters, and owners of underground fuel storage tanks",
+    "how": "Spending authority for the Sport Fish Restoration and Boating Trust Fund and the Leaking Underground Storage Tank Trust Fund is extended through November 1, 2021."
+   }
+  ],
+  "when_it_takes_effect": "Enacted October 2, 2021; the funding extensions run through October 31 or November 1, 2021, and the longer authorities run through fiscal year 2022.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

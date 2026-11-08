@@ -3522,5 +3522,48 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "This law extends VA disability and health benefits for Vietnam and Korea veterans exposed to herbicides, expands benefits for some children of Thailand-era veterans, and changes several VA home loan rules.",
+  "what_it_does": "The law says that certain illnesses diagnosed in veterans who served offshore of Vietnam or near the Korean Demilitarized Zone are presumed to be caused by their military service, so those veterans can qualify for health care and disability payments more easily. It also gives health care, job training, and a monthly allowance to children with spina bifida whose parent may have been exposed to herbicides while serving in Thailand. For home loans, it removes the cap on the loan amount the VA can guarantee, changes loan fee rates, waives fees for active-duty Purple Heart recipients, and removes the cap on direct loans to Native American veterans buying homes on federal trust land. The law also requires a VA report on a Gulf War veterans study and lets VA-approved appraisers rely on information gathered by a person they contract with.",
+  "who_it_affects": [
+   {
+    "group": "Veterans who served offshore of Vietnam from January 9, 1962 to May 7, 1975",
+    "how": "Certain diseases linked to herbicide exposure are presumed to be service-connected, which can make it easier to get VA health care and disability compensation."
+   },
+   {
+    "group": "Veterans who served in or near the Korean Demilitarized Zone from September 1, 1967 to August 31, 1971",
+    "how": "Certain diseases linked to herbicide exposure are presumed to be service-connected, which can make it easier to get VA health care and disability compensation."
+   },
+   {
+    "group": "Children with spina bifida who have a parent who may have been exposed to herbicides in Thailand from 1962 to 1975",
+    "how": "They become eligible for VA health care, vocational training and rehabilitation, and a monetary allowance."
+   },
+   {
+    "group": "Veterans who use VA home loan guaranties",
+    "how": "The VA can guarantee loans without the previous loan-size limit, and the loan fee rates are changed."
+   },
+   {
+    "group": "Active-duty Purple Heart recipients buying homes with VA loans",
+    "how": "They no longer have to pay VA loan fees."
+   },
+   {
+    "group": "Native American veterans buying homes on tribal trust land",
+    "how": "The cap on the size of a VA direct housing loan for them is removed."
+   },
+   {
+    "group": "VA-approved home appraisers",
+    "how": "They may base a loan appraisal on information gathered by a person they have contracted with, not only on their own work."
+   },
+   {
+    "group": "Gulf War and Gulf War era veterans",
+    "how": "The VA must report on a long-term national study of their health."
+   }
+  ],
+  "when_it_takes_effect": "The official summary does not list specific effective dates for these provisions. The law was enacted on June 25, 2019.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

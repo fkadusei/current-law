@@ -4375,5 +4375,56 @@
   "House": "R",
   "Senate": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "A stopgap spending law that keeps most federal agencies funded at prior-year levels through April 28, 2017, and adds special funding for defense, disaster relief, and other programs.",
+  "what_it_does": "This law is a continuing resolution, which keeps most federal agencies running at their FY2016-style funding levels so that a partial government shutdown does not happen on December 9, 2016. It funds these agencies through April 28, 2017, or until the full FY2017 spending bills are enacted, whichever comes first. The law also includes many special provisions, called anomalies, that let specific programs get extra money or spend funds faster than usual. It adds emergency disaster relief, military and counterterrorism funding, and extends several expiring programs, including health benefits for certain retired coal miners through April 30, 2017.",
+  "who_it_affects": [
+   {
+    "group": "Federal employees and federal agencies",
+    "how": "Most agencies continue operating at FY2016-style funding levels, which helps avoid a shutdown that would have stopped many government services."
+   },
+   {
+    "group": "Retired coal miners and their families",
+    "how": "Their health benefits under the United Mine Workers 1993 Benefit Plan are extended through April 30, 2017, instead of ending December 31, 2016."
+   },
+   {
+    "group": "Commercial truck drivers",
+    "how": "Certain hours-of-service rules are suspended unless the Department of Transportation and Inspector General make specified findings, and the older 34-hour restart rule returns if those findings are not made."
+   },
+   {
+    "group": "Members of Congress",
+    "how": "They are barred from receiving a cost-of-living raise during FY2017."
+   },
+   {
+    "group": "Residents of areas hit by 2016 disasters, including Hurricane Matthew",
+    "how": "Emergency funds are provided for disaster relief, repairs to damaged facilities, flood and coastal work, and community development recovery."
+   },
+   {
+    "group": "Families with school-aged children who receive low-income food help",
+    "how": "Funding is provided for Summer EBT demonstration projects so they can be running by May 2017."
+   },
+   {
+    "group": "Native American veterans who are homeless or at risk of homelessness",
+    "how": "Rental assistance grants under the Tribal-Veterans Affairs Supportive Housing program are allowed to be renewed."
+   },
+   {
+    "group": "Residents of communities with lead or other contaminants in drinking water",
+    "how": "Additional funds are provided for state grants in emergency situations and for lead exposure registries and childhood lead poisoning prevention."
+   },
+   {
+    "group": "Students and families in the District of Columbia Opportunity Scholarship Program",
+    "how": "Certain unused funds must be made available to scholarship grantees, with at least 95% going to scholarships or increased scholarship amounts."
+   },
+   {
+    "group": "People with opioid addiction and their providers",
+    "how": "Additional HHS funding is provided for opioid abuse prevention and treatment."
+   }
+  ],
+  "when_it_takes_effect": "Upon enactment on December 10, 2016, with most funding running through April 28, 2017, or until the applicable FY2017 appropriations legislation is enacted.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

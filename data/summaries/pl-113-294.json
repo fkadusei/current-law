@@ -1,0 +1,20 @@
+{
+ "headline": "This law caps the aviation passenger security fee at $11.20 per round trip.",
+ "what_it_does": "It changes the rules for the aviation passenger security fee, which is charged to people who fly. Under the measure, the total fee for a round trip cannot exceed $11.20. The official summary describes only this cap, so details such as how the fee is collected or spent are not covered here.",
+ "who_it_affects": [
+  {
+   "group": "Air travelers who pay the aviation passenger security fee",
+   "how": "The total security fee on a round trip is limited to $11.20."
+  },
+  {
+   "group": "Air carriers",
+   "how": "They are subject to the revised fee requirements for the passengers they carry."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

@@ -3512,5 +3512,28 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2023 law directs the President to review federal agencies' efforts to promote Native American languages and orders a national survey of how those languages are used.",
+  "what_it_does": "The law tells the President to check whether federal agencies are following requirements to promote Native American languages. It also asks for recommendations to improve coordination among agencies on supporting these languages. In addition, it requires the Administration for Native Americans to survey how Native American languages are used across the United States.",
+  "who_it_affects": [
+   {
+    "group": "Federal agencies",
+    "how": "They must be reviewed for compliance with existing requirements to promote Native American languages, and they may be asked to coordinate more closely with one another."
+   },
+   {
+    "group": "The Administration for Native Americans",
+    "how": "It must carry out a survey of how Native American languages are used in the United States."
+   },
+   {
+    "group": "Native American communities and language speakers",
+    "how": "They may be surveyed about their language use, and the results may inform future federal efforts on these languages."
+   }
+  ],
+  "when_it_takes_effect": "Enacted January 5, 2023; the official summary does not list specific deadlines for the review, recommendations, or survey.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

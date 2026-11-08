@@ -1,0 +1,28 @@
+{
+ "headline": "A 2014 law changes how the VA must report on a traumatic brain injury rehabilitation pilot program for veterans and sets reporting deadlines through 2017.",
+ "what_it_does": "The law amends a 2008 defense authorization act that created a pilot program to help veterans with traumatic brain injury improve their rehabilitation, quality of life, and community integration. The VA Secretary must send quarterly reports to the congressional veterans committees covering January 1, 2015 through September 30, 2017. Each report must include participant counts, completion numbers, participant and family satisfaction, and the VA's interim findings and recommendations. After the pilot ends, a final report must evaluate whether the program should be folded into the VA's independent living programs. The law also replaces the term \"assisted living\" with \"community-based brain injury residential rehabilitative care\" and requires the work to be paid for with existing funds.",
+ "who_it_affects": [
+  {
+   "group": "Veterans with traumatic brain injury",
+   "how": "They are the people the pilot program is designed to serve, and the law sets how the program's results are tracked and reported."
+  },
+  {
+   "group": "Family members of participating veterans",
+   "how": "Their satisfaction with the pilot program must be measured and included in the VA's quarterly reports."
+  },
+  {
+   "group": "Department of Veterans Affairs",
+   "how": "The VA must produce quarterly and final reports on the pilot program and use existing funds to do so."
+  },
+  {
+   "group": "Congressional veterans committees",
+   "how": "They receive the quarterly and final reports on the pilot program."
+  }
+ ],
+ "when_it_takes_effect": "Reporting requirements cover quarters from January 1, 2015 through September 30, 2017, and the law was enacted December 18, 2014.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

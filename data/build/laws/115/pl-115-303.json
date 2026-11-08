@@ -3530,5 +3530,32 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2018 law lets some National Science Foundation grants pay for research internships at national labs and NASA centers, and asks NASA to recruit women and underrepresented groups.",
+  "what_it_does": "The law changes the National Science Foundation Authorization Act of 2002 so certain NSF grants can fund internships that include research experiences at national laboratories and NASA centers. Eligible participants include NSF Master Teaching Fellows and first- and second-year undergraduates studying to teach math or science through the Robert Noyce Teacher Scholarship Program. The law also directs NASA to encourage recruiting qualified women and people underrepresented in science, technology, engineering, mathematics, and computer science for its internships and fellowships.",
+  "who_it_affects": [
+   {
+    "group": "NSF Master Teaching Fellows",
+    "how": "They become eligible for internships that include research experiences at national labs and NASA centers funded through certain NSF grants."
+   },
+   {
+    "group": "Undergraduate freshmen and sophomores in the Robert Noyce Teacher Scholarship Program",
+    "how": "Students studying to become math or science teachers can take part in these research internships."
+   },
+   {
+    "group": "Women and people underrepresented in STEM fields who seek NASA internships or fellowships",
+    "how": "NASA must encourage recruiting qualified candidates from these groups."
+   },
+   {
+    "group": "NASA and national laboratories",
+    "how": "They may host interns funded through eligible NSF grants and must promote recruitment of women and underrepresented candidates."
+   }
+  ],
+  "when_it_takes_effect": "Enacted December 11, 2018; the official summary does not describe a separate later start date.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

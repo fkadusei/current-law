@@ -1,0 +1,28 @@
+{
+ "headline": "A 2020 law asks the FAA to make sure county and tribal governments and rural industries have a voice on its drone advisory committee.",
+ "what_it_does": "The law requires the Federal Aviation Administration to take appropriate steps to encourage direct representation on the Drone Advisory Committee from county governments, tribal governments, and rural interests such as agriculture, forestry, and rangeland. It also requires the FAA to include public participation in the process of nominating people for membership on the committee.",
+ "who_it_affects": [
+  {
+   "group": "County governments",
+   "how": "They are encouraged to have direct representation on the FAA's Drone Advisory Committee."
+  },
+  {
+   "group": "Tribal governments",
+   "how": "They are encouraged to have direct representation on the FAA's Drone Advisory Committee."
+  },
+  {
+   "group": "Agriculture, forestry, and rangeland workers and businesses",
+   "how": "Their sectors are encouraged to have direct representation on the committee that advises the FAA on drones."
+  },
+  {
+   "group": "Members of the public who want to take part",
+   "how": "The FAA must include public participation when it nominates people to serve on the committee."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on December 31, 2020, and the summary does not give a separate effective date.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

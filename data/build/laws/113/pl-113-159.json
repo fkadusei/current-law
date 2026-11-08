@@ -4361,5 +4361,52 @@
   "House": "R",
   "Senate": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "A short-term law that extends federal highway, transit, and safety funding through May 31, 2015, and makes several related revenue and pension changes.",
+  "what_it_does": "The law keeps federal highway and public transportation programs running for about eight months, from October 1, 2014 through May 31, 2015, instead of letting them lapse. It continues authorization of appropriations for highway, motor carrier, highway safety, boating, hazardous materials, and transit programs over that period, and sets an obligation ceiling of about $26.8 billion for federal-aid highway construction. It also extends the authority to spend from the Highway Trust Fund and related trust funds, adds money from the general Treasury, and extends certain customs user fees through 2024. Separately, it changes the funding rules for single-employer defined benefit pension plans and says the Act's budget effects will not count on the House or Senate PAYGO scorecards.",
+  "who_it_affects": [
+   {
+    "group": "State departments of transportation and local governments that build or repair federal-aid highways",
+    "how": "They can keep receiving federal highway construction funds under the same rules for the extension period, subject to the obligation ceiling."
+   },
+   {
+    "group": "Public transit agencies and riders in urban and rural areas",
+    "how": "Federal formula grants, capital investment grants, and bus funding continue through May 31, 2015."
+   },
+   {
+    "group": "Tribal governments and Indian reservations",
+    "how": "Public transportation grants on reservations and the Tribal High Priority Projects program continue for the same period, with some funding from the general Treasury."
+   },
+   {
+    "group": "Commercial truck and bus companies and commercial drivers",
+    "how": "Federal motor carrier safety grants and programs, including commercial driver's license grants, continue through the extension period."
+   },
+   {
+    "group": "State highway safety offices and local police",
+    "how": "Federal highway safety grants and high-visibility traffic enforcement campaigns continue through May 31, 2015."
+   },
+   {
+    "group": "Boaters, marinas, and coastal wetland projects",
+    "how": "Sport fish and boating trust fund distributions for boating safety, boating infrastructure, and coastal wetlands continue for the same period."
+   },
+   {
+    "group": "Hazardous materials shippers, emergency responders, and training programs",
+    "how": "Federal hazmat safety projects and training grants are funded through the extension period."
+   },
+   {
+    "group": "Employers that sponsor single-employer defined benefit pension plans",
+    "how": "The minimum funding percentages for these plans are revised, and plans that pay accelerated benefit distributions are exempt from the standards."
+   },
+   {
+    "group": "Importers and customs brokers",
+    "how": "Certain customs user fees for processing imported merchandise are extended through September 30, 2024."
+   }
+  ],
+  "when_it_takes_effect": "Highway and transit extensions run from October 1, 2014 through May 31, 2015; the customs user fee extension runs through September 30, 2024; the Act was enacted August 8, 2014.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

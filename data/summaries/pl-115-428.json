@@ -1,0 +1,28 @@
+{
+ "headline": "This law tells USAID to design and track its foreign aid with attention to gender, and expands support for women-owned small and medium businesses in developing countries.",
+ "what_it_does": "The law changes USAID programs so that strategies and projects consider how gender roles and structural barriers affect results for men and women. It lets the President fund micro, small, and medium-sized businesses in developing countries, especially those owned or run by women, where before the aid was mostly limited to microenterprises. It also authorizes programs that help women get access to financial resources, property and inheritance rights, and legal protections. It requires USAID to track outcomes by gender when feasible, report results broken down by gender and income, and report to Congress on implementation, and it asks the GAO to assess the impact of this aid.",
+ "who_it_affects": [
+  {
+   "group": "Women entrepreneurs in developing countries",
+   "how": "They can receive U.S. aid for small and medium businesses, and at least half of certain small and medium enterprise funding must go to women-owned, managed, or controlled businesses."
+  },
+  {
+   "group": "Very poor people in developing countries",
+   "how": "At least half of certain sustainable poverty-focused business resources must reach activities that serve the very poor."
+  },
+  {
+   "group": "Medium-sized businesses in developing countries",
+   "how": "The President may extend the micro and small business credit program to include medium-sized businesses."
+  },
+  {
+   "group": "USAID staff and implementing partners",
+   "how": "They must analyze gender differences in program design, track outcomes by gender when feasible, and prepare gender-broken-down reports for Congress."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

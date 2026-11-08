@@ -42,5 +42,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law removes an old federal ban on operating distilleries that make distilled liquors in Indian country.",
+  "what_it_does": "A law from the 1870s, section 2141 of the Revised Statutes, barred anyone from creating or continuing a distillery in Indian country to make ardent spirits, which means distilled liquors. This law repeals that ban, so the prohibition no longer applies. The summary does not say how distilleries there must now be licensed or regulated, so those rules are not covered here.",
+  "who_it_affects": [
+   {
+    "group": "Federally recognized tribes",
+    "how": "Tribes may now allow distilleries to operate on their lands without the old federal prohibition in place."
+   },
+   {
+    "group": "People who want to start or run a distillery in Indian country",
+    "how": "They are no longer barred by this federal rule from making distilled spirits there, though other laws still apply."
+   },
+   {
+    "group": "People who buy distilled spirits made in Indian country",
+    "how": "Spirits produced at these distilleries may become available where the old ban had prevented production."
+   }
+  ],
+  "when_it_takes_effect": "The summary does not give a separate date, so it appears to have taken effect when it was signed into law on December 11, 2018.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

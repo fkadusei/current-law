@@ -45,5 +45,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This 2018 law changes federal rules so that large public utility mergers need FERC approval and smaller ones must be reported to FERC.",
+  "what_it_does": "The law amends Section 203 of the Federal Power Act, which covers mergers and consolidations involving public utilities. Any such deal valued above $10 million must first be authorized by the Federal Energy Regulatory Commission (FERC). The law also requires FERC to write a rule within 180 days. That rule would require utilities in deals valued between $1 million and $10 million to notify FERC within 30 days after the deal is completed.",
+  "who_it_affects": [
+   {
+    "group": "Public utilities that plan mergers or consolidations",
+    "how": "Deals valued above $10 million must get FERC approval before they can go forward, and smaller deals between $1 million and $10 million must be reported to FERC after closing."
+   },
+   {
+    "group": "Electricity and energy customers served by public utilities",
+    "how": "FERC's review of large utility mergers is intended to take place before the deal is finalized, which affects the companies that serve them."
+   },
+   {
+    "group": "The Federal Energy Regulatory Commission",
+    "how": "FERC must approve large utility mergers and must issue a rule setting up the notice requirement for mid-sized deals."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted September 28, 2018. FERC was required to issue its notification rule within 180 days of enactment, and the summary does not give a separate effective date for the approval requirement.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -1,0 +1,32 @@
+{
+ "headline": "This law asks the Justice Department to study and report on mental health support for police officers and lets some grant money fund peer mental health programs.",
+ "what_it_does": "The law directs the Department of Justice to look at mental health practices used by the military and Veterans Affairs to see whether police agencies could use them. It expands a federal police grant program so funds can pay for peer mentoring mental health pilot programs in state, local, and tribal police agencies. It also requires the Justice Department to work with Health and Human Services to create training materials for mental health providers about police culture and treatments for common officer issues. Finally, it requires reports on crisis hotlines, annual mental health checks, and the needs of federal officers, while protecting officers' privacy.",
+ "who_it_affects": [
+  {
+   "group": "State, local, and tribal law enforcement officers",
+   "how": "Their agencies may be able to get federal grant money for peer mentoring mental health and wellness pilot programs."
+  },
+  {
+   "group": "State, local, and tribal police agencies",
+   "how": "They become eligible to use Community Oriented Policing Services grant funds for mental health and wellness pilot programs."
+  },
+  {
+   "group": "Federal law enforcement officers",
+   "how": "The Justice Department must review their mental health and wellness needs and protect the privacy of any officers who take part in related programs."
+  },
+  {
+   "group": "Mental health providers",
+   "how": "They may receive new educational resources on law enforcement culture and therapies for issues common to officers."
+  },
+  {
+   "group": "People who call crisis hotlines",
+   "how": "The Justice Department must review existing crisis hotlines and recommend improvements, though the law does not itself change how hotlines operate."
+  }
+ ],
+ "when_it_takes_effect": "The law took effect when it was enacted on January 10, 2018, but its reporting and program provisions depend on later agency action and funding.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

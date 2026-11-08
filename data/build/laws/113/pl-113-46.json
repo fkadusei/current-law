@@ -4358,5 +4358,48 @@
   "House": "R",
   "Senate": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "Temporarily funds most federal agencies through January 15, 2014, ending the 2013 government shutdown and paying furloughed workers for the lapse in funding.",
+  "what_it_does": "This law keeps federal agencies running at fiscal year 2013 funding levels until January 15, 2014, or until full fiscal year 2014 spending bills are enacted, whichever comes first. It treats the funding period as starting October 1, 2013, and requires that furloughed federal employees be paid at their standard rate after the lapse ends. It also extends many expiring programs, such as TANF, certain housing and aviation programs, and recreation fee collection, and it suspends the federal debt limit until February 7, 2014.",
+  "who_it_affects": [
+   {
+    "group": "Federal employees who were furloughed during the lapse in funding",
+    "how": "They are to receive pay at their standard rate for the period they were furloughed once the lapse ends."
+   },
+   {
+    "group": "Federal agencies and their contractors and grantees",
+    "how": "They can keep spending at the prior year's levels under limits on new projects, production increases, and new grants until January 15, 2014."
+   },
+   {
+    "group": "States and other federal grantees that kept programs running during the lapse",
+    "how": "They can be reimbursed for funds they used to continue federal programs and for paying their furloughed employees."
+   },
+   {
+    "group": "Families receiving Temporary Assistance for Needy Families (TANF) benefits",
+    "how": "TANF activities continue through January 15, 2014, at the fiscal year 2013 pattern."
+   },
+   {
+    "group": "Members of Congress",
+    "how": "They will not receive a cost of living pay increase during fiscal year 2014."
+   },
+   {
+    "group": "People who buy health insurance through the marketplace exchanges",
+    "how": "HHS must certify that exchanges verify eligibility before premium tax credits and cost-sharing reductions are made available."
+   },
+   {
+    "group": "Visitors to federal recreation lands",
+    "how": "Recreation fee collection authority is extended through December 8, 2015."
+   },
+   {
+    "group": "Military service members and their families",
+    "how": "Pay Our Military Act expenditures are charged to the appropriations provided in this law."
+   }
+  ],
+  "when_it_takes_effect": "Enacted October 17, 2013; funding runs through January 15, 2014, or until fiscal year 2014 appropriations are enacted, and the debt limit suspension runs through February 7, 2014.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

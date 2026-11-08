@@ -3530,5 +3530,40 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "A short-term law that extends federal highway, transit, safety, and hazardous materials programs through July 31, 2015, and covers the period back to October 1, 2014.",
+  "what_it_does": "The law keeps several federal surface transportation programs running for a few more months instead of letting them lapse. It covers federal-aid highway funding, highway and motor carrier safety programs, public transit grants, and hazardous materials safety, and it sets a spending ceiling for highway construction. It also extends the related revenue authority that lets money be spent from the Highway Trust Fund, the Sport Fish Restoration and Boating Trust Fund, and the Leaking Underground Storage Tank Trust Fund.",
+  "who_it_affects": [
+   {
+    "group": "State departments of transportation",
+    "how": "They can keep receiving federal highway funds under the same rules for the extended period, subject to the spending ceiling and a reduction for amounts already apportioned for October 2014 through May 2015."
+   },
+   {
+    "group": "Public transit agencies and riders in cities and rural areas",
+    "how": "Formula grants for public transportation, bus facilities, and rural and tribal transit are extended, so these agencies can keep using federal transit money through July 31, 2015."
+   },
+   {
+    "group": "Commercial truck and bus companies and commercial drivers",
+    "how": "Federal motor carrier safety grants and programs for commercial driver's licenses and motor carrier oversight continue for the extended period."
+   },
+   {
+    "group": "Recreational boaters and boating businesses",
+    "how": "Boating safety, boating infrastructure, and Clean Vessel Act funding continue under the Sport Fish Restoration program through July 31, 2015."
+   },
+   {
+    "group": "Hazardous materials shippers and emergency responders",
+    "how": "Hazmat transportation safety projects and hazmat training grants continue to be funded through July 31, 2015."
+   },
+   {
+    "group": "Drivers and local law enforcement agencies",
+    "how": "Highway safety programs, including high-visibility traffic enforcement campaigns, continue to receive federal authorization through July 31, 2015."
+   }
+  ],
+  "when_it_takes_effect": "The law took effect when it was enacted on May 29, 2015, and the extended programs run through July 31, 2015.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

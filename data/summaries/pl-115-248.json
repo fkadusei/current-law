@@ -1,0 +1,28 @@
+{
+ "headline": "This 2018 law changes how the Department of Energy runs its civilian nuclear research and lets private companies test new reactor designs at federal sites.",
+ "what_it_does": "The law shifts the goals of DOE's civilian nuclear programs toward research facilities and partnerships with private companies. It repeals the older Nuclear Power 2010 Program and an Idaho National Laboratory facility planning requirement. It directs DOE to set up a fast neutron research user facility, a computer modeling program, and a process for privately funded experimental reactors at DOE sites, with DOE and the Nuclear Regulatory Commission sharing expertise under memoranda of understanding. It also creates a cost-share grant program that helps applicants pay some NRC licensing fees.",
+ "who_it_affects": [
+  {
+   "group": "Private companies developing advanced nuclear reactors",
+   "how": "They can propose and fund experimental reactors to be tested at national laboratories or other DOE-owned sites, and they can apply for cost-share grants to help pay NRC review fees."
+  },
+  {
+   "group": "Researchers at universities and the National Laboratories",
+   "how": "They gain access to planned research infrastructure, including a fast neutron source designed to be used as a national user facility."
+  },
+  {
+   "group": "Operators of privately funded experimental reactors",
+   "how": "Their activities that carry a risk of public liability fall under the Price-Anderson Act financial protection and indemnification requirements."
+  },
+  {
+   "group": "Department of Energy and Nuclear Regulatory Commission staff",
+   "how": "They must coordinate technical expertise, sign memoranda of understanding, and produce required plans and assessments."
+  }
+ ],
+ "when_it_takes_effect": "The law took effect on enactment, September 28, 2018, though some deadlines inside it, such as the December 31, 2017 mission-need determination and one-year reporting requirements, were set in relation to earlier or shortly after enactment dates.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

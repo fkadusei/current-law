@@ -1,0 +1,36 @@
+{
+ "headline": "A short-term law that extends federal airport, air traffic, and aviation tax programs that were set to expire, through mid-July 2016 and mid-July 2017 for taxes.",
+ "what_it_does": "It keeps a set of airport and aviation programs running from March 31, 2016 through July 15, 2016, including airport improvement grants, air traffic control contracts, and subsidies for small communities' flights. It also extends some related pilot programs and an aviation consumer advisory committee to the same date. For taxes, it extends the Airport and Airway Trust Fund spending authority and the fuel and airline ticket taxes that support it through July 15, 2017.",
+ "who_it_affects": [
+  {
+   "group": "Airports, including large and medium hub airports and small airports",
+   "how": "They can keep receiving federal grants for development projects and related programs without a lapse while the extension is in effect."
+  },
+  {
+   "group": "Small communities served by essential air service",
+   "how": "Their subsidized commercial flight service continues under the extended authority."
+  },
+  {
+   "group": "Airline passengers",
+   "how": "The airline ticket taxes that fund the aviation system continue to be collected through July 15, 2017."
+  },
+  {
+   "group": "Aircraft owners and operators in fractional ownership programs",
+   "how": "They keep the exemption from ticket taxes for aircraft in these programs through July 15, 2017."
+  },
+  {
+   "group": "Fuel purchasers for aviation",
+   "how": "Federal aviation fuel taxes continue to apply through July 15, 2017."
+  },
+  {
+   "group": "Public-use airport operators in the redevelopment pilot program",
+   "how": "Up to four airports can continue to receive grants for redeveloping airport property until July 15, 2016."
+  }
+ ],
+ "when_it_takes_effect": "The airport and airway program extensions run from March 31, 2016 through July 15, 2016, and the tax extensions run through July 15, 2017.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

@@ -1,0 +1,32 @@
+{
+ "headline": "A short-term spending bill that keeps the federal government funded at last year's levels through December 30, 2022, and extends several expiring programs.",
+ "what_it_does": "This law provides temporary funding for federal agencies for the rest of fiscal year 2023, so the government does not shut down when the prior stopgap expires on December 23, 2022. Most programs continue at fiscal 2022 funding levels until the full spending bills are enacted or the deadline passes. It also extends several programs and authorities through December 30, 2022, including the FCC's spectrum auction authority, a special assessment that funds human-trafficking survivor programs, the U.S. Parole Commission, a Commodity Futures Trading Commission fund account, and a restriction on Indian Health Service funds for certain Alaska Native entities. The budget-related parts of the bill are exempted from certain federal budget rules.",
+ "who_it_affects": [
+  {
+   "group": "Federal employees and federal agencies",
+   "how": "Agencies can keep operating and paying staff at last year's funding levels instead of closing during a shutdown."
+  },
+  {
+   "group": "Persons convicted of certain sexual abuse or human trafficking offenses",
+   "how": "A special assessment on nonindigent offenders is extended and continues to fund programs for human-trafficking survivors."
+  },
+  {
+   "group": "Federal Communications Commission and wireless spectrum bidders",
+   "how": "The FCC's authority to hold auctions for electromagnetic spectrum licenses is extended through December 30, 2022."
+  },
+  {
+   "group": "Alaska Native villages and corporations in areas served by Alaska Native regional health entities",
+   "how": "A restriction on Indian Health Service disbursing funds to them is extended through December 30, 2022."
+  },
+  {
+   "group": "Parole and commodity futures oversight bodies",
+   "how": "The U.S. Parole Commission and the CFTC Customer Protection Fund expense account are kept in place through December 30, 2022."
+  }
+ ],
+ "when_it_takes_effect": "Enacted December 23, 2022; funding and extensions run through December 30, 2022, or until applicable full-year appropriations are enacted.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

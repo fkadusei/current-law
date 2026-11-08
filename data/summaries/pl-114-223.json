@@ -1,0 +1,40 @@
+{
+ "headline": "A 2016 spending law that funds military construction and veterans programs for fiscal 2017, keeps other agencies running on a temporary extension, adds Zika funding, and rescinds some unspent money.",
+ "what_it_does": "The law has four parts. Division A sets fiscal 2017 funding for military construction, the Department of Veterans Affairs, and related agencies, and it allows the VA to pay for certain fertility treatment, counseling, and adoption costs for veterans with qualifying service-connected disabilities. Division B gives supplemental funding to health and State Department agencies to respond to the Zika virus. Division C is a continuing resolution that keeps most other federal agencies funded at fiscal 2016 levels, minus a small across-the-board cut, through December 9, 2016. Division D cancels certain unspent balances from several agencies and programs.",
+ "who_it_affects": [
+  {
+   "group": "Veterans enrolled in VA health care",
+   "how": "The VA's health care budget is set for fiscal 2017, and the law requires copayment-free opioid overdose reversal medication for certain high-risk veterans."
+  },
+  {
+   "group": "Veterans with certain service-connected disabilities who want to have children",
+   "how": "The VA may use Medical Services funds for fertility counseling and treatment, or reimburse adoption costs, for eligible veterans or their spouses."
+  },
+  {
+   "group": "VA employees who report misconduct",
+   "how": "The law adds procedures for filing whistle-blower complaints and bars retaliation, and it requires annual training on those complaints."
+  },
+  {
+   "group": "Military personnel and defense contractors on construction projects",
+   "how": "The law sets fiscal 2017 military construction funding and adds rules on contracting, land purchases, and steel procurement."
+  },
+  {
+   "group": "Federal employees at agencies funded by the continuing resolution",
+   "how": "Their agencies keep operating at fiscal 2016 funding levels through December 9, 2016, which helps avoid a government shutdown at the start of fiscal 2017."
+  },
+  {
+   "group": "Health care providers and public health workers responding to Zika",
+   "how": "Supplemental funds are available for Zika prevention, preparation, and response through fiscal 2017."
+  },
+  {
+   "group": "Agencies with unspent funds that were rescinded",
+   "how": "Unobligated balances from listed programs, including some Ebola and Affordable Care Act funds, are canceled and no longer available."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on September 29, 2016. Its fiscal 2017 provisions apply starting October 1, 2016, and the continuing resolution runs through December 9, 2016, unless a regular appropriations bill is enacted sooner.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

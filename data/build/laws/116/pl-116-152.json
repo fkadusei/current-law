@@ -4348,5 +4348,32 @@
   "House": "D",
   "Senate": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2020 law sets up a fund for repairing aging facilities on federal lands and makes money for the Land and Water Conservation Fund permanent.",
+  "what_it_does": "The law creates the National Parks and Public Land Legacy Restoration Fund. For fiscal years 2021 through 2025, an amount equal to 50% of certain energy revenues from federal lands and waters is deposited into the fund, capped at $1.9 billion per year. The money pays for priority deferred maintenance, meaning repairs that have been put off, at parks, forests, wildlife refuges, and other federal lands. The law also makes funding for the Land and Water Conservation Fund permanent and requires the President to report to Congress on how those funds are allocated.",
+  "who_it_affects": [
+   {
+    "group": "Visitors to national parks, national forests, and wildlife refuges",
+    "how": "The law directs money toward repairing roads, buildings, trails, and other facilities that have been delayed for maintenance."
+   },
+   {
+    "group": "National Park Service, Forest Service, Fish and Wildlife Service, Bureau of Land Management, and Bureau of Indian Education",
+    "how": "These agencies can use the fund for priority repair projects in their systems, and the GAO must report on how the backlog changes."
+   },
+   {
+    "group": "Oil, gas, coal, and renewable energy companies that develop federal lands and waters",
+    "how": "Their development revenues help determine how much money goes into the fund, since half of those revenues are deposited for the fund through 2025."
+   },
+   {
+    "group": "State and local governments that receive Land and Water Conservation Fund grants",
+    "how": "Funding for the Land and Water Conservation Fund no longer needs to be renewed each year because it is made permanent."
+   }
+  ],
+  "when_it_takes_effect": "Enacted August 4, 2020; deposits apply to fiscal years 2021 through 2025.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

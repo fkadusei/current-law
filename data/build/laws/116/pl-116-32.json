@@ -39,5 +39,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law renews and updates federal grants that help police and other law enforcement officers get mental health, suicide prevention, and family support services.",
+  "what_it_does": "The law reauthorizes Department of Justice grant programs for fiscal years 2020 through 2024. It changes those grants so they can pay for more kinds of help, including suicide prevention and mental health programs. The grants are aimed at family support services for law enforcement personnel.",
+  "who_it_affects": [
+   {
+    "group": "Law enforcement officers and their families",
+    "how": "They may have access to more grant-funded family support, mental health, and suicide prevention services."
+   },
+   {
+    "group": "State and local law enforcement agencies",
+    "how": "They can apply for federal grant money to set up or expand these support services for their staff."
+   },
+   {
+    "group": "Department of Justice",
+    "how": "It must run the reauthorized grant programs with the updated allowed uses for fiscal years 2020 through 2024."
+   }
+  ],
+  "when_it_takes_effect": "Enacted July 25, 2019, with grant authority covering fiscal years 2020 through 2024.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

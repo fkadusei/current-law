@@ -33,5 +33,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Renames a U.S. Postal Service facility at 456 North Meridian Street in Indianapolis, Indiana, as the Richard G. Lugar Post Office.",
+  "what_it_does": "This law gives a specific post office building in Indianapolis, Indiana, a new official name honoring former U.S. Senator Richard G. Lugar. The building's address is 456 North Meridian Street. It changes only the name of the facility and does not add or remove any services.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law was enacted on October 1, 2020.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

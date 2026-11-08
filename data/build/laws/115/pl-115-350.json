@@ -42,5 +42,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2018 law directs the federal government to place about 3,400 Arizona acres into trust for the Gila River Indian Community, sets a fixed northern reservation boundary, and settles related claims.",
+  "what_it_does": "The law orders the Department of the Interior to take roughly 3,400 acres of land in Arizona, called the Lower Sonoran Lands, into trust for the Gila River Indian Community. Once in trust, that land is treated as part of the community's reservation, and gaming is not allowed there. The law also sets a permanent northern boundary for the reservation and confirms federal rights-of-way and easements within it. The Bureau of Indian Affairs must survey each of these rights-of-way within six years, and after the surveys are done, the community and the BIA may remove a right-of-way.",
+  "who_it_affects": [
+   {
+    "group": "Gila River Indian Community (Pima and Maricopa members)",
+    "how": "About 3,400 acres of Lower Sonoran Lands are placed into trust and added to the reservation, and the reservation gets a fixed northern boundary."
+   },
+   {
+    "group": "Members and allottees of the Gila River Indian Community",
+    "how": "Their claims against the United States about rights-of-way and the northern boundary are treated as settled by the benefits the law provides."
+   },
+   {
+    "group": "Owners and users of rights-of-way on the reservation",
+    "how": "Federal rights-of-way and easements within the reservation are confirmed, and the Bureau of Indian Affairs must publish surveys of them within six years."
+   },
+   {
+    "group": "Gaming operators",
+    "how": "Casino or other gaming activity is prohibited on the newly trust-held land."
+   }
+  ],
+  "when_it_takes_effect": "Enacted December 21, 2018; the Bureau of Indian Affairs must complete and publish the right-of-way surveys within six years of enactment.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

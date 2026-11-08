@@ -36,5 +36,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2017 law renames a VA health clinic in Center Township, Pennsylvania, after Abie Abraham.",
+  "what_it_does": "This law gives a name to a Department of Veterans Affairs health care center in Center Township, Butler County, Pennsylvania. It names the clinic the \"Abie Abraham VA Clinic.\" The law does not change how the clinic is run, what services it offers, or who can use it.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "It took effect when it was enacted on March 13, 2017.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

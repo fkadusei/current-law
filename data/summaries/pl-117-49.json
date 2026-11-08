@@ -1,0 +1,28 @@
+{
+ "headline": "A 2021 law changes how the federal TEACH grant program checks whether teachers met their service requirement, and gives some teachers more time and relief during the COVID-19 pandemic.",
+ "what_it_does": "The TEACH grant gives college students money if they agree to teach high-need subjects at low-income schools for four years. If they do not meet that promise, the grant turns into a loan. This law requires the Department of Education to notify grant recipients about how to submit proof of their teaching, and to offer an alternative to the certification form. It also lets the department reconsider and reverse a grant-to-loan conversion. The department must keep and update a yearly list of qualifying schools and high-need fields. For teachers affected by COVID-19, the law extends the time window to complete service and counts teaching interrupted by a qualifying emergency as full-time service for Federal Perkins Loans.",
+ "who_it_affects": [
+  {
+   "group": "Students who received TEACH grants",
+   "how": "They can get notice about how to submit employment proof and an alternative to the certification form, and their grant may be reversed back from a loan if the department reconsiders."
+  },
+  {
+   "group": "Teachers who must complete TEACH service obligations",
+   "how": "They get a longer window to finish their service requirement because of the COVID-19 pandemic."
+  },
+  {
+   "group": "Teachers with Federal Perkins Loans whose service was interrupted by a qualifying emergency",
+   "how": "Their interrupted teaching service must be considered as full-time service for loan purposes."
+  },
+  {
+   "group": "Schools in low-income areas and teachers in high-need fields",
+   "how": "The Department of Education must maintain and update a yearly list of which schools and subjects qualify."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on October 13, 2021, and its provisions apply from that date, though the summary does not give specific dates for each provision.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

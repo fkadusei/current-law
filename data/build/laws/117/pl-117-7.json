@@ -4325,5 +4325,28 @@
   "House": "D",
   "Senate": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2021 law that delays automatic federal spending cuts and makes several technical changes to Medicare and Medicaid payment rules.",
+  "what_it_does": "The law keeps Medicare exempt from automatic across-the-board spending cuts, called sequestration, until December 31, 2021. It applies certain modified payment limits to rural health clinics that temporarily enrolled in Medicare during the COVID-19 public health emergency or that applied to enroll by December 31, 2020. It also keeps higher Medicaid disproportionate-share hospital payments for public hospitals in California, even though future payment method changes are expected.",
+  "who_it_affects": [
+   {
+    "group": "Medicare beneficiaries",
+    "how": "Medicare spending is shielded from automatic sequestration cuts through the end of 2021."
+   },
+   {
+    "group": "Rural health clinics that enrolled in Medicare during the COVID-19 emergency or applied by December 31, 2020",
+    "how": "These clinics are subject to certain modified Medicare payment limits."
+   },
+   {
+    "group": "Public hospitals in California",
+    "how": "They keep higher Medicaid disproportionate-share hospital payments under future payment method changes."
+   }
+  ],
+  "when_it_takes_effect": "Enacted April 14, 2021; the Medicare sequestration exemption runs through December 31, 2021.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

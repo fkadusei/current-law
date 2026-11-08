@@ -4375,5 +4375,44 @@
   "House": "R",
   "Senate": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "This law requires USDA to set a national standard for disclosing when food is bioengineered, also called GMO food, and bars states from adding different labeling rules.",
+  "what_it_does": "The law amends the Agricultural Marketing Act of 1946 to create a mandatory national disclosure standard for bioengineered food, meaning food changed in ways that could not happen through conventional breeding or in nature. USDA must set the standard and its rules within two years of enactment, and food makers can choose the form of disclosure, such as text, a symbol, or a digital link, along with other options for small packages. The law also makes it illegal to knowingly skip a required disclosure, requires record-keeping, and bars states from adding labeling rules that differ from the federal standard.",
+  "who_it_affects": [
+   {
+    "group": "Food manufacturers",
+    "how": "They must make the required bioengineered disclosure, keep records showing compliance, and provide those records to USDA when asked."
+   },
+   {
+    "group": "Small food manufacturers",
+    "how": "They get a later implementation date than other manufacturers and can use extra disclosure options, such as a phone number and a company website."
+   },
+   {
+    "group": "Very small food manufacturers",
+    "how": "The regulations must exclude them from the disclosure requirement."
+   },
+   {
+    "group": "Restaurants and similar retail food establishments",
+    "how": "Food served in these places is excluded from the disclosure requirement."
+   },
+   {
+    "group": "Consumers",
+    "how": "They will see bioengineering disclosures on many packaged foods, including through text, symbols, or scannable digital links, and some may need a phone number or website to get details."
+   },
+   {
+    "group": "State and local governments",
+    "how": "They cannot set or keep food labeling rules for bioengineered food that differ from the federal standard."
+   },
+   {
+    "group": "Organic food producers",
+    "how": "A certification under the National Organic Program is enough to make a claim that a food is free of bioengineering."
+   }
+  ],
+  "when_it_takes_effect": "USDA must establish the disclosure standard and related rules within two years of the law's enactment on July 29, 2016. The summary does not give the date when companies must start complying.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

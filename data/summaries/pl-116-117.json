@@ -1,0 +1,24 @@
+{
+ "headline": "Congress reorganized federal rules on improper government payments and added pilot programs, death-data updates, and a payment integrity working group.",
+ "what_it_does": "This law combines and rewrites several older statutes that require federal agencies to reduce improper payments, meaning money paid out by mistake or in the wrong amount. It lets the Office of Management and Budget set up one or more pilot programs to test ways to hold agencies accountable for meeting those requirements. It also requires OMB to update its plan for improving death records kept by the Social Security Administration and for how federal agencies use that death data. Finally, it creates an interagency working group focused on payment integrity.",
+ "who_it_affects": [
+  {
+   "group": "Federal agencies that make payments",
+   "how": "They must follow the reorganized improper payment requirements and may take part in pilot programs testing accountability methods."
+  },
+  {
+   "group": "People receiving federal benefit payments",
+   "how": "Agencies are directed to use better death records to help prevent payments from going out to people who have died."
+  },
+  {
+   "group": "Families of deceased people receiving federal payments",
+   "how": "Improved death-data sharing may affect how quickly federal payments are stopped after a person dies."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

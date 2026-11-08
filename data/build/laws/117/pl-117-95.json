@@ -36,5 +36,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A short-term spending bill that keeps federal agencies funded through March 15, 2022, and makes two related changes on fentanyl scheduling and emergency weapons transfers.",
+  "what_it_does": "This joint resolution is a continuing resolution that keeps federal agencies funded past the March 11, 2022 deadline, so the government does not shut down while full FY2022 spending bills are still pending. It extends through March 15, 2022. It also extends a temporary Drug Enforcement Administration order that places fentanyl-related substances in Schedule I of the Controlled Substances Act. Finally, it raises the dollar limit on defense equipment and services the President can release quickly in unforeseen emergencies.",
+  "who_it_affects": [
+   {
+    "group": "Federal agency employees and federal workers",
+    "how": "Their agencies receive continued funding, which keeps the government open and avoids a shutdown during the extension period."
+   },
+   {
+    "group": "People who rely on federal government services",
+    "how": "Services funded by federal agencies continue without interruption through March 15, 2022."
+   },
+   {
+    "group": "Businesses that handle fentanyl-related substances",
+    "how": "The temporary federal scheduling order for these substances remains in effect, so related handling and possession rules continue to apply."
+   },
+   {
+    "group": "Foreign governments receiving U.S. defense equipment",
+    "how": "The President can provide a larger value of defense articles and services in an emergency without waiting for new authorization."
+   }
+  ],
+  "when_it_takes_effect": "Enacted March 11, 2022, and funding runs through March 15, 2022.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

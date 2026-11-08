@@ -39,5 +39,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2022 law requires a federal small business ombudsman to build a single website that gathers compliance guides and contact information for helping small businesses follow federal rules.",
+  "what_it_does": "The law directs the Small Business and Agriculture Regulatory Enforcement Ombudsman to create a website. The site must collect small entity compliance guides, which explain federal rules for small businesses. It must also list contact information for people who can help small entities with each guide.",
+  "who_it_affects": [
+   {
+    "group": "Small businesses",
+    "how": "They can find federal compliance guides and contact points for help with rules that apply to them in one online location."
+   },
+   {
+    "group": "Small entities subject to federal regulations",
+    "how": "They gain a central place to look up guidance and the people who can answer questions about each rule's guide."
+   },
+   {
+    "group": "The Small Business and Agriculture Regulatory Enforcement Ombudsman's office",
+    "how": "The office is required to build, maintain, and populate the new website with the required guides and contact information."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on October 10, 2022. The summary does not give a specific deadline for the website to go live, so the timing is not stated.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

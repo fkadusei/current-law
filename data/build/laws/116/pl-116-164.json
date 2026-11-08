@@ -36,5 +36,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2020 law extends special import duty treatment for certain Caribbean Basin apparel through fiscal year 2030 and extends a merchandise processing fee through October 21, 2029.",
+  "what_it_does": "The law keeps in place special tariff treatment for certain clothing and apparel items made in Caribbean Basin countries, extending it through fiscal year 2030. It also extends the period during which certain merchandise processing fees may be charged, through October 21, 2029. The official summary does not list the specific products, rates, or fee amounts, so those details are not described here.",
+  "who_it_affects": [
+   {
+    "group": "US importers that bring in apparel made in Caribbean Basin countries",
+    "how": "They can keep using the special duty treatment for qualifying apparel items through fiscal year 2030."
+   },
+   {
+    "group": "Apparel manufacturers in Caribbean Basin countries",
+    "how": "Qualifying apparel they export to the United States can continue to receive the special duty treatment through fiscal year 2030."
+   },
+   {
+    "group": "Businesses that pay merchandise processing fees on imports",
+    "how": "Customs can continue charging these fees on eligible imports through October 21, 2029."
+   }
+  ],
+  "when_it_takes_effect": "The law was signed October 10, 2020. The apparel duty treatment runs through fiscal year 2030, and the processing fee period runs through October 21, 2029.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -3485,5 +3485,32 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "Changes bankruptcy debt limits and rules for small businesses and individuals filing Chapter 13, signed into law on June 21, 2022.",
+  "what_it_does": "For two years, the higher debt limit for small business reorganization bankruptcies stays in place, and that limit will now be adjusted for inflation. A business that is an affiliate of certain publicly traded companies counts as a small business debtor. A bankruptcy trustee can run the business if the debtor stops being a debtor in possession. For two years, the debt limit for individuals in Chapter 13 is raised, and secured and unsecured debt now count toward one combined limit.",
+  "who_it_affects": [
+   {
+    "group": "Small businesses filing for reorganization bankruptcy",
+    "how": "They can carry a higher amount of debt and still qualify for the small business reorganization process, with that amount adjusted for inflation."
+   },
+   {
+    "group": "Businesses affiliated with certain publicly traded companies",
+    "how": "They can be treated as small business debtors if they meet the bill's affiliate rules."
+   },
+   {
+    "group": "Individuals filing for Chapter 13 (wage earner's plan)",
+    "how": "They can carry a higher total debt limit for two years, and secured and unsecured debt now count toward a single limit instead of separate ones."
+   },
+   {
+    "group": "Bankruptcy trustees",
+    "how": "They can operate a debtor's business if the debtor is no longer allowed to run it as a debtor in possession."
+   }
+  ],
+  "when_it_takes_effect": "Signed into law June 21, 2022. The summary does not list separate effective dates for each provision.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

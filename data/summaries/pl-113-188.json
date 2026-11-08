@@ -1,0 +1,32 @@
+{
+ "headline": "A 2014 law removes or changes dozens of routine reporting and notification requirements across many federal agencies.",
+ "what_it_does": "The law ends or changes many reports that federal agencies and departments were required to send to Congress or publish. It covers areas such as agriculture, commerce, defense, education, energy, environment, homeland security, transportation, and veterans health care. Some changes shift duties, such as moving a health survey duty to the Secretary of Health and Human Services and having an independent accountant audit the Congressional Award Board. The summary does not describe any change to benefits, fees, or rights for the public.",
+ "who_it_affects": [
+  {
+   "group": "Congress",
+   "how": "Lawmakers will no longer receive many of the periodic reports and notices that were previously required from federal agencies."
+  },
+  {
+   "group": "Federal agencies such as the Department of Agriculture, Commerce, Defense, Energy, and Transportation",
+   "how": "These agencies no longer have to prepare the specific reports or notices listed in the law."
+  },
+  {
+   "group": "Government Accountability Office",
+   "how": "The GAO no longer must produce several audits and reports, and it takes on some new review duties, such as reviewing audits of the Congressional Award Board and publishing lists of its reports on its website."
+  },
+  {
+   "group": "Recipients of Small Business Jobs Act and Help America Vote Act funds",
+   "how": "Mandatory audits and reports tied to these programs are eliminated."
+  },
+  {
+   "group": "Medicare beneficiaries",
+   "how": "The Comptroller General's review of the Medicare injury-related liability threshold ends at the end of 2014."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on November 26, 2014. Specific changes may apply on different dates based on the provision.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

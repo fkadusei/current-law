@@ -1,0 +1,32 @@
+{
+ "headline": "This 2020 law requires certain foreign companies that sell securities in the U.S. to certify government ownership status and face trading bans if U.S. auditors cannot inspect their accounting firms.",
+ "what_it_does": "The law applies to issuers of securities whose audit reports are prepared by a foreign accounting firm that the Public Company Accounting Oversight Board cannot inspect. Such issuers must certify that they are not owned or controlled by a foreign government. If the board cannot inspect the firm for three consecutive years, the issuer's securities are banned from trading on a national exchange or through other methods. Affected foreign issuers must also disclose, for each non-inspection year, the share of stock held by government entities, whether those entities have a controlling financial interest, whether any board members are officials of the Chinese Communist Party, and whether the company's articles of incorporation contain any Chinese Communist Party charter.",
+ "who_it_affects": [
+  {
+   "group": "Foreign companies that sell securities in the United States",
+   "how": "They must make government-ownership certifications and make annual disclosures if their audit firm cannot be inspected by the board."
+  },
+  {
+   "group": "Foreign companies whose audit firms cannot be inspected for three years in a row",
+   "how": "Their securities can be banned from trading on U.S. national exchanges or through other methods."
+  },
+  {
+   "group": "Foreign accounting firms that audit U.S.-listed companies",
+   "how": "Their clients may face disclosure and trading consequences if the board cannot inspect the firm."
+  },
+  {
+   "group": "U.S. stock exchanges and brokers",
+   "how": "They would no longer be able to trade the securities of companies covered by a three-year trading ban."
+  },
+  {
+   "group": "Investors who hold shares of affected foreign companies",
+   "how": "They could lose the ability to trade those shares on U.S. exchanges if a trading ban takes effect."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on December 18, 2020, and the official summary does not state a separate effective date for these requirements.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

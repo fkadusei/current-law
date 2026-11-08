@@ -1,0 +1,56 @@
+{
+ "headline": "This law extends dozens of expiring VA health, benefits, and homeless-veteran programs through fiscal year 2017 or December 31, 2017.",
+ "what_it_does": "Many Department of Veterans Affairs programs were set to end soon, so this law keeps them running for about one more year. It covers health care copayments, nursing home care, caregiver support, housing loans, education advisory work, homeless veteran services, and adaptive sports. It also makes a few narrow changes, such as limiting certain housing assistance to 30 applications a year and requiring the VA to notify students in some affected courses.",
+ "who_it_affects": [
+  {
+   "group": "Veterans who receive VA hospital or nursing home care",
+   "how": "The authority to collect copayments for hospital and nursing home care is extended through FY2017."
+  },
+  {
+   "group": "Veterans with service-connected disabilities who need nursing home care",
+   "how": "The requirement that the VA provide this care is extended through December 31, 2017."
+  },
+  {
+   "group": "Family caregivers of veterans",
+   "how": "Caregiver assistance and support services funding is extended through FY2017."
+  },
+  {
+   "group": "Homeless veterans and veterans at risk of homelessness",
+   "how": "Reintegration programs, housing assistance, supportive services, grants, and treatment services for homeless veterans are extended through FY2017."
+  },
+  {
+   "group": "Homeless women veterans and homeless veterans with children",
+   "how": "A dedicated reintegration program for this group is extended through FY2017."
+  },
+  {
+   "group": "Veterans in rural areas",
+   "how": "Grants to veterans service organizations for transporting highly rural veterans are extended through FY2017."
+  },
+  {
+   "group": "Veterans with disabilities who use adaptive housing",
+   "how": "Temporary eligibility expansion for specially adapted housing is extended through FY2017 and capped at 30 approved applications in each year from FY2014 to FY2017."
+  },
+  {
+   "group": "Women veterans newly separated from service",
+   "how": "A pilot program offering counseling in retreat settings is extended through December 31, 2017."
+  },
+  {
+   "group": "Veterans using VA housing loans",
+   "how": "Specified housing loan provisions, including how the net value of property is calculated at foreclosure, are extended through FY2017."
+  },
+  {
+   "group": "Veterans enrolled in education or training programs",
+   "how": "Certain education course rules are extended, and the VA must notify enrolled veterans if a course is affected by an accreditation withdrawal."
+  },
+  {
+   "group": "Disabled veterans and service members in adaptive sports",
+   "how": "Funding authority for adaptive sports programs is extended through FY2017."
+  }
+ ],
+ "when_it_takes_effect": "Each extension takes effect when the law was enacted on September 29, 2016, and runs through either fiscal year 2017 or December 31, 2017, depending on the program.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

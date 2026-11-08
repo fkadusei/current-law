@@ -1,0 +1,24 @@
+{
+ "headline": "A 2021 law requires the VA to set periodic days when anyone can drop off unneeded controlled-substance medications at certain VA facilities.",
+ "what_it_does": "The law requires the Department of Veterans Affairs to designate set periods when any person may dispose of controlled-substance medications. Disposal is limited to VA medical facilities that have an on-site pharmacy or a physical location used for law enforcement purposes. The VA may also run public information campaigns about these disposal periods.",
+ "who_it_affects": [
+  {
+   "group": "Veterans and other people who have controlled-substance medications they no longer need",
+   "how": "They can dispose of those medications at eligible VA facilities during the designated periods."
+  },
+  {
+   "group": "VA medical facilities with an on-site pharmacy or a law enforcement location",
+   "how": "They must take part in the designated disposal periods and may be used as drop-off sites."
+  },
+  {
+   "group": "The general public",
+   "how": "The VA may run public information campaigns that tell people when the disposal periods happen."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted July 29, 2021, but the summary does not give a specific date for the first disposal period.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

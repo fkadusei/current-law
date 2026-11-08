@@ -3515,5 +3515,56 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "This law makes permanent several emergency flexibilities for veterans' education benefits and expands other veterans' and servicemembers' benefits, including vehicles, taxes, and licensing.",
+  "what_it_does": "The law lets the VA keep paying education and housing benefits when schools close, move online, or suspend programs because of an emergency declared by the President and the VA. It extends the time veterans have to use GI Bill benefits in those situations and bars charging the benefit against a veteran's entitlement when a course is cut short by such an emergency. It also adds rules for study-abroad approval, a uniform course application, and shorter notice for some school surveys, and it expands eligibility for certain veterans' self-employment assistance. Other parts cover servicemember contracts, state tax residence choices for military families, professional license portability, adaptive vehicles and trailers, and pension limits for some veterans in VA domiciliary care.",
+  "who_it_affects": [
+   {
+    "group": "Veterans using GI Bill or vocational rehabilitation education benefits",
+    "how": "They can keep receiving payments and extend their time to use benefits when their school closes, moves to distance learning, or suspends a program due to an emergency."
+   },
+   {
+    "group": "Veterans in apprenticeships or on-the-job training",
+    "how": "Their 120-hour monthly training requirement is reduced in proportion to any period of unemployment during an emergency, without cutting their training payments."
+   },
+   {
+    "group": "Veterans with certain service-connected disabilities seeking self-employment help",
+    "how": "Eligibility for self-employment assistance under the Veteran Readiness and Employment Program is expanded to include some veterans beyond those with the most severe disabilities."
+   },
+   {
+    "group": "Veterans with specified service-connected disabilities who need mobility equipment",
+    "how": "The VA may provide non-articulating trailers as adaptive equipment, and certain vehicle modifications such as van lifts count as medical services."
+   },
+   {
+    "group": "Veterans eligible for a VA-provided vehicle",
+    "how": "The VA may provide an additional automobile if more than 30 years have passed since the last one, or, starting 10 years after enactment, if more than 10 years have passed."
+   },
+   {
+    "group": "Servicemembers with permanent change of station orders",
+    "how": "They may end certain commercial mobile or internet contracts if a stop movement order keeps them from using the service."
+   },
+   {
+    "group": "Military spouses and servicemembers facing state taxation",
+    "how": "A spouse may keep their own residence for tax purposes, and servicemembers and spouses may elect to use the member's home state, the spouse's home state, or the duty station as their tax location."
+   },
+   {
+    "group": "Military spouses and servicemembers with professional licenses who relocate",
+    "how": "Their professional licenses can carry over when military orders move them outside the state that issued the license."
+   },
+   {
+    "group": "Schools and training establishments that enroll GI Bill students",
+    "how": "They receive at least one business day of notice before a targeted risk-based VA survey and at least 10 business days before a compliance survey, and they must use a uniform course approval application for new courses after October 1, 2023."
+   },
+   {
+    "group": "Veterans without dependents receiving domiciliary care from the VA",
+    "how": "Certain limits on their pension payments are extended through November 30, 2031."
+   }
+  ],
+  "when_it_takes_effect": "Enacted January 5, 2023, with some provisions having their own dates, such as the uniform application due by October 1, 2023 and the vehicle eligibility change starting 10 years after enactment.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

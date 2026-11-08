@@ -45,5 +45,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law lets federal agencies share lists of qualified job applicants with each other for similar positions.",
+  "what_it_does": "Federal agencies hire from lists called certificates of eligibles, which name applicants who qualified for a job. Under this law, an agency other than the one that requested the list may pick someone from it for a job in the same occupational series at a similar grade level. The selecting agency must choose from the list within 240 days after it was issued. The law also sets rules for sharing these certificates, notifying agency employees about open positions, and using alternative ranking and selection methods.",
+  "who_it_affects": [
+   {
+    "group": "Job applicants on federal hiring certificates of eligibles",
+    "how": "Their names may be considered by more than one federal agency for matching positions, and selections must be made within 240 days."
+   },
+   {
+    "group": "Federal agencies that hire competitive service employees",
+    "how": "They may select candidates from certificates requested by other agencies and must follow new rules for sharing certificates and notifying employees."
+   },
+   {
+    "group": "Current federal employees in the competitive service",
+    "how": "They must be notified of available positions under the law's notice requirements."
+   }
+  ],
+  "when_it_takes_effect": "Enacted March 18, 2016; the summary does not specify a separate effective date for each provision.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

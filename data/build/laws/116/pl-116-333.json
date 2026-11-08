@@ -39,5 +39,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2021 law requires the General Services Administration to post public building project proposals sent to Congress on its website and keep them available for at least 10 years.",
+  "what_it_does": "The General Services Administration (GSA) must make public, on its website, the prospectuses it submits to Congress for certain proposed federal public building projects, along with related information. The information must be easy to find and download, kept current, and updated regularly. It must stay available for at least 10 years.",
+  "who_it_affects": [
+   {
+    "group": "Members of the public",
+    "how": "Anyone can look up and download GSA's proposals for certain federal building projects instead of requesting them separately."
+   },
+   {
+    "group": "General Services Administration staff",
+    "how": "GSA must post these prospectuses and related details online, keep them updated, and maintain them for at least 10 years."
+   },
+   {
+    "group": "Members of Congress and their staff",
+    "how": "The GSA project proposals they receive are also published on a public website, so the public can see the same documents."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on January 13, 2021. The summary does not state a separate start date for the website requirements.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

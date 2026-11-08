@@ -3505,5 +3505,28 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "This law lets the U.S. Fire Administration send investigators to examine major fires and some unusual fires, then publish findings.",
+  "what_it_does": "The U.S. Fire Administration can now conduct on-site fire safety investigations of major fires. Its investigators, such as safety specialists and fire protection engineers, can look at the cause of a fire and also review broader safety problems. The agency must work with federal, state, local, tribal, and territorial officials and must publish a public report, unless doing so would harm a criminal investigation. The agency can also investigate fires with unusual circumstances that cause less damage than a major fire.",
+  "who_it_affects": [
+   {
+    "group": "Fire departments and local fire officials",
+    "how": "They may have federal investigators visit the site of major fires and coordinate with them on the investigation."
+   },
+   {
+    "group": "Residents and property owners in areas affected by major fires",
+    "how": "Federal investigators may examine what went wrong and the findings may be made public in a report."
+   },
+   {
+    "group": "Fire safety researchers, codes and standards experts, and fire training specialists",
+    "how": "They may take part in federal fire investigations and help shape the findings and lessons learned."
+   }
+  ],
+  "when_it_takes_effect": "Enacted December 20, 2022; the summary does not state a separate effective date.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

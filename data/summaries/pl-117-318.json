@@ -1,0 +1,24 @@
+{
+ "headline": "A new federal law directs the U.S. Geological Survey to set up a program that studies, tracks, and protects saline lakes in the Great Basin and the wildlife that depend on them.",
+ "what_it_does": "The law requires the U.S. Geological Survey (USGS) to create the Saline Lake Ecosystems in the Great Basin States Assessment and Monitoring Program. Under the program, the USGS must assess and monitor saline lake ecosystems in the Great Basin region. The USGS must also work to conserve these ecosystems and the wildlife that rely on them. The official summary does not list specific funding amounts, deadlines, or required reports.",
+ "who_it_affects": [
+  {
+   "group": "Wildlife that depends on Great Basin saline lakes",
+   "how": "The program is meant to assess, monitor, and conserve the lake habitats these animals rely on."
+  },
+  {
+   "group": "U.S. Geological Survey",
+   "how": "The agency must establish and run the new assessment and monitoring program."
+  },
+  {
+   "group": "People who live near or use Great Basin saline lakes",
+   "how": "The summary does not describe direct rules or costs for them, so any effect on daily life is not specified."
+  }
+ ],
+ "when_it_takes_effect": "The law took effect when it was signed on December 27, 2022. The official summary does not give a separate start date or deadlines for the program.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

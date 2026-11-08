@@ -1,0 +1,36 @@
+{
+ "headline": "This 2016 law lets U.S. courts hear some lawsuits against foreign governments and people who aid terrorist groups over attacks that hurt Americans.",
+ "what_it_does": "It narrows foreign sovereign immunity, which normally shields a foreign country from U.S. lawsuits, so courts can hear claims for injury, death, or property damage caused inside the United States by international terrorism or by certain wrongful acts of foreign officials. It lets U.S. nationals sue a foreign state over terrorism by a designated terrorist group, but not over acts of war or claims based only on negligence. It also makes people who knowingly and substantially help a designated terrorist group's attack civilly liable, and it sets federal courts as the only place for these claims. The Justice Department may ask a court to pause a case if the State Department certifies that the U.S. is in good-faith talks with the foreign state.",
+ "who_it_affects": [
+  {
+   "group": "U.S. nationals injured or killed in terrorist attacks",
+   "how": "They may file civil lawsuits against a foreign state for injuries, deaths, or property damage caused by international terrorism committed by a designated terrorist organization."
+  },
+  {
+   "group": "Foreign states",
+   "how": "They can no longer rely on full immunity from U.S. courts in certain terrorism-related and tort cases that occur inside the United States."
+  },
+  {
+   "group": "People and entities who knowingly aid designated terrorist organizations",
+   "how": "They can face civil liability if they conspire with, aid, or abet an act of international terrorism by providing knowing, substantial assistance."
+  },
+  {
+   "group": "Federal courts",
+   "how": "They have exclusive jurisdiction over the civil claims covered by this law."
+  },
+  {
+   "group": "U.S. Department of Justice and Department of State",
+   "how": "The Justice Department may step into these cases to seek a stay, and a court may grant it if the State Department certifies that good-faith diplomatic discussions are underway."
+  },
+  {
+   "group": "Pending and future plaintiffs with claims from September 11, 2001 onward",
+   "how": "The law applies to lawsuits already pending or filed after enactment that arise from injuries occurring on or after September 11, 2001."
+  }
+ ],
+ "when_it_takes_effect": "Took effect on enactment, September 28, 2016, and applies to covered claims pending on or filed after that date.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

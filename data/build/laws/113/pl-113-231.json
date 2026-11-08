@@ -36,5 +36,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2014 law renames a Veterans Affairs clinic in Junction City, Kansas, after Lieutenant General Richard J. Seitz.",
+  "what_it_does": "The law gives a new official name to the Junction City Community-Based Outpatient Clinic at 715 Southwind Drive in Junction City, Kansas. The clinic will be called the Lieutenant General Richard J. Seitz Community-Based Outpatient Clinic. The law changes only the name and does not change the clinic's services, staff, or location.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law took effect when it was enacted on December 16, 2014.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

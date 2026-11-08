@@ -3539,5 +3539,32 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "This law lets companies post product warranty terms online instead of only on paper, as long as they meet certain display and access rules.",
+  "what_it_does": "It directs the Federal Trade Commission to change its rules so manufacturers can meet warranty availability requirements by putting full warranty terms on their websites in digital form. The product, its packaging, or its manual must show where the warranty is posted online and give a phone number, mailing address, or other non-internet way to contact the manufacturer for the terms. Online-only warranties cannot be used to satisfy the rule that warranties be available before a sale at a store, by catalog, or door to door, unless the seller makes the warranty available at the point of sale before the purchase.",
+  "who_it_affects": [
+   {
+    "group": "Consumers who buy products with written warranties",
+    "how": "They can find warranty terms on a manufacturer's website, and the product, packaging, or manual must tell them where to look and how to contact the manufacturer by phone, mail, or other non-internet means."
+   },
+   {
+    "group": "Manufacturers of consumer products that carry written warranties",
+    "how": "They may post warranty terms online instead of only in print, but must show the website and a non-internet contact method on the product, packaging, or manual."
+   },
+   {
+    "group": "Retailers, catalog sellers, and door-to-door sellers",
+    "how": "They must make warranty terms available at the point of sale before a purchase, either electronically or by other means, if they rely on a warranty posted online."
+   },
+   {
+    "group": "Federal Trade Commission",
+    "how": "It must revise its rules to reflect the option of providing warranties through manufacturer websites."
+   }
+  ],
+  "when_it_takes_effect": "The law took effect when it was signed on September 24, 2015, but it requires the FTC to revise its rules, so the practical timing depends on when those rule changes are finalized.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

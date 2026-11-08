@@ -1,0 +1,24 @@
+{
+ "headline": "A 2014 federal law directs HHS to keep working on data about stillbirths and sudden unexpected deaths of infants and children.",
+ "what_it_does": "The law requires the Secretary of Health and Human Services to continue activities related to stillbirth, sudden unexpected infant death, and sudden unexplained death in childhood. It asks HHS to work with states and experts to make the information collected after these deaths more consistent and of better quality. HHS must also report on these activities.",
+ "who_it_affects": [
+  {
+   "group": "Families who experience a stillbirth or sudden unexpected death of a child",
+   "how": "The law aims to improve how information is gathered after these deaths, though the summary does not say how individual families would be directly affected."
+  },
+  {
+   "group": "State health and vital records agencies",
+   "how": "They are expected to collaborate with HHS on improving the quality and consistency of data collected after these deaths."
+  },
+  {
+   "group": "Medical examiners, coroners, and public health researchers",
+   "how": "The data work described in the law may shape how death information is collected and standardized in their work."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on December 18, 2014. The summary does not list a specific later effective date or deadline.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

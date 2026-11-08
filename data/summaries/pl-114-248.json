@@ -1,0 +1,20 @@
+{
+ "headline": "This law requires the Department of Transportation to consider effects on commercial space launches and reentries when studying whether a structure could harm airspace safety.",
+ "what_it_does": "When DOT decides a new or altered structure may interfere with space navigation facilities, it must study how much that could hurt the safe and efficient use of airspace, facilities, or equipment. In that study, DOT must also consider the effect on rockets and reentry vehicles arriving at or leaving a launch or reentry site. The summary describes this as a change to the navigable airspace analysis process.",
+ "who_it_affects": [
+  {
+   "group": "Companies proposing tall structures or construction that DOT reviews for airspace effects",
+   "how": "Their projects may receive a study that also looks at possible effects on nearby commercial rocket launches and reentries."
+  },
+  {
+   "group": "Commercial space launch and reentry companies",
+   "how": "Their vehicles' arrival and departure paths near launch and reentry sites must now be considered in DOT's airspace studies."
+  }
+ ],
+ "when_it_takes_effect": "The summary does not give a separate start date, so it appears to have taken effect when the law was enacted on November 28, 2016.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

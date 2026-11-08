@@ -39,5 +39,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law lets manufacturers make certain replacement power adapters for older electronics under older efficiency rules for a limited window, from 2016 to 2020.",
+  "what_it_does": "It changes the Energy Policy and Conservation Act so that some external power supplies, the small adapters that convert wall power for devices like laptops and phones, are exempt from new 2014 efficiency standards for four years. The exemption covers service or spare parts made from February 10, 2016 through February 10, 2020, for products that were made before February 10, 2016. Those replacement adapters must still meet earlier efficiency standards and labeling and certification rules. The law also requires reporting for the exempted products.",
+  "who_it_affects": [
+   {
+    "group": "Manufacturers of external power supplies",
+    "how": "They can make exempt replacement or spare adapters under the older efficiency rules during the set window, but must meet earlier standards, labeling, and reporting requirements."
+   },
+   {
+    "group": "Owners of older consumer electronics",
+    "how": "Replacement power adapters for devices made before February 2016 may be available under the older rules during the window."
+   },
+   {
+    "group": "Consumers who buy replacement adapters",
+    "how": "Spare adapters sold during the window may follow older efficiency rules rather than the newer 2014 standards."
+   }
+  ],
+  "when_it_takes_effect": "The exemption applies to parts manufactured from February 10, 2016 through February 10, 2020.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

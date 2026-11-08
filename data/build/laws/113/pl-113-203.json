@@ -33,5 +33,24 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A short-term spending extension that keeps federal agencies funded at their current rate through December 17, 2014, until full-year spending bills are passed.",
+  "what_it_does": "Congress passed this joint resolution to amend the earlier continuing resolution for fiscal year 2015. It lets federal agencies keep spending money at the same annual rate they were already using. The extension runs until December 17, 2014, or until specific full-year appropriations bills are enacted, whichever comes first. It is a stopgap that keeps government operations going without a full budget in place.",
+  "who_it_affects": [
+   {
+    "group": "Federal agencies and their employees",
+    "how": "Agencies can keep operating and paying staff at the current funding rate through the extension period instead of shutting down."
+   },
+   {
+    "group": "People who use federal services",
+    "how": "Services funded by these agencies can continue without interruption while the longer-term spending bills are still being worked out."
+   }
+  ],
+  "when_it_takes_effect": "Enacted December 13, 2014, and the extension lasts until December 17, 2014, or until full-year appropriations legislation is enacted.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

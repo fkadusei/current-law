@@ -4360,5 +4360,80 @@
   "House": "D",
   "Senate": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "The American Rescue Plan Act of 2021 provides about $1.9 trillion in COVID-19 relief across many federal programs, including direct payments, unemployment aid, health funding, and aid to states and businesses.",
+  "what_it_does": "The law adds federal money to many programs to respond to the COVID-19 pandemic. It sends one-time payments to many taxpayers, expands the child tax credit and earned income tax credit for 2021, and extends unemployment benefits into September 2021. It also funds vaccines and testing, schools, rental and housing aid, small business loans and grants, transit, airports, and aid to state and local governments.",
+  "who_it_affects": [
+   {
+    "group": "Individual taxpayers with lower and middle incomes",
+    "how": "They could receive 2021 recovery rebates of $1,400 per person, with amounts limited by adjusted gross income."
+   },
+   {
+    "group": "Families with children",
+    "how": "The child tax credit increased to $3,000 per child under 17 and $3,600 for children under 6 for 2021, with advance payments available."
+   },
+   {
+    "group": "Unemployed workers",
+    "how": "Federal weekly supplements and extended benefit periods were extended through September 6, 2021, and some benefits were expanded."
+   },
+   {
+    "group": "Renters and homeowners facing financial hardship",
+    "how": "Emergency rental assistance, housing vouchers, and Homeowner Assistance Fund grants became available through states and federal agencies."
+   },
+   {
+    "group": "Small businesses and restaurants",
+    "how": "Funding was added to the Paycheck Protection Program, Economic Injury Disaster Loan grants, the Restaurant Revitalization Fund, and shuttered venue grants."
+   },
+   {
+    "group": "Employers with COVID-19-affected businesses",
+    "how": "They could claim payroll tax credits for paid sick leave and the Employee Retention Credit for qualifying wages in certain 2021 quarters."
+   },
+   {
+    "group": "Students and schools",
+    "how": "Schools received funds for reopening, learning loss, and technology, and colleges were required to give at least half of their funds to student emergency aid."
+   },
+   {
+    "group": "Veterans",
+    "how": "Veterans received retraining assistance for certain unemployed workers, reimbursement of VA copayments from April 2020 to September 2021, and funding for VA health care and benefits processing."
+   },
+   {
+    "group": "People with COBRA health coverage and people who receive unemployment compensation",
+    "how": "Eligible individuals could receive premium assistance for COBRA coverage through September 30, 2021, and unemployment recipients became eligible for marketplace premium tax credits in 2021."
+   },
+   {
+    "group": "State and local governments and tribal governments",
+    "how": "They received Coronavirus State and Local Fiscal Recovery Funds that must be spent on COVID-19 response and related costs by December 31, 2024, with some restrictions on tax cuts and pension deposits."
+   },
+   {
+    "group": "Medicaid and CHIP enrollees",
+    "how": "COVID-19 vaccines, testing, and treatment must be covered without cost-sharing, and states could extend postpartum coverage to one year."
+   },
+   {
+    "group": "Households with children receiving school meals or nutrition aid",
+    "how": "Pandemic EBT benefits and nutrition program changes, including WIC voucher increases, were authorized for eligible households."
+   },
+   {
+    "group": "Airline, transit, and rail workers and riders",
+    "how": "Payroll support, operating aid, and funds for transit agencies, airports, and Amtrak were provided to help keep services and jobs going."
+   },
+   {
+    "group": "Federal employees",
+    "how": "A leave fund lets agencies pay employees who cannot work due to COVID-19 reasons, and certain federal workers may receive workers' compensation for COVID-19 exposure."
+   },
+   {
+    "group": "Multiemployer and single employer pension plan participants and sponsors",
+    "how": "Plans received new funding rules and special financial assistance from the Pension Benefit Guaranty Corporation, and the law changed amortization and funding requirements."
+   },
+   {
+    "group": "Student loan borrowers",
+    "how": "Income from discharged student loans for certain 2021 through 2026 loans was excluded from federal income tax."
+   }
+  ],
+  "when_it_takes_effect": "Most provisions took effect on March 11, 2021, the date the law was enacted. Many funding and program deadlines run through 2021, 2022, or later, and some provisions end on dates such as September 6, 2021, September 30, 2021, or December 31, 2024.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -33,5 +33,24 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law applies federal civil service leave rules to disabled veterans who work at the Federal Aviation Administration and use leave for treatment of a service-connected disability.",
+  "what_it_does": "The law applies federal civil service requirements to leave used by disabled armed forces veterans in the FAA's personnel system. To confirm that leave credited to such an employee is used for treating a service-connected disability, the employee must certify to FAA Human Resource Management that the leave was used to receive treatment for that disability from a health care provider. The official summary does not describe further details of the certification process.",
+  "who_it_affects": [
+   {
+    "group": "Disabled armed forces veterans who work for the FAA",
+    "how": "They must certify to FAA Human Resource Management when they use credited leave for treatment of a service-connected disability, and their leave is handled under federal civil service requirements."
+   },
+   {
+    "group": "FAA Human Resource Management staff",
+    "how": "They receive and process employee certifications showing that leave was used for treatment of a service-connected disability."
+   }
+  ],
+  "when_it_takes_effect": "The official summary does not state a specific effective date. The law was enacted on October 7, 2016.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -3528,5 +3528,20 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2022 law requires the Small Business Administration to report yearly on its cybersecurity, including its IT supply chain risks and recent security incidents.",
+  "what_it_does": "The law requires the Small Business Administration (SBA) to submit a report every year on cybersecurity awareness. Each report must include a plan to strengthen the security of the SBA's IT systems and a supply chain risk strategy covering IT parts from companies based in China. Reports must also list any SBA cybersecurity incidents from the two years before the first report, along with how the agency responded or fixed the problem.",
+  "who_it_affects": [
+   {
+    "group": "The Small Business Administration",
+    "how": "The agency must prepare and submit an annual cybersecurity report covering its IT security plans, supply chain risks, and recent incidents."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on December 21, 2022. The summary does not state a separate effective date or the exact deadline for the first report.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

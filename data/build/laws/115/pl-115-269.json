@@ -39,5 +39,20 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2018 law requires the Surface Transportation Board to create a timeline and plan for fixing information security problems found by the Transportation Department's Inspector General.",
+  "what_it_does": "The law applies to the Surface Transportation Board, the federal agency that oversees certain rail, pipeline, and interstate bus matters. It requires the agency to develop a timeline and plan to carry out the recommendations in Inspector General Report No. FI2018002 on information security. The summary does not describe the specific security changes or set a deadline for the plan.",
+  "who_it_affects": [
+   {
+    "group": "Surface Transportation Board",
+    "how": "The agency must write a timeline and plan for putting the Inspector General's information security recommendations into practice."
+   }
+  ],
+  "when_it_takes_effect": "The law took effect when it was signed on October 16, 2018, but the summary does not give a deadline for the plan.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -1,0 +1,28 @@
+{
+ "headline": "Creates a 10-year pilot letting law students in approved school clinics help low-income clients with patent and trademark matters before the USPTO, free of charge.",
+ "what_it_does": "The law sets up a Law School Clinic Certification Program at the U.S. Patent and Trademark Office. Students enrolled in a participating law school's clinic can practice patent and trademark law before the office on a pro bono basis, meaning without fee, for clients who qualify for the clinic's help. The USPTO Director must write the rules for applying and joining the program, and the program lasts 10 years. Within two years, the Director must report to Congress on the work done and how many schools and students took part.",
+ "who_it_affects": [
+  {
+   "group": "Students enrolled in American Bar Association-accredited law school clinics",
+   "how": "They may practice patent and trademark law before the USPTO on a pro bono basis if their school is certified to participate."
+  },
+  {
+   "group": "ABA-accredited law schools",
+   "how": "They may apply to join the program, and each school is judged against the same acceptance criteria."
+  },
+  {
+   "group": "Low-income inventors and small businesses seeking patents or trademarks",
+   "how": "They may receive free patent and trademark help from participating law school clinics if they qualify for the clinic's assistance."
+  },
+  {
+   "group": "USPTO",
+   "how": "The agency must create the regulations and application procedures and prepare a report to Congress."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on December 16, 2014, and the program runs for 10 years from that date. The USPTO report to Congress is due within two years of enactment.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

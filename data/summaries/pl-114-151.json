@@ -1,0 +1,24 @@
+{
+ "headline": "This law asks the President to set up a coordinating committee for protecting cultural property abroad and requires import limits on Syrian archaeological and ethnological materials.",
+ "what_it_does": "The law states that Congress believes the President should create an interagency committee to coordinate efforts to protect cultural property at risk from conflict, instability, or disasters. It requires the President to apply import restrictions on archaeological and ethnological materials from Syria within 90 days, regardless of whether Syria is a party to the UNESCO cultural property convention or whether an emergency condition exists. The President must also review at least once a year whether Syria can request an import agreement or whether such an agreement would be against the national interest, and may waive the restrictions for certain property temporarily brought into the U.S. for protection. The President must also report to Congress each year on these efforts.",
+ "who_it_affects": [
+  {
+   "group": "Importers and dealers of archaeological or ethnological items from Syria",
+   "how": "They are barred from bringing covered Syrian cultural materials into the United States unless a waiver applies."
+  },
+  {
+   "group": "Museums and owners of foreign cultural property",
+   "how": "Syrian items sent to the U.S. for temporary protection or exhibition may qualify for a waiver and immunity from seizure under existing law if certain conditions are certified to Congress."
+  },
+  {
+   "group": "Executive branch agencies",
+   "how": "They must set up coordination efforts, carry out the Syria import restrictions, and prepare annual reports to Congress."
+  }
+ ],
+ "when_it_takes_effect": "The Syria import restrictions must be applied within 90 days after enactment on May 9, 2016; the annual reporting requirement continues each year after that.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

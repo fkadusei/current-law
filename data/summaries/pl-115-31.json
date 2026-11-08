@@ -1,0 +1,44 @@
+{
+ "headline": "A massive omnibus law that funds most federal agencies for the rest of fiscal year 2017 and adds many policy provisions across government.",
+ "what_it_does": "This law sets spending levels for most federal departments and agencies for the rest of fiscal year 2017, covering eleven of twelve regular appropriations bills. It also extends or changes many programs, including TANF, DC school vouchers, intelligence programs, and retired coal miner health benefits. It creates a HIRE Vets Medallion Program for employers that hire and support veterans, and it exempts its budget effects from certain pay-as-you-go budget rules.",
+ "who_it_affects": [
+  {
+   "group": "Federal employees and agencies funded in the bill",
+   "how": "Their budgets for fiscal year 2017 are set by the appropriations divisions, and many spending limits, reporting duties, and travel or conference restrictions apply to them."
+  },
+  {
+   "group": "Retired coal miners and their families",
+   "how": "The law permanently extends health care benefits for certain retired coal miners and expands the group whose retiree benefits count toward Treasury transfers to a multiemployer health plan."
+  },
+  {
+   "group": "Families receiving Temporary Assistance for Needy Families (TANF) benefits",
+   "how": "The law reauthorizes TANF grants for fiscal years 2017 and 2018 and adds research and evaluation requirements."
+  },
+  {
+   "group": "Students and families in the District of Columbia using school vouchers",
+   "how": "The law reauthorizes the Opportunity Scholarship Program through fiscal year 2019 and changes its eligibility priorities, school requirements, and evaluation process."
+  },
+  {
+   "group": "Employers that hire veterans",
+   "how": "Labor must create a HIRE Vets Medallion Program with awards by employer size, and employers may apply and pay an application fee, with awards given once a year and not repeated the following year."
+  },
+  {
+   "group": "Residents of Puerto Rico receiving Medicaid",
+   "how": "The law provides additional Medicaid payments to Puerto Rico under a separate division."
+  },
+  {
+   "group": "Seafood employers and farms using H-2B temporary foreign workers",
+   "how": "The law gives seafood employers flexibility with H-2B workers and authorizes DHS to raise the H-2B visa cap within limits."
+  },
+  {
+   "group": "Households receiving SNAP food benefits",
+   "how": "A household certified for SNAP must report when it no longer lives in the state where it was certified, and several SNAP and school meal rules were changed or limited."
+  }
+ ],
+ "when_it_takes_effect": "Most provisions took effect on enactment on May 5, 2017, and the appropriations cover fiscal year 2017, which ends September 30, 2017. Some provisions apply later, such as the Opportunity Scholarship changes for the 2018-2019 school year and the HIRE Vets awards, which start two years after funds are first appropriated.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

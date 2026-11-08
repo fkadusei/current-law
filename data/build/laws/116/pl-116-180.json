@@ -42,5 +42,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2020 law that reshapes how federal agencies, mainly the Interior Department, work with tribes that run their own federal programs under self-governance agreements.",
+  "what_it_does": "The law replaces the old Tribal Self-Governance Demonstration Project with a permanent Tribal Self-Governance Program. Tribes can get grants to plan for joining the program and to negotiate its terms. The Interior Department must follow new steps when approving the agreements, called compacts and funding agreements, that tribes use to take over federal programs. The law also sets rules for tribes in the program on conflicts of interest, audits, program changes, returning programs to the government, duplicate funding, and records. Interior keeps a role in monitoring trust functions and can take a program back in certain situations. A tribe cannot be forced to keep running a program if the funding is not enough.",
+  "who_it_affects": [
+   {
+    "group": "Federally recognized American Indian and Alaska Native tribes",
+    "how": "Tribes can apply for planning and negotiation grants and can take on more federal programs under the updated self-governance rules."
+   },
+   {
+    "group": "Tribal organizations",
+    "how": "Tribal organizations can receive the same planning grants and take part in self-governance under the new program."
+   },
+   {
+    "group": "Department of the Interior",
+    "how": "Interior must follow revised steps to approve compacts and funding agreements and must monitor tribal trust functions and certain construction work."
+   },
+   {
+    "group": "Tribal members who receive services from programs run under self-governance",
+    "how": "Services are delivered by tribal governments under agreements that now include new audit, records, and performance rules."
+   }
+  ],
+  "when_it_takes_effect": "The law took effect when it was signed on October 21, 2020, though some specific requirements may phase in over time.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

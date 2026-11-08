@@ -3538,5 +3538,44 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2017 law that expands education benefits for veterans, service members, and their families, and requires the VA to review certain mustard gas and Lewisite disability claims.",
+  "what_it_does": "The law changes the Post-9/11 GI Bill education program by removing some time limits, increasing assistance for reservists, guardsmen, dependents, and surviving spouses, and adding an extra year of benefits for STEM degree candidates. It creates the Edith Nurse Rogers STEM Scholarship, a five-year pilot for high technology courses, and statutory authority for the VetSuccess on Campus counseling program. It also extends the Yellow Ribbon program to certain Fry Scholarship and Purple Heart recipients and requires the VA to re-decide denied disability claims tied to mustard gas or Lewisite exposure during World War II, resolving doubt in the veteran's favor.",
+  "who_it_affects": [
+   {
+    "group": "Veterans who use Post-9/11 education benefits",
+    "how": "They may have fewer time restrictions on using their benefits and may qualify for an extra academic year if they are pursuing a STEM degree."
+   },
+   {
+    "group": "Reservists and National Guard members",
+    "how": "They may receive increased education assistance, and their housing stipend is pro-rated when they are called to active duty."
+   },
+   {
+    "group": "Surviving spouses and dependents of veterans",
+    "how": "They may receive higher educational assistance, and Fry Scholarship recipients become eligible for the Yellow Ribbon program."
+   },
+   {
+    "group": "Purple Heart recipients",
+    "how": "Certain Purple Heart recipients gain full Post-9/11 eligibility and Yellow Ribbon program access."
+   },
+   {
+    "group": "Students whose schools close mid-semester",
+    "how": "Their education benefit eligibility is restored for that term."
+   },
+   {
+    "group": "World War II veterans exposed to mustard gas or Lewisite",
+    "how": "Veterans whose disability claims were denied must have those claims re-decided by the VA, with reasonable doubt resolved in their favor."
+   },
+   {
+    "group": "Colleges and training institutions",
+    "how": "Some institutions that are not colleges may be able to accept veterans' education assistance, and schools that take part in the Yellow Ribbon program may be affected by the expanded eligibility."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on August 16, 2017, but this summary does not list the effective dates for each provision, so individual provisions may start on different dates set in the law's text.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -1,0 +1,28 @@
+{
+ "headline": "This 2020 law expands who can get counseling and mental health services at Vet Centers to some Coast Guard, National Guard, and Reserve members, and asks VA for a plan to reach veterans far from a Vet Center.",
+ "what_it_does": "Vet Centers are community counseling centers that offer social and psychological services. The law makes certain Coast Guard members eligible if they took part in a drug interdiction operation. It also makes certain National Guard and Reserve members eligible if they were activated for a national emergency or major disaster declared by the President, or if they responded to a disaster or civil disorder in a state. The law also requires the Department of Veterans Affairs to submit a plan for serving veterans who live in areas with no Vet Center.",
+ "who_it_affects": [
+  {
+   "group": "Coast Guard members who took part in drug interdiction operations",
+   "how": "They become eligible for readjustment counseling and related mental health services at Vet Centers."
+  },
+  {
+   "group": "National Guard and Reserve members activated for a presidentially declared national emergency or major disaster",
+   "how": "They become eligible for Vet Center counseling and related mental health services."
+  },
+  {
+   "group": "National Guard and Reserve members who responded to a disaster or civil disorder in a state",
+   "how": "They become eligible for Vet Center counseling and related mental health services."
+  },
+  {
+   "group": "Veterans living in areas with no Vet Center",
+   "how": "VA must submit a plan describing how it could provide Vet Center services to them."
+  }
+ ],
+ "when_it_takes_effect": "The summary does not give a separate start date. The law was enacted on October 20, 2020.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

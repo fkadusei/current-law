@@ -36,5 +36,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2016 law requires liquid nicotine containers sold or imported into the United States to use child-resistant packaging that meets federal safety standards.",
+  "what_it_does": "The law says any liquid nicotine container sold, offered for sale, made for sale, shipped in commerce, or imported must use special packaging that is hard for children under five to open or get harmful contents from. That packaging must meet Consumer Product Safety Commission standards and testing procedures, and the requirement is treated as a standard under the Poison Prevention Packaging Act of 1970. The law excludes sealed, disposable nicotine cartridges that fit directly into electronic cigarettes if the nicotine cannot be reached through normal or foreseeable handling. It also requires the Department of Health and Human Services to consult with the Consumer Product Safety Commission on any packaging rules it sets for liquid nicotine.",
+  "who_it_affects": [
+   {
+    "group": "Manufacturers and importers of liquid nicotine products",
+    "how": "They must package liquid nicotine containers to meet the Consumer Product Safety Commission's child-resistant packaging standards before selling or importing them."
+   },
+   {
+    "group": "Retailers and sellers of liquid nicotine",
+    "how": "They may only sell or offer for sale liquid nicotine containers that meet the required child-resistant packaging standards."
+   },
+   {
+    "group": "Families with young children",
+    "how": "Liquid nicotine sold in the United States is required to be harder for children under five to open or access."
+   },
+   {
+    "group": "Consumers who buy e-liquid or other liquid nicotine",
+    "how": "Containers they buy must use child-resistant packaging, while sealed disposable cartridges that fit directly into devices are excluded if their nicotine is not reachable through normal use."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

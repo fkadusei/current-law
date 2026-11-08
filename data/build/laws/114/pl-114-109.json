@@ -36,5 +36,36 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law expands a federal payment-checking system to states and some other government groups and requires agencies to check Social Security death records.",
+  "what_it_does": "It amends a 2012 law to let states, their contractors, and the federal judicial and legislative branches use the Do Not Pay Initiative, a system for checking payments against federal databases. The Office of Management and Budget can set privacy and other rules for those users. Each federal agency must also review Social Security Administration death records, and the Defense and State Departments must set up a way to share death information with other agencies regularly. Treasury must report to Congress on its data analysis work and the targets it uses to measure results.",
+  "who_it_affects": [
+   {
+    "group": "State governments",
+    "how": "States can now get access to the Do Not Pay Initiative's payment-checking tools, subject to agreements and privacy rules set by the Office of Management and Budget."
+   },
+   {
+    "group": "Contractors, subcontractors, and agents working for states",
+    "how": "People and companies doing work for state governments can also be covered by the expanded access to Do Not Pay."
+   },
+   {
+    "group": "Federal judicial and legislative branches",
+    "how": "The federal courts and Congress's own offices can use the Do Not Pay Initiative under agreements with the Treasury Department."
+   },
+   {
+    "group": "Federal agencies",
+    "how": "Agencies that run databases or that the Office of Management and Budget identifies must review Social Security death records and follow new implementation guidance."
+   },
+   {
+    "group": "Families and estates of deceased people",
+    "how": "Death information is to be shared more promptly among federal agencies, which can affect how payments to people who have died are stopped."
+   }
+  ],
+  "when_it_takes_effect": "Enacted December 18, 2015; the summary does not list separate effective dates for each provision.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -39,5 +39,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2020 law exempts certain VA medical center, regional network, and health office appointees from executive pay caps and lets the VA waive those caps for past appointees.",
+  "what_it_does": "The law removes certain appointed Department of Veterans Affairs positions from the executive pay caps that normally apply. The positions covered are directors of VA medical centers, directors of Veterans Integrated Service Networks, and appointees of the Office of the Under Secretary for Health. The VA may also waive the pay limits for people appointed to these roles from November 1, 2010, until the day before the law was enacted.",
+  "who_it_affects": [
+   {
+    "group": "Directors of VA medical centers",
+    "how": "Their pay is no longer subject to the executive schedule salary caps that would otherwise apply to their positions."
+   },
+   {
+    "group": "Directors of Veterans Integrated Service Networks",
+    "how": "Their pay is no longer subject to the executive schedule salary caps that would otherwise apply to their positions."
+   },
+   {
+    "group": "Appointees of the VA Office of the Under Secretary for Health",
+    "how": "Their pay is no longer subject to the executive schedule salary caps that would otherwise apply to their positions."
+   },
+   {
+    "group": "People appointed to these VA roles between November 1, 2010 and July 1, 2020",
+    "how": "The VA has authority to waive the pay limits that applied to them during that period."
+   }
+  ],
+  "when_it_takes_effect": "The summary does not state a separate effective date. The law was enacted on July 2, 2020.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

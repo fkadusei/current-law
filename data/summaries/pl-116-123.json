@@ -1,0 +1,36 @@
+{
+ "headline": "Congress provided about $8.3 billion in emergency 2020 funding for coronavirus response, plus a temporary change to Medicare telehealth rules.",
+ "what_it_does": "The law sends emergency money to federal health agencies for vaccines, medical supplies, and grants to state, local, and tribal public health groups. It also funds small business disaster loans, State Department evacuations, and global health aid. Division B lets HHS temporarily waive some Medicare rules for telehealth services during the coronavirus public health emergency.",
+ "who_it_affects": [
+  {
+   "group": "Medicare patients who use telehealth",
+   "how": "HHS may temporarily relax certain Medicare rules that limit how telehealth visits are covered during the emergency period."
+  },
+  {
+   "group": "Small businesses affected by the outbreak",
+   "how": "They can apply for Small Business Administration disaster loans funded by this law."
+  },
+  {
+   "group": "State, local, and tribal public health agencies",
+   "how": "They may receive federal grants to respond to the coronavirus."
+  },
+  {
+   "group": "Health care providers serving tribes",
+   "how": "They may be reimbursed for certain coronavirus costs incurred before the law was enacted."
+  },
+  {
+   "group": "State Department and USAID staff and U.S. embassies",
+   "how": "Funds are provided for emergency preparedness, evacuations, and facility safety related to the coronavirus."
+  },
+  {
+   "group": "Vaccine and medical supply manufacturers and federal contractors",
+   "how": "Federal funds are available to develop, make, and buy vaccines and other medical supplies."
+  }
+ ],
+ "when_it_takes_effect": "Enacted March 6, 2020; most funds are available only for the current fiscal year (through September 30, 2020) unless the law says otherwise, and some amounts take effect only after the President designates them as emergency spending.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

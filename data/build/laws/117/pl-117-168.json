@@ -4347,5 +4347,44 @@
   "House": "D",
   "Senate": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "The PACT Act of 2022 expands VA health care and disability benefits for veterans exposed to toxic substances such as burn pit smoke during military service.",
+  "what_it_does": "The law makes veterans who took part in certain toxic exposure activities, or who served in specified places and dates, eligible for VA medical care, including mental health care. It sets up a process for adding or removing presumptions that certain illnesses are connected to military service, and it creates presumptions for specific cancers and other diseases tied to particular locations. It also requires VA outreach to veterans whose earlier claims may have been decided differently under the new rules, and it funds research, training, facility leases, and hiring changes at the VA.",
+  "who_it_affects": [
+   {
+    "group": "Veterans who were exposed to burn pits or other toxic substances during military service",
+    "how": "They may qualify for VA health care and, for certain listed illnesses, a presumption that the illness is service-connected for disability compensation."
+   },
+   {
+    "group": "Vietnam veterans and others who served in Thailand, Laos, Cambodia, Guam, American Samoa, or Johnson Atoll",
+    "how": "The law expands the Agent Orange presumption to cover service at specified bases and locations during set time periods."
+   },
+   {
+    "group": "Veterans who previously filed claims that were denied",
+    "how": "The VA must identify certain denied claims that might be decided differently under the new presumptions and contact those claimants."
+   },
+   {
+    "group": "Survivors who receive dependency and indemnity compensation",
+    "how": "The VA must review and contact survivors whose earlier claims might be decided differently under the new presumptions."
+   },
+   {
+    "group": "People who lived or worked at Camp Lejeune, North Carolina",
+    "how": "The law gives them a federal legal right to sue over exposure to water there between 1953 and 1987 for at least 30 days."
+   },
+   {
+    "group": "Veterans in rural areas who use VA clinics and hospitals",
+    "how": "The VA must create a rural recruitment plan and may offer hiring incentives to health care workers who take rural VA jobs."
+   },
+   {
+    "group": "VA employees and job applicants",
+    "how": "The law changes pay caps, bonuses, hiring rules, and awards for certain VA staff."
+   }
+  ],
+  "when_it_takes_effect": "Enacted August 10, 2022; individual provisions take effect on different dates set in the bill, and some require VA reports or plans first.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

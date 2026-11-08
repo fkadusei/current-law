@@ -3539,5 +3539,20 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2023 law places about 2,560 acres of California land into trust for the Agua Caliente Band of Cahuilla Indians and bars gaming on that land.",
+  "what_it_does": "The law takes roughly 2,560 acres of specified California lands into federal trust for the Agua Caliente Band of Cahuilla Indians. Land taken into trust becomes part of the tribe's reservation. The law also prohibits gaming on the land taken into trust.",
+  "who_it_affects": [
+   {
+    "group": "Agua Caliente Band of Cahuilla Indians",
+    "how": "The tribe gains about 2,560 acres of land held in trust as part of its reservation, but cannot operate gaming on that land."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

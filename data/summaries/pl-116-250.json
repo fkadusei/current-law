@@ -1,0 +1,24 @@
+{
+ "headline": "This law removes the five-month waiting period before Social Security disability payments begin for people with ALS.",
+ "what_it_does": "Normally, a person who becomes disabled must wait five months before Social Security Disability Insurance (SSDI) payments can start. This law removes that waiting period for people diagnosed with amyotrophic lateral sclerosis, also called Lou Gehrig's disease. The change means eligible people with ALS can start receiving benefits without the five-month delay.",
+ "who_it_affects": [
+  {
+   "group": "People diagnosed with amyotrophic lateral sclerosis (ALS) who qualify for Social Security disability insurance",
+   "how": "They can begin receiving disability benefit payments without waiting five months after becoming disabled."
+  },
+  {
+   "group": "Family members who depend on the income of a person with ALS",
+   "how": "Disability payments may start sooner, which can ease the household income gap during the waiting period."
+  },
+  {
+   "group": "Social Security Administration",
+   "how": "It must process and pay benefits for eligible ALS cases without applying the five-month waiting period."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on December 22, 2020. The summary does not give a separate effective date, so it is not stated here.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

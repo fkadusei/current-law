@@ -4357,5 +4357,24 @@
   "House": "R",
   "Senate": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "Congress used a special review process to cancel a 2016 Interior Department rule that changed how the Bureau of Land Management writes its land use plans.",
+  "what_it_does": "This joint resolution cancels a rule the Department of the Interior finalized on December 12, 2016. That rule updated the regulations for how the Bureau of Land Management prepares, revises, or amends land use plans under the Federal Land Policy and Management Act of 1976. Under the Congressional Review Act, once the resolution was signed, the rule was treated as if it never took effect, so the earlier procedures remained in place. The official summary does not describe the specific changes the 2016 rule would have made.",
+  "who_it_affects": [
+   {
+    "group": "Bureau of Land Management staff",
+    "how": "The agency follows the earlier planning procedures instead of the 2016 rule when it prepares or changes land use plans."
+   },
+   {
+    "group": "People who comment on or are affected by BLM land use plans",
+    "how": "The public participation and planning steps in effect before the 2016 rule continue to apply to future plan changes."
+   }
+  ],
+  "when_it_takes_effect": "The resolution took effect when it was enacted on March 27, 2017.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

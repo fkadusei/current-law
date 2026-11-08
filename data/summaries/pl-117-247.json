@@ -1,0 +1,24 @@
+{
+ "headline": "This law requires the FCC to add maternal health death and serious complication data to its online broadband health mapping tool.",
+ "what_it_does": "The law directs the Federal Communications Commission to include data on maternal mortality and severe maternal morbidity in its broadband health mapping tool. That tool is an online platform where users can view and compare broadband and health information at the national, state, and county levels. The FCC must consult with the Centers for Disease Control and Prevention about which data to add.",
+ "who_it_affects": [
+  {
+   "group": "Researchers and public health officials",
+   "how": "They gain access to maternal health data alongside broadband information in one mapping tool."
+  },
+  {
+   "group": "Members of the public who use the FCC's broadband health mapping tool",
+   "how": "The tool will show maternal mortality and severe maternal morbidity data for their area."
+  },
+  {
+   "group": "The FCC and the CDC",
+   "how": "The FCC must consult with the CDC to decide what maternal health data to include in the tool."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

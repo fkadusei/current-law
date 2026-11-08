@@ -39,5 +39,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law lets the U.S. sanction foreign people, companies, and banks that help China weaken Hong Kong's promised autonomy.",
+  "what_it_does": "The law says Hong Kong has a largely separate legal and economic system, based on the 1984 Joint Declaration and Hong Kong's Basic Law. It requires the State Department to report each year on foreign individuals and entities that materially contributed to China not following those protections, and on foreign financial institutions that knowingly made significant transactions with them. Once someone is named in a report, the President must impose sanctions, such as blocking property in the U.S. and denying visas, and must impose certain sanctions on named banks. The President can waive or end these sanctions, but Congress can override that by passing a joint resolution of disapproval.",
+  "who_it_affects": [
+   {
+    "group": "Foreign individuals and entities named in State Department reports",
+    "how": "They face blocked property in the United States and, for individuals, denial of U.S. visas."
+   },
+   {
+    "group": "Foreign financial institutions named in State Department reports",
+    "how": "They may be barred from receiving loans from U.S. financial institutions and face other listed sanctions."
+   },
+   {
+    "group": "U.S. banks and businesses that deal with sanctioned foreign parties",
+    "how": "They must avoid transactions with blocked persons and institutions named under the law."
+   },
+   {
+    "group": "Residents of Hong Kong",
+    "how": "The law states that Hong Kong's protections, such as freedom of speech, are part of the framework it is meant to support."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on July 14, 2020, and the annual reporting and sanctions requirements apply after that date.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -1,0 +1,24 @@
+{
+ "headline": "This law updates the official federal definition of \"minority\" in two older statutes about energy and public works contracts.",
+ "what_it_does": "The law changes how two older federal laws define \"minority.\" Under the Department of Energy Organization Act, a minority is now any U.S. citizen who is Asian American, Native Hawaiian, Pacific Islander, African American, Hispanic, Puerto Rican, Native American, or Alaska Native. Under the Local Public Works Capital Development and Investment Act of 1976, the term \"minority group members\" who own minority group enterprises is revised to use a similar list of groups, without Puerto Rican listed separately.",
+ "who_it_affects": [
+  {
+   "group": "Puerto Rican Americans",
+   "how": "They are named as a separate group in the Department of Energy definition, which the summary says is a wording update rather than a new benefit or requirement."
+  },
+  {
+   "group": "Minority-owned businesses seeking Department of Energy or local public works funding",
+   "how": "The wording used to decide which owners count as minority group members is updated, but the summary does not describe any change to eligibility, funding amounts, or program rules."
+  },
+  {
+   "group": "Local governments receiving public works grants",
+   "how": "They may need to use the updated definitions when reviewing minority-owned enterprise participation, but the summary does not describe new steps."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

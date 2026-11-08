@@ -36,5 +36,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law lets the United States prosecute certain attacks, threats, and killings of federal officers and employees even when the conduct happens outside the country.",
+  "what_it_does": "The law adds extraterritorial jurisdiction to several federal crimes against federal officers and employees. It covers killing or attempting to kill such a person, and assaulting, kidnapping, or murdering a family member of certain federal officials to retaliate against or interfere with the official. It also covers threatening to assault, kidnap, or murder certain federal officials for similar reasons, and assaulting, resisting, or impeding certain officers or employees. Under the law, the United States may prosecute this conduct even when it occurs outside the United States.",
+  "who_it_affects": [
+   {
+    "group": "Federal officers and employees",
+    "how": "They are covered by federal protections that allow prosecution of attacks or threats against them even when those acts happen abroad."
+   },
+   {
+    "group": "Family members of certain federal officials",
+    "how": "They are covered if they are targeted to retaliate against or interfere with a federal official, and that conduct can be prosecuted even when it occurs abroad."
+   },
+   {
+    "group": "People who commit these offenses outside the United States",
+    "how": "They may be prosecuted in U.S. federal courts for covered killings, attacks, kidnappings, or threats, even though the conduct took place overseas."
+   }
+  ],
+  "when_it_takes_effect": "The law took effect when it was enacted on November 18, 2021.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

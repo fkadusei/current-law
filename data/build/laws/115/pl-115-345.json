@@ -39,5 +39,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2018 law directs the Energy Department to update a report on recycling used lubricating oil and to send Congress a plan to increase its reuse.",
+  "what_it_does": "The law requires the Department of Energy to update its report on the energy and environmental benefits of re-refining used lubricating oil. It also requires the department to send Congress a strategic plan for increasing the beneficial reuse of used oil. The plan must cover ways to collect used oil responsibly, share public information about reuse options, and promote reuse by federal agencies, federal grant recipients, federal contractors, and the general public.",
+  "who_it_affects": [
+   {
+    "group": "Federal agencies",
+    "how": "The strategic plan must address ways to promote sustainable reuse of used oil within federal agencies."
+   },
+   {
+    "group": "Recipients of federal grant funds",
+    "how": "The strategic plan must address ways to promote sustainable used-oil reuse among organizations that receive federal grants."
+   },
+   {
+    "group": "Businesses that contract with the federal government",
+    "how": "The strategic plan must address ways to promote sustainable used-oil reuse among federal contractors."
+   },
+   {
+    "group": "General public",
+    "how": "The strategic plan must address ways to share information about reuse options and encourage sustainable reuse of used oil by the public."
+   }
+  ],
+  "when_it_takes_effect": "The law took effect on enactment, December 21, 2018, but the official summary does not list specific deadlines for the updated report or the plan.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

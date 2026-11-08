@@ -1,0 +1,24 @@
+{
+ "headline": "A 2021 law that lets the Department of Veterans Affairs carry out specified major medical facility construction projects in fiscal year 2021, with a spending cap for each project.",
+ "what_it_does": "The law gives the Department of Veterans Affairs permission to carry out certain large medical facility projects during fiscal year 2021. It also sets the maximum amount that can be spent on each listed project. The summary does not name the specific projects or amounts, so this explanation stays general.",
+ "who_it_affects": [
+  {
+   "group": "Veterans who receive care at VA medical facilities",
+   "how": "Approved projects may expand, repair, or build VA medical facilities that these veterans use for care."
+  },
+  {
+   "group": "VA employees and medical staff",
+   "how": "The projects may change the buildings and spaces where they work, depending on which facilities are included."
+  },
+  {
+   "group": "Construction contractors and suppliers that bid on federal projects",
+   "how": "Approved projects create possible federal construction work, subject to the spending limits in the law."
+  }
+ ],
+ "when_it_takes_effect": "The authorization took effect when the law was enacted on July 29, 2021, and applies to projects during fiscal year 2021.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

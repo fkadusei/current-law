@@ -36,5 +36,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law renames three Montana VA clinics in honor of named individuals and requires a bilingual name display for one of them.",
+  "what_it_does": "The law changes the official names of three Department of Veterans Affairs clinics in Montana, two in Billings and one in Missoula. For the Billings clinic named after Dr. Joseph Medicine Crow, any public sign paid for by the federal government must show both the English name and the Crow name, Dakaak Baako. The law does not change clinic services, staffing, or hours.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law took effect when it was enacted on June 5, 2018.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

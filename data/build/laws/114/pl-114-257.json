@@ -3522,5 +3522,36 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2016 law updates financial disclosure rules for DC judges, lets DC courts take card and electronic payments, raises the small claims limit to $10,000, and changes some court procedures.",
+  "what_it_does": "The law changes the financial reports that DC judges and certain family members must file with the DC Commission on Judicial Disabilities and Tenure, and sets new dollar thresholds for those reports. Reports must be public unless sharing sensitive personal information could endanger the judge or family member, and any redaction must last only as long as the danger does. It also lets DC courts accept fines, fees, restitution, bonds, and similar payments by credit card or electronic transfer, and raises the Small Claims Branch limit from $5,000 to $10,000. Finally, it lets Superior Court chief judges delegate approval of pay above the usual maximum for court-appointed criminal defense and child abuse and neglect attorneys, and allows magistrate judges in the Probate Divisions.",
+  "who_it_affects": [
+   {
+    "group": "District of Columbia judges and their listed family members",
+    "how": "They must file financial disclosure reports under new dollar thresholds and categories, and those reports are generally available to the public."
+   },
+   {
+    "group": "Members of the public who request judges' financial disclosure reports",
+    "how": "They can inspect and copy the reports, except for any portions redacted to protect a judge or family member from danger."
+   },
+   {
+    "group": "People who pay fines, fees, restitution, or bonds in DC courts",
+    "how": "They may be able to pay by credit card or electronic funds transfer through a bank or payment vendor chosen by the courts."
+   },
+   {
+    "group": "Parties to small claims cases in DC Superior Court",
+    "how": "Cases with up to $10,000 in dispute now fall under the Small Claims and Conciliation Branch, up from $5,000."
+   },
+   {
+    "group": "Court-appointed criminal defense and child abuse and neglect attorneys in DC",
+    "how": "Pay above the usual maximum can be approved by a judge to whom the chief judge has delegated that authority."
+   }
+  ],
+  "when_it_takes_effect": "Enacted December 14, 2016; the summary does not state a separate effective date for each provision.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

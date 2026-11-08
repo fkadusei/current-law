@@ -3512,5 +3512,28 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "This 2017 law cancels a 2016 federal transportation rule that changed how metropolitan planning areas and planning organizations were set up.",
+  "what_it_does": "The Federal Highway Administration and Federal Transit Administration issued a rule on December 20, 2016, that revised transportation planning regulations to better match statute on metropolitan planning area boundaries and the designation of metropolitan planning organizations. This bill nullifies that rule, so it no longer has legal effect. The official summary does not describe any replacement rule.",
+  "who_it_affects": [
+   {
+    "group": "Metropolitan planning organizations",
+    "how": "The regional bodies that plan transportation in metropolitan areas no longer have to follow the 2016 rule's changes to planning area boundaries and designations."
+   },
+   {
+    "group": "State departments of transportation",
+    "how": "States that work with metropolitan planning organizations on regional transportation planning are no longer subject to the 2016 rule's requirements."
+   },
+   {
+    "group": "Public transit agencies",
+    "how": "Transit agencies that take part in metropolitan transportation planning are no longer subject to the 2016 rule's requirements."
+   }
+  ],
+  "when_it_takes_effect": "The repeal took effect when the law was enacted on May 12, 2017.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

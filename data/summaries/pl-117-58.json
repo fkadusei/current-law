@@ -1,0 +1,56 @@
+{
+ "headline": "A 2021 federal law that sends billions to roads, bridges, rail, transit, broadband, water, power grids, and many other infrastructure areas over several years.",
+ "what_it_does": "The law provides new and renewed federal funding for many kinds of infrastructure, including highways, bridges, passenger and freight rail, public transit, airports, ports, drinking and wastewater systems, electric grids, broadband internet, and electric vehicle charging. It also reauthorizes many transportation safety and research programs, sets rules for commercial truck safety and vehicle safety features, and creates programs to clean up old pollution sites. Several parts add buy-American requirements for materials used in federally funded projects and require prevailing wages on certain projects. Most authorizations run through fiscal year 2026, with some running longer.",
+ "who_it_affects": [
+  {
+   "group": "Drivers and people who use highways and bridges",
+   "how": "Federal money is directed to repair and build roads and bridges and to fund safety programs such as pedestrian safety and wildlife-crossing projects."
+  },
+  {
+   "group": "Commercial truck drivers and trucking companies",
+   "how": "The law requires rules for automatic emergency braking on heavy trucks and creates an apprenticeship program for drivers under age 21."
+  },
+  {
+   "group": "Public transit riders and transit agencies",
+   "how": "Transit systems can receive federal grants for buses, rail cars, and related facilities, including low- or no-emission buses."
+  },
+  {
+   "group": "Amtrak riders and rail passengers",
+   "how": "The law authorizes grants for Amtrak service and sets rules such as a ban on smoking and vaping on Amtrak trains."
+  },
+  {
+   "group": "Households and communities without reliable internet",
+   "how": "Federal grants fund broadband construction in unserved and underserved areas, and a monthly internet discount program was made permanent."
+  },
+  {
+   "group": "Households with low or moderate incomes served by water and sewer systems",
+   "how": "Funds are provided to help lower-income households connect to, or repair, drinking water and wastewater systems."
+  },
+  {
+   "group": "Electric utilities and electricity customers",
+   "how": "Grants and incentives aim to make the power grid more reliable and to support transmission lines and energy storage."
+  },
+  {
+   "group": "Coal communities and mine land owners",
+   "how": "A fee on coal companies that funds cleanup of abandoned mines is reduced and extended, and a program for abandoned hard rock mines is created."
+  },
+  {
+   "group": "Construction contractors and workers on federally funded projects",
+   "how": "Laborers and mechanics on covered projects must be paid locally prevailing wages, and iron, steel, and manufactured products must generally be made in the United States."
+  },
+  {
+   "group": "State and local governments applying for federal infrastructure grants",
+   "how": "They can receive funding for many programs, but must follow new reporting, buy-American, and environmental review rules."
+  },
+  {
+   "group": "Minority-owned and rural businesses",
+   "how": "The Minority Business Development Agency gets statutory authority and new programs for capital access, counseling, and rural business centers."
+  }
+ ],
+ "when_it_takes_effect": "Enacted November 15, 2021; the surface transportation division took effect October 1, 2021, and most programs are authorized through fiscal year 2026.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

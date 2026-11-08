@@ -1,0 +1,24 @@
+{
+ "headline": "This law requires NASA to add protections for historic lunar artifacts, such as Apollo landing sites, to its lunar contracts and partnerships.",
+ "what_it_does": "The law directs NASA to include recommendations for protecting Apollo-era and other U.S. lunar artifacts as a condition in contracts, grants, agreements, and partnerships involving lunar activities. NASA must also tell other federal agencies about these recommendations and encourage them to follow similar best practices. NASA can waive these requirements for a specific arrangement if it finds that following them would be unduly prohibitive to an activity of significant historical, scientific, or engineering value, and it must send that finding to the House and Senate science committees at least 30 days before the waiver takes effect.",
+ "who_it_affects": [
+  {
+   "group": "NASA contractors and grant recipients working on lunar activities",
+   "how": "They must follow NASA's recommendations for protecting lunar artifacts as a condition of their lunar-related contracts, grants, or agreements."
+  },
+  {
+   "group": "Commercial companies planning lunar missions with NASA",
+   "how": "They must meet the artifact-protection recommendations in any lunar arrangement they have with NASA, unless NASA grants a waiver."
+  },
+  {
+   "group": "Other federal agencies involved in lunar activities",
+   "how": "They receive NASA's recommendations and are encouraged to adopt similar best practices."
+  }
+ ],
+ "when_it_takes_effect": "The law took effect when it was enacted on December 31, 2020.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

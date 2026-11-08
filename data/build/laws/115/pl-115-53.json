@@ -39,5 +39,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law raises a worker fee for employers in the Northern Mariana Islands and adds 350 construction permits for fiscal year 2017, with some set aside for certain jobs.",
+  "what_it_does": "It raises the supplemental vocational education fee that an employer in the Northern Mariana Islands pays for each CW-1 transitional worker from $150 to $200. It limits construction occupation permits to extensions of permits issued before October 1, 2015. For fiscal year 2017 only, it makes 350 more construction permits available, with at least 60 reserved for health care practitioners and technical operations and at least 10 reserved for plant and system operators.",
+  "who_it_affects": [
+   {
+    "group": "Employers in the Northern Mariana Islands that hire CW-1 transitional workers",
+    "how": "They must pay a higher education fee of $200 per worker instead of $150."
+   },
+   {
+    "group": "Foreign workers seeking CW-1 construction permits in the Northern Mariana Islands",
+    "how": "New construction permits are limited to extensions of earlier permits, plus the 350 additional permits made available for fiscal year 2017."
+   },
+   {
+    "group": "Health care practitioners and technical operations workers in the Northern Mariana Islands",
+    "how": "At least 60 of the additional fiscal year 2017 construction permits are reserved for this group."
+   },
+   {
+    "group": "Plant and system operators in the Northern Mariana Islands",
+    "how": "At least 10 of the additional fiscal year 2017 construction permits are reserved for this group."
+   }
+  ],
+  "when_it_takes_effect": "The summary does not state a separate effective date. The bill was enacted August 22, 2017, and the 350 additional permits apply to fiscal year 2017.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

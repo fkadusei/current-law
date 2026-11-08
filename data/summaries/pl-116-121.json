@@ -1,0 +1,28 @@
+{
+ "headline": "This law sets up rules to help the incoming and outgoing presidential administrations hand off power more smoothly.",
+ "what_it_does": "It lets the President-elect and Vice President-elect get temporary staff detailed from Congress, paid back on a reimbursable basis, with the consent of the lawmaker who supervises them. It extends federal General Services Administration support to these officials for up to 60 days after inauguration. In election years, GSA must sign a written agreement with each eligible candidate by September 1 covering administrative services and facilities, and that agreement must include an ethics plan that is published on the GSA website. Agencies must also make sure each senior noncareer position has a succession plan by September 15 of an election year.",
+ "who_it_affects": [
+  {
+   "group": "The President-elect and Vice President-elect",
+   "how": "They can receive detailed congressional staff and extended GSA support, and they must agree to follow and enforce a published ethics plan."
+  },
+  {
+   "group": "Eligible presidential candidates",
+   "how": "They must sign a memorandum of understanding with GSA by September 1 of an election year that sets the conditions for transition support."
+  },
+  {
+   "group": "Congressional staff",
+   "how": "Legislative branch employees may be detailed to presidential transition offices with their supervising Member's consent."
+  },
+  {
+   "group": "Senior noncareer federal employees and their agencies",
+   "how": "Each agency must have a succession plan in place for every senior noncareer position by September 15 of an election year."
+  }
+ ],
+ "when_it_takes_effect": "Enacted March 3, 2020; the MOU and succession plan deadlines apply in years when a presidential election occurs.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

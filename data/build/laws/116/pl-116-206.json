@@ -42,5 +42,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A federal law makes it a crime to knowingly use banned substances or methods to influence major international sports competitions.",
+  "what_it_does": "The law makes it illegal to knowingly influence, or try or plan to influence, a major international sports competition by using a prohibited substance or prohibited method. Anyone convicted can face a fine, up to 10 years in prison, or both, and must pay restitution. Property used in the offense, or traceable to its proceeds, can be seized and forfeited to the U.S. government.",
+  "who_it_affects": [
+   {
+    "group": "Athletes and coaches who take part in major international sporting events",
+    "how": "They could face criminal fines or prison if they knowingly use banned substances or methods to affect the outcome of a covered competition."
+   },
+   {
+    "group": "Medical staff, trainers, and others who supply banned substances or methods to competitors",
+    "how": "They could be prosecuted, required to pay restitution, and have related property seized if they knowingly help influence a covered competition this way."
+   },
+   {
+    "group": "People who own property connected to these offenses",
+    "how": "Property that was used, intended for use, or traceable to the proceeds of an offense can be taken and forfeited to the federal government."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on December 4, 2020, and its penalties apply to offenses covered by the act from that date forward.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

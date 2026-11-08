@@ -39,5 +39,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law extends the authorization of a federal cleanup project for radioactive waste in West Valley, New York, through fiscal year 2026 and requires a federal report on that waste.",
+  "what_it_does": "The law reauthorizes the West Valley Demonstration Project in West Valley, New York, through fiscal year 2026. It also requires the Government Accountability Office to report to Congress on the volumes, origins, and types of radioactive waste at the site. The report must also cover options for disposing of that waste.",
+  "who_it_affects": [
+   {
+    "group": "Residents of West Valley, New York, and nearby communities",
+    "how": "The project's continued authorization keeps the federal waste work at the site going for several more years."
+   },
+   {
+    "group": "The Department of Energy",
+    "how": "The department's authority to run the West Valley Demonstration Project is extended through fiscal year 2026."
+   },
+   {
+    "group": "Congress",
+    "how": "Lawmakers will receive a Government Accountability Office report on the site's radioactive waste and disposal options."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on December 20, 2019, and the project's authorization runs through fiscal year 2026.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

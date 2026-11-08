@@ -1,0 +1,28 @@
+{
+ "headline": "A 2015 law extends a federal hiring preference, previously limited to mothers, to certain fathers of fallen or disabled veterans.",
+ "what_it_does": "The law adds fathers to the group of parents who receive a preference for federal jobs because of a child's military service. Before this law, only mothers qualified. A father qualifies if his child died under honorable conditions while serving in a war, in a campaign or expedition with an authorized campaign badge, or between April 28, 1952 and July 1, 1955, or if his child was a service-connected, permanently and totally disabled veteran. The father must also meet one condition: his spouse is totally and permanently disabled, or he is unmarried or legally separated from his spouse when he claims the preference.",
+ "who_it_affects": [
+  {
+   "group": "Fathers of certain deceased veterans",
+   "how": "Fathers who lost a child under the covered service conditions can now claim the federal employment preference that mothers already had, if they meet the marital or spousal conditions."
+  },
+  {
+   "group": "Fathers of certain disabled veterans",
+   "how": "Fathers of service-connected, permanently and totally disabled veterans can claim the preference if they meet the same marital or spousal conditions."
+  },
+  {
+   "group": "Federal agencies and hiring officials",
+   "how": "Agencies must apply the expanded preference when they evaluate eligible parents who apply for federal jobs."
+  },
+  {
+   "group": "Other federal job applicants",
+   "how": "Applicants competing for federal positions may face eligible fathers who now hold this preference."
+  }
+ ],
+ "when_it_takes_effect": "The summary gives no separate start date, so the law applies from its enactment on October 7, 2015.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

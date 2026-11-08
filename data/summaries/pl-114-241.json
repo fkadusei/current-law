@@ -1,0 +1,24 @@
+{
+ "headline": "This law says certain state payments to people who were forcibly sterilized will not count as income or assets when deciding their eligibility for federal benefits.",
+ "what_it_does": "The law excludes payments made under a state eugenics compensation program from being counted as income or resources. A state eugenics compensation program is a state program that pays people who were sterilized under state authority. Because of this rule, those payments should not reduce federal benefits or make a person ineligible for them.",
+ "who_it_affects": [
+  {
+   "group": "People who were sterilized under state eugenics laws and receive state compensation",
+   "how": "Their state compensation payments are not counted as income or resources when federal agencies decide whether they qualify for, or how much they receive from, federal public benefits."
+  },
+  {
+   "group": "Federal agencies that administer public benefit programs",
+   "how": "They must not treat qualifying state eugenics compensation payments as income or resources when they determine eligibility or benefit amounts."
+  },
+  {
+   "group": "State governments that run eugenics compensation programs",
+   "how": "Payments they make under those programs are shielded from being counted against recipients' federal benefits."
+  }
+ ],
+ "when_it_takes_effect": "The summary does not state a specific effective date, so the timing is not specified in the source material.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

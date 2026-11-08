@@ -4367,5 +4367,44 @@
   "House": "R",
   "Senate": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "A large spending package that keeps federal agencies funded into January 2018 and adds health, defense, and veterans money.",
+  "what_it_does": "This law combines several spending bills into one package. It extends funding for federal agencies through January 19, 2018, which avoids a shutdown when the earlier stopgap ran out. It also adds money for missile defense, repairs to the USS John S. McCain and USS Fitzgerald, children's health insurance, community health centers, and the Veterans Choice Program. The official title describes a different topic, a Blue Campaign training measure for the Department of Homeland Security, so the title and the summary do not match.",
+  "who_it_affects": [
+   {
+    "group": "Federal agencies and their employees",
+    "how": "Their operations are funded through January 19, 2018, so they can keep running while full-year spending bills are still pending."
+   },
+   {
+    "group": "Children enrolled in the Children's Health Insurance Program (CHIP)",
+    "how": "CHIP funding is extended through the first half of fiscal year 2018, with rules for moving unused state allotments to states facing emergency shortfalls."
+   },
+   {
+    "group": "Patients of community health centers and the National Health Service Corps",
+    "how": "These programs receive funding through the second quarter of fiscal year 2018."
+   },
+   {
+    "group": "Veterans who use outside health care providers",
+    "how": "The Veterans Choice Program receives $2.1 billion in mandatory funding to pay for care from providers outside VA facilities."
+   },
+   {
+    "group": "Coast Guard members",
+    "how": "Coast Guard funds may be used to carry out Retired Pay Reform, including continuation pay."
+   },
+   {
+    "group": "People with type 1 diabetes and Native Americans with diabetes",
+    "how": "Diabetes programs for these groups receive funding through the second quarter of fiscal year 2018."
+   },
+   {
+    "group": "Indian Health Service patients and tribal communities served by new facilities",
+    "how": "The agency receives extra money to staff and operate newly built facilities."
+   }
+  ],
+  "when_it_takes_effect": "Enacted December 22, 2017. Some funding runs through January 19, 2018, and some health programs are funded through the second quarter or first half of fiscal year 2018.",
+  "ceremonial": false,
+  "confidence": "low",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

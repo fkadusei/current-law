@@ -39,5 +39,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law speeds up VA payments on certain veterans' life insurance policies when beneficiaries are slow to claim or were never named.",
+  "what_it_does": "The law shortens the waiting periods the VA uses before paying life insurance benefits under two programs, NSLI and USGLI. If a primary beneficiary does not file a claim within one year after the insured person dies, the VA can pay another designated beneficiary as if the primary one had died first. If no designated beneficiary claims within two years, the VA can pay someone it finds equitably entitled to the benefit. The law also sets an order of succession for choosing a beneficiary when none was named or the named one has died, and requires the VA to improve how it finds and pays hard-to-find beneficiaries, including better website search tools.",
+  "who_it_affects": [
+   {
+    "group": "Beneficiaries named on NSLI or USGLI life insurance policies",
+    "how": "Primary beneficiaries have one year instead of two to file a claim before the VA can move payment to another designated beneficiary."
+   },
+   {
+    "group": "Families of deceased veterans and insured service members with NSLI or USGLI policies",
+    "how": "Surviving relatives may receive payments sooner, and the VA can follow a set order of succession when no beneficiary was named or the named one has died."
+   },
+   {
+    "group": "Other people the VA considers equitably entitled to policy benefits",
+    "how": "If no designated beneficiary claims within two years, the VA may pay a person it finds equitably entitled instead, where before the window was four years."
+   },
+   {
+    "group": "Hard-to-find beneficiaries of VA life insurance policies",
+    "how": "The VA must improve its methods for identifying, locating, and paying these people, including its online search tools."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

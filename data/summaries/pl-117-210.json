@@ -1,0 +1,24 @@
+{
+ "headline": "This law requires the Department of Labor to study why some immigrants with foreign professional credentials struggle to find jobs that match their skills, and to recommend fixes.",
+ "what_it_does": "The law directs the Department of Labor to prepare a study for Congress. The study looks at factors that affect job opportunities for people who earned professional credentials outside the United States. It covers lawfully present noncitizens and naturalized citizens. The study must also include policy recommendations to help these workers get skill-appropriate jobs.",
+ "who_it_affects": [
+  {
+   "group": "Lawfully present noncitizens with professional credentials earned abroad",
+   "how": "The study may lead to recommendations that could make it easier for them to find jobs that match their training, but the law itself does not change their rights or requirements."
+  },
+  {
+   "group": "Naturalized U.S. citizens with professional credentials earned abroad",
+   "how": "The study covers their job prospects too, but the law itself does not change their rights or requirements."
+  },
+  {
+   "group": "Department of Labor",
+   "how": "The department must complete and submit the study and its policy recommendations to Congress."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

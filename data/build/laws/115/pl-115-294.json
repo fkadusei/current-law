@@ -39,5 +39,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Names a Milwaukee, Wisconsin Postal Service building the \"Vel R. Phillips Post Office Building.\"",
+  "what_it_does": "This law renames a U.S. Postal Service facility at 2650 North Doctor Martin Luther King Jr. Drive in Milwaukee, Wisconsin. The building will be officially called the \"Vel R. Phillips Post Office Building.\" It is a naming measure and does not change how the post office operates.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law was enacted on December 6, 2018, and the new name applies from that date.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -1,0 +1,28 @@
+{
+ "headline": "A 2020 law opens certain National Science Foundation programs to veterans and directs agencies to encourage veterans to pursue science, technology, engineering, and math careers.",
+ "what_it_does": "The law makes veterans eligible for several National Science Foundation programs, including teacher scholarships, fellowships, and computer and network security grants. It tells the NSF to encourage veterans to study and work in STEM and computer science, in coordination with other agencies that serve veterans, and to send Congress a plan for veterans outreach. It also requires the National Science Board to report data on veterans in science and engineering in its annual report, and it creates an interagency working group on veteran and military spouse representation in STEM. Finally, it asks the Government Accountability Office to study how student veterans fare in STEM and related degrees and what barriers they face.",
+ "who_it_affects": [
+  {
+   "group": "Veterans interested in STEM or teaching math and science",
+   "how": "They become eligible to take part in NSF teacher scholarships, fellowships, and certain grant and traineeship programs."
+  },
+  {
+   "group": "Military spouses",
+   "how": "An interagency working group is directed to look at their representation and equity in STEM fields."
+  },
+  {
+   "group": "Student veterans pursuing STEM, computer science, or medicine degrees",
+   "how": "The GAO will study their academic success rates and the barriers they face, which could inform future policy."
+  },
+  {
+   "group": "National Science Foundation",
+   "how": "The agency must encourage veteran participation in STEM and submit a veterans outreach plan to Congress."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on February 11, 2020; the summary does not list specific effective dates for each provision.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

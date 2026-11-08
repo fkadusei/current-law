@@ -36,5 +36,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Sets term lengths and reappointment rules for members of the Office of Compliance's Board of Directors whose terms were ending in 2017.",
+  "what_it_does": "The law staggers the terms of new board members of the Office of Compliance, which handles workplace rights and enforces the Congressional Accountability Act for congressional employees. One replacement member gets a three-year term, two get four-year terms, and two others get five-year terms. Some members whose terms end in 2017 may be reappointed once more, but not after that. The law also lets a board member keep serving after the term ends until a successor takes office, and lets congressional leaders take steps to make appointments on time.",
+  "who_it_affects": [
+   {
+    "group": "Members of the Board of Directors of the Office of Compliance",
+    "how": "Their terms are set at three, four, or five years, and some may be reappointed once, while others may serve past their expiration until a successor is in place."
+   },
+   {
+    "group": "Congressional staff and employees covered by the Congressional Accountability Act",
+    "how": "The office that handles their workplace rights and complaints keeps its board filled and operating during the transition."
+   },
+   {
+    "group": "Speaker of the House, Senate Majority Leader, and House and Senate Minority Leaders",
+    "how": "They are authorized to take steps they consider appropriate to make sure board appointments are made on time."
+   }
+  ],
+  "when_it_takes_effect": "Enacted April 3, 2017; the term and appointment rules apply to board seats expiring in March and May 2017.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

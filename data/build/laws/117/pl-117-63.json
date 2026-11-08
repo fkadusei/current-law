@@ -3504,5 +3504,28 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "This 2021 law requires the VA and its watchdogs to track and report on how COVID-19 response funds are spent.",
+  "what_it_does": "The law requires the Department of Veterans Affairs to submit a plan for spending COVID-19 response funds. The VA must also send reports every two weeks on the money it has obligated, spent, and plans to use. Those reports continue until seven days after all the funds are spent. The VA's Inspector General and the Government Accountability Office must also review how the money was obligated and spent.",
+  "who_it_affects": [
+   {
+    "group": "Department of Veterans Affairs",
+    "how": "The VA must write a spending plan for COVID-19 response funds and send biweekly reports on those funds until seven days after they are all spent."
+   },
+   {
+    "group": "VA Inspector General",
+    "how": "The Inspector General must submit reports examining how covered COVID-19 funds were obligated and spent during the reporting period."
+   },
+   {
+    "group": "Government Accountability Office",
+    "how": "The GAO must submit an interim report and a final report reviewing how covered COVID-19 funds were obligated and spent."
+   }
+  ],
+  "when_it_takes_effect": "Enacted November 22, 2021; the summary does not state a separate effective date, and reporting continues until seven days after all covered funds are spent.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

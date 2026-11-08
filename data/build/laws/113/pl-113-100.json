@@ -36,5 +36,24 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law directs the President to bar United Nations representatives who engaged in spying or terrorism against the U.S. from entering the country.",
+  "what_it_does": "The law amends an earlier foreign relations statute to tell the President to deny U.S. entry to any United Nations representative who has been found to have engaged in espionage or terrorist activity against the United States or its allies. The representative must also be someone who may pose a threat to U.S. national security. The summary does not describe how such findings are made or what review process applies.",
+  "who_it_affects": [
+   {
+    "group": "United Nations representatives seeking to enter the United States",
+    "how": "Those found to have engaged in espionage or terrorist activity against the U.S. or its allies, and who may pose a national security threat, can be refused admission."
+   },
+   {
+    "group": "U.S. immigration and consular officials",
+    "how": "They are directed to deny admission in covered cases, so they must apply this standard when reviewing UN representatives' entry requests."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

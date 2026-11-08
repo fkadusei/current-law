@@ -3537,5 +3537,32 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "This law extends the Vietnam Veterans Memorial Fund's authority for a visitors center and lets the Fund thank donors with short displays inside it.",
+  "what_it_does": "It extends the Vietnam Veterans Memorial Fund's legal authority to build a Vietnam Veterans Memorial visitors center until November 17, 2018. It directs the Interior Secretary to allow the Fund to display donor acknowledgments inside the center. The Fund must pay for the displays and get the Secretary's approval of a display plan first. The plan must use only short, discrete, unobtrusive credits, with no advertising slogans or company logos, and must follow National Park Service indoor donor recognition rules. If a plan is rejected, the Fund may submit a revised one.",
+  "who_it_affects": [
+   {
+    "group": "The Vietnam Veterans Memorial Fund, Inc.",
+    "how": "It gets extended authority to establish the visitors center and must pay for donor displays and win approval of a display plan before showing them."
+   },
+   {
+    "group": "Donors who contribute to the Vietnam Veterans Memorial Visitor Center",
+    "how": "They may be acknowledged with short, unobtrusive credits inside the center, but not with advertising slogans or logos."
+   },
+   {
+    "group": "The National Park Service and the Department of the Interior",
+    "how": "The Interior Secretary must review display plans and approve those that meet the law's limits and Park Service guidelines."
+   },
+   {
+    "group": "Visitors to the Vietnam Veterans Memorial",
+    "how": "They may see donor credits displayed inside the visitors center once an approved plan is in place."
+   }
+  ],
+  "when_it_takes_effect": "The law took effect when it was enacted on July 18, 2013. The Fund's authority to establish the visitors center runs through November 17, 2018.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

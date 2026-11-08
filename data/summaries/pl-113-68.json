@@ -1,0 +1,24 @@
+{
+ "headline": "Directs the federal health agency to transfer a specific Anchorage, Alaska property to the Alaska Native Tribal Health Consortium for health programs.",
+ "what_it_does": "The law tells the Secretary of Health and Human Services to give a described piece of land in Anchorage, Alaska, to the Alaska Native Tribal Health Consortium (ANTHC). The land is described as Tract A-3A in the Tudor Centre subdivision, and the transfer is for use in health and related programs. The consortium does not have to pay for the land or accept any extra conditions. The summary says the transfer is made by warranty deed, but it later mentions a quitclaim deed when it releases the consortium from liability for environmental contamination on the property before the transfer.",
+ "who_it_affects": [
+  {
+   "group": "Alaska Native Tribal Health Consortium",
+   "how": "It receives ownership of the Anchorage property without paying for it or taking on listed obligations, and it is released from liability for pre-transfer environmental contamination."
+  },
+  {
+   "group": "Department of Health and Human Services",
+   "how": "It must carry out the conveyance of the property to the consortium."
+  },
+  {
+   "group": "People who receive health care from ANTHC programs",
+   "how": "The property is meant for use in connection with health and related programs, though the summary does not say which services would be offered there."
+  }
+ ],
+ "when_it_takes_effect": "Enacted December 26, 2013; the summary does not list a separate effective date or deadline for the transfer.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

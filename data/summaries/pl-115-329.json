@@ -1,0 +1,28 @@
+{
+ "headline": "This law lets NOAA permit certain Pacific Northwest states and tribes to kill some sea lions in parts of the Columbia River to protect threatened fish.",
+ "what_it_does": "The law amends the Marine Mammal Protection Act to allow NOAA to issue permits for lethal removal of sea lions in part of the Columbia River and some tributaries. The permits aim to protect endangered or threatened salmon, steelhead, or eulachon, and certain lamprey and sturgeon species of concern. Total annual removals under all permits are capped at 10% of the species' potential biological removal level, and takings must be humane. NOAA must stop issuing permits if, after five years, lethal removal is no longer needed, and the Department of Commerce must study the permits' effect on salmon and steelhead recovery.",
+ "who_it_affects": [
+  {
+   "group": "Sea lions in the Columbia River area",
+   "how": "Sea lions from populations not listed as depleted or strategic can be killed under permits, within an annual cap."
+  },
+  {
+   "group": "Washington, Oregon, and Idaho state wildlife agencies",
+   "how": "These states can apply for NOAA permits to remove sea lions that prey on protected fish."
+  },
+  {
+   "group": "Nez Perce Tribe, Confederated Tribes of the Umatilla Indian Reservation, Confederated Tribes of the Warm Springs Reservation of Oregon, and Confederated Tribes and Bands of the Yakama Nation",
+   "how": "These tribes can apply for NOAA permits to remove sea lions that prey on protected fish."
+  },
+  {
+   "group": "Commercial and recreational salmon fishers in the Columbia River basin",
+   "how": "Permitted sea lion removals are intended to reduce predation on salmon and steelhead, which may affect the fish available to these fishers."
+  }
+ ],
+ "when_it_takes_effect": "The law took effect when it was enacted on December 18, 2018. Permits can be issued after that date, and NOAA must suspend them if lethal removal is no longer needed after five years.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

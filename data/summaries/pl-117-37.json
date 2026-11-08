@@ -1,0 +1,28 @@
+{
+ "headline": "This law creates a five-year VA pilot program that pairs veterans with PTSD with trained dogs as part of their mental health care.",
+ "what_it_does": "The Department of Veterans Affairs must run a five-year pilot program that gives canine training to eligible veterans diagnosed with post-traumatic stress disorder. The VA works with accredited nonprofit or private groups that can train dogs, and must track participants' health progress. The law also lets the VA provide service dogs to veterans with mental illnesses even if they do not have a mobility impairment, and lets a veteran adopt a dog they trained if their health provider agrees it is in their best interest. The Government Accountability Office must brief Congress and report on the program.",
+ "who_it_affects": [
+  {
+   "group": "Veterans enrolled in VA health care who have PTSD",
+   "how": "They may be recommended by a mental health provider or clinical team to take part in the dog training program and could be allowed to adopt the dog."
+  },
+  {
+   "group": "Veterans with mental illnesses who do not have mobility impairments",
+   "how": "The VA is now authorized to provide them service dogs even though they do not have a physical disability."
+  },
+  {
+   "group": "Accredited nonprofit and private dog training organizations",
+   "how": "The VA may enter agreements with them to provide canine training for the pilot program."
+  },
+  {
+   "group": "VA mental health and clinical staff",
+   "how": "They must help recommend eligible veterans and set up processes to document and track participants' progress."
+  }
+ ],
+ "when_it_takes_effect": "Enacted August 25, 2021; the pilot program runs for five years from implementation, and the details of start dates are not stated in the summary.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

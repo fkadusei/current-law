@@ -39,5 +39,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2014 law adds burn injuries from heat, electricity, chemicals, or radiation to the federal definition of trauma, so burn centers can qualify for trauma grants and research.",
+  "what_it_does": "The law changes the Public Health Service Act. Before, the federal definition of \"trauma\" did not clearly cover some injuries, such as burns from heat, electricity, chemicals, or radioactive materials. Under the law, those injuries count as trauma. As a result, burn centers can now apply for federal trauma center grants and take part in federal trauma research programs.",
+  "who_it_affects": [
+   {
+    "group": "Burn centers",
+    "how": "They can now be considered for federal trauma center grants and trauma research programs."
+   },
+   {
+    "group": "Hospitals and trauma centers",
+    "how": "Facilities that treat severe burns may compete for federal trauma funding under the broader definition."
+   },
+   {
+    "group": "People with severe burns or injuries from electrical, chemical, or radioactive agents",
+    "how": "Federal trauma programs now cover these injuries, which may affect the care resources available to them."
+   },
+   {
+    "group": "Trauma researchers",
+    "how": "Researchers studying burn and related injuries can apply for federal trauma research funding."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on August 8, 2014, and the official summary does not list a separate effective date for this change.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

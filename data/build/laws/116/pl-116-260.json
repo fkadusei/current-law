@@ -4344,5 +4344,56 @@
   "House": "D",
   "Senate": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "Large spending law that funds most federal agencies for fiscal 2021 and adds COVID-19 relief, health, energy, and other policy changes.",
+  "what_it_does": "This law combines many separate bills, called divisions, into one package. Most divisions set how much money federal agencies can spend for fiscal year 2021, which runs from October 2020 to September 2021. Other divisions extend or change COVID-19 relief such as unemployment benefits, direct payments, small business loans, and food aid, and also change rules on health insurance, Medicare, Medicaid, pipeline safety, energy, water projects, aircraft certification, foster care, housing, and copyright and trademarks.",
+  "who_it_affects": [
+   {
+    "group": "Unemployed workers, including self-employed people and workers of government entities and nonprofits",
+    "how": "Unemployment relief is extended and changed, with new procedures for self-employed people seeking pandemic unemployment assistance."
+   },
+   {
+    "group": "People who receive SNAP or WIC food benefits",
+    "how": "The temporary increase in SNAP benefits is extended, and additional nutrition help is provided to U.S. territories."
+   },
+   {
+    "group": "Small businesses, farmers, and ranchers with Paycheck Protection Program loans",
+    "how": "Eligibility, permitted uses, and loan spending deadlines are changed, lenders get some protection from liability, and the loan maximum formula changes for certain farmers and ranchers."
+   },
+   {
+    "group": "Live venues and performing arts organizations",
+    "how": "They may apply for a new grant program created to help them respond to COVID-19."
+   },
+   {
+    "group": "People who buy health insurance on their own or through an employer",
+    "how": "New protections limit surprise medical bills, and insurance agents and brokers must disclose certain compensation they expect to receive."
+   },
+   {
+    "group": "Medicare beneficiaries and physicians",
+    "how": "Physician payments are temporarily increased, coinsurance for colorectal cancer screening is eliminated, and some mental health services by telehealth are allowed after the COVID-19 emergency ends."
+   },
+   {
+    "group": "Foster youth and former foster youth",
+    "how": "Eligibility for certain services, such as education vouchers, is extended to age 27 through fiscal 2021, and youth can avoid aging out of foster care during the emergency."
+   },
+   {
+    "group": "Renters facing eviction",
+    "how": "An emergency order temporarily halting residential evictions is extended, and emergency rental assistance is provided."
+   },
+   {
+    "group": "Retired coal miners",
+    "how": "More retired coal miners become eligible for health benefits through the United Mine Workers of America 1993 Benefit Plan."
+   },
+   {
+    "group": "Residents of public housing and certain federally assisted housing",
+    "how": "Carbon monoxide alarms or detectors must be installed in these homes."
+   }
+  ],
+  "when_it_takes_effect": "The law was signed December 27, 2020, and many provisions started that day. Other provisions take effect later, such as a Medicaid rule starting October 1, 2021, or end on set dates, and many programs run through years between fiscal 2021 and 2036.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

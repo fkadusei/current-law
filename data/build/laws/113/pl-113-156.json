@@ -36,5 +36,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2014 law lets the Treasury Department rely on state examinations of money transmitters and similar firms when checking their federal reporting compliance.",
+  "what_it_does": "The law allows the Secretary of the Treasury to accept examinations done by state supervisory agencies when checking whether certain financial institutions follow federal reporting rules for monetary instrument transactions. This applies if the type of institution must follow those federal rules, or if the state agency checks it against those rules. The Secretary must also consult with state agencies when writing regulations to carry out the law.",
+  "who_it_affects": [
+   {
+    "group": "Money transmitters and other non-bank financial institutions",
+    "how": "They may be examined for federal reporting compliance by their state regulator instead of only by federal examiners, when the state checks them against federal rules."
+   },
+   {
+    "group": "State financial supervisory agencies",
+    "how": "They can have their examinations counted by the Treasury Department and must be consulted when federal rules are written."
+   },
+   {
+    "group": "Department of the Treasury",
+    "how": "It may rely on state examination results and must consult state agencies when issuing rules under the act."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -36,5 +36,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law makes it a federal crime to use or threaten force to block someone's religious practice, and it covers damage to religious buildings owned or leased by religiously affiliated nonprofits.",
+  "what_it_does": "The law changes an existing federal crime that prohibits using force or threats of force to stop a person from freely practicing their religion. It says a threat of force includes a threat against religious property. It also creates a penalty of a fine, up to three years in prison, or both, when such an act damages religious property by more than $5,000. Finally, it expands the definition of religious real property to include property owned or leased by nonprofit groups with religious ties.",
+  "who_it_affects": [
+   {
+    "group": "Houses of worship and religious congregations",
+    "how": "Their buildings get stronger federal criminal protection against force, threats, and damage."
+   },
+   {
+    "group": "Religiously affiliated nonprofit organizations",
+    "how": "Property they own or lease, such as schools, charities, or community centers, is now covered as religious real property."
+   },
+   {
+    "group": "People who damage or threaten religious property",
+    "how": "Such actions can now be prosecuted under federal law, with prison time up to three years if damage exceeds $5,000."
+   },
+   {
+    "group": "Federal prosecutors and courts",
+    "how": "They have an added federal charge available for these offenses."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on September 28, 2018, and the summary does not give a separate effective date.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

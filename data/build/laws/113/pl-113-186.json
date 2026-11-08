@@ -879,5 +879,48 @@
  "control": {
   "Senate": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "This law renews the federal child care block grant to states through fiscal year 2020 and adds new rules on safety, staff background checks, quality spending, and emergency planning.",
+  "what_it_does": "It reauthorizes the Child Care and Development Block Grant program and requires states to file three-year child care plans that cover licensing, staff training, provider ratios, health and safety, and disaster planning. It requires states to spend set shares of their funds on quality improvements, including extra spending for infants and toddlers, and requires criminal background checks with a 10-year look-back for child care staff. The official summary describes the version passed by the House, so the final enacted text may differ in details.",
+  "who_it_affects": [
+   {
+    "group": "State governments and their child care lead agencies",
+    "how": "States must write longer three-year child care plans, meet rising minimum quality spending shares, run background checks, and publish their policies online."
+   },
+   {
+    "group": "Child care centers, family child care homes, and other licensed or federally assisted providers",
+    "how": "They must follow new background check, staff training, health and safety, and licensing requirements to keep receiving assistance."
+   },
+   {
+    "group": "Child care workers",
+    "how": "Anyone with certain felony convictions, sex offender registration, or who refuses a background check cannot be employed by a provider receiving assistance under this law."
+   },
+   {
+    "group": "Working parents with low incomes who use federal child care subsidies",
+    "how": "States must give priority to low-income families and set subsidy rates based on a recent market rate survey, and eligibility limits are capped at $1 million in family assets."
+   },
+   {
+    "group": "Families of children with disabilities under age 13",
+    "how": "Children under 13 with a disability who qualify for early intervention services under federal special education law are defined as eligible for this program."
+   },
+   {
+    "group": "Infants and toddlers in child care",
+    "how": "States must set aside additional quality funds specifically to improve care for children under age three."
+   },
+   {
+    "group": "Indian tribes and tribal organizations",
+    "how": "Tribes receive a minimum 2% reservation of program funds, and states must coordinate with tribes on plans if the tribe requests it."
+   },
+   {
+    "group": "Homeless children receiving child care assistance",
+    "how": "States must collect monthly data on whether children receiving assistance are homeless."
+   }
+  ],
+  "when_it_takes_effect": "Enacted November 19, 2014. Quality spending requirements phase in over the first several fiscal years after enactment, and the reauthorization runs through fiscal year 2020.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

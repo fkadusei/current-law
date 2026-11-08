@@ -42,5 +42,40 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This 2018 law reauthorizes federal career and technical education (CTE) funding through FY2024 and revises how states, schools, and colleges use and report on it.",
+  "what_it_does": "The law extends the Carl D. Perkins Career and Technical Education Act for several years and changes its rules. It splits CTE students into two groups, concentrators and participants, with set course-completion thresholds. It changes state plan length to four years, raises a state's limit on reserve funds from 10% to 15%, and sets rules for how states must maintain their own CTE spending to receive full federal funds. It also shifts federal research and evaluation work to the Institute of Education Sciences and bars federal grants from requiring specific curricula, including Common Core.",
+  "who_it_affects": [
+   {
+    "group": "High school and college CTE students",
+    "how": "Students are counted as concentrators or participants based on how many CTE courses or credits they complete, which affects how their programs are measured."
+   },
+   {
+    "group": "State education agencies",
+    "how": "States must submit four-year plans, meet revised spending-maintenance rules, and may reserve more funds for leadership and special populations."
+   },
+   {
+    "group": "Local school districts and area CTE schools",
+    "how": "Local recipients submit applications instead of improvement plans and must complete a comprehensive CTE needs assessment."
+   },
+   {
+    "group": "Students at nonprofit private schools",
+    "how": "Secondary students at nonprofit private schools in an area served by a local CTE program may now take part in those programs even if they do not live in that area."
+   },
+   {
+    "group": "Tribal schools and tribally controlled colleges",
+    "how": "Tribal recipients may not use these funds for preparatory or remedial services, and tribally controlled postsecondary CTE institutions received a reauthorized grant program through FY2024."
+   },
+   {
+    "group": "Workforce and job-training providers",
+    "how": "Wagner-Peyser and WIOA were amended, including changes to labor market data duties and a shift from serving school dropouts to serving out-of-school youth."
+   }
+  ],
+  "when_it_takes_effect": "Enacted July 31, 2018; the act reauthorizes funding through fiscal year 2024, and specific provisions apply to later fiscal years and state plan cycles.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

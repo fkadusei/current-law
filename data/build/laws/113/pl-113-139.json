@@ -39,5 +39,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2014 law renamed a Jersey City, New Jersey post office after former judge Shirley A. Tolentino.",
+  "what_it_does": "The law officially names the U.S. Postal Service building at 369 Martin Luther King Jr. Drive in Jersey City, New Jersey, the \"Judge Shirley A. Tolentino Post Office Building.\" It is a naming measure only. It does not change postal services, hours, rules, or funding.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law took effect when it was enacted on July 25, 2014.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

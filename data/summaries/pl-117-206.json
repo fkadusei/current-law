@@ -1,0 +1,24 @@
+{
+ "headline": "This law creates the Blackwell School National Historic Site in Marfa, Texas, to preserve a school that educated children of Mexican descent during segregation.",
+ "what_it_does": "The law makes the Blackwell School a unit of the National Park System, with a purpose of preserving and explaining its role in Marfa and in segregated education in Texas and the U.S. from 1885 through 1965. The site cannot be officially established until the Department of the Interior signs a written agreement with the Marfa Unified School District and acquires enough land or interests in land to make a manageable site. Interior may only obtain land within the boundary through donation, purchase with donated funds, or exchange. Private and nonfederal public property cannot be included or managed as part of the site without the owner's written consent, and Interior must prepare a general management plan.",
+ "who_it_affects": [
+  {
+   "group": "Marfa Unified School District",
+   "how": "The district would need to sign a written agreement with Interior to donate the Blackwell School or place it under joint management with the United States."
+  },
+  {
+   "group": "Owners of private or nonfederal public land near the Blackwell School",
+   "how": "Their property cannot be included in the site or managed as part of it unless they give written consent."
+  },
+  {
+   "group": "Visitors interested in Texas and American history",
+   "how": "Once established, the site would be open to the public as a national park unit that tells the story of segregated education in Marfa and Texas."
+  }
+ ],
+ "when_it_takes_effect": "The site is not established until Interior completes the written agreement with the Marfa Unified School District and acquires sufficient land within the boundary, so the start date depends on those steps.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

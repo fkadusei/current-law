@@ -45,5 +45,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law makes permanent the right of federal workers and job applicants to appeal certain whistleblower-retaliation rulings to any federal appeals court.",
+  "what_it_does": "Federal employees, people applying for federal jobs, and the Office of Personnel Management can appeal a final decision from the Merit Systems Protection Board in a reprisal case to a federal appeals court. A reprisal case is one where someone claims they were punished for reporting wrongdoing or for refusing an order that would break the law. The law makes this appeal right permanent, and it applies back to November 26, 2017.",
+  "who_it_affects": [
+   {
+    "group": "Federal employees who report wrongdoing (whistleblowers)",
+    "how": "They can appeal a Merit Systems Protection Board decision in a retaliation claim to a federal appeals court."
+   },
+   {
+    "group": "Applicants for federal jobs",
+    "how": "They have the same appeal right if they claim they were retaliated against for whistleblowing."
+   },
+   {
+    "group": "Office of Personnel Management",
+    "how": "The agency can also appeal these Merit Systems Protection Board decisions to a federal appeals court."
+   }
+  ],
+  "when_it_takes_effect": "Signed into law on July 7, 2018, and applies retroactively to November 26, 2017.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

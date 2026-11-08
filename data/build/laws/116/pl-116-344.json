@@ -33,5 +33,20 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A law that lets the Senate's Sergeant at Arms assign other staff members to approve payroll and personnel actions.",
+  "what_it_does": "The law allows the Sergeant at Arms and Doorkeeper of the Senate to name one or more employees to approve any payroll action or personnel action. Before this, that approval authority rested with the Sergeant at Arms personally. The change is about who inside the Senate administration can sign off on these internal decisions.",
+  "who_it_affects": [
+   {
+    "group": "Senate Sergeant at Arms office employees",
+    "how": "Staff members who are designated by the Sergeant at Arms can now approve payroll and personnel actions for the office."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on January 13, 2021, and the summary does not give a separate effective date.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

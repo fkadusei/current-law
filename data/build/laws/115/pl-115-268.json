@@ -33,5 +33,24 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Extends the Congressional Award Board, the body that oversees the Congressional Award youth program, through fiscal year 2023.",
+  "what_it_does": "This law amends the Congressional Award Act to keep the Congressional Award Board in operation through fiscal year 2023. The Board oversees the Congressional Award, a program that recognizes young people for personal development efforts. The summary does not describe changes to the program's requirements or funding amounts.",
+  "who_it_affects": [
+   {
+    "group": "Young people who take part in the Congressional Award program",
+    "how": "The program they participate in is allowed to keep operating through fiscal year 2023 under this law."
+   },
+   {
+    "group": "Members of the Congressional Award Board",
+    "how": "The Board's authority to carry out its duties is extended through fiscal year 2023."
+   }
+  ],
+  "when_it_takes_effect": "Enacted October 11, 2018, with the reauthorization running through fiscal year 2023.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

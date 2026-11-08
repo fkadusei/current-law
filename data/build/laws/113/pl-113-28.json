@@ -4372,5 +4372,36 @@
   "House": "R",
   "Senate": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "This law ties federal student loan interest rates to the 10-year Treasury note rate, with caps, for loans first disbursed on or after July 1, 2013.",
+  "what_it_does": "For new federal Direct Stafford loans, the interest rate equals the high-yield 10-year Treasury note rate plus 2.05 percentage points for undergraduates, capped at 8.25%. Graduate and professional students' unsubsidized Stafford loans get the Treasury rate plus 3.6 points, capped at 9.5%, and Direct PLUS loans get the Treasury rate plus 4.6 points, capped at 10.5%. Each rate is fixed for the life of the loan, and consolidation loans get the weighted average rate of the loans they combine, rounded up to the nearest one-eighth of a percent. The law also directs the Government Accountability Office to study the actual cost of federal student loan programs and report to Congress.",
+  "who_it_affects": [
+   {
+    "group": "Undergraduate students who borrow federal Direct Stafford loans",
+    "how": "Their interest rate on loans first disbursed on or after July 1, 2013 is set by the Treasury rate plus 2.05 points, with a maximum of 8.25%, and stays fixed for the loan's life."
+   },
+   {
+    "group": "Graduate and professional students who borrow unsubsidized Stafford loans",
+    "how": "Their new loans carry a rate set by the Treasury rate plus 3.6 points, with a maximum of 9.5%, fixed for the loan's life."
+   },
+   {
+    "group": "Parents and graduate students who borrow Direct PLUS loans",
+    "how": "New PLUS loans carry a rate set by the Treasury rate plus 4.6 points, with a maximum of 10.5%, fixed for the loan's life."
+   },
+   {
+    "group": "Borrowers who consolidate federal student loans",
+    "how": "Applications received on or after July 1, 2013 get a new rate equal to the weighted average of the consolidated loans' rates, rounded up to the nearest one-eighth of a percent."
+   },
+   {
+    "group": "Federal government budget scorekeepers and the Government Accountability Office",
+    "how": "The budget effects of the law are kept off specified PAYGO scorecards, and GAO must study the actual cost of federal student loan programs and report to Congress."
+   }
+  ],
+  "when_it_takes_effect": "The rate provisions apply to loans first disbursed on or after July 1, 2013, and to consolidation applications received on or after that date.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

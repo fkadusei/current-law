@@ -1,0 +1,20 @@
+{
+ "headline": "This law lets the National Park Service swap about 1.5 acres of federal seashore land in Mississippi for a slightly larger private parcel owned by a local VFW post.",
+ "what_it_does": "The National Park Service may trade roughly 1.542 acres of federal land inside Gulf Islands National Seashore in Jackson County, Mississippi, to VFW Post 5699. In return, the post gives about 2.161 acres of its own land in the county. An independent appraiser sets the values, and a cash payment or acreage change makes up any difference. The post must cover the Park Service's costs, and the land the government receives becomes part of the seashore.",
+ "who_it_affects": [
+  {
+   "group": "Veterans of Foreign Wars Post 5699 in Jackson County, Mississippi",
+   "how": "The post gives up its parcel and receives the federal land, and it must pay or reimburse the Park Service's costs for the exchange."
+  },
+  {
+   "group": "Visitors to Gulf Islands National Seashore",
+   "how": "The seashore gains about 2.161 acres of new land and loses about 1.542 acres, and the exchange is subject to existing valid rights on both parcels."
+  }
+ ],
+ "when_it_takes_effect": "The law took effect on its enactment date, November 20, 2018.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

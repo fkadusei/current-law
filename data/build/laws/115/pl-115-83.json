@@ -3538,5 +3538,32 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "This law lets emergency medical services agencies register directly with the DEA to handle certain controlled drugs, so they can give patients medicine in the field.",
+  "what_it_does": "The law changes the Controlled Substances Act so that an EMS agency can apply to the Drug Enforcement Administration for its own registration to administer controlled substances, if it is authorized to do so under its state's law. One registration can cover all of an agency's locations within a state, instead of one per location. Once registered, EMS professionals can give certain controlled drugs in schedules II through V without a medical director present, if state law allows it and a standing or verbal order is in place. The DEA can deny an application if it finds the registration is inconsistent with the public interest.",
+  "who_it_affects": [
+   {
+    "group": "Emergency medical services agencies",
+    "how": "They can apply for a federal DEA registration that lets them store, deliver, and give controlled substances, with one registration covering all their locations in a state."
+   },
+   {
+    "group": "EMS professionals such as paramedics and EMTs",
+    "how": "They may give certain controlled medications without a medical director on scene, if state law permits and a standing or verbal order applies."
+   },
+   {
+    "group": "Hospital-based EMS agencies",
+    "how": "They may keep using the hospital's existing DEA registration to give controlled substances."
+   },
+   {
+    "group": "Patients who need emergency care",
+    "how": "EMS crews may be able to give certain controlled pain or sedation medications sooner in an emergency, depending on state law and local rules."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

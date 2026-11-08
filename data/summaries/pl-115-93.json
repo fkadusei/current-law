@@ -1,0 +1,28 @@
+{
+ "headline": "This law updates a federal program that lets Indian tribes combine certain employment and training funds into one integrated plan.",
+ "what_it_does": "It renames the 1992 demonstration program as the Indian Employment, Training and Related Services Act and changes which programs tribes may combine. It also changes how federal agencies decide whether to waive rules for a tribe's plan, and how the Department of the Interior approves or rejects plans, including hearing and appeal rights for tribes whose plans are rejected. Funds moved to a tribe under an approved plan count as non-federal money for matching requirements, except for funds run by the Labor and Health and Human Services departments.",
+ "who_it_affects": [
+  {
+   "group": "Federally recognized Indian tribes",
+   "how": "Tribes can combine eligible employment, training, and related service programs into one integrated plan under revised rules and gain appeal rights if the Interior Department rejects their plan."
+  },
+  {
+   "group": "Tribal job training and employment program participants",
+   "how": "People in tribal employment and training programs may be placed in training positions with employers under the revised tribal authority."
+  },
+  {
+   "group": "Bureau of Indian Affairs",
+   "how": "The agency must receive and distribute funds according to approved integration plans."
+  },
+  {
+   "group": "Federal agencies that administer employment and related programs",
+   "how": "They must follow the revised process for granting or denying tribal requests to waive rules needed to carry out an integration plan."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

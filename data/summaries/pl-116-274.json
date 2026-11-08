@@ -1,0 +1,20 @@
+{
+ "headline": "A 2020 law requires NOAA to update its Great Lakes oil spill sensitivity maps at least every seven years.",
+ "what_it_does": "The law directs the National Oceanic and Atmospheric Administration to update its environmental sensitivity index products for each Great Lakes coastal area at least once every seven years. These products are maps or similar tools that show sensitive shoreline resources, so responders can plan before an oil spill happens. The official summary does not describe specific changes to the maps or set a deadline for the first update.",
+ "who_it_affects": [
+  {
+   "group": "Communities and agencies along the Great Lakes shoreline",
+   "how": "They can use the updated maps to see which shoreline areas are sensitive to oil spills."
+  },
+  {
+   "group": "Oil spill responders and emergency planners",
+   "how": "They get maps that are refreshed on a regular seven-year schedule to use when planning for spills."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on December 31, 2020, but the official summary does not give a specific date for the first required update.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

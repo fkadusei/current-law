@@ -1,0 +1,24 @@
+{
+ "headline": "This law directs the VA to check federal land in South Dakota and, if suitable, transfer it to expand the Black Hills National Cemetery.",
+ "what_it_does": "The VA must first complete environmental, cultural, and other checks on certain federal land near the Black Hills National Cemetery in South Dakota. Once the VA confirms the land is suitable, the Interior Department must withdraw it from mining, mineral leasing, and geothermal leasing while it stays under VA control. The land is then transferred from Interior to the VA for use as a national cemetery, except for a strip within 100 feet of the center of the Centennial Trail. The VA pays Interior's reasonable transfer costs, including survey costs, and the cemetery's boundary is enlarged to include the land.",
+ "who_it_affects": [
+  {
+   "group": "Veterans and their families",
+   "how": "The cemetery grows to include additional land for burials of eligible veterans and family members in the Black Hills area."
+  },
+  {
+   "group": "Mining and mineral leasing companies",
+   "how": "The transferred land can no longer be opened to new mining claims, mineral leases, or geothermal leases while it remains under VA control."
+  },
+  {
+   "group": "Public visitors to the Centennial Trail",
+   "how": "The trail corridor within 100 feet of its center is excluded from the transfer and stays under Interior management."
+  }
+ ],
+ "when_it_takes_effect": "The law took effect on enactment, May 25, 2018, but the land transfer happens only after the VA completes its checks and sends written confirmation of suitability to Interior.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

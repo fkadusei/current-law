@@ -3494,5 +3494,15 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2022 law names a planned VA outpatient clinic in Oahu, Hawaii, after the late Senator Daniel Kahikina Akaka.",
+  "what_it_does": "This law gives a planned Department of Veterans Affairs community-based outpatient clinic in Oahu, Hawaii, an official name: the Daniel Kahikina Akaka Department of Veterans Affairs Community-Based Outpatient Clinic. It may also be called the Daniel Kahikina Akaka VA Clinic. The law only sets the name and does not change clinic services, eligibility, or rules.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The naming took effect when the law was enacted on June 7, 2022.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

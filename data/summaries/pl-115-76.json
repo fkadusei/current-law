@@ -1,0 +1,32 @@
+{
+ "headline": "Congress authorized a federal cyber crime training institute and expanded grant programs to help state and local police, prosecutors, and judges fight computer and internet-based crime.",
+ "what_it_does": "The law creates a National Computer Forensics Institute inside the U.S. Secret Service and authorizes it for fiscal years 2017 through 2022. The institute trains state, local, tribal, and territorial police, prosecutors, and judges on investigating cyber and electronic crime and handling digital evidence in court, and it may give those officers computer equipment, software, and tools. It also authorizes Justice Department grants and agreements that help state and local agencies investigate high-tech, economic, and internet-based crimes, including crimes against children.",
+ "who_it_affects": [
+  {
+   "group": "State, local, tribal, and territorial police officers",
+   "how": "They can receive training on cyber and electronic crime investigations and forensic examinations, and may receive computer equipment, software, and tools from the institute."
+  },
+  {
+   "group": "State and local prosecutors",
+   "how": "They can receive training on handling digital evidence and the legal challenges of cyber and electronic crime cases."
+  },
+  {
+   "group": "State and local judges",
+   "how": "They can receive training on how to obtain, process, store, and admit digital evidence in court."
+  },
+  {
+   "group": "State and local criminal justice agencies",
+   "how": "They may receive federal grants or cooperative agreements for training, research, information sharing, and intelligence-focused policing related to high-tech and internet crime."
+  },
+  {
+   "group": "Members of the Secret Service Electronic Crime Task Forces",
+   "how": "The task force network is to expand by adding officers who are trained at the institute."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on November 2, 2017, and the institute is authorized for fiscal years 2017 through 2022.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

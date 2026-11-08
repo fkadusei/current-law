@@ -3539,5 +3539,24 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2022 law limits when federal leases can include bargain-price options to buy federal buildings below fair market value.",
+  "what_it_does": "The law changes the rules for leases of federal buildings. A lease may include an option to buy the property for less than fair market value, but that option can be used only if a later act of Congress specifically allows it. The rule covers lease agreements signed on or after January 1, 2021.",
+  "who_it_affects": [
+   {
+    "group": "General Services Administration and other federal agencies that lease buildings",
+    "how": "They may not exercise a bargain-price purchase option in a federal building lease unless Congress has specifically provided for it in a later law."
+   },
+   {
+    "group": "Private property owners who lease buildings to the federal government",
+    "how": "Leases signed on or after January 1, 2021 with bargain-price purchase options can be exercised only if Congress has specifically authorized them."
+   }
+  ],
+  "when_it_takes_effect": "The rule applies to lease agreements entered into on or after January 1, 2021, and the law was enacted on December 21, 2022.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

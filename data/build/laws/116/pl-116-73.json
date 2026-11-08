@@ -39,5 +39,20 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2019 law reorganizes the federal courts in the Eastern District of Arkansas by reducing its five divisions to three.",
+  "what_it_does": "The law combines the five existing divisions of the Eastern District of Arkansas into three divisions. A division is a geographic part of a federal district where cases are heard. The official summary does not say which counties go into which division or how cases will be assigned.",
+  "who_it_affects": [
+   {
+    "group": "People and businesses with cases in the Eastern District of Arkansas",
+    "how": "The summary says the court's divisions will be consolidated, but it does not describe whether or how this changes where cases are filed or heard."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "low",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

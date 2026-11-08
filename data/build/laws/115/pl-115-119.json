@@ -36,5 +36,20 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This 2018 law directs the Department of Health and Human Services to create a national strategy and an advisory council to support family caregivers.",
+  "what_it_does": "The law requires HHS to develop a National Family Caregiving Strategy that lists recommended actions for recognizing and supporting family caregivers, and to make that strategy publicly available. It also requires HHS to set up a Family Caregiving Advisory Council to advise the department on these issues. The council ends after three years. The official summary does not describe new payments, benefits, or legal rights for caregivers.",
+  "who_it_affects": [
+   {
+    "group": "Family caregivers",
+    "how": "People who provide unpaid care to a relative or friend may see recommendations from the national strategy, but the law itself does not create new money, services, or rights for them."
+   }
+  ],
+  "when_it_takes_effect": "Became law on January 22, 2018. The summary does not list a specific deadline for HHS to issue the strategy or form the council.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

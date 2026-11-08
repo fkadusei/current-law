@@ -1,0 +1,48 @@
+{
+ "headline": "A large omnibus law that changes VA education benefits, health care, claims, home loans, burial rules, and support for women and homeless veterans.",
+ "what_it_does": "This law makes many changes to Department of Veterans Affairs (VA) programs at once. It updates GI Bill education benefits, sets rules for schools that receive veterans' funds, and adds COVID-19 protections for students and trainees. It also changes VA health care scheduling and audits, disability claims, home loans, cemetery grants, and programs for women veterans and homeless veterans.",
+ "who_it_affects": [
+  {
+   "group": "Veterans and service members using GI Bill education benefits",
+   "how": "They get new rules on eligibility, monthly enrollment verification, transfers to dependents, and COVID-19 timing protections, and the Montgomery GI Bill is phased out on September 30, 2030."
+  },
+  {
+   "group": "Schools and training programs that receive VA education funds",
+   "how": "They must meet new requirements on accreditation, disclosures, recruiting practices, and oversight surveys, or risk losing approval for veterans' benefits."
+  },
+  {
+   "group": "Surviving spouses and children of certain service members",
+   "how": "Some become eligible for the Fry Scholarship, and surviving spouses who remarry after age 55 may keep dependency and indemnity compensation."
+  },
+  {
+   "group": "Veterans who need VA health care or scheduling",
+   "how": "VA must set scheduling rules, audit appointment and consult management, and expand some services such as women's health care and prosthetics."
+  },
+  {
+   "group": "Veterans filing VA disability or pension claims",
+   "how": "VA must publish medical exam forms, set a minimum debt threshold before reporting to credit agencies, and take steps against financial exploitation of pension recipients."
+  },
+  {
+   "group": "Veterans and service members with COVID-19 related service or illness",
+   "how": "A presumption of service connection applies to certain COVID-19 cases during qualified periods of duty."
+  },
+  {
+   "group": "Homeless veterans and veterans at risk of homelessness",
+   "how": "VA must expand legal services, case management, per diem rates, and programs that work with HUD-VASH and tribal housing partners."
+  },
+  {
+   "group": "Women veterans",
+   "how": "VA must set up women's health offices, training, call center upgrades, and programs addressing harassment, assault, and intimate partner violence."
+  },
+  {
+   "group": "Families arranging burial or cemetery services for veterans",
+   "how": "VA may pay certain transportation, outer burial receptacle, and inscription costs, and state or tribal cemeteries may get higher operating grants."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted January 5, 2021, but the summary does not give one general start date, so each section sets its own timing, such as the Montgomery GI Bill phase-out on September 30, 2030, and some COVID-19 rules tied to March 1, 2020 through December 21, 2021.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

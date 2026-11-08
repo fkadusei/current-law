@@ -4379,5 +4379,36 @@
   "House": "R",
   "Senate": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "This law changes early retirement withdrawal penalties for certain public safety workers and sets rules for future U.S. trade deals.",
+  "what_it_does": "For distributions made after December 31, 2015, it expands the exemption from the 10% early withdrawal tax for workers who leave government retirement plans at age 50 or older, adds certain federal law enforcement officers, customs and border protection officers, federal firefighters, and air traffic controllers, and extends the exemption to defined contribution and other government plans, not only defined benefit plans. It also sets trade negotiating objectives, lets the President enter trade agreements before July 1, 2018 (or 2021 if trade procedures are extended), and requires congressional consultation, notice, and approval steps. The trade title also creates a Chief Transparency Officer in the Office of the U.S. Trade Representative and declares that any trade agreement provision inconsistent with U.S. law is void.",
+  "who_it_affects": [
+   {
+    "group": "Federal law enforcement officers, customs and border protection officers, federal firefighters, and air traffic controllers who are age 50 or older",
+    "how": "They can take distributions from government retirement plans without the 10% early withdrawal penalty."
+   },
+   {
+    "group": "Public safety employees in governmental retirement plans, including defined contribution plans",
+    "how": "They can take penalty-free distributions from these plans, not only from defined benefit plans, once they reach age 50."
+   },
+   {
+    "group": "U.S. Trade Representative's office and the President",
+    "how": "They must follow the new negotiating objectives, consultation and notice rules, and deadlines before trade agreements take effect."
+   },
+   {
+    "group": "Members of Congress",
+    "how": "They receive advisory group roles, approval steps, and disapproval resolution procedures for trade agreements."
+   },
+   {
+    "group": "Small businesses that export or want to enter international markets",
+    "how": "The law expresses a sense of Congress that the U.S. Trade Representative should help them take part in trade negotiations."
+   }
+  ],
+  "when_it_takes_effect": "The retirement provisions apply to distributions made after December 31, 2015, and the trade authority runs until July 1, 2018, or July 1, 2021, depending on extensions.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

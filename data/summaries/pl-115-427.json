@@ -1,0 +1,24 @@
+{
+ "headline": "This law updates how the U.S. ranks countries on human trafficking and bars federal grant and contract recipients from charging workers certain recruitment fees.",
+ "what_it_does": "The law changes the rules the State Department uses to rate countries on fighting human trafficking, and it requires the State Department to explain why a country's rank changed from the year before. It also requires action plans for certain countries and notice to foreign governments when they are downgraded. Federal agencies must limit grants and contracts to entities that do not engage in listed trafficking-related activities, and charging employees placement or recruitment fees is now one of those prohibited activities, where before reasonable fees were allowed. The Treasury Department must also direct U.S. representatives at multilateral development banks to push anti-trafficking policies.",
+ "who_it_affects": [
+  {
+   "group": "Workers recruited for jobs by federal grant or contract recipients",
+   "how": "Entities receiving federal grants or contracts can no longer charge these workers placement or recruitment fees, even reasonable ones."
+  },
+  {
+   "group": "Organizations that hold federal grants or contracts",
+   "how": "They must avoid the listed trafficking-related activities, including charging recruitment fees, to remain eligible for federal funding."
+  },
+  {
+   "group": "Governments of countries ranked in the State Department's trafficking report",
+   "how": "Their rankings are assessed under revised criteria, and they receive written explanations of rank changes and, when downgraded, a copy of the report and the implications of their status."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

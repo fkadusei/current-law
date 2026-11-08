@@ -1,0 +1,24 @@
+{
+ "headline": "This 2018 law pauses Coast Guard efforts to require biometric card readers for transportation worker ID cards until DHS completes a required review.",
+ "what_it_does": "The law stops the Coast Guard from putting into effect a rule about TWIC card readers, and from proposing or issuing a rule that would require biometric readers for these cards. The pause lasts until 60 days after the Department of Homeland Security sends Congress an assessment of the card program. DHS must also report to Congress on how the program is being carried out within 30 days of enactment and then every 90 days until the assessment is finished.",
+ "who_it_affects": [
+  {
+   "group": "Transportation workers who hold Transportation Worker Identification Credential (TWIC) cards",
+   "how": "They will not be required to use biometric card readers under the Coast Guard rule while the pause is in effect."
+  },
+  {
+   "group": "Owners and operators of maritime facilities and vessels that use TWIC card readers",
+   "how": "They will not have to add biometric readers under the Coast Guard rule while the pause is in effect."
+  },
+  {
+   "group": "Department of Homeland Security",
+   "how": "It must send Congress regular progress reports and a completed assessment of the transportation security card program."
+  }
+ ],
+ "when_it_takes_effect": "The law took effect on August 2, 2018, when it was enacted; the pause on the Coast Guard rule ends 60 days after DHS submits the required assessment to Congress.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

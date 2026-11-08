@@ -3515,5 +3515,32 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2018 law changes one requirement for the Coltsville National Historical Park in Connecticut, tying its creation to a written donation agreement for part of the Colt Armory.",
+  "what_it_does": "The law revises a condition for establishing Coltsville National Historical Park in Connecticut. Under the revised condition, the state, the city, or the private property owner, as appropriate, must enter a written agreement with the Department of the Interior. That agreement must commit to donating at least 10,000 square feet of space in the Colt Armory Complex, also called the East Armory. The title says the law is meant to help add park administration at the site.",
+  "who_it_affects": [
+   {
+    "group": "National Park Service and the Department of the Interior",
+    "how": "The department must enter into a written agreement that makes the donated space available as part of the park."
+   },
+   {
+    "group": "State of Connecticut",
+    "how": "If the state owns the relevant property, it must sign a written agreement to donate at least 10,000 square feet of the Colt Armory Complex."
+   },
+   {
+    "group": "City government where the park is located",
+    "how": "If the city owns the relevant property, it must sign a written agreement to donate at least 10,000 square feet of the Colt Armory Complex."
+   },
+   {
+    "group": "Private owner of the Colt Armory property",
+    "how": "If a private owner holds the relevant property, that owner must sign a written agreement to donate at least 10,000 square feet of the Colt Armory Complex."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted January 10, 2018. The official summary does not list a separate start date or deadline for the donation agreement.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

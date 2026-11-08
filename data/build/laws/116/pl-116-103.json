@@ -3541,5 +3541,28 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "This law requires the federal government to set common data standards for grant recipients' reports and publish that data on one public website.",
+  "what_it_does": "The law directs the Office of Management and Budget, working with the federal department that awards the most grants, to create government-wide data standards for information grant recipients report. It tells federal agencies to apply those standards, and each agency must make sure its future information collection requests use them. The recipient-reported data from all agencies must then be published on a single public website.",
+  "who_it_affects": [
+   {
+    "group": "Federal grant recipients",
+    "how": "Organizations that receive federal grants will need to report information using the new government-wide data standards."
+   },
+   {
+    "group": "Federal agencies that award grants",
+    "how": "Agencies must follow OMB guidance and use the standards in future information collection requests."
+   },
+   {
+    "group": "Members of the public",
+    "how": "Grant reporting data from all agencies will be available to view on one public website."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -1,0 +1,28 @@
+{
+ "headline": "This law requires the VA to post a warning about financial scams aimed at veterans who get increased pension for needing aid and attendance, and orders a GAO study on financial exploitation of veterans.",
+ "what_it_does": "The Department of Veterans Affairs must put a warning on its website about dishonest, predatory, or unlawful practices that target veterans eligible for increased pension based on their need for regular aid and attendance. The Government Accountability Office must study financial exploitation of veterans, including the types of exploitation they face, gaps in current efforts, and the standards federal and state agencies use to protect vulnerable people. The GAO must send Congress a preliminary report and a final report.",
+ "who_it_affects": [
+  {
+   "group": "Veterans who receive or may apply for increased pension for need of regular aid and attendance",
+   "how": "They will see a VA website warning about scams and unlawful practices aimed at people in their situation."
+  },
+  {
+   "group": "Veterans in general",
+   "how": "They are the focus of a federal study that will look at how they are financially exploited and where protections fall short."
+  },
+  {
+   "group": "Families and caregivers of veterans who need aid and attendance",
+   "how": "They may use the VA warning and the study's findings when watching for financial exploitation of a veteran they help."
+  },
+  {
+   "group": "Federal and state agencies that protect vulnerable adults",
+   "how": "They may be reviewed in the GAO study, which will compare the standards they use to guard against financial exploitation."
+  }
+ ],
+ "when_it_takes_effect": "Enacted March 9, 2018. The official summary does not list other specific deadlines for the website warning or the GAO reports.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

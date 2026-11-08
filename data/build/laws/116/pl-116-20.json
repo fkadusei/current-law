@@ -4351,5 +4351,28 @@
   "House": "D",
   "Senate": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2019 law gives emergency funding to many federal agencies to help with damage from wildfires, hurricanes, earthquakes, and other natural disasters, and extends the National Flood Insurance Program.",
+  "what_it_does": "The law provides supplemental money for fiscal year 2019 to 17 federal departments and agencies to cover costs from recent natural disasters. The money is labeled as emergency spending, which means it is exempt from certain budget limits and enforcement rules. The law also extends the National Flood Insurance Program through September 30, 2019.",
+  "who_it_affects": [
+   {
+    "group": "People and communities affected by recent wildfires, hurricanes, earthquakes, volcanoes, and typhoons",
+    "how": "Federal agencies receive added funding that can be used for disaster-related costs in these areas."
+   },
+   {
+    "group": "Homeowners and property owners in flood-prone areas",
+    "how": "The National Flood Insurance Program is extended through September 30, 2019, so flood policies can continue to be issued or renewed during that time."
+   },
+   {
+    "group": "Federal agencies such as the Forest Service, Army Corps of Engineers, FEMA-related programs, and Department of Veterans Affairs",
+    "how": "Each receives supplemental appropriations to spend on disaster-related expenses."
+   }
+  ],
+  "when_it_takes_effect": "Enacted June 6, 2019; the flood insurance extension runs through September 30, 2019.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

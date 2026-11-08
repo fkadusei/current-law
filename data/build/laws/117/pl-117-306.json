@@ -36,5 +36,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A federal law renames a Michigan post office building in Bloomfield Township after Dr. Ezra S. Parke.",
+  "what_it_does": "This act officially names the U.S. Postal Service facility at 2050 South Boulevard in Bloomfield Township, Michigan, the Dr. Ezra S. Parke Post Office Building. It is a naming measure only and does not change how the post office operates or what services it provides.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law was enacted on December 27, 2022, and the designation took effect at that time.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

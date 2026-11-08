@@ -36,5 +36,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law requires the Government Accountability Office to study how federal agencies address barriers that keep underrepresented groups out of federally funded cancer clinical trials.",
+  "what_it_does": "The Government Accountability Office, a nonpartisan federal watchdog agency, must complete a study. The study reviews how federal agencies deal with barriers that keep people from underrepresented populations from taking part in federally funded cancer clinical trials. The office must also give recommendations for reducing those barriers. The summary does not describe any new rules for trials themselves.",
+  "who_it_affects": [
+   {
+    "group": "Government Accountability Office",
+    "how": "The agency must complete a study and produce recommendations on this topic."
+   },
+   {
+    "group": "Federal agencies that fund cancer research",
+    "how": "Their methods for handling barriers to trial participation are the subject of the review and may be the subject of the recommendations."
+   },
+   {
+    "group": "People from underrepresented populations who could join federally funded cancer trials",
+    "how": "The study focuses on the barriers they face, but the law does not itself change how they can enroll in trials."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on January 5, 2021. The summary does not give a deadline for the study.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

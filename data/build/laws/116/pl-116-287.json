@@ -39,5 +39,24 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law directs the Federal Trade Commission to warn the public about COVID-19 scams and set up a national database of them.",
+  "what_it_does": "The bill requires the Federal Trade Commission (FTC) to work with other relevant agencies to inform the public about scams related to COVID-19 that come through the mail, by phone calls from telemarketers, or over the internet. The FTC must set up a national database to collect information about these scams. The agency must also share information on how people can report COVID-19-related scams to the right government office.",
+  "who_it_affects": [
+   {
+    "group": "Consumers and the general public",
+    "how": "People can get information about COVID-19-related scams and learn where to report them."
+   },
+   {
+    "group": "People targeted by mail, phone, or online scams",
+    "how": "They gain a central place to find out about these scams and how to report them to the proper agency."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

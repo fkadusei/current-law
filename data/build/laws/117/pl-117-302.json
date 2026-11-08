@@ -36,5 +36,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2022 law requires the Department of Veterans Affairs to get an outside cybersecurity review of five high-impact systems and report how it will address the findings.",
+  "what_it_does": "The law directs the VA to seek an agreement with a federally funded research and development center to assess five of its high-impact information systems. The assessment also covers how well the VA's overall information security program and management system work. The VA must then send Congress a plan to address the findings. The Government Accountability Office must review both the assessment and the VA's response and report its conclusions to Congress.",
+  "who_it_affects": [
+   {
+    "group": "Veterans",
+    "how": "Their information stored in the five VA systems covered by the assessment is the data the review is meant to protect, though the summary does not describe specific changes to their services."
+   },
+   {
+    "group": "VA information technology and security staff",
+    "how": "They must support the outside cybersecurity assessment and help the department prepare a plan responding to its findings."
+   },
+   {
+    "group": "Federally funded research and development centers",
+    "how": "They may be selected through an agreement with the VA to carry out the cybersecurity assessment."
+   },
+   {
+    "group": "Members of Congress",
+    "how": "They will receive the VA's assessment-response plan and the Government Accountability Office's review findings."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted December 27, 2022. The official summary does not list other specific deadlines beyond the required agreement, plan, and review steps.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

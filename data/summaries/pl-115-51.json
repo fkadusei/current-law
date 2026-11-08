@@ -1,0 +1,28 @@
+{
+ "headline": "Lets a private foundation build a national memorial in Washington, D.C., honoring service members who served in the Global War on Terrorism, using only private money.",
+ "what_it_does": "The law allows the Global War on Terror Memorial Foundation to establish a national memorial on federal land in the District of Columbia. The memorial must follow the Commemorative Works Act, which sets the rules for memorials in the capital. Federal money cannot be used for any memorial costs. The Foundation must raise the money, pay the expenses, and send any leftover funds to the National Park Foundation after the memorial is paid for or its legal authority expires.",
+ "who_it_affects": [
+  {
+   "group": "Members of the Armed Forces who served on active duty in the Global War on Terrorism",
+   "how": "They are the group the memorial is meant to honor."
+  },
+  {
+   "group": "The Global War on Terror Memorial Foundation",
+   "how": "It is given the authority to build the memorial and is solely responsible for raising and paying its costs."
+  },
+  {
+   "group": "The National Park Foundation",
+   "how": "It may receive any leftover memorial funds once the project is paid for or its authority ends."
+  },
+  {
+   "group": "Taxpayers",
+   "how": "Federal funds may not be used to pay the memorial's establishment expenses."
+  }
+ ],
+ "when_it_takes_effect": "Enacted August 18, 2017, with the memorial to be established under the terms of the act.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

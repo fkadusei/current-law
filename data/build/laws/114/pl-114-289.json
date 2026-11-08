@@ -39,5 +39,48 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2016 law that sets up a national park fund, expands senior park passes, adds park volunteer and youth programs, and changes several park and historic preservation rules.",
+  "what_it_does": "The law creates a Centennial Challenge Fund that uses extra park pass sales money for park projects, but only when nonfederal donors match it dollar for dollar. It makes lifetime and discounted National Parks passes available to adults age 62 and older, and it sets up a Second Century Endowment run by the National Park Foundation. It also lets the Interior Department give some park commercial services to private companies through competitive contracts lasting up to 10 years, and it extends the Historic Preservation Fund through FY2023.",
+  "who_it_affects": [
+   {
+    "group": "Adults age 62 and older",
+    "how": "They can buy a National Parks pass at a reduced price, including a lifetime pass, and may get a free pass after buying a 12-month pass for four straight years."
+   },
+   {
+    "group": "Frequent national park visitors",
+    "how": "Park projects and visitor facilities may be improved with money from pass sales and matching donations."
+   },
+   {
+    "group": "Young adults in the Public Lands Corps",
+    "how": "The program's age limit rose from 25 to 30, and former participants can use noncompetitive federal hiring status for two years instead of 120 days."
+   },
+   {
+    "group": "Park volunteers and interpretive partners",
+    "how": "The law increases funding for the Volunteers-In-Parks Program and lets the Park Service train partner groups that lead park education programs."
+   },
+   {
+    "group": "Companies that run commercial services in national parks",
+    "how": "Interior can award them contracts for visitor facilities and services without some standard federal procurement rules, using a competitive process and terms of up to 10 years."
+   },
+   {
+    "group": "National Park Foundation",
+    "how": "The group gets a new endowment account, a reauthorization through FY2023, and a requirement to consult the Park Service director on gift activities."
+   },
+   {
+    "group": "Tribal Historic Preservation Officers",
+    "how": "The General Chairman of the National Association of Tribal Historic Preservation Officers joins the Advisory Council on Historic Preservation."
+   },
+   {
+    "group": "Federal agencies that nominate properties for the National Register of Historic Places",
+    "how": "Their nominations must follow the nomination requirements set out in the law."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on December 16, 2016. Some parts start later, such as the Advisory Council chairman rules that apply after January 20, 2017, and the Interior contracting authority in Title VII expires seven years after enactment.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

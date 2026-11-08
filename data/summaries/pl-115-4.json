@@ -1,0 +1,20 @@
+{
+ "headline": "Congress used a joint resolution to cancel a 2016 SEC rule requiring oil, gas, and mining companies to publicly report payments made to governments.",
+ "what_it_does": "This joint resolution overturns a rule the Securities and Exchange Commission finalized on July 27, 2016. That rule would have required companies that extract oil, natural gas, or minerals and file with the SEC to disclose payments they make to governments for commercial development. The rule was required by the Dodd-Frank financial law, and this resolution nullifies it, so the disclosure requirement does not take effect.",
+ "who_it_affects": [
+  {
+   "group": "Oil, natural gas, and mining companies that file reports with the SEC (resource extraction issuers)",
+   "how": "They are not required to disclose, under this rule, the payments they make to governments for developing oil, gas, or mineral resources."
+  },
+  {
+   "group": "Investors and members of the public who would have viewed these payment reports",
+   "how": "The public reporting of government payments by these companies, which the canceled rule would have required, will not be available through this rule."
+  }
+ ],
+ "when_it_takes_effect": "The resolution took effect when it was enacted on February 14, 2017.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

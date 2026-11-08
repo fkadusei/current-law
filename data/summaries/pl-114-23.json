@@ -1,0 +1,32 @@
+{
+ "headline": "The USA FREEDOM Act of 2015 limits how the government collects phone and business records for intelligence work, adds oversight and transparency rules, and extends several surveillance authorities.",
+ "what_it_does": "The law ends bulk collection of phone call records by requiring the FBI to use a specific selection term, such as a named person, account, or device, before asking for records. It sets a 180-day limit on ongoing call record orders, limits searches to two hops, and requires quick destruction of unneeded records. It also adds a court amicus process, requires more public reporting on surveillance orders and national security letters, and extends certain surveillance authorities to December 15, 2019.",
+ "who_it_affects": [
+  {
+   "group": "Telephone and internet service providers",
+   "how": "They must produce records only under orders that name a specific selection term, and they can now challenge nondisclosure orders sooner and get reimbursed for reasonable production costs."
+  },
+  {
+   "group": "People who make phone calls in the United States",
+   "how": "The government may no longer hold broad bulk collections of their phone call records, and any records it does obtain must be tied to a specific selection term and destroyed if not relevant to foreign intelligence."
+  },
+  {
+   "group": "FBI and other federal intelligence agencies",
+   "how": "They must follow new application standards, use specific selection terms, meet minimization rules, and report more information to Congress and the public."
+  },
+  {
+   "group": "Recipients of national security letters",
+   "how": "They can challenge the requests or related gag orders in court under modified procedures, and the government must justify certain nondisclosure requirements."
+  },
+  {
+   "group": "Foreign Intelligence Surveillance Court judges and parties",
+   "how": "The court must appoint amicus curiae in cases raising novel legal questions and must publish significant opinions, subject to redactions."
+  }
+ ],
+ "when_it_takes_effect": "Most of the tangible things amendments took effect 180 days after enactment on June 2, 2015, and other provisions took effect on their own schedules, while certain surveillance authorities extend to December 15, 2019.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

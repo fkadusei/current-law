@@ -36,5 +36,24 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2013 law sets the exact size of the metal disks used to make National Baseball Hall of Fame commemorative coins.",
+  "what_it_does": "It changes the National Baseball Hall of Fame Commemorative Coin Act so that the gold and silver coins honoring the Hall of Fame must be made from blanks, called planchets, of specified diameters. The summary does not give the exact measurements. It only changes a technical production rule for these coins.",
+  "who_it_affects": [
+   {
+    "group": "The U.S. Mint",
+    "how": "It must make the commemorative gold and silver Hall of Fame coins using blanks of the size the law specifies."
+   },
+   {
+    "group": "Coin collectors who buy commemorative coins",
+    "how": "Hall of Fame commemorative coins produced under this rule will have the specified physical size."
+   }
+  ],
+  "when_it_takes_effect": "The summary does not state an effective date. The law was enacted on May 17, 2013.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

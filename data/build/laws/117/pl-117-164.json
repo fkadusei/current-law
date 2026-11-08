@@ -3523,5 +3523,24 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2022 federal law lets immediate family of certain murder victims ask for a review of the case file in unsolved federal cases.",
+  "what_it_does": "The law sets up a process for immediate family members of a murder victim to request a review of the victim's case file. It applies only when the murder was investigated by a federal law enforcement agency, happened more than three years earlier, all useful investigative leads have been used up, and no likely perpetrator has been identified. The official summary does not describe the specific steps or deadlines of the review.",
+  "who_it_affects": [
+   {
+    "group": "Immediate family members of murder victims in federal cases",
+    "how": "They can ask for a review of the case file if the murder is more than three years old and meets the law's other conditions."
+   },
+   {
+    "group": "Federal law enforcement agencies",
+    "how": "They may have to review case files when a qualifying family member makes a request."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on August 3, 2022. The official summary does not describe a separate effective date.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

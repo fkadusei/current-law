@@ -39,5 +39,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law lets veterinarians who already hold a federal controlled-substance registration treat animals at off-site locations without getting a separate registration for each site.",
+  "what_it_does": "The law changes the Controlled Substances Act, which governs drugs like certain pain medicines and sedatives. Before, a registered veterinarian who wanted to carry and give these drugs away from their main office could be required to hold a separate registration. Now that separate registration is not required, as long as the off-site location is in a state where the veterinarian is licensed and is not another main place of practice.",
+  "who_it_affects": [
+   {
+    "group": "Veterinarians who hold federal controlled-substance registrations",
+    "how": "They can transport and dispense controlled substances at other sites, such as farms or animal shelters, without needing a separate registration for each site."
+   },
+   {
+    "group": "Mobile and traveling veterinary practices",
+    "how": "They can carry controlled substances to animal patients away from their main office under the existing registration, as long as the sites are in states where they are licensed."
+   },
+   {
+    "group": "Pet owners and livestock owners",
+    "how": "Animals treated at off-site locations may receive controlled-substance medicines from a veterinarian working at those sites."
+   }
+  ],
+  "when_it_takes_effect": "The law took effect on August 1, 2014, the date it was enacted.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

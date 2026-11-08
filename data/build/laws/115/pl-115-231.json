@@ -36,5 +36,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2018 law that updates U.S. policy statements toward Zimbabwe and changes how certain U.S. aid and debt efforts are handled.",
+  "what_it_does": "The law revises the official U.S. policy statements about Zimbabwe, including support for reconciliation and inquiries into past human rights abuses and disappearances. It urges the Treasury Department to push multilateral development banks to reconsider Zimbabwe's debt. It removes some conditions for U.S. multilateral aid and some land reform cost-sharing authority, and adds authority for aid to identify and recover stolen public assets.",
+  "who_it_affects": [
+   {
+    "group": "Government of Zimbabwe",
+    "how": "It faces revised U.S. policy conditions for a stronger relationship and changed conditions for receiving multilateral assistance."
+   },
+   {
+    "group": "Former Zimbabwean commercial farmers and agricultural companies",
+    "how": "The law urges enforcement of certain 2007 to 2010 SADC tribunal rulings in their disputes over dispossessed land."
+   },
+   {
+    "group": "Zimbabwean human rights activists and families of people who disappeared",
+    "how": "The law expresses U.S. support for inquiries into past disappearances, including those of human rights activists."
+   },
+   {
+    "group": "U.S. Treasury Department and U.S. executive directors at multilateral development banks",
+    "how": "They are urged to support reevaluating Zimbabwe's sovereign debt held by those banks."
+   }
+  ],
+  "when_it_takes_effect": "The summary does not state a specific effective date; it was enacted on August 8, 2018.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

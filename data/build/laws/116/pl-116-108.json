@@ -39,5 +39,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2020 law creates a federal Nonprofit Security Grant Program that gives FEMA-run grants to eligible nonprofits for security upgrades against terrorist attacks.",
+  "what_it_does": "The law sets up a Nonprofit Security Grant Program within the Department of Homeland Security. The Federal Emergency Management Agency (FEMA) makes the grants. The money can pay for target hardening, which means physical security improvements, and other steps to protect against terrorist attacks.",
+  "who_it_affects": [
+   {
+    "group": "Tax-exempt nonprofit organizations",
+    "how": "They can apply for federal grants to pay for security improvements such as hardening their buildings or sites."
+   },
+   {
+    "group": "Nonprofits determined to be at risk of a terrorist attack",
+    "how": "Even if they are not tax-exempt, they may qualify for the same security grants if they are judged to face such a risk."
+   },
+   {
+    "group": "FEMA and the Department of Homeland Security",
+    "how": "They must set up and run the grant program and decide which eligible organizations receive funds."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on January 24, 2020. The official summary does not give a separate start date for the grant program.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

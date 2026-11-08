@@ -1,0 +1,52 @@
+{
+ "headline": "This law keeps federal agencies funded through December 18, 2020, and extends several expiring Medicare, Medicaid, and public health programs.",
+ "what_it_does": "Division A is a continuing resolution that gives federal agencies money for fiscal year 2021 through December 18, 2020, so the government does not shut down when the prior funding expires on December 11, 2020. Division B extends a number of health programs that were set to expire, including Medicare physician payment adjustments, Medicare counseling and outreach funding, Medicaid community behavioral health clinic demonstrations, and community health centers. Title III also changes some rules, such as requiring Medicare enrollment information to be shared with liability insurers and directing the DEA to revise rules on short-term narcotic dispensing for withdrawal symptoms. Title IV exempts the bill's budget effects from certain pay-as-you-go budget rules.",
+ "who_it_affects": [
+  {
+   "group": "Federal agencies and their employees",
+   "how": "They receive continued funding through December 18, 2020, so operations can continue without a shutdown."
+  },
+  {
+   "group": "Medicare physicians",
+   "how": "Certain minimum adjustments to physician payments under Medicare are extended."
+  },
+  {
+   "group": "Medicare beneficiaries and people seeking Medicare counseling",
+   "how": "State health insurance assistance programs and area agencies on aging receive continued funding for counseling and outreach."
+  },
+  {
+   "group": "Medicaid enrollees receiving home- and community-based services",
+   "how": "Spousal impoverishment protections are extended, and the Money Follows the Person program that helps shift care from institutions to home settings is extended."
+  },
+  {
+   "group": "Community health centers and their patients",
+   "how": "Federal funding for community health centers, teaching health centers, and the National Health Service Corps is extended."
+  },
+  {
+   "group": "Patients with Type I diabetes and Native Americans with diabetes",
+   "how": "Research grants for Type I diabetes and diabetes prevention and treatment services for Native Americans are extended."
+  },
+  {
+   "group": "Medicare Advantage and prescription drug plan enrollees",
+   "how": "Their enrollment information may be shared with liability insurers when those insurers make Medicare secondary payer inquiries about a claimant."
+  },
+  {
+   "group": "Patients in acute opioid withdrawal and their practitioners",
+   "how": "The DEA must revise rules so practitioners can dispense up to a three-day supply of narcotic drugs at one time while patients await longer-term treatment."
+  },
+  {
+   "group": "Drug manufacturers seeking rare pediatric disease approvals",
+   "how": "The FDA's authority to grant priority review vouchers for rare pediatric disease drug applications is extended."
+  },
+  {
+   "group": "States with Medicaid mechanized claims systems",
+   "how": "Additional funds become available beginning in fiscal year 2025 for state activities related to these systems."
+  }
+ ],
+ "when_it_takes_effect": "The continuing appropriations take effect when the bill is enacted on December 11, 2020, and fund agencies through December 18, 2020. Many health extensions and other provisions run for set periods described in the bill, and the DEA rule revision and some funding changes have their own timelines.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

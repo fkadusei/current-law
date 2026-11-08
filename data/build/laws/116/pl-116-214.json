@@ -36,5 +36,44 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2020 law that expands Department of Veterans Affairs programs on transition help, suicide prevention, mental health, exams, and care for women veterans.",
+  "what_it_does": "The law sets up a two-year pilot for the VA to share information with designated people about benefits veterans can get. It requires the VA to pay for emergency suicide care, including transportation, and to check eligibility for other VA benefits afterward. It also directs the VA to encourage veterans who have not used VA care recently to get physical, mental health, eye, and hearing exams, and it allows travel help for rural veterans. Other parts require suicide-prevention training for VA police, reports on the Solid Start outreach program and on services for homeless women veterans, and a task force on using outdoor spaces for veteran therapy.",
+  "who_it_affects": [
+   {
+    "group": "Veterans in their first year after leaving the military",
+    "how": "The VA must report each year on its Solid Start outreach program, which serves this group, though the reports must leave out personal information."
+   },
+   {
+    "group": "Veterans who need emergency mental health or suicide care",
+    "how": "The VA must furnish or pay for emergency suicide care at VA or non-VA facilities, including transportation, and must arrange follow-up referrals."
+   },
+   {
+    "group": "Enrolled veterans who have not received VA-paid care in the past two years",
+    "how": "The VA must try to contact them to encourage comprehensive physical, mental health, eye, and hearing exams, and may pay their travel costs if they live in rural areas."
+   },
+   {
+    "group": "Rural veterans",
+    "how": "The VA may pay for travel to exam sites and must seek agreements with nonprofit groups to provide shuttle rides."
+   },
+   {
+    "group": "Family members and caregivers of veterans with mental health disorders",
+    "how": "The VA must create a four-year education and training program for them."
+   },
+   {
+    "group": "Women veterans, including those who are homeless or at risk of losing housing",
+    "how": "The VA must study its housing assistance programs for these women and report each year on how women veterans use VA health care."
+   },
+   {
+    "group": "VA police officers and local partners",
+    "how": "Officers must get annual suicide-prevention training, and each VA police force must plan partnerships with local mental health, veterans, criminal justice, and police groups."
+   }
+  ],
+  "when_it_takes_effect": "Signed into law on December 5, 2020. Some parts set their own timelines, such as a two-year pilot program, five years of annual reports, and a four-year education program, and the summary does not give start dates for every section.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -3515,5 +3515,24 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "This law requires USAID to report to Congress each year for four years on how it develops and uses new global health innovations.",
+  "what_it_does": "The law directs the U.S. Agency for International Development (USAID) to send annual reports to Congress for four years. The reports cover USAID's health product development goals and progress, how innovation supports goals like ending preventable child and maternal deaths and protecting communities from infectious diseases, how USAID uses partnerships and U.S. investments to drive health innovation, and how USAID coordinates with other federal departments.",
+  "who_it_affects": [
+   {
+    "group": "USAID and its global health staff",
+    "how": "The agency must prepare and submit a yearly report on its health innovation work for four years."
+   },
+   {
+    "group": "Members of Congress",
+    "how": "They receive annual reports that describe USAID's global health innovation activities and progress."
+   }
+  ],
+  "when_it_takes_effect": "Enacted January 3, 2019; the reports are required annually for four years after enactment.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -1,0 +1,20 @@
+{
+ "headline": "A 2014 law lets federal energy regulators revive and transfer two expired hydroelectric project licenses in Canton, Connecticut, to the town if requested.",
+ "what_it_does": "The law allows the Federal Energy Regulatory Commission, at the town's request, to reinstate either or both expired licenses for projects 10822 and 10823. It also lets FERC extend the construction start deadline by two years after reinstatement and transfer the license to the Town of Canton if the transfer is shown to be in the public interest. The transfer must include conditions to protect, mitigate, and enhance fish, wildlife, and their habitat, and FERC must update its environmental review with new information.",
+ "who_it_affects": [
+  {
+   "group": "Town of Canton, Connecticut",
+   "how": "The town can ask FERC to reinstate the licenses and, if approved, take over the licenses for the two projects."
+  },
+  {
+   "group": "Fish and wildlife in the affected waterways",
+   "how": "Any transfer must include conditions to protect, mitigate, and enhance fish, wildlife, and related habitat."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on June 30, 2014, but reinstatement, deadline extensions, and license transfer happen only when FERC acts on the town's request.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

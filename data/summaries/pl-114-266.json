@@ -1,0 +1,28 @@
+{
+ "headline": "This law requires the State and Defense Departments to write a five-year plan for helping Nigeria and its neighbors counter the Boko Haram militant group.",
+ "what_it_does": "The law directs the Department of State and the Department of Defense to create and send to Congress a five-year strategy for countering Boko Haram in Nigeria and the surrounding region. The strategy must cover military training and capacity, humanitarian aid for affected civilians, human rights and rule-of-law efforts, countering violent extremism, and school security. The Director of National Intelligence must also assess whether Nigeria and regional partners are willing and able to carry out the plan. The law also states that Congress believes economic opportunity and access to education and justice help reduce recruitment by Boko Haram.",
+ "who_it_affects": [
+  {
+   "group": "Civilians in northeastern Nigeria and neighboring countries affected by Boko Haram",
+   "how": "The strategy must include humanitarian support for people harmed by the group's violence."
+  },
+  {
+   "group": "Members of the Multinational Joint Task Force to Combat Boko Haram",
+   "how": "The strategy is meant to help these partner nations build military capacity and improve how they handle human rights investigations."
+  },
+  {
+   "group": "Nigerian security forces",
+   "how": "The plan must address investigating and prosecuting human rights abuses by security forces and strengthening rule of law within the military."
+  },
+  {
+   "group": "Schools in Nigeria",
+   "how": "The strategy must include efforts to strengthen school security in Nigeria."
+  }
+ ],
+ "when_it_takes_effect": "The law took effect when it was signed on December 14, 2016, and the strategy is due to Congress after that; the source summary does not give an exact deadline.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

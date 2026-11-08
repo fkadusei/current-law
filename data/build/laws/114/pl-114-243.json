@@ -3520,5 +3520,15 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2016 law renames the VA community clinic in Pueblo, Colorado, after Army Private First Class James Dunn.",
+  "what_it_does": "This law officially names the Department of Veterans Affairs community-based outpatient clinic in Pueblo, Colorado, the \"PFC James Dunn VA Clinic.\" It is a naming measure only. It does not change the clinic's services, staffing, funding, or hours.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law was enacted on October 7, 2016, and the new name took effect on that date.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

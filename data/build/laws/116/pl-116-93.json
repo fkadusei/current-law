@@ -4355,5 +4355,56 @@
   "House": "D",
   "Senate": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "Congress provided about a year of funding for many federal departments in FY2020, including Defense, Justice, Commerce, Treasury, science agencies, the courts, and Homeland Security.",
+  "what_it_does": "This law is a large spending bill that combines four of the twelve regular FY2020 appropriations bills into one act. It sets how much money certain federal departments and agencies may spend during fiscal year 2020, and it includes many rules on how that money can and cannot be used. It also includes disaster relief money for damage from Hurricanes Michael and Florence and from flooding and earthquakes in 2019.",
+  "who_it_affects": [
+   {
+    "group": "Active-duty and reserve military members and National Guard members",
+    "how": "Their pay, training, and operations are funded by the Defense appropriations in this law."
+   },
+   {
+    "group": "Federal employees at Defense, Justice, Commerce, Treasury, Homeland Security, and related agencies",
+    "how": "Their agencies receive their FY2020 budgets, and several sections limit pay, travel, and certain personnel actions."
+   },
+   {
+    "group": "Federal taxpayers",
+    "how": "The IRS receives funding and must follow new rules on taxpayer rights, help line service, and protecting taxpayer information."
+   },
+   {
+    "group": "Veterans and military families",
+    "how": "The law funds Fisher House grants for families of seriously ill or injured military beneficiaries and limits some education benefit payments for certain Army students."
+   },
+   {
+    "group": "Federal contractors and suppliers",
+    "how": "Many contracts must meet Buy American rules, and certain contractors face limits on award fees, tax-delinquency checks, and Made in America label rules."
+   },
+   {
+    "group": "Small businesses and Native American-owned enterprises",
+    "how": "Set-aside amounts for the SBIR and STTR programs and incentive payments for Native American-owned contractors are funded through this law."
+   },
+   {
+    "group": "Residents of the District of Columbia",
+    "how": "The law provides federal and local funds for D.C. courts, schools, and services and sets rules on how D.C. may use funds."
+   },
+   {
+    "group": "People in federal prisons and people involved in federal criminal cases",
+    "how": "DOJ funding covers prisons, prosecutions, and grants, and includes limits on prison purchases and certain program expenses."
+   },
+   {
+    "group": "Travelers and border-crossing communities",
+    "how": "DHS funding covers CBP, TSA, and Coast Guard operations, and the law bars new border crossing fees during this period."
+   },
+   {
+    "group": "Students and communities on or near military installations",
+    "how": "Funding is provided for public schools on military installations and for Reserve Officers' Training Corps programs."
+   }
+  ],
+  "when_it_takes_effect": "Enacted December 20, 2019; the appropriated funds are generally available for fiscal year 2020, which runs from October 1, 2019, through September 30, 2020, with some funds available for longer periods as stated in the bill.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

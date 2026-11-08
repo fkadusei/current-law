@@ -3512,5 +3512,36 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2022 federal law creates a separate registration path so researchers and manufacturers can study and supply marijuana and cannabidiol for medical research.",
+  "what_it_does": "The law directs the Drug Enforcement Administration to register certain practitioners who conduct marijuana research and manufacturers who supply it for that research. It lets approved entities such as colleges, practitioners, and manufacturers make, distribute, dispense, or possess marijuana or cannabidiol (CBD) for medical research. It also requires the DEA to check whether the research supply is adequate and steady, and it requires a federal report on marijuana's therapeutic potential, including for epilepsy, and its effects on teen brains and driving.",
+  "who_it_affects": [
+   {
+    "group": "Universities and other research institutions",
+    "how": "They can register with the DEA to conduct medical research involving marijuana or CBD."
+   },
+   {
+    "group": "Researchers and practitioners",
+    "how": "They can apply for DEA registration to study marijuana or CBD for medical purposes."
+   },
+   {
+    "group": "Companies that grow or make marijuana for research",
+    "how": "They can apply for DEA registration to supply marijuana for approved studies and for certain commercial drug production."
+   },
+   {
+    "group": "Physicians",
+    "how": "They may discuss the possible harms and benefits of marijuana and CBD with patients."
+   },
+   {
+    "group": "Patients with conditions such as epilepsy",
+    "how": "Federal research on marijuana's therapeutic potential for these conditions is required and may expand future treatment options."
+   }
+  ],
+  "when_it_takes_effect": "Enacted December 2, 2022; specific registration and reporting deadlines are set in the law's text and are not stated in the summary.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -3504,5 +3504,28 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2013 law temporarily raised how much FEMA can borrow for the National Flood Insurance Program, from $20.725 billion to $30.425 billion.",
+  "what_it_does": "The law amends the National Flood Insurance Act of 1968 to increase the total amount of notes and obligations that FEMA's Administrator may issue, with the President's approval, to fund the National Flood Insurance Program. The new limit is $30.425 billion, up from $20.725 billion. Congress also designated the increase as an emergency requirement under the Statutory Pay-As-You-Go Act of 2010, which affects how its cost is counted in the federal budget.",
+  "who_it_affects": [
+   {
+    "group": "Homeowners and property owners in flood-prone areas who hold or buy flood insurance through the National Flood Insurance Program",
+    "how": "The program has more borrowing room to pay claims and meet its obligations, which the law's summary links to its ability to keep paying flood insurance claims."
+   },
+   {
+    "group": "FEMA and the National Flood Insurance Program",
+    "how": "The agency gets a higher ceiling on the money it can borrow for the program, up from $20.725 billion to $30.425 billion."
+   },
+   {
+    "group": "Congress and federal budget officials",
+    "how": "The increase is labeled an emergency requirement, so it is treated differently under the Statutory Pay-As-You-Go Act of 2010 when budget effects are counted."
+   }
+  ],
+  "when_it_takes_effect": "The law took effect when it was enacted on January 6, 2013.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

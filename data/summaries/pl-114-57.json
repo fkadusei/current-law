@@ -1,0 +1,28 @@
+{
+ "headline": "This law makes technical fixes to a 2009 New Mexico water settlement law, mainly expanding well planning and shifting how some project funds can be spent.",
+ "what_it_does": "It changes the Omnibus Public Land Management Act of 2009 so that the authorized work on conjunctive use wells in three New Mexico river basins now includes planning and design, not just construction, rehabilitation, and operation. It raises from 2% to 4% the share of project funds that can go toward surveying, protecting, and displaying archaeological resources near project facilities or wells. It lowers from 4% to 2% the share that can go toward buying land and building facilities for fish and wildlife. It also makes other technical corrections.",
+ "who_it_affects": [
+  {
+   "group": "Navajo Nation communities and residents in northwestern New Mexico",
+   "how": "They are covered by the Navajo-Gallup water supply and related water projects that this change adjusts."
+  },
+  {
+   "group": "Water users in the San Juan, Little Colorado, and Rio Grande basins in New Mexico",
+   "how": "Conjunctive use wells in these basins can now be funded for planning and design as well as construction and operation."
+  },
+  {
+   "group": "Archaeologists and historic preservation organizations working near project sites",
+   "how": "More project funding can be used for surveying and protecting archaeological resources near project facilities."
+  },
+  {
+   "group": "Fish and wildlife conservation groups and land managers in the project areas",
+   "how": "The share of project funds available for land purchases and wildlife mitigation facilities is reduced."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on September 30, 2015, and the changes took effect on that date.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

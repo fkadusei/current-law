@@ -1,0 +1,68 @@
+{
+ "headline": "A 2014 law extended and changed many Medicare, Medicaid, and children's health programs that were set to expire or change, and it delayed a coding switch.",
+ "what_it_does": "The law extends several expiring Medicare and Medicaid programs, including payments for ground ambulances, rural and low-volume hospitals, and special needs Medicare Advantage plans. It delays the physician payment update for 2015 and changes how later physician payment rates are calculated. It also extends Medicaid and CHIP eligibility rules, children's health and diabetes programs, and home visiting programs, and it delays the switch from ICD-9 to ICD-10 diagnosis codes until October 1, 2015. It adds new payment and quality rules for skilled nursing facilities, lab tests, dialysis, imaging, and psychiatric clinics.",
+ "who_it_affects": [
+  {
+   "group": "Physicians who bill Medicare",
+   "how": "Their Medicare payment rates were frozen for part of 2015 and later rates were recalculated, and new rules changed how relative values for services are set."
+  },
+  {
+   "group": "Medicare beneficiaries",
+   "how": "Hospital stays are reviewed under the two-midnight rule, and the law limits certain post-payment patient status reviews for inpatient claims admitted from October 2013 through March 2015."
+  },
+  {
+   "group": "Rural and low-volume hospitals",
+   "how": "Certain hospital payment adjustments, including Medicare-dependent hospital payments and increased payments for low-volume hospitals, were extended."
+  },
+  {
+   "group": "Ground ambulance providers",
+   "how": "Add-on payments for ground ambulance and super rural ground ambulance services were extended through April 1, 2015."
+  },
+  {
+   "group": "Skilled nursing facilities",
+   "how": "They are subject to a new value-based purchasing program that adjusts payments based on readmission or resource use performance, with a penalty that begins in fiscal 2019."
+  },
+  {
+   "group": "Medicare Advantage enrollees with special needs",
+   "how": "Specialized Medicare Advantage plans for people with special needs were extended through December 31, 2016."
+  },
+  {
+   "group": "Medicaid enrollees and people who qualify for Medicaid",
+   "how": "Qualifying individual and transitional medical assistance programs were extended through March 31, 2015, and express lane eligibility for Medicaid and CHIP was extended through September 30, 2015."
+  },
+  {
+   "group": "Hospitals that serve Medicaid patients",
+   "how": "Reductions to Medicaid disproportionate share hospital allotments were increased for fiscal years 2017 through 2024."
+  },
+  {
+   "group": "Employers with self-funded or group health plans",
+   "how": "The law repeals the limit on cost-sharing such as deductibles for employer-sponsored health plans."
+  },
+  {
+   "group": "People with Type 1 diabetes and Indian tribes receiving diabetes funding",
+   "how": "Special diabetes programs were extended through fiscal 2015."
+  },
+  {
+   "group": "Families receiving home visiting services and family health information centers",
+   "how": "Maternal, infant, and early childhood home visiting programs and family-to-family health information centers were extended into 2015."
+  },
+  {
+   "group": "Dialysis facilities and kidney patients",
+   "how": "Implementation of oral-only drugs in the dialysis payment system was delayed to 2024, and dialysis cost reports will be audited for a sample of facilities."
+  },
+  {
+   "group": "Laboratories and imaging providers",
+   "how": "New Medicare payment rates for clinical lab tests and rules for appropriate use of imaging services, including computed tomography, were set up."
+  },
+  {
+   "group": "People receiving mental health services in certified community behavioral health clinics",
+   "how": "The law set up a demonstration program with a new payment system and planning grants to states for these clinics."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on April 1, 2014, and its provisions take effect on different dates, with many extensions running through 2015 and 2016 and some changes starting later, such as the 2019 and 2024 dates.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

@@ -39,5 +39,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2018 law requires the federal government to transfer about 148 acres of land in Colorado to a private partnership, the Gordman-Leverich Partnership.",
+  "what_it_does": "The law requires the United States to convey its interest in about 148 acres of identified land to the Gordman-Leverich Partnership, a Colorado limited liability partnership, by patent. The transfer is made without payment for the land, but the partnership must repay the Interior Department for its survey, platting, legal description, and other costs before the transfer. The transfer is subject to existing rights, including those of the holder of federal oil and gas lease COC-75070, and the federal government keeps the right to collect rent and royalties on that lease for its full term.",
+  "who_it_affects": [
+   {
+    "group": "Gordman-Leverich Partnership",
+    "how": "The Colorado partnership receives ownership of about 148 acres of federal land at no purchase price, but must first pay the Interior Department's costs of preparing the transfer."
+   },
+   {
+    "group": "Holder of federal oil and gas lease COC-75070",
+    "how": "The lease holder keeps its valid existing rights in the land and must keep paying federal rent and royalties under the lease."
+   },
+   {
+    "group": "Department of the Interior",
+    "how": "The department must complete the transfer of the land and is reimbursed by the partnership for the work needed to prepare it."
+   }
+  ],
+  "when_it_takes_effect": "The land transfer must be completed within 180 days after the law was enacted on October 3, 2018.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

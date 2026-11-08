@@ -3531,5 +3531,15 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "Names a post office in Fairport, New York, after Louise and Bob Slaughter.",
+  "what_it_does": "This law renames the U.S. Postal Service facility at 770 Ayrault Road in Fairport, New York, as the Louise and Bob Slaughter Post Office. It is a ceremonial designation and does not change how the post office operates or what services it offers. The official summary describes only the naming.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law was enacted on August 21, 2019.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

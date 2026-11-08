@@ -4360,5 +4360,48 @@
   "House": "D",
   "Senate": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "A massive year-end spending package that funds most federal agencies for the rest of fiscal 2023, adds Ukraine and disaster aid, and bundles dozens of unrelated policy changes.",
+  "what_it_does": "This law provides money to federal agencies for the remainder of fiscal year 2023, which ended September 30, 2023. It also includes emergency funding for Ukraine and for natural disaster relief, and it extends many expiring programs. The law is organized into divisions covering agriculture, commerce and justice, defense, energy and water, financial services, homeland security, interior, labor and health, legislative branch, military construction and veterans affairs, state and foreign operations, and transportation and housing, plus several policy divisions on retirement, health, public lands, and other topics. The summary also states that Members of Congress will not receive a cost-of-living raise in FY2023.",
+  "who_it_affects": [
+   {
+    "group": "Members of Congress",
+    "how": "They are barred from receiving a cost-of-living pay adjustment during fiscal year 2023."
+   },
+   {
+    "group": "Federal employees and federal agencies",
+    "how": "Agencies receive funding for FY2023 under many spending limits, reporting rules, and restrictions on how money can be moved or used."
+   },
+   {
+    "group": "Military veterans",
+    "how": "Veterans health care, benefits, homelessness programs, and debt collection rules are changed, and certain education and housing provisions are extended or created."
+   },
+   {
+    "group": "Ukraine and disaster-affected communities",
+    "how": "Supplemental funds are provided for Ukraine assistance and for recovery from recent hurricanes, wildfires, and other natural disasters."
+   },
+   {
+    "group": "Workers saving for retirement",
+    "how": "New automatic enrollment rules, changed required distribution ages, and new savings options apply to certain employer retirement plans and individual retirement accounts."
+   },
+   {
+    "group": "Medicare, Medicaid, and CHIP enrollees",
+    "how": "Telehealth flexibilities, hospital and physician payment rules, and children's coverage rules are extended or changed."
+   },
+   {
+    "group": "Farmers and rural residents",
+    "how": "USDA programs, crop insurance, rural broadband, and nutrition programs such as SNAP and school meals receive new rules, funding, or extensions."
+   },
+   {
+    "group": "Small businesses and merger filers",
+    "how": "Changes to SBA programs, merger filing fee amounts, and small-business retirement plan tax credits take effect."
+   }
+  ],
+  "when_it_takes_effect": "Most appropriations apply to fiscal year 2023, which runs from October 1, 2022, through September 30, 2023; many other provisions take effect on enactment on December 29, 2022, while some phase in on later dates.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

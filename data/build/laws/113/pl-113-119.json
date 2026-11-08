@@ -36,5 +36,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2014 law sets a backup rule that moves certain Cibola National Forest land in New Mexico into federal trust for the Sandia Pueblo if a required land swap is not finished on time.",
+  "what_it_does": "The law changes an earlier act about the T'uf Shur Bien Preservation Trust Area. It directs the Forest Service to transfer specified National Forest land to the Interior Department to be held in trust for the Sandia Pueblo, but only if the required land exchange is not completed within 30 days of enactment. The transferred land must stay undeveloped and in its natural state. After that transfer is complete, and with the Pueblo's consent, Interior is to receive the Pueblo's La Luz tract, a conservation easement on the Piedra Lisa tract, and a right-of-way for the Piedra Lisa Trail.",
+  "who_it_affects": [
+   {
+    "group": "Sandia Pueblo of New Mexico",
+    "how": "The Pueblo would receive National Forest land held in trust if the land exchange is not completed within 30 days, and would transfer its La Luz tract, a Piedra Lisa conservation easement, and a trail right-of-way to the federal government with its consent."
+   },
+   {
+    "group": "Hikers and outdoor visitors using the Piedra Lisa Trail",
+    "how": "The federal government would gain a right-of-way for the Piedra Lisa Trail, which is intended to keep the trail available through the Pueblo's land."
+   },
+   {
+    "group": "Visitors to the Cibola National Forest",
+    "how": "Specified National Forest land would leave Forest Service control and be held in trust for the Pueblo, and it must remain undeveloped."
+   }
+  ],
+  "when_it_takes_effect": "Upon enactment on June 9, 2014, with the land transfer triggered if the required land exchange is not completed within 30 days of enactment, and the later Pueblo transfers taking place after the National Forest land transfer is complete.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

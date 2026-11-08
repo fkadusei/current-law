@@ -42,5 +42,36 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This 2018 law gives the SBA formal authority to oversee certain lenders and changes some rules for SBA-backed small business loans.",
+  "what_it_does": "The law sets in statute the SBA's Office of Credit Risk Management and its Lender Oversight Committee, and it lets the office supervise several kinds of SBA lenders and assess monetary penalties against lenders that break the rules. It also changes the definition of \"credit elsewhere,\" which decides whether an applicant can get an SBA-guaranteed loan, by listing factors such as industry, business age, collateral, and cash flow, with an exception for loans to repair disaster-damaged property. In addition, it allows the SBA to raise the general business loan cap once per fiscal year with congressional approval, requires written and indexed records of waivers from SBA loan program rules, and repeals a requirement to report certain loan default data to the President and Congress.",
+  "who_it_affects": [
+   {
+    "group": "Lenders that make SBA 7(a) loans",
+    "how": "They are now subject to supervision by the SBA's Office of Credit Risk Management, which can assess monetary penalties for violations."
+   },
+   {
+    "group": "Small business lending companies and nonfederally regulated lenders",
+    "how": "They are also required to be supervised by the SBA's Office of Credit Risk Management."
+   },
+   {
+    "group": "Small business owners applying for SBA-guaranteed loans",
+    "how": "Their eligibility is judged under a broader \"credit elsewhere\" test that considers industry, whether the business is two years old or less, collateral, and repayment terms."
+   },
+   {
+    "group": "Owners repairing or replacing disaster-damaged property",
+    "how": "The broader \"credit elsewhere\" test does not apply to certain SBA loans for disaster repair or replacement."
+   },
+   {
+    "group": "Businesses seeking general SBA business loans",
+    "how": "The SBA may raise the general business loan cap during a fiscal year if it expects to reach the cap, but only with congressional approval and only once per year."
+   }
+  ],
+  "when_it_takes_effect": "The official summary does not state specific effective dates; the law was enacted on June 21, 2018.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

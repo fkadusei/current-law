@@ -1,0 +1,28 @@
+{
+ "headline": "This law requires the VA to hire at least 50 Veterans Justice Outreach Specialists to work with veterans treatment courts and other veteran-focused courts.",
+ "what_it_does": "The Department of Veterans Affairs must hire at least 50 Veterans Justice Outreach Specialists under its existing outreach program. Each specialist serves as part of a justice team in a veterans treatment court or another court focused on veterans. Specialists must be placed at VA medical centers that work with justice-involved veterans and are connected to these courts. The VA must give priority to medical centers with new courts or courts that are not fully staffed, and the Government Accountability Office must report to Congress on how well the program works.",
+ "who_it_affects": [
+  {
+   "group": "Veterans involved in the criminal justice system",
+   "how": "They may get help from a VA specialist who works with their local veterans court or justice team."
+  },
+  {
+   "group": "Veterans treatment courts and other veteran-focused courts",
+   "how": "They gain VA specialists who serve as part of their justice teams."
+  },
+  {
+   "group": "VA medical centers",
+   "how": "Some centers must be chosen for specialist placement, with priority given to those linked to newer or understaffed courts."
+  },
+  {
+   "group": "Veterans Justice Outreach Program staff",
+   "how": "The program must add at least 50 new specialist positions and is subject to a GAO effectiveness review."
+  }
+ ],
+ "when_it_takes_effect": "The law took effect on enactment, September 17, 2018, though the hiring and placement steps are carried out by the VA afterward.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

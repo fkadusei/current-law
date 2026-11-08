@@ -39,5 +39,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2014 law told the Federal Reserve to revise its rules for small bank holding companies and exempt qualifying ones from certain Dodd-Frank capital requirements.",
+  "what_it_does": "The law directs the Federal Reserve to propose revisions to its Small Bank Holding Company Policy Statement, which sets how regulators judge financial and managerial strength. The policy applies to bank and savings and loan holding companies with under $1 billion in assets that meet three tests: limited nonbank and off-balance-sheet activity, and no material SEC-registered debt or equity other than trust preferred securities. The Federal Reserve keeps the power to exclude a company from the policy, regardless of size, for supervisory reasons. Qualifying companies under $1 billion that follow the policy are exempt from the leverage and risk-based capital requirements created by Dodd-Frank.",
+  "who_it_affects": [
+   {
+    "group": "Small bank holding companies with under $1 billion in consolidated assets",
+    "how": "Those that meet the policy's tests may be exempt from Dodd-Frank leverage and risk-based capital requirements if they follow the Small Bank Holding Company Policy Statement."
+   },
+   {
+    "group": "Savings and loan holding companies with under $1 billion in consolidated assets",
+    "how": "The same policy statement and capital exemption apply to qualifying savings and loan holding companies of this size."
+   },
+   {
+    "group": "Federal Reserve Board",
+    "how": "The Board must propose revisions to the Small Bank Holding Company Policy Statement and keeps authority to exclude companies from it."
+   }
+  ],
+  "when_it_takes_effect": "Enacted December 18, 2014; the law requires the Federal Reserve to publish proposed policy revisions, and it does not set a specific later effective date in the summary.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

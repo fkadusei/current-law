@@ -39,5 +39,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law names a post office building in Cedar Hill, Missouri, after Sergeant First Class William B. Woods, Jr.",
+  "what_it_does": "The law officially designates the U.S. Postal Service facility at 7050 Highway BB in Cedar Hill, Missouri, as the \"Sergeant First Class William B. Woods, Jr. Post Office.\" It changes only the name used for that building. It does not change postal services, rules, or costs.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law took effect when it was enacted on July 20, 2015.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

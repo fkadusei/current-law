@@ -4354,5 +4354,52 @@
   "House": "R",
   "Senate": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "The 2014 farm bill sets farm subsidy, crop insurance, conservation, nutrition, rural development, research, and forestry rules through 2018, replacing many older programs.",
+  "what_it_does": "The law ends direct payments to farmers and replaces them with new income-support options called price loss coverage (PLC) and agriculture risk coverage (ARC), which pay when crop prices or revenues fall below set levels. It keeps marketing loans, dairy and sugar programs, and adds a dairy margin protection program. It extends and changes conservation programs such as the Conservation Reserve Program and the Environmental Quality Incentives Program, and it changes the Supplemental Nutrition Assistance Program (SNAP) in areas like eligibility for students and convicted felons. It also reauthorizes rural development, agricultural research, crop insurance, and forestry programs, most through fiscal year 2018.",
+  "who_it_affects": [
+   {
+    "group": "Farmers and ranchers who grow covered commodities such as wheat, corn, soybeans, peanuts, and cotton",
+    "how": "They must choose between PLC and ARC for crop years 2014 through 2018 and may receive payments when prices or revenues fall below set levels."
+   },
+   {
+    "group": "Dairy farms",
+    "how": "They can join a new margin protection program that pays when the gap between milk prices and feed costs falls below a chosen level, for a $100 annual fee plus premiums, and the program ends December 31, 2018."
+   },
+   {
+    "group": "Landowners with Conservation Reserve Program contracts",
+    "how": "Some can end contracts early in fiscal 2015 and may be able to enroll in other conservation programs, while land eligibility rules change."
+   },
+   {
+    "group": "SNAP recipients",
+    "how": "Eligibility rules change for some college students, people with certain felony convictions, and people who win large lottery or gambling prizes, and some states must adjust how they verify eligibility."
+   },
+   {
+    "group": "Retail food stores that accept SNAP",
+    "how": "They must offer perishable foods in at least three staple categories and, with some exceptions, pay for electronic benefit transfer equipment."
+   },
+   {
+    "group": "Farm operators with adjusted gross income above $900,000",
+    "how": "They are generally barred from receiving certain agricultural benefits."
+   },
+   {
+    "group": "Veteran, beginning, and socially disadvantaged farmers",
+    "how": "They receive some priority or extra assistance in conservation, loan, and training programs."
+   },
+   {
+    "group": "Rural residents and rural businesses",
+    "how": "They may be affected by changes to rural water, broadband, electric, and business development grant and loan programs, which are reauthorized through fiscal 2018."
+   },
+   {
+    "group": "Cotton, sugar, and peanut producers and users",
+    "how": "They face new loan rates, storage or transition payments, and insurance options specific to their crops."
+   }
+  ],
+  "when_it_takes_effect": "Most provisions take effect on enactment on February 7, 2014, with many program dates running through crop year or fiscal year 2018, and some dairy and PLC/ARC elections due in 2014.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

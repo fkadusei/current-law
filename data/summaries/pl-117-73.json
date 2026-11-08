@@ -1,0 +1,20 @@
+{
+ "headline": "A December 2021 law raised the federal government's borrowing limit by $2.5 trillion.",
+ "what_it_does": "The federal government has a legal cap on how much money it can borrow in total. This joint resolution raised that cap by $2.5 trillion. It allowed the Treasury to keep borrowing to pay debts and obligations that Congress had already approved. The summary provided does not say what specific spending or programs the increase was meant to cover.",
+ "who_it_affects": [
+  {
+   "group": "The U.S. Treasury Department",
+   "how": "It gained authority to borrow an additional $2.5 trillion beyond the previous limit."
+  },
+  {
+   "group": "Holders of U.S. government debt, such as investors and institutions",
+   "how": "The increase allowed the government to keep issuing Treasury securities to meet its existing payment obligations."
+  }
+ ],
+ "when_it_takes_effect": "The increase took effect when the law was enacted on December 16, 2021.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

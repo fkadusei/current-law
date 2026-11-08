@@ -36,5 +36,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Congress named the post office at 100 3rd Avenue Northwest in Perham, Minnesota, after Charles P. Nord.",
+  "what_it_does": "This law renames a United States Postal Service building in Perham, Minnesota, as the Charles P. Nord Post Office. It changes only the official name of the facility. It does not change mail service, postal rules, or staffing.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law was enacted on December 27, 2022, and the designation applies from that date.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

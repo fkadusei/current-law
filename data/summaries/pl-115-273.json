@@ -1,0 +1,24 @@
+{
+ "headline": "A 2018 law that directs the USPTO to study patent activity among women, minorities, and veterans and extends the agency's fee-setting power for eight years.",
+ "what_it_does": "The law requires the U.S. Patent and Trademark Office to study how many patents are applied for and granted to women, minorities, and veterans, and to small businesses owned by them. The USPTO must report its findings to Congress and suggest laws that could increase participation in entrepreneurship and patent applications. The law also extends the USPTO's authority to set and adjust patent fees for eight years by amending the America Invents Act.",
+ "who_it_affects": [
+  {
+   "group": "Women, minorities, and veterans who apply for or hold patents",
+   "how": "The USPTO will collect and report data on their patent applications and grants, which may inform future recommendations to Congress."
+  },
+  {
+   "group": "Small businesses owned by women, minorities, and veterans",
+   "how": "Their patent activity will be included in the USPTO study and report to Congress."
+  },
+  {
+   "group": "Patent applicants and patent holders generally",
+   "how": "The USPTO keeps its authority to set and adjust patent fees for an additional eight years."
+  }
+ ],
+ "when_it_takes_effect": "Signed into law on October 31, 2018; the official summary does not list separate dates for the study, the report, or the fee authority extension.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

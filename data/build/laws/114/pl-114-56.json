@@ -36,5 +36,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law transfers about 23 acres of federal land in Bethel, Alaska, from the Department of Health and Human Services to the Yukon Kuskokwim Health Corporation at no cost.",
+  "what_it_does": "The law directs HHS to convey all U.S. interest in a 22.98-acre property in Bethel, Alaska, to the Yukon Kuskokwim Health Corporation by warranty deed, for use in health and social services programs. The transfer requires no payment and places no conditions or reversion rights on the land, and it replaces an earlier quitclaim deed for the same property. The Corporation is shielded from liability for environmental contamination on the land, while HHS keeps any access or easement rights needed to meet its remaining obligations and must follow federal CERCLA rules for deeds of contaminated federal property.",
+  "who_it_affects": [
+   {
+    "group": "Yukon Kuskokwim Health Corporation",
+    "how": "It becomes the owner of the 22.98-acre Bethel property without paying for it and without any conditions on how it is used, and it is protected from liability for contamination on the land."
+   },
+   {
+    "group": "Department of Health and Human Services",
+    "how": "It must transfer the property by warranty deed, keep any access rights it needs to meet its remaining environmental obligations, and follow CERCLA deed requirements."
+   },
+   {
+    "group": "People who use health and social services provided by the Corporation in the Bethel area",
+    "how": "The land is designated for use in the Corporation's health and social services programs, though the law does not itself change any services."
+   }
+  ],
+  "when_it_takes_effect": "The law took effect when it was enacted on September 30, 2015.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

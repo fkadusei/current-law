@@ -36,5 +36,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2022 federal law directs the VA to update its rules for appraisals on VA-guaranteed home loans, including remote desktop appraisals.",
+  "what_it_does": "The law requires the Department of Veterans Affairs to update its rules and guidance on home appraisals for loans it guarantees. The updated rules must say when an appraisal is needed, how it must be done, and who may perform it. The VA must also send Congress recommendations for speeding up appraisal times and consider them when writing the new rules. Finally, the VA must issue guidance on desktop appraisals, which are done remotely, and consider cost savings for borrowers and the risk of delays.",
+  "who_it_affects": [
+   {
+    "group": "Veterans and service members using VA home loan benefits",
+    "how": "The rules for when and how their home appraisals are done may change once the VA finishes its updates."
+   },
+   {
+    "group": "Home buyers and borrowers with VA-guaranteed loans",
+    "how": "They could see different appraisal requirements, possibly including lower-cost remote desktop appraisals in some cases."
+   },
+   {
+    "group": "Licensed appraisers who work on VA loans",
+    "how": "The VA will set new rules on who is eligible to perform appraisals for these loans and how the work must be done."
+   },
+   {
+    "group": "Lenders and third parties that gather information for desktop appraisals",
+    "how": "Their role in desktop appraisals will be shaped by the VA's new guidance on those appraisals."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

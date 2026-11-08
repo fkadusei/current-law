@@ -4341,5 +4341,28 @@
   "House": "R",
   "Senate": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "Congress used a special review process to cancel a 2016 HHS rule about which organizations can receive subawards under federal family planning grants.",
+  "what_it_does": "The rule covered how grant recipients under Title X, the federal family planning program, choose subrecipients. Under the rule, a grant recipient could bar an entity from receiving a subaward only for reasons related to that entity's ability to provide family planning services. This joint resolution nullifies the rule, so it does not take effect. The summary provided does not describe what rules apply in its place.",
+  "who_it_affects": [
+   {
+    "group": "Title X family planning grant recipients",
+    "how": "They no longer have the rule's written standards for deciding which entities may receive subawards."
+   },
+   {
+    "group": "Organizations seeking Title X subawards",
+    "how": "Their eligibility to receive subawards is no longer governed by the nullified rule's limits on grounds for exclusion."
+   },
+   {
+    "group": "People who receive Title X family planning services",
+    "how": "Changes to which providers can take part in the program could affect where they get services, though the summary does not say how."
+   }
+  ],
+  "when_it_takes_effect": "April 13, 2017, the date the measure was enacted.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

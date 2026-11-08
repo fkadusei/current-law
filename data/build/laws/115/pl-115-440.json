@@ -3528,5 +3528,32 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "This law extends a program that trades foreign debt for nature conservation, adds coral reefs to its scope, and changes how larger grants are approved.",
+  "what_it_does": "The law extends the Tropical Forest Conservation Act of 1998 through fiscal year 2020 and renames it the Tropical Forest and Coral Reef Conservation Act of 1998. Under debt-for-nature swaps and debt buybacks, a participating country's debt owed to the United States is reduced or converted into money for conservation in that country. The Tropical Forest Facility, which runs these programs, is renamed the Conservation Facility. The law also requires at least one U.S.-appointed person in the body that distributes grants in each participating country, and it raises the threshold for extra approval on larger grants from more than $100,000 to more than $250,000.",
+  "who_it_affects": [
+   {
+    "group": "Countries that owe debt to the United States and take part in the debt reduction programs",
+    "how": "Their debt payments can be reduced or converted into funding for conservation projects in their own country, and their agreements with the United States are administered under the revised rules."
+   },
+   {
+    "group": "Organizations that receive conservation grants under the Act",
+    "how": "Grants of more than $250,000 now require additional approval, while grants of $100,000 to $250,000 no longer do."
+   },
+   {
+    "group": "The Conservation Facility, formerly the Tropical Forest Facility",
+    "how": "The facility that administers the programs has a new name and must follow the updated rules for agreements and grant administration."
+   },
+   {
+    "group": "Groups working on coral reef protection",
+    "how": "Coral reefs are now covered by the Act, so projects to protect them can be funded through the same debt conversion programs as tropical forests."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on January 14, 2019, and the program authorization runs through fiscal year 2020.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

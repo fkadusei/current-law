@@ -36,5 +36,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Names a post office building in Ceres, California, after Marine Lance Corporal Juana Navarro Arellano.",
+  "what_it_does": "This law renames a United States Postal Service facility at 2801 Mitchell Road in Ceres, California, as the Lance Corporal Juana Navarro Arellano Post Office Building. It is an honorary designation and does not change how the post office operates or what services it offers.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law was enacted on December 21, 2018, and the naming took effect on that date.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

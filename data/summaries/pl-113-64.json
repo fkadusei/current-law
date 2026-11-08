@@ -1,0 +1,28 @@
+{
+ "headline": "A 2013 law exempts fire hydrants from certain federal lead-material bans and directs EPA to seek advice on lead in drinking water systems.",
+ "what_it_does": "The law amends the Safe Drinking Water Act so that fire hydrants are not covered by the rules that ban lead pipes, lead solder, and lead flux. It also tells the EPA Administrator to consult the National Drinking Water Advisory Council about possible changes to federal lead rules. The EPA is asked to have the Council look at lead sources throughout drinking water distribution systems, including temporary piping used to reroute water during repairs.",
+ "who_it_affects": [
+  {
+   "group": "Fire departments and local governments that install or maintain fire hydrants",
+   "how": "Hydrants can be installed and repaired under this law without being subject to the Safe Drinking Water Act's lead-material bans that apply to other water system parts."
+  },
+  {
+   "group": "Public water utilities that operate distribution systems",
+   "how": "Their hydrants are exempt from the lead-material bans, and their repair practices, including temporary rerouting components, may be reviewed as part of future EPA lead considerations."
+  },
+  {
+   "group": "Manufacturers and suppliers of fire hydrants and water system components",
+   "how": "They may sell hydrants that contain materials otherwise restricted by the lead bans, and any later changes to lead rules could affect their products."
+  },
+  {
+   "group": "People who receive drinking water from public systems",
+   "how": "The law asks the EPA to study lead sources in distribution systems, which could lead to future changes to lead rules, but it does not itself change the water they receive."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

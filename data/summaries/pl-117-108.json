@@ -1,0 +1,32 @@
+{
+ "headline": "This law changes how the U.S. Postal Service handles retiree health benefits, its finances, service reporting, and some oversight duties.",
+ "what_it_does": "The law directs the Office of Personnel Management to create a Postal Service Health Benefits Program inside the Federal Employees Health Benefits Program, where carriers can offer health plans to Postal Service workers and retirees. It coordinates enrollment for retirees with Medicare and removes the requirement that the Postal Service prepay future retiree health costs each year. It also lets the Postal Service make agreements with state, local, tribal, and other government agencies to offer certain nonpostal services, and requires a public performance dashboard and regular reports on operations and finances.",
+ "who_it_affects": [
+  {
+   "group": "Current and retired U.S. Postal Service employees",
+   "how": "They may get health coverage through a new Postal Service Health Benefits Program, with retirees' enrollment coordinated with Medicare."
+  },
+  {
+   "group": "Health insurance carriers",
+   "how": "Companies may contract with OPM to offer health benefit plans under the new Postal Service program."
+  },
+  {
+   "group": "State, local, and tribal governments",
+   "how": "They may enter agreements with the Postal Service to provide certain nonpostal products and services."
+  },
+  {
+   "group": "Postal customers",
+   "how": "The Postal Service must publish a dashboard tracking its service performance."
+  },
+  {
+   "group": "Postal Regulatory Commission",
+   "how": "It must submit an annual expense budget to the Postal Service and study problems with flat mail, such as large envelopes, and its own oversight is now handled by the Postal Service Inspector General."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

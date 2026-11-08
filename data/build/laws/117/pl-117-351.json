@@ -33,5 +33,36 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law widens federal power to prosecute war crimes by reaching more people and more conduct, and removes the time limit for some of these charges.",
+  "what_it_does": "The federal war crimes law already covered certain offenses committed anywhere in the world when the victim or offender was a U.S. service member or U.S. national. This act extends federal jurisdiction to cases where the victim or offender is a lawful permanent resident, or where the offender is present in the United States, no matter the nationality of the people involved. It also covers war crime offenses that happen wholly or partly inside the United States, whether or not the people involved are service members, nationals, or permanent residents. For certain war crime charges, an indictment can now be brought at any time, so the statute of limitations does not apply. Prosecutors must also sign a written certification that the case is in the public interest and needed to secure substantial justice, and courts cannot review that certification.",
+  "who_it_affects": [
+   {
+    "group": "Lawful permanent residents (green card holders)",
+    "how": "They can now be prosecuted federally for war crime offenses when they are the victim or offender, even if the conduct happened outside the U.S."
+   },
+   {
+    "group": "Non-U.S. nationals present in the United States",
+    "how": "Anyone who is in the U.S. and accused of a covered war crime offense can be prosecuted federally, regardless of their nationality or the victim's."
+   },
+   {
+    "group": "Anyone accused of war crimes that occur in whole or part within the United States",
+    "how": "Conduct inside U.S. territory can be prosecuted federally regardless of whether the people involved are service members or nationals."
+   },
+   {
+    "group": "Federal prosecutors and the Justice Department",
+    "how": "They must provide a written certification that a war crimes prosecution is in the public interest before bringing the case, and that decision cannot be challenged in court."
+   },
+   {
+    "group": "Victims of certain war crimes",
+    "how": "Some charges can be brought at any time, so cases are not barred by the usual deadline for filing charges."
+   }
+  ],
+  "when_it_takes_effect": "Enacted January 5, 2023; the summary does not state a separate effective date.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

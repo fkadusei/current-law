@@ -33,5 +33,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Puts about 1,031 acres of California land into trust for the Karuk Tribe, with limits on gaming and continued federal river access.",
+  "what_it_does": "The law moves roughly 1,031 acres of specified land in Siskiyou and Humboldt Counties, California, into federal trust for the benefit of the Karuk Tribe. The tribe may use the land for traditional and customary purposes. The Forest Service must keep access to the part of a Wild and Scenic River that runs through the land. The Department of Agriculture must also sign a memorandum of understanding with the tribe on shared goals for protecting the river.",
+  "who_it_affects": [
+   {
+    "group": "Karuk Tribe",
+    "how": "The tribe gains about 1,031 acres held in trust for traditional and customary uses, but cannot use the land for gaming."
+   },
+   {
+    "group": "Forest Service and Department of Agriculture",
+    "how": "The agencies must keep access to the river section crossing the land and enter into a memorandum of understanding with the tribe on river protection goals."
+   },
+   {
+    "group": "Residents and visitors near the Wild and Scenic River in Siskiyou and Humboldt Counties",
+    "how": "Federal access to the river segment is preserved, and the land's use is shaped by the tribe's trust status and the agreement on river values."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on January 5, 2023; the summary does not specify a separate effective date for particular provisions.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

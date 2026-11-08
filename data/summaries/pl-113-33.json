@@ -1,0 +1,28 @@
+{
+ "headline": "This law lets the Interior Department permit small hydroelectric projects and natural gas pipelines in Denali National Park, arranges a land swap with Doyon Tourism, and names a Talkeetna ranger station.",
+ "what_it_does": "It lets the Secretary of the Interior issue permits for microhydro power plants of up to 100 kilowatts in the Kantishna Hills area of Denali National Park and Preserve. It requires environmental reviews for those projects to be finished within 180 days of a permit application. It directs a land exchange in which the Park gives up land near Eureka Creek for about 18 acres owned by Doyon Tourism, Inc., and the acquired land becomes part of the Park. It also allows right-of-way permits for a natural gas pipeline along a seven-mile stretch of the George Parks Highway and related supply lines, and it renames the Talkeetna Ranger Station the Walter Harper Talkeetna Ranger Station.",
+ "who_it_affects": [
+  {
+   "group": "Doyon Tourism, Inc.",
+   "how": "The company would trade about 18 acres in the Galena mining claim for Park land at the mouth of Eureka Creek, with acreage adjusted if the land values are not equal."
+  },
+  {
+   "group": "Operators and owners of microhydro projects in the Kantishna Hills area",
+   "how": "They can seek Interior Department permits for small hydroelectric generators, and their environmental reviews must be completed within 180 days of applying."
+  },
+  {
+   "group": "Natural gas pipeline companies and gas suppliers",
+   "how": "They may apply for right-of-way permits to build a high-pressure gas line along the George Parks Highway segment in the Park and related lines to supply natural gas to the Park."
+  },
+  {
+   "group": "Visitors to Denali National Park and people living near the Park",
+   "how": "Pipeline construction and new small power facilities could change the land and roads they use within the Park."
+  }
+ ],
+ "when_it_takes_effect": "The law took effect when it was enacted on September 18, 2013. The Secretary is directed to try to finish the land exchange by February 2015.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

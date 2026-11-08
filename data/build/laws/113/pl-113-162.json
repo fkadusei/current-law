@@ -36,5 +36,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law asks the State Department to report to Congress on Haiti's recovery and to produce a multi-year Haiti strategy.",
+  "what_it_does": "The law states that Congress views transparency, accountability, democracy, and good governance as important when deciding on U.S. aid, including aid to Haiti. It requires the Secretary of State to report to Congress each year through December 31, 2017, on post-earthquake recovery and development in Haiti. It also requires a three-year Haiti strategy that identifies obstacles to economic growth and strong democratic institutions, lays out an action plan with policy tools and resources, and sets steps and benchmarks for direct aid to the Haitian government.",
+  "who_it_affects": [
+   {
+    "group": "State Department officials who work on Western Hemisphere policy",
+    "how": "They must prepare the annual reports and coordinate the three-year Haiti strategy through the Assistant Secretary for Western Hemisphere Affairs."
+   },
+   {
+    "group": "Members of Congress",
+    "how": "They receive the annual reports and the three-year strategy to use in oversight and decisions about U.S. aid to Haiti."
+   },
+   {
+    "group": "The government of Haiti and Haitian residents",
+    "how": "The strategy may set benchmarks that shape how direct U.S. assistance to the Haitian government is provided."
+   }
+  ],
+  "when_it_takes_effect": "The reporting requirement applies annually through December 31, 2017, and the strategy must be transmitted to Congress under the law's timeline after enactment on August 8, 2014.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

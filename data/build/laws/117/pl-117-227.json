@@ -3526,5 +3526,15 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "Congress named the VA Atlanta Regional Office in Georgia after former Senator Johnny Isakson.",
+  "what_it_does": "This law renames the Department of Veterans Affairs Atlanta Regional Office in Georgia. The new official name is the Senator Johnny Isakson Department of Veterans Affairs Atlanta Regional Office, also called the Isakson VA Atlanta Regional Office. It is a naming measure and does not change the office's duties or services.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law took effect when it was enacted on December 9, 2022.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

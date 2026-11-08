@@ -1,0 +1,28 @@
+{
+ "headline": "This law extends a federal grant program that helps state, local, and tribal governments buy bulletproof vests for police and other officers.",
+ "what_it_does": "It extends the Bulletproof Vest Partnership program's funding authorization through fiscal year 2020 and sets a deadline for returning unused program money to the general fund of the Treasury. It bars using other federal grant money to cover the local matching share required for these vest grants. Grant recipients must have a written policy requiring uniformed patrol officers to wear vests and must buy vests that meet standards set by the Bureau of Justice Assistance. Applicants whose jurisdictions provide vests fitted for individual officers, including female officers, may get preferred consideration.",
+ "who_it_affects": [
+  {
+   "group": "State, local, and tribal law enforcement agencies",
+   "how": "They can keep applying for federal matching funds to buy armor vests through 2020, but must adopt a written vest-wearing policy and buy vests that meet federal performance standards."
+  },
+  {
+   "group": "Uniformed patrol officers",
+   "how": "Grant-receiving agencies must require them to wear armor vests or body armor under their written policies."
+  },
+  {
+   "group": "Female law enforcement officers",
+   "how": "Applicants whose jurisdictions provide vests uniquely fitted to individual officers, including women, may receive preferred consideration for grants."
+  },
+  {
+   "group": "Local governments that rely on federal grant money to meet matching requirements",
+   "how": "They cannot use other federal grant funds to pay or defer their share of the vest program's matching costs."
+  }
+ ],
+ "when_it_takes_effect": "Enacted May 16, 2016; the funding extension covers fiscal years 2016 through 2020, and unobligated funds must be transferred to the Treasury by January 31, 2023.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

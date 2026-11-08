@@ -1,0 +1,24 @@
+{
+ "headline": "This law cancels a Labor Department rule that would have let cities and counties, not just states, run payroll savings programs for private-sector workers.",
+ "what_it_does": "Congress used a joint resolution to nullify a Department of Labor rule about how governments can set up payroll deduction retirement savings programs for private-sector employees. The rule would have expanded the existing regulation, which covers state programs, to also cover programs run by qualified state political subdivisions such as cities and counties. Because the resolution cancels the rule, the expansion does not take effect, and the earlier rule for state-run programs is not changed by this law.",
+ "who_it_affects": [
+  {
+   "group": "Private-sector employees in cities and counties that might have started local payroll savings programs",
+   "how": "They would not gain access to a local government-run payroll savings program under the canceled rule, so their options stay as they were."
+  },
+  {
+   "group": "Qualified state political subdivisions such as cities and counties",
+   "how": "They cannot use the expanded Labor Department rule to design payroll savings programs for private-sector workers without that rule's coverage."
+  },
+  {
+   "group": "Private-sector employers in areas that might have joined local savings programs",
+   "how": "They would not be subject to a local payroll savings program under the canceled rule, so existing employer obligations do not change."
+  }
+ ],
+ "when_it_takes_effect": "The resolution was enacted on April 13, 2017, and the canceled rule ceased to have effect on that date.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

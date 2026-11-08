@@ -3515,5 +3515,28 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2013 law that pays military members and certain Defense support staff during any stretch when regular federal funding has lapsed.",
+  "what_it_does": "The law provides money from the Treasury to pay and allowances for members of the Armed Forces, including reserve components, who perform active service during a period without fiscal year 2014 appropriations. It also covers Defense Department civilian personnel and contractors, and Coast Guard support staff under Homeland Security, whom the responsible Secretary determines are supporting those service members. The money stays available until a new appropriation covers these purposes, a funding resolution passes without them, or January 1, 2015, whichever happens first.",
+  "who_it_affects": [
+   {
+    "group": "Active-duty military members and reserve component members",
+    "how": "They would receive pay and allowances for active service performed during a funding gap in fiscal year 2014."
+   },
+   {
+    "group": "Civilian Defense Department employees and contractors",
+    "how": "Those whom the responsible Secretary determines are supporting service members may be paid during a funding gap."
+   },
+   {
+    "group": "Coast Guard civilian personnel and contractors",
+    "how": "Those supporting Coast Guard members may be paid under the Homeland Security Department during a funding gap."
+   }
+  ],
+  "when_it_takes_effect": "Enacted September 30, 2013, and in effect only during any lapse in fiscal year 2014 appropriations; the funding authority ends no later than January 1, 2015.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

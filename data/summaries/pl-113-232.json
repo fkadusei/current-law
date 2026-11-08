@@ -1,0 +1,24 @@
+{
+ "headline": "This law settles a land dispute on the Fort Hall Indian Reservation in Idaho caused by a 1964 river realignment, by swapping land ownership and compensating affected landowners.",
+ "what_it_does": "The law ends all claims to certain Indian and non-Indian land near the Blackfoot River that arose when the Army Corps of Engineers moved the river in 1964. Non-Indian land in the dispute is to be held in trust by the United States for the Shoshone-Bannock Tribes. Indian land is to be transferred to the Blackfoot River Flood Control District No. 7, which may use or sell it. Sale money is used first to pay non-Indian landowners fair market value for land they lost, and then to cover the district's expenses under the law. Any leftover land or money may be disposed of as the district decides.",
+ "who_it_affects": [
+  {
+   "group": "Shoshone-Bannock Tribes of the Fort Hall Reservation",
+   "how": "Their claims to the specified land are ended, and the non-Indian land in the dispute is to be held in trust for them by the United States."
+  },
+  {
+   "group": "Non-Indian landowners near the Blackfoot River in Idaho",
+   "how": "They are to be paid fair market value for land they lose under the law."
+  },
+  {
+   "group": "Blackfoot River Flood Control District No. 7",
+   "how": "The district receives Indian land to use or sell and is reimbursed for its costs and given authority to decide how to dispose of leftover land or money."
+  }
+ ],
+ "when_it_takes_effect": "The law took effect when it was enacted on December 16, 2014. The summary does not give specific deadlines for the land transfers or payments.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

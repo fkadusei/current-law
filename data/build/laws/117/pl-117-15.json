@@ -3504,5 +3504,28 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "The TRANSPLANT Act of 2021 extends a federal program that helps patients get bone marrow and cord blood transplants through fiscal year 2026, and adds reviews and reports on stem cell science and workforce.",
+  "what_it_does": "The law renews and changes the C.W. Bill Young Cell Transplantation Program, which supports patients who need a bone marrow or umbilical cord blood transplant. It keeps the program running through fiscal year 2026. It also requires the Department of Health and Human Services to review the science of using adult stem cells and birthing tissues in treatments on a regular schedule. The Government Accountability Office must also write a report on the regenerative medicine workforce.",
+  "who_it_affects": [
+   {
+    "group": "Patients who need bone marrow or umbilical cord blood transplants",
+    "how": "The federal program that supports their transplant care is extended through fiscal year 2026."
+   },
+   {
+    "group": "Donors and transplant centers in the federal cell transplantation system",
+    "how": "The program they work within is reauthorized and modified, which may change how support is provided."
+   },
+   {
+    "group": "Researchers and clinicians in regenerative medicine",
+    "how": "HHS must periodically review the science of adult stem cell and birthing tissue treatments, and GAO must report on the field's workforce."
+   }
+  ],
+  "when_it_takes_effect": "Enacted May 26, 2021; the program reauthorization runs through fiscal year 2026.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

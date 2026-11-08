@@ -3538,5 +3538,36 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2017 federal law strengthens whistleblower protections for federal workers, adds rules for supervisors and VA employees, and requires new training and reporting.",
+  "what_it_does": "The law lets certain federal employees who report wrongdoing get priority for transfer requests when the Merit Systems Protection Board pauses a personnel action against them. It bars supervisors from looking at other employees' medical records and lets agencies propose suspensions, pay or grade cuts, or removal for supervisors who retaliate. It also requires agencies to refer employee suicide information to the Office of Special Counsel, provide whistleblower training, and post protection information online. Title II adds VA-specific steps on records access, mental health outreach, threat protocols, and a GAO study of VA police.",
+  "who_it_affects": [
+   {
+    "group": "Federal employees who report wrongdoing (whistleblowers)",
+    "how": "They may get priority for transfer requests and receive clearer information about their protections from their agency."
+   },
+   {
+    "group": "Federal supervisors",
+    "how": "They must complete whistleblower training, cannot access other employees' medical records, and face possible suspension, pay or grade reduction, or removal for prohibited personnel actions, with a right to written notice and 14 days to respond."
+   },
+   {
+    "group": "Probationary federal employees",
+    "how": "They must receive information about whistleblower protections, and GAO will report to Congress on retaliation against them."
+   },
+   {
+    "group": "Department of Veterans Affairs employees",
+    "how": "They get a VA mental health outreach program including telemedicine options, and VA must adopt protocols for threats against employees who provide health care."
+   },
+   {
+    "group": "VA medical center patients and staff at VA police operations",
+    "how": "GAO will study how VA police officers at medical centers are reported on, staffed, and supervised."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

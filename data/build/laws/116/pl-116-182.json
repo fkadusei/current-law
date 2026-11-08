@@ -33,5 +33,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A law that requires federal judges in criminal cases to issue an order reminding prosecutors of their duty to share evidence that helps the defense.",
+  "what_it_does": "The law requires a federal judge in a criminal case to issue an order confirming that the prosecutor must disclose exculpatory evidence. Exculpatory evidence is evidence that may show a defendant is not guilty or may lower a sentence. The official summary describes this order requirement and does not list other details, so this explanation covers only that part of the law.",
+  "who_it_affects": [
+   {
+    "group": "People charged in federal criminal cases",
+    "how": "A judge must issue an order confirming that prosecutors have to share evidence that may help the defense."
+   },
+   {
+    "group": "Federal prosecutors",
+    "how": "They are reminded in a formal court order of their existing duty to disclose exculpatory evidence to the defense."
+   },
+   {
+    "group": "Federal judges handling criminal cases",
+    "how": "They must issue the order confirming the prosecutor's disclosure obligation in criminal proceedings."
+   }
+  ],
+  "when_it_takes_effect": "The law became effective when it was enacted on October 21, 2020; the official summary does not list separate later deadlines.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -1,0 +1,32 @@
+{
+ "headline": "This law makes the VA's Solid Start outreach program for newly separated veterans permanent and expands what it includes.",
+ "what_it_does": "The law permanently authorizes the Solid Start program, which contacts veterans during their first year after leaving the military. The VA must work with the Department of Defense to collect updated contact information during transition classes or separation counseling. The VA must call each covered veteran three times in the first year and explain the program, share information through booklets and its website, and provide information on state and local resources such as Vet Centers. The law also requires tailored information for women veterans, priority outreach for veterans who used mental health resources before separating, and data collection and quality checks to measure how well the program works.",
+ "who_it_affects": [
+  {
+   "group": "Veterans in their first year after leaving the military",
+   "how": "They are eligible to receive three VA phone calls and program information about health care, benefits, and local resources."
+  },
+  {
+   "group": "Women veterans",
+   "how": "They receive outreach materials tailored to their specific health care and benefit needs."
+  },
+  {
+   "group": "Veterans who used mental health resources before separating",
+   "how": "They are given priority for VA outreach during their first year after leaving service."
+  },
+  {
+   "group": "Members of the Armed Forces who are separating",
+   "how": "They may be asked to provide updated contact information during transition classes or separation counseling, and may be encouraged to add contact information if they become hard to reach."
+  },
+  {
+   "group": "Department of Veterans Affairs and Department of Defense",
+   "how": "They must coordinate on collecting contact information, explaining the program, and tracking its effectiveness."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on October 17, 2022, and the summary does not list a separate effective date.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

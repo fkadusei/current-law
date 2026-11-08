@@ -1,0 +1,32 @@
+{
+ "headline": "This 2019 law raised federal spending limits for 2020 and 2021, paused the debt limit until July 2021, and extended several budget rules.",
+ "what_it_does": "The law raises the caps on how much Congress can spend on defense and on nondefense programs for fiscal years 2020 and 2021. It suspends the federal debt limit through July 31, 2021, and then raises the limit to cover borrowing made during that period. It also extends automatic spending cuts (sequestration) for certain mandatory programs through fiscal year 2029 and continues authority to collect certain customs user fees through 2029. Finally, it adjusts funding rules, including extra room in the 2020 limits for the 2020 Census.",
+ "who_it_affects": [
+  {
+   "group": "federal defense agencies and contractors",
+   "how": "The law raises the defense spending limits for fiscal years 2020 and 2021, which allows more defense funding in those years."
+  },
+  {
+   "group": "federal nondefense agencies and the programs they run",
+   "how": "The law raises the nondefense spending limits for fiscal years 2020 and 2021, which allows more funding for those programs in those years."
+  },
+  {
+   "group": "Census Bureau and people who will be counted in the 2020 Census",
+   "how": "The 2020 spending limit is adjusted to make room for specified Census funding."
+  },
+  {
+   "group": "people and programs that depend on mandatory spending",
+   "how": "Automatic spending cuts (sequestration) for certain mandatory programs are extended through fiscal year 2029."
+  },
+  {
+   "group": "importers and businesses that pay customs fees",
+   "how": "The authority to collect certain customs user fees is extended through fiscal year 2029."
+  }
+ ],
+ "when_it_takes_effect": "Enacted August 2, 2019. The spending limits apply to fiscal years 2020 and 2021, the debt limit suspension runs through July 31, 2021, and the sequestration and customs fee extensions run through fiscal year 2029.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

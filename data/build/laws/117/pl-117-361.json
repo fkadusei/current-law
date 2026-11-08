@@ -33,5 +33,24 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A law that extends, until October 1, 2025, federal authority to provide terminal lakes assistance to eligible areas.",
+  "what_it_does": "The law extends the government's authority to provide terminal lakes assistance through October 1, 2025. Terminal lakes are lakes with no natural outlet, so water can only leave through evaporation or seepage. The assistance is authorized under the Farm Security and Rural Investment Act of 2002. The official summary does not describe the specific payments or programs involved.",
+  "who_it_affects": [
+   {
+    "group": "Farmers and ranchers near terminal lakes",
+    "how": "They may continue to be eligible for terminal lakes assistance until the authority expires on October 1, 2025."
+   },
+   {
+    "group": "Residents of areas with terminal lakes",
+    "how": "The extension keeps this federal assistance authority available for a longer period, but the summary does not say who would receive it or how."
+   }
+  ],
+  "when_it_takes_effect": "Enacted January 5, 2023; the extended authority runs through October 1, 2025.",
+  "ceremonial": false,
+  "confidence": "low",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

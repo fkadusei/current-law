@@ -1,0 +1,28 @@
+{
+ "headline": "This law requires anglers fishing for reef fish in the Gulf of Mexico to carry tools that help release fish at depth, and orders studies on fish discard deaths.",
+ "what_it_does": "Fish caught from deep water can suffer barotrauma, a pressure injury that often kills them after release. The law requires commercial and recreational fishermen fishing for reef fish in the Gulf of Mexico Exclusive Economic Zone to have a venting tool or descending device rigged and ready to use. It also directs the Department of Commerce to contract with the National Academy of Sciences for a study and report on discard mortality, and directs Commerce and the Gulf of Mexico Fishery Management Council to create reporting guidance and a plan to assess how well these devices work and how often they are used.",
+ "who_it_affects": [
+  {
+   "group": "Commercial fishermen targeting reef fish in the Gulf of Mexico",
+   "how": "They must have a venting tool or descending device rigged and ready for use when fishing for reef fish in the federal Gulf waters."
+  },
+  {
+   "group": "Recreational anglers fishing for reef fish in the Gulf of Mexico",
+   "how": "They must have a venting tool or descending device rigged and ready for use when fishing for reef fish in the federal Gulf waters."
+  },
+  {
+   "group": "National Oceanic and Atmospheric Administration and the Department of Commerce",
+   "how": "They must arrange a National Academy of Sciences study on reef fish discard mortality and help develop reporting guidance and an effectiveness plan for barotrauma-reducing devices."
+  },
+  {
+   "group": "Gulf of Mexico Fishery Management Council",
+   "how": "It must help develop guidance for reporting discards and a plan to assess the effectiveness and use of barotrauma-reducing devices."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

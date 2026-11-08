@@ -1,0 +1,32 @@
+{
+ "headline": "A 2019 law requires federal agencies to plan for evidence-building, publish data in machine-readable form, and share certain statistical data under confidentiality protections.",
+ "what_it_does": "The law requires agencies to submit yearly plans to the Office of Management and Budget and Congress that list policy questions, the data they need, and the methods they may use to answer them. It requires agencies to publish public data in machine-readable formats, keep a single online federal data catalogue run by the General Services Administration, and name a Chief Data Officer and an Evaluation Officer. It also lets statistical agencies share data assets with each other for evidence-building, while protecting confidentiality and barring sharing where a statute prohibits it.",
+ "who_it_affects": [
+  {
+   "group": "Federal agencies",
+   "how": "They must write annual evidence-building plans, appoint data and evaluation officers, maintain data inventories, and follow OMB guidance for program evaluation."
+  },
+  {
+   "group": "Statistical agencies and units",
+   "how": "They must share data assets with other statistical units for evidence-building and keep that data confidential and used only for statistical purposes."
+  },
+  {
+   "group": "Members of the public and researchers",
+   "how": "They can search a single federal data catalogue and may apply through a new OMB process to access certain data assets held by statistical agencies."
+  },
+  {
+   "group": "Federal employees in program evaluation",
+   "how": "The Office of Personnel Management must define key skills, update an occupational series, and create a new career path for evaluation work."
+  },
+  {
+   "group": "State, local, and tribal governments",
+   "how": "They may apply through the new OMB process to access certain data assets held by statistical agencies."
+  }
+ ],
+ "when_it_takes_effect": "Signed into law on January 14, 2019; the summary does not give specific effective dates for each provision, and deadlines for plans, reports, and guidance are set within the bill's text.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

@@ -36,5 +36,36 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2015 law that makes it U.S. policy to help girls in developing countries get birth documents and to track how foreign aid affects them.",
+  "what_it_does": "The law states that it is U.S. policy to encourage other countries to make sure girls and boys can get official papers such as birth certificates. It lets the Secretary of State and the head of the U.S. Agency for International Development fund programs that improve birth registration and civil records, and programs that fight discrimination against girls in getting birth certificates. It also allows support for efforts to strengthen women's and girls' property, inheritance, education, and economic rights. Finally, it requires reports to Congress that break down foreign aid recipients by age, gender, and other factors, and describe how aid benefits girls.",
+  "who_it_affects": [
+   {
+    "group": "Girls and boys in developing countries without official birth registration",
+    "how": "Programs funded under the law may help them obtain birth certificates and other official documents."
+   },
+   {
+    "group": "Girls and women in developing countries",
+    "how": "Funding may support programs aimed at their property, inheritance, education, and economic opportunities."
+   },
+   {
+    "group": "Local and national governments in developing countries",
+    "how": "They may receive U.S. training and support to improve birth registry and legal systems."
+   },
+   {
+    "group": "Civil society and nongovernmental organizations abroad",
+    "how": "They may receive U.S. training and funding to design and run birth registration and girls' programs."
+   },
+   {
+    "group": "U.S. Agency for International Development and State Department foreign aid staff",
+    "how": "They must collect and report data on aid recipients by age, gender, marital status, location, and school enrollment, and on how aid benefits girls."
+   }
+  ],
+  "when_it_takes_effect": "The law took effect when it was enacted on June 12, 2015, but it authorizes programs rather than requiring them, so actual effects depend on later funding and implementation.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

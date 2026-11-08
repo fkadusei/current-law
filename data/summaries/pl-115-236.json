@@ -1,0 +1,24 @@
+{
+ "headline": "A 2018 law directs the National Institute of Standards and Technology to offer voluntary cybersecurity resources designed for small businesses.",
+ "what_it_does": "The law changes the National Institute of Standards and Technology Act so that NIST must consider small businesses when it helps develop voluntary cybersecurity guidelines for critical infrastructure. NIST must publish free, voluntary resources that small businesses can use to identify, assess, manage, and reduce cyber risks. The resources must not depend on one specific technology, should be based on international standards where possible, and can scale to the business's size and the sensitivity of the data it handles. They must also include real-world case studies, and other federal agencies may post the same resources on their own websites.",
+ "who_it_affects": [
+  {
+   "group": "Small businesses",
+   "how": "They can voluntarily use NIST-published guidance to identify and reduce cybersecurity risks, scaled to their size and the data they store or handle."
+  },
+  {
+   "group": "Critical infrastructure operators",
+   "how": "NIST must consider small businesses when developing voluntary, industry-led cybersecurity guidelines that affect these sectors."
+  },
+  {
+   "group": "Federal agencies",
+   "how": "Agencies may choose to publish the same small business cybersecurity resources on their own websites."
+  }
+ ],
+ "when_it_takes_effect": "The law took effect on its enactment date, August 14, 2018. The summary does not list specific deadlines for NIST to publish the resources.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

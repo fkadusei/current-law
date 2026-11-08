@@ -1,0 +1,20 @@
+{
+ "headline": "This law lets cremated remains of certain people whose military-related service counts as active duty be placed above ground at Arlington National Cemetery with full honors.",
+ "what_it_does": "The law directs the Army to make certain cremated remains eligible for above ground inurnment at Arlington National Cemetery with full military honors. It covers remains not yet interred or inurned as of the law's enactment, and people who die on or after that date. The law also requires the Army to report to Congress on how much room Arlington has left for burials and inurnments, when it might fill, and options for extending that capacity.",
+ "who_it_affects": [
+  {
+   "group": "Family members of certain people whose service was determined to be active duty under the GI Bill Improvement Act of 1977",
+   "how": "They may be able to have a loved one's cremated remains placed above ground at Arlington with full military honors."
+  },
+  {
+   "group": "Arlington National Cemetery and the Department of the Army",
+   "how": "The Army must make these inurnments possible and must prepare a report to Congress on the cemetery's remaining capacity and possible future options."
+  }
+ ],
+ "when_it_takes_effect": "The law took effect when it was enacted on May 20, 2016.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

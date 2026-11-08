@@ -39,5 +39,36 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law lets federal employees be reimbursed for rideshare and similar transportation when traveling on official business, and requires agencies to report travel payment data.",
+  "what_it_does": "The law directs the General Services Administration to write rules that allow federal employees traveling for work to be repaid for using ride services like Uber or Lyft, or other innovative mobility options. The Administrative Office of the United States Courts must write similar rules for judicial branch employees. It also requires each agency to send the GSA yearly data on travel and relocation payments and a review of transportation costs, and the GSA must make that data public when it receives it.",
+  "who_it_affects": [
+   {
+    "group": "Federal executive branch employees who travel for official business",
+    "how": "They may be reimbursed for rideshare or other transportation network company trips taken while on work travel, under the rules GSA issues."
+   },
+   {
+    "group": "Federal judicial branch employees who travel for official business",
+    "how": "The Administrative Office of the United States Courts must issue rules allowing reimbursement for similar ride services during work travel."
+   },
+   {
+    "group": "Rideshare and transportation network companies such as Uber and Lyft",
+    "how": "Their services become eligible for reimbursement when used by federal travelers, under the new regulations."
+   },
+   {
+    "group": "Federal agencies",
+    "how": "Each agency must submit annual travel and relocation payment data and a transportation cost analysis to the GSA."
+   },
+   {
+    "group": "Members of the public interested in federal spending",
+    "how": "The GSA must publish the agency travel payment data it receives, making it available to view."
+   }
+  ],
+  "when_it_takes_effect": "The law does not list a specific effective date; it depends on when GSA and the courts issue their implementing regulations and when the annual reporting cycle begins.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

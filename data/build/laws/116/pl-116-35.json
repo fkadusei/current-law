@@ -36,5 +36,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2019 law widens who can join The American Legion and bars discrimination in its staff hiring.",
+  "what_it_does": "The law expands American Legion membership to veterans and current servicemembers who served at any time after December 7, 1941, not just those who served in congressionally specified wartime periods. It also prohibits The American Legion from discriminating based on race, color, religion, sex, or national origin when filling staff positions.",
+  "who_it_affects": [
+   {
+    "group": "Veterans who served after December 7, 1941, outside designated war periods",
+    "how": "They become eligible to join The American Legion, which previously limited membership to those who served in specified wartime periods."
+   },
+   {
+    "group": "Currently serving servicemembers",
+    "how": "They become eligible to join The American Legion, including while still on active service."
+   },
+   {
+    "group": "The American Legion and its staff applicants",
+    "how": "The organization must not discriminate by race, color, religion, sex, or national origin when hiring for staff positions."
+   }
+  ],
+  "when_it_takes_effect": "Enacted July 30, 2019; the official summary does not describe a separate effective date.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

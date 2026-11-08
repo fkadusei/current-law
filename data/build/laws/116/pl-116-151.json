@@ -33,5 +33,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law lets certain nonprofits, tribes, and government employers pay half of their unemployment costs up front to ease COVID-19 cash flow strain.",
+  "what_it_does": "The law allows certain governmental entities, federally recognized tribes, and nonprofit organizations to pay 50% of unemployment benefits up front into a state Unemployment Trust Fund, instead of the full amount that the Department of Labor's April 27, 2020 guidance required. The up-front payment can only be used to reduce unemployment payments caused by the COVID-19 pandemic. States may also choose to reimburse these employers or reduce the amounts they owe for weeks of unemployment after March 12, 2020 and before the law was enacted.",
+  "who_it_affects": [
+   {
+    "group": "Nonprofit organizations",
+    "how": "They may pay 50% of their unemployment costs up front instead of the full amount under the earlier federal guidance."
+   },
+   {
+    "group": "Certain governmental entities",
+    "how": "They may use the same up-front payment option to cover COVID-19 unemployment costs."
+   },
+   {
+    "group": "Federally recognized tribes",
+    "how": "They may use the same up-front payment option to cover COVID-19 unemployment costs."
+   },
+   {
+    "group": "State unemployment agencies",
+    "how": "They may choose to reimburse or reduce amounts owed for COVID-19 unemployment weeks after March 12, 2020 and before enactment."
+   }
+  ],
+  "when_it_takes_effect": "The summary does not state a separate effective date, so it appears to take effect when the law was enacted on August 3, 2020.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

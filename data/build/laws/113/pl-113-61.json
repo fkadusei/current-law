@@ -3514,5 +3514,28 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "This law reorganizes the federal court districts in southern Mississippi from five divisions into four, with courts held in Jackson, Gulfport, Hattiesburg, and Natchez.",
+  "what_it_does": "It changes the federal judicial code so the Southern District of Mississippi has four divisions instead of five. Court will be held in Jackson for the Northern Division, Gulfport for the Southern Division, Hattiesburg for the Eastern Division, and Natchez for the Western Division. The law also lists which Mississippi counties belong to each division.",
+  "who_it_affects": [
+   {
+    "group": "People who live in the counties that moved to a different division",
+    "how": "Their federal cases would be heard in the court location assigned to their new division."
+   },
+   {
+    "group": "Lawyers and parties who file cases in federal court in southern Mississippi",
+    "how": "They need to know which division and courthouse handles a case based on the county involved."
+   },
+   {
+    "group": "Federal court staff in the Southern District of Mississippi",
+    "how": "Court operations and case assignments are organized around the new four-division structure."
+   }
+  ],
+  "when_it_takes_effect": "The summary does not state a separate effective date. The law was enacted on December 20, 2013.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

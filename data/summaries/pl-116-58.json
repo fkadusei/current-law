@@ -1,0 +1,28 @@
+{
+ "headline": "A 2019 law raised VA disability pay, dependent add-ons, clothing allowances, and survivor benefits by the same percentage as the Social Security cost-of-living increase.",
+ "what_it_does": "The law directs the Department of Veterans Affairs to increase several monthly benefit rates starting December 1, 2019. These include disability compensation for veterans, extra payments for dependents, the clothing allowance for certain disabled veterans, and dependency and indemnity compensation for surviving spouses and children. The increase percentage matches the cost-of-living increase used for Social Security recipients. The bill also lets the VA adjust rates for certain people who receive VA benefits but have not received compensation for a service-connected disability or death, and it requires the VA to publish the new rates by a set date.",
+ "who_it_affects": [
+  {
+   "group": "Veterans receiving VA disability compensation",
+   "how": "Their monthly disability payments rose starting December 1, 2019, by the Social Security cost-of-living percentage."
+  },
+  {
+   "group": "Veterans with dependents receiving additional compensation",
+   "how": "The extra monthly amounts paid for spouses, children, and other dependents also increased."
+  },
+  {
+   "group": "Certain disabled veterans eligible for the clothing allowance",
+   "how": "The yearly clothing allowance amount increased."
+  },
+  {
+   "group": "Surviving spouses and children receiving dependency and indemnity compensation",
+   "how": "Their monthly survivor payments increased by the same percentage."
+  }
+ ],
+ "when_it_takes_effect": "The benefit increases took effect December 1, 2019.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

@@ -39,5 +39,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2018 law states that it is U.S. policy to encourage official visits between U.S. and Taiwanese government officials.",
+  "what_it_does": "The Taiwan Travel Act says it is the sense of Congress that the U.S. should encourage visits between U.S. and Taiwanese officials at all levels. It states that U.S. officials may travel to Taiwan to meet their Taiwanese counterparts. It also says high-level Taiwanese officials should be allowed to enter the United States under respectful conditions and meet with U.S. officials, including from the State and Defense Departments. Finally, it encourages Taiwan's representative office and similar bodies to conduct business in the United States.",
+  "who_it_affects": [
+   {
+    "group": "U.S. government officials",
+    "how": "The law states that officials at all levels may travel to Taiwan to meet with their Taiwanese counterparts."
+   },
+   {
+    "group": "Taiwanese government officials",
+    "how": "The law states that high-level Taiwanese officials should be permitted to enter the U.S. under respectful conditions and meet with U.S. officials."
+   },
+   {
+    "group": "Taipei Economic and Cultural Representative Office",
+    "how": "The law encourages this office and similar Taiwanese bodies to conduct business in the United States."
+   }
+  ],
+  "when_it_takes_effect": "The law took effect when it was enacted on March 16, 2018.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

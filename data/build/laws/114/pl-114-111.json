@@ -3539,5 +3539,28 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "This law makes broadcasting and telecommunications facilities eligible for certain federal disaster aid as essential private nonprofit facilities.",
+  "what_it_does": "It changes the Robert T. Stafford Disaster Relief and Emergency Assistance Act. Under the change, a broadcasting facility can count as a private nonprofit facility that provides essential services of a governmental nature to the public. Broadcast and telecommunications are also added to the list of critical services those facilities provide. These changes affect whether such facilities can qualify for certain disaster assistance.",
+  "who_it_affects": [
+   {
+    "group": "Nonprofit broadcasting facilities",
+    "how": "Public broadcasting and similar nonprofit stations may now qualify for certain federal disaster assistance that they could not previously receive under this definition."
+   },
+   {
+    "group": "State and local governments responsible for disaster recovery",
+    "how": "Governments that apply for or manage disaster aid may now be able to include eligible nonprofit broadcast and telecommunications facilities in their requests."
+   },
+   {
+    "group": "Communities served by broadcast and telecommunications services",
+    "how": "People in disaster-affected areas may benefit if local broadcast and telecommunications services are repaired or kept running with federal aid."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on December 18, 2015, and the summary does not give a separate effective date.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

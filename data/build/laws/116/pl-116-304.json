@@ -42,5 +42,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2021 law lets the FDA destroy imported counterfeit medical devices.",
+  "what_it_does": "The law gives the Food and Drug Administration authority to destroy medical devices that are imported into the United States and are counterfeit, meaning fake copies of real products. The official summary is short and does not describe the process, limits, or notice requirements. It became law on January 5, 2021.",
+  "who_it_affects": [
+   {
+    "group": "Importers of medical devices",
+    "how": "Companies that bring medical devices into the country may have counterfeit shipments seized or destroyed by the FDA."
+   },
+   {
+    "group": "Manufacturers of genuine medical devices",
+    "how": "Makers of authentic devices may see fake copies of their products taken out of the market."
+   },
+   {
+    "group": "Patients and health care providers who use medical devices",
+    "how": "People and hospitals that rely on medical devices may be less likely to receive fake products made to look like real ones."
+   }
+  ],
+  "when_it_takes_effect": "It became law on January 5, 2021; the official summary does not give a separate effective date.",
+  "ceremonial": false,
+  "confidence": "low",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

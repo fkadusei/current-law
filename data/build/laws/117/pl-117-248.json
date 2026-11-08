@@ -3520,5 +3520,32 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2022 law directs the Department of Homeland Security to create firefighter training and public guidance on reducing exposure to PFAS chemicals from firefighting foam and gear.",
+  "what_it_does": "The law requires the Department of Homeland Security to develop guidance and training for firefighters and other emergency responders on limiting exposure to PFAS, a group of man-made chemicals, from firefighting foam and protective equipment. DHS must make a training curriculum available that covers PFAS-free foams, alternative equipment, and ways to keep these chemicals out of the environment. The U.S. Fire Administration will advise DHS on what the curriculum should include. DHS must also set up a public online repository of tools and best practices for reducing PFAS releases and exposure.",
+  "who_it_affects": [
+   {
+    "group": "Firefighters and other emergency response personnel",
+    "how": "They can use a federal training curriculum on safer foams, protective gear, and equipment that does not contain PFAS."
+   },
+   {
+    "group": "Fire departments and emergency response agencies",
+    "how": "They gain access to federal guidance and training materials they can use to reduce firefighter exposure to PFAS."
+   },
+   {
+    "group": "Manufacturers and suppliers of firefighting foam and protective gear",
+    "how": "The guidance and curriculum highlight non-PFAS alternatives, which may affect demand for certain products."
+   },
+   {
+    "group": "The general public",
+    "how": "They can use a new online repository of federal tools and best practices for reducing PFAS releases into the environment."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -39,5 +39,24 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2018 law lets federal energy regulators extend, for up to six years, the deadline to start building the Gathright Hydroelectric Project in Virginia.",
+  "what_it_does": "The law allows the Federal Energy Regulatory Commission to extend the time allowed to begin construction on the Gathright Hydroelectric Project in Alleghany County, Virginia, by up to six years. The extension must be requested. The law also lets FERC reinstate the construction license if it has expired.",
+  "who_it_affects": [
+   {
+    "group": "The company or entity holding the license for the Gathright Hydroelectric Project",
+    "how": "It can ask FERC for up to six more years to start construction and may have an expired construction license reinstated."
+   },
+   {
+    "group": "Federal Energy Regulatory Commission (FERC)",
+    "how": "It gains authority to grant the extension and reinstate an expired construction license for this specific project."
+   }
+  ],
+  "when_it_takes_effect": "The summary does not state a separate effective date; the law was enacted on July 23, 2018.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

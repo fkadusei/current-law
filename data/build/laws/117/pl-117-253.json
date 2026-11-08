@@ -3520,5 +3520,28 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "This law removes a 2006 requirement that the Department of Homeland Security write rules limiting how contractors pass disaster-related work down to subcontractors.",
+  "what_it_does": "The Post-Katrina Emergency Management Reform Act of 2006 required the Department of Homeland Security to create regulations to reduce excessive use of subcontractors and layers of subcontractors on contracts for disaster response or recovery. This law repeals that requirement, so DHS no longer has to issue those rules. The law applies to natural and man-made disasters.",
+  "who_it_affects": [
+   {
+    "group": "Department of Homeland Security",
+    "how": "It no longer has to create regulations limiting the use of subcontractor layers on disaster response and recovery contracts."
+   },
+   {
+    "group": "Federal contractors that handle disaster response or recovery work",
+    "how": "The rulemaking that would have limited how they subcontract this work is no longer required."
+   },
+   {
+    "group": "Subcontractors on disaster response and recovery contracts",
+    "how": "The rulemaking that would have limited how many tiers of subcontractors could perform the main work is no longer required."
+   }
+  ],
+  "when_it_takes_effect": "The summary does not give a separate effective date, so it appears to have taken effect when the law was enacted on December 20, 2022.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

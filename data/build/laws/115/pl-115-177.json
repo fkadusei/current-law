@@ -3530,5 +3530,28 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2018 law lets the VA help disabled veterans in its job-training program pay for home changes, up to a set dollar limit.",
+  "what_it_does": "The law allows the Department of Veterans Affairs to help a veteran with a service-connected disability pay for home modifications needed for rehabilitation and employment training. Help is limited to $77,307 per veteran in total, though the VA can waive that cap when needed for a veteran's program. The VA must raise the limit over time and report to Congress every two years on how it uses the waiver. Assistance cannot be given if it would duplicate other benefits.",
+  "who_it_affects": [
+   {
+    "group": "Veterans with service-connected disabilities in VA vocational rehabilitation and employment programs",
+    "how": "They may receive VA help paying for home changes, such as accessibility adaptations, up to a total limit that the VA can adjust."
+   },
+   {
+    "group": "Veterans under age 70 who receive this home adaptation assistance",
+    "how": "The VA is not required to provide mortgage life insurance to them in connection with this assistance."
+   },
+   {
+    "group": "Congress and the VA",
+    "how": "The VA must report to Congress every two years on its use of the waiver authority and must adjust the assistance limit each year."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on June 1, 2018, and the summary does not list a separate later start date.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

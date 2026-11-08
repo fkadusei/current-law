@@ -1,0 +1,20 @@
+{
+ "headline": "This 2020 law requires the Department of Veterans Affairs to report on how its whole health care approach is being carried out, including access to services like hypnosis and acupuncture.",
+ "what_it_does": "The law directs the Department of Veterans Affairs to produce a report on its whole health approach to care. Whole health looks at many parts of a person's life that can affect health and builds a health plan around each person's own goals. The report must analyze how easy it is to get and how available a range of services are, including hypnosis and acupuncture.",
+ "who_it_affects": [
+  {
+   "group": "Veterans who receive care through the VA health system",
+   "how": "The report is meant to show whether services such as hypnosis and acupuncture are accessible and available to them under the whole health approach."
+  },
+  {
+   "group": "The Department of Veterans Affairs and its health care staff",
+   "how": "The department must prepare and submit an analysis of whole health implementation as the law requires."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on October 30, 2020, and the summary does not specify a separate reporting deadline.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

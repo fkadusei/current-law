@@ -3536,5 +3536,28 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "Congress authorized the Treasury to mint special breast cancer awareness coins, with surcharges from sales going to a breast cancer research group.",
+  "what_it_does": "The law directs the Treasury Department to mint and issue up to 50,000 five-dollar gold coins, 400,000 one-dollar silver coins, and 750,000 half-dollar coins with a breast cancer awareness design. The design is to come from a juried design competition, and the coins may be sold only during 2018. Each coin sale must include a surcharge: $35 per gold coin, $10 per silver coin, and $5 per half-dollar coin. The Treasury must pay the surcharges to the Breast Cancer Research Foundation under a set distribution formula.",
+  "who_it_affects": [
+   {
+    "group": "Coin collectors and buyers",
+    "how": "People who want these commemorative coins can buy them during the 2018 sale window, and each purchase includes the added surcharge."
+   },
+   {
+    "group": "Breast Cancer Research Foundation",
+    "how": "The foundation receives the surcharge money collected from coin sales."
+   },
+   {
+    "group": "Artists and designers",
+    "how": "Designers can enter the juried, compensated design competition to have their work chosen for the coins."
+   }
+  ],
+  "when_it_takes_effect": "The coins may be issued only during the one-year period beginning January 1, 2018.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

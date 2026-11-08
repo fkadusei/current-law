@@ -1,0 +1,20 @@
+{
+ "headline": "A 2018 law lets federal regulators extend the construction deadline for a Montana hydroelectric project on the Gibson Dam and revive its license if it has expired.",
+ "what_it_does": "The law lets the Federal Energy Regulatory Commission, upon request, extend by up to six years the time allowed to begin construction on the Gibson Dam Hydroelectric Project on the Sun River in Montana. It also lets FERC reinstate the project's construction license if that license has already expired.",
+ "who_it_affects": [
+  {
+   "group": "The entity holding the FERC construction license for the Gibson Dam Hydroelectric Project",
+   "how": "It can ask FERC for up to six more years to start construction and, if its license has expired, ask FERC to reinstate it."
+  },
+  {
+   "group": "People living in Lewis, Clark, and Teton Counties, Montana",
+   "how": "The project sits in these counties, so any construction that goes forward there would take place in their area under the extended timeline."
+  }
+ ],
+ "when_it_takes_effect": "Enacted July 27, 2018; the official summary does not list a separate effective date.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

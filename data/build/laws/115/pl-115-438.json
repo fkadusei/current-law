@@ -3528,5 +3528,24 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "This law lets the federal government lease back buildings on federal property it has sold, for up to three years, to help complete the sale.",
+  "what_it_does": "It amends the Federal Assets Sale and Transfer Act of 2016. Under the change, existing improvements on a property sold under that Act can be leased back to the federal government for up to three years. The stated purpose is to make the sale easier to complete.",
+  "who_it_affects": [
+   {
+    "group": "Federal agencies that occupy federal real property being sold",
+    "how": "They may be able to keep using existing buildings on a sold property by leasing them back for up to three years."
+   },
+   {
+    "group": "Buyers of federal real property sold under the Federal Assets Sale and Transfer Act of 2016",
+    "how": "A sale may include a leaseback of existing improvements to the federal government for up to three years, so the buyer may not get immediate use of those improvements."
+   }
+  ],
+  "when_it_takes_effect": "Enacted January 14, 2019.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

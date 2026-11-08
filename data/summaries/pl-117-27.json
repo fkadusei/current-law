@@ -1,0 +1,28 @@
+{
+ "headline": "This law directs more money into the Crime Victims Fund and changes how states get victim compensation and assistance grants.",
+ "what_it_does": "The law sends money from deferred prosecution and non-prosecution agreements into the Crime Victims Fund instead of the general Treasury fund. It raises the share of state victim compensation payments used to calculate federal formula grants from 60% to 75%. It also lets states waive the matching-funds requirement for victim assistance grants during and for one year after a pandemic-related national emergency, and allows states to waive it under their own policies.",
+ "who_it_affects": [
+  {
+   "group": "Crime victims who apply to state compensation programs",
+   "how": "Because the formula base is larger, states may receive more federal grant money to pay compensation to victims of crime."
+  },
+  {
+   "group": "State victim compensation programs",
+   "how": "These programs can use a higher share of their prior-year payments to calculate federal formula grants."
+  },
+  {
+   "group": "State victim assistance programs and their grant recipients",
+   "how": "They may be excused from providing matching funds during a pandemic-related emergency and for one year afterward, or under a state-established policy."
+  },
+  {
+   "group": "Companies and organizations that enter deferred prosecution or non-prosecution agreements with the government",
+   "how": "Money paid under these agreements is now deposited into the Crime Victims Fund rather than the general Treasury fund."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on July 22, 2021, and its changes took effect on that date.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

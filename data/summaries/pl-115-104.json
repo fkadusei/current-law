@@ -1,0 +1,28 @@
+{
+ "headline": "A 2018 law directs the National Park Service to set up a U.S. Civil Rights Network that links sites and programs about the African American civil rights movement from 1939 to 1968.",
+ "what_it_does": "The law requires the Department of the Interior to create a network within the National Park Service. It covers National Park Service sites and programs tied to the African American civil rights movement from 1939 through 1968, and it can include other historic properties and educational or research facilities. Interior must review existing civil rights studies, produce and share educational materials, offer technical help, and adopt an official symbol for the network with rules for its use. The network expires seven years after enactment.",
+ "who_it_affects": [
+  {
+   "group": "National Park Service and Department of the Interior",
+   "how": "They must set up and run the network, review civil rights studies, create educational materials, provide technical assistance, and set rules for an official symbol."
+  },
+  {
+   "group": "Owners of historic properties related to the civil rights movement",
+   "how": "Privately owned, state, local, and other federal properties that are listed or eligible for the National Register of Historic Places can be included only with the owner's consent."
+  },
+  {
+   "group": "Museums, schools, and research or educational facilities",
+   "how": "Facilities whose work directly relates to the civil rights movement may be included in the network as educational, research, or interpretive sites."
+  },
+  {
+   "group": "Visitors interested in civil rights history",
+   "how": "They may find more educational materials and linked sites that document the 1939 to 1968 movement."
+  }
+ ],
+ "when_it_takes_effect": "The law took effect when it was enacted on January 8, 2018, and the network is set to expire seven years after that date, around January 2025.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

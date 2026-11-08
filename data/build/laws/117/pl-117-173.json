@@ -3509,5 +3509,24 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "This law adds certain computer-related infrastructure projects, such as semiconductor, AI, and cybersecurity facilities, to a federal program that speeds up environmental review and permits.",
+  "what_it_does": "The law expands FAST-41, the expedited environmental review and permitting process created under the FAST Act. It allows projects involving semiconductors, artificial intelligence and machine learning, high-performance computing, quantum information science, data storage and management, or cybersecurity to use that faster process. The official summary does not describe the specific steps or deadlines that apply to each project.",
+  "who_it_affects": [
+   {
+    "group": "Companies planning semiconductor, data storage, or other computer-related infrastructure projects",
+    "how": "They may be able to use the expedited federal environmental review and permitting process for qualifying projects."
+   },
+   {
+    "group": "Federal agencies that review and issue permits for infrastructure projects",
+    "how": "They may take part in expedited reviews for the newly eligible computer-related projects."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on August 16, 2022, and the official summary does not list a separate effective date.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

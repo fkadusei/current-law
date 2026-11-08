@@ -36,5 +36,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Names a Wilmington, Delaware, post office after abolitionist Mary Ann Shadd Cary.",
+  "what_it_does": "This law renames a United States Postal Service facility at 500 Delaware Avenue, Suite 1, in Wilmington, Delaware, as the \"Mary Ann Shadd Cary Post Office.\" It is an honorary naming and does not change how mail is delivered or how the office operates. Shadd Cary was a 19th-century abolitionist, writer, and educator.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law took effect when it was enacted on January 5, 2021.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

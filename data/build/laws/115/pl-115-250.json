@@ -33,5 +33,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law briefly extends federal airport funding, FAA programs, and airport-related taxes until early October 2018.",
+  "what_it_does": "It is a short-term extension, not a full reauthorization. It keeps airport planning, development, and noise compatibility programs running at increased funding levels until October 7, 2018. It also extends several expiring aviation authorities, including ones from the Vision 100 and FAA Modernization and Reform Act laws, through that same date. In addition, it extends the Airport and Airway Trust Fund's spending authority through October 8, 2018, and the excise taxes that feed the fund.",
+  "who_it_affects": [
+   {
+    "group": "Airports",
+    "how": "They can keep receiving federal planning, development, and noise compatibility funding under the extended levels until early October 2018."
+   },
+   {
+    "group": "Air travelers",
+    "how": "The aviation excise taxes that fund the Airport and Airway Trust Fund stay in place through early October 2018, so ticket-related taxes continue to be collected."
+   },
+   {
+    "group": "Federal Aviation Administration",
+    "how": "Several expiring FAA aviation authorities remain in effect through early October 2018 instead of lapsing."
+   }
+  ],
+  "when_it_takes_effect": "Enacted September 29, 2018; the extensions run through October 7 or October 8, 2018, depending on the provision.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

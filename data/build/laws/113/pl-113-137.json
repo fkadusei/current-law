@@ -42,5 +42,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Lets the National Park Service allow fish stocking in up to 42 of the 91 historically stocked mountain lakes in North Cascades-area national park lands, using only certain non-reproducing native fish.",
+  "what_it_does": "The law directs the Secretary of the Interior to authorize fish stocking in lakes within North Cascades National Park, Ross Lake National Recreation Area, and Lake Chelan National Recreation Area. It caps stocking at no more than 42 of the 91 lakes that have historically been stocked. Only fish native to the Cascade Range slope where the lake sits, and that do not reproduce, may be used. The Secretary must consider scientific information, must coordinate with Washington State, and must keep up and report on a research and monitoring program about stocking impacts.",
+  "who_it_affects": [
+   {
+    "group": "Anglers who fish mountain lakes in the North Cascades National Park Service Complex",
+    "how": "Fishing in some historically stocked lakes may continue or resume, but only in up to 42 lakes and only with the approved fish types."
+   },
+   {
+    "group": "Washington State fish and wildlife managers",
+    "how": "The National Park Service must coordinate its stocking decisions with the state of Washington."
+   },
+   {
+    "group": "National Park Service staff",
+    "how": "They must choose which lakes to stock, use non-reproducing native fish, and continue a research and monitoring program that reports to Congress."
+   },
+   {
+    "group": "Native aquatic ecosystems in the affected lakes",
+    "how": "Stocking decisions must consider scientific information and monitoring results about impacts on local resources."
+   }
+  ],
+  "when_it_takes_effect": "Upon enactment on July 25, 2014, though the text does not set a specific start date for stocking.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

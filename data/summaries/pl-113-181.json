@@ -1,0 +1,32 @@
+{
+ "headline": "This law requires VA to raise certain veterans' disability and survivor benefits starting December 1, 2014, by the same percentage as the Social Security benefit increase.",
+ "what_it_does": "It directs the Secretary of Veterans Affairs to increase several monthly payments to veterans and their families. The payments include disability compensation, extra pay for dependents, the clothing allowance for certain disabled veterans, and dependency and indemnity compensation for surviving spouses and children. Each increase matches the percentage increase in Social Security benefits under Title II and takes effect on the same date.",
+ "who_it_affects": [
+  {
+   "group": "Veterans receiving VA disability compensation",
+   "how": "Their monthly disability payments rise by the same percentage as Social Security benefits starting December 1, 2014."
+  },
+  {
+   "group": "Veterans with dependents receiving additional compensation",
+   "how": "The extra amounts paid for their dependents increase by the same Social Security percentage."
+  },
+  {
+   "group": "Certain disabled veterans receiving the clothing allowance",
+   "how": "The clothing allowance they receive increases by the same Social Security percentage."
+  },
+  {
+   "group": "Surviving spouses receiving dependency and indemnity compensation",
+   "how": "Their survivor payments rise by the same Social Security percentage."
+  },
+  {
+   "group": "Surviving children receiving dependency and indemnity compensation",
+   "how": "Their survivor payments rise by the same Social Security percentage."
+  }
+ ],
+ "when_it_takes_effect": "December 1, 2014",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

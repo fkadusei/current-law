@@ -1,0 +1,36 @@
+{
+ "headline": "The FY2020 defense policy law sets military personnel levels and authorizes Pentagon, Energy Department, and national security spending and policies for 2020.",
+ "what_it_does": "This law authorizes spending for the Department of Defense and related national security programs for fiscal year 2020, but it does not provide the money itself, which comes later in appropriations bills. It sets the number of active duty and reserve service members allowed, and covers rules on pay and benefits, health care, military housing privatization, acquisition, and civilian personnel. It also sets policies on paid family leave for federal employees, limits on using criminal history in federal hiring and contracting, PFAS chemicals, North Korea sanctions, and sanctions on foreign traffickers of illicit synthetic opioids.",
+ "who_it_affects": [
+  {
+   "group": "Active duty and reserve military members",
+   "how": "The law sets their authorized personnel strengths and includes policies on their pay, benefits, and health care."
+  },
+  {
+   "group": "Military families living in base housing",
+   "how": "The law sets policy on military housing privatization, which changes how some on-base housing is owned and managed."
+  },
+  {
+   "group": "National Guard and Reserve members",
+   "how": "The law includes policies on Guard and Reserve facilities, compensation, and other personnel benefits."
+  },
+  {
+   "group": "Federal civilian employees",
+   "how": "The law sets policy on paid family leave for federal personnel and on civilian personnel matters at the Defense Department."
+  },
+  {
+   "group": "Job applicants and businesses that contract with the federal government",
+   "how": "The law limits how federal hiring and contracting decisions may use an applicant's criminal history."
+  },
+  {
+   "group": "Communities near military sites exposed to PFAS chemicals",
+   "how": "The law sets policies on perfluoroalkyl and polyfluoroalkyl substances (PFAS), which are chemicals that have been found in some military-area water and soil."
+  }
+ ],
+ "when_it_takes_effect": "The law was signed on December 20, 2019, and its authorizations cover fiscal year 2020, which runs from October 1, 2019 through September 30, 2020. Individual provisions may have their own start dates, which the summary does not list.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

@@ -1,0 +1,24 @@
+{
+ "headline": "This law directs the Department of Homeland Security to coordinate its work on protecting the nation's food, farm, and animal health systems from terrorism and other serious threats.",
+ "what_it_does": "The law amends the Homeland Security Act of 2002 and tells the Assistant Secretary for Health Affairs at DHS to run a program that brings DHS efforts together. The program oversees DHS duties under an earlier presidential directive on defending U.S. agriculture and food, and it coordinates work on veterinary public health, food defense, and agricultural security. It also sets DHS policy for food, animal, and farm-related incidents, and coordinates screening of domestic and imported food and farm products with other federal agencies.",
+ "who_it_affects": [
+  {
+   "group": "Federal employees at the Department of Homeland Security",
+   "how": "Staff working on food, farm, and animal security are placed under a single coordinating program run by the Assistant Secretary for Health Affairs."
+  },
+  {
+   "group": "Other federal agencies that handle food and agriculture safety",
+   "how": "They are directed to coordinate with DHS on food and agriculture security and on screening of imported and domestic products."
+  },
+  {
+   "group": "Food producers, farmers, and importers",
+   "how": "Screening procedures for domestic and imported food and agricultural products are coordinated across DHS components, which may affect how those products are checked."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on June 30, 2017, and took effect on that date.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

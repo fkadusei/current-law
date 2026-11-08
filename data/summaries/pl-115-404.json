@@ -1,0 +1,24 @@
+{
+ "headline": "This law updates how the Johnson-O'Malley program counts eligible Indian students, requires yearly reports from program partners, and adds consultation and review steps.",
+ "what_it_does": "The law requires the Department of the Interior to update the count of Indian students eligible for the Johnson-O'Malley Program each year. Groups that receive program contracts must report each year on how many students they served and how they used the money. If a group does not file that report, Interior cannot give it program funds for the next fiscal year. The law also requires Interior to consult with tribes, state and local education agencies, and Alaska Native organizations that have not taken part, and it asks the Government Accountability Office to review how the law is carried out.",
+ "who_it_affects": [
+  {
+   "group": "Tribal organizations, schools, and states that hold Johnson-O'Malley contracts",
+   "how": "They must submit a yearly report on the number of students served and how contract funds were used, or they lose eligibility for the next fiscal year's funds."
+  },
+  {
+   "group": "Indian students",
+   "how": "The program's eligible student count is updated every year, which affects how much funding is tied to the students served."
+  },
+  {
+   "group": "Tribes, state and local education agencies, and Alaska Native organizations not currently in the program",
+   "how": "Interior must consult with them to learn whether they want to participate in the program."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

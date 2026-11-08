@@ -3516,5 +3516,28 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "This law makes June 19, known as Juneteenth, a legal public holiday across the United States.",
+  "what_it_does": "The law establishes June 19 as Juneteenth National Independence Day, a legal public holiday. Because it is a federal holiday, federal offices are closed on that day and federal employees have it as a day off. The official summary is brief and does not describe other rules or requirements.",
+  "who_it_affects": [
+   {
+    "group": "Federal employees",
+    "how": "They receive June 19 as a paid federal holiday, so federal offices and agencies are closed that day."
+   },
+   {
+    "group": "Federal Reserve and banks that follow federal holiday schedules",
+    "how": "Their business days are adjusted so that June 19 is treated as a holiday, which can affect when payments and transactions are processed."
+   },
+   {
+    "group": "Private employers and their workers",
+    "how": "The law sets a federal holiday but does not itself require private employers to give workers the day off, so the effect depends on each employer's policies."
+   }
+  ],
+  "when_it_takes_effect": "The law was signed and took effect on June 17, 2021, and the holiday falls on June 19 each year.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

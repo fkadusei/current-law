@@ -39,5 +39,20 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law extends, through 2020, a exemption that lets Secret Service protective staff earn more premium pay than the usual federal limit allows.",
+  "what_it_does": "Federal employees normally face a yearly limit on how much premium pay, such as overtime, they can receive. This law amends the Overtime Pay for Protective Services Act of 2016 to keep Secret Service officers, employees, and agents who perform protective services exempt from that limit. The exemption now runs through 2020 and is subject to certain specified limitations. The summary provided does not list those limitations or give dollar amounts.",
+  "who_it_affects": [
+   {
+    "group": "Secret Service officers, employees, and agents who perform protective services",
+    "how": "They stay exempt from the federal limit on premium pay through 2020, so they can receive more overtime and related pay than other federal workers, subject to the law's specified limits."
+   }
+  ],
+  "when_it_takes_effect": "It took effect when signed on December 21, 2018, and the exemption extends through 2020.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

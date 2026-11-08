@@ -3524,5 +3524,28 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2013 law sets cost and financing rules for the Diamond Fork hydropower plant in Utah and requires a status report if the plant is not producing power within two years.",
+  "what_it_does": "The law treats certain reimbursable project costs as final, which is meant to help develop hydropower on the Diamond Fork System. It bars tax-exempt bonds and certain federal tax credits from financing Diamond Fork power or transmission facilities. It says the federal government is not required to buy or sell the plant's power, and keeps transmission costs out of Colorado River Storage Project power rates. If power production has not started 24 months after enactment, the Interior Secretary must report to Congress with reasons and a timeline.",
+  "who_it_affects": [
+   {
+    "group": "Customers who buy power from the Colorado River Storage Project",
+    "how": "Transmission costs for the Diamond Fork plant cannot be assigned to their power rates."
+   },
+   {
+    "group": "Companies or public entities that finance hydropower facilities on the Diamond Fork System",
+    "how": "They cannot use federal tax-exempt bond interest or certain federal tax credits to finance or refinance these facilities."
+   },
+   {
+    "group": "Western Area Power Administration",
+    "how": "It is not required to buy or market power from the Diamond Fork plant, and it cannot use its Hoover Power Plant Act borrowing authority to fund related transmission studies or construction."
+   }
+  ],
+  "when_it_takes_effect": "The law took effect when signed on July 18, 2013. The 24-month reporting requirement would have applied starting around July 2015 if power production had not begun by then.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

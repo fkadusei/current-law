@@ -1,0 +1,16 @@
+{
+ "headline": "A 2015 law sets a 10-year limit on each Librarian of Congress's term, though a person may be reappointed.",
+ "what_it_does": "The law caps the Librarian of Congress's term at 10 years. The person appointed to the job may be reappointed after that term. The summary does not describe other changes.",
+ "who_it_affects": [
+  {
+   "group": "The Librarian of Congress",
+   "how": "The Librarian's term of service is limited to 10 years, and the Librarian may be reappointed under the same limit."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on November 5, 2015. The summary does not give a separate effective date.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

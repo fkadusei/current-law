@@ -1,0 +1,24 @@
+{
+ "headline": "A 2016 law lets the Interior Department take certain land in six Oregon counties into trust for the Siletz Tribe as part of its reservation.",
+ "what_it_does": "The law amends the Siletz Tribe Indian Restoration Act. It lets the Department of the Interior take additional land into trust for the Siletz Tribe, limited to land inside the original 1855 Siletz Coast Reservation in Benton, Douglas, Lane, Lincoln, Tillamook, and Yamhill counties in Oregon. That land is treated as on-reservation and becomes part of the tribe's reservation, and gaming is prohibited on it.",
+ "who_it_affects": [
+  {
+   "group": "The Siletz Tribe",
+   "how": "The tribe can have additional land in the listed Oregon counties taken into trust and added to its reservation, but gaming is not allowed on that land."
+  },
+  {
+   "group": "The Department of the Interior",
+   "how": "Interior is directed to take eligible land into trust for the tribe and treat it as on-reservation, rather than applying the greater scrutiny it uses for off-reservation requests."
+  },
+  {
+   "group": "Landowners in Benton, Douglas, Lane, Lincoln, Tillamook, and Yamhill counties",
+   "how": "Private land within the original 1855 reservation boundary in these counties may be considered for transfer into trust for the tribe."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted December 14, 2016, and the official summary does not list a separate later start date.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

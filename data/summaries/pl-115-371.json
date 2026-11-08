@@ -1,0 +1,24 @@
+{
+ "headline": "A 2018 law changes when lenders must get a professional appraisal for commercial property used to secure certain small business development loans.",
+ "what_it_does": "The law amends the Small Business Investment Act of 1958. It changes the loan amount above which a real estate appraisal is required for commercial property that secures a Certified Development Company loan. Currently, an appraisal is required for loans of more than $250,000. The law ties that dollar threshold to the appraisal threshold set by federal banking regulators, so the number moves with that outside standard. The official summary does not list the new dollar figure.",
+ "who_it_affects": [
+  {
+   "group": "Small businesses borrowing through Certified Development Company loans",
+   "how": "Loans secured by commercial real property may need a formal appraisal at a different loan size than before, which can affect the cost and timing of closing the loan."
+  },
+  {
+   "group": "Certified Development Companies",
+   "how": "These lenders must follow the new appraisal threshold when deciding whether an appraisal is needed on commercial property."
+  },
+  {
+   "group": "Licensed real estate appraisers",
+   "how": "The number of loans that require a formal appraisal may change, which can change the amount of appraisal work available."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on December 21, 2018. The official summary does not state a separate effective date.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

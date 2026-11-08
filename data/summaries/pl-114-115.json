@@ -1,0 +1,36 @@
+{
+ "headline": "A 2015 federal law that changes several Medicare and Medicaid payment, fraud, and data rules, including wheelchair billing and radiation therapy adjustments.",
+ "what_it_does": "The law temporarily exempts certain wheelchair accessories and cushions for Group 3 power wheelchairs from a Medicare payment adjustment and orders a government study of them. It blocks certain radiation therapy services from being labeled potentially misvalued in 2017 or 2018, and lets Medicare exempt some doctors from electronic health records requirements for 2017. It also sets new criminal penalties of up to 10 years in prison and fines up to $500,000 for illegally buying or selling Medicare, Medicaid, or CHIP beneficiary IDs or billing privileges, and it expands data sharing between Medicare and Medicaid for fraud review.",
+ "who_it_affects": [
+  {
+   "group": "Medicare beneficiaries who use Group 3 complex rehabilitative power wheelchairs",
+   "how": "Certain wheelchair accessories and seat and back cushions for these chairs are temporarily exempt from a Medicare payment adjustment."
+  },
+  {
+   "group": "Radiation therapy providers and Medicare patients receiving radiation therapy",
+   "how": "Certain radiation therapy services cannot be targeted for Medicare payment adjustments as potentially misvalued services in 2017 or 2018."
+  },
+  {
+   "group": "Eligible professionals who use electronic health records under Medicare",
+   "how": "For 2017, Medicare may exempt whole categories of these professionals from meaningful use requirements that would otherwise lead to payment reductions."
+  },
+  {
+   "group": "Medicare administrative contractors",
+   "how": "These private claims processors must receive incentives from Medicare to reduce improper payment error rates in their regions."
+  },
+  {
+   "group": "People and companies that buy or sell Medicare, Medicaid, or CHIP beneficiary information or billing privileges",
+   "how": "Illegal buying or distributing of these IDs or billing privileges can now lead to up to 10 years in prison and large fines."
+  },
+  {
+   "group": "States and people who are dually eligible for Medicare and Medicaid",
+   "how": "States are encouraged to join the Medi-Medi data program, and states can access data on improper Medicare payments made for dually eligible individuals."
+  }
+ ],
+ "when_it_takes_effect": "Enacted December 28, 2015; several provisions apply to specific years, such as 2017 or 2018.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

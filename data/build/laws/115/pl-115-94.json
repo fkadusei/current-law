@@ -39,5 +39,36 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This 2017 law adds congressional oversight rules and report requirements covering several State Department and foreign affairs topics.",
+  "what_it_does": "The law gives the House and Senate Appropriations Committees oversight authority over reports on high-risk diplomatic posts, embassy construction costs, sexual exploitation in U.N. peacekeeping, State Department overseas staffing, and drug supply in the Western Hemisphere. It also amends the earlier Department of State Authorities Act, including changes to certain definitions and reports. It urges the U.S. to block countries with serious human trafficking or human rights records from U.N. Human Rights Council membership, and it asks the President to report on steps toward talks between China and the Dalai Lama about Tibet. It also requires the foreign affairs committees to receive State Department reports before any reorganization of the department or USAID.",
+  "who_it_affects": [
+   {
+    "group": "State Department and USAID staff",
+    "how": "Their department must provide certain reports to Congress and to the foreign affairs committees, including before any reorganization."
+   },
+   {
+    "group": "Members of the House and Senate Appropriations Committees",
+    "how": "They gain oversight authority over several State Department reports and the granting of consular immunity."
+   },
+   {
+    "group": "U.N. peacekeeping personnel",
+    "how": "The law requires reporting and training measures aimed at reducing sexual exploitation in U.N. peacekeeping operations."
+   },
+   {
+    "group": "Foreign service applicants and Foreign Service entry process",
+    "how": "The law changes certain rules and requirements related to entry into the Foreign Service."
+   },
+   {
+    "group": "Congressional foreign affairs committees",
+    "how": "They must receive State Department reports before certain reorganizations take place."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on December 18, 2017, and the summary does not list any other specific effective dates.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -1,0 +1,36 @@
+{
+ "headline": "This annual defense law authorizes about $700 billion in military spending for fiscal year 2019 and sets many rules for the Pentagon, troops, veterans, contractors, and the Energy Department's nuclear programs.",
+ "what_it_does": "The law authorizes funding levels for Defense Department weapons, research, operations, troop pay, health care, and construction, plus Energy Department nuclear security work. It does not itself provide the money; that happens in separate appropriations laws. It also sets many policies, such as military pay and benefit rules, changes to military justice and sexual assault procedures, acquisition and small business contracting rules, and limits on base closures and Guantanamo Bay transfers.",
+ "who_it_affects": [
+  {
+   "group": "Active-duty and reserve service members",
+   "how": "The law sets end-strength levels for the military and changes rules on promotions, bonuses, special pays, allowances, and military justice."
+  },
+  {
+   "group": "Military families and spouses",
+   "how": "The law expands some family support programs, job and credential help for spouses, and childcare-related clearance and safety programs."
+  },
+  {
+   "group": "Veterans and retired service members",
+   "how": "The law changes some benefits, including access to certain military privileges, transition counseling, and rules for burial and records."
+  },
+  {
+   "group": "Defense contractors and small businesses",
+   "how": "The law changes contracting, pricing, data rights, bid protest studies, and small business programs, and it adds rules on foreign-made and foreign-linked products."
+  },
+  {
+   "group": "Residents of military installations and nearby communities",
+   "how": "The law authorizes construction and land transfers at specific bases and sets rules on facility projects and base closures."
+  },
+  {
+   "group": "Employees at Energy Department nuclear sites",
+   "how": "The law authorizes funding and sets requirements for the National Nuclear Security Administration and related cleanup and safety programs."
+  }
+ ],
+ "when_it_takes_effect": "Most provisions took effect when the law was enacted on August 13, 2018, and many include later deadlines set in each section; military construction titles took effect October 1, 2018, or on enactment if later.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

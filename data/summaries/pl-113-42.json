@@ -1,0 +1,24 @@
+{
+ "headline": "This law extends a special immigrant visa program for Iraqis who worked for the U.S. government and temporarily raises a visa processing fee by $1.",
+ "what_it_does": "It sets the number of Iraqis who can get special immigrant status in the first three months of fiscal year 2014 at the number of pending applications on September 30, 2013, plus 2,000. It sets a December 15, 2013 deadline for applications under this program. It also directs the Secretary of State to add $1 to a fee charged for processing certain machine-readable nonimmigrant visas and combined border crossing ID cards. The money collected from that increase goes to the U.S. general fund.",
+ "who_it_affects": [
+  {
+   "group": "Iraqis who worked for the U.S. government or its contractors in Iraq",
+   "how": "They have a set window and a December 15, 2013 deadline to apply for special immigrant status, and the number of slots available in that period is set by this law."
+  },
+  {
+   "group": "Nonimmigrant visa applicants",
+   "how": "People applying for certain machine-readable nonimmigrant visas or combined border crossing ID cards pay an extra $1 processing fee."
+  },
+  {
+   "group": "U.S. Department of State",
+   "how": "The department must raise the visa fee by $1 and deposit the extra money into the Treasury's general fund."
+  }
+ ],
+ "when_it_takes_effect": "Enacted October 4, 2013; the application deadline is December 15, 2013, and the fee increase is temporary.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

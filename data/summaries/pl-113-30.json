@@ -1,0 +1,24 @@
+{
+ "headline": "This law delays until January 3, 2015, a deadline for the Transportation Department to post pipeline safety reference documents free online, and it loosens how those documents must be made public.",
+ "what_it_does": "Pipeline safety rules often refer to outside technical documents, a practice called incorporation by reference. Before this law, DOT could adopt those documents only if they were posted free on a public website, with a deadline of January 3, 2012. This law moves that deadline to January 3, 2015. It also removes the rule that limited public availability to internet posting and drops a bar on issuing guidance when those requirements are not met.",
+ "who_it_affects": [
+  {
+   "group": "Pipeline operators",
+   "how": "The timing and method for making referenced pipeline safety documents public changes, which affects the standards they must follow."
+  },
+  {
+   "group": "Members of the public who want to read pipeline safety standards",
+   "how": "Referenced documents no longer have to be available only on the internet, which changes how they can be accessed."
+  },
+  {
+   "group": "Department of Transportation pipeline safety staff",
+   "how": "They receive more time and flexibility in publishing referenced documents and issuing guidance."
+  }
+ ],
+ "when_it_takes_effect": "Upon enactment on August 9, 2013, with the revised deadline of January 3, 2015.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

@@ -1,0 +1,28 @@
+{
+ "headline": "This law ends the major parties' convention funding from presidential campaign money and redirects it to a 10-year fund for children's medical research at the NIH.",
+ "what_it_does": "The law stops the major and minor political parties from getting federal money from the Presidential Election Campaign Fund for their presidential nominating conventions. The money held for those party conventions is moved into a new 10-Year Pediatric Research Initiative Fund. The National Institutes of Health must use that fund only to make grants for pediatric research, with the money spread across its national research institutes and centers. The law authorizes $12.6 million per year from the fund for fiscal years 2014 through 2023, and the money must add to, not replace, existing NIH pediatric research funding.",
+ "who_it_affects": [
+  {
+   "group": "Political parties seeking convention money from the Presidential Election Campaign Fund",
+   "how": "They no longer receive the federal payment for presidential nominating conventions, and their convention accounts are moved into the new pediatric research fund."
+  },
+  {
+   "group": "Children with serious illnesses and their families",
+   "how": "Pediatric research projects funded through the NIH may receive additional grant money aimed at child health problems."
+  },
+  {
+   "group": "Medical researchers who study children's health",
+   "how": "They may be able to apply for NIH grants for pediatric research paid from this new fund."
+  },
+  {
+   "group": "National Institutes of Health research institutes and centers",
+   "how": "They must share the fund's money for pediatric research grants and coordinate across institutes on selected projects."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on April 3, 2014, and the fund's annual authorization runs for fiscal years 2014 through 2023.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

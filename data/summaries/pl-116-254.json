@@ -1,0 +1,24 @@
+{
+ "headline": "A 2020 law requires U.S. Customs and Border Protection to improve how it detects illegal drugs at ports of entry.",
+ "what_it_does": "The law directs U.S. Customs and Border Protection (CBP) to make sure its chemical screening devices can identify narcotics even when they are mixed at low purity, at or below 10 percent, or to find another way to detect those lower-purity drugs. CBP must also test new screening devices at different purity levels before it agrees to buy them. In addition, the Department of Homeland Security must create a long-term plan for a central spectral database that supports these devices.",
+ "who_it_affects": [
+  {
+   "group": "CBP officers and staff at ports of entry",
+   "how": "They will work with new screening strategies and test requirements for the chemical devices they use to check travelers and cargo for drugs."
+  },
+  {
+   "group": "Companies that make chemical screening devices",
+   "how": "They must show that their devices are tested at various purity levels before CBP will commit to buying them."
+  },
+  {
+   "group": "Travelers and shippers entering the U.S. through ports of entry",
+   "how": "Inspections may change as CBP updates the equipment it uses to find narcotics, though the summary does not describe any direct change to their rights or fees."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on December 23, 2020, and the summary does not list specific deadlines for each requirement.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

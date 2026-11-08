@@ -36,5 +36,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This 2014 law changes how federal share insurance applies when a state-chartered credit union fails and the NCUA liquidates it, including for certain lawyer trust accounts.",
+  "what_it_does": "It applies the standard $250,000 insurance cap to the net amount payable to any person whose funds are lawfully held in a member account at a failed state-chartered credit union. It also sets rules for IOLTA accounts, where lawyers hold client money that earns interest used to fund legal aid programs. These accounts are treated as escrow accounts for insurance purposes, and they count as member accounts when the attorney or escrow agent is a credit union member. The law does not allow credit unions to take larger IOLTA deposits than federal or state law already permits.",
+  "who_it_affects": [
+   {
+    "group": "Members of state-chartered credit unions",
+    "how": "Their insured amount at a failed credit union is capped at $250,000 under the revised rules, including for people whose funds are held in a member account."
+   },
+   {
+    "group": "Lawyers who hold client funds in IOLTA accounts",
+    "how": "Their IOLTA deposits are treated as escrow accounts for share insurance, and they may be treated as member accounts if they belong to the credit union holding the funds."
+   },
+   {
+    "group": "Legal service organizations funded by IOLTA programs",
+    "how": "The law sets insurance rules for the accounts whose interest supports their services, though it does not change how much money the programs receive."
+   },
+   {
+    "group": "National Credit Union Administration",
+    "how": "The agency must provide pass-through share insurance for qualifying IOLTA and escrow deposits when it acts as liquidating agent for a failed state-chartered credit union."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

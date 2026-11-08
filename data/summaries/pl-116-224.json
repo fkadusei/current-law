@@ -1,0 +1,36 @@
+{
+ "headline": "A 2020 federal law that sets up programs, studies, grants, and prizes aimed at reducing plastic waste and other marine debris in U.S. waters and worldwide.",
+ "what_it_does": "The law creates a nonprofit Marine Debris Foundation to accept gifts for NOAA's marine debris program and a Genius Prize competition for plastic-waste innovations. It directs federal agencies to run pilot projects, such as incentives for fishermen who bring debris ashore, and to produce many studies and reports. It also lets EPA give grants to states, cities, tribes, and nonprofits to improve recycling and trash removal, and tells the State Department to work with other countries on the issue.",
+ "who_it_affects": [
+  {
+   "group": "Commercial fishermen based in the United States",
+   "how": "NOAA may run a pilot program that offers incentives to fishermen who keep or track marine debris they catch at sea and dispose of it properly on land."
+  },
+  {
+   "group": "State and local governments",
+   "how": "They may apply for EPA grants to build or improve recycling, waste management, and trash-reduction efforts, and states receive a federal strategy for postconsumer materials."
+  },
+  {
+   "group": "Public water systems and Indian tribes",
+   "how": "They may receive EPA grants to help reduce and remove plastic waste and other materials from drinking water sources."
+  },
+  {
+   "group": "Municipal sewage and industrial waste treatment operators",
+   "how": "Certain municipalities or tribes that run treatment works may receive EPA grants to build improvements that remove plastic waste."
+  },
+  {
+   "group": "Inventors and innovators working on plastic waste",
+   "how": "They may compete for Genius Prize awards given at least once every two years for technologies that reduce or remove plastic waste."
+  },
+  {
+   "group": "Nonprofit organizations",
+   "how": "The Marine Debris Foundation can accept gifts and administer federal programs, and other nonprofits may receive EPA grants for trash-reduction work."
+  }
+ ],
+ "when_it_takes_effect": "Enacted December 18, 2020; the provisions take effect on that date unless a section sets a different start, and many studies, reports, and programs have their own deadlines, while the Foundation ends 10 years after creation and the prize ends after five competition cycles.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

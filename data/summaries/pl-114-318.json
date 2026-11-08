@@ -1,0 +1,36 @@
+{
+ "headline": "A 2016 law that sets new federal rules and reporting duties for how the government and the Postal Service manage their buildings and land.",
+ "what_it_does": "The law creates a Federal Real Property Council, chaired by the OMB Deputy Director for Management, to set property management guidance, track performance, and look for ways to cut costs and reduce unused space. It requires the Postal Service to list available properties each year for federal agencies to consider sharing, and it asks agencies to inventory their buildings and reduce excess or underused space. It also changes how members of the Public Buildings Reform Board are appointed and requires a sale of certain property in southwest Washington, D.C. tied to the James Forrestal Building.",
+ "who_it_affects": [
+  {
+   "group": "Federal agencies that own or lease buildings",
+   "how": "They must complete annual inventories, workforce space projections, leased-space reviews, and goals for reducing excess and underused property."
+  },
+  {
+   "group": "The U.S. Postal Service",
+   "how": "It must keep property inventory and accountability systems, report on its real property, and submit a yearly list of properties with space available to other agencies by September 30."
+  },
+  {
+   "group": "Federal employees who work in government buildings",
+   "how": "Their workplace space and office locations may change as agencies consolidate or share facilities under the new planning rules."
+  },
+  {
+   "group": "State, local, and tribal governments and affected communities",
+   "how": "The Federal Real Property Council must consult them when developing property management guidance."
+  },
+  {
+   "group": "Private real estate and nonprofit groups with relevant expertise",
+   "how": "The council must consult them, and it must develop guidelines for public-private partnerships in managing federal property."
+  },
+  {
+   "group": "Department of Energy staff in the James Forrestal Building",
+   "how": "The GSA must sell nearby specified property in a way that keeps the building's security, parking, and infrastructure needs in place while the department occupies it."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on December 16, 2016; some duties apply annually or for five years, and the USPS list is due each September 30.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

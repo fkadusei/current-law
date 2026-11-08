@@ -3496,5 +3496,28 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "This law requires the VA's patient advocacy office to build an online system where veterans can file health care complaints and check their status.",
+  "what_it_does": "The law directs the Office of Patient Advocacy within the Veterans Health Administration to create an information technology system. The system lets veterans or their representatives file a complaint with a patient advocate electronically. It also lets them review the status of a complaint they have already filed.",
+  "who_it_affects": [
+   {
+    "group": "Veterans who receive health care through the Veterans Health Administration",
+    "how": "They can file patient complaints online and check on how those complaints are progressing."
+   },
+   {
+    "group": "Representatives acting for veterans",
+    "how": "People authorized to act for a veteran can file complaints and track their status electronically on the veteran's behalf."
+   },
+   {
+    "group": "Staff in the VA Office of Patient Advocacy",
+    "how": "They must set up and maintain the electronic complaint system and the status-tracking feature."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

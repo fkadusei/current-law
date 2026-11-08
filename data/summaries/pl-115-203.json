@@ -1,0 +1,20 @@
+{
+ "headline": "This law lets federal regulators give a Virginia hydroelectric dam project up to six more years to start construction.",
+ "what_it_does": "The law allows the Federal Energy Regulatory Commission to extend, by up to six years, the deadline for starting construction on the Flannagan Dam and Reservoir Hydroelectric Project in Dickenson County, Virginia. The extension is available only if someone requests it. The commission may also reinstate the construction license if it has already expired.",
+ "who_it_affects": [
+  {
+   "group": "The project's license holder",
+   "how": "The license holder can ask FERC for up to six more years to begin construction, and FERC may restore the license if it has lapsed."
+  },
+  {
+   "group": "Residents of Dickenson County, Virginia",
+   "how": "The project's construction timeline may be extended, so any local effects from building the hydroelectric facility could be delayed."
+  }
+ ],
+ "when_it_takes_effect": "The summary does not state an effective date beyond the enactment date of July 23, 2018.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

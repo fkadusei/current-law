@@ -1,0 +1,20 @@
+{
+ "headline": "A 2020 law directs two federal science agencies to research tools that detect fake or AI-generated content such as deepfakes.",
+ "what_it_does": "The law tells the National Science Foundation to support research on manipulated or synthesized content and whether information is authentic. It tells the National Institute of Standards and Technology to support work on measurements and standards for tools that examine how generative adversarial networks work and what they produce. A generative adversarial network is a type of software that learns from real examples, such as photos, and then creates similar artificial outputs, such as deepfakes. The summary does not describe new rules for private companies or individuals.",
+ "who_it_affects": [
+  {
+   "group": "Researchers and universities",
+   "how": "They may be able to apply for federal science funding for work on detecting synthetic or manipulated content."
+  },
+  {
+   "group": "Federal science agencies (NSF and NIST)",
+   "how": "They are directed to spend effort on this research and on developing measurement standards in this area."
+  }
+ ],
+ "when_it_takes_effect": "Enacted December 23, 2020; the summary does not list a separate effective date or deadlines.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

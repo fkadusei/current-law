@@ -42,5 +42,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law creates the Cybersecurity and Infrastructure Security Agency inside the Department of Homeland Security by renaming and reorganizing an existing directorate.",
+  "what_it_does": "The law changes the name of the Department of Homeland Security's National Protection and Programs Directorate to the Cybersecurity and Infrastructure Security Agency. The new agency takes over the directorate's resources and duties, and it is led by a Director of National Cybersecurity and Infrastructure Security. Its duties include leading cybersecurity and critical infrastructure security programs and enforcing chemical facility antiterrorism standards. The law also moves the Office of Biometric Identity Management to the department's Management Directorate and requires the department to move the Federal Protective Service after a pending Government Accountability Office review. Finally, it requires a report on the department's role in cloud-based cybersecurity for federal civilian agencies.",
+  "who_it_affects": [
+   {
+    "group": "Owners and operators of chemical facilities",
+    "how": "They fall under chemical facility antiterrorism standards that the new agency is responsible for carrying out."
+   },
+   {
+    "group": "Owners and operators of critical infrastructure",
+    "how": "The new agency leads federal cybersecurity and critical infrastructure security programs that cover them."
+   },
+   {
+    "group": "Federal civilian agencies",
+    "how": "They are covered by the department's reported role in cloud-based cybersecurity deployments."
+   },
+   {
+    "group": "Federal Protective Service employees and contractors",
+    "how": "The service will be moved to another part of the department after the Government Accountability Office review is finished."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on November 16, 2018, and the Federal Protective Service move depends on completing the ongoing Government Accountability Office review.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

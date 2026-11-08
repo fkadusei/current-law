@@ -36,5 +36,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2021 law that extends some COVID-era veterans education rules, adds flexibility for schools and students, and changes several VA home loan and staffing rules.",
+  "what_it_does": "It extends certain COVID-19 adjustments to VA education benefits through June 1, 2022. It lets the VA waive a second enrollment check for schools that use a flat-rate tuition and fee structure. It exempts some foreign schools and schools using a Department of Education cost template from certain VA and state approving agency requirements, and it allows VA education aid, including a housing stipend, for a last term when a student takes less than half-time credits under specific conditions. It also extends certain VA home loan fee rates through January 14, 2031, and removes the cap on full-time VA staff who provide equal employment opportunity counseling.",
+  "who_it_affects": [
+   {
+    "group": "Veterans and eligible dependents using VA education benefits",
+    "how": "They may receive COVID-era benefit adjustments through June 1, 2022, and may get aid for a final term if they take fewer than half-time credits under the specified conditions."
+   },
+   {
+    "group": "Schools that accept VA education benefits",
+    "how": "Flat-rate tuition schools may be exempt from a second enrollment verification, and some foreign schools and schools using a Department of Education cost template are exempt from certain VA rules."
+   },
+   {
+    "group": "Veterans using VA home loans",
+    "how": "Certain VA home loan fee rates stay in effect through January 14, 2031."
+   },
+   {
+    "group": "VA employees who provide equal employment opportunity counseling",
+    "how": "The law removes the cap on how many full-time VA employees can do this work."
+   }
+  ],
+  "when_it_takes_effect": "Enacted December 21, 2021; the COVID-era education adjustments run through June 1, 2022, and the home loan fee rate extension runs through January 14, 2031.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -36,5 +36,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This 2018 law delays by one year a Medicaid funding cut that would have hit states not requiring electronic visit verification for personal care services.",
+  "what_it_does": "Medicaid pays for personal care services that help people with daily living tasks. Under prior law, states that did not require an electronic visit verification system for these services would see a cut in the federal matching rate. This law pushes that cut back by one year, to January 1, 2020.",
+  "who_it_affects": [
+   {
+    "group": "State Medicaid agencies",
+    "how": "States were given one more year before a reduction in federal matching funds for personal care services would apply if they did not require electronic visit verification."
+   },
+   {
+    "group": "People who receive Medicaid personal care services",
+    "how": "Their personal care services are not directly changed by this law, but the timing of a possible state funding change tied to how those services are tracked was pushed back."
+   },
+   {
+    "group": "Personal care service providers and aides",
+    "how": "Providers serving Medicaid patients had an extra year before any state-level move to electronic visit verification would have been tied to federal matching funds."
+   }
+  ],
+  "when_it_takes_effect": "Enacted July 30, 2018; the delayed reduction date is January 1, 2020.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

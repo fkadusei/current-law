@@ -3528,5 +3528,36 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "This law renews and expands federal programs that help find missing children and support the National Center for Missing and Exploited Children.",
+  "what_it_does": "It updates the Missing Children's Assistance Act, which funds the National Center for Missing and Exploited Children. It adds new uses for the center's grant, including training police and schools to find missing children and helping respond to foster children who go missing and to child sex trafficking victims. It caps federal pay for center employees at 110% of the top Senior Executive Service salary, unless the extra pay comes from non-federal money. It also requires national studies of missing children every three years and says school and birth record sharing must follow the federal student privacy law.",
+  "who_it_affects": [
+   {
+    "group": "Children reported missing and their families",
+    "how": "The law expands the search, recovery, and reporting efforts that federal programs support for missing children."
+   },
+   {
+    "group": "State and local law enforcement agencies",
+    "how": "They can receive federal training and technical help on working with schools, child welfare agencies, and trafficking cases."
+   },
+   {
+    "group": "Foster children and state child welfare agencies",
+    "how": "Law enforcement can get federal help coordinating with welfare agencies when a foster child goes missing."
+   },
+   {
+    "group": "Employees of the National Center for Missing and Exploited Children",
+    "how": "Federal funds cannot pay any employee more than 110% of the top Senior Executive Service salary unless the excess is paid from non-federal sources."
+   },
+   {
+    "group": "Schools, teachers, and homeless shelter and service providers",
+    "how": "They can receive federal grants for training to help prevent child abduction and exploitation and to help identify missing children."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on September 30, 2013, and its provisions took effect on that date unless a specific provision set a different date.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

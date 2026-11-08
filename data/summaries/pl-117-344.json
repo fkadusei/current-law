@@ -1,0 +1,24 @@
+{
+ "headline": "A 2023 law opens a one-year window for eligible low-power TV stations to apply to the FCC for Class A licenses, which give stronger spectrum protection.",
+ "what_it_does": "The law sets up a one-year period in which eligible low-power television stations can apply to the Federal Communications Commission for Class A licenses. To qualify, a station must serve a media market with a limited number of TV households, broadcast a minimum number of hours, and meet other requirements. A station with a Class A license gets primary status over its spectrum, while low-power stations usually have secondary status and can be moved if the FCC reassigns that spectrum to a primary user.",
+ "who_it_affects": [
+  {
+   "group": "Eligible low-power television stations",
+   "how": "Stations that meet the market and broadcast requirements can apply during the one-year window to receive Class A status and its primary spectrum rights."
+  },
+  {
+   "group": "Low-power stations that do not qualify or do not apply",
+   "how": "They keep their existing secondary status and can still be displaced if the FCC reallocates their spectrum to a primary user."
+  },
+  {
+   "group": "Federal Communications Commission",
+   "how": "The agency must process applications from stations seeking Class A licenses during the window."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on January 5, 2023. The official summary does not list the exact start and end dates of the one-year application window.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

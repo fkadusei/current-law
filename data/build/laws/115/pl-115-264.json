@@ -45,5 +45,36 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law modernizes music copyright rules for streaming, extends federal protection to older recordings, and sets up royalties for producers and engineers.",
+  "what_it_does": "The law creates a blanket license that lets digital music services like streaming apps use nearly all publicly released sound recordings by paying set royalties, with a nonprofit collective collecting the money and maintaining a public ownership database. It gives federal copyright protection to sound recordings made before February 15, 1972, which had been covered only by state law. It also allows royalties to go to producers, mixers, and sound engineers who helped create a recording, based on instructions from the rights owner or featured artist.",
+  "who_it_affects": [
+   {
+    "group": "Digital music services such as streaming platforms",
+    "how": "They can obtain a blanket license for most published recordings starting January 1, 2021, must report usage and pay monthly royalties, and can lose the license if they default."
+   },
+   {
+    "group": "Songwriters and music copyright owners",
+    "how": "They receive royalties through a new collective system, and some unclaimed royalties must be shared with songwriters."
+   },
+   {
+    "group": "Owners of pre-1972 sound recordings",
+    "how": "Their recordings now have federal copyright protection for set time periods and they can collect royalties for digital uses."
+   },
+   {
+    "group": "Music producers, mixers, and sound engineers",
+    "how": "They can receive royalties for their creative work on sound recordings when the featured artist or rights owner directs payment to them."
+   },
+   {
+    "group": "Anyone wanting to use old recordings whose owners cannot be found",
+    "how": "Noncommercial use of certain orphan sound recordings is allowed after a reasonable search and a public notice period."
+   }
+  ],
+  "when_it_takes_effect": "The blanket license became available January 1, 2021, and the pre-1972 recording protections and royalty provisions took effect on enactment or later set dates.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

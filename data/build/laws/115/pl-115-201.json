@@ -3539,5 +3539,24 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2018 law lets the operator of the Terror Lake hydroelectric project on Kodiak Island, Alaska, expand it onto up to 20 acres of federal land without some extra approvals.",
+  "what_it_does": "The law allows the licensee of the Terror Lake Hydroelectric Project to use up to 20 acres of federal land. The land is needed to build, run, and maintain the Upper Hidden Basin Diversion Expansion. The licensee does not need further approval under the Alaska National Interest Lands Conservation Act or from the Department of the Interior for this work.",
+  "who_it_affects": [
+   {
+    "group": "The licensee of the Terror Lake Hydroelectric Project",
+    "how": "It can occupy up to 20 acres of federal land for the expansion without seeking separate federal approvals."
+   },
+   {
+    "group": "Residents of Kodiak Island, Alaska",
+    "how": "The expansion may change the local hydroelectric facility near them, but the summary does not describe any direct effect on their rights, costs, or services."
+   }
+  ],
+  "when_it_takes_effect": "Became law on July 20, 2018; the summary does not give a separate effective date.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

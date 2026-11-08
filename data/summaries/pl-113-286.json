@@ -1,0 +1,24 @@
+{
+ "headline": "A 2014 law extends, through 2015, the one-year protection that keeps lenders from foreclosing on some property owned by service members before their military service.",
+ "what_it_does": "Under the law, a court may pause enforcement actions on a debt tied to property a service member owned before military service. A sale, foreclosure, or seizure of that property is invalid without a court order or a waiver signed by the service member. The law extends this one-year period through calendar year 2015 and brings back the older nine-month period starting January 1, 2016.",
+ "who_it_affects": [
+  {
+   "group": "Service members who owned property before their military service",
+   "how": "They can get court-ordered pauses on enforcement of debts tied to that property and cannot lose it to a sale or foreclosure without a court order or a signed waiver during the protected period."
+  },
+  {
+   "group": "Lenders and loan servicers holding debts on such property",
+   "how": "They must get a court order or a signed waiver before selling, foreclosing on, or seizing covered property during the protected period, and courts may pause their enforcement actions."
+  },
+  {
+   "group": "Courts handling enforcement cases involving service members",
+   "how": "They have the authority to stay proceedings to enforce obligations on covered property during the protected period."
+  }
+ ],
+ "when_it_takes_effect": "Enacted December 18, 2014. The one-year protection period applies through calendar year 2015, and the nine-month period takes effect January 1, 2016.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

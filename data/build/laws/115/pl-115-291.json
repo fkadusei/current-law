@@ -39,5 +39,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2018 law renames a Memphis, Tennessee post office building after civil rights lawyer and judge Russell B. Sugarmon.",
+  "what_it_does": "The law officially names the U.S. Postal Service facility at 1325 Autumn Avenue in Memphis, Tennessee, the \"Judge Russell B. Sugarmon Post Office Building.\" It changes only the official name of the building. It does not change how the post office operates or who it serves.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law took effect when it was enacted on December 6, 2018.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

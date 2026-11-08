@@ -3542,5 +3542,28 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "Congress approved an agreement letting Virginia, Maryland, and D.C. create a joint commission to oversee safety on the Washington Metro rail system.",
+  "what_it_does": "This law gives congressional consent to an interstate compact among Virginia, Maryland, and the District of Columbia. The compact sets up the Washington Metrorail Safety Commission to oversee safety on the Metro rail system run by WMATA. The commission must write a State Safety Oversight Program, enforce WMATA's safety plan and corrective action plans, audit WMATA's compliance every three years, and publish annual safety and operations reports. Any signatory state or district may withdraw from the compact.",
+  "who_it_affects": [
+   {
+    "group": "Riders of the Washington Metro rail system",
+    "how": "A dedicated safety commission is set up to check that the rail system follows its safety plans and fixes problems it finds."
+   },
+   {
+    "group": "Washington Metropolitan Area Transit Authority (WMATA) employees and management",
+    "how": "WMATA must follow the commission's safety directives, corrective action plans, and triennial audits of its safety plan."
+   },
+   {
+    "group": "Residents of Virginia, Maryland, and the District of Columbia",
+    "how": "These three jurisdictions jointly fund and oversee the new commission, which publishes annual public safety and financial reports."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on August 22, 2017, and the compact takes effect once all signatories have approved it under their own laws.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

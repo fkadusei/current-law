@@ -3512,5 +3512,24 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2020 law requires the State Department to report each year to Congress on steps it takes to strengthen Taiwan's relationships with other countries and international partners.",
+  "what_it_does": "The law directs the Department of State to submit an annual report to Congress. The report covers what the department has done to help Taiwan's diplomatic relationships and partnerships around the world. The official summary describes Taiwan as self-governing, while China considers it a province and has encouraged some countries and international organizations to limit or end ties with Taiwan.",
+  "who_it_affects": [
+   {
+    "group": "Congress",
+    "how": "Lawmakers receive a yearly State Department report on efforts to support Taiwan's international relationships."
+   },
+   {
+    "group": "State Department",
+    "how": "The department must prepare and submit the annual report on its diplomatic efforts related to Taiwan."
+   }
+  ],
+  "when_it_takes_effect": "Enacted March 26, 2020. The summary does not give details on the first report deadline or what the report must include beyond the topics listed.",
+  "ceremonial": false,
+  "confidence": "low",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

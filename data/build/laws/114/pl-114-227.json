@@ -36,5 +36,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law lets the American Battle Monuments Commission take over, run, and maintain the Lafayette Escadrille Memorial in France.",
+  "what_it_does": "The law allows the American Battle Monuments Commission to make an agreement with the Lafayette Escadrille Memorial Foundation. Under that agreement, the Commission can acquire, operate, and maintain the Lafayette Escadrille Memorial in Marnes-la-Coquette, France. The Commission must make sure the memorial, including the cemetery there, is kept up over time. The cemetery holds the remains of 49 U.S. aviators who died in World War I.",
+  "who_it_affects": [
+   {
+    "group": "The American Battle Monuments Commission",
+    "how": "It gains authority to take on ownership, operation, and upkeep of the memorial and must keep it maintained."
+   },
+   {
+    "group": "The Lafayette Escadrille Memorial Foundation",
+    "how": "It may enter into an agreement with the Commission to transfer the memorial's acquisition, operation, and maintenance."
+   },
+   {
+    "group": "Families and descendants of the 49 U.S. aviators buried there",
+    "how": "The graves and cemetery are to be kept maintained under federal oversight."
+   }
+  ],
+  "when_it_takes_effect": "The law took effect when it was signed on September 29, 2016; the summary does not list a separate later date.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -39,5 +39,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2018 law renamed the VA outpatient clinic in Statesboro, Georgia, after a man named Ray Hendrix.",
+  "what_it_does": "This law officially names the Department of Veterans Affairs community-based outpatient clinic in Statesboro, Georgia, the Ray Hendrix Department of Veterans Affairs Clinic. It also allows the shorter name, the Ray Hendrix VA Clinic. The law does not change the clinic's services, staff, or how veterans use it.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "December 14, 2018, the date it was enacted.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

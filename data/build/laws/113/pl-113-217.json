@@ -36,5 +36,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2014 law renamed a VA outpatient clinic in Mankato, Minnesota, after a man named Lyle C. Pearson.",
+  "what_it_does": "The law gives the Department of Veterans Affairs clinic at 1961 Premier Drive in Mankato, Minnesota, a new official name: the Lyle C. Pearson Community Based Outpatient Clinic. It is a naming measure only. It does not change the clinic's services, staffing, or funding.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law was enacted on December 16, 2014, and the renaming took effect on that date.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

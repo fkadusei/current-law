@@ -1,0 +1,24 @@
+{
+ "headline": "This law directs the EPA to build a plan for assessing and managing algal toxins in public drinking water and asks the GAO to report on past federal spending on harmful algae.",
+ "what_it_does": "The law amends the Safe Drinking Water Act to require the Environmental Protection Agency to create and send Congress a strategic plan on toxins made by blue-green algae, called cyanobacteria, that can appear in drinking water. The plan must set timelines for evaluating health risks, listing toxins, deciding whether to issue health advisories, guiding testing methods and monitoring frequency, and recommending treatment options. The EPA must also identify gaps in knowledge, gather information from other agencies, and work with states and water systems through cooperative agreements and technical help. The Government Accountability Office must produce an inventory of federal funds spent on these algae issues from fiscal years 2010 through 2014.",
+ "who_it_affects": [
+  {
+   "group": "Operators of public water systems",
+   "how": "They may receive EPA technical help, guidance on testing methods and monitoring frequency, and treatment recommendations if the plan is carried out."
+  },
+  {
+   "group": "Residents who get drinking water from public water systems",
+   "how": "Future EPA guidance and possible health advisories on algal toxins could affect what testing and treatment their water receives."
+  },
+  {
+   "group": "State environmental and health agencies",
+   "how": "They may enter cooperative agreements with EPA and receive assistance in managing algal toxin risks."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on August 7, 2015, but the bill itself sets no fixed effective date for its requirements; the EPA plan's timelines are to be set in the plan it submits to Congress.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

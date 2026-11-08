@@ -36,5 +36,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Names a VA outpatient clinic in Greenville, South Carolina, after Lance Corporal Dana Cornell Darnell.",
+  "what_it_does": "This law renames the Department of Veterans Affairs outpatient clinic in Greenville, South Carolina, as the Lance Corporal Dana Cornell Darnell VA Clinic. It is an honorary designation that changes the clinic's name only. It does not change the clinic's services, staffing, or how veterans use it.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law was enacted on December 27, 2022.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

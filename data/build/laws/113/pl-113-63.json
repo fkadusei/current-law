@@ -36,5 +36,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law says certain payments by tax-exempt groups to firefighters hurt or families of firefighters killed in the December 2012 Webster, New York ambush count as related to the groups' tax-exempt purpose.",
+  "what_it_does": "Tax-exempt organizations may make payments to injured firefighters and to the spouses and dependents of firefighters who died in the December 24, 2012 ambush in Webster, New York. The law treats these payments as related to the organization's tax-exempt purpose, provided they are made in good faith, use a reasonable and objective formula, and apply that formula consistently. The summary describes this as a clarification of the tax treatment of these payments.",
+  "who_it_affects": [
+   {
+    "group": "Firefighters injured in the December 24, 2012 ambush in Webster, New York",
+    "how": "They can receive qualifying payments from tax-exempt organizations without those payments being treated as unrelated to the organization's exempt purpose."
+   },
+   {
+    "group": "Spouses and dependents of firefighters who died in the Webster ambush",
+    "how": "They can receive qualifying payments from tax-exempt organizations under the same clarified tax treatment."
+   },
+   {
+    "group": "Tax-exempt organizations that made payments to these families and firefighters",
+    "how": "They are covered by the clarification if they follow the good faith, objective formula, and consistency requirements."
+   }
+  ],
+  "when_it_takes_effect": "The clarification covers qualifying payments made on or after December 24, 2012, and before the later of January 1, 2014, or 30 days after enactment, which works out to January 19, 2014.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

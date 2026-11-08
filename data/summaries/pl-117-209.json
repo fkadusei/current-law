@@ -1,0 +1,24 @@
+{
+ "headline": "A 2022 law raises the maximum life insurance coverage for service members and veterans under two federal group life insurance programs from $400,000 to $500,000.",
+ "what_it_does": "The law increases the maximum coverage amount under the Servicemembers' Group Life Insurance program and the Veterans' Group Life Insurance program from $400,000 to $500,000. It applies to current members and former members of the uniformed services. The higher coverage does not start right away. It starts on the later of 60 days after enactment or the date the Department of Veterans Affairs determines that the higher amounts and their premiums are financially sound and will not cause the programs to run at a loss.",
+ "who_it_affects": [
+  {
+   "group": "Active-duty and reserve members of the uniformed services",
+   "how": "They can purchase up to $500,000 in SGLI coverage instead of $400,000 once the higher amount takes effect."
+  },
+  {
+   "group": "Veterans and former service members",
+   "how": "They can purchase up to $500,000 in VGLI coverage instead of $400,000 once the higher amount takes effect, and the premiums for that coverage will be set by the VA."
+  },
+  {
+   "group": "Families and beneficiaries named in SGLI or VGLI policies",
+   "how": "If a covered member dies, their named beneficiaries could receive a payout of up to $500,000 rather than $400,000 if the member chose the higher coverage."
+  }
+ ],
+ "when_it_takes_effect": "The increase takes effect on the later of 60 days after October 17, 2022, or the date the Department of Veterans Affairs determines that the higher coverage and premiums are administratively and actuarially sound and will not cause the programs to operate at a loss.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

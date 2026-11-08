@@ -3525,5 +3525,32 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "This law makes it easier to build certain small hydropower projects by raising exemption limits from federal licensing and directs federal agencies to study hydropower options.",
+  "what_it_does": "The law raises the size limit for small hydroelectric projects that the Federal Energy Regulatory Commission (FERC) can exempt from licensing, from 5,000 to 10,000 kilowatts. It exempts certain small hydropower facilities built on existing non-federal water conveyance systems, such as canals and pipelines, from license requirements, and requires builders to file a notice of intent with FERC, which must make an initial determination within 15 days. It also directs FERC to study licensing at nonpowered dams and closed loop pumped storage projects, and directs the Department of Energy to study the capabilities of existing pumped storage facilities.",
+  "who_it_affects": [
+   {
+    "group": "Developers of small hydroelectric projects",
+    "how": "They may be able to skip the full federal licensing process for projects that meet the new size and conduit criteria, but must file a notice of intent with FERC first."
+   },
+   {
+    "group": "Owners of canals, pipelines, and other water conveyance systems used for agricultural, municipal, or industrial water delivery",
+    "how": "Their water systems may be used to host small hydropower facilities that qualify for a license exemption."
+   },
+   {
+    "group": "State and local governments, including municipalities",
+    "how": "They may propose building qualifying conduit hydropower facilities and must file the same notice of intent with FERC."
+   },
+   {
+    "group": "Owners of nonpowered dams and pumped storage projects",
+    "how": "FERC must study whether licenses could be issued for hydropower development at their sites, which could lead to future licensing options."
+   }
+  ],
+  "when_it_takes_effect": "The law took effect on its enactment date, August 9, 2013, though some provisions require FERC and DOE to complete studies and workshops over later periods.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

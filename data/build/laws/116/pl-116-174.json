@@ -39,5 +39,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law creates a federal grant program so the Interior Department can fund business incubators that help Native American entrepreneurs and businesses.",
+  "what_it_does": "The law requires the Department of the Interior to set up a grant program within its Office of Indian Energy and Economic Development. The grants pay for business incubators, which are groups that offer physical workspace and support services to help businesses start and grow. Grants run for three years and can be renewed for up to three more years. Grant recipients must provide a matching nonfederal contribution, and the Interior Department must help connect recipients with schools serving Native American communities and coordinate with other federal agencies to share information about federal business programs.",
+  "who_it_affects": [
+   {
+    "group": "Native American entrepreneurs and small businesses",
+    "how": "They may gain access to incubator workspace, business coaching, and help applying for federal business programs."
+   },
+   {
+    "group": "Native American tribes and tribal nonprofits",
+    "how": "They are eligible to apply for incubator grants and must meet the matching-contribution rules if they receive one."
+   },
+   {
+    "group": "Institutions of higher education and private nonprofits",
+    "how": "They can apply for incubator grants and must provide a nonfederal match of at least 25 percent of annual funding, with a higher 33 percent match for renewals, unless Interior waives the requirement."
+   },
+   {
+    "group": "Schools serving Native American communities",
+    "how": "The Interior Department must help them form relationships with incubator grant recipients."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

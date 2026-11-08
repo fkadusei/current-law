@@ -33,5 +33,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law renames a volcanic peak, an Alaska Job Corps center, and a Fairbanks federal office building after former Alaska Congressman Don Young.",
+  "what_it_does": "The law gives three Alaska places the name of Don Young, a former U.S. Representative from Alaska. It renames the volcanic peak known as Mount Cerberus as Mount Young. It names the Job Corps center in Palmer, Alaska, as the Don Young Alaska Job Corps Center, and it names the federal office building at 101 12th Avenue in Fairbanks as the Don Young Federal Office Building.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law was enacted on January 5, 2023, and the summary does not list a separate effective date.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

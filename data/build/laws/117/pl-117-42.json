@@ -3515,5 +3515,32 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2021 law extends three expiring VA programs: a veterans dental plan, travel pay for Vet Center patients, and a property donation pilot.",
+  "what_it_does": "The law makes the VA's authority to run a dental insurance plan permanent. It extends the expanded beneficiary travel payments for veterans getting care at Vet Centers through fiscal year 2022. It also extends the pilot program that lets the VA accept donations of real property or facilities from certain entities, such as state or local governments, through December 16, 2026.",
+  "who_it_affects": [
+   {
+    "group": "Veterans enrolled in the VA health care system",
+    "how": "They can keep using the VA dental insurance plan, since its authority no longer expires."
+   },
+   {
+    "group": "Survivors and dependents of veterans",
+    "how": "Certain eligible family members can keep access to the VA dental insurance plan."
+   },
+   {
+    "group": "Veterans receiving care at Vet Centers",
+    "how": "They may receive travel payments and allowances for the trips needed for that care through fiscal year 2022."
+   },
+   {
+    "group": "State and local government entities",
+    "how": "Those that own property or facilities may donate them to the VA under the pilot program, which runs through December 16, 2026."
+   }
+  ],
+  "when_it_takes_effect": "The law took effect when it was enacted on September 30, 2021, with each extension running through the date or fiscal year stated in the bill.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

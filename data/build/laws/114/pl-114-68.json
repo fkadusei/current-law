@@ -3543,5 +3543,32 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2015 law asks Homeland Security to speed up hiring of veterans as border officers and to recruit separating service members for those jobs.",
+  "what_it_does": "The law directs the Department of Homeland Security to consider expedited hiring for qualified candidates who are eligible for a veterans recruitment appointment and can do the core duties of a Customs and Border Protection officer. It also requires DHS to step up recruiting of military members leaving service, such as by including CBP jobs in the Transition Assistance Program and placing CBP staff at job fairs. Finally, it requires DHS to report to Congress on these hiring efforts.",
+  "who_it_affects": [
+   {
+    "group": "Veterans and separating members of the Armed Forces",
+    "how": "They may be targeted by recruiting efforts and considered for expedited hiring as CBP officers if they qualify."
+   },
+   {
+    "group": "Applicants for CBP officer jobs",
+    "how": "Qualified applicants who are eligible for veterans recruitment appointments may be considered through an expedited hiring process."
+   },
+   {
+    "group": "Department of Homeland Security and U.S. Customs and Border Protection",
+    "how": "DHS must consider expedited hiring, expand recruiting, coordinate background check and clearance transfers, and report to Congress."
+   },
+   {
+    "group": "Military bases in border regions",
+    "how": "Local CBP field offices are allowed to partner with nearby bases to share information about job opportunities."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on October 16, 2015; the summary does not list specific deadlines other than the required report to Congress.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

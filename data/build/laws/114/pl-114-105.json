@@ -39,5 +39,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law extends the time colleges can hand out Federal Perkins Loans to students through 2017 and adds new disclosure rules for schools.",
+  "what_it_does": "It lets colleges keep issuing Federal Perkins Loans to new undergraduates through September 30, 2017, and to certain graduate students through September 30, 2016. Students must first use up their eligibility for federal Direct Stafford Loans before getting a Perkins loan. Starting October 1, 2017, participating colleges must pay the Department of Education part of their remaining Perkins funds, part of the loan payments they collect, and a capital distribution from their Perkins fund. Schools must also give borrowers written notice about the end of new Perkins loans, repayment and forgiveness options, Direct Loan consolidation, and how Perkins and Direct interest rates compare.",
+  "who_it_affects": [
+   {
+    "group": "Undergraduate students who need federal loans",
+    "how": "They can still get Perkins loans through September 30, 2017, but only after using up their Direct Stafford Loan eligibility."
+   },
+   {
+    "group": "Graduate students who had a Perkins loan before October 1, 2015",
+    "how": "They may receive more Perkins loans to continue or finish their program through September 30, 2016."
+   },
+   {
+    "group": "Colleges and universities that participate in the Perkins program",
+    "how": "They must give borrowers specific disclosures and, starting October 1, 2017, must pay part of their Perkins funds and loan collections to the Department of Education."
+   },
+   {
+    "group": "Borrowers with existing Perkins loans",
+    "how": "They must be told about repayment, forgiveness, and consolidation options and how their interest rate compares to Direct loans."
+   }
+  ],
+  "when_it_takes_effect": "Loan disbursement rules run through September 30, 2016 for certain graduate borrowers and September 30, 2017 for undergraduates; school payments to the Department of Education begin October 1, 2017.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

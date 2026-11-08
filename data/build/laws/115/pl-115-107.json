@@ -39,5 +39,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2018 law updates federal rules on forensic nurses for sexual assault cases and extends federal funding for testing backlogged rape kits.",
+  "what_it_does": "The law requires the Department of Justice to share information about both adult and pediatric forensic nurses with certain health-related groups. It also explains the need for pediatric sexual assault nurse examiners when children and teens are abused. The law extends the Debbie Smith DNA Backlog Grant Program so that a set share of its funds goes to audit backlogged sexual assault kits through fiscal year 2022. It also moves the program's sunset date from 2018 to 2023 for DOJ's authority to award grants for collecting DNA from arrestees and auditing rape kits.",
+  "who_it_affects": [
+   {
+    "group": "Forensic nurses and sexual assault nurse examiners",
+    "how": "The Justice Department must provide information about their role, including pediatric examiners who treat children and adolescents."
+   },
+   {
+    "group": "Hospitals and health-related entities that treat sexual assault victims",
+    "how": "They receive DOJ information about adult and pediatric forensic nurses and the need for pediatric examiners."
+   },
+   {
+    "group": "Crime labs and local law enforcement agencies",
+    "how": "They may receive federal grant money to audit backlogged sexual assault kits, since that funding is extended through fiscal year 2022."
+   },
+   {
+    "group": "Sexual assault survivors",
+    "how": "Their untested rape kits may be audited sooner because federal backlog funding continues longer."
+   }
+  ],
+  "when_it_takes_effect": "Enacted January 8, 2018; the backlog audit funding requirement runs through fiscal year 2022, and the grant authority sunset date is extended to 2023.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

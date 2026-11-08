@@ -1,0 +1,28 @@
+{
+ "headline": "A 2013 federal law gives states a funding preference if they let trained school staff give epinephrine to students having severe allergic reactions.",
+ "what_it_does": "The law changes a federal asthma-related grant program for child health services. States get extra consideration for these grants if they allow students to use asthma and allergy medicine on their own and certify that their civil liability law adequately protects trained school staff who give epinephrine. The law does not itself require schools to act; the requirements apply to schools in states that qualify for the preference. Those schools must allow trained staff to give epinephrine to a student reasonably believed to be having a severe allergic reaction, keep a supply in a secure but easy-to-reach place, and have trained staff available during school hours.",
+ "who_it_affects": [
+  {
+   "group": "State governments that apply for federal child health grants",
+   "how": "They can earn a funding preference by allowing student self-administration of asthma and anaphylaxis medication and certifying their liability protection for trained school staff."
+  },
+  {
+   "group": "Elementary and secondary schools in states that qualify for the preference",
+   "how": "They must let trained personnel give epinephrine to students having a suspected anaphylactic reaction, keep a secure but accessible supply, and have trained designated staff on site during operating hours."
+  },
+  {
+   "group": "School nurses and other trained school personnel",
+   "how": "They may be permitted to give epinephrine to a student in a suspected severe allergic reaction, with legal protection under the state's liability law."
+  },
+  {
+   "group": "Students with severe allergies or asthma",
+   "how": "Their schools in qualifying states must have epinephrine available and trained staff on hand to respond to an anaphylactic reaction."
+  }
+ ],
+ "when_it_takes_effect": "Enacted November 13, 2013; the summary does not specify a separate effective date or compliance deadline for the school requirements.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

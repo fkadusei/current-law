@@ -33,5 +33,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law extends the National Flood Insurance Program for a short period, through June 14, 2019.",
+  "what_it_does": "The National Flood Insurance Program lets property owners buy federally backed flood insurance. Before this law, that program's authority was set to run out, which would have stopped it from issuing or renewing policies. This act keeps the program authorized through June 14, 2019. The summary says the bill takes effect as if enacted on May 31, 2019.",
+  "who_it_affects": [
+   {
+    "group": "homeowners and renters in flood-prone areas who hold or want federal flood insurance",
+    "how": "Their ability to buy or renew flood policies through the program continued without a lapse during the extension period."
+   },
+   {
+    "group": "property owners with mortgages in designated flood zones",
+    "how": "Lenders' requirement to carry flood insurance could continue to be met through the program during the extension period."
+   },
+   {
+    "group": "insurance agents and lenders who work with the program",
+    "how": "They could keep writing and servicing federal flood policies while the extension was in effect."
+   }
+  ],
+  "when_it_takes_effect": "Treated as enacted on May 31, 2019, and the program's authority runs through June 14, 2019.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

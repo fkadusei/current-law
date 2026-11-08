@@ -39,5 +39,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law adds specified segments of East Rosebud Creek in Montana to the National Wild and Scenic Rivers System.",
+  "what_it_does": "The law amends the Wild and Scenic Rivers Act to name certain stretches of East Rosebud Creek in Montana as protected components of the National Wild and Scenic Rivers System. Under that Act, designated rivers are managed to keep their natural and scenic qualities, and federal projects that would harm those qualities are generally restricted. The official summary is brief and does not list the exact river miles or management details.",
+  "who_it_affects": [
+   {
+    "group": "People who visit or recreate on East Rosebud Creek",
+    "how": "The designated river segments will be managed under federal wild and scenic river rules, which can shape allowed uses and development along those stretches."
+   },
+   {
+    "group": "Landowners near designated river segments",
+    "how": "Nearby property may be subject to federal river management standards, and the summary does not say whether any land ownership or use rules change."
+   },
+   {
+    "group": "Federal land managers responsible for the river corridor",
+    "how": "They must manage the designated segments under the Wild and Scenic Rivers Act, which typically involves developing a management plan."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on August 2, 2018, and the official summary does not describe any later deadlines.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

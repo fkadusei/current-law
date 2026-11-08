@@ -1,0 +1,20 @@
+{
+ "headline": "This law extends federal death and disability benefits to public safety officers and their survivors when COVID-19 causes death or injury.",
+ "what_it_does": "The Public Safety Officers' Benefits Program normally pays benefits to officers and survivors when an officer is killed or hurt in the line of duty. This law adds a general presumption that an officer who dies from COVID-19 or related complications was injured in the line of duty. It also presumes that COVID-19 or related complications suffered by an officer count as a line-of-duty injury for disability benefits.",
+ "who_it_affects": [
+  {
+   "group": "Public safety officers, such as law enforcement officers",
+   "how": "Officers who become disabled by COVID-19 or related complications can be treated as having a line-of-duty injury for disability benefits."
+  },
+  {
+   "group": "Survivors of public safety officers who die from COVID-19",
+   "how": "Eligible survivors, such as family members, can receive death benefits because the officer's COVID-19 death is presumed to be a line-of-duty death."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on August 14, 2020. The official summary does not state a separate effective date.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

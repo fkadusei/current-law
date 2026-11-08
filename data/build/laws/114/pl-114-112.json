@@ -39,5 +39,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2015 law told Medicare contractors to keep pausing enforcement of a physician supervision rule for certain therapy services at small rural and critical access hospitals through 2015.",
+  "what_it_does": "The law requires the Department of Health and Human Services to keep telling Medicare contractors not to enforce direct physician supervision requirements for outpatient therapeutic services at critical access and small rural hospitals. The extension covers the period through the end of 2015. The summary describes this as a continuation of an existing instruction rather than a new rule.",
+  "who_it_affects": [
+   {
+    "group": "Critical access and small rural hospitals",
+    "how": "They are not required to meet the direct physician supervision requirement for certain outpatient therapy services through the end of 2015."
+   },
+   {
+    "group": "Medicare patients using outpatient therapy at these hospitals",
+    "how": "Their covered therapy services at these facilities continued under the enforcement pause during 2015."
+   },
+   {
+    "group": "Medicare contractors",
+    "how": "They were directed to continue not enforcing the direct physician supervision requirement for these services through 2015."
+   }
+  ],
+  "when_it_takes_effect": "Enacted December 18, 2015, and applies through the end of 2015.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

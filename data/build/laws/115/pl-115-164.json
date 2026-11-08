@@ -4344,5 +4344,32 @@
   "House": "R",
   "Senate": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "Makes online platforms criminally liable for promoting prostitution or trafficking and limits their Section 230 legal shield in those cases.",
+  "what_it_does": "The law makes it a federal crime to own, run, or operate an online service that uses interstate or foreign commerce to promote or facilitate prostitution, punishable by a fine, up to 10 years in prison, or both. Higher penalties of up to 25 years apply when the conduct involves five or more people or when the operator acts with reckless disregard that it contributes to sex trafficking. It also states that Section 230 does not block certain federal civil claims, federal criminal charges for sex trafficking, or state criminal charges for these prostitution offenses. Finally, it defines knowingly assisting, supporting, or facilitating a sex trafficking violation as participating in a venture, and it lets states bring federal civil actions to enforce federal sex trafficking laws.",
+  "who_it_affects": [
+   {
+    "group": "Operators of websites and other online services",
+    "how": "They can face federal criminal penalties if they knowingly promote or facilitate prostitution, and they may lose Section 230 protection against certain federal and state claims."
+   },
+   {
+    "group": "People who are victims of sex trafficking",
+    "how": "For aggravated offenses, they may recover damages and attorneys' fees in a federal civil lawsuit, and courts must order restitution when reckless disregard is involved."
+   },
+   {
+    "group": "Defendants charged under these provisions",
+    "how": "They face prison terms of up to 10 years for the base offense and up to 25 years for aggravated offenses, and they may raise a defense if the activity was legal where it was targeted."
+   },
+   {
+    "group": "State governments and attorneys general",
+    "how": "They can file federal civil actions to enforce federal sex trafficking laws and can bring state criminal charges for certain prostitution-promotion conduct."
+   }
+  ],
+  "when_it_takes_effect": "The law took effect on enactment on April 11, 2018, and its Section 230 changes apply to conduct that occurred before, on, or after that date.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

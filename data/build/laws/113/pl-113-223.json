@@ -39,5 +39,36 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Approves and confirms water rights settlement agreements among the Hualapai Tribe, the federal government, Arizona agencies, and a mining company in the Bill Williams River area.",
+  "what_it_does": "The law approves two settlement agreements that resolve competing water rights claims along the Bill Williams River in western Arizona. It directs the Interior Secretary to sign those agreements and allows the mining company Freeport Minerals to move certain water rights to new locations, with conditions. It also sets rules for waiving claims, allows certain lawsuits about the agreements to be filed in federal or state court in Arizona, and requires federal environmental laws to be followed. The agreements take effect only after the Interior Secretary publishes findings in the Federal Register that required steps are complete, and the law is repealed if that does not happen by the set deadline.",
+  "who_it_affects": [
+   {
+    "group": "Hualapai Tribe and its members and allottees",
+    "how": "The tribe gives up certain water rights claims in exchange for the settlement benefits, and it may use a company contribution to buy Colorado River water rights under limited use rules."
+   },
+   {
+    "group": "Freeport Minerals Corporation",
+    "how": "The company may move specified water rights to its Wikieup Wellfield and other locations, and it receives waivers of certain claims against it."
+   },
+   {
+    "group": "Indian allottees with water rights on Lincoln Ranch, Planet Ranch, and related parcels",
+    "how": "Their water rights above specified yearly amounts on certain parcels are waived and released as part of the settlement."
+   },
+   {
+    "group": "Arizona Department of Water Resources and Arizona Game and Fish Commission",
+    "how": "These state agencies are parties to the Big Sandy River-Planet Ranch Agreement and are bound by its terms once it takes effect."
+   },
+   {
+    "group": "Ranchers and water users in the Bill Williams River watershed",
+    "how": "Water rights in the area may be reallocated under the agreements, which could affect how water is available to nearby users."
+   }
+  ],
+  "when_it_takes_effect": "The agreements and this Act become enforceable on the date the Interior Secretary publishes required compliance findings in the Federal Register; the Act is repealed if those findings are not published by December 31, 2015, or a later agreed date.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

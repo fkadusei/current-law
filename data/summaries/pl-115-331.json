@@ -1,0 +1,24 @@
+{
+ "headline": "This law directs the Department of Homeland Security to build a shared data system so authorized staff can access DHS datasets together, with privacy and security safeguards.",
+ "what_it_does": "The law requires DHS to create a data framework that connects existing DHS datasets and systems for access by authorized, cleared, and trained employees. DHS must issue guidance requiring offices and components to share information for mission needs and must set data standards so information is available in a machine-readable format. The framework must include auditing, security features to detect insider threats, and safeguards for privacy, civil rights, and civil liberties. DHS may leave out information that could expose sources or methods, compromise an investigation, conflict with other laws, or serve no operational purpose. DHS must also report regularly to Congress until the framework is fully operational and brief Congress annually on how components use it.",
+ "who_it_affects": [
+  {
+   "group": "DHS employees with appropriate security clearances",
+   "how": "They may access the shared framework if their job requires it and they have completed required training on safeguarding and using the information."
+  },
+  {
+   "group": "DHS offices and components",
+   "how": "They must share information through the framework for mission needs and make their data available in a standard machine-readable format."
+  },
+  {
+   "group": "Members of the public whose information is held in DHS datasets",
+   "how": "Their information may be integrated into a shared system, with auditing and privacy, civil rights, and civil liberties safeguards required by the law."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on December 19, 2018, and it requires the framework to have the ability to include appropriate DHS information within two years of enactment, with ongoing congressional reporting until the framework is fully operational.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

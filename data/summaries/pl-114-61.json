@@ -1,0 +1,24 @@
+{
+ "headline": "This law slows the scheduled minimum wage increases for American Samoa and moves some federal report deadlines.",
+ "what_it_does": "It changes the Fair Minimum Wage Act of 2007 so that the wage for each American Samoa industry rises by 40 cents per hour, instead of a larger scheduled amount. Increases happen every three years, starting September 30, 2015, until the territory's minimum wage matches the U.S. minimum wage. The law also pushes back the deadline for a Government Accountability Office report on minimum wage effects in American Samoa to April 1, 2017, with another report due by April 1, 2020. That report must also look at other ways to raise the territory's wage to keep up with local living costs.",
+ "who_it_affects": [
+  {
+   "group": "Workers in American Samoa",
+   "how": "Their minimum wage rises by smaller, less frequent steps than the earlier schedule set, so the timing of future raises changes."
+  },
+  {
+   "group": "Employers in American Samoa",
+   "how": "They must pay the new, slower-rising minimum wage schedule for each industry."
+  },
+  {
+   "group": "Government Accountability Office",
+   "how": "It must complete reports on American Samoa's minimum wage by new deadlines and study alternative wage-increase methods."
+  }
+ ],
+ "when_it_takes_effect": "Retroactively as of September 29, 2015, with the first 40-cent increase beginning September 30, 2015.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

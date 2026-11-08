@@ -3528,5 +3528,24 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "This 2019 law requires federal agencies to regularly inventory and assess their personal property, following guidance from the General Services Administration.",
+  "what_it_does": "The law requires each executive agency to inventory and assess its capitalized personal property every year, meaning major items recorded as investments or assets on its books. Agencies must also regularly inventory and assess their accountable personal property. The General Services Administration may set dollar thresholds that decide which purchases must be capitalized and tracked in a central property records system. The summary does not give specific dollar amounts or deadlines beyond these annual and regular requirements.",
+  "who_it_affects": [
+   {
+    "group": "Federal executive agencies",
+    "how": "They must take annual inventories of capitalized property and regular inventories of accountable property, following GSA guidance."
+   },
+   {
+    "group": "General Services Administration",
+    "how": "It is directed to issue guidance and may set the dollar thresholds that determine which property must be capitalized and recorded in a centralized system."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

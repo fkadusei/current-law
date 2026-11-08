@@ -1,0 +1,24 @@
+{
+ "headline": "This law lets communities get FEMA hazard mitigation money for certain buyout-and-demolition projects they had already started, under temporary rules that expire three years after enactment.",
+ "what_it_does": "It allows an entity seeking hazard mitigation assistance to receive funding for qualifying acquisition and demolition projects, even if the entity began work on the project before or after asking for help. The project must qualify for a categorical exclusion under the National Environmental Policy Act, and FEMA must confirm it meets floodplain and wetland rules and has no other required environmental or historic preservation reviews or extraordinary circumstances. FEMA must report to Congress on how it uses this authority, and the authority ends three years after enactment.",
+ "who_it_affects": [
+  {
+   "group": "Local governments and other entities applying for FEMA hazard mitigation assistance",
+   "how": "They can receive funding for certain buyout and demolition projects that they started before or after applying, if FEMA approves the project under the act's conditions."
+  },
+  {
+   "group": "Homeowners and property owners in hazard-prone areas participating in acquisition and demolition projects",
+   "how": "Properties in qualifying projects may be bought and demolished with federal help even when the work began before the community applied for assistance."
+  },
+  {
+   "group": "FEMA",
+   "how": "The agency must make the required eligibility determinations, confirm environmental and floodplain compliance, and submit reports to Congress on its use of this authority."
+  }
+ ],
+ "when_it_takes_effect": "The law took effect on January 5, 2023, and the authority ends three years later, around January 5, 2026. FEMA's first report was due within 180 days of enactment, with annual reports for three years after that.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

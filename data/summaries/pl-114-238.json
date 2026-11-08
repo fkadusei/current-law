@@ -1,0 +1,28 @@
+{
+ "headline": "This law says airport owners who renew certain low-rent leases with military aircraft operators will not be treated as breaking a federal grant rule on passenger charges.",
+ "what_it_does": "Airports that accept federal airport improvement grants promise to set passenger user charges so the airport can be as self-sustaining as possible. This law says an airport owner or operator who renews a covered lease will not be treated as breaking that promise. A covered lease must already exist before the law was enacted, have a nominal rent, have a federal or state government lessee, and support Air Force or Air National Guard aircraft at or from the airport.",
+ "who_it_affects": [
+  {
+   "group": "Airport owners and operators that hold federal airport improvement grants",
+   "how": "They can renew a covered lease without that renewal counting as a violation of the grant assurance on self-sustaining passenger charges."
+  },
+  {
+   "group": "Federal and state government entities that lease airport space for military aircraft",
+   "how": "Covered leases with these government lessees can be renewed under the law's terms."
+  },
+  {
+   "group": "Air Force and Air National Guard units that operate aircraft at or from covered airports",
+   "how": "Their existing low-rent leases at qualifying airports can be renewed under the law's terms."
+  },
+  {
+   "group": "Airline passengers at affected airports",
+   "how": "The law does not change ticket prices or passenger fees directly, but it affects how airports may treat rent from covered leases when setting passenger charges."
+  }
+ ],
+ "when_it_takes_effect": "The summary does not state a specific effective date; the law was enacted October 7, 2016.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

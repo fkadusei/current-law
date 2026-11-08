@@ -39,5 +39,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law makes permanent a federal authorization for a private company's successors to operate and charge tolls on a Rio Grande bridge near Rio Grande City, Texas.",
+  "what_it_does": "Before this law, the Starr-Camargo Bridge Company's authority to run a toll bridge across the Rio Grande was set to end 66 years after the bridge was finished in 1966. This law removes that end date and extends the authority to the company's successors and assigns. It also limits the bridge to no more than 14 lanes and lets the company use eminent domain for certain land, subject to Texas law and just compensation requirements. Successors may sell or transfer these rights to public agencies, international bridge authorities, or corporations.",
+  "who_it_affects": [
+   {
+    "group": "Starr-Camargo Bridge Company and its successors or assigns",
+    "how": "The company's bridge authority no longer expires on a set date, and successors can take over and charge tolls under the same rights."
+   },
+   {
+    "group": "Drivers and travelers who cross the Rio Grande bridge near Rio Grande City",
+    "how": "They may continue to pay tolls set by the company or its successors to cross the bridge."
+   },
+   {
+    "group": "Landowners near the planned bridge site",
+    "how": "Certain land needed for the bridge may be acquired through eminent domain, with compensation required under Texas law."
+   },
+   {
+    "group": "Public agencies and international bridge authorities",
+    "how": "They may acquire the bridge rights, powers, and privileges through sale, assignment, transfer, or mortgage."
+   }
+  ],
+  "when_it_takes_effect": "Upon enactment on May 20, 2016.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

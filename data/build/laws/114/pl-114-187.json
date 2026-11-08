@@ -879,5 +879,40 @@
  "control": {
   "Senate": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "Creates a federal oversight board and a debt restructuring process for Puerto Rico, plus expedited permitting for certain infrastructure projects there.",
+  "what_it_does": "The law sets up a seven-member Financial Oversight and Management Board for Puerto Rico that can review and approve the territory's budgets, fiscal plans, and certain laws and contracts. It creates a court process, similar to bankruptcy, that lets the territory and its public agencies restructure debts, and a voluntary process where creditors vote on restructuring plans that can bind dissenting bondholders. It also sets up an expedited permitting process for approved critical infrastructure projects and temporarily pauses lawsuits and collection actions against the territory.",
+  "who_it_affects": [
+   {
+    "group": "Puerto Rico's government and public agencies",
+    "how": "They must submit fiscal plans and budgets to the oversight board for approval, and the board can reduce spending or block certain laws and contracts."
+   },
+   {
+    "group": "Bondholders and other creditors of Puerto Rico",
+    "how": "Creditors can be asked to vote on debt restructuring, and if two-thirds of a debt group agrees, the plan can bind holdouts; lawsuits and collection efforts are paused for a period."
+   },
+   {
+    "group": "Workers under age 25 hired in Puerto Rico",
+    "how": "The governor, with board approval, may set a minimum wage below the federal minimum for them for up to four years."
+   },
+   {
+    "group": "Employers and workers in Puerto Rico under overtime rules",
+    "how": "Puerto Rico is exempted from certain 2015 federal overtime regulations until a GAO assessment and a Labor Department certification are completed."
+   },
+   {
+    "group": "Sponsors of infrastructure projects in Puerto Rico",
+    "how": "Projects approved as critical may receive expedited permitting and review from local and federal agencies."
+   },
+   {
+    "group": "Small businesses seeking HUBZone status in Puerto Rico",
+    "how": "Puerto Rico is exempted from a population cap on qualified census tracts for up to ten years, and the SBA must adopt a risk-based approach to verifying applicant information."
+   }
+  ],
+  "when_it_takes_effect": "The law took effect on the date of enactment, June 30, 2016, though some provisions apply on other schedules, such as the litigation stay, which ran until the later of six months after enactment or February 15, 2017, subject to extensions.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

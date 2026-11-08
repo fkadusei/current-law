@@ -1,0 +1,24 @@
+{
+ "headline": "This law directs the TSA to create a faster, more respectful airport screening process for veterans traveling to war memorials on Honor Flight trips.",
+ "what_it_does": "The law tells the head of the Transportation Security Administration (TSA) to set up a process for expedited and dignified passenger screening. The process covers veterans on Honor Flight Network private charters and similar trips run by other nonprofits that honor veterans. The trips must be for visiting war memorials built to honor military service. The official summary does not list specific screening steps, deadlines, or reporting requirements.",
+ "who_it_affects": [
+  {
+   "group": "Veterans taking Honor Flight trips to war memorials",
+   "how": "They may go through airport security under a separate, expedited screening process designed for these trips."
+  },
+  {
+   "group": "Honor Flight Network and other nonprofits that honor veterans",
+   "how": "Their veteran travel trips may qualify for the new TSA screening process."
+  },
+  {
+   "group": "Transportation Security Administration",
+   "how": "The agency must establish the screening process for these trips."
+  }
+ ],
+ "when_it_takes_effect": "The official summary does not give a separate start date or deadline. The law was enacted on December 16, 2014.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

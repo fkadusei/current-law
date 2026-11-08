@@ -33,5 +33,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law requires the President to report and sanction foreign people and companies that steal American trade secrets in ways that threaten national security or the economy.",
+  "what_it_does": "The law directs the President to periodically publish a list of foreign individuals and entities that knowingly stole, benefited from, or helped steal significant U.S. trade secrets. The theft must have materially contributed to a significant threat to national security, foreign policy, or economic health. The report must also name foreign chief executives and board members of entities involved in such theft. People and entities on the list face sanctions: individuals can have their property blocked and their visas blocked, while entities can have property or exports blocked and may be denied certain financial assistance.",
+  "who_it_affects": [
+   {
+    "group": "Foreign individuals named in the President's report",
+    "how": "They can have their U.S. property and visas blocked if they knowingly engaged in or helped significant theft of U.S. trade secrets."
+   },
+   {
+    "group": "Foreign companies and other entities named in the report",
+    "how": "They can have property or exports blocked and may be denied certain U.S. financial assistance."
+   },
+   {
+    "group": "Foreign chief executives and board members of entities engaged in trade secret theft",
+    "how": "They can be named in the report and face sanctions based on their role at a theft-involved entity."
+   },
+   {
+    "group": "U.S. businesses and individuals who own trade secrets",
+    "how": "The law adds a federal sanctions tool aimed at foreign actors who steal their trade secrets."
+   }
+  ],
+  "when_it_takes_effect": "Enacted January 5, 2023; the President's reporting and sanctions duties apply on the timeline set in the bill, which the summary does not specify.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

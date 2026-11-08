@@ -1,0 +1,28 @@
+{
+ "headline": "A 2021 law requires HHS to consider good cybersecurity practices when deciding health data privacy penalties, and lets its inspector general get help investigating blocked health records.",
+ "what_it_does": "The law amends the HITECH Act, which covers electronic health records and privacy. When HHS decides on fines or penalties for violating federal health privacy rules, it must consider whether the organization had recognized security practices in place, and it may reduce penalties if it did. The law also lets HHS's Office of the Inspector General request information and support from other federal agencies when investigating information blocking, which is when health technology companies or providers unreasonably prevent people from accessing or sharing electronic health information, such as by charging fees that make exchange too costly.",
+ "who_it_affects": [
+  {
+   "group": "Hospitals, doctors' offices, and health plans covered by HIPAA",
+   "how": "If they are investigated or penalized for a privacy violation, HHS must consider whether they followed recognized cybersecurity practices, which can lead to lower fines."
+  },
+  {
+   "group": "Business associates such as billing companies and cloud vendors that handle health data for providers",
+   "how": "They can also have their adopted recognized security practices weighed by HHS when penalties are set."
+  },
+  {
+   "group": "Health IT developers and entities that offer health information technology",
+   "how": "They may face increased federal investigation support for claims that they block or discourage access to electronic health information."
+  },
+  {
+   "group": "Patients and people whose health records are exchanged electronically",
+   "how": "The law aims to reduce information blocking that could limit their access to and sharing of their own electronic health information."
+  }
+ ],
+ "when_it_takes_effect": "Enacted January 5, 2021.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

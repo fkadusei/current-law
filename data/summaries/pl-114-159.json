@@ -1,0 +1,32 @@
+{
+ "headline": "A 2016 law that sets up a process for businesses to petition for temporary tariff cuts on certain imported goods and requires a report to Congress on the effects.",
+ "what_it_does": "The law says Congress should consider a future miscellaneous tariff bill, which is a set of tariff changes on various products. It directs the U.S. International Trade Commission to create a process for accepting and reviewing requests to suspend or lower certain import duties. It also requires the Commission to report to Congress on how any duty cuts made under this law affect producers, buyers, and consumers in the United States. The summary also describes rules for congressional committees to publish a list of limited tariff benefits in any such bill.",
+ "who_it_affects": [
+  {
+   "group": "U.S. manufacturers and businesses that import materials or parts",
+   "how": "They can ask the International Trade Commission to suspend or reduce duties on imported goods they use, under the process the law sets up."
+  },
+  {
+   "group": "U.S. International Trade Commission",
+   "how": "The agency must create and run the petition process and prepare a report to Congress on the effects of duty changes."
+  },
+  {
+   "group": "Domestic producers of goods that compete with imports",
+   "how": "Duty cuts approved through the process could change the price and competition they face, and the required report will track those effects."
+  },
+  {
+   "group": "Consumers and purchasers of imported products",
+   "how": "Any duty reductions approved under the process could affect the prices of covered products, and the required report will examine those effects."
+  },
+  {
+   "group": "Members of Congress and congressional committees",
+   "how": "They must consider a miscellaneous tariff bill and follow publication rules for any list of limited tariff benefits in it."
+  }
+ ],
+ "when_it_takes_effect": "The law took effect when it was signed on May 20, 2016. The summary does not list other specific dates for its provisions.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

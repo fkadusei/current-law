@@ -36,5 +36,20 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Extends the terms of two Higher Education Act advisory committees by one year, through fiscal year 2015.",
+  "what_it_does": "This law amends the Higher Education Act of 1965 to keep two advisory committees in place for one more year. The National Advisory Committee on Institutional Quality and Integrity and the Advisory Committee on Student Financial Assistance now have terms running through fiscal year 2015. The official summary does not describe any other changes.",
+  "who_it_affects": [
+   {
+    "group": "Members of the National Advisory Committee on Institutional Quality and Integrity and the Advisory Committee on Student Financial Assistance",
+    "how": "Their terms of service are extended by one year, through fiscal year 2015."
+   }
+  ],
+  "when_it_takes_effect": "Upon enactment on September 26, 2014.",
+  "ceremonial": false,
+  "confidence": "low",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

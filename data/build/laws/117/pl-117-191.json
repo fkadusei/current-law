@@ -36,5 +36,36 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2022 law requires the VA to raise several veterans and survivor benefit payments by the same percentage as the Social Security cost-of-living increase effective December 1, 2022.",
+  "what_it_does": "The law requires the Department of Veterans Affairs to increase wartime disability compensation, additional compensation for dependents, the clothing allowance for certain disabled veterans, and dependency and indemnity compensation for surviving spouses and children. The increase uses the same percentage as the Social Security cost-of-living adjustment that takes effect December 1, 2022. The VA must publish the new amounts in the Federal Register. The VA may also make a similar adjustment to disability compensation rates for people who have not received compensation for a service-connected disability or death.",
+  "who_it_affects": [
+   {
+    "group": "Veterans receiving wartime disability compensation",
+    "how": "Their monthly wartime disability payments are required to increase by the Social Security cost-of-living percentage."
+   },
+   {
+    "group": "Veterans with dependents who receive additional compensation",
+    "how": "The extra payments they get for dependents are required to increase by the same percentage."
+   },
+   {
+    "group": "Certain disabled veterans receiving the clothing allowance",
+    "how": "The clothing allowance amount is required to increase by the same percentage."
+   },
+   {
+    "group": "Surviving spouses and children receiving dependency and indemnity compensation",
+    "how": "Their survivor payments are required to increase by the same percentage."
+   },
+   {
+    "group": "Veterans and survivors not currently receiving service-connected disability or death compensation",
+    "how": "The VA is allowed, but not required, to make a similar rate adjustment for them."
+   }
+  ],
+  "when_it_takes_effect": "The increases take effect with the Social Security cost-of-living adjustment effective December 1, 2022.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

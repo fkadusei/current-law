@@ -3518,5 +3518,15 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "Names a 9,765-foot mountain peak in Montana the Alex Diekmann Peak.",
+  "what_it_does": "This law officially names an unnamed mountain peak in Montana as the Alex Diekmann Peak. The peak is 9,765 feet tall and sits about 2.2 miles west-northwest of Finger Mountain, on the western edge of the Lee Metcalf Wilderness. The law does not change land rules, access, or management of the area.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law took effect when it was enacted on January 31, 2018.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

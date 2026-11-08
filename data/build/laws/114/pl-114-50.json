@@ -3534,5 +3534,36 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "This law directs the TSA to check on and share best practices for how airports and passenger transportation providers plan for attacks and shootings.",
+  "what_it_does": "The law tells the Transportation Security Administration to contact all U.S. airports where it handles or oversees security and help confirm they have written plans for responding to active shooters, terrorist acts, and attacks on screening checkpoints. The TSA must report its findings to Congress, identify best practices, and set up a way to share them with airports and passenger transportation providers. It also requires yearly certification that screeners have done active shooter training exercises, and a review of how police, fire, and medical responders communicate with each other at those airports. The law says it does not authorize new money and must be carried out with funds already available.",
+  "who_it_affects": [
+   {
+    "group": "Transportation Security Administration employees and screening personnel",
+    "how": "They must take part in practical active shooter training exercises, and the TSA must certify each year that this has happened."
+   },
+   {
+    "group": "Airport operators at airports where the TSA performs or oversees security",
+    "how": "They are contacted by the TSA, may receive technical help to verify their incident response plans, and can receive shared best practices."
+   },
+   {
+    "group": "Passenger transportation agencies and providers with high-risk facilities",
+    "how": "The TSA must confirm they have response plans and share best practices with them."
+   },
+   {
+    "group": "Law enforcement, fire, and medical responders at covered airports",
+    "how": "Their communication systems are reviewed by the TSA for how well they work together during a security incident."
+   },
+   {
+    "group": "Air travelers",
+    "how": "The law does not change ticketing, screening rules, or fees, but it aims to improve how airports plan for incidents that could affect passengers."
+   }
+  ],
+  "when_it_takes_effect": "The law took effect when it was enacted on September 24, 2015, and the summary does not list specific deadlines beyond the required annual certification.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

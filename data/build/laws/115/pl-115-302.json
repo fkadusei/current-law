@@ -3518,5 +3518,32 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "This 2018 law lets federal health officials give grants to states, localities, and tribes for dental health work and extends a dental shortage-area grant program through 2023.",
+  "what_it_does": "The law allows the Department of Health and Human Services to award grants to state, local, and tribal groups for oral health programs. These programs can aim to prevent dental disease and make it easier for people to get dental care. It also renews a grant program for areas short on dental professionals through fiscal year 2023, run by the Health Resources and Services Administration. States may use these funds for dental homes for children and adults and for efforts that reduce emergency room visits for certain dental problems.",
+  "who_it_affects": [
+   {
+    "group": "State, local, and tribal governments",
+    "how": "They can apply for federal grants to run oral health programs and use funds for dental homes and efforts to reduce emergency room visits for dental care."
+   },
+   {
+    "group": "People in dental health professional shortage areas",
+    "how": "The grant program for these areas continues through fiscal year 2023, which may affect the dental care options available where providers are scarce."
+   },
+   {
+    "group": "Children and adults who need dental care",
+    "how": "States may use grant money to set up dental homes, which are ongoing places where a person gets regular dental care."
+   },
+   {
+    "group": "Dental care providers in shortage areas",
+    "how": "The reauthorized grant program may affect funding available to support providers who serve these communities."
+   }
+  ],
+  "when_it_takes_effect": "Enacted December 11, 2018; the shortage-area grant program is reauthorized through fiscal year 2023.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

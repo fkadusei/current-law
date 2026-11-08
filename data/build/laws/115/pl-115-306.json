@@ -39,5 +39,36 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law requires the federal Bureau of Reclamation to transfer certain land and facilities around Dickinson Dam and Reservoir in North Dakota to local and state agencies.",
+  "what_it_does": "Within five years, the Bureau of Reclamation must convey recreation land and permitted cabin land around Dickinson Dam and Reservoir to the Dickinson Parks and Recreation Department, which must pay only the administrative costs of the transfer. The city must manage the recreation land for public access, recreation, fish and wildlife habitat, or natural character, and must charge fair market value, excluding permittee improvements, for any sold cabin land, paying the extra proceeds to Reclamation for dam operations. The law also requires the transfer of a leased game and fish headquarters to North Dakota, which must keep using it for that purpose, and it makes these transfers subject to existing federal rights and program requirements and limits federal liability for certain flood damage.",
+  "who_it_affects": [
+   {
+    "group": "Dickinson Parks and Recreation Department",
+    "how": "It takes ownership of recreation land and permitted cabin land around the reservoir and must manage it under the law's listed uses and pay the transfer's administrative costs."
+   },
+   {
+    "group": "Current cabin permit holders at Dickinson Reservoir",
+    "how": "Their cabin sites may be sold at fair market value, excluding their own improvements, under the conveyance rules."
+   },
+   {
+    "group": "North Dakota Game and Fish Department",
+    "how": "It is to receive ownership of the game and fish headquarters it currently leases and must keep using it for that purpose."
+   },
+   {
+    "group": "Ranchers holding haying or grazing contracts on the recreation land",
+    "how": "Existing haying and grazing contracts in effect at enactment may continue under the city's management."
+   },
+   {
+    "group": "Bureau of Reclamation",
+    "how": "It must complete the land transfers within five years and receives sale proceeds for dam and reservoir operations, subject to appropriations."
+   }
+  ],
+  "when_it_takes_effect": "The conveyances must be completed within five years of enactment on December 11, 2018.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

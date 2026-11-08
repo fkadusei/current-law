@@ -1,0 +1,20 @@
+{
+ "headline": "A 2016 law lets federal Community Oriented Policing Services grant money be used for active shooter training programs.",
+ "what_it_does": "The POLICE Act changes the Omnibus Crime Control and Safe Streets Act of 1968. It widens the list of permitted uses for grants under the Community Oriented Policing Services (COPS) program. Under the change, local agencies that receive these grants may use the money to take part in active shooter training. The summary does not describe any other changes.",
+ "who_it_affects": [
+  {
+   "group": "State and local law enforcement agencies that receive COPS grants",
+   "how": "They may use COPS grant funds to pay for participation in active shooter training programs."
+  },
+  {
+   "group": "Officers and other first responders in those agencies",
+   "how": "They may be able to take part in active shooter training that agencies pay for with COPS grant money."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on July 22, 2016. The summary does not list a separate effective date.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

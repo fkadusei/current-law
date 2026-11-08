@@ -36,5 +36,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law removes certain LED and DC ceiling fan power supplies from federal energy conservation standards for external power supplies.",
+  "what_it_does": "The law changes the Energy Policy and Conservation Act, which sets energy efficiency rules for many products. It says that power supply circuits, drivers, and devices made to power LEDs or DC-motor ceiling fans do not count as external power supplies under those standards. It also says the Department of Energy may set new standards for that equipment no sooner than one year after a test procedure is issued.",
+  "who_it_affects": [
+   {
+    "group": "Manufacturers of LED lighting and LED power drivers",
+    "how": "Their LED drivers and power supply circuits are no longer covered by the federal external power supply efficiency standards."
+   },
+   {
+    "group": "Manufacturers of ceiling fans with DC motors",
+    "how": "Power supplies built to run their DC-motor ceiling fans are excluded from the same federal efficiency standards."
+   },
+   {
+    "group": "Consumers who buy LED lights and DC ceiling fans",
+    "how": "Products using these power supplies will not have to meet the federal external power supply efficiency standards, and any future standards for them cannot take effect until at least a year after a test procedure is set."
+   },
+   {
+    "group": "Department of Energy",
+    "how": "It must wait at least one year after a test procedure is prescribed before it can set new energy standards for these excluded devices."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on January 12, 2018. The summary does not give a separate effective date for the exclusion.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

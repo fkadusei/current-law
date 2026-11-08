@@ -4348,5 +4348,36 @@
   "House": "D",
   "Senate": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2019 federal law requires phone companies to verify caller identity, lets them block suspected robocalls, and increases penalties for illegal robocalls.",
+  "what_it_does": "The law directs the Federal Communications Commission to require phone and text service providers to build caller authentication technology so calls from unverified numbers can be identified. It allows providers to block calls based on that information, while giving callers a way to prove their calls are legitimate if they are wrongly blocked. It also sets up a process for private groups to trace where suspicious robocalls come from, creates a Hospital Robocall Protection Group, and bans one-ring scams where callers hang up quickly to get people to call back at a charge. The FCC can impose financial penalties on violators, with or without intent to break the rules.",
+  "who_it_affects": [
+   {
+    "group": "People who receive phone calls and texts",
+    "how": "They may see fewer robocalls and spoofed calls, and phone companies may block calls from numbers that fail verification."
+   },
+   {
+    "group": "Voice service providers (phone and VoIP companies)",
+    "how": "They must develop and use call authentication technology and follow FCC rules on blocking calls and handling complaints about wrongly blocked calls."
+   },
+   {
+    "group": "Businesses and others who make automated calls",
+    "how": "Legitimate callers whose calls are wrongly blocked can use a verification process to prove their calls are authentic, and they face penalties if they make illegal robocalls."
+   },
+   {
+    "group": "Hospitals",
+    "how": "A Hospital Robocall Protection Group was set up to issue best practices to help hospitals guard against unlawful robocalls."
+   },
+   {
+    "group": "People who might be targeted by one-ring scams",
+    "how": "Callers are barred from using brief unanswered rings to prompt people to call back and incur charges."
+   }
+  ],
+  "when_it_takes_effect": "Not specified in the summary; the law requires the FCC to carry out its rulemaking and implementation steps over time after enactment on December 30, 2019.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

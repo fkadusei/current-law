@@ -1,0 +1,28 @@
+{
+ "headline": "Requires the CDC to set up a voluntary national registry tracking cancer among firefighters.",
+ "what_it_does": "The law directs the Centers for Disease Control and Prevention to create and maintain a voluntary registry of firefighters. The registry collects work history and job information, such as the number and types of fire incidents a person responded to, so that cancer rates among firefighters can be tracked and studied. The CDC must link the registry to state cancer registries, encourage participation, give guidance to states and fire agencies, and publish data in line with privacy laws.",
+ "who_it_affects": [
+  {
+   "group": "Firefighters",
+   "how": "Firefighters may choose to join the voluntary registry and share their work history and incident information."
+  },
+  {
+   "group": "State cancer registries",
+   "how": "State cancer registries are expected to connect with the federal firefighter registry to help collect information."
+  },
+  {
+   "group": "Fire departments and firefighting agencies",
+   "how": "Agencies receive CDC guidance on the registry and may be asked to help encourage firefighter participation."
+  },
+  {
+   "group": "State governments",
+   "how": "States receive CDC guidance on the registry and must work with it through their cancer registries."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

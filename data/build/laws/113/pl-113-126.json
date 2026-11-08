@@ -33,5 +33,40 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Sets the FY2014 budget ceilings for US intelligence agencies and adds oversight, whistleblower, security clearance, and personnel rules for the intelligence community.",
+  "what_it_does": "This law authorizes money and staffing limits for the intelligence activities of many federal agencies for fiscal year 2014, with the exact dollar figures kept in a classified schedule. It also changes how intelligence agencies report to Congress, including annual reports on rule violations, legal interpretations, and cybersecurity and software costs. Other sections create whistleblower protections for intelligence employees, require Senate confirmation for the heads and inspectors general of the NSA and NRO, and set rules for reviewing and appealing security clearance decisions. It also requires a declassification review of documents seized in the 2011 bin Laden raid and a report on Syria's chemical weapons program.",
+  "who_it_affects": [
+   {
+    "group": "Employees of intelligence agencies such as the CIA, NSA, NRO, DIA, and NGA",
+    "how": "They gain whistleblower protections, a right to appeal clearance decisions, and the ability to keep their jobs while an appeal is pending."
+   },
+   {
+    "group": "Contractors with security clearances that work for the intelligence community",
+    "how": "They must follow DNI security plan standards, may face continuous background monitoring, and must report certain network breaches."
+   },
+   {
+    "group": "People who hold or apply for security clearances",
+    "how": "Their clearances are subject to continuous monitoring, and they can appeal denials, suspensions, or revocations under new procedures."
+   },
+   {
+    "group": "Former and current CIA employees and their families",
+    "how": "Service on detail to another agency can count toward CIA hazardous-service retirement designations, and the CIA Director may raise funds for support groups serving them."
+   },
+   {
+    "group": "Federal agencies that deal with intelligence reporting and oversight, including the DNI, DOJ, and Congress",
+    "how": "They must produce new annual reports, inventories, audits, and notifications on intelligence activities, spending, and legal opinions."
+   },
+   {
+    "group": "Members of the public who request government records",
+    "how": "Identities of intelligence employees who file complaints with the Inspector General are exempt from Freedom of Information Act disclosure, and the bin Laden raid documents must be reviewed for public release."
+   }
+  ],
+  "when_it_takes_effect": "Upon enactment on July 7, 2014, with some provisions setting their own deadlines, such as a 120-day deadline for the bin Laden documents review and annual reporting requirements that run through 2017 or 2018.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -36,5 +36,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This 2021 law lets certain military families end phone, internet, and TV contracts early when service-related situations make the service unusable or unnecessary.",
+  "what_it_does": "The law changes when a service member can cancel a phone, internet, or TV contract early. A service member may cancel at any time after receiving orders to move at least 90 days to a place where the service is not available. The law also gives the same right to certain spouses and dependents, and to some reserve members, in cases involving a death or a catastrophic injury or illness connected to military service.",
+  "who_it_affects": [
+   {
+    "group": "Active-duty service members",
+    "how": "They may end a covered phone, internet, or TV contract early after getting orders to relocate for at least 90 days to a place that does not support the service."
+   },
+   {
+    "group": "Spouses and dependents of service members who die while in military service",
+    "how": "They can end a covered contract early under the law's rules."
+   },
+   {
+    "group": "Spouses and dependents of service members who suffer a catastrophic injury or illness during military service",
+    "how": "They can end a covered contract early when the injury or illness happened while the member was serving."
+   },
+   {
+    "group": "Reserve component members performing full-time, active reserve, or inactive-duty training duty",
+    "how": "They are treated as covered individuals who may end a covered contract early."
+   }
+  ],
+  "when_it_takes_effect": "Enacted January 5, 2021. The official summary does not describe a separate effective date.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

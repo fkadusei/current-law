@@ -1,0 +1,20 @@
+{
+ "headline": "This law extends the Federal Election Commission's power to fine campaign violators using a published penalty schedule through 2018 and covers certain disclosure violations.",
+ "what_it_does": "The Federal Election Campaign Act lets the Federal Election Commission (FEC) impose civil money penalties, which are fines, for certain violations. This law extends that fining power, based on a schedule of penalties the FEC has set and published, through December 31, 2018. It also applies these penalties to violations of certain campaign contribution and spending disclosure rules.",
+ "who_it_affects": [
+  {
+   "group": "Federal candidates and campaign committees",
+   "how": "They can face FEC fines for violating the covered contribution and expenditure disclosure requirements."
+  },
+  {
+   "group": "Political committees and other filers subject to FEC disclosure rules",
+   "how": "They must follow the covered reporting rules or risk fines under the published penalty schedule."
+  }
+ ],
+ "when_it_takes_effect": "Enacted December 26, 2013; the penalty authority runs through December 31, 2018.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

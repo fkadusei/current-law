@@ -3538,5 +3538,24 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2018 law expands the Little Rock Central High School National Historic Site boundary to include seven homes on South Park Street.",
+  "what_it_does": "The law changes the park site's boundary so that it covers seven residences on South Park Street in Little Rock, about 1.47 acres of land. The Department of the Interior may sign separate cooperative agreements with the homeowners to mark, interpret, improve, restore, and provide technical help for preserving their properties. Any such agreement must say that the outside of each home will not be changed except by mutual agreement.",
+  "who_it_affects": [
+   {
+    "group": "Owners of the seven residences on South Park Street in Little Rock",
+    "how": "Their homes are now inside the national historic site boundary, and they may choose to enter cooperative agreements with the Department of the Interior for marking, restoration, or technical help, with exterior changes allowed only by mutual agreement."
+   },
+   {
+    "group": "National Park Service and the Department of the Interior",
+    "how": "The department gains authority to enter cooperative agreements with these homeowners and to help preserve and interpret the properties."
+   }
+  ],
+  "when_it_takes_effect": "The law took effect when it was enacted on January 12, 2018; the summary does not list a separate later effective date.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

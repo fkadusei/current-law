@@ -39,5 +39,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law directs federal agencies to follow new cybersecurity standards for internet-connected devices they own or use.",
+  "what_it_does": "The law requires the National Institute of Standards and Technology (NIST) to create and publish security standards and guidelines for federal agencies that use Internet of Things (IoT) devices, such as smart devices connected to the internet. The Office of Management and Budget (OMB) must review agency security policies and update them to match those standards. NIST must review the standards every five years, and OMB must update policies to match any changes. The law also bars agencies from buying or using an IoT device that prevents compliance with the standards, with exceptions for national security, research, and devices secured by other effective methods.",
+  "who_it_affects": [
+   {
+    "group": "Federal agencies",
+    "how": "They must follow NIST security standards for IoT devices they own or control and may not buy or use devices that cannot meet those standards, unless a waiver applies."
+   },
+   {
+    "group": "Companies that sell IoT devices to the federal government",
+    "how": "Devices they sell to agencies must be able to meet the federal security standards to be purchased or used."
+   },
+   {
+    "group": "Federal contractors and subcontractors",
+    "how": "They must follow NIST guidelines for communicating about security vulnerabilities and must work with agency requirements on IoT devices."
+   },
+   {
+    "group": "Government employees who manage federal IT systems",
+    "how": "They must follow updated agency security policies and principles that OMB issues to match the NIST standards."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on December 4, 2020, but the summary does not list specific deadlines for NIST or OMB actions.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

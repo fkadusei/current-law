@@ -39,5 +39,40 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2014 law sets pay election options for Border Patrol agents and creates cybersecurity hiring and reporting rules for the Department of Homeland Security.",
+  "what_it_does": "Each year, Border Patrol agents choose between a level 1 pay rate (1.25 times basic hourly pay), a level 2 rate (1.125 times), or the basic rate with overtime as needed. The law caps the share of agents at a location on levels 2 or basic at 10 percent, with a waiver option, and it sets rules tied to retirement pay. It also lets the Homeland Security Secretary create and fill certain cybersecurity jobs with pay tied to Defense Department rates, requires a three-year probation period for new hires, and orders several workforce reports and a classification of DHS cybersecurity positions.",
+  "who_it_affects": [
+   {
+    "group": "Border Patrol agents",
+    "how": "They must elect a yearly pay level, and their hours, overtime, and retirement annuity calculations may change depending on that choice."
+   },
+   {
+    "group": "U.S. Customs and Border Protection",
+    "how": "It must offer pay elections, manage the 10 percent cap, plan for agents nearing retirement, and complete a staffing cost analysis."
+   },
+   {
+    "group": "Department of Homeland Security cybersecurity job applicants and employees",
+    "how": "Certain cybersecurity positions can be filled outside standard hiring rules and paid based on Defense Department pay, and all new hires face a three-year probation period."
+   },
+   {
+    "group": "Veterans seeking DHS cybersecurity jobs",
+    "how": "The Secretary must report on how veteran preferences are applied in hiring for these positions."
+   },
+   {
+    "group": "Office of Personnel Management",
+    "how": "It must write regulations for the pay elections and provide guidance on identifying cybersecurity skill shortages."
+   },
+   {
+    "group": "Government Accountability Office",
+    "how": "It must review CBP's retirement-pay plan, its staffing analysis, and DHS cybersecurity workforce measures and report to Congress."
+   }
+  ],
+  "when_it_takes_effect": "Signed into law on December 18, 2014. The summary does not list other specific start dates, and some parts depend on regulations OPM must still write.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

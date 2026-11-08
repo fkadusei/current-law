@@ -1,0 +1,24 @@
+{
+ "headline": "Billy's Law gives the Justice Department formal authority to run NamUs, a national database for missing persons and unidentified remains, and requires police to also send missing child reports there.",
+ "what_it_does": "The law puts the National Missing and Unidentified Persons System (NamUs) into statute and keeps it under the Justice Department's National Institute of Justice. When a law enforcement agency reports a missing child to the NCIC database, it must also send that report to NamUs. The law also gives the Institute access to NCIC missing and unidentified person records so the two systems can be checked against each other, and it requires the Justice Department to plan for automatic transfers of certain records and to report to Congress every two years on the status of both databases.",
+ "who_it_affects": [
+  {
+   "group": "Law enforcement agencies",
+   "how": "Agencies that report missing children to NCIC must also submit those same reports to NamUs."
+  },
+  {
+   "group": "Families of missing children and missing persons",
+   "how": "Their cases are expected to be entered into a second national database, and the two systems are to be better matched with each other."
+  },
+  {
+   "group": "Medical examiners, coroners, and other forensic medicine providers",
+   "how": "They may receive Justice Department guidance on best practices for collecting, reporting, and analyzing data on missing persons and unidentified remains."
+  }
+ ],
+ "when_it_takes_effect": "Enacted December 27, 2022; the summary does not specify separate effective dates for each provision.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

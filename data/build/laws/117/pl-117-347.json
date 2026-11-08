@@ -33,5 +33,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2023 law that renews federal anti-trafficking programs, sets up a national strategy on cybercrime against individuals, and expands human trafficking data sharing and collection.",
+  "what_it_does": "The law reauthorizes several federal programs that fight human trafficking, which extends their legal authority. It requires a national strategy to address cybercrime committed against individuals. It also expands rules for sharing information and collecting data about human trafficking.",
+  "who_it_affects": [
+   {
+    "group": "People who have been or may be victims of human trafficking",
+    "how": "Federal anti-trafficking programs that the law reauthorizes are meant to keep serving them."
+   },
+   {
+    "group": "Federal agencies that run anti-trafficking programs",
+    "how": "They must continue these programs under the reauthorized authority and follow the new information-sharing and data-collection requirements."
+   },
+   {
+    "group": "Law enforcement agencies working on trafficking cases",
+    "how": "They may share and collect trafficking information under the expanded rules."
+   },
+   {
+    "group": "Individuals targeted by cybercrime",
+    "how": "The required national strategy is meant to address cybercrime against individuals."
+   }
+  ],
+  "when_it_takes_effect": "Enacted January 5, 2023. The official summary does not list separate effective dates for each provision.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

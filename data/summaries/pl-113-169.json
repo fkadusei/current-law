@@ -1,0 +1,28 @@
+{
+ "headline": "This law approves a 2013 settlement between the Pyramid Lake Paiute Tribe and Fish Springs Ranch over water rights in Nevada and has the Tribe give up certain legal claims.",
+ "what_it_does": "The law approves and ratifies a 2013 supplement to a 2007 settlement agreement between the Pyramid Lake Paiute Tribe and Fish Springs Ranch. In return for the agreement's benefits, the Tribe agrees to give up legal challenges and claims against Fish Springs related to water rights and a plan to pump up to 13,000 acre-feet per year from the Honey Lake Valley Basin for use outside the basin. The Tribe also releases certain claims against the United States tied to the project and the settlement. The law becomes void if the Tribe does not sign the waivers within 60 days, limits who can benefit from the agreement, and gives federal court in Nevada jurisdiction over enforcement disputes.",
+ "who_it_affects": [
+  {
+   "group": "Pyramid Lake Paiute Tribe",
+   "how": "The Tribe must sign waivers giving up certain water-rights challenges and claims against Fish Springs and the United States, in exchange for the settlement benefits, or the law and agreement become void."
+  },
+  {
+   "group": "Fish Springs Ranch",
+   "how": "The ranch gets releases of the Tribe's legal challenges and claims tied to its water rights and its pumping and transfer project, and must make a payment to the Tribe under the agreement."
+  },
+  {
+   "group": "Washoe County and purveyors of Project water",
+   "how": "The agreement limits its beneficiaries to its parties, certain purveyors of Project water, and any assignee of water credits under a Water Banking Trust Agreement between Washoe County and Fish Springs."
+  },
+  {
+   "group": "Holders of Honey Lake Valley Basin water rights",
+   "how": "The Tribe's ability to challenge the validity or use of Fish Springs water rights tied to the pumping project is limited by the waiver."
+  }
+ ],
+ "when_it_takes_effect": "Enacted September 26, 2014. The Tribe had 60 days to execute the waivers and releases, or the Act and Agreement become void.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

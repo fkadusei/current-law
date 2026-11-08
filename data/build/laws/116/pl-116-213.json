@@ -33,5 +33,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Congress required the Department of Veterans Affairs to report on whether its websites, files, and web apps are accessible to people with disabilities.",
+  "what_it_does": "The law directs the VA to send Congress a report on how accessible its websites are to people with disabilities. The report must cover attached files and web-based applications too. It must list any websites, files, or apps that are not accessible and explain the VA's plan to fix each one. The law itself does not set new accessibility standards or penalties.",
+  "who_it_affects": [
+   {
+    "group": "Veterans with disabilities",
+    "how": "The report is meant to identify VA online tools they may have trouble using and show how the VA plans to fix them."
+   },
+   {
+    "group": "Congress",
+    "how": "Lawmakers receive a report listing inaccessible VA websites, files, and applications along with the VA's plans to address them."
+   },
+   {
+    "group": "Department of Veterans Affairs staff",
+    "how": "VA staff must gather information on its online content and applications and prepare the required report."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on December 4, 2020. The summary does not give a specific deadline for the report.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

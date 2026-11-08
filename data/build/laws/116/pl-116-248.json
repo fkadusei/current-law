@@ -39,5 +39,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2020 law lets the Daughters of the Republic of Texas create a memorial on federal land in the District of Columbia to honor Texas diplomats.",
+  "what_it_does": "The law gives the Daughters of the Republic of Texas permission to set up a memorial on federal land in Washington, D.C., and nearby areas. The memorial honors people who served as Republic of Texas diplomats in Washington. The bill's summary says their work helped lead to Texas becoming the 28th state.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The summary does not give a separate date, so it appears to take effect when it was enacted on December 22, 2020.",
+  "ceremonial": true,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

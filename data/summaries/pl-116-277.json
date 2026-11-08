@@ -1,0 +1,32 @@
+{
+ "headline": "This law updates federal grant rules to help identify missing persons and unidentified remains, and requires border rescue beacons to reduce migrant deaths.",
+ "what_it_does": "The law changes the authority for state grants aimed at reporting and identifying missing persons and unidentified remains. Grant money can now be used for transporting, processing, and identifying remains, including those of migrants, and for paying for transportation, hiring, and forensic equipment. Eligible recipients now include local governments, medical examiners' offices, certain accredited and publicly funded labs, and certain nonprofits. The law also limits how DNA samples from suspected biological relatives can be used, requires Customs and Border Protection to buy, place, and maintain no more than 170 rescue beacons along the southern border, and requires several agencies to send reports to Congress.",
+ "who_it_affects": [
+  {
+   "group": "Families of missing persons",
+   "how": "DNA samples they give from suspected biological relatives can be used only to identify missing persons and unidentified remains."
+  },
+  {
+   "group": "Local governments and medical examiners' offices",
+   "how": "They can now apply for federal grant money to help with identification and related costs."
+  },
+  {
+   "group": "Certain labs and nonprofit organizations",
+   "how": "Accredited, publicly funded labs and some nonprofits can now qualify for these grants."
+  },
+  {
+   "group": "Migrants crossing the southern border",
+   "how": "Federal agencies must place rescue beacons along the border to try to reduce deaths, and grant money can be used to handle and identify migrant remains."
+  },
+  {
+   "group": "U.S. Customs and Border Protection",
+   "how": "The agency must buy, place, and maintain up to 170 rescue beacons along the southern border and submit required reports to Congress."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

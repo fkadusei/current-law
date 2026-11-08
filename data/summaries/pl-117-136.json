@@ -1,0 +1,28 @@
+{
+ "headline": "A 2022 law gives the VA Inspector General limited power to subpoena witnesses, with the power set to expire in 2025.",
+ "what_it_does": "The law lets the Department of Veterans Affairs Office of Inspector General issue subpoenas to compel witnesses to attend and testify when needed for its oversight work. The subpoena power ends on May 31, 2025, but subpoenas issued before that date stay in effect. The office cannot subpoena current federal employees, and it cannot subpoena witnesses for criminal proceedings. Before issuing a subpoena, the office must notify the Department of Justice and the intended witness, and if the Justice Department objects because the subpoena would interfere with an ongoing investigation, the office may not issue it.",
+ "who_it_affects": [
+  {
+   "group": "Veterans and people who use VA services",
+   "how": "The VA Inspector General can compel witnesses to testify in its investigations of VA programs and services, which can affect how those reviews are carried out."
+  },
+  {
+   "group": "Current federal employees",
+   "how": "They cannot be subpoenaed by the VA Inspector General to attend or testify."
+  },
+  {
+   "group": "Non-federal witnesses in VA investigations",
+   "how": "They may receive a subpoena to testify, and they must be notified in advance of one being issued."
+  },
+  {
+   "group": "Department of Justice",
+   "how": "It receives advance notice of planned subpoenas and can block one that would interfere with an ongoing investigation."
+  }
+ ],
+ "when_it_takes_effect": "Enacted June 7, 2022; the subpoena authority ends May 31, 2025, though subpoenas issued before that date remain valid.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

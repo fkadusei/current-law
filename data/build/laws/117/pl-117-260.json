@@ -3515,5 +3515,28 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2022 law requires federal agencies to inventory and eventually move their computer systems to encryption that can resist future quantum computers.",
+  "what_it_does": "The law applies to executive branch agencies and does not cover national security systems. It directs the Office of Management and Budget to issue guidance on moving federal technology to post-quantum cryptography, which is encryption designed to withstand attacks from future quantum computers. Each agency must keep an inventory of its technology that could be broken by quantum computers. After the National Institute of Standards and Technology issues post-quantum standards, agencies must develop plans to migrate their systems. OMB must also report to Congress on the strategy, funding needs, and coordination timelines.",
+  "who_it_affects": [
+   {
+    "group": "Federal civilian executive agencies",
+    "how": "They must inventory vulnerable systems, and once standards are issued, they must develop plans to move those systems to post-quantum encryption."
+   },
+   {
+    "group": "Federal IT staff and contractors",
+    "how": "They may be involved in identifying, planning, and carrying out the switch to new encryption methods."
+   },
+   {
+    "group": "Members of the public who use federal online services",
+    "how": "Over time, the government systems they use for data such as tax, benefit, or personal records are expected to be protected by newer encryption."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on December 21, 2022. Agency migration plans are required only after NIST issues post-quantum cryptography standards and OMB issues follow-up guidance, so specific deadlines depend on those later steps.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

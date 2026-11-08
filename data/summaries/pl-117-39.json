@@ -1,0 +1,24 @@
+{
+ "headline": "This law raises the amount of emergency money available in 2021 and 2022 to help U.S. citizens returning home from foreign countries during a crisis.",
+ "what_it_does": "The law increases the maximum funding the Department of Health and Human Services can use for temporary help to U.S. citizens and their dependents who return from other countries because of a crisis and have no resources of their own. Current law already lets the department give money payments and medical care on a temporary basis. The law also labels this funding as emergency spending, which exempts it from certain budget rules called pay-as-you-go and other budget enforcement procedures.",
+ "who_it_affects": [
+  {
+   "group": "U.S. citizens returning from foreign countries during a crisis who have no available resources",
+   "how": "They may receive more temporary help, such as money payments and medical care, because the funding cap was raised."
+  },
+  {
+   "group": "Dependents of those returning U.S. citizens",
+   "how": "They may also qualify for the same temporary assistance because the law covers dependents as well."
+  },
+  {
+   "group": "Department of Health and Human Services",
+   "how": "The department has a larger amount of emergency funding it can use for this assistance in fiscal years 2021 and 2022."
+  }
+ ],
+ "when_it_takes_effect": "The increased funding limit applies to fiscal years 2021 and 2022, and the law was enacted on August 31, 2021.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

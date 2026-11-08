@@ -1,0 +1,24 @@
+{
+ "headline": "This 2014 law lets the CFPB share supervision information with state agencies that oversee consumer financial products without losing legal privileges held by nonbank companies.",
+ "what_it_does": "The law changes the Consumer Financial Protection Act of 2010 so that state agencies which license, supervise, or examine consumer financial products or services are part of the group the CFPB must coordinate with on supervision of nonbank companies. It also says that sharing information with these agencies does not waive or erase any privilege or confidentiality a nonbank company claims under federal or state law. That protection applies to everyone except the CFPB and the agency or authority receiving the information.",
+ "who_it_affects": [
+  {
+   "group": "Nonbank companies that offer consumer financial products or services",
+   "how": "Information they share with the CFPB or with state regulators during supervision keeps its legal privilege or confidentiality protection as against other parties."
+  },
+  {
+   "group": "State agencies that license, supervise, or examine consumer financial products",
+   "how": "They are added to the list of agencies that the CFPB must coordinate its supervisory work with on nonbank companies."
+  },
+  {
+   "group": "The Consumer Financial Protection Bureau",
+   "how": "It must include these state agencies in its coordination of supervisory activities."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

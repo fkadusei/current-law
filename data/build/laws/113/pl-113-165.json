@@ -39,5 +39,24 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law extends for four more years the sale of a special postage stamp that raises money for wildlife conservation abroad.",
+  "what_it_does": "It changes the Multinational Species Conservation Funds Semipostal Stamp Act of 2010 so that the Postal Service must keep offering the semipostal stamp to the public for an additional four years. A semipostal stamp costs more than a regular stamp, and the extra amount goes to conservation programs for wildlife in other countries. The summary does not describe the funding amounts or how the money is divided among programs.",
+  "who_it_affects": [
+   {
+    "group": "People who buy stamps at the U.S. Postal Service",
+    "how": "They can keep buying the semipostal stamp, which costs more than a standard stamp, for an additional four years."
+   },
+   {
+    "group": "Wildlife conservation programs abroad",
+    "how": "They continue to receive money raised from sales of the semipostal stamp during the extended period."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on September 19, 2014, and the stamp availability extension runs for four additional years from that point.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

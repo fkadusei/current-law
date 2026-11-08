@@ -1,0 +1,52 @@
+{
+ "headline": "A 2016 federal law that renews and changes several crime victim, DNA testing, forensic science, and prison rape programs, and sets new rules for restitution and grants.",
+ "what_it_does": "The law requires federal courts to order defendants on supervised release to pay restitution to their victims, with the debt ending 20 years after the judgment or release from prison, and an estate paying if the defendant dies. It sets aside funds to test rape kits and audit backlogs, gives grant preference to forensic nurse examiner programs, and extends DNA, forensic science, and wrongful-conviction testing grants through fiscal year 2021. It also adds rules for grant spending, such as a 7.5% cap on DOJ salary and administrative costs and a $20,000 limit on DOJ-funded conferences.",
+ "who_it_affects": [
+  {
+   "group": "Crime victims in federal cases",
+   "how": "Courts must order restitution for federal offenses where it is allowed, and judges may appoint and pay an interpreter for a victim."
+  },
+  {
+   "group": "Federal defendants on supervised release",
+   "how": "They must make restitution payments as a required condition of release, and that duty ends 20 years after the judgment or release from prison."
+  },
+  {
+   "group": "Estates of people ordered to pay restitution",
+   "how": "If the person dies, the estate can be held responsible for the unpaid restitution."
+  },
+  {
+   "group": "Sexual assault survivors and rural or underserved communities",
+   "how": "Grant applicants that improve or staff forensic nurse examiner programs in these areas get preference for funding."
+  },
+  {
+   "group": "Forensic nurses, health centers, hospitals, and colleges",
+   "how": "The Justice Department must work with Health and Human Services to inform these groups about forensic nursing roles and training resources."
+  },
+  {
+   "group": "State and local crime labs, medical examiners, and coroners",
+   "how": "Labs and offices receiving Coverdell grant funds must be accredited, and funding formulas and purpose areas are changed."
+  },
+  {
+   "group": "States receiving DOJ grants",
+   "how": "Byrne grant applications must include a statewide strategic plan, and some grant funds are protected from a 5% reduction tied to prison rape standards."
+  },
+  {
+   "group": "Nonprofit grant recipients and DOJ grant applicants",
+   "how": "DOJ cannot award grants to nonprofits that hold money in offshore accounts to avoid taxes, and grantees cannot use funds to lobby about grant awards."
+  },
+  {
+   "group": "People convicted through DNA evidence and their defendants",
+   "how": "Court-ordered DNA profiles that exclude a defendant must be entered into the National DNA Index System, and biological evidence preservation rules are revised."
+  },
+  {
+   "group": "Tenants in federally assisted housing covered by VAWA",
+   "how": "Accommodations that apply to a sole eligible tenant after eviction also apply to remaining residents."
+  }
+ ],
+ "when_it_takes_effect": "Signed into law on December 16, 2016. The summary does not list separate start dates for each section, and many grant and funding provisions run through fiscal years 2017 to 2021.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

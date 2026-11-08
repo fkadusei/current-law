@@ -36,5 +36,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A new law lets the VA provide a casket or urn for certain veterans whose next of kin cannot be found, for burial in national or grant-supported state or tribal veterans cemeteries.",
+  "what_it_does": "The law allows the Department of Veterans Affairs to pay for a casket or urn when it cannot identify a deceased veteran's next of kin. It applies only if other resources for the casket or urn are not available. The burial can be in a VA national cemetery or in a state or tribal veterans cemetery that received a VA grant to establish, expand, or improve it.",
+  "who_it_affects": [
+   {
+    "group": "Deceased veterans with no identifiable next of kin",
+    "how": "Their burial may include a casket or urn furnished by the VA when other resources are not available."
+   },
+   {
+    "group": "State and tribal veterans cemeteries that received VA grants",
+    "how": "They may be used as burial sites for veterans whose caskets or urns the VA furnishes."
+   },
+   {
+    "group": "Department of Veterans Affairs",
+    "how": "The agency gains authority to furnish caskets or urns in these situations."
+   }
+  ],
+  "when_it_takes_effect": "The law became effective upon enactment on December 14, 2016.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

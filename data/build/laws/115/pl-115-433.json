@@ -3527,5 +3527,28 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "This law asks the Department of Defense to run a program marking the 75th anniversary of World War II, with a fund to pay for it.",
+  "what_it_does": "The Department of Defense must run a commemoration program for the 75th anniversary of World War II. The program may include ceremonies and education that honor veterans, explain WWII history, recognize allies and people on the home front, and remember the Holocaust and the liberation of the concentration camps. The Treasury Department must set up a DOD World War II Commemoration Fund to pay for the program and for grants to commemorative activities. DOD must consult with the United States Holocaust Memorial Museum when designing the program.",
+  "who_it_affects": [
+   {
+    "group": "World War II veterans",
+    "how": "The program may thank and honor them through ceremonies and activities."
+   },
+   {
+    "group": "Members of the public interested in WWII history",
+    "how": "The program may offer educational activities about the war and the federal and nongovernmental roles in it."
+   },
+   {
+    "group": "Organizations that apply for commemorative grants",
+    "how": "They may receive funding from the new commemoration fund for approved activities."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on January 10, 2019, and the commemoration program is set up to run around the 75th anniversary of WWII, beginning in 2020; the summary does not give exact dates.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

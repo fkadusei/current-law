@@ -1,0 +1,28 @@
+{
+ "headline": "A 2020 law let veterans keep receiving VA education and work-study payments and extend GI Bill deadlines when schools closed during the COVID-19 emergency.",
+ "what_it_does": "The law covers the period from March 1 to December 21, 2020. It lets the VA keep paying work-study and education allowances when a program is suspended by an emergency. If a veteran could not finish a course because a school or program closed temporarily, that payment will not count against their education benefit entitlement. It also extends time limits for using Montgomery GI Bill, Post-9/11 GI Bill, and vocational rehabilitation benefits when closures or executive orders prevent use.",
+ "who_it_affects": [
+  {
+   "group": "Student veterans using Montgomery GI Bill or Post-9/11 GI Bill benefits",
+   "how": "Their deadlines to use education benefits were extended, and payments for interrupted courses would not reduce their remaining entitlement."
+  },
+  {
+   "group": "Veterans in VA work-study programs",
+   "how": "The VA could keep paying work-study allowances during the emergency period."
+  },
+  {
+   "group": "Veterans with service-connected disabilities in vocational rehabilitation training",
+   "how": "Time limits for vocational rehabilitation participation were extended when training was prevented by an emergency or executive order."
+  },
+  {
+   "group": "Colleges and training programs that closed or suspended classes",
+   "how": "Veterans enrolled in their programs could receive continued VA payments and extended time to finish during closures."
+  }
+ ],
+ "when_it_takes_effect": "Enacted April 28, 2020, and applies to the covered period from March 1 to December 21, 2020.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

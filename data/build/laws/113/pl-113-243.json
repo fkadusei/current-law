@@ -36,5 +36,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2014 law changes tax rules for airline workers who moved bankruptcy payouts into retirement accounts, extending refund deadlines and widening who qualifies.",
+  "what_it_does": "It amends a 2012 aviation law that lets certain airline employees roll bankruptcy payments into a traditional or Roth IRA without the usual tax bill. It gives these workers more time to file a claim for a refund of tax they overpaid on those payments, with the deadline set to the later of April 15, 2015, or the normal refund filing period. It also expands which bankruptcy payments and which employees count under those rules.",
+  "who_it_affects": [
+   {
+    "group": "Former airline employees who received bankruptcy payouts and rolled them into an IRA",
+    "how": "They can claim a refund of overpaid tax under a deadline that is the later of April 15, 2015, or the standard refund period."
+   },
+   {
+    "group": "Airline employees whose carrier went through a bankruptcy case filed after September 11, 2001, and before January 1, 2007, or on November 29, 2011",
+    "how": "Payments from those bankruptcy cases now count under the law's rollover rules."
+   },
+   {
+    "group": "Airline employees in a defined benefit pension plan that was frozen effective November 1, 2012",
+    "how": "They now count as qualified airline employees under the law's rollover rules."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

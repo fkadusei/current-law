@@ -39,5 +39,24 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2018 law sets one consistent start date so certain family members of veterans with unrecovered remains can get VA memorial headstones or markers.",
+  "what_it_does": "The Department of Veterans Affairs provides memorial headstones and markers. This law expands eligibility for dependent children and remarried spouses of veterans whose remains are unavailable. Eligibility covers all such people who died on or after November 11, 1998.",
+  "who_it_affects": [
+   {
+    "group": "Dependent children of veterans whose remains are unavailable",
+    "how": "They can now qualify for a VA memorial headstone or marker under the consistent eligibility date."
+   },
+   {
+    "group": "Remarried spouses of veterans whose remains are unavailable",
+    "how": "They can now qualify for a VA memorial headstone or marker under the consistent eligibility date."
+   }
+  ],
+  "when_it_takes_effect": "Enacted March 16, 2018; the eligibility date covers deaths on or after November 11, 1998.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -3494,5 +3494,36 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "This law extends and updates the federal windstorm research and risk reduction program, moving its lead role to NIST and setting new coordination and advisory rules through fiscal year 2017.",
+  "what_it_does": "It reauthorizes the National Windstorm Impact Reduction Program through fiscal year 2017 and names the National Institute of Standards and Technology as the lead agency for planning and coordination. It adds northeasters to the official definition of windstorm and gives FEMA, NSF, and NOAA more specific duties, such as promoting preparedness and studying economic and social factors. It replaces the old interagency working group with a coordinating committee and reshapes the non-federal advisory committee, which ends on September 30, 2017.",
+  "who_it_affects": [
+   {
+    "group": "Households and businesses in windstorm-prone areas",
+    "how": "FEMA must promote windstorm preparedness and mitigation measures for them, though the summary does not describe any required action by individuals."
+   },
+   {
+    "group": "Building designers, builders, and the construction industry",
+    "how": "FEMA must work with national standards and model building code groups to encourage better building practices and use of research results."
+   },
+   {
+    "group": "National standards and model building code organizations",
+    "how": "NIST must issue recommendations to help inform the development of model codes, and FEMA must coordinate with these groups."
+   },
+   {
+    "group": "Non-federal members of the advisory committee",
+    "how": "At least seven outside experts serve on the advisory committee, which gives recommendations on program priorities and effectiveness until it terminates in 2017."
+   },
+   {
+    "group": "Federal agencies in the program (NIST, NSF, FEMA, NOAA)",
+    "how": "Each agency has new duties and must describe its planned windstorm activities and spending in its annual budget request."
+   }
+  ],
+  "when_it_takes_effect": "The summary does not state a specific effective date. The law was enacted on September 30, 2015, the program is authorized through fiscal year 2017, and the advisory committee terminates on September 30, 2017.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

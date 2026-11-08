@@ -4378,5 +4378,52 @@
   "House": "R",
   "Senate": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "Public Law 114-125 is a broad trade and customs law that changes how U.S. Customs and Border Protection handles imports, trade enforcement, intellectual property, and some small business trade programs.",
+  "what_it_does": "The law directs U.S. Customs and Border Protection (CBP) to set priorities, improve its computer systems for imports, and tighten enforcement against evasion of antidumping and countervailing duties and against imports that infringe trademarks or copyrights. It also creates new reporting duties, adds small business trade programs, and raises the de minimis duty-free limit for shipments from $200 to $800. Many other provisions cover Nepal trade preferences, customs user fees, and the Office of the U.S. Trade Representative.",
+  "who_it_affects": [
+   {
+    "group": "Importers and exporters",
+    "how": "They face new CBP trade benefit programs, new bond and importer-of-record rules, and stricter enforcement against evasion of duties."
+   },
+   {
+    "group": "Travelers and people receiving international shipments",
+    "how": "The duty-free de minimis limit for shipments rises from $200 to $800, and travelers may receive education on buying infringing goods abroad."
+   },
+   {
+    "group": "Small businesses",
+    "how": "The Small Business Administration must convene a working group on trade agreements, and states may receive grants for small business export programs."
+   },
+   {
+    "group": "Domestic producers affected by antidumping or countervailing duties",
+    "how": "They may receive interest on duties collected by CBP and gain new tools for reporting suspected evasion."
+   },
+   {
+    "group": "Trademark and copyright owners",
+    "how": "CBP may share certain merchandise information and images with them to help determine whether imports infringe their rights."
+   },
+   {
+    "group": "Travelers using preclearance airports abroad",
+    "how": "U.S. officers may screen passengers at certain foreign airports, and passengers from some airports may be rescreened by TSA before entering secure U.S. airport areas."
+   },
+   {
+    "group": "Customs brokers and foreign nationals importing goods",
+    "how": "Brokers must collect and verify importer information under new Treasury standards."
+   },
+   {
+    "group": "Honey importers and importers of fish, wildlife, and plants",
+    "how": "CBP must direct resources to address concerns about illegal imports of these goods."
+   },
+   {
+    "group": "Nepal textile and leather exporters",
+    "how": "Certain goods may enter duty-free if they meet origin and value requirements, and CBP must verify annually that they are not illegally transshipped."
+   }
+  ],
+  "when_it_takes_effect": "The summary does not give one general start date for the whole law, so many provisions take effect on their own schedules. Some dates are stated, such as customs user fee authority running through September 30, 2025, and Nepal trade preferences ending after December 31, 2025.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

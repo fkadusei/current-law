@@ -33,5 +33,24 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law extends the Chemical Facility Anti-Terrorism Standards Program, a Homeland Security security program for chemical plants, until July 27, 2023.",
+  "what_it_does": "The program is run by the Department of Homeland Security and sets security rules for facilities that hold dangerous chemicals. This law keeps that program in place by extending its end date to July 27, 2023. The official summary does not describe any other changes to the program's rules.",
+  "who_it_affects": [
+   {
+    "group": "Owners and operators of chemical facilities covered by the program",
+    "how": "Their facilities remain subject to the program's security requirements until the new end date."
+   },
+   {
+    "group": "Department of Homeland Security",
+    "how": "The department keeps running the program for an additional period of time."
+   }
+  ],
+  "when_it_takes_effect": "Enacted July 22, 2020, and the program now runs through July 27, 2023.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

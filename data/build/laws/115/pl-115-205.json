@@ -39,5 +39,24 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law lets federal energy regulators extend, for up to six years, the deadline to start building a hydroelectric project at the Jennings Randolph Dam on the Potomac River.",
+  "what_it_does": "The Federal Energy Regulatory Commission (FERC) may extend the deadline for starting construction on the Jennings Randolph Hydroelectric Project by up to six years, if someone asks for it. The project sits on the North Branch of the Potomac River in Garrett County, Maryland, and Mineral County, West Virginia. If the construction license has already expired, FERC may reinstate it.",
+  "who_it_affects": [
+   {
+    "group": "The holder of the Jennings Randolph Hydroelectric Project license",
+    "how": "They can ask FERC for more time to begin construction, and FERC can reinstate the license if it has expired."
+   },
+   {
+    "group": "Residents of Garrett County, Maryland, and Mineral County, West Virginia",
+    "how": "The project's construction timeline may be extended, which affects when any local hydroelectric construction could begin."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on July 23, 2018. The official summary does not state a separate effective date.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

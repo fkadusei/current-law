@@ -36,5 +36,24 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This 2014 law lets the President extend a U.S.-South Korea civil nuclear agreement until March 19, 2016 and requires regular progress reports to Congress.",
+  "what_it_does": "The law allows the President to extend the term of the existing agreement on civil uses of atomic energy between the United States and South Korea. The extension can run no later than March 19, 2016. It also requires the President to report to Congress every 180 days on talks for a new civil nuclear cooperation agreement.",
+  "who_it_affects": [
+   {
+    "group": "Federal government officials negotiating nuclear cooperation with South Korea",
+    "how": "They must keep the existing agreement in force if they extend it and must send Congress progress reports every 180 days."
+   },
+   {
+    "group": "Companies involved in civil nuclear trade between the U.S. and South Korea",
+    "how": "The existing agreement's legal framework can continue for a limited time while a replacement is negotiated, which affects how they plan cross-border nuclear business."
+   }
+  ],
+  "when_it_takes_effect": "The law took effect when it was enacted on February 12, 2014.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

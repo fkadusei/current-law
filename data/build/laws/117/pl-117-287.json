@@ -39,5 +39,20 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law extends the Great Lakes Fish and Wildlife Restoration Act of 1990 so its programs can keep running through fiscal year 2028.",
+  "what_it_does": "The law renews the Great Lakes Fish and Wildlife Restoration Act of 1990 for another period, through fiscal year 2028. That original act supports work to protect and restore fish and wildlife in the Great Lakes region. The summary does not describe any new rules, new funding amounts, or changes to the original program.",
+  "who_it_affects": [
+   {
+    "group": "State and tribal fish and wildlife agencies in the Great Lakes region",
+    "how": "They can continue to seek and use federal support for Great Lakes fish and wildlife restoration projects while the authorization is in effect."
+   }
+  ],
+  "when_it_takes_effect": "Enacted December 27, 2022, with the authorization running through fiscal year 2028.",
+  "ceremonial": false,
+  "confidence": "low",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

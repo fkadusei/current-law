@@ -39,5 +39,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law changes rules on selling billfish caught by U.S. boats and landed in Hawaii or U.S. Pacific island areas.",
+  "what_it_does": "It amends the Billfish Conservation Act of 2012, which covers fish such as marlin and swordfish. Before this change, billfish caught by U.S. vessels and unloaded in Hawaii or the Pacific Insular Areas could be sold abroad or shipped to other U.S. markets. Under this law, those billfish must be kept for sale within Hawaii or the Pacific Insular Areas.",
+  "who_it_affects": [
+   {
+    "group": "Commercial fishing vessel operators who catch billfish and land them in Hawaii or Pacific Insular Areas",
+    "how": "They must keep billfish landed in those areas for sale there rather than selling them abroad or shipping them to other U.S. markets."
+   },
+   {
+    "group": "Seafood buyers and dealers in Hawaii and the Pacific Insular Areas",
+    "how": "They can count on billfish landed locally being available for sale in those areas."
+   },
+   {
+    "group": "Seafood buyers and dealers in other U.S. states and foreign countries",
+    "how": "They can no longer buy billfish caught by U.S. vessels and landed in Hawaii or the Pacific Insular Areas for resale outside those areas."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

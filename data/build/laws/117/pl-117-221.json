@@ -36,5 +36,24 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2022 law requires federal agencies to consider natural disaster risks when they manage buildings and land and decide where to invest in property.",
+  "what_it_does": "The law directs the Office of Management and Budget to create guidance for federal agencies. That guidance must tell each agency to use its own natural disaster risk assessments, such as vulnerability studies, when making decisions about real property it owns or manages. Those decisions include how to manage property and where to spend money on it. The summary does not describe specific dollar amounts or penalties.",
+  "who_it_affects": [
+   {
+    "group": "Federal agencies that own or manage real property",
+    "how": "They must follow OMB guidance and factor natural disaster risk assessments into decisions about managing and investing in their buildings and land."
+   },
+   {
+    "group": "Office of Management and Budget",
+    "how": "It must establish the guidance that tells agencies how to incorporate disaster resilience into property decisions."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

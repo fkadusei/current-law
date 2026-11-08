@@ -36,5 +36,36 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Public Law 113-276 lets the President transfer several retired US Navy frigates to Mexico and Taiwan and makes a set of changes to US arms export and foreign military aid rules.",
+  "what_it_does": "The law authorizes the President to give two Oliver Hazard Perry class frigates, CURTS and MCCLUSKY, to Mexico as grants, and to sell four more, TAYLOR, GARY, CARR, and ELROD, to the Taipei Economic and Cultural Representative Office, which is Taiwan's designated representative in the US. Recipients pay transfer costs, and repairs are to be done at US shipyards where practical. The transfer authority ends three years after enactment. The law also changes several arms export and foreign aid rules, requires advance notice to Congress for certain shipments, and requires annual reports on certain foreign military training programs.",
+  "who_it_affects": [
+   {
+    "group": "The Mexican Navy",
+    "how": "It may receive two retired frigates as grants, with transfer costs charged to Mexico and repairs preferably done at US shipyards."
+   },
+   {
+    "group": "Taiwan's military and its representative office in the US",
+    "how": "Taiwan's designated office may buy four retired frigates from the US government."
+   },
+   {
+    "group": "US shipyards",
+    "how": "Repair and refurbishment work on the transferred ships is to be done at US shipyards where practical."
+   },
+   {
+    "group": "Defense exporters and companies that ship defense-related items",
+    "how": "Certain shipments must be reported to Congress at least 30 days in advance, and some Commerce-controlled items may be licensed under State Department approval."
+   },
+   {
+    "group": "Foreign military trainees and US defense personnel in training programs",
+    "how": "The President must report annually to Congress on cooperative flying training and air and missile defense programs in Southwest Asia."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on December 18, 2014; transfer authority ends three years after enactment.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

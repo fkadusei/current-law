@@ -1,0 +1,36 @@
+{
+ "headline": "This law renews and expands federal programs to fight human trafficking, forced labor, and the use of child soldiers abroad and at home.",
+ "what_it_does": "The law sets up grants for schools to train staff and students about trafficking and creates new reporting duties for federal agencies, government contractors, and airlines. It requires the State Department to name staff at each diplomatic post to receive information from trafficking victims, and it lets the President sanction foreign officials who take part in severe trafficking. It also broadens the legal definition of a child soldier and reauthorizes existing anti-trafficking programs through fiscal year 2021.",
+ "who_it_affects": [
+  {
+   "group": "Local school districts",
+   "how": "They may apply for federal grants from HHS to train school staff to spot and respond to labor and sex trafficking and to teach students how to avoid it."
+  },
+  {
+   "group": "Domestic air carriers that contract with the federal government",
+   "how": "They must report each year on how many staff are trained to detect trafficking and how many trafficking notifications they received."
+  },
+  {
+   "group": "Federal contractors and the acquisition workforce",
+   "how": "Federal Acquisition Institute courses must now cover trafficking laws, and agencies must report on compliance and investigations of contractors that may have violated them."
+  },
+  {
+   "group": "Domestic workers employed by foreign diplomatic staff or international organization affiliates",
+   "how": "The State Department may stop issuing certain visas for these workers if an unpaid trafficking judgment exists or if the mission refuses to waive diplomatic immunity in a trafficking case."
+  },
+  {
+   "group": "Foreign government officials accused of severe trafficking",
+   "how": "The President gains authority to investigate them and impose sanctions for participating in or condoning severe trafficking for significant financial gain."
+  },
+  {
+   "group": "Afghan security forces and minors serving in them",
+   "how": "The definition of child soldier now includes minors who take part in police or other security forces, and the State and Defense Departments must address child sexual abuse by Afghan security forces."
+  }
+ ],
+ "when_it_takes_effect": "Enacted January 8, 2019; the program authorizations run through fiscal year 2021, and many reporting duties take effect on the schedules the bill sets out.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

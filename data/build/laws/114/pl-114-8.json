@@ -36,5 +36,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2015 law names a federal building in Miramar, Florida, after two people, Benjamin P. Grogan and Jerry L. Dove.",
+  "what_it_does": "This law gives a federal building at 2030 Southwest 145th Avenue in Miramar, Florida, a new official name: the \"Benjamin P. Grogan and Jerry L. Dove Federal Building.\" It only changes the name. It does not change how the building is run, who uses it, or what services it offers.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law took effect when it was enacted on April 7, 2015.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -1,0 +1,32 @@
+{
+ "headline": "This 2018 law sets many new research, technology-transfer, reporting, and program rules for the Department of Energy and its national laboratories.",
+ "what_it_does": "The law lets some DOE national laboratories use technology-transfer funds for early-stage demonstrations and requires DOE to keep a searchable public database of its unclassified research contracts and grants. It bars laboratory contractors from charging general overhead costs to laboratory-directed research, with an exception for certain national security labs, and it creates or renames several research programs, including solar fuels, electricity storage, exascale computing, and a Facility for Rare Isotope Beams. It also makes Energy Innovation Hubs run by nonprofit consortia, keeps some commercial data from ARPA-E awardees out of Freedom of Information Act disclosure, and waives cost-sharing for universities and nonprofits for two years.",
+ "who_it_affects": [
+  {
+   "group": "National laboratory contractors",
+   "how": "They may not charge general and administrative overhead costs to laboratory-directed research, and they must meet new certification rules on competing with industry and avoiding conflicts of interest."
+  },
+  {
+   "group": "Universities and nonprofit research institutions",
+   "how": "They are exempt from cost-sharing requirements for DOE research and development for two years."
+  },
+  {
+   "group": "Private companies and entrepreneurs working with DOE",
+   "how": "They can make agreements with national laboratories under the expanded technology-transfer pilot program, and their commercial and financial information submitted to ARPA-E is protected from public release."
+  },
+  {
+   "group": "Consortia applying to run Energy Innovation Hubs",
+   "how": "They must be made up of at least two qualifying entities, sign a binding partnership agreement, and operate as nonprofits."
+  },
+  {
+   "group": "Researchers seeking DOE funding or access to exascale computers",
+   "how": "They may get competitively reviewed access to new exascale systems and can search a public database of DOE project awards."
+  }
+ ],
+ "when_it_takes_effect": "Most provisions took effect when the law was enacted on September 28, 2018, though some reports and programs have their own deadlines and some pilot authority ran only through FY2019.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

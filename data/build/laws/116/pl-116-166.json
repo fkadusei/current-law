@@ -36,5 +36,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2020 federal law requires new coordination and a joint commission to address violent crime, missing persons, and human trafficking involving Native Americans.",
+  "what_it_does": "The law requires the Department of the Interior to name an official inside the Bureau of Indian Affairs to coordinate prevention efforts, grants, and programs about missing Indians and the murder and human trafficking of Indians. It also requires Interior and the Department of Justice to create a joint commission on violent crime on Indian lands and against Indians. The commission must develop and publicly release recommendations on identifying, reporting, and responding to missing persons, murder, and human trafficking cases. Interior and the Justice Department must then respond in writing to those recommendations.",
+  "who_it_affects": [
+   {
+    "group": "American Indians and Alaska Natives",
+    "how": "The law aims to improve how federal agencies respond to violent crime, missing persons cases, and human trafficking affecting their communities."
+   },
+   {
+    "group": "Tribal communities and governments on Indian lands",
+    "how": "They may be affected by new federal coordination and any recommendations the commission makes about crime response on tribal lands."
+   },
+   {
+    "group": "Families of missing Native Americans",
+    "how": "The law requires new federal focus on missing persons cases involving Indians, which may change how those cases are reported and handled."
+   },
+   {
+    "group": "Bureau of Indian Affairs, Department of the Interior, and Department of Justice",
+    "how": "These agencies must assign a coordinating official, form a joint commission, and respond in writing to its recommendations."
+   }
+  ],
+  "when_it_takes_effect": "Enacted October 10, 2020; the summary does not list specific later deadlines beyond the required actions.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

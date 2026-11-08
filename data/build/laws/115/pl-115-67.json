@@ -39,5 +39,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2017 law lets Christian County, Missouri build and run a bridge on land given to it by the Riverside Inn, with the county taking on all flood-related responsibility.",
+  "what_it_does": "The law authorizes the Riverside Bridge Project, which allows the county, or a party it assigns, to build, maintain, and operate a bridge on property conveyed by Riverside Inn, Inc. The project must be carried out so that no flood damage attributable to it occurs. If such damage happens anyway, the county or its assignee is liable. The federal government is not liable for future flood damage caused by the project, and no future federal disaster aid may go to the project.",
+  "who_it_affects": [
+   {
+    "group": "Christian County, Missouri",
+    "how": "The county may build, maintain, and operate the bridge, but it must avoid flood damage caused by the project and pay for any that occurs."
+   },
+   {
+    "group": "Riverside Inn, Inc.",
+    "how": "The company conveyed the property on which the bridge is authorized to be built."
+   },
+   {
+    "group": "Assignees of Christian County",
+    "how": "Any outside party the county assigns the project to must meet the same flood-damage conditions and bears the same liability."
+   },
+   {
+    "group": "Federal disaster assistance programs",
+    "how": "The project cannot receive future federal disaster assistance for damage connected to it."
+   }
+  ],
+  "when_it_takes_effect": "Became law on October 6, 2017, when it was enacted.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -1,0 +1,20 @@
+{
+ "headline": "This law clarifies which office sets the paperwork rules for legislative branch employees who take disabled veteran leave.",
+ "what_it_does": "Federal employees can take disabled veteran leave for medical treatment of a service-connected disability. They must certify that the leave was used for that purpose, and the Office of Personnel Management sets the form and process for that certification. This law adds a rule saying which office sets the certification form and process for employees in the legislative branch.",
+ "who_it_affects": [
+  {
+   "group": "Legislative branch employees who use disabled veteran leave",
+   "how": "They will follow the certification form and process set by the office named in the law, rather than an unclear source of authority."
+  },
+  {
+   "group": "Federal employees who use disabled veteran leave",
+   "how": "The summary describes no change to the certification rules that apply to them under the Office of Personnel Management."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

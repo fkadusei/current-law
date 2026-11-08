@@ -36,5 +36,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Names a Poway, California Postal Service building after Ray Chavez.",
+  "what_it_does": "This law renames a United States Postal Service facility at 13308 Midland Road in Poway, California, as the Ray Chavez Post Office Building. It does not change how the post office runs, what services it offers, or any rules for mail. It is a naming measure only.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law was enacted on December 21, 2020, and the new name applies from that date.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

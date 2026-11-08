@@ -3551,5 +3551,36 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "This law authorizes funding for U.S. intelligence agencies for fiscal year 2015 and sets a range of reporting, personnel, and oversight rules for them.",
+  "what_it_does": "The law sets spending authority and personnel ceilings for the intelligence community, including the CIA, NSA, FBI, DEA, DHS intelligence units, and others. The exact dollar amounts are kept in a classified schedule. It also requires many reports to Congress, such as on strategy, software licenses, rule violations, North Korea, and al-Qaeda, and it limits how long certain intercepted communications of U.S. persons may be kept without approval or notice to Congress.",
+  "who_it_affects": [
+   {
+    "group": "Intelligence community employees and contractors",
+    "how": "They face new rules, including reporting requirements about work for foreign governments and reporting on contractor functions in personnel assessments."
+   },
+   {
+    "group": "U.S. persons whose phone or electronic communications are collected by intelligence agencies",
+    "how": "Retention of their non-public communications is generally capped at five years unless an listed exception applies, and some extended retention must be reported to Congress."
+   },
+   {
+    "group": "U.S. citizens serving as supervisors at diplomatic facilities in Russia",
+    "how": "Supervisory positions at those facilities must be held by U.S. citizens who have passed a thorough background check."
+   },
+   {
+    "group": "Veterans and retired intelligence community members",
+    "how": "The DNI must study the feasibility of retraining them in cybersecurity."
+   },
+   {
+    "group": "Historically black colleges and universities and predominantly black institutions",
+    "how": "They become eligible for an existing intelligence-related grant program that is expanded to include predominantly black institutions."
+   }
+  ],
+  "when_it_takes_effect": "Most authorizations apply to fiscal year 2015, which runs from October 1, 2014, through September 30, 2015; the act was enacted December 19, 2014, and other provisions set their own report deadlines.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

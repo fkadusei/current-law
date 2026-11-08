@@ -3512,5 +3512,24 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "This law lets the Confederated Tribes of the Chehalis Reservation in western Washington lease their trust land for terms of up to 99 years.",
+  "what_it_does": "The Confederated Tribes of the Chehalis Reservation hold some land in trust, which means the federal government holds legal title for the tribe. This act allows the tribe to lease that land for terms of up to 99 years. The official summary does not describe any other changes.",
+  "who_it_affects": [
+   {
+    "group": "The Confederated Tribes of the Chehalis Reservation",
+    "how": "The tribe gains authority to lease its trust land for terms of up to 99 years."
+   },
+   {
+    "group": "Businesses and individuals who may lease tribal trust land",
+    "how": "They may be able to sign longer-term leases on this land than the tribe could previously offer, depending on the tribe's decisions."
+   }
+  ],
+  "when_it_takes_effect": "Enacted January 5, 2023; the official summary does not list a separate effective date.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -39,5 +39,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law directs FEMA to plan for lowering its administrative costs when helping communities recover from major disasters and to report on that work to Congress each year.",
+  "what_it_does": "The law tells the Federal Emergency Management Agency (FEMA) to build and carry out a plan to control and reduce the administrative costs it spends helping with major disasters. FEMA must compare the costs and benefits of tracking those costs by program and then track the information. It must also clarify its guidance and documentation rules for administrative costs that grantees and subgrantees claim under the public assistance program. Starting at enactment, FEMA must report to Congress by November 30 each year for seven years and post the report online.",
+  "who_it_affects": [
+   {
+    "group": "FEMA staff who manage disaster administrative costs",
+    "how": "They must develop, carry out, and track a plan to control administrative costs and prepare annual reports."
+   },
+   {
+    "group": "State and local governments that receive public assistance grants",
+    "how": "They may see clearer FEMA rules and minimum documentation requirements for administrative costs they claim after a major disaster."
+   },
+   {
+    "group": "Nonprofit and other subgrantees in the public assistance program",
+    "how": "They may see clearer FEMA rules and minimum documentation requirements for administrative costs they claim after a major disaster."
+   },
+   {
+    "group": "Disaster survivors seeking federal assistance",
+    "how": "The law requires reporting and planning on administrative costs, but the summary does not say it changes what individuals receive."
+   }
+  ],
+  "when_it_takes_effect": "The reporting requirement starts on the date of enactment, February 29, 2016, and runs for seven years, with reports due each November 30.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

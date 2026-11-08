@@ -1,0 +1,76 @@
+{
+ "headline": "Public Law 115-141 is a large omnibus spending law that funds most federal agencies for the rest of fiscal year 2018 and bundles many unrelated policy changes.",
+ "what_it_does": "The law provides fiscal year 2018 money for federal agencies, including Agriculture, Commerce and Justice, Defense, Energy and Water, Financial Services, Homeland Security, Interior and Environment, Labor and HHS, Legislative Branch, Military Construction and Veterans Affairs, State and foreign operations, and Transportation and Housing. It also extends expiring programs such as the National Flood Insurance Program, certain aviation taxes, immigration programs, and the Generalized System of Preferences. In addition, it includes many separate policy measures on topics such as background checks, school safety, broadband and spectrum, wildfire management, opioid-related services, and Medicare payments.",
+ "who_it_affects": [
+  {
+   "group": "Federal agency employees and federal programs",
+   "how": "Their agencies receive fiscal year 2018 funding levels and spending rules set by the division-by-division appropriations."
+  },
+  {
+   "group": "Members of Congress",
+   "how": "The law bars cost-of-living pay adjustments for Members of Congress during fiscal year 2018."
+  },
+  {
+   "group": "People who receive SNAP, WIC, or school meals",
+   "how": "The law sets funding and rules for these nutrition programs, including limits on school lunch pricing changes and retailer stocking standards."
+  },
+  {
+   "group": "Flood insurance policyholders",
+   "how": "The National Flood Insurance Program is extended through July 31, 2018."
+  },
+  {
+   "group": "Air travelers and the aviation industry",
+   "how": "Federal aviation programs and aviation excise taxes are extended through fiscal year 2018."
+  },
+  {
+   "group": "Students and borrowers",
+   "how": "The law changes Pell grant rules, Public Service Loan Forgiveness outreach, and certain school default-rate waivers."
+  },
+  {
+   "group": "Medicare beneficiaries and health providers",
+   "how": "The law sets Medicare pass-through payment rules for certain new drugs and biologicals."
+  },
+  {
+   "group": "Veterans",
+   "how": "The law funds VA programs and includes changes such as a ban on certain fees for veterans identification cards and new mental health care requirements."
+  },
+  {
+   "group": "Gun buyers and firearm dealers",
+   "how": "The Fix NICS provisions change how federal agencies and states submit records to the National Instant Criminal Background Check System."
+  },
+  {
+   "group": "Small businesses and business development companies",
+   "how": "The law lowers the asset-coverage ratio for qualifying business development companies and changes Microloan technical assistance limits."
+  },
+  {
+   "group": "Families of people with Alzheimer's or developmental disabilities",
+   "how": "The Missing Alzheimer's Disease Patient Alert Program is renamed and reauthorized as the Missing Americans Alert Program."
+  },
+  {
+   "group": "Amateur athletes and youth sports organizations",
+   "how": "The Keep Young Athletes Safe Act authorizes a DOJ grant to oversee abuse safeguards."
+  },
+  {
+   "group": "Palestinian Authority",
+   "how": "Certain foreign assistance directly benefiting the Palestinian Authority is restricted unless the State Department certifies specified steps are taken."
+  },
+  {
+   "group": "Broadband providers and wireless carriers",
+   "how": "The MOBILE NOW provisions require spectrum identification and easier access to federal property for communications facilities."
+  },
+  {
+   "group": "Wildfire-prone communities and forest users",
+   "how": "The Wildfire Suppression Funding Act sets new hazardous fuel reduction and stewardship contracting rules on national forests and BLM lands."
+  },
+  {
+   "group": "Tipped workers and restaurant employers",
+   "how": "The Tipped Employees provision bars employers, including managers and supervisors, from keeping any portion of employee tips."
+  }
+ ],
+ "when_it_takes_effect": "Most appropriations apply to fiscal year 2018, which runs from October 1, 2017 through September 30, 2018, and the law was enacted March 23, 2018; individual provisions set their own effective dates.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

@@ -3515,5 +3515,24 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "This law lets the Federal Energy Regulatory Commission extend, by up to eight years, the deadline for starting construction on a New York dam-based power project.",
+  "what_it_does": "The bill allows FERC, if asked, to give up to eight more years to begin building the Cannonsville Hydroelectric Project on the West Branch of the Delaware River in New York's Catskill Mountains. New York City had received the construction license for this project on May 13, 2014. The bill also lets FERC reinstate that license if it has expired.",
+  "who_it_affects": [
+   {
+    "group": "The City of New York",
+    "how": "It holds the license for the Cannonsville project and can ask FERC for more time to start construction."
+   },
+   {
+    "group": "People living near the West Branch of the Delaware River",
+    "how": "The project's construction timeline is extended, so any future work on the river and dam could happen later than originally scheduled."
+   }
+  ],
+  "when_it_takes_effect": "Enacted July 23, 2018; the summary does not describe a separate effective date.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

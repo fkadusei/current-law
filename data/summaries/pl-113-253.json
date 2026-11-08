@@ -1,0 +1,20 @@
+{
+ "headline": "A 2014 law changes the mapped boundaries of several coastal barrier resource units in North Carolina, Rhode Island, Florida, and South Carolina.",
+ "what_it_does": "The law redraws the boundaries of named units in the John H. Chafee Coastal Barrier Resources System. The listed units include Lea Island, Wrightsville Beach, and Masonboro Island in North Carolina, four Rhode Island units, Gasparilla Island in Florida, and two South Carolina units. The available summary is cut off and does not explain the specific changes or the rules that apply inside the units.",
+ "who_it_affects": [
+  {
+   "group": "Property owners in the listed coastal units",
+   "how": "Changing a unit's boundary can change whether a parcel falls inside the federal barrier system, which can affect federal rules tied to that status."
+  },
+  {
+   "group": "Local governments in the listed coastal areas",
+   "how": "Boundary changes can affect which areas are subject to federal system rules that local planning may need to account for."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on December 18, 2014. The summary does not state a separate effective date.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

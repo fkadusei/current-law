@@ -3532,5 +3532,15 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "This law authorizes a Congressional Gold Medal to honor the women of the 6888th Central Postal Directory Battalion for their World War II service.",
+  "what_it_does": "The law provides for the award of a Congressional Gold Medal to the women of the 6888th Central Postal Directory Battalion, known as the Six Triple Eight. It recognizes their military service, their devotion to duty, and their work to boost morale for personnel in the European theater during World War II. The medal is an honorary award and the summary does not describe any cash payments or other benefits.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "Took effect on enactment, March 14, 2022, since the official summary does not list a separate start date.",
+  "ceremonial": true,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

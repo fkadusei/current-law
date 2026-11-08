@@ -36,5 +36,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2016 federal law requires agencies to set up stronger systems to find, prevent, and respond to fraud, and creates a government working group to share fraud-fighting tools.",
+  "what_it_does": "The law directs the Office of Management and Budget to issue guidelines that federal agencies must follow when building controls against fraud, including improper payments. Agencies must assess their fraud risks, use data from fraud reports to spot trends, and use audit and investigation results to improve their defenses. Each agency must also report on its progress in its annual financial report. The law also sets up a working group to share fraud-prevention practices and data analysis tools, and to plan a shared federal library of data sets for agencies and inspectors general.",
+  "who_it_affects": [
+   {
+    "group": "Federal agencies that run benefit or payment programs",
+    "how": "They must assess fraud risks, set up controls, and report their progress in their annual financial reports."
+   },
+   {
+    "group": "Offices of Inspectors General",
+    "how": "They may use a planned shared federal library of data analytics tools and data sets to detect and recover fraud."
+   },
+   {
+    "group": "People who receive federal benefit or payment programs",
+    "how": "Agencies are expected to tighten controls against improper payments, which could affect how payments are checked and approved."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

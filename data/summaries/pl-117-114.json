@@ -1,0 +1,24 @@
+{
+ "headline": "A 2022 law requires three federal land agencies to standardize and publish digital maps and data about public land access, roads, trails, and hunting closures.",
+ "what_it_does": "The law directs the Department of the Interior, the Forest Service, and the Army Corps of Engineers to jointly create shared data standards so their outdoor recreation databases can work together. It requires these agencies to digitize and publish mapping data showing federal easements and rights-of-way on private land, whether roads and trails are open or closed, and the seasonal opening and closing dates. The data must also show what vehicles and recreational uses are allowed on each road or trail segment, and where hunting or recreational shooting is permanently restricted. The agencies may work with the U.S. Geological Survey to help collect and publish this data.",
+ "who_it_affects": [
+  {
+   "group": "Hunters and recreational shooters",
+   "how": "They can look up official maps showing where hunting or shooting is permanently restricted or closed on federal land."
+  },
+  {
+   "group": "Hikers, off-road vehicle drivers, and other outdoor recreation users",
+   "how": "They can find published data on which roads and trails are open or closed, seasonal dates, and which vehicles and uses are allowed on each segment."
+  },
+  {
+   "group": "Owners of private land next to federal land",
+   "how": "Federal easements and rights-of-way across their property must be mapped and published in digital form."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

@@ -3546,5 +3546,32 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "This law directs the Interior Department to transfer federal electric distribution fixtures, pole-use rights, and land access rights in Utah Valley to a local electric service district.",
+  "what_it_does": "The Secretary of the Interior must convey federal interests in an electric distribution system and related land to the South Utah Valley Electric Service District, once the Strawberry Water Users Association has transferred its own interest to the District. The District takes on liability for running, maintaining, and replacing that system, and the United States is shielded from damages tied to it. Before the transfer, the Secretary must comply with the National Environmental Policy Act and the Endangered Species Act. Federal ownership of the Strawberry Valley Project power generation facilities and the federally owned parts of the 46-kilovolt transmission system stays with the United States, and the transferred lands no longer count as part of a federal reclamation project. If the transfer is not finished within one year, the Secretary must report the obstacles and expected completion date to Congress.",
+  "who_it_affects": [
+   {
+    "group": "South Utah Valley Electric Service District",
+    "how": "The District receives federal fixtures, pole-use licenses, and land access rights, and it becomes responsible for operating, maintaining, and replacing the electric distribution system."
+   },
+   {
+    "group": "Strawberry Water Users Association",
+    "how": "The Association's earlier transfer of its interest in the electric distribution system to the District is the condition that triggers the federal transfer."
+   },
+   {
+    "group": "Electric customers served by the distribution system in the affected area of Utah",
+    "how": "The system that delivers their power will be owned and run by the District rather than through federal arrangements, though the law does not describe any change in rates or service."
+   },
+   {
+    "group": "Bureau of Reclamation and the Department of the Interior",
+    "how": "The Department must complete the conveyance, meet environmental review requirements, and report to Congress if the transfer is delayed past one year."
+   }
+  ],
+  "when_it_takes_effect": "The law took effect on enactment, July 18, 2013. The conveyance itself must happen after the Association's transfer to the District, and the Secretary must report to Congress if it is not completed within one year of enactment.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

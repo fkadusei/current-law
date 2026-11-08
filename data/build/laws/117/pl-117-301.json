@@ -39,5 +39,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Requires posting of the national human trafficking hotline's contact information in federal buildings and in certain transportation locations.",
+  "what_it_does": "This law requires that the contact information for the national human trafficking hotline be posted in a visible place in all federal buildings. It also requires the information to be posted in restrooms on U.S. aircraft, at airports, on over-the-road buses, at bus stations, on passenger trains, and at passenger railroad stations. The information must also be posted at each port of entry.",
+  "who_it_affects": [
+   {
+    "group": "Travelers using airports, buses, trains, and train stations",
+    "how": "They will see hotline contact information posted in restrooms and at stations where they travel."
+   },
+   {
+    "group": "Operators of U.S. aircraft, buses, and passenger trains",
+    "how": "They must make sure the hotline information is posted in the restrooms of their vehicles."
+   },
+   {
+    "group": "Federal agencies and employees working in federal buildings",
+    "how": "They must post the hotline contact information in a visible place inside federal buildings."
+   },
+   {
+    "group": "People entering the U.S. at ports of entry",
+    "how": "They will find hotline contact information posted at border crossings and similar entry points."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

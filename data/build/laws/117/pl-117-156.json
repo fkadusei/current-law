@@ -39,5 +39,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2022 law renames the Middletown, New York post office at 40 Fulton Street after former congressman Benjamin A. Gilman.",
+  "what_it_does": "This law officially names the U.S. Postal Service facility at 40 Fulton Street in Middletown, New York, the Benjamin A. Gilman Post Office Building. It changes only the official name of the building. It does not change postal services, mail delivery, or building operations.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law was enacted on June 24, 2022, and the naming took effect that day.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

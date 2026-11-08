@@ -1,0 +1,28 @@
+{
+ "headline": "A 2022 law directs the Small Business Administration to create a program that certifies some staff at Small Business Development Centers to give cybersecurity planning help to small businesses.",
+ "what_it_does": "The law requires the Small Business Administration to set up a certification program for employees of Small Business Development Centers. Under the program, at least 5 or 10 percent of the total number of employees at each center would be certified. Certified employees would provide cybersecurity planning assistance to small businesses.",
+ "who_it_affects": [
+  {
+   "group": "Small businesses",
+   "how": "They may be able to get cybersecurity planning help from certified staff at Small Business Development Centers."
+  },
+  {
+   "group": "Employees of Small Business Development Centers",
+   "how": "Some of them would be certified to give cybersecurity planning assistance."
+  },
+  {
+   "group": "Small Business Development Centers",
+   "how": "Each center would need to have a set share of its staff go through the new certification program."
+  },
+  {
+   "group": "Small Business Administration",
+   "how": "The agency must create and run the certification program."
+  }
+ ],
+ "when_it_takes_effect": "Enacted December 27, 2022; the official summary does not state a separate effective date or deadlines for the program.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

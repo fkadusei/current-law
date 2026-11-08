@@ -4327,5 +4327,44 @@
   "House": "R",
   "Senate": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2018 funding law gave federal agencies money for fiscal year 2019, funded two full spending bills for Defense and Labor-HHS-Education, and kept the rest of government running through December 7, 2018.",
+  "what_it_does": "The law provides fiscal year 2019 money for the Department of Defense and for the Departments of Labor, Health and Human Services, and Education, plus several related agencies. It also includes a continuing resolution that keeps other agencies funded at fiscal year 2018 levels through December 7, 2018, which prevents a partial government shutdown on October 1, 2018. The continuing resolution also extends several programs that were set to expire at the end of fiscal year 2018.",
+  "who_it_affects": [
+   {
+    "group": "Active-duty and reserve military members and National Guard personnel",
+    "how": "The law sets their pay and operating budgets for fiscal year 2019 and includes rules on items such as tuition benefits for certain Army members."
+   },
+   {
+    "group": "Defense contractors and suppliers",
+    "how": "The law includes purchasing rules such as Buy American requirements for certain steel, bearings, and anchor chains, and limits on some contracts."
+   },
+   {
+    "group": "Students and borrowers with federal student loans",
+    "how": "The law allows certain borrowers in cancer treatment to defer loan payments and extends some Education Department authorities through 2019 or 2020."
+   },
+   {
+    "group": "Families and children who rely on federal assistance programs",
+    "how": "The law funds programs such as Temporary Assistance for Needy Families, child care block grants, and Low Income Home Energy Assistance through the continuing resolution."
+   },
+   {
+    "group": "Seniors and people with disabilities who receive Social Security or Supplemental Security Income",
+    "how": "The law provides funding for the Social Security Administration and the Supplemental Security Income program for fiscal year 2019."
+   },
+   {
+    "group": "Federal employees and federal agencies not funded by the two full bills",
+    "how": "The continuing resolution keeps their operations running at fiscal year 2018 levels until December 7, 2018 or until full-year bills are enacted."
+   },
+   {
+    "group": "Workers and employers who use H-2B visas",
+    "how": "The law changes some H-2B rules, including prevailing wage requirements and the definition of temporary need for the program."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on September 28, 2018, and its funding applies to fiscal year 2019, which began October 1, 2018; the continuing resolution funding runs through December 7, 2018, unless a full-year bill is enacted sooner.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

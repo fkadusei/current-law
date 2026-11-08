@@ -4362,5 +4362,60 @@
   "House": "R",
   "Senate": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "A large 2018 spending and tax package that funds disaster relief, keeps the government open, raises the debt limit, and extends many health, tax, and child welfare programs.",
+  "what_it_does": "This is a long omnibus law with several parts. It gives emergency funding for hurricanes, wildfires, and other disasters, and it changes several disaster aid programs run by USDA and FEMA. It also sets a short-term spending extension to end a government shutdown, suspends the federal debt limit through March 2019, and changes budget enforcement rules. Finally, it extends many expiring tax breaks, Medicare, Medicaid, CHIP, and child welfare programs, and it makes several offsetting cuts.",
+  "who_it_affects": [
+   {
+    "group": "Farmers and ranchers who lost livestock or trees to disasters",
+    "how": "The law removes the $125,000 annual payment cap for certain USDA livestock and tree disaster programs and raises the tree-assistance acreage limit from 500 to 1,000 acres."
+   },
+   {
+    "group": "Residents of Puerto Rico and the U.S. Virgin Islands",
+    "how": "The law provides hurricane recovery funding, increases Medicaid funding for both territories through FY2019, and extends several disaster-related tax and program provisions."
+   },
+   {
+    "group": "Californians affected by the 2017 wildfires",
+    "how": "The law allows penalty-free early retirement withdrawals of up to $100,000, an employee retention tax credit for certain employers, and expanded charitable and casualty loss deductions."
+   },
+   {
+    "group": "Retirement plan savers who take early withdrawals",
+    "how": "Qualifying wildfire-related withdrawals avoid the 10% early withdrawal tax, and the law changes hardship withdrawal rules for 401(k) plans."
+   },
+   {
+    "group": "Medicare beneficiaries",
+    "how": "The law extends several Medicare payment rules, changes therapy payment caps, adds telehealth options, and eliminates Medicare premium subsidies for people with incomes above $500,000."
+   },
+   {
+    "group": "Medicaid and CHIP enrollees",
+    "how": "CHIP is funded through FY2027, and the law changes Medicaid rules on how lottery winnings and lump-sum income count toward eligibility."
+   },
+   {
+    "group": "Families in the foster care system and child welfare agencies",
+    "how": "The law adds prevention services, limits federal payments for some group placements, and sets new requirements for states on family reunification and kinship care."
+   },
+   {
+    "group": "Taxpayers and businesses with expiring tax provisions",
+    "how": "Many energy, business, and individual tax credits and deductions are extended, some through 2017 or 2018, and some with reduced credit rates."
+   },
+   {
+    "group": "Federal employees and agencies affected by the shutdown",
+    "how": "The short-term extension of funding ended the shutdown and kept agencies operating under a continuing resolution through March 23, 2018."
+   },
+   {
+    "group": "Veterans and Department of Veterans Affairs health system users",
+    "how": "The law provides FY2018 VA health care funding and military construction funding."
+   },
+   {
+    "group": "Students and institutions with federal student loans",
+    "how": "Education Department authority to waive certain cohort default rate requirements for public colleges in economically distressed counties was modified, and some Hurricane Katrina loans to HBCUs were forgiven."
+   }
+  ],
+  "when_it_takes_effect": "Signed into law on February 9, 2018, with many provisions taking effect immediately and others running on specific dates through 2027.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

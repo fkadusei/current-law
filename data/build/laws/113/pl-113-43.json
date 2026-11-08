@@ -3523,5 +3523,24 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "This law extends the life of the Congressional Award Board for five more years, moving its end date from October 1, 2013 to October 1, 2018.",
+  "what_it_does": "The Congressional Award Act set a date when the Congressional Award Board would end. This law moves that end date back five years, to October 1, 2018. The summary does not describe any change to the board's duties or the program's rules.",
+  "who_it_affects": [
+   {
+    "group": "Members and staff of the Congressional Award Board",
+    "how": "The board can keep operating until October 1, 2018 instead of ending on October 1, 2013."
+   },
+   {
+    "group": "Young people who take part in the Congressional Award Program",
+    "how": "The program the board oversees can continue for the extended period, based on the board's continued existence."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on October 4, 2013, and the new termination date is October 1, 2018.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

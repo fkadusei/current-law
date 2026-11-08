@@ -3515,5 +3515,28 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2020 law updates the rules for NOAA's commissioned officer corps, covering ranks, service terms, training, loan help, promotions, retirement, and harassment prevention.",
+  "what_it_does": "This law revises the rules that govern the NOAA Commissioned Officer Corps, the uniformed group of officers who work for the National Oceanic and Atmospheric Administration. It sets new requirements on officer ranks and how many officers are needed, how long officers must serve after training, and physical fitness and training. It also covers education loan help, recruiting, hiring, promotions, separation and retirement, and steps to prevent sexual harassment and assault. The official summary lists these topics but does not give detailed numbers for each change.",
+  "who_it_affects": [
+   {
+    "group": "NOAA commissioned officers",
+    "how": "The law changes their ranks, required service time, training and fitness standards, promotion rules, and retirement or separation rules."
+   },
+   {
+    "group": "People applying to become NOAA commissioned officers",
+    "how": "Recruiting and hiring rules for the corps are revised, which may change how applicants are selected."
+   },
+   {
+    "group": "Officers with federal education loans",
+    "how": "The law addresses education loan assistance for corps members, which may change eligibility or repayment help."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "low",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

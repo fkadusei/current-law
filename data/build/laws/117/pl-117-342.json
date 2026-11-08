@@ -3512,5 +3512,28 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "This law extends a deadline for a White Mountain Apache water rights settlement and adds reporting and cost-adjustment rules for the tribe's rural water system.",
+  "what_it_does": "It changes a 2010 law that approved the White Mountain Apache Tribe's water rights settlement in Arizona and authorized a rural water system on the reservation. The deadline for the Interior Department to publish a required statement of findings moves from 2023 to 2027. If that statement is not published by December 30, 2027, the settlement agreement is repealed on December 31, 2027. The law also allows funding amounts to be adjusted for construction costs, requires annual reports to Congress on spending and progress (including on the Miner Flat Dam), and sets rules for deciding when the rural water system counts as substantially complete.",
+  "who_it_affects": [
+   {
+    "group": "White Mountain Apache Tribe members and the tribe's government",
+    "how": "The timeline for finalizing their water rights settlement and building the rural water system is extended, and the settlement could be repealed if required steps are not completed by the 2027 deadline."
+   },
+   {
+    "group": "U.S. Department of the Interior",
+    "how": "Interior must publish a statement of findings by December 30, 2027, must submit annual reports to Congress on expenditures and construction progress, and must follow new rules for deciding when the water system is substantially complete."
+   },
+   {
+    "group": "Members of Congress who oversee federal Indian water projects",
+    "how": "They will receive annual reports describing spending, progress, and cost accounting for the water system and related facilities."
+   }
+  ],
+  "when_it_takes_effect": "Enacted January 5, 2023; the revised enforceability deadline is December 30, 2027.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

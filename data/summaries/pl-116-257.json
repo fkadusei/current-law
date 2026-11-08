@@ -1,0 +1,24 @@
+{
+ "headline": "This law bans employers from punishing workers who report certain criminal antitrust violations, such as illegal price-fixing, to the federal government.",
+ "what_it_does": "The law prohibits employers from retaliating against certain employees who report criminal antitrust violations to federal authorities. An employee who believes they were fired or treated worse for reporting can file a complaint with the Department of Labor. The employee can also sue in U.S. district court instead.",
+ "who_it_affects": [
+  {
+   "group": "Employees who report possible criminal antitrust violations to the federal government",
+   "how": "They gain legal protection from firing, demotion, or other discrimination by their employer for making such a report."
+  },
+  {
+   "group": "Employers",
+   "how": "They may not fire or discriminate against covered employees for reporting criminal antitrust violations, and they can face complaints or lawsuits if they do."
+  },
+  {
+   "group": "U.S. Department of Labor and federal courts",
+   "how": "They receive and handle complaints and lawsuits brought by employees who allege retaliation."
+  }
+ ],
+ "when_it_takes_effect": "The summary does not state a specific effective date, so the timing is unclear from the source provided.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

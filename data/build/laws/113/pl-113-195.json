@@ -36,5 +36,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law creates a formal review process so the FDA can decide whether sunscreen ingredients not on its official list are safe and effective for over-the-counter sale.",
+  "what_it_does": "Anyone can ask the Secretary of Health and Human Services to review a sunscreen ingredient or ingredient combination that is not yet in the FDA's stayed sunscreen monograph. If the submitted information is enough, the FDA must complete a review within 300 days for new requests, or a shorter period for requests already pending when the law was enacted. Ingredients found safe and effective can then be used in over-the-counter sunscreen products, and the Secretary can change a decision if new information appears. The law also lets drug sponsors ask for review frameworks for other non-sunscreen over-the-counter drugs and requires reports to Congress on the process.",
+  "who_it_affects": [
+   {
+    "group": "Companies that make or want to sell over-the-counter sunscreen products",
+    "how": "They can submit requests to have new sunscreen ingredients reviewed and, if approved, use those ingredients in products sold without a prescription."
+   },
+   {
+    "group": "Sponsors of non-sunscreen over-the-counter drug applications",
+    "how": "They can ask HHS for a review framework for their applications, with options that may follow the sunscreen review process."
+   },
+   {
+    "group": "Consumers who buy over-the-counter sunscreen",
+    "how": "Ingredients that pass review may become available in sunscreen products sold to them."
+   },
+   {
+    "group": "FDA staff, including the Center for Drug Evaluation and Research and the Commissioner of Food and Drugs",
+    "how": "They must review submitted requests within set deadlines and make safety and efficacy determinations."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on November 26, 2014, and the review deadlines apply from that date forward.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

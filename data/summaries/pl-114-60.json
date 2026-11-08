@@ -1,0 +1,28 @@
+{
+ "headline": "This 2015 law changes how health insurance rules treat employers with 51 to 100 workers and sets aside funds for Medicare.",
+ "what_it_does": "It amends the Affordable Care Act so employers with 51 to 100 employees can be treated as large employers in the health insurance market, and states may choose to treat them as small employers. Before January 1, 2016, states could treat these employers as large, which would exempt their plans from the small group market rules, including the requirement to cover essential health benefits. The law also makes funds available to the Medicare Improvement Fund for services provided during and after fiscal year 2020.",
+ "who_it_affects": [
+  {
+   "group": "Employers with 51 to 100 employees",
+   "how": "They can be classified as large or small employers for health insurance purposes, which determines which coverage rules apply to the plans they offer."
+  },
+  {
+   "group": "Employees and families covered by small group health plans",
+   "how": "Plans offered by these employers may or may not have to include essential health benefits, depending on how their state classifies the employer."
+  },
+  {
+   "group": "State insurance regulators",
+   "how": "States may choose whether to treat these employers as small or large employers for health insurance market rules."
+  },
+  {
+   "group": "Medicare beneficiaries",
+   "how": "The law makes funds available to the Medicare Improvement Fund for services provided in fiscal year 2020 and later, though the summary does not say what those funds will pay for."
+  }
+ ],
+ "when_it_takes_effect": "Enacted October 7, 2015; the state option to treat these employers as large applies before January 1, 2016, and the Medicare Improvement Fund funding applies to services in fiscal year 2020 and later.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

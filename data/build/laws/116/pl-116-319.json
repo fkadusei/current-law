@@ -36,5 +36,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Congress named a post office in Clarinda, Iowa, after Jessie Field Shambaugh.",
+  "what_it_does": "This law renames the U.S. Postal Service building at 101 South 16th Street in Clarinda, Iowa, as the Jessie Field Shambaugh Post Office Building. It changes only the name of the facility. It does not change postal services, rules, or fees.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law was enacted on January 5, 2021, and the name change took effect on that date.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

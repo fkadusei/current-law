@@ -39,5 +39,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2015 law renames a Postal Service building in Del City, Oklahoma, after James Robert Kalsu.",
+  "what_it_does": "This law names the United States Postal Service facility at 4500 SE 28th Street in Del City, Oklahoma, the James Robert Kalsu Post Office Building. It changes only the official name of the building. It does not add or remove any rules, services, or money.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law took effect when it was enacted on November 5, 2015.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

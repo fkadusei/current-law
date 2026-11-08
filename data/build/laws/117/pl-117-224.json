@@ -3528,5 +3528,28 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "The Speak Out Act stops courts from enforcing certain secrecy and non-criticism promises made before a sexual assault or harassment dispute arises.",
+  "what_it_does": "The law says that a nondisclosure clause or nondisparagement clause agreed to before a dispute exists cannot be enforced in court when the dispute involves sexual assault or sexual harassment that violates federal, tribal, or state law. A nondisclosure clause limits sharing certain information, and a nondisparagement clause limits making negative statements. The law targets agreements signed ahead of time, such as in an employment contract, rather than agreements made after a dispute has started.",
+  "who_it_affects": [
+   {
+    "group": "Employees who sign contracts with nondisclosure or nondisparagement clauses",
+    "how": "They may speak publicly about sexual assault or sexual harassment claims covered by the law, because a pre-dispute clause cannot be enforced in court against them."
+   },
+   {
+    "group": "Employers that use pre-dispute nondisclosure or nondisparagement clauses",
+    "how": "They can no longer rely on courts to enforce those clauses for sexual assault or sexual harassment disputes covered by the law."
+   },
+   {
+    "group": "Survivors of sexual assault or sexual harassment",
+    "how": "They have more freedom to talk about their experiences when the dispute falls under the law's scope."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on December 7, 2022, and its summary does not list a separate effective date.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

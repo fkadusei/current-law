@@ -1,0 +1,28 @@
+{
+ "headline": "This law lets the U.S. government fund aid and war-crimes investigations tied to ISIS abuses against minority groups in Iraq and Syria.",
+ "what_it_does": "The law allows the State Department and USAID to give money and technical help to groups, including nongovernmental organizations, that investigate genocide, crimes against humanity, and war crimes committed by ISIS in Iraq. That help can cover criminal investigations, training local investigators and judges, and collecting evidence for prosecutions. It also directs the State Department to identify at-risk minority religious and ethnic groups, track their needs, and report to Congress on the work and on the feasibility of prosecuting ISIS members.",
+ "who_it_affects": [
+  {
+   "group": "Ethnic and religious minority communities in Iraq and Syria",
+   "how": "They may receive humanitarian, stabilization, and recovery aid from U.S.-supported programs and groups working with them."
+  },
+  {
+   "group": "Nongovernmental organizations and faith-based groups",
+   "how": "Groups with expertise in international criminal investigations or aid delivery may qualify for U.S. financial and technical support."
+  },
+  {
+   "group": "Suspected ISIS members and people who may be called as witnesses",
+   "how": "U.S.-supported investigations and evidence collection could be used in prosecutions of people suspected of these crimes."
+  },
+  {
+   "group": "State Department and USAID",
+   "how": "Both agencies are authorized to fund this work and the State Department must identify at-risk groups and report to Congress."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on December 11, 2018, and its provisions took effect on that date unless a section says otherwise; the summary does not list specific later deadlines beyond the reporting requirement.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

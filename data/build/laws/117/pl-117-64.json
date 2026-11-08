@@ -36,5 +36,24 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law requires the Department of Veterans Affairs to report to Congress on how it uses and maintains video cameras at its medical facilities.",
+  "what_it_does": "The law orders the VA to send Congress a report on its policies and procedures for video cameras at VA medical facilities. The cameras are used for patient safety and law enforcement. The law requires a report but does not itself set new camera rules.",
+  "who_it_affects": [
+   {
+    "group": "Veterans who receive care at VA medical facilities",
+    "how": "The report may lead to later changes in how cameras are used for patient safety, but the law itself does not change their care or rights."
+   },
+   {
+    "group": "VA employees and law enforcement staff at VA medical facilities",
+    "how": "They must help the VA gather the information needed for the report on camera policies and procedures."
+   }
+  ],
+  "when_it_takes_effect": "Upon enactment on November 23, 2021, though the law does not state a specific deadline for the report in the summary provided.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

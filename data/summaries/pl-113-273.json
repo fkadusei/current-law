@@ -1,0 +1,28 @@
+{
+ "headline": "This law requires yearly financial reports on federal and state spending to restore the Chesapeake Bay and creates an independent reviewer to evaluate restoration work every two years.",
+ "what_it_does": "The Office of Management and Budget must send Congress a yearly report, due by September 30, showing how much federal and state money goes toward Chesapeake Bay watershed restoration. The report must include a budget summary across agencies, funds each federal agency received and spent, and a similar accounting from seven states and the District of Columbia. It must also describe planned restoration activities for the next fiscal year, but only those with funding of at least $300,000 in the first three years and at least $100,000 after that. The law also creates an Independent Evaluator who reports to Congress every two years on topics suggested by the Chesapeake Executive Council, and it authorizes no new appropriations.",
+ "who_it_affects": [
+  {
+   "group": "State governments in the Chesapeake Bay region",
+   "how": "Maryland, West Virginia, Delaware, New York, Virginia, and Pennsylvania must account to the federal government for bay restoration funds they receive and spend."
+  },
+  {
+   "group": "Government of the District of Columbia",
+   "how": "The District must report all federal bay restoration funds it receives and obligates for restoration activities."
+  },
+  {
+   "group": "Federal agencies that fund bay restoration",
+   "how": "Each agency must have its restoration funding and spending counted in the yearly report to Congress."
+  },
+  {
+   "group": "Organizations and local groups running bay restoration projects",
+   "how": "Projects funded at or above the reporting thresholds may be described in the annual report to Congress."
+  }
+ ],
+ "when_it_takes_effect": "The reporting requirement applies each year by September 30, and the Independent Evaluator provisions take effect upon enactment on December 18, 2014, though the source summary does not specify exact start dates for each provision.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

@@ -36,5 +36,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2019 law requires a White County bridge commission to hand ownership of the Wabash River bridge at New Harmony, Indiana, to two local bridge authorities.",
+  "what_it_does": "The law directs the White County Bridge Commission to transfer its rights in the Wabash River bridge at or near New Harmony, Indiana, along with its approaches and the land under or next to it, to the New Harmony River Bridge Authority and the New Harmony and Wabash River Bridge Authority. The act that created the commission is repealed once that transfer is complete. The official summary does not give a deadline for the transfer.",
+  "who_it_affects": [
+   {
+    "group": "White County Bridge Commission",
+    "how": "The commission must transfer its ownership of the bridge, its approaches, and the related land to the two bridge authorities, and its founding act is repealed when the transfer is complete."
+   },
+   {
+    "group": "New Harmony River Bridge Authority and New Harmony and Wabash River Bridge Authority",
+    "how": "These two local authorities are to receive ownership of the bridge, its approaches, and the adjacent land."
+   },
+   {
+    "group": "Drivers and residents who use the New Harmony bridge",
+    "how": "The summary does not say whether tolls, maintenance, or traffic rules will change, so the transfer's day-to-day effects on users are not stated."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted August 23, 2019. The transfer and the repeal of the commission's founding act take effect when the commission completes the conveyance, and the summary gives no fixed date for that.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

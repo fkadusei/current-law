@@ -36,5 +36,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A law that renames a U.S. Border Patrol station in Rocksprings, Texas, after Donna M. Doss.",
+  "what_it_does": "This law names the Rocksprings Border Patrol station on West Main Street in Rocksprings, Texas, the Donna M. Doss Border Patrol Station. It is a memorial designation that honors Donna M. Doss. It does not change the station's duties, staffing, or funding.",
+  "who_it_affects": [],
+  "when_it_takes_effect": null,
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

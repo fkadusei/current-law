@@ -39,5 +39,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2018 law updates how online service providers report suspected child sexual exploitation to the National Center for Missing and Exploited Children.",
+  "what_it_does": "The law keeps the existing duty for online providers to report apparent child pornography they learn about to NCMEC through its CyberTipline. It also lets providers report facts that suggest a child pornography violation is about to happen. Providers get more choice over what details they include in a report, and the rules now cover videos as well as images. The law also clarifies that providers may share report contents with law enforcement, NCMEC, or in response to legal process, and it lets the Department of Justice designate foreign law enforcement agencies to receive reports, with NCMEC able to forward reports to foreign agencies in some cases.",
+  "who_it_affects": [
+   {
+    "group": "Electronic communication service providers and remote computing service providers",
+    "how": "They keep their reporting duty, gain authority to report imminent violations, get discretion over report contents, and get explicit permission to share report contents with law enforcement, NCMEC, or in response to legal process."
+   },
+   {
+    "group": "National Center for Missing and Exploited Children",
+    "how": "It can forward reports to certain foreign law enforcement agencies even when the Department of Justice has not designated them."
+   },
+   {
+    "group": "Foreign law enforcement agencies",
+    "how": "The Department of Justice may designate them to receive CyberTipline reports, which was previously required rather than optional."
+   },
+   {
+    "group": "Children and families affected by online sexual exploitation",
+    "how": "Reporting rules now apply to videos as well as images, so reports can cover more types of recorded material."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on December 21, 2018, and the summary does not list a separate effective date.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

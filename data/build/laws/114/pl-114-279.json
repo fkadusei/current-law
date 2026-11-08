@@ -36,5 +36,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2016 law lets U.S. Customs and Border Protection charge private and local entities fees for certain port services and accept donations for port facilities.",
+  "what_it_does": "The law allows Customs and Border Protection (CBP) to make agreements with outside entities to provide customs, agricultural processing, border security, or immigration inspection services at federal land ports or sea and air ports, with the entity paying a fee to cover CBP's costs. It sets rules for ending those services and penalizing unpaid fees. It also lets CBP and the General Services Administration accept donated money, property, or services to buy furniture and equipment, or to build or maintain port facilities, and requires CBP to publish criteria for judging donation proposals. The law repeals an older five-year fee authority and a partnership pilot program, and it lets CBP waive some polygraph requirements for certain law enforcement applicants.",
+  "who_it_affects": [
+   {
+    "group": "Entities that pay CBP for port services",
+    "how": "Organizations such as local governments or businesses can enter fee agreements to have CBP provide services at ports, and they must pay on time or face termination and penalties."
+   },
+   {
+    "group": "Businesses and communities that donate to ports of entry",
+    "how": "They may give money, property, or services for furniture, equipment, or facility construction and maintenance under agreements with CBP and GSA."
+   },
+   {
+    "group": "Travelers and trade shippers using land, sea, and air ports of entry",
+    "how": "Port services may be funded in part by fee-paying or donating entities, which can affect the facilities and staffing available at those ports."
+   },
+   {
+    "group": "Applicants for CBP law enforcement jobs",
+    "how": "CBP may waive certain polygraph examination requirements for some qualifying applicants."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

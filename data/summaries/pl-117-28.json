@@ -1,0 +1,24 @@
+{
+ "headline": "Public Law 117-28 bars federal agencies from using reverse auctions for complex, specialized, or large design and construction contracts.",
+ "what_it_does": "Reverse auctions are bidding where sellers compete by lowering their price, usually so the lowest bidder wins. This law stops federal agencies from using that method for complex, specialized, or substantial design and construction services. The Federal Acquisition Regulatory Council must define which services count as complex, specialized, or substantial. The General Services Administration must also report to certain congressional committees on how well the law works.",
+ "who_it_affects": [
+  {
+   "group": "Federal agencies that buy design and construction services",
+   "how": "They cannot use reverse auctions for covered projects and must follow the definitions the Federal Acquisition Regulatory Council sets."
+  },
+  {
+   "group": "Architecture, engineering, and construction firms that bid on federal projects",
+   "how": "Covered federal contracts are no longer awarded through price-cutting reverse auctions, so bids for those projects are judged under other procurement methods."
+  },
+  {
+   "group": "General Services Administration",
+   "how": "It must prepare a report to specified congressional committees on the law's effectiveness."
+  }
+ ],
+ "when_it_takes_effect": "Enacted July 26, 2021; the summary does not state a separate effective date or when the required definitions must be finished.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

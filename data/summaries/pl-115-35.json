@@ -1,0 +1,24 @@
+{
+ "headline": "Congress passed a resolution that cancels a Labor Department rule about state-run retirement savings programs for private-sector workers.",
+ "what_it_does": "The Department of Labor had issued a rule explaining when state payroll savings programs with automatic enrollment would not count as employer pension plans under ERISA, a federal law. This joint resolution overturns that rule, so it no longer applies. The official summary does not describe any replacement rule or other changes to state programs.",
+ "who_it_affects": [
+  {
+   "group": "States that were setting up or planning automatic payroll savings programs for private-sector workers",
+   "how": "The federal guidance they had been given on designing these programs no longer applies."
+  },
+  {
+   "group": "Private-sector employers that might be covered by state savings programs",
+   "how": "The rule that described how these programs would be treated under federal pension law was canceled, which changes the guidance they could rely on."
+  },
+  {
+   "group": "Private-sector workers whose employers do not offer a retirement plan",
+   "how": "The resolution removes the federal rule that had been intended to guide state programs that could give them a way to save for retirement through payroll deduction."
+  }
+ ],
+ "when_it_takes_effect": "Upon enactment on May 17, 2017.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

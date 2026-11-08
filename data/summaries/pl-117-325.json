@@ -1,0 +1,28 @@
+{
+ "headline": "A 2022 federal law directs the Justice Department to create or find de-escalation and crisis training for officers and provides state grants to pay for it.",
+ "what_it_does": "The law tells the Department of Justice to build scenario-based training, or identify existing training, on topics such as alternatives to using force and de-escalation tactics. It covers how to safely respond to someone having a mental, behavioral health, or suicidal crisis. The law also directs the Department to give grants to states to cover the costs of providing this training to law enforcement officers or mental health professionals.",
+ "who_it_affects": [
+  {
+   "group": "Law enforcement officers",
+   "how": "They may be offered or required to take training on de-escalation and responding to people in mental health or suicidal crises, depending on how states use the grants."
+  },
+  {
+   "group": "Mental health professionals",
+   "how": "The grants can also pay for training them, which may include responding alongside or in support of police in crisis situations."
+  },
+  {
+   "group": "State governments",
+   "how": "States can apply for federal grants to pay for providing this training."
+  },
+  {
+   "group": "People experiencing mental health, behavioral health, or suicidal crises",
+   "how": "Officers and professionals who respond to them may receive this training, which is intended to shape how those encounters are handled."
+  }
+ ],
+ "when_it_takes_effect": "The summary does not give a specific effective date. The law was enacted on December 27, 2022.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

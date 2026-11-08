@@ -3523,5 +3523,28 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "This law extends the federal drought early warning program run through NOAA and sets its goals and duties through fiscal year 2018.",
+  "what_it_does": "It updates the National Integrated Drought Information System Act of 2006, which created a federal program to monitor and forecast drought. The law states the program's purpose is to help people make timely decisions that reduce drought impacts and costs. It requires the program to run an early warning system with information, forecasts, and assessments at both national and regional levels, and to work through one or more cooperative institutes that build on existing partnerships. It also requires NOAA's Administrator to report to Congress on the program and reauthorizes the program through fiscal year 2018.",
+  "who_it_affects": [
+   {
+    "group": "Farmers and ranchers",
+    "how": "They may receive drought forecasts and assessments that the program is required to provide."
+   },
+   {
+    "group": "Water managers and state and local officials",
+    "how": "They may use the regional early warning information and assessments to plan for drought."
+   },
+   {
+    "group": "Federal agencies and research institutions",
+    "how": "NOAA and partner institutes must carry out the program's monitoring, forecasting, and research duties and partnerships."
+   }
+  ],
+  "when_it_takes_effect": "Enacted March 6, 2014; the program's authorization runs through fiscal year 2018.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

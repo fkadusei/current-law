@@ -1,0 +1,44 @@
+{
+ "headline": "This 2016 law extends FAA airport and aviation programs through 2017 and adds new aviation safety, drone, and airport security rules.",
+ "what_it_does": "The law extends several FAA airport, air navigation, and essential air service programs through fiscal year 2017 and some drone programs through 2019. It sets new rules on pilot medical certification, drone operation, air traffic controller hiring, airline baggage refunds, and tarmac delays. It also adds airport security measures, including TSA PreCheck enrollment changes, airport worker credential checks, and checkpoint staffing reviews.",
+ "who_it_affects": [
+  {
+   "group": "Airports and airport sponsors",
+   "how": "They receive extended federal airport improvement grants and must meet new security and credential rules for workers with secure-area access."
+  },
+  {
+   "group": "Pilots flying small aircraft",
+   "how": "Some pilots of light aircraft carrying six or fewer people may fly without a third-class FAA medical certificate if they meet driver's license, medical course, and other conditions."
+  },
+  {
+   "group": "Veterans and others seeking air traffic controller jobs",
+   "how": "Former controllers and veterans get preference in one of two hiring pools, and the maximum hiring age for new controllers is set at 35."
+  },
+  {
+   "group": "Drone owners, operators, and manufacturers",
+   "how": "Small drone makers must give buyers a safety statement, and operators face civil penalties for interfering with firefighting or emergency response."
+  },
+  {
+   "group": "Airlines and passengers",
+   "how": "Airlines must refund checked bag fees automatically when bags are late, must return planes to the terminal after long tarmac delays, and must have a family seating policy for young children."
+  },
+  {
+   "group": "Airport workers with secure-area access",
+   "how": "They face updated background checks, credential expiration dates for non-citizens, and expanded physical screening in secure areas."
+  },
+  {
+   "group": "TSA PreCheck applicants",
+   "how": "The TSA must add private-sector and mobile enrollment options, which may make it easier to apply for the program."
+  },
+  {
+   "group": "People who own or live near tall antenna towers",
+   "how": "Certain towers 50 to 200 feet tall must be clearly marked, and the FAA must create a database of their locations and heights."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on July 15, 2016, but many provisions have their own dates, such as an electronic pilot records database due by April 30, 2017, and extensions running through fiscal year 2017 or 2019.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

@@ -3499,5 +3499,24 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "Directs the Forest Service to swap about 4 acres of Ouachita National Forest land for about 6.3 acres of land owned by Walnut Grove Church in Garland County, Arkansas, if the church offers.",
+  "what_it_does": "If Walnut Grove Church offers to give the federal government about 6.3 acres of its land (Offered Tract 5742), the Department of Agriculture must accept it and give the church about 4 acres of Ouachita National Forest land (Selected Tract 5743) in return. The two parcels must be of equal value, or the difference must be made up with a cash payment, unless the church's land is worth more than the forest land. The summary provided covers only Section 3 of the bill, so other sections are not described here.",
+  "who_it_affects": [
+   {
+    "group": "Walnut Grove Church in Garland County, Arkansas",
+    "how": "The church would give up about 6.3 acres of its land and receive about 4 acres of Ouachita National Forest land, if it chooses to make the offer."
+   },
+   {
+    "group": "The Forest Service and the public who use the Ouachita National Forest",
+    "how": "The federal government would take ownership of the church's land and give up about 4 acres of forest land, changing the forest's boundaries and land holdings."
+   }
+  ],
+  "when_it_takes_effect": "The act was enacted December 21, 2018, but the exchange only happens if the church makes an offer. The summary does not give a deadline for that offer.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

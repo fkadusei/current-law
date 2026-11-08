@@ -39,5 +39,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A law renames a Postal Service facility in Wayzata, Minnesota, after former Congressman Jim Ramstad.",
+  "what_it_does": "The law officially names the United States Postal Service building at 229 Minnetonka Avenue South in Wayzata, Minnesota, the Jim Ramstad Post Office. It is an honorary designation and does not change how the post office operates or what services it provides.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law took effect when it was enacted on August 6, 2021.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

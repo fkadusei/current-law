@@ -39,5 +39,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2018 law renames a Postal Service building in Salisbury, Maryland, after Sergeant Major Wardell B. Turner.",
+  "what_it_does": "This law names the Post Office at 816 East Salisbury Parkway in Salisbury, Maryland, the \"Sgt. Maj. Wardell B. Turner Post Office Building.\" It only changes the official name of the building. It does not change how the post office operates or what services it offers.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law was enacted on December 6, 2018, and the name took effect on that date.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

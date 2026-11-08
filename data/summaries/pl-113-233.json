@@ -1,0 +1,28 @@
+{
+ "headline": "This law adds Ebola-related viruses to the list of tropical diseases that can earn FDA priority review vouchers for drug makers.",
+ "what_it_does": "The law adds filoviruses, a virus family that includes Ebola, to the FDA's list of tropical diseases covered by the priority review voucher program. A voucher lets its holder have a future drug application reviewed by the FDA within six months. The law also lets HHS add diseases to the tropical list by order instead of through a formal rulemaking process. It allows vouchers to be sold or transferred between companies any number of times, and it cuts from 365 days to 90 days the advance notice required before submitting a drug application that uses a voucher.",
+ "who_it_affects": [
+  {
+   "group": "Drug companies developing treatments for Ebola or other filoviruses",
+   "how": "They can become eligible to receive priority review vouchers for approved Ebola-related drugs, which can speed FDA review of a later drug application."
+  },
+  {
+   "group": "Companies that hold or buy priority review vouchers",
+   "how": "They can transfer vouchers to other sponsors as many times as needed, and they need only give 90 days' notice instead of 365 days before using one."
+  },
+  {
+   "group": "Health and Human Services Department",
+   "how": "It can designate new tropical diseases by order rather than by going through a rulemaking process."
+  },
+  {
+   "group": "People at risk from Ebola and related viruses",
+   "how": "The law is intended to encourage development of drugs to prevent or treat these infections, though it does not itself guarantee any new treatment."
+  }
+ ],
+ "when_it_takes_effect": "Enacted December 16, 2014; the summary does not specify separate effective dates for each provision.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

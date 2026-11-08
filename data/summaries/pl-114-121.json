@@ -1,0 +1,28 @@
+{
+ "headline": "This law states U.S. policy to help sub-Saharan Africa expand electricity access and power generation, and directs the President to build a strategy and report to Congress on it.",
+ "what_it_does": "The law says it is U.S. policy to work with African governments, international lenders, regional groups, cooperatives, and private companies to bring electricity to at least 50 million more people and add at least 20,000 megawatts of power capacity in sub-Saharan Africa by 2020. It asks the President to create a multiyear strategy for national power plans, and it lets the President set up an interagency working group to coordinate federal agencies. It urges USAID, the Trade and Development Agency, the Overseas Private Investment Corporation, and the Millennium Challenge Corporation to prioritize power projects, and it requires a progress report to Congress within three years.",
+ "who_it_affects": [
+  {
+   "group": "People in sub-Saharan Africa without reliable electricity",
+   "how": "The law sets a goal of bringing first-time power access to at least 50 million people and encourages programs that could replace kerosene lighting, but it does not itself provide any service or money to households."
+  },
+  {
+   "group": "Federal agencies such as USAID, the Overseas Private Investment Corporation, the Trade and Development Agency, and the Millennium Challenge Corporation",
+   "how": "They are urged to prioritize power projects in the region and partner with private investors and local institutions, though the law does not require specific funding levels."
+  },
+  {
+   "group": "Energy companies and private investors",
+   "how": "The law encourages the use of private financing and asks for ways to reduce barriers to private investment in African power projects."
+  },
+  {
+   "group": "Sub-Saharan African governments",
+   "how": "The President is directed to help them build national power strategies and encouraged to help remove regulatory barriers to investment."
+  }
+ ],
+ "when_it_takes_effect": "The law took effect when enacted on February 8, 2016. Its stated goals run through 2020, and the progress report is due within three years of enactment.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

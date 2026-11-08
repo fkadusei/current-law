@@ -1,0 +1,24 @@
+{
+ "headline": "Public Law 114-3 is listed under a title about emergency volunteers and ACA employer rules, but the attached summary describes a DHS funding extension, so the sources conflict.",
+ "what_it_does": "The official title says the law keeps emergency services volunteers from being counted as employees under the Affordable Care Act's shared responsibility requirements, which apply to large employers. The Congressional Research Service summary provided instead describes a bill that extends Department of Homeland Security funding at its current rate until March 6, 2015, or until full FY2015 DHS appropriations are enacted, to prevent a shutdown. The summary says it reflects a Senate-passed version and has not been amended, so it may not match the enacted text. Because the two descriptions do not agree, the exact effects cannot be confirmed from these sources.",
+ "who_it_affects": [
+  {
+   "group": "Emergency services volunteers",
+   "how": "Under the stated title, they would not be counted as employees for the ACA's employer shared responsibility rules."
+  },
+  {
+   "group": "Employers that rely on volunteer emergency responders",
+   "how": "Under the stated title, volunteers serving them would not count toward the employee totals used to apply the ACA's employer coverage requirements."
+  },
+  {
+   "group": "Department of Homeland Security employees and contractors",
+   "how": "Under the CRS summary, DHS funding would continue at current rates through the temporary extension period, avoiding a lapse when funding expired on February 27, 2015."
+  }
+ ],
+ "when_it_takes_effect": "The record lists the enactment date as February 27, 2015; the sources do not state any further effective dates or expiration for the provisions described.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

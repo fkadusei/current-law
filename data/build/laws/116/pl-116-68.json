@@ -36,5 +36,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law directs Congress to award Congressional Gold Medals to Katherine Johnson, Christine Darden, Dorothy Vaughan, Mary Jackson, and women who worked as computers, mathematicians, and engineers at NACA and NASA.",
+  "what_it_does": "The law tells the Speaker of the House and the President pro tempore of the Senate to arrange presentation of gold medals to the named women and to a group honor for the women who worked at NACA and NASA from the 1930s to the 1970s. It also allows the Department of the Treasury to strike and sell bronze duplicates of these medals.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law took effect when it was signed on November 8, 2019.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

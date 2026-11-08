@@ -1,0 +1,24 @@
+{
+ "headline": "This law requires the Department of Veterans Affairs to create quality standards and a plan so every call and message to the Veterans Crisis Line is answered promptly by a person.",
+ "what_it_does": "The law tells the VA to write a quality assurance document for the Veterans Crisis Line, a toll-free service. The document must list performance goals and time frames for meeting them, including at backup call centers, and must follow Office of Management and Budget guidance. The VA must also create a plan so that every phone call, text, and other message to the line is answered in a timely way by a person, following guidance from the American Association of Suicidology. The plan must include guidelines for periodic testing of the line, and the VA must submit both the document and the plan within 180 days.",
+ "who_it_affects": [
+  {
+   "group": "Veterans in crisis who contact the Veterans Crisis Line",
+   "how": "The law aims to set required response standards so that calls, texts, and other messages are answered by a person in a timely way."
+  },
+  {
+   "group": "Staff and backup call centers that answer Veterans Crisis Line contacts",
+   "how": "They must meet the performance goals, time frames, and testing guidelines that the VA sets under the new document and plan."
+  },
+  {
+   "group": "Department of Veterans Affairs",
+   "how": "The agency must write the quality assurance document and response plan and submit them to Congress within 180 days."
+  }
+ ],
+ "when_it_takes_effect": "The VA must submit the quality assurance document and plan within 180 days after the law was enacted on November 28, 2016.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

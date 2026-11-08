@@ -1,0 +1,24 @@
+{
+ "headline": "A 2022 law requires the Department of Veterans Affairs to report every three months on the costs and performance of its electronic health record upgrade.",
+ "what_it_does": "The law directs the VA to submit quarterly reports to Congress about its Electronic Health Record Modernization Program. The reports must cover the program's costs, including all expenses the program causes. They must also cover the program's performance metrics and outcomes.",
+ "who_it_affects": [
+  {
+   "group": "veterans who receive health care through the VA",
+   "how": "The law requires public reporting on the program that updates their VA medical records, but it does not directly change their care or benefits."
+  },
+  {
+   "group": "VA health care staff",
+   "how": "VA employees who work on or use the electronic health record system must help the department gather the cost and performance information for the quarterly reports."
+  },
+  {
+   "group": "Congress",
+   "how": "Lawmakers receive regular quarterly updates to use in tracking spending and results for the program."
+  }
+ ],
+ "when_it_takes_effect": "The law took effect when it was signed on June 23, 2022. The summary does not give a specific date for the first report.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

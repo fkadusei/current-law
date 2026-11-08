@@ -36,5 +36,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law lets school districts reuse their 2021 federal Impact Aid data for 2022 applications and changes how 2021 Migrant Education funds are calculated.",
+  "what_it_does": "Impact Aid helps school districts that lose local property tax money because federal land is tax-exempt, or that pay more to educate children connected to federal property such as military bases or Indian lands. This law requires those districts to use their FY2021 student counts or federal property values when they apply for FY2022 funds. It also tells the Department of Education to use either the 2018-2019 or 2019-2020 school year data, whichever is higher, when figuring FY2021 Migrant Education allocations to states. States use Migrant Education money to find eligible migratory children and provide them with education and support services.",
+  "who_it_affects": [
+   {
+    "group": "School districts that receive Impact Aid",
+    "how": "They must base their FY2022 applications on the student counts or federal property valuation data they reported for FY2021."
+   },
+   {
+    "group": "Migrant children and families",
+    "how": "States receive Migrant Education funding for FY2021 calculated from the higher of two earlier school years, which can affect services available to eligible migratory students."
+   },
+   {
+    "group": "State education agencies",
+    "how": "They receive FY2021 Migrant Education allocations recalculated under the higher-of-two-years rule."
+   }
+  ],
+  "when_it_takes_effect": "Enacted December 4, 2020, and applies to FY2021 Migrant Education allocations and FY2022 Impact Aid applications.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

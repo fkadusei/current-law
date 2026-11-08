@@ -36,5 +36,24 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law pushes back the deadline for the Commission on Care to submit its final report on veterans' health care to June 30, 2016.",
+  "what_it_does": "The Veterans Access, Choice, and Accountability Act of 2014 created a Commission on Care to study veterans' access to VA health care and how the VA should be organized and deliver care over the next 20 years. This law changes that act by extending the date the Commission must deliver its final report to June 30, 2016. The summary does not describe any other changes.",
+  "who_it_affects": [
+   {
+    "group": "Veterans who use VA health care",
+    "how": "The Commission studying how care is delivered to them received more time to finish its final report, so any recommendations based on that report will come later than originally planned."
+   },
+   {
+    "group": "Members of the Commission on Care",
+    "how": "They were given additional time to complete and submit their final report."
+   }
+  ],
+  "when_it_takes_effect": "Enacted February 29, 2016, with the new report deadline set at June 30, 2016.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

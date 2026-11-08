@@ -1,0 +1,24 @@
+{
+ "headline": "This law delays Medicare spending cuts from automatic budget reductions until March 31, 2022, and sets up fast-track Senate rules for raising the debt limit.",
+ "what_it_does": "Normally, a process called sequestration would automatically cut federal spending, and this law keeps Medicare exempt from those cuts until March 31, 2022. It also temporarily extends several Medicare rules, including a payment increase under the physician fee schedule. The law creates expedited Senate procedures for a bill raising the debt limit, which limit debate and bar amendments, and these procedures can be used only once and expire after January 16, 2022. It also shifts certain budget scorecard debits from fiscal year 2022 to 2023.",
+ "who_it_affects": [
+  {
+   "group": "Medicare beneficiaries",
+   "how": "Medicare is kept out of automatic sequestration cuts until March 31, 2022, and some other Medicare provisions are temporarily extended."
+  },
+  {
+   "group": "Physicians who treat Medicare patients",
+   "how": "A payment increase under the physician fee schedule is temporarily extended."
+  },
+  {
+   "group": "Members of the U.S. Senate",
+   "how": "They can use special, limited-debate procedures to pass a debt limit increase, but only once and before January 16, 2022."
+  }
+ ],
+ "when_it_takes_effect": "Enacted December 10, 2021; Medicare sequestration exemption runs through March 31, 2022, and the Senate debt limit procedures expire after January 16, 2022.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

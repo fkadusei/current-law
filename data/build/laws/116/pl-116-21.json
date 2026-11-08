@@ -33,5 +33,24 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2019 law makes a technical fix so a pay rule for certain Senate Restaurants workers no longer applies to their retirement benefits.",
+  "what_it_does": "Some Senate Restaurants employees used to work for the Architect of the Capitol (AOC) and later became employees of a contractor under a food services contract. A rule treated their basic pay rate as the same as the rate when AOC signed that contract. This law says that rule no longer applies when figuring their retirement benefits.",
+  "who_it_affects": [
+   {
+    "group": "Certain former Architect of the Capitol employees who now work at Senate Restaurants through a food services contractor",
+    "how": "Their retirement benefits are no longer calculated using the older pay rate that was set when AOC entered into the contract."
+   },
+   {
+    "group": "Federal agencies that administer retirement benefits for these workers",
+    "how": "They must calculate these benefits without the pay-rate rule that the law removes."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on June 12, 2019.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

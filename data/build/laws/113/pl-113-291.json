@@ -4382,5 +4382,44 @@
   "House": "R",
   "Senate": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "The FY2015 National Defense Authorization Act sets Pentagon spending limits and many rules for military personnel, weapons programs, health care, contracting, and federal lands for fiscal year 2015.",
+  "what_it_does": "This law authorizes the Department of Defense and related agencies to spend money on weapons, research, operations, military pay, and construction in fiscal year 2015. It also adds many specific rules, such as limits on retiring certain aircraft, changes to military justice and sexual assault procedures, TRICARE health benefit changes, and contracting requirements. The summary provided covers only part of the bill's hundreds of sections, so this explanation is necessarily incomplete.",
+  "who_it_affects": [
+   {
+    "group": "Active-duty servicemembers and their families",
+    "how": "The law sets military end strengths, changes some pay and allowance rules, updates TRICARE pharmacy and mental health coverage, and adds protections and procedures in sexual assault cases."
+   },
+   {
+    "group": "Military retirees and survivors",
+    "how": "The law changes cost-of-living adjustments for some retired pay, reinstates a cap on retired pay for general and flag officers, and allows some Survivor Benefit Plan payments to special needs trusts."
+   },
+   {
+    "group": "National Guard and Reserve members",
+    "how": "The law sets reserve end strengths, changes some reserve officer retention rules, and extends several bonus and special pay authorities for reserve forces."
+   },
+   {
+    "group": "Veterans and people leaving military service",
+    "how": "The law creates transition and job placement pilot programs, requires credential programs, and sets rules for discharge appeals for some sexual assault victims."
+   },
+   {
+    "group": "Defense contractors and small businesses",
+    "how": "The law changes rules on reverse auctions, design-build contracts, small business subcontracting plans, and bans contracting with entities that actively oppose U.S. forces."
+   },
+   {
+    "group": "Residents of Alaska, Arizona, Nevada, and other states with federal land",
+    "how": "The law includes many land conveyances, wilderness designations, and national park or heritage area changes that affect the specific parcels and communities named."
+   },
+   {
+    "group": "Federal civilian employees and DOD civilians",
+    "how": "The law changes premium pay authority, mileage reimbursement to the IRS standard rate, and gender-related workplace surveys."
+   }
+  ],
+  "when_it_takes_effect": "Many provisions apply to fiscal year 2015 funds, which ran from October 1, 2014 through September 30, 2015, and many others take effect on the date of enactment, December 19, 2014. Some provisions have later deadlines, such as reporting dates in 2015 and 2016 or fee periods running through 2026.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

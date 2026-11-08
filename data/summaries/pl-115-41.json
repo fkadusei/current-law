@@ -1,0 +1,36 @@
+{
+ "headline": "This law creates a new VA office for accountability and whistleblower protection and changes how the VA can discipline, demote, and fire its employees and senior executives.",
+ "what_it_does": "The law sets up the Office of Accountability and Whistleblower Protection inside the Department of Veterans Affairs, led by an Assistant Secretary, to handle employee misconduct, whistleblower complaints, and retaliation claims. It makes it easier for the VA to remove, demote, or suspend employees for performance or misconduct, with a 15 business day deadline for final decisions and a faster appeal process through the Merit Systems Protection Board and federal appeals courts. It also protects employees who report wrongdoing or are pursuing certain complaints from being removed or disciplined while those cases are pending, and it allows reduced federal annuities for certain senior executives convicted of job-related felonies. Supervisors get shorter response time for adverse action notices and required training on whistleblower rights and managing poor performers.",
+ "who_it_affects": [
+  {
+   "group": "VA employees, including senior executives and supervisors",
+   "how": "They can be disciplined, demoted, or removed under faster timelines and new procedures, and supervisors must respond to proposed adverse actions within 10 days instead of 14."
+  },
+  {
+   "group": "VA whistleblowers",
+   "how": "Employees who make whistleblower disclosures or seek certain corrective action generally cannot be removed, demoted, or suspended by the VA until their case is finally decided."
+  },
+  {
+   "group": "Senior executives convicted of job-related felonies",
+   "how": "Their federal annuity can be reduced if they were removed from the Senior Executive Service because of the felony, and the VA may reduce it even if they left before final action."
+  },
+  {
+   "group": "Physicians, dentists, nurses, and other listed clinical staff",
+   "how": "The time periods for reviewing their adverse actions were changed under the law."
+  },
+  {
+   "group": "Veterans receiving VA health care",
+   "how": "The law changes how VA leaders and staff can be held accountable, which affects oversight of VA services, though it does not directly change benefits or care."
+  },
+  {
+   "group": "Qualifying individuals seeking VA medical center director or VISN director jobs",
+   "how": "The VA may appoint qualifying people directly to these leadership positions without the usual hiring process."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on June 23, 2017, and the summary does not give a separate effective date for each provision.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

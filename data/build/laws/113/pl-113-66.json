@@ -4364,5 +4364,40 @@
   "House": "R",
   "Senate": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "Congress authorized roughly a year of defense spending and set many rules for the military, veterans, and defense contractors for fiscal year 2014.",
+  "what_it_does": "This is the annual defense policy bill for fiscal year 2014, which covers October 2013 through September 2014. It authorizes money for weapons purchases, research, military pay, operations, and construction, and it sets end strengths for active-duty and reserve forces. It also adds many specific rules, such as limits on certain aircraft and ship programs, changes to how sexual assault cases are handled in the military, new rights for crime victims under military law, and changes to medal award deadlines and benefits. The summary covers far more provisions than can be listed here, so this explanation is a partial overview.",
+  "who_it_affects": [
+   {
+    "group": "Active-duty service members and their families",
+    "how": "The law sets force sizes, pay and bonus authorities, housing allowance rules, and changes to military justice, sexual assault response, and health care such as TRICARE enrollment options."
+   },
+   {
+    "group": "National Guard and reserve members",
+    "how": "The law changes when Guard members start getting pay for federal service, requires advance notice of involuntary mobilization, and sets reserve end strengths."
+   },
+   {
+    "group": "Veterans and families of fallen service members",
+    "how": "The law sets medal replacement timelines, authorizes a Medal of Honor Roll with a $1,000 monthly special pension for living recipients, and requires records to be sent to the VA after discharge."
+   },
+   {
+    "group": "Defense contractors and small businesses",
+    "how": "The law caps certain contractor compensation at $625,000 a year with exceptions, adds subcontracting plan requirements, and sets rules for some major acquisition programs."
+   },
+   {
+    "group": "Civilian Department of Defense employees",
+    "how": "The law extends voluntary reduction-in-force and severance authorities through 2018 and changes some hiring and appointment rules."
+   },
+   {
+    "group": "Residents near Guantanamo Bay and detainees there",
+    "how": "The law limits the use of funds to build detention facilities in the United States and restricts transfers of certain detainees into the United States."
+   }
+  ],
+  "when_it_takes_effect": "Enacted December 26, 2013. Many provisions apply to fiscal year 2014 funds, and others have their own start and end dates, some running through 2015 to 2020.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

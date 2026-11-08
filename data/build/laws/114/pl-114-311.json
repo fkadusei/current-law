@@ -42,5 +42,24 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2016 law temporarily lets Secret Service employees receive overtime pay above the usual federal pay cap for protective work done during 2016.",
+  "what_it_does": "For 2016 only, the law exempts Secret Service officers, employees, and agents from the normal limit on combined basic pay and overtime for protective services. Extra overtime paid under this exemption does not count as basic pay for retirement or for lump-sum payments of unused annual leave. It also does not count toward the yearly caps on allowances, bonuses, and awards. The law applies retroactively, as if it had taken effect on December 31, 2015.",
+  "who_it_affects": [
+   {
+    "group": "Secret Service officers, employees, and agents who perform protective services",
+    "how": "They could be paid overtime above the usual federal cap on combined basic and premium pay for work done in 2016."
+   },
+   {
+    "group": "Federal retirement and leave accounting staff",
+    "how": "The extra overtime is excluded from basic pay for retirement and leave payout calculations, so those calculations treat it differently than usual."
+   }
+  ],
+  "when_it_takes_effect": "Enacted December 16, 2016, and applied retroactively to December 31, 2015; the exemption covers protective services performed during 2016.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -1,0 +1,44 @@
+{
+ "headline": "Public Law 115-120 funds the federal government through February 8, 2018, ending a brief shutdown, and bundles in changes to printing, health programs, health taxes, and other agency funding.",
+ "what_it_does": "The law ends a government shutdown that began when the prior stopgap funding expired without full-year spending bills. It keeps federal agencies funded through February 8, 2018, and makes employees furloughed during the lapse eligible for pay. It also adds smaller changes, including extending the children's health insurance program (CHIP) through 2023, delaying the Cadillac health-plan tax to 2022, and pausing the medical device excise tax for 2018 and 2019. Other parts change funding rules for NASA, the Small Business Administration, Housing and Urban Development, and other agencies, and limit free printed copies of the Federal Register.",
+ "who_it_affects": [
+  {
+   "group": "Federal employees who were furloughed during the shutdown",
+   "how": "They are made eligible for compensation for the time they were not working during the lapse in funding that began around January 20, 2018."
+  },
+  {
+   "group": "Children enrolled in or eligible for CHIP and Medicaid",
+   "how": "CHIP and related enrollment options are extended through fiscal year 2023, and states may set stricter eligibility for children in families with income above 300% of the poverty line starting in fiscal year 2020."
+  },
+  {
+   "group": "Medical device manufacturers and sellers",
+   "how": "The 2.3% excise tax on medical device sales is suspended for 2018 and 2019."
+  },
+  {
+   "group": "Employers offering high-cost employer-sponsored health coverage",
+   "how": "The excise tax on high-cost plans, known as the Cadillac tax, is delayed from 2020 to 2022."
+  },
+  {
+   "group": "Certain health insurance providers",
+   "how": "The annual market-share-based fee is suspended for 2019."
+  },
+  {
+   "group": "Small businesses seeking general business loans",
+   "how": "The Small Business Administration gets funding flexibility to meet higher demand for loans under section 7(a)."
+  },
+  {
+   "group": "Public housing agencies in areas with 2017 or 2018 presidential disaster declarations",
+   "how": "HUD may adjust Section 8 housing voucher renewal funding and administrative fee decisions for these areas."
+  },
+  {
+   "group": "Low-income children in areas served by summer meal demonstration projects",
+   "how": "The Department of Agriculture gets funding flexibility so these summer meal projects can be fully running by May 2018."
+  }
+ ],
+ "when_it_takes_effect": "Enacted January 22, 2018; the continuing funding runs through February 8, 2018, and the health and tax changes have dates from 2018 through 2023.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

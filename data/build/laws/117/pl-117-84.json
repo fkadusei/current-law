@@ -3531,5 +3531,15 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "This law authorizes a Congressional Gold Medal for hockey figure Willie O'Ree, or a family member if he is unavailable, to recognize his work in hockey, inclusion, and recreation.",
+  "what_it_does": "The law provides for the award of a Congressional Gold Medal to Willie O'Ree. If he is unavailable, the medal may go to a member of his family. Money from selling duplicate medals goes into the U.S. Mint Public Enterprise Fund.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law took effect when it was enacted on January 31, 2022.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

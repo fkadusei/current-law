@@ -3528,5 +3528,40 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "This law extends federal drought, weather, ocean-observation, and harmful algal bloom programs through fiscal year 2023 and updates how they operate.",
+  "what_it_does": "The law reauthorizes the National Integrated Drought Information System and directs it to track more drought indicators, such as soil moisture, and to build a national soil moisture monitoring network. It extends NOAA weather research, computing, and satellite programs, and asks NOAA to consider leasing computing capacity and to use cloud computing where appropriate. It also expands the National Weather Service's Cooperative Observer Program and sets up work on harmful algal bloom and hypoxia research, monitoring, and grants.",
+  "who_it_affects": [
+   {
+    "group": "Farmers and foresters",
+    "how": "They may receive continued federal agricultural and silvicultural weather and climate information, since those activities were extended through FY2023."
+   },
+   {
+    "group": "Volunteer weather observers in the Cooperative Observer Program",
+    "how": "The National Weather Service must help recruit volunteers, keep long-running stations staffed, and make it easier for them to report conditions such as drought and snow."
+   },
+   {
+    "group": "Communities affected by harmful algal blooms or hypoxia",
+    "how": "Federal programs and grants for monitoring, prevention, and mitigation are reauthorized, and officials may declare a bloom an event of national significance to fund local responses."
+   },
+   {
+    "group": "State and local governments",
+    "how": "They may receive NOAA technical assistance and, in some cases, federal funding for harmful algal bloom and hypoxia events."
+   },
+   {
+    "group": "Coastal and ocean-dependent communities",
+    "how": "The National Weather Service must support new ocean and freshwater sensor systems where that data would improve forecasts and early warnings."
+   },
+   {
+    "group": "Citizen scientists",
+    "how": "NIDIS may use and support their drought monitoring, with NOAA developing best practices for their data."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on January 7, 2019, and most of its authorizations run through fiscal year 2023.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

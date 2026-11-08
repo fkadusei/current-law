@@ -3535,5 +3535,28 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "This law requires the Department of Homeland Security to report on and share new ways of buying goods and services for federal contracts.",
+  "what_it_does": "The law directs DHS's Management Directorate to publish a yearly report on DHS projects that used new procurement methods to improve competition, speed up contract awards, save money, get better mission results, or meet small business contracting goals. It requires the directorate to create guidance and training on when and how to use these methods, and to share best practices with other federal agencies. It also directs the Office of Federal Procurement Policy to convene a Chief Acquisition Officers Council to study innovative contracting practices across the government.",
+  "who_it_affects": [
+   {
+    "group": "DHS procurement and acquisition staff",
+    "how": "They must receive guidance and training on when and how to use innovative procurement techniques."
+   },
+   {
+    "group": "Small businesses that sell to the federal government",
+    "how": "DHS must report on whether innovative methods help meet its contracting goals for small business awards."
+   },
+   {
+    "group": "Other federal agencies",
+    "how": "They can access DHS information on procurement methods and training to help improve their own buying practices."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

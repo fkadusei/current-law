@@ -36,5 +36,24 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law lets people appealing VA decisions before the Board of Veterans' Appeals attend hearings by video or audio from locations other than VA facilities.",
+  "what_it_does": "The law allows appellants in cases before the Board of Veterans' Appeals to appear at a hearing using picture and voice transmission, such as Skype, from places other than Department of Veterans Affairs facilities. It also requires the VA to report specified statistics and information about hearings held this way.",
+  "who_it_affects": [
+   {
+    "group": "Veterans and other appellants with cases before the Board of Veterans' Appeals",
+    "how": "They may take part in a hearing by picture and voice transmission from a location outside a VA facility instead of only in person at one."
+   },
+   {
+    "group": "Department of Veterans Affairs",
+    "how": "The VA must report specified statistics and information about hearings held by picture and voice transmission."
+   }
+  ],
+  "when_it_takes_effect": "The summary does not state an effective date; the law was enacted on April 10, 2020.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

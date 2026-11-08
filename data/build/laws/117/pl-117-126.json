@@ -36,5 +36,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2022 federal law bans making, selling, or distributing crib bumpers and inclined sleepers for infants.",
+  "what_it_does": "The law makes it illegal to manufacture, sell, or distribute two types of baby sleep products. Crib bumpers are padded materials placed around the inside of a crib. Inclined sleepers are products for babies up to one year old that have a sleep surface tilted more than 10 degrees. Unpadded mesh crib liners are not covered by the ban.",
+  "who_it_affects": [
+   {
+    "group": "Manufacturers of crib bumpers and inclined sleepers",
+    "how": "They cannot make these products for sale in the United States under the ban."
+   },
+   {
+    "group": "Retailers and distributors that sell baby sleep products",
+    "how": "They cannot sell or distribute crib bumpers or inclined sleepers covered by the ban."
+   },
+   {
+    "group": "Parents and caregivers of infants",
+    "how": "They can no longer buy these covered products new from businesses, though the ban does not describe penalties for owning or using them."
+   }
+  ],
+  "when_it_takes_effect": "The law took effect when it was enacted on May 16, 2022.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

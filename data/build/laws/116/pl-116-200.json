@@ -36,5 +36,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A law renames the U.S. Postal Service office at 171 South Maple Street in Dana, Indiana, after journalist Ernie Pyle.",
+  "what_it_does": "Public Law 116-200 designates the Postal Service facility at 171 South Maple Street in Dana, Indiana, as the Ernest \"Ernie\" T. Pyle Post Office. It changes only the official name of that building. It does not change postal services, rules, or staffing.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law was enacted on December 3, 2020.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

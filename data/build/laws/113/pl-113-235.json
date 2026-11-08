@@ -4392,5 +4392,48 @@
   "House": "R",
   "Senate": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "This omnibus spending law funds most federal agencies through the end of fiscal year 2015 and includes many policy riders, plus a short-term funding extension for Homeland Security.",
+  "what_it_does": "The law provides money for most federal departments and agencies for fiscal year 2015, which ends September 30, 2015, covering eleven of the twelve regular spending bills. It keeps the Department of Homeland Security running at current levels through February 27, 2015, or until a full funding bill is enacted. It also adds emergency funding for responses to the Islamic State and the Ebola virus, and it includes many smaller provisions, such as permitting some multiemployer pension plans that are expected to become insolvent to reduce benefits, raising limits on campaign contributions to national party committees, and exempting expatriate health plans from certain Affordable Care Act rules.",
+  "who_it_affects": [
+   {
+    "group": "Federal employees and federal agencies",
+    "how": "Their budgets for fiscal year 2015 are set by this law, with some agencies receiving more money than in FY2014 and others receiving less."
+   },
+   {
+    "group": "Members of Congress",
+    "how": "The law bars cost of living pay increases for Members of Congress during fiscal year 2015."
+   },
+   {
+    "group": "Participants in certain multiemployer defined benefit pension plans",
+    "how": "Plans expected to become insolvent may reduce benefits for participants under rules created by the law."
+   },
+   {
+    "group": "Expatriate workers and their employers who offer health plans abroad",
+    "how": "Certain expatriate health plans are exempted from specified Affordable Care Act and related health provisions."
+   },
+   {
+    "group": "Federal financial institutions that receive federal assistance such as deposit insurance",
+    "how": "The law expands the derivatives activities these institutions are allowed to conduct under the Dodd-Frank Act."
+   },
+   {
+    "group": "Campaign donors giving to national political party committees",
+    "how": "The law raises the dollar limits on certain contributions to national party committees used for conventions, headquarters, and recounts or legal proceedings."
+   },
+   {
+    "group": "Residents of U.S. insular areas and Freely Associated States",
+    "how": "The Interior Department must set up a team to develop an energy action plan for these areas."
+   },
+   {
+    "group": "Homeland Security employees and programs",
+    "how": "Their funding continues at current levels only until February 27, 2015, unless a full appropriations bill is enacted first."
+   }
+  ],
+  "when_it_takes_effect": "Most appropriations apply to fiscal year 2015, which runs from October 1, 2014, through September 30, 2015. The Homeland Security extension runs through February 27, 2015, and the law was enacted December 16, 2014.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

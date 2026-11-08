@@ -1,0 +1,36 @@
+{
+ "headline": "A 2014 federal law that strengthens protections for children in foster care at risk of sex trafficking and makes changes to adoption incentives, foster care rules, and child support enforcement.",
+ "what_it_does": "The law requires states that run foster care programs to identify, document, and report children and youth who are or may be victims of sex trafficking, and to report missing foster children to law enforcement right away. It lets foster children take part in age-appropriate activities under a \"reasonable and prudent parent\" standard, gives children age 14 and older a say in their own case plans, and requires that youth leaving foster care at 18 receive key documents such as a birth certificate and Social Security card. It also extends the adoption incentive program, changes family connection grants, expands international and tribal access to child support enforcement tools, and creates a National Advisory Committee on sex trafficking of children.",
+ "who_it_affects": [
+  {
+   "group": "Children and youth in foster care",
+   "how": "They gain a say in their case plans, more access to age-appropriate activities, and a right to key identity documents when they leave foster care at 18."
+  },
+  {
+   "group": "Foster parents and child care institutions",
+   "how": "They must apply a reasonable and prudent parent standard to children's activities, and institutions must have a trained caregiver on site."
+  },
+  {
+   "group": "State child welfare agencies",
+   "how": "They must create procedures to identify, document, and report sex trafficking victims and missing foster children, and they must report extra data to federal officials."
+  },
+  {
+   "group": "Law enforcement agencies",
+   "how": "They receive reports of suspected sex trafficking and reports of missing or abducted foster children for entry into national databases."
+  },
+  {
+   "group": "Adoptive families and kinship guardians",
+   "how": "Adoption incentive funds and post-adoption service rules change, and sibling parents must be notified when a child is removed from custody."
+  },
+  {
+   "group": "Parents owing child support in other countries and tribes",
+   "how": "Foreign reciprocating countries and Indian tribes gain access to federal child support tools, including the Federal Parent Locator Service."
+  }
+ ],
+ "when_it_takes_effect": "Most provisions took effect upon enactment on September 29, 2014, though several specific requirements have their own start dates set in the law, such as increased Chafee program funding beginning in FY2020.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

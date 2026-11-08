@@ -1,0 +1,24 @@
+{
+ "headline": "This law updates the Freedom of Information Act to push federal agencies toward more online disclosure, presumed openness, faster fee rules, and a shared request portal.",
+ "what_it_does": "The law changes the Freedom of Information Act, which lets people request records from federal agencies. Agencies must post certain records online, including records requested three or more times. Agencies generally cannot withhold requested information unless they expect real harm or the law prohibits release. Agencies also cannot charge fees when they miss a response deadline, unless unusual circumstances apply and more than 5,000 pages are needed. The law also creates a single online portal for sending requests to any agency and adds a mediation service to settle disputes.",
+ "who_it_affects": [
+  {
+   "group": "People who file FOIA requests for federal records",
+   "how": "They can use a single online portal to send requests to any federal agency, and they can get mediation help from the Office of Government Information Services when disputes arise."
+  },
+  {
+   "group": "Journalists and researchers who request government records",
+   "how": "Agency records created 25 years or more before a request become eligible for release under the narrowed exemption for agency communications, and fees generally cannot be charged when agencies miss deadlines."
+  },
+  {
+   "group": "Federal agencies and their FOIA staff",
+   "how": "Agencies must update their regulations, post certain records electronically, name Chief FOIA Officers who coordinate with the Office of Government Information Services, and follow a presumption of openness when deciding what to withhold."
+  }
+ ],
+ "when_it_takes_effect": "The law took effect on its enactment date, June 30, 2016, and applies to FOIA requests made after that date.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

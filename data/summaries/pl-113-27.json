@@ -1,0 +1,28 @@
+{
+ "headline": "A 2013 law directs the TSA to create a process that helps severely injured or disabled troops and veterans get through airport security more easily.",
+ "what_it_does": "The law tells the Transportation Security Administration to build a program that eases travel and, where possible, offers expedited passenger screening for severely injured or disabled service members and veterans. It requires the TSA to run an operations center that helps move these travelers through screening before they board domestic or foreign flights. The TSA must also publish steps that members, veterans, family members, and others can use to ask the center for expedited screening. The law keeps the TSA's power to add screening when intelligence or law enforcement information calls for it, and it requires an annual report to Congress on the program.",
+ "who_it_affects": [
+  {
+   "group": "Severely injured or disabled members of the Armed Forces",
+   "how": "They may be able to request expedited airport screening through a TSA operations center."
+  },
+  {
+   "group": "Severely injured or disabled veterans",
+   "how": "They may be able to request expedited airport screening through a TSA operations center."
+  },
+  {
+   "group": "Family members and nonmedical attendants who travel with these service members and veterans",
+   "how": "They may be screened with the traveler, and the TSA can still require extra screening for them if information shows it is necessary."
+  },
+  {
+   "group": "Air travelers passing through TSA checkpoints",
+   "how": "The law does not directly change their screening rules, but the TSA must set up the expedited process."
+  }
+ ],
+ "when_it_takes_effect": "The law took effect on August 9, 2013, the date it was enacted, though the summary does not give specific deadlines for the TSA's protocols or program start.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

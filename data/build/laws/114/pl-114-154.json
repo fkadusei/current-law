@@ -42,5 +42,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2016 federal law widens who can be prosecuted for making or selling certain drugs and chemicals that are likely to be smuggled into the United States.",
+  "what_it_does": "The law changes the Controlled Substances Import and Export Act. Before, a person had to know or intend that a Schedule I or II drug, a precursor chemical, or flunitrazepam would be illegally imported. Now a person can also be prosecuted if they reasonably believe it will be. The law also bans making or distributing a precursor chemical when the person knows it will be used to make a controlled substance and knows, intends, or reasonably believes that substance will be illegally imported. Separately, it changes criminal code wording from trafficking in a 'counterfeit drug' to trafficking in a 'drug that uses a counterfeit mark.'",
+  "who_it_affects": [
+   {
+    "group": "People who make or distribute Schedule I or II drugs, precursor chemicals, or flunitrazepam",
+    "how": "They can be prosecuted if they reasonably believe the substance will be illegally imported into the United States, not only if they knew or intended it."
+   },
+   {
+    "group": "People who make or distribute precursor chemicals used to make controlled substances",
+    "how": "They can be prosecuted if they know the chemical will be used to make a controlled substance and know, intend, or reasonably believe that substance will be illegally imported."
+   },
+   {
+    "group": "People who traffic in drugs that carry counterfeit trademarks or markings",
+    "how": "The criminal code now refers to drugs that use a counterfeit mark, replacing the older term 'counterfeit drug,' which changes how these cases are described under federal law."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -33,5 +33,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2020 law that makes technical fixes to the Klamath Basin Water Supply Enhancement Act, clarifying programs for irrigation water and continued power use in Montana.",
+  "what_it_does": "The law says which types of programs the Bureau of Reclamation may take part in to balance water supply and demand for irrigation users in the Klamath Project, which spans Oregon and California. One example listed is land idling, which means leaving certain land unplanted. It also allows two Montana irrigation groups to keep using power from the Pick-Sloan Missouri Basin Program.",
+  "who_it_affects": [
+   {
+    "group": "Irrigation water users in the Klamath Project in Oregon and California",
+    "how": "Their water supply arrangements can include the program types the law specifies, such as land idling."
+   },
+   {
+    "group": "Bureau of Reclamation",
+    "how": "The agency has clear authority to participate in the specified kinds of water supply and demand programs for the Klamath Project."
+   },
+   {
+    "group": "Kinsey Irrigation Company and Sidney Water Users Irrigation District in Montana",
+    "how": "They may continue receiving and using power from the Pick-Sloan Missouri Basin Program."
+   }
+  ],
+  "when_it_takes_effect": "Enacted October 30, 2020; the official summary does not list a separate effective date.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

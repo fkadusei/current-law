@@ -1,0 +1,24 @@
+{
+ "headline": "This law requires the State Department to report to Congress on how other countries handle returning or compensating property seized during the Holocaust era.",
+ "what_it_does": "The law directs the Department of State to assess the laws and enforceable policies of certain countries on returning Holocaust-era property. The review covers returning property or substitute property to rightful owners, including religious and community property, and paying equitable compensation. It also covers using heirless property to help needy Holocaust survivors and progress on claims filed by U.S.-citizen survivors and their families.",
+ "who_it_affects": [
+  {
+   "group": "Holocaust survivors who are U.S. citizens",
+   "how": "The report is meant to track progress on resolving their property claims against other countries."
+  },
+  {
+   "group": "Family members of Holocaust survivors",
+   "how": "The report covers progress on claims filed by family members of U.S.-citizen survivors."
+  },
+  {
+   "group": "Religious and community organizations that owned property seized in the Holocaust era",
+   "how": "The report reviews whether countries have policies for returning or compensating religious and communal property."
+  }
+ ],
+ "when_it_takes_effect": "Upon enactment on May 9, 2018, with the report due to Congress under the bill's terms.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

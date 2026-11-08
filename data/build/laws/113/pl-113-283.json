@@ -36,5 +36,36 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law updates the main federal rules for protecting government computer systems and data from cyber threats, and gives DHS a bigger operational role.",
+  "what_it_does": "It amends the 2002 Federal Information Security Management Act to set out who runs federal information security oversight. OMB keeps authority over agency security policy, while the Department of Homeland Security carries out day-to-day implementation through binding operational directives. Agencies must report major security incidents to Congress within seven days and must notify Congress of data breaches within 30 days, with affected individuals told as soon as practicable, though notice can be delayed for investigations or national security.",
+  "who_it_affects": [
+   {
+    "group": "Federal agencies and their information technology and security staff",
+    "how": "They must follow DHS operational directives, use automated security tools, integrate security planning with budgets, and file detailed annual and incident reports."
+   },
+   {
+    "group": "Chief information officers and other senior agency officials",
+    "how": "The law directs agency heads to make these officials responsible for carrying out information security duties."
+   },
+   {
+    "group": "People whose personal information is held by federal agencies",
+    "how": "They must be notified of certain unauthorized access to their data, although the timing can be delayed for law enforcement or security reasons."
+   },
+   {
+    "group": "Inspectors general and the Government Accountability Office",
+    "how": "GAO may provide technical help and test agency security controls, and the reporting it receives feeds into its oversight work."
+   },
+   {
+    "group": "Intelligence community elements",
+    "how": "OMB security authority can be delegated to the Director of National Intelligence for certain intelligence systems."
+   }
+  ],
+  "when_it_takes_effect": "Enacted December 18, 2014, with provisions taking effect on enactment unless otherwise set by OMB or agency guidance; the summary does not list specific later effective dates.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

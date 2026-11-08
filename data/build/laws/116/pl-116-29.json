@@ -33,5 +33,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law briefly extends a Medicaid mental health clinic demonstration program by two weeks and lowers future funding for the Medicaid Improvement Fund.",
+  "what_it_does": "Section 1 extends for two weeks the Medicaid demonstration program for certified community behavioral health clinics, which offer mental health and substance use services. Section 2 reduces the money available to the Medicaid Improvement Fund starting in fiscal year 2021. The official summary does not describe the specific programs that fund pays for, so those effects are not covered here.",
+  "who_it_affects": [
+   {
+    "group": "Certified community behavioral health clinics",
+    "how": "They can keep participating in the Medicaid demonstration program for two more weeks than they otherwise could."
+   },
+   {
+    "group": "Medicaid enrollees who use mental health or substance use services",
+    "how": "Clinics in the demonstration program can keep serving them under that program for the added two weeks."
+   },
+   {
+    "group": "States that take part in the Medicaid demonstration program",
+    "how": "They receive the extension of the program's coverage period for two more weeks."
+   }
+  ],
+  "when_it_takes_effect": "The clinic program extension applies right after enactment on July 5, 2019; the reduction in Medicaid Improvement Fund money starts in fiscal year 2021.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

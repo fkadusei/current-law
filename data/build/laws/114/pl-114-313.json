@@ -36,5 +36,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2016 law renames the VA health care system in Long Beach, California, the Tibor Rubin VA Medical Center.",
+  "what_it_does": "The law officially names the Department of Veterans Affairs health care system at 5901 East 7th Street in Long Beach, California, the Tibor Rubin VA Medical Center. It honors Tibor Rubin, a Korean War veteran. The change is a name designation only and does not add new services or money.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law took effect when it was enacted on December 16, 2016.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

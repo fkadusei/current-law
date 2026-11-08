@@ -1,0 +1,20 @@
+{
+ "headline": "A 2021 law requires the FCC to stop reviewing or approving equipment applications for devices on a national-security risk list.",
+ "what_it_does": "The law directs the Federal Communications Commission (FCC) to create rules saying it will no longer review or approve authorization applications for equipment on its list of covered communications equipment or services. Those are items the FCC has determined pose an unacceptable risk to national security or to the security and safety of people in the United States. The summary provided does not list specific companies or products, or detail the process for adding items to the list.",
+ "who_it_affects": [
+  {
+   "group": "Manufacturers and sellers of communications equipment",
+   "how": "Companies seeking FCC authorization for equipment on the covered list will no longer have those applications reviewed or approved by the agency."
+  },
+  {
+   "group": "Telecommunications providers and buyers of communications equipment",
+   "how": "Equipment that appears on the covered list cannot receive new FCC authorization, which may limit what devices and services are available for purchase or use."
+  }
+ ],
+ "when_it_takes_effect": "The summary does not state a specific effective date; the FCC must first establish the rules directed by the law.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

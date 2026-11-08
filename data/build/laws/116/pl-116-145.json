@@ -3520,5 +3520,28 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "This 2020 law requires U.S. sanctions on foreign people and groups linked to human rights abuses in China's Xinjiang region, and requires several government reports on the issue.",
+  "what_it_does": "The President must regularly send Congress a list of foreign individuals and entities responsible for human rights abuses in Xinjiang. Those listed face property-blocking sanctions, which freeze assets under U.S. jurisdiction, and visa-blocking sanctions, which bar entry to the United States. The law also requires reports on abuses in Xinjiang, on efforts to protect Uyghurs and Chinese nationals in the U.S. from harassment, and on Chinese government technology used for internment and mass surveillance. A classified intelligence report on detention and forced labor of Muslim minority groups is also required.",
+  "who_it_affects": [
+   {
+    "group": "Foreign individuals and entities named on the President's list",
+    "how": "They face frozen U.S.-held property and bans on entering the United States with a visa."
+   },
+   {
+    "group": "Uyghurs and Chinese nationals studying or working in the United States",
+    "how": "The law requires federal reporting on whether the government is protecting them from harassment and intimidation by the Chinese government."
+   },
+   {
+    "group": "Congress and federal agencies",
+    "how": "They must receive periodic lists and several reports on human rights abuses, surveillance technology, and forced labor in Xinjiang."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on June 17, 2020, and its sanctions and reporting requirements apply from that date, with reports due on the schedule set in the bill.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

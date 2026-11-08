@@ -39,5 +39,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law makes Medicare cover eye-tracking accessories for speech-generating devices for people who medically need them, with uncapped payments for devices furnished in a set window.",
+  "what_it_does": "The law amends the Medicare program to treat eye tracking and gaze interaction accessories for speech-generating devices as durable medical equipment. Coverage applies to people who have a demonstrated medical need for them. For devices furnished from October 1, 2015 through October 1, 2018, Medicare payment may be made on a rental basis or as a lump-sum purchase, and the payment has no dollar cap.",
+  "who_it_affects": [
+   {
+    "group": "Medicare beneficiaries who need speech-generating devices",
+    "how": "They can have eye-tracking and gaze interaction accessories covered by Medicare if they have a demonstrated medical need for them."
+   },
+   {
+    "group": "Medicare beneficiaries who use speech-generating devices during the 2015 to 2018 window",
+    "how": "Payment for these devices and accessories may be made as a rental or lump sum with no cap on the amount for devices furnished in that period."
+   },
+   {
+    "group": "Suppliers of durable medical equipment and speech-generating devices",
+    "how": "They can bill Medicare for eye-tracking and gaze interaction accessories under the rules for durable medical equipment."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted July 30, 2015. The no-cap payment rule applies to devices furnished on or after October 1, 2015 and before October 1, 2018.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

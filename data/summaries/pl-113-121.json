@@ -1,0 +1,40 @@
+{
+ "headline": "Public Law 113-121 is a large 2014 water resources bill that updates how the Army Corps of Engineers plans, reviews, funds, and runs water projects, along with several water-infrastructure financing and safety provisions.",
+ "what_it_does": "The law changes how the Army Corps of Engineers studies and approves water projects, including a three-year limit on most feasibility studies, a $3 million cap on study costs, and new deadlines for environmental reviews and permit-related approvals. It also adds rules for funding and credit when local sponsors pay for work, sets priorities for hurricane and ecosystem projects, and sets rules for dam, levee, and harbor operations. Separate titles expand state water revolving loan funds, add domestic iron and steel requirements for certain projects, and create a federal loan and guarantee program for water infrastructure. A final title requires the Corps to identify and deauthorize older projects that have not moved forward, including a list of about 15 named projects.",
+ "who_it_affects": [
+  {
+   "group": "Local governments and other non-federal sponsors of Corps water projects",
+   "how": "They face new study deadlines, notice rules, cost-sharing credit options, and the option to fund and build certain projects themselves with later credit or reimbursement."
+  },
+  {
+   "group": "Communities seeking flood, storm, or coastal protection from the Corps",
+   "how": "Study timelines are shortened, certain hurricane and storm projects are ranked for priority, and beach nourishment periods can be extended."
+  },
+  {
+   "group": "Ports, harbors, and shippers that use inland and coastal waterways",
+   "how": "The law sets new rules for harbor maintenance funding, creates an inland waterways capital plan, and changes how lock hours can be extended through local funding."
+  },
+  {
+   "group": "Farms with oil storage",
+   "how": "The law raises the storage threshold for certain Spill Prevention, Control, and Countermeasure plan requirements and exempts some farms with no reportable discharge history."
+  },
+  {
+   "group": "Contractors and suppliers for state clean water and drinking water projects",
+   "how": "Projects funded through state revolving funds must use U.S.-produced iron and steel, with waiver options for public interest, shortage, or cost increases above 25 percent."
+  },
+  {
+   "group": "Recreation users at Corps lakes and reservoirs",
+   "how": "The Corps may issue special-use permits and charge fees, and it may join the America the Beautiful federal lands pass program, including free passes for active-duty military and dependents."
+  },
+  {
+   "group": "Owners of projects the Corps has not built",
+   "how": "Projects not funded or completed within set deadlines, such as seven years for projects with no obligated funds, are deauthorized and removed from the Corps list."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted June 10, 2014, and most provisions apply from that date, though many sections set their own later deadlines, such as reports due in four years, a September 30, 2015 affordability criteria deadline, and project deauthorizations seven years after enactment.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

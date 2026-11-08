@@ -1,0 +1,20 @@
+{
+ "headline": "This law extends the Federal Election Commission's power to fine people under a published penalty schedule until 2023.",
+ "what_it_does": "The Federal Election Commission enforces campaign finance rules. Under a set of published penalty amounts, it can impose civil money fines for certain violations without going to court. This law extends that fining authority through 2023. It does not change the rules themselves or the penalty amounts.",
+ "who_it_affects": [
+  {
+   "group": "Candidates and political committees that file campaign finance reports",
+   "how": "They remain subject to the Commission's administrative fines for certain late or incorrect filings through 2023."
+  },
+  {
+   "group": "Other people and organizations that make or receive political contributions",
+   "how": "They can still face administrative civil fines from the Commission for covered violations through 2023."
+  }
+ ],
+ "when_it_takes_effect": "Enacted December 21, 2018; the extended authority runs through 2023.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

@@ -1,0 +1,28 @@
+{
+ "headline": "A 2021 law that adjusts how the federal bankruptcy trustee system is funded, how trustees are paid, and how some bankruptcy judgeships are staffed.",
+ "what_it_does": "The law sets rules for how bankruptcy fees are distributed into the U.S. Trustee System Fund, which pays for the costs of administering trustee payments and trustee compensation. It creates a Chapter 7 Trustee Fund and related fees. It also extends the temporary positions of bankruptcy judges in certain judicial districts.",
+ "who_it_affects": [
+  {
+   "group": "People filing for bankruptcy under Chapter 7",
+   "how": "They pay bankruptcy fees that help fund the trustee system and the new Chapter 7 Trustee Fund."
+  },
+  {
+   "group": "Chapter 7 bankruptcy trustees",
+   "how": "The law changes how their compensation is paid and funded through the trustee system."
+  },
+  {
+   "group": "Bankruptcy judges in specified judicial districts",
+   "how": "Their temporary positions are extended under the law."
+  },
+  {
+   "group": "U.S. Trustee Program staff",
+   "how": "The law sets how fees are distributed to pay for administering trustee payments and compensation."
+  }
+ ],
+ "when_it_takes_effect": "Enacted January 12, 2021. The official summary does not list other specific effective dates.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

@@ -42,5 +42,44 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law reauthorizes and revises the Older Americans Act, the main federal program funding services for older adults, through fiscal year 2019.",
+  "what_it_does": "The law extends federal funding authority for many programs under the Older Americans Act through fiscal year 2019, including meals, supportive services, caregiver support, and senior employment. It strengthens the long-term care ombudsman program, which investigates complaints for residents of nursing homes and similar facilities, and expands its reach to residents of any age. It also adds requirements around elder abuse prevention, falls prevention, behavioral health screening, locally grown food in meals, and help for people who want to stay in their communities instead of institutions. Several older grant authorities are repealed or consolidated.",
+  "who_it_affects": [
+   {
+    "group": "Older adults receiving meals, supportive services, or caregiver support through state and local aging agencies",
+    "how": "Funding for these programs is extended through fiscal year 2019, and states must include falls prevention and chronic condition self-management services."
+   },
+   {
+    "group": "Residents of long-term care facilities such as nursing homes",
+    "how": "The state ombudsman's responsibility now covers residents of any age, and ombudsman staff get broader access to resident records."
+   },
+   {
+    "group": "Family caregivers of older adults",
+    "how": "The caregiver support funding allotment is made permanent under the revised National Family Caregiver Support Program."
+   },
+   {
+    "group": "Older adults seeking employment through community service programs",
+    "how": "Program grantees must consult local workforce boards, and states may use a combined plan under the Workforce Innovation and Opportunity Act."
+   },
+   {
+    "group": "Older American Indians, Alaska Natives, and Native Hawaiians",
+    "how": "Grants for supportive services and nutrition services are reauthorized through fiscal year 2019."
+   },
+   {
+    "group": "State and local aging agencies and service providers",
+    "how": "Several grant programs are repealed, including those for multidisciplinary gerontology centers and computer training, and state plans must address elder abuse and modernize senior centers."
+   },
+   {
+    "group": "Holocaust survivors",
+    "how": "The federal Administration on Aging must issue guidance to states on serving them."
+   }
+  ],
+  "when_it_takes_effect": "Enacted April 19, 2016; funding and authorization provisions generally run through fiscal year 2019, with some changes to appropriations availability dates.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

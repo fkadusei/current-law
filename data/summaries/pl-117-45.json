@@ -1,0 +1,32 @@
+{
+ "headline": "This law requires the VA to raise several veterans and survivor benefit payments by the same percentage as the Social Security cost-of-living increase effective December 1, 2021.",
+ "what_it_does": "The Department of Veterans Affairs must increase wartime disability compensation, extra compensation for dependents, the clothing allowance for certain disabled veterans, and dependency and indemnity compensation for surviving spouses and children. The increase uses the same percentage as the Social Security cost-of-living adjustment. The VA must publish the new amounts in the Federal Register. The VA may also make a similar adjustment to disability compensation rates for people who have not received compensation for a service-connected disability or death.",
+ "who_it_affects": [
+  {
+   "group": "Veterans receiving wartime disability compensation",
+   "how": "Their monthly wartime disability payments increase by the Social Security cost-of-living percentage."
+  },
+  {
+   "group": "Disabled veterans with dependents",
+   "how": "The extra compensation paid for their dependents increases by the same percentage."
+  },
+  {
+   "group": "Certain disabled veterans who receive the clothing allowance",
+   "how": "The clothing allowance amount increases by the same percentage."
+  },
+  {
+   "group": "Surviving spouses and children of veterans who receive dependency and indemnity compensation",
+   "how": "Their monthly payments increase by the same percentage."
+  },
+  {
+   "group": "People with service-connected disabilities or deaths who are not yet receiving compensation",
+   "how": "The VA may choose to apply a similar increase to the disability compensation rates payable to them."
+  }
+ ],
+ "when_it_takes_effect": "The increases are tied to the Social Security cost-of-living adjustment that takes effect December 1, 2021.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

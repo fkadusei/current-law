@@ -45,5 +45,36 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law reauthorizes and expands federal research and response programs for harmful algal blooms and low-oxygen water conditions in U.S. waters.",
+  "what_it_does": "The law updates a 1998 act that funds federal work on harmful algal blooms, which are fast growths of algae that can harm water quality, and hypoxia, where water has too little oxygen for living things. It adds the CDC to the interagency task force and gives NOAA the main job of running the national program, including grants, research plans, and training for state and local water managers. It also directs EPA to study and forecast freshwater algal blooms and to report on progress against the Gulf of Mexico hypoxia goals, and it requires a Great Lakes assessment and plan.",
+  "who_it_affects": [
+   {
+    "group": "State, local, and tribal water and coastal resource managers",
+    "how": "They may receive federal training resources and grant funding and must coordinate with NOAA and EPA on bloom and hypoxia responses."
+   },
+   {
+    "group": "Communities that rely on lakes, rivers, reservoirs, and estuaries",
+    "how": "EPA is directed to forecast and monitor freshwater algal blooms in these waters."
+   },
+   {
+    "group": "Gulf Coast and Mississippi River basin states",
+    "how": "EPA must report to Congress on progress toward the Gulf Hypoxia Action Plan 2008 goals."
+   },
+   {
+    "group": "Great Lakes states and communities",
+    "how": "The task force must produce an integrated assessment and a plan to reduce hypoxia and algal blooms in the Great Lakes."
+   },
+   {
+    "group": "Commercial and recreational fishers and shellfish harvesters",
+    "how": "Federal research and monitoring of marine algal blooms and hypoxia may affect how these conditions are tracked and responded to."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on June 30, 2014; some reports are due within 12 months, some within 18 months, and others on a biennial schedule after that.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

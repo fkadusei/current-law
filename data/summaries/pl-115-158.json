@@ -1,0 +1,28 @@
+{
+ "headline": "This 2018 law bars federal money from being used to pay for official portraits of federal officials, including the President, Members of Congress, and agency heads.",
+ "what_it_does": "The law stops federal funds from paying for an official portrait of any federal officer or employee. The summary names the President, the Vice President, Members of Congress, heads of executive agencies, and heads of legislative branch offices as examples. It only limits how federal money can be spent on portraits and does not address other ways portraits might be paid for.",
+ "who_it_affects": [
+  {
+   "group": "The President and Vice President",
+   "how": "Federal money can no longer be used to pay for their official portraits."
+  },
+  {
+   "group": "Members of Congress",
+   "how": "Federal money can no longer be used to pay for official portraits of them."
+  },
+  {
+   "group": "Heads of federal executive agencies and legislative branch offices",
+   "how": "Federal money can no longer be used to pay for official portraits of them."
+  },
+  {
+   "group": "Federal officers and employees generally",
+   "how": "Federal money can no longer be used to pay for official portraits of them."
+  }
+ ],
+ "when_it_takes_effect": "Enacted March 27, 2018. The official summary does not list a separate effective date.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

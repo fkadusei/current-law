@@ -36,5 +36,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Congress named a Colorado Springs post office building after Chaplain (Capt.) Dale Goetz.",
+  "what_it_does": "This law renames a U.S. Postal Service facility at 8585 Criterion Drive in Colorado Springs, Colorado, as the Chaplain (Capt.) Dale Goetz Memorial Post Office Building. It is an honorary designation and does not change postal services, rules, or costs. The name is used to honor Chaplain Dale Goetz.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law took effect when it was enacted on December 21, 2020.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

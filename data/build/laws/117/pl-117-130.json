@@ -39,5 +39,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2022 law requires the Department of Homeland Security and FEMA to consider children's needs in their emergency and security planning.",
+  "what_it_does": "The law tells the Department of Homeland Security to make sure children's needs are considered when it plans and carries out its missions. Each DHS office and component must account for children, including children in underserved communities. DHS must also ask groups that represent children for advice and feedback. FEMA must identify and build children's needs into its work on disasters and terrorism, and it must appoint a technical expert to coordinate this.",
+  "who_it_affects": [
+   {
+    "group": "Children and families in disaster-prone or underserved communities",
+    "how": "Federal emergency planning is directed to take their specific needs into account before, during, and after disasters and terrorism events."
+   },
+   {
+    "group": "Child-focused organizations",
+    "how": "DHS must seek their advice and feedback on homeland security and emergency planning."
+   },
+   {
+    "group": "DHS offices and components, including FEMA",
+    "how": "They must add children's needs to mission planning and carry out a required coordination role with a designated technical expert."
+   }
+  ],
+  "when_it_takes_effect": "The law took effect when it was enacted on June 6, 2022, and the summary does not list separate later deadlines.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

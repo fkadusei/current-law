@@ -1,0 +1,24 @@
+{
+ "headline": "A 2020 law expands the federal computer crime definition of protected computers to include computers that are part of a voting system.",
+ "what_it_does": "The law changes the definition of a \"protected computer\" in federal computer fraud and abuse law. Under the change, a computer that is part of a voting system now counts as protected. This means federal computer crime rules that cover protected computers can apply to attacks or unauthorized access involving voting system computers. The official summary does not describe new penalties, new duties, or new rules for voters.",
+ "who_it_affects": [
+  {
+   "group": "Election officials and offices that run voting systems",
+   "how": "Computers used as part of their voting systems now fall under federal protected-computer rules for computer crimes."
+  },
+  {
+   "group": "Companies that make, sell, or service voting equipment",
+   "how": "Computers that are part of the voting systems they provide now fall under federal protected-computer rules for computer crimes."
+  },
+  {
+   "group": "People who access or tamper with voting system computers without authorization",
+   "how": "Such conduct can now be prosecuted under federal computer fraud and abuse laws that apply to protected computers."
+  }
+ ],
+ "when_it_takes_effect": "The law became effective when it was enacted on October 20, 2020.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

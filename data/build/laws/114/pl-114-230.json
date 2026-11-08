@@ -48,5 +48,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2016 law lets a private foundation build a Wall of Remembrance listing names of U.S. service members who died in the Korean War, with no federal money for construction.",
+  "what_it_does": "The law authorizes the Korean War Veterans Memorial Foundation to build a Wall of Remembrance at the existing Korean War Veterans Memorial site. The Department of Defense decides who qualifies for the list of names and gives the final list to the Department of the Interior. The wall may also include information about casualties and prisoners of war from the U.S., the Korean Augmentation to the U.S. Army, South Korea, and other United Nations Command nations. Federal funds may not be used to build the wall.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law was enacted October 7, 2016. The official summary does not list a separate start date.",
+  "ceremonial": true,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

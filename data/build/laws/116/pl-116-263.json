@@ -36,5 +36,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2020 law renames a NASA research site in Ohio to include Neil Armstrong's name.",
+  "what_it_does": "This law changes the official name of the NASA John H. Glenn Research Center at Plum Brook Station in Ohio. The new name is the NASA John H. Glenn Research Center at the Neil A. Armstrong Test Facility. The bill only changes the name and does not describe any new programs, funding, or rules.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law was enacted on December 30, 2020, and the name change took effect on that date.",
+  "ceremonial": true,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

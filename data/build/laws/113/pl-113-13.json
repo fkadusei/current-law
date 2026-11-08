@@ -33,5 +33,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law pauses certain Army Corps of Engineers restricted areas for hazardous waters in the Cumberland River Basin and limits how new ones can be set up.",
+  "what_it_does": "The Army Corps of Engineers had set or changed restricted areas near dams and other water structures in the Cumberland River Basin between August 2012 and the law's enactment. The law stops enforcing those areas for two years and requires the Corps to remove any permanent physical barriers built for them. Future restricted areas must be based on conditions that create hazardous water, and the Corps must publish a draft and take public comment first. Enforcement becomes the sole responsibility of the state where the area is located, and no penalty may be charged for entering a restricted area in a public park or recreation facility at a water project.",
+  "who_it_affects": [
+   {
+    "group": "People who fish, boat, or swim in the Cumberland River Basin",
+    "how": "Restricted areas near dams in the basin were paused for two years, so entering those waters was not enforced under those restrictions during that time."
+   },
+   {
+    "group": "The Army Corps of Engineers",
+    "how": "The Corps must stop enforcing the covered restricted areas, remove related permanent barriers, and seek public comment before setting new restricted areas."
+   },
+   {
+    "group": "State agencies in the states where restricted areas are located",
+    "how": "These states become solely responsible for enforcing any restricted area within their borders."
+   },
+   {
+    "group": "Visitors to public parks and recreation areas at water resource projects",
+    "how": "The Corps cannot charge a penalty for entering a restricted area in these park or recreation facilities."
+   }
+  ],
+  "when_it_takes_effect": "The law took effect on June 3, 2013, when it was enacted. The pause on enforcing the restricted areas lasts two years after that date.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

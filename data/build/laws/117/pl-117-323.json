@@ -3523,5 +3523,40 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "This law expands how federal grants for mental health and criminal justice programs can be spent and extends a federal reporting requirement through fiscal year 2027.",
+  "what_it_does": "It changes the Justice and Mental Health Collaboration Program, which gives grants to state, local, and tribal governments to improve how the justice system handles people with mental health disorders. Grant money can now pay for training for prosecutors on diversion programs, which steer people away from traditional prosecution. Funds can also support police officers and mental health crisis workers who respond to calls together, along with suicide prevention, case management, and state and local efforts to set up the 988 suicide hotline. The Department of Justice must also keep examining and reporting on how many people in prisons and jails have mental illnesses, through fiscal year 2027.",
+  "who_it_affects": [
+   {
+    "group": "State, local, and tribal governments",
+    "how": "They can use grant money from this program for a wider range of purposes, including prosecutor training and suicide prevention services."
+   },
+   {
+    "group": "Local prosecutors",
+    "how": "They may receive grant-funded training on diversion and alternative sentencing programs."
+   },
+   {
+    "group": "Police officers and mental health crisis workers",
+    "how": "Grant funds can be used to support teams that respond together to mental health calls."
+   },
+   {
+    "group": "People with mental health disorders involved in the justice system",
+    "how": "Programs funded under this law may offer diversion, case management, and crisis services instead of only traditional prosecution or jail."
+   },
+   {
+    "group": "People who call the 988 suicide and crisis hotline",
+    "how": "Grants can help state and local governments set up and run the 988 hotline."
+   },
+   {
+    "group": "Department of Justice",
+    "how": "It must continue examining and reporting on the number of people with mental illnesses in prisons and jails through fiscal year 2027."
+   }
+  ],
+  "when_it_takes_effect": "Enacted December 27, 2022; the reporting requirement runs through fiscal year 2027.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

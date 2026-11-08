@@ -3550,5 +3550,32 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2014 law lets the federal government sell two small pieces of Coconino National Forest land in Arizona to the landowners who built on them after a 1960 survey error.",
+  "what_it_does": "The Secretary of Agriculture is allowed to transfer all federal interest in two small parcels of Coconino National Forest in Arizona. The parcels contain private improvements that owners built after relying on a flawed May 1960 survey. The group representing most of those landowners must pay $20,000, and that money goes into a special federal account used to buy land for the National Forest System. The land is withdrawn from mining, mineral leasing, and other land claims until the transfer is finished, and the authority expires three years after enactment.",
+  "who_it_affects": [
+   {
+    "group": "Landowners whose structures sit on the two Coconino National Forest parcels",
+    "how": "They may be able to acquire the federal interest in the land they built on, through a representative entity that pays $20,000."
+   },
+   {
+    "group": "The entity representing the majority of those landowners",
+    "how": "It would pay the $20,000 consideration to the Secretary of Agriculture to receive the conveyance."
+   },
+   {
+    "group": "The U.S. Forest Service and National Forest System",
+    "how": "It must transfer the parcels and deposit the payment into a special account for buying other forest land."
+   },
+   {
+    "group": "Mining and mineral leasing interests",
+    "how": "The two parcels are closed to new mining claims and mineral or geothermal leasing until the conveyance is completed."
+   }
+  ],
+  "when_it_takes_effect": "The law took effect on May 24, 2014, and the conveyance authority ends three years after that date.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

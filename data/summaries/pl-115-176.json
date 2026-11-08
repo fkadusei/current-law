@@ -1,0 +1,28 @@
+{
+ "headline": "A 2018 federal law lets terminally ill patients who have run out of approved treatments seek certain unapproved experimental drugs outside formal clinical trials.",
+ "what_it_does": "The law exempts certain unapproved, investigational drugs from some federal rules when they are given to a terminally ill patient. The patient must have exhausted approved treatment options and be unable to join a clinical trial for the drug. Drug makers must report yearly to the Food and Drug Administration on how the drug was used, and the FDA posts a yearly summary on its website. The law also limits legal liability for drug sponsors, makers, prescribers, and dispensers who provide or decline to provide the drug under these rules.",
+ "who_it_affects": [
+  {
+   "group": "Terminally ill patients",
+   "how": "Those who have used all approved treatment options and cannot join a clinical trial may be able to obtain eligible unapproved investigational drugs."
+  },
+  {
+   "group": "Doctors and other prescribers",
+   "how": "They may prescribe eligible investigational drugs to qualifying patients under the law's conditions and have limited liability for doing so."
+  },
+  {
+   "group": "Drug manufacturers and sponsors",
+   "how": "They may provide eligible investigational drugs outside standard approval requirements, must report annual use to the FDA, and have limited liability."
+  },
+  {
+   "group": "Pharmacies and other dispensers",
+   "how": "They may dispense eligible investigational drugs under the law and have limited liability for doing so."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on May 30, 2018, and took effect on that date.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

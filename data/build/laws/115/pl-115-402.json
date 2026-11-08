@@ -3534,5 +3534,32 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "This 2018 law directs the National Science Foundation to fund STEM education programs at community colleges and related research on training and labor data.",
+  "what_it_does": "The law requires the National Science Foundation to give grants to junior and community colleges to build or improve associate degree and certificate programs in science, technology, engineering, and math fields. Grants also go to colleges that partner with private employers offering apprenticeships, internships, research, or hands-on learning to STEM bachelor's degree students. The foundation must also fund studies of how well distance learning and simulated work settings teach STEM and technical skills. Finally, it directs the foundation to research labor market data and explore whether federal surveys could track skilled technical workers who use STEM knowledge on the job.",
+  "who_it_affects": [
+   {
+    "group": "Junior and community college students",
+    "how": "Schools may receive federal grants to create or expand associate degree and certificate programs in STEM fields."
+   },
+   {
+    "group": "Students in STEM bachelor's degree programs",
+    "how": "Colleges that partner with employers may receive grants to offer apprenticeships, internships, research roles, or other hands-on learning."
+   },
+   {
+    "group": "Private sector employers",
+    "how": "Companies that commit to offering apprenticeships, internships, or research opportunities to students may partner with colleges that receive grants."
+   },
+   {
+    "group": "Colleges and nonprofit organizations",
+    "how": "Institutions of higher education and nonprofits may apply for grants to study student outcomes and best practices for distance and simulated-work training."
+   }
+  ],
+  "when_it_takes_effect": "Enacted December 31, 2018; the bill does not specify a separate effective date or deadlines in the summary provided.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

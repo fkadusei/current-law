@@ -3520,5 +3520,28 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "This law extends federal funding for the TANF cash assistance program and related territory grants through September 30, 2019.",
+  "what_it_does": "It keeps money flowing for Temporary Assistance for Needy Families (TANF) grants to states past their previous funding end date. It also extends related assistance grants to U.S. territories, such as Puerto Rico and the Virgin Islands. The bill's official summary does not describe any changes to program rules, only the funding period.",
+  "who_it_affects": [
+   {
+    "group": "State governments that run TANF programs",
+    "how": "They can keep receiving federal TANF block grants through September 30, 2019."
+   },
+   {
+    "group": "Low-income families who receive TANF cash assistance",
+    "how": "The program that helps them keep operating with federal funding through September 30, 2019."
+   },
+   {
+    "group": "Residents of Puerto Rico and the Virgin Islands",
+    "how": "Federal assistance grants for their territories are extended through September 30, 2019."
+   }
+  ],
+  "when_it_takes_effect": "The extension took effect when the President signed it into law on July 5, 2019, and funding runs through September 30, 2019.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

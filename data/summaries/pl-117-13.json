@@ -1,0 +1,28 @@
+{
+ "headline": "A 2021 federal law directs the Justice Department to speed up hate crime reviews, expand reporting and data collection, and fund state hate crime hotlines and prevention programs.",
+ "what_it_does": "The law requires a designated Justice Department official to help speed up review of hate crimes and reports of hate crimes. It orders the Justice Department to issue guidance to state, local, and tribal police on online hate crime reporting, collecting data by characteristics such as race or national origin, and public education. It also sets up grants for state-run hate crime hotlines and for crime prevention programs, and lets a court require people convicted of hate crimes on supervised release to take classes or do community service.",
+ "who_it_affects": [
+  {
+   "group": "State, local, and tribal law enforcement agencies",
+   "how": "They can receive federal guidance and grant money to set up online hate crime reporting, collect data on hate crimes, and run prevention programs."
+  },
+  {
+   "group": "State governments",
+   "how": "They are eligible for grants to create state-run hate crime reporting hotlines and to implement the National Incident-Based Reporting System."
+  },
+  {
+   "group": "People who report or are victims of hate crimes",
+   "how": "The law aims to make reporting easier and reviews faster through new online reporting processes and a designated Justice Department official."
+  },
+  {
+   "group": "People convicted of hate crimes who are placed on supervised release",
+   "how": "A court may order them to attend educational classes or perform community service as a condition of their release."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on May 20, 2021, and the bill summary does not list specific deadlines for the guidance or grants.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

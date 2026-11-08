@@ -42,5 +42,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law directs NOAA to coordinate how it assesses, buys, and uses unmanned ocean vehicles and related systems for its science and monitoring work.",
+  "what_it_does": "The law tells the National Oceanic and Atmospheric Administration to have its research office and its marine operations office work together on finding and buying unmanned maritime systems, such as robotic boats and underwater vehicles. NOAA must regularly review available systems, both public and commercial, that could support its missions, and it must centralize purchases to meet a ranked list of data needs. NOAA may also work with the Navy, universities, and private companies, and it must send Congress a report on how it uses these systems.",
+  "who_it_affects": [
+   {
+    "group": "NOAA research and marine operations staff",
+    "how": "They must coordinate with each other on assessing and buying unmanned ocean systems and report on how those systems are used."
+   },
+   {
+    "group": "Companies that make unmanned maritime systems",
+    "how": "NOAA must regularly review commercially available systems, which may create chances for these companies to be considered for federal purchases."
+   },
+   {
+    "group": "Universities and other research institutions",
+    "how": "NOAA may coordinate with the academic sector on research opportunities involving unmanned maritime systems."
+   }
+  ],
+  "when_it_takes_effect": "The law took effect when it was enacted on December 21, 2018, though the summary does not list specific deadlines for the report to Congress.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

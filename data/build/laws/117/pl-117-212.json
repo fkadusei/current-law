@@ -36,5 +36,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2022 law directs FEMA to set up a working group on how to protect pets, service animals, and captive animals during disasters.",
+  "what_it_does": "The law requires the Federal Emergency Management Agency (FEMA) to create a working group focused on animals in emergencies and disasters. The group must encourage collaboration among people and organizations that help household pets, service animals, and captive animals before, during, and after disasters. It must also review best practices and federal guidance on sheltering and evacuation planning for these animals.",
+  "who_it_affects": [
+   {
+    "group": "Pet owners",
+    "how": "The working group is expected to review guidance on sheltering and evacuating pets, which may shape future plans that households rely on during disasters."
+   },
+   {
+    "group": "People who use service or assistance animals",
+    "how": "The group must consider the needs of service and assistance animals in emergency planning and review related federal guidance."
+   },
+   {
+    "group": "Owners and keepers of captive animals",
+    "how": "The group must consider captive animals in disaster preparedness, response, and recovery work."
+   },
+   {
+    "group": "Emergency managers and animal welfare organizations",
+    "how": "The law encourages these groups to work together and gives them a federal forum for shared planning on animal needs."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on October 17, 2022, and the official summary does not give a separate effective date or deadline for the working group's work.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

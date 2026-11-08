@@ -1,0 +1,44 @@
+{
+ "headline": "A 2016 law renews federal pipeline safety programs through 2019 and adds new inspection, reporting, storage, and study requirements.",
+ "what_it_does": "The law extends the Department of Transportation's pipeline safety programs through fiscal year 2019 and creates a fee on underground natural gas storage facilities. It requires pipeline operators to do regular integrity checks, report oil spills faster, and consider waterway impacts in their response plans. It also orders many studies and reports, and it sets up a task force to examine the Aliso Canyon natural gas leak.",
+ "who_it_affects": [
+  {
+   "group": "Natural gas and hazardous liquid pipeline operators",
+   "how": "They must run internal integrity inspections at least once every 12 months and complete other risk-based integrity assessments, including for underwater hazardous liquid pipelines in sensitive areas."
+  },
+  {
+   "group": "Operators of underground natural gas storage facilities",
+   "how": "They must pay a new fee that goes into a safety account, and the Department of Transportation must set minimum safety standards for these facilities."
+  },
+  {
+   "group": "Hazardous liquid pipeline operators with response plans",
+   "how": "They must consider the effect of a spill on navigable waters and shorelines, including ice-covered areas, and include response procedures in their plans."
+  },
+  {
+   "group": "Hazardous liquid pipeline operators reporting spills",
+   "how": "They must give safety data sheets for spilled oil to federal on-scene coordinators and state and local emergency responders within six hours of notice to the National Response Center."
+  },
+  {
+   "group": "State pipeline safety agencies and state commissioners",
+   "how": "Two state officials must be on each technical pipeline safety standards committee, and certified state agencies may take part in interstate pipeline inspections if they ask to."
+  },
+  {
+   "group": "People living near pipelines and underground gas storage sites",
+   "how": "The law requires studies and reports on leaks, storage safety, and pipelines near homes, and it creates a task force on the Aliso Canyon leak."
+  },
+  {
+   "group": "Natural gas utility customers and local ratepayers",
+   "how": "The Pipeline and Hazardous Materials Safety Administration must review state policies on repairing leaking gas lines, including how repair costs are recovered from customers."
+  },
+  {
+   "group": "Pipeline Safety Administration staff and applicants",
+   "how": "The Inspector General must review staffing and hiring challenges, and the agency may ask the Office of Personnel Management for special hiring authority."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on June 22, 2016. Most provisions apply on that date or follow deadlines set in the law, and the program authorizations run through fiscal year 2019.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

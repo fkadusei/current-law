@@ -1,0 +1,24 @@
+{
+ "headline": "Congress used a special review process to cancel a 2017 Consumer Financial Protection Bureau rule on arbitration clauses in certain consumer financial contracts.",
+ "what_it_does": "This joint resolution nullifies a rule from the Consumer Financial Protection Bureau that regulated arbitration agreements in contracts for certain consumer financial products and services. The rule would have barred companies from using pre-dispute arbitration agreements to stop consumers from filing or joining class action lawsuits. It would also have required providers to give the CFPB specific information about arbitrations. Because the resolution cancels the rule, those requirements do not take effect.",
+ "who_it_affects": [
+  {
+   "group": "Consumers who hold certain financial products or services covered by arbitration clauses",
+   "how": "They keep the ability to sign contracts with arbitration clauses that may limit their right to join class action lawsuits, since the rule that would have restricted those clauses was canceled."
+  },
+  {
+   "group": "Companies that provide certain consumer financial products and services",
+   "how": "They do not have to change arbitration agreements or send the CFPB the arbitration information the rule would have required."
+  },
+  {
+   "group": "Consumer Financial Protection Bureau",
+   "how": "The agency's arbitration rule is removed, so it cannot be enforced."
+  }
+ ],
+ "when_it_takes_effect": "The resolution took effect when it was signed into law on November 1, 2017, and the CFPB rule it cancels never went into force.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

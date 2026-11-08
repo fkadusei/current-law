@@ -39,5 +39,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2020 law lets a private foundation build a memorial on federal land honoring journalists who died in service to a free press, at no cost to taxpayers.",
+  "what_it_does": "The law authorizes the Fallen Journalists Memorial Foundation to set up a commemorative work on federal land. The work honors journalists who gave their lives while serving a free press. Federal money cannot be used for any part of establishing the memorial. The foundation alone must collect donations and pay all costs.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The summary does not give a separate effective date, so the law took effect when it was enacted on December 23, 2020.",
+  "ceremonial": true,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

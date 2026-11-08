@@ -1,0 +1,28 @@
+{
+ "headline": "This law directs the Department of Homeland Security to create a process for reporting security flaws in its systems and a pilot bug bounty program, and sets new federal rules for managing supply chain risks in buying technology.",
+ "what_it_does": "DHS must publish a policy for anyone to report security weaknesses in its information systems, and it must set up a process for fixing those weaknesses. The law also creates a bug bounty pilot program in which outside individuals and companies are temporarily allowed to find and report flaws in exchange for pay. Separately, it creates a Federal Acquisition Security Council and sets standards that federal agencies must follow to assess and reduce risks when buying certain technology and equipment.",
+ "who_it_affects": [
+  {
+   "group": "Security researchers and other individuals who find software or system flaws",
+   "how": "They may be authorized to search for and report vulnerabilities in DHS systems under the bug bounty pilot and can receive compensation for valid reports."
+  },
+  {
+   "group": "Department of Homeland Security",
+   "how": "DHS must create and publish a vulnerability reporting policy, build a remediation process, and run a bug bounty pilot through its Office of the Chief Information Officer."
+  },
+  {
+   "group": "Federal agencies that buy technology and equipment",
+   "how": "They must assess supply chain risks, use mitigation strategies, and follow exclusion and removal orders when acquiring covered articles."
+  },
+  {
+   "group": "Companies that sell technology or equipment to the federal government",
+   "how": "They may be excluded from or removed from federal purchasing if their products are identified as posing supply chain risks under the new rules."
+  }
+ ],
+ "when_it_takes_effect": "Signed into law on December 21, 2018; the summary does not list other specific effective dates or deadlines for the reporting policy, remediation process, or bug bounty pilot.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

@@ -3541,5 +3541,28 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "This law gives the Interior Secretary permanent authority to let states sell electronic duck stamps, with rules for how states apply and report revenue and customer data.",
+  "what_it_does": "The law makes permanent the Interior Secretary's power to allow any state to issue electronic duck stamps. It sets application requirements that states must meet to join the program. The Secretary decides how many new states may join each year, and each participating state must send its stamp revenue and customer information under a written agreement with the Secretary.",
+  "who_it_affects": [
+   {
+    "group": "State wildlife agencies that want to sell electronic duck stamps",
+    "how": "They can apply to join the program, must meet the application requirements, and must send revenue and customer data under a written agreement with the Interior Secretary."
+   },
+   {
+    "group": "Waterfowl hunters who buy duck stamps",
+    "how": "States in the program can offer duck stamps electronically, and the customer information they collect is passed on under the agreements."
+   },
+   {
+    "group": "Department of the Interior",
+    "how": "The Secretary gets permanent authority to approve states, set the yearly limit on new states, and require data-transfer agreements."
+   }
+  ],
+  "when_it_takes_effect": "Became law on December 18, 2014; the official summary does not list a separate later start date.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

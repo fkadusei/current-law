@@ -42,5 +42,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Extends and updates federal newborn screening programs for inherited disorders through fiscal year 2019, and changes how dried blood spot research is handled.",
+  "what_it_does": "This law renews several federal programs that support screening babies for heritable disorders, which are conditions passed down through genes that can be found soon after birth. It extends grants for screening, counseling, and follow-up services, and it allows funds to help hospitals and labs screen babies faster and train health workers to share results with families. It also keeps an advisory committee, a information clearinghouse, lab quality checks, and a federal coordinating committee in place, and it requires periodic updates to a national screening plan. For research using leftover newborn dried blood spots, federally funded studies must generally get informed consent until the Common Rule is updated, and review boards cannot waive that requirement.",
+  "who_it_affects": [
+   {
+    "group": "Newborns and their families",
+    "how": "Babies continue to be screened for heritable disorders, and families may receive counseling and follow-up services funded under these programs."
+   },
+   {
+    "group": "Hospitals, labs, and health care professionals who screen newborns",
+    "how": "They may receive grant support for faster screening and training on timely testing and sharing results with providers and families, and labs remain subject to CDC quality assurance requirements."
+   },
+   {
+    "group": "Researchers who use newborn dried blood spots",
+    "how": "Federally funded studies using these samples must treat them as human subject research and obtain informed consent until HHS updates the Common Rule."
+   },
+   {
+    "group": "State public health programs",
+    "how": "They can keep receiving federal grant support and information from the national clearinghouse on how many conditions each state screens for."
+   }
+  ],
+  "when_it_takes_effect": "Enacted December 18, 2014; grant and program extensions run through fiscal year 2019, and the Common Rule consent provisions apply until HHS updates the Common Rule, which the law requires within two years of enactment.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

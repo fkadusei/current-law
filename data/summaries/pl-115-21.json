@@ -1,0 +1,20 @@
+{
+ "headline": "Congress used a special review process to cancel a Labor Department rule about how employers must keep records of work-related injuries and illnesses.",
+ "what_it_does": "The Department of Labor had issued a rule in December 2016 clarifying that employers have an ongoing duty to make and keep accurate records of work-related injuries and illnesses. This joint resolution disapproves that rule, which nullifies it so it no longer has legal effect. The official summary does not describe the rule's specific recordkeeping steps in detail.",
+ "who_it_affects": [
+  {
+   "group": "Employers that must record work-related injuries and illnesses",
+   "how": "The December 2016 clarification of their ongoing recordkeeping duty was nullified, so they are not bound by that rule."
+  },
+  {
+   "group": "Workers who are injured or become ill on the job",
+   "how": "Their employers' injury and illness records are governed by the rules that existed before the nullified clarification, rather than by that rule."
+  }
+ ],
+ "when_it_takes_effect": "Enacted April 3, 2017, and the nullification took effect on that date.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

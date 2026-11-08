@@ -42,5 +42,44 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Congress reauthorized and updated the Older Americans Act through fiscal year 2024, changing senior programs covering meals, services, jobs, and elder protection.",
+  "what_it_does": "The law extends the Older Americans Act, which funds social services for people age 60 and older, through fiscal year 2024. It changes grant rules and formulas for state and community aging programs, including nutrition, supportive services, and caregiver support. It adds or revises programs for fall prevention, chronic disease self-management, direct care worker recruitment, Native American elders, and older adults who were recently incarcerated. It also requires reports and evaluations, including one on social isolation.",
+  "who_it_affects": [
+   {
+    "group": "Adults age 60 and older",
+    "how": "They are the people the Older Americans Act serves, and the law keeps and updates services such as meals, support, and health programs for them."
+   },
+   {
+    "group": "Family caregivers of older adults",
+    "how": "The law revises caregiver support grants that help families who care for older relatives."
+   },
+   {
+    "group": "Direct care workers",
+    "how": "A demonstration project is authorized to help recruit and keep workers who provide care to older adults."
+   },
+   {
+    "group": "Older adults recently released from incarceration",
+    "how": "The law names them a priority population for some senior employment and volunteer programs."
+   },
+   {
+    "group": "Tribal communities with older members",
+    "how": "The law reauthorizes programs for tribal elders and creates a competitive grant program for their support services."
+   },
+   {
+    "group": "State and local aging agencies and service providers",
+    "how": "They must follow the revised grant funding formulas, eligibility criteria, and other grant requirements."
+   },
+   {
+    "group": "Residents of long-term care facilities",
+    "how": "The law reauthorizes the long-term care ombudsman program and elder justice programs that protect their rights."
+   }
+  ],
+  "when_it_takes_effect": "Enacted March 25, 2020; the reauthorization runs through fiscal year 2024.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

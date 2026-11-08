@@ -1,0 +1,28 @@
+{
+ "headline": "This law creates a central cybersecurity center inside the Department of Homeland Security to share threat information between the federal government and outside groups.",
+ "what_it_does": "The law sets up the National Cybersecurity and Communications Integration Center within the Department of Homeland Security. The center serves as the main civilian point of contact for sharing information about cyber risks and attacks with both federal agencies and private or other non-federal groups. It also requires reports to Congress on participation, information sharing, privacy safeguards, and the center's effectiveness, and it requires federal agencies to notify Congress within 30 days and affected people as soon as practicable after a data breach, with allowed delays for investigations or security reasons. The law states it does not give the Department new power to set cybersecurity rules for private critical infrastructure.",
+ "who_it_affects": [
+  {
+   "group": "Federal agencies",
+   "how": "They must share cyber threat information through the new center and follow data breach rules that require notifying Congress within 30 days and affected individuals as soon as practicable."
+  },
+  {
+   "group": "People whose personal data is held by federal agencies",
+   "how": "If their data is breached, they must be notified as soon as practicable, though notice may be delayed for law enforcement, national security, or security repair reasons."
+  },
+  {
+   "group": "Owners and operators of critical infrastructure",
+   "how": "They can take part in the center's information sharing and may apply for security clearances through a streamlined process, but they are not required to join or follow the Department's recommendations."
+  },
+  {
+   "group": "Sector coordinating councils and information sharing and analysis organizations",
+   "how": "They gain a role in coordinating with the center and in the security clearance application process."
+  }
+ ],
+ "when_it_takes_effect": "Enacted December 18, 2014; the law's provisions apply from that date, with reporting deadlines set in the text.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

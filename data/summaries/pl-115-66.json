@@ -1,0 +1,28 @@
+{
+ "headline": "This law tells the SEC to create a safe harbor letting brokers publish research on certain investment funds even when they also help sell those funds' registered securities.",
+ "what_it_does": "The law directs the Securities and Exchange Commission to set up a safe harbor, a protected category, for certain investment fund research reports from brokers and dealers. Those reports are treated as not being offers under specified securities rules, even if the broker is also part of a registered offering of the fund. The SEC must stop self-regulatory organizations from enforcing rules that would bar a member from publishing such reports just because it is in the offering, or from joining an offering just because it published a report. The SEC also may not attach certain conditions to the safe harbor, and it generally does not cover reports on business development companies or registered closed-end funds issued during a set time window.",
+ "who_it_affects": [
+  {
+   "group": "Brokers and dealers that publish research on investment funds",
+   "how": "They can publish certain fund research reports without those reports being treated as offers, even when they also take part in a registered offering of that fund."
+  },
+  {
+   "group": "Brokers and dealers that take part in registered fund offerings",
+   "how": "They cannot be barred from an offering simply because they published research on the fund, and the rules they must follow for these reports are limited by the SEC safe harbor."
+  },
+  {
+   "group": "Self-regulatory organizations such as FINRA",
+   "how": "They must not keep or enforce rules that stop their members from publishing covered fund research or joining registered offerings for the reasons described in the law."
+  },
+  {
+   "group": "Investors in business development companies and registered closed-end funds",
+   "how": "Research reports on these types of funds issued during the specified time frame are generally not covered by the safe harbor, so the protection does not apply to them."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

@@ -1,0 +1,24 @@
+{
+ "headline": "This law requires federal rule updates so agencies can better spot and limit conflicts of interest when contractors do government work.",
+ "what_it_does": "The law directs the Federal Acquisition Regulatory Council to revise the Federal Acquisition Regulation, the main rulebook for federal contracts, to define types of organizational conflicts of interest and give examples. It requires new contract provisions that make contractors disclose possible conflicts and can limit their future work tied to those conflicts. Agencies must set up or update their own conflict procedures and review them over time.",
+ "who_it_affects": [
+  {
+   "group": "Federal contractors",
+   "how": "Companies that bid on or hold federal contracts may need to disclose relationships that could create conflicts and may be barred from certain future work."
+  },
+  {
+   "group": "Federal contracting officers",
+   "how": "Officials who award contracts gain updated rules and examples to use when judging conflicts, and may consider an offeror's own conflict-prevention standards."
+  },
+  {
+   "group": "Federal executive agencies",
+   "how": "Agencies must create or update conflict-of-interest procedures and tailor contract terms to their own risks."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

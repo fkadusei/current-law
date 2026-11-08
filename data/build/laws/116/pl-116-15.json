@@ -36,5 +36,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2019 law changes the street address of a Charlottesville, Virginia post office named after Captain Humayun Khan.",
+  "what_it_does": "The law updates the address of the Postal Service facility in Charlottesville, Virginia, that is named in honor of Captain Humayun Khan. The address moves from 180 McCormick Road to 2150 Wise Street. It changes only the address listed for the facility and does not create new rules or benefits.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law took effect when it was enacted on April 16, 2019.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

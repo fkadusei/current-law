@@ -1,0 +1,20 @@
+{
+ "headline": "This law extends, through 2017, the one-year period in which courts and lenders need a court order to foreclose on or seize property owned by service members before their military service.",
+ "what_it_does": "During the extended one-year period after a service member's military service, a court may pause proceedings to enforce an obligation on property the service member owned before that service. Any sale, foreclosure, or seizure of that property is invalid without a court order or a waiver agreement signed by the service member. The law also moves the date for returning to the shorter nine-month period under the Servicemembers Civil Relief Act from January 1, 2016 to January 1, 2018.",
+ "who_it_affects": [
+  {
+   "group": "Active-duty service members and veterans who owned real or personal property before their military service",
+   "how": "Their property is protected from sale, foreclosure, or seizure without a court order or a signed waiver for a longer period, through 2017."
+  },
+  {
+   "group": "Mortgage lenders and other creditors holding obligations on servicemembers' property",
+   "how": "They must get a court order or a signed waiver before foreclosing or seizing property covered by the extended period, and courts may pause enforcement proceedings during it."
+  }
+ ],
+ "when_it_takes_effect": "The nine-month period would be restored on January 1, 2018, instead of January 1, 2016, as the summary describes it.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

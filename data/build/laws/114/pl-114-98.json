@@ -42,5 +42,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law reauthorizes a federal program that gives technical help to small and rural public water systems through 2020.",
+  "what_it_does": "It amends the Safe Drinking Water Act so the EPA can keep funding technical assistance for small public water systems that must follow national drinking water rules. The EPA can give grants or cooperative agreements to nonprofit groups that offer on-site help, circuit-rider programs, regional and multistate help, training, and support for source water protection, monitoring, and water security. The money cannot be used for citizen suits under that Act, and the EPA must prefer groups that are most qualified and that small systems find most helpful.",
+  "who_it_affects": [
+   {
+    "group": "Small public water systems",
+    "how": "They can receive technical help from nonprofit groups funded by the EPA to meet national drinking water rules."
+   },
+   {
+    "group": "Rural and small community residents",
+    "how": "People who get water from small systems may see better technical support for their local water provider, though the law does not guarantee specific results."
+   },
+   {
+    "group": "Nonprofit organizations that provide technical assistance",
+    "how": "They may apply for EPA grants or cooperative agreements, and the EPA must give preference to the most qualified and experienced among them."
+   },
+   {
+    "group": "People who file citizen suits under the Safe Drinking Water Act",
+    "how": "EPA technical assistance funds under this program cannot be used to support those suits."
+   }
+  ],
+  "when_it_takes_effect": "Enacted December 11, 2015; the reauthorized program covers funding through fiscal year 2020.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -3541,5 +3541,28 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "This 2019 law requires federal and D.C. public employees who were furloughed or made to work during a funding lapse to be paid for that time.",
+  "what_it_does": "When federal funding runs out, some government workers are sent home (furloughed) and others must keep working. This law says both groups must be paid for the time the funding lapse lasted. Pay must be issued as soon as possible after the lapse ends, even if that is not a regular payday. Employees who had to work during the lapse may use leave time instead of, or in addition to, working.",
+  "who_it_affects": [
+   {
+    "group": "Federal employees who were furloughed during a lapse in appropriations",
+    "how": "They must be paid for the period they were furloughed, starting with lapses that began on or after December 22, 2018."
+   },
+   {
+    "group": "Federal employees who were required to work during a lapse in appropriations",
+    "how": "They must be paid for the period they worked during the lapse, and they may use leave time during that period."
+   },
+   {
+    "group": "District of Columbia public employees who were furloughed or required to work during a lapse",
+    "how": "The law applies to them the same way it applies to federal employees, with back pay due once the lapse ends."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on January 16, 2019, and covers lapses in appropriations that began on or after December 22, 2018.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

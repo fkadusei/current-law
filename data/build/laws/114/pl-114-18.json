@@ -36,5 +36,36 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2015 law that makes technical fixes to the Workforce Innovation and Opportunity Act, the federal job training law, and sets funding and term rules for a disability advisory council.",
+  "what_it_does": "The law limits which local groups a state can use as an alternative workforce board to those that already existed the day before the Workforce Investment Act of 1998 was enacted. It also makes technical changes to how states and local programs are measured for performance. It requires the Department of Labor to give states funding for adult job training, dislocated worker programs, and statewide workforce activities that is at least 90% of the prior year's amount. It also sets an effective date of July 21, 2014 for certain terms of service for members of the National Council on Disability.",
+  "who_it_affects": [
+   {
+    "group": "State governments that run workforce programs",
+    "how": "They must follow the narrower rules for choosing alternative local workforce boards and the updated performance reporting requirements."
+   },
+   {
+    "group": "Local workforce development boards",
+    "how": "Boards that serve as alternatives to standard local boards must meet the revised eligibility rules tied to 1998 and 2014 dates."
+   },
+   {
+    "group": "Adults seeking job training",
+    "how": "States are guaranteed funding for adult employment and training that is at least 90% of the previous year's allotment."
+   },
+   {
+    "group": "Workers who lost their jobs (dislocated workers)",
+    "how": "States are guaranteed dislocated worker funding that is at least 90% of the previous year's allotment."
+   },
+   {
+    "group": "Members of the National Council on Disability",
+    "how": "Their terms of service are set to take effect as of July 21, 2014."
+   }
+  ],
+  "when_it_takes_effect": "Enacted May 22, 2015; the National Council on Disability term provision is effective as of July 21, 2014.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -1,0 +1,28 @@
+{
+ "headline": "This law changes the rules for forgiving COVID-19 Paycheck Protection Program loans that small businesses received, giving them more time and flexibility.",
+ "what_it_does": "The law changes how forgivable Paycheck Protection Program loans work for small businesses. It lets borrowers spend loan money over a longer period and still qualify for forgiveness, and it raises the share of a loan that can go to non-payroll costs like rent and utilities from 25% to 40%. It also gives employers more time to rehire workers or restore pay levels without losing forgiveness, and sets new repayment rules for loans that are not forgiven, including a five-year minimum term for any remaining balance.",
+ "who_it_affects": [
+  {
+   "group": "Small businesses that received Paycheck Protection Program loans",
+   "how": "They can spend more of their loan on non-payroll costs, have more time to rehire workers or restore wages, and may qualify for more forgiveness."
+  },
+  {
+   "group": "Small businesses that have not yet applied for loan forgiveness",
+   "how": "They get a longer window to apply, and if they do not apply, they have 10 months after the program ends to start making loan payments."
+  },
+  {
+   "group": "Employers who cannot rehire former workers or return to prior business levels due to COVID-19 rules",
+   "how": "Their forgivable loan amount is figured without penalty for lower headcount if they cannot rehire similarly qualified workers or restore activity because of federal COVID-19 requirements."
+  },
+  {
+   "group": "Borrowers whose loans are only partly forgiven",
+   "how": "The leftover balance must be repayable over at least five years."
+  }
+ ],
+ "when_it_takes_effect": "Enacted June 5, 2020; the changes apply to Paycheck Protection Program loans under the program's rules at that time.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

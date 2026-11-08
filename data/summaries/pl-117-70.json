@@ -1,0 +1,36 @@
+{
+ "headline": "A short-term spending bill that keeps federal agencies funded at last year's levels through February 18, 2022, while adding Afghan evacuee aid and extending several expiring programs.",
+ "what_it_does": "This law is a continuing resolution, which keeps the government open when Congress has not finished its annual spending bills. It funds most federal programs at fiscal year 2021 levels until February 18, 2022, or until the full 2022 spending bill is passed, whichever comes first. It also gives extra money to the Departments of Defense, Homeland Security, Health and Human Services, and State to help Afghan evacuees. Finally, it extends several programs that were set to expire, including a fentanyl drug scheduling order, a special victims-assessment fee, Medicaid matching rates for certain territories, and a pay freeze for some senior executive officials.",
+ "who_it_affects": [
+  {
+   "group": "Federal agencies and federal employees",
+   "how": "Agencies can keep operating under last year's funding levels, which avoids a shutdown that would have started when the prior funding expired on December 3, 2021."
+  },
+  {
+   "group": "Afghan evacuees",
+   "how": "Departments of Defense, Homeland Security, Health and Human Services, and State receive added money for services related to people evacuated from Afghanistan."
+  },
+  {
+   "group": "People convicted of certain crimes such as sexual abuse and trafficking",
+   "how": "A special assessment under the Justice for Victims of Trafficking Act of 2015 continues to apply to nonindigent people or entities convicted of these offenses."
+  },
+  {
+   "group": "Territories receiving Medicaid funding",
+   "how": "Certain territories keep their current federal Medicaid matching rate, which would otherwise have changed when the authority expired."
+  },
+  {
+   "group": "Senior executive branch officials and political appointees",
+   "how": "A pay freeze for certain of these officials remains in effect."
+  },
+  {
+   "group": "Drug manufacturers, distributors, and law enforcement",
+   "how": "The temporary Drug Enforcement Administration order keeping fentanyl-related substances in Schedule I of the Controlled Substances Act stays in place."
+  }
+ ],
+ "when_it_takes_effect": "Enacted December 3, 2021; the funding runs through February 18, 2022, or until a full FY2022 appropriations act is enacted.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

@@ -33,5 +33,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Congress asked the Interior Department to allow special NASA and Smithsonian displays on the National Mall and Washington Monument from July 16 to July 20, 2019.",
+  "what_it_does": "This joint resolution is a request, not an order, that the Department of the Interior approve a one-time display of NASA and Smithsonian artifacts, films, audio, and images near the National Mall. The display would include projections onto the Washington Monument over five nights starting July 16, 2019. The resolution commemorates the anniversary of the Apollo 11 Moon landing.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The resolution was enacted on July 5, 2019. The requested displays covered July 16 through July 20, 2019.",
+  "ceremonial": true,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

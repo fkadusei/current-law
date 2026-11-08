@@ -1,0 +1,24 @@
+{
+ "headline": "This law sets congressional goals and management rules for U.S. foreign aid programs that help provide clean water, sanitation, and hygiene abroad.",
+ "what_it_does": "The law expresses Congress's view that clean water and sanitation matter and that the U.S. should lead in helping vulnerable people worldwide get them. It adds safe hygiene to the goals of an existing foreign aid water program. It names the USAID Administrator and the State Department's top official as coordinators for water work, and it requires a government-wide Global Water Strategy to be sent to Congress in 2017, 2022, and 2027. It also requires the President to name at least 10 high priority countries and update that list each year.",
+ "who_it_affects": [
+  {
+   "group": "People in high priority countries who lack safe drinking water or sanitation",
+   "how": "They are the intended recipients of U.S. water, sanitation, and hygiene assistance, which is directed toward countries with the greatest need."
+  },
+  {
+   "group": "USAID and the State Department",
+   "how": "Their officials must take on coordinating roles, oversee water programs, and produce plans and strategy updates on set schedules."
+  },
+  {
+   "group": "Nonprofits and contractors that run foreign aid water projects",
+   "how": "Projects are to be chosen and designed based on the priority-country rules and the strategy, which can shape the work they are funded to do."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on December 19, 2014, and the first high priority country designations were due by October 1, 2015, with strategy reports due in 2017, 2022, and 2027.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

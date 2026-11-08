@@ -39,5 +39,36 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law puts about 32,000 acres of Oregon land into trust for three Oregon tribes and changes how a separate tribal forest is managed.",
+  "what_it_does": "Title I puts 17,519 acres into trust as part of the reservation of the Cow Creek Band of Umpqua Tribe once the Interior Department and the tribe sign an access agreement. Title II puts 14,742 acres into trust as part of the reservation of the Confederated Tribes of Coos, Lower Umpqua, and Siuslaw Indians, also tied to an access agreement that keeps existing federal access and allows land management, surveys, and public vehicle transit. For both areas, federal law covers exporting unprocessed logs and forest management, gaming is banned, and the federal land use planning laws named in the summary do not apply. Title III changes rules for the Coquille Forest, removing the requirement to follow state and federal forestry and environmental laws, requiring competitive bidding for timber sales, and removing a provision that gave a federal court jurisdiction over certain actions about the forest.",
+  "who_it_affects": [
+   {
+    "group": "Cow Creek Band of Umpqua Tribe of Indians",
+    "how": "About 17,519 acres of land are to be held in trust as part of its reservation, once an access agreement with Interior is in place."
+   },
+   {
+    "group": "Confederated Tribes of Coos, Lower Umpqua, and Siuslaw Indians",
+    "how": "About 14,742 acres of land are to be held in trust as part of its reservation, once an access agreement with Interior is in place."
+   },
+   {
+    "group": "Coquille Tribe and people who buy timber from the Coquille Forest",
+    "how": "Timber sales from the forest must be competitively bid, and the forest is no longer required to follow state and federal forestry and environmental protection laws."
+   },
+   {
+    "group": "Timber companies and log exporters",
+    "how": "Federal law governs exports of unprocessed logs harvested from the affected lands."
+   },
+   {
+    "group": "Oregon residents who use nearby public domain land",
+    "how": "Interior must reclassify an equal acreage of public domain land as Oregon and California Railroad grant land to offset the land taken into trust."
+   }
+  ],
+  "when_it_takes_effect": "The land transfers take effect when the required access agreements between Interior and each tribe are reached; the summary does not give a fixed date. The Coquille Forest changes took effect on enactment, January 8, 2018.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

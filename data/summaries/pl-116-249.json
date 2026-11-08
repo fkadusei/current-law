@@ -1,0 +1,24 @@
+{
+ "headline": "A 2020 federal law raises the maximum prison term for stalking a minor and requires a Justice Department report on stalking enforcement.",
+ "what_it_does": "The law increases the longest possible prison sentence for stalking when the victim is under 18 years old. It also requires the Department of Justice to report on best practices for enforcing stalking laws. The summary does not give the new maximum length or the report deadline.",
+ "who_it_affects": [
+  {
+   "group": "People who stalk minors",
+   "how": "Anyone convicted of stalking a person under 18 can now face a longer maximum prison term than before."
+  },
+  {
+   "group": "Children and teens",
+   "how": "Minors who are stalked are covered by a law that carries a stiffer maximum penalty for offenders."
+  },
+  {
+   "group": "Department of Justice and federal prosecutors",
+   "how": "The Department must prepare a report on best practices for enforcing stalking laws."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on December 22, 2020. The summary does not state a separate effective date.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

@@ -1,0 +1,24 @@
+{
+ "headline": "This law says certain payments Minnesota makes to Grand Portage Band members are not counted as income for federal or state income taxes and are generally not used to cut their federal benefits.",
+ "what_it_does": "The law excludes certain funds that Minnesota pays to members of the Grand Portage Band of Lake Superior Chippewa Indians from federal and state income taxes. These payments come from agreements in which the Band agreed to voluntarily limit its tribal hunting and fishing rights in land ceded under an 1854 treaty. The law also bars using these payments to deny or reduce a member's Social Security benefits, and, except for amounts above $2,000, to deny or reduce benefits under other federal or federally assisted programs.",
+ "who_it_affects": [
+  {
+   "group": "Members of the Grand Portage Band of Lake Superior Chippewa Indians",
+   "how": "Certain Minnesota payments they receive under the Band's hunting and fishing agreements are not treated as taxable income and generally cannot be used to reduce their federal benefits."
+  },
+  {
+   "group": "Federal and Minnesota tax agencies",
+   "how": "They must not count these specific payments as income when calculating income taxes."
+  },
+  {
+   "group": "Federal benefit agencies, including Social Security",
+   "how": "They cannot use these specific payments to deny or lower benefits, except that for other federal programs, amounts over $2,000 are not protected."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

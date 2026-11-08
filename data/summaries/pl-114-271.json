@@ -1,0 +1,28 @@
+{
+ "headline": "A 2016 law that removes a rule tying funding for the National Human Trafficking Hotline to Justice Department victim services money.",
+ "what_it_does": "The law changes the Victims of Trafficking and Violence Protection Act of 2000. That act said grants for the National Human Trafficking Hotline, run through the Department of Health and Human Services, had to be paid from money the Department of Justice set aside for trafficking victim services grants. This law deletes that funding requirement. The bill's title says its purpose is to ensure funding for the hotline.",
+ "who_it_affects": [
+  {
+   "group": "Operators of the National Human Trafficking Hotline",
+   "how": "Their grants from the Department of Health and Human Services no longer have to come from Department of Justice trafficking victim services funds."
+  },
+  {
+   "group": "Department of Health and Human Services",
+   "how": "It no longer has to draw hotline grant money from Department of Justice trafficking victim services funds."
+  },
+  {
+   "group": "Department of Justice",
+   "how": "Its trafficking victim services grant money is no longer named as the required source for hotline grants."
+  },
+  {
+   "group": "People who contact the hotline for help with trafficking",
+   "how": "The law does not change how the hotline works for callers, but its funding source is different under the new rule."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

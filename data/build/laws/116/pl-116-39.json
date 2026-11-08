@@ -3531,5 +3531,40 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2019 law temporarily extends several Medicaid and health programs and sets a Medicare payment rule for certain new drugs.",
+  "what_it_does": "The law extends a Medicaid demonstration program for certified community behavioral health clinics and extends Medicaid spousal protections for people receiving home- and community-based services. It adds fiscal year 2019 funding for the Money Follows the Person program, which helps states shift long-term care from institutions toward home and community settings. It also extends the Family-to-Family Health Information Centers program, which funds family-run groups that support families of children with special health care needs. Finally, it gives statutory authority to a Medicare payment method for new drugs and biologics that adds up to 3% to a wholesale acquisition cost-based payment when average sales price is unavailable.",
+  "who_it_affects": [
+   {
+    "group": "Community behavioral health clinics",
+    "how": "They can keep participating in the certified clinic Medicaid demonstration program for a temporary period set by the law."
+   },
+   {
+    "group": "Medicaid recipients receiving home- and community-based services",
+    "how": "Spousal impoverishment protections that limit how a spouse's income and assets are counted are extended temporarily."
+   },
+   {
+    "group": "State Medicaid programs",
+    "how": "They receive additional fiscal year 2019 funding and grant opportunities under the Money Follows the Person program."
+   },
+   {
+    "group": "Families of children with special health care needs",
+    "how": "The Family-to-Family Health Information Centers program continues to offer information and peer support through family-run groups."
+   },
+   {
+    "group": "Family-run organizations",
+    "how": "They remain eligible for federal grants under the Family-to-Family Health Information Centers program for a temporary period."
+   },
+   {
+    "group": "Medicare providers that furnish new drugs or biologics",
+    "how": "They can receive a payment add-on of up to 3% over wholesale acquisition cost when average sales price data is unavailable, for drugs furnished on or after January 1, 2019."
+   }
+  ],
+  "when_it_takes_effect": "Provisions generally took effect upon enactment on August 6, 2019, with some changes applying retroactively to January 1, 2019; the extension periods are temporary and set by the bill's text.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

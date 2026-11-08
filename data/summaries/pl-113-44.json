@@ -1,0 +1,28 @@
+{
+ "headline": "This 2013 law keeps Defense Department survivor death benefits and funeral payments going at 2013 funding levels while full-year 2014 funding was not yet passed.",
+ "what_it_does": "It provides money for death gratuities paid to survivors of deceased military members, plus funeral and burial expenses. It also covers authorized travel for funerals, dignified transfers of remains, and unit memorial services. It temporarily continues housing allowance payments for certain dependents of members who die on active duty.",
+ "who_it_affects": [
+  {
+   "group": "Survivors of military service members who die on active duty or during inactive duty training",
+   "how": "They can receive death gratuity payments at the rates set under the 2013 Defense appropriations framework."
+  },
+  {
+   "group": "Families arranging funerals and burials for service members",
+   "how": "Their funeral and burial costs are covered under the Defense Department's continued funding."
+  },
+  {
+   "group": "Family members traveling for funerals or dignified transfers of remains",
+   "how": "Their authorized travel costs are covered during the funding period."
+  },
+  {
+   "group": "Certain dependents of service members who die on active duty",
+   "how": "They keep receiving a basic allowance for housing for a temporary period."
+  }
+ ],
+ "when_it_takes_effect": "Took effect on enactment, October 10, 2013. The funding remains available until the earliest of three events: enactment of a full-year 2014 appropriation for the activity, enactment of the 2014 Defense appropriations act without that activity, or December 15, 2013.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

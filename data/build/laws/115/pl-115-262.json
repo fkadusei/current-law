@@ -36,5 +36,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2018 law bars Medicare prescription drug plans and Medicare Advantage plans from stopping pharmacists from telling patients when a cash price is lower than their insurance copay.",
+  "what_it_does": "The law prohibits Medicare Part D prescription drug plans and Medicare Advantage plans from restricting pharmacies from telling enrollees about price differences. Pharmacies can tell a patient when paying the drug without insurance would cost less than the plan's copayment or coinsurance. Contract terms that block this kind of information are often called gag clauses, and this law outlaws them for these plans.",
+  "who_it_affects": [
+   {
+    "group": "Medicare enrollees with prescription drug coverage",
+    "how": "They can learn from their pharmacy when paying the full price without insurance would cost less than their plan's copay or coinsurance."
+   },
+   {
+    "group": "Pharmacies that fill prescriptions for Medicare patients",
+    "how": "They are allowed to tell patients about lower cash prices instead of being restricted by their contracts with these plans."
+   },
+   {
+    "group": "Medicare Part D and Medicare Advantage plan sponsors",
+    "how": "They may no longer include contract terms that prevent pharmacies from sharing lower-price information with enrollees."
+   }
+  ],
+  "when_it_takes_effect": "The summary does not give a specific effective date, so check with the Centers for Medicare & Medicaid Services for the implementation date.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

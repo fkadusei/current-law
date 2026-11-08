@@ -1,0 +1,24 @@
+{
+ "headline": "This law extends federal funding through 2018 for children's hospitals that run approved medical residency training programs.",
+ "what_it_does": "It amends the Public Health Service Act to keep federal payments flowing to children's hospitals that train doctors in graduate medical residency programs, with authorized funding through fiscal year 2018. It lets the Secretary of Health and Human Services direct up to 25 percent of certain extra amounts to qualifying children's hospitals. It also allows HHS to create a quality bonus system that could reward things like quality measurement, communication skills, patient-centered care, and work in integrated health systems.",
+ "who_it_affects": [
+  {
+   "group": "Children's hospitals that run graduate medical residency training programs",
+   "how": "They remain eligible for federal payments that help cover the cost of training new doctors through fiscal year 2018."
+  },
+  {
+   "group": "Hospitals excluded from Medicare's inpatient prospective payment system whose patients are mostly under 18",
+   "how": "They may receive a share of additional funds and could qualify for quality bonus payments if HHS sets up that system."
+  },
+  {
+   "group": "Medical residents training at children's hospitals",
+   "how": "Their training programs continue to receive federal support through the extended funding period."
+  }
+ ],
+ "when_it_takes_effect": "Enacted April 7, 2014, with authorized funding running through fiscal year 2018.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

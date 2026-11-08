@@ -33,5 +33,24 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Extends federal grant authority for state offices that work to improve health care in rural areas through fiscal year 2027.",
+  "what_it_does": "This law renews the federal grant program for State Offices of Rural Health. These state offices work on improving health care for people in rural areas. The act extends the authority to award these grants through fiscal year 2027. The summary provided does not describe specific funding amounts or new program rules.",
+  "who_it_affects": [
+   {
+    "group": "State offices of rural health",
+    "how": "They can continue to receive federal grants for rural health work through fiscal year 2027."
+   },
+   {
+    "group": "People living in rural areas",
+    "how": "Federal support for state-level rural health efforts continues through fiscal year 2027."
+   }
+  ],
+  "when_it_takes_effect": "Enacted January 5, 2023, with grant authority running through fiscal year 2027.",
+  "ceremonial": false,
+  "confidence": "low",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

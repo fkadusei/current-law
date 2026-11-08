@@ -42,5 +42,24 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law gave federal whistleblowers and the government more time, from two to five years, to seek review of certain Merit Systems Protection Board whistleblower decisions.",
+  "what_it_does": "It changes the deadline for two steps in whistleblower cases decided by the Merit Systems Protection Board (MSPB). Under the law, a person can file a petition for court review of an MSPB decision within five years, instead of two, counting from December 27, 2012, the date the Whistleblower Protection Enhancement Act of 2012 took effect. The same longer window applies to any review of those decisions by the Director of the Office of Personnel Management (OPM).",
+  "who_it_affects": [
+   {
+    "group": "Federal employees and applicants who file whistleblower retaliation complaints",
+    "how": "They have a longer period to ask a federal court to review an MSPB decision in their case."
+   },
+   {
+    "group": "Federal agencies and the Office of Personnel Management",
+    "how": "They have a longer period to seek review of MSPB whistleblower decisions through the OPM Director."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on September 26, 2014, and its extended deadline runs through December 27, 2017.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

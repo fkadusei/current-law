@@ -36,5 +36,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law creates special pension funding rules for certain defined benefit pension plans run by charities and cooperatives that pool several employers together.",
+  "what_it_does": "The law defines a new category called cooperative and small employer charity pension plans, or CSEC plans, covering defined benefit plans that meet certain Pension Protection Act tests or that were maintained by multiple tax-exempt charities as of June 25, 2010. It sets minimum funding standards, lets the Treasury Secretary extend the time to pay off unfunded liabilities by up to 10 years in certain cases, and requires a written funding restoration plan when a plan is in funding restoration status. It also adds notice and reporting requirements, including a list of participating employers and their approximate share of contributions, and makes the Participant and Plan Sponsor Advocate available to help these plans. Matching changes are made to the Internal Revenue Code.",
+  "who_it_affects": [
+   {
+    "group": "Cooperative associations and tax-exempt charities that sponsor multiple employer defined benefit pension plans",
+    "how": "They get different funding rules, including the option to extend amortization of unfunded liabilities and a choice to stop treating the plan as a CSEC plan starting in 2014."
+   },
+   {
+    "group": "Employees and retirees in covered CSEC pension plans",
+    "how": "They receive notices explaining that different rules apply, that contributions may have changed for a period, and that the plan is in funding restoration status when applicable."
+   },
+   {
+    "group": "Plan participants and beneficiaries",
+    "how": "The Treasury Secretary must find that any extension protects participants before approving it, and plans must report the employers participating in the plan and their estimated contribution shares."
+   }
+  ],
+  "when_it_takes_effect": "Generally applies to plan years beginning after December 31, 2013.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

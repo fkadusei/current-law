@@ -36,5 +36,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This 2018 law extends the U.S. Parole Commission for two years and changes the certification rules for people who audit prisons under the Prison Rape Elimination Act.",
+  "what_it_does": "The law keeps the U.S. Parole Commission operating for two more years and keeps its duty to report data to Congress on each type of case it handles. It also changes the certification requirements for auditors who check whether prisons follow the national standards under the Prison Rape Elimination Act of 2003. The official summary does not give further detail on the specific certification changes.",
+  "who_it_affects": [
+   {
+    "group": "People under the jurisdiction of the U.S. Parole Commission",
+    "how": "The Commission's authority to make parole decisions for these people continues for two additional years."
+   },
+   {
+    "group": "Members of Congress and congressional committees",
+    "how": "They continue to receive data from the Parole Commission on each type of case under its jurisdiction."
+   },
+   {
+    "group": "Prison rape compliance auditors",
+    "how": "The certification requirements they must meet to audit prisons for compliance with national prison rape standards are changed."
+   },
+   {
+    "group": "Federal and state prisons subject to national prison rape standards",
+    "how": "Their compliance with those standards will be checked by auditors who meet the revised certification rules."
+   }
+  ],
+  "when_it_takes_effect": "The summary does not list separate effective dates, so the law appears to take effect on enactment, October 31, 2018.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -1,0 +1,24 @@
+{
+ "headline": "This 2019 law requires State Department training for diplomats in countries facing mass atrocities and yearly reports to Congress on U.S. prevention efforts.",
+ "what_it_does": "The law directs the Department of State to give extra training to Foreign Service Officers assigned to countries that are experiencing, or are at risk of, mass atrocities such as genocide or war crimes. The training must teach officers to spot patterns of escalation, recognize early warning signs, and learn ways to prevent and respond to atrocities. The President must also report to Congress each year on U.S. efforts to prevent mass atrocities, including current activities, funding spent, recommendations for improvement, and progress on the prior year's recommendations.",
+ "who_it_affects": [
+  {
+   "group": "Foreign Service Officers assigned to countries at risk of or experiencing mass atrocities",
+   "how": "They must receive additional training on recognizing early warning signs and on ways to prevent and respond to atrocities."
+  },
+  {
+   "group": "Department of State",
+   "how": "It must provide the required training and help prepare the President's annual report."
+  },
+  {
+   "group": "Congress",
+   "how": "Members receive a yearly report on U.S. mass atrocity prevention activities, funding, and recommendations."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on January 14, 2019, and the training and reporting requirements apply from that date, though the summary does not give specific deadlines.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

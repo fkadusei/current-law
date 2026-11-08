@@ -3514,5 +3514,32 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "This law raises to $1 million the cost limit for disaster recovery projects that can use simplified FEMA procedures, and requires periodic review and an audit.",
+  "what_it_does": "The law raises the dollar threshold for what counts as a small project under the Stafford Act, the main federal disaster relief law. Projects under the new $1 million limit can move forward under simplified procedures. The threshold must be reviewed every three years. The Department of Homeland Security Inspector General must audit whether the change has led to waste or abuse and report the findings to Congress.",
+  "who_it_affects": [
+   {
+    "group": "State and local governments that apply for FEMA disaster recovery funds",
+    "how": "More of their recovery projects can qualify for the simplified process because the small project limit is now $1 million."
+   },
+   {
+    "group": "Communities recovering from declared disasters",
+    "how": "Repairs and rebuilding projects in these areas may move through the approval process faster if they fall under the new limit."
+   },
+   {
+    "group": "Federal Emergency Management Agency (FEMA)",
+    "how": "The agency must review the threshold every three years under the law."
+   },
+   {
+    "group": "Department of Homeland Security Inspector General",
+    "how": "The office must audit whether the higher threshold has led to waste or abuse and report to Congress."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on October 10, 2022. The official summary does not state a separate effective date.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

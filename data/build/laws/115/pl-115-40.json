@@ -3514,5 +3514,24 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2017 law that extends existing protections for workers who refuse orders to break the law, so they also cover refusing orders that would break a rule or regulation.",
+  "what_it_does": "Under this law, a person cannot take, threaten, or fail to take a personnel action against an employee or job applicant for refusing an order that would violate a rule or regulation. Before this law, the same protection covered only refusing orders that would violate a law. The summary does not say which employers or workplaces the change covers.",
+  "who_it_affects": [
+   {
+    "group": "Employees who are ordered to do something that would break a rule or regulation",
+    "how": "They gain protection from personnel actions, such as firing or demotion, for refusing such an order."
+   },
+   {
+    "group": "Job applicants who might be asked to violate a rule or regulation",
+    "how": "The same protection applies to applicants, so they cannot be penalized in hiring for refusing such an order."
+   }
+  ],
+  "when_it_takes_effect": "The summary does not give a separate effective date. The law was enacted on June 14, 2017.",
+  "ceremonial": false,
+  "confidence": "low",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

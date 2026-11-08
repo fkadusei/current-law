@@ -36,5 +36,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Names a post office building in Westmont, Illinois after James William Robinson Jr.",
+  "what_it_does": "This law renames the U.S. Postal Service facility at 5707 South Cass Avenue in Westmont, Illinois. The building is now called the James William Robinson Jr. Memorial Post Office Building. It is a ceremonial naming and does not change how the post office operates.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law was enacted on December 21, 2018.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

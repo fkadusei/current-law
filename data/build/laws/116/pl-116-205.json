@@ -3506,5 +3506,28 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2020 law requires federal agencies to give a free lifetime National Parks and Federal Recreational Lands Pass to certain disabled Americans and to veterans with service-connected disabilities.",
+  "what_it_does": "The law tells the Department of the Interior and the Department of Agriculture to make the National Parks and Federal Recreational Lands Pass available at no charge for the holder's lifetime. Eligible people include U.S. citizens or U.S. residents who have been medically determined to be permanently disabled. Veterans who have been found to have a service-connected disability are also eligible. Applicants must provide adequate proof of their disability and of their citizenship or residency.",
+  "who_it_affects": [
+   {
+    "group": "Veterans with a service-connected disability",
+    "how": "They can receive a free lifetime federal recreation pass after showing they have a service-connected disability."
+   },
+   {
+    "group": "Permanently disabled U.S. citizens and U.S. residents",
+    "how": "They can receive a free lifetime federal recreation pass after medical proof of permanent disability and proof of citizenship or residency."
+   },
+   {
+    "group": "National Park Service, Forest Service, and other federal recreation sites",
+    "how": "The agencies must make the lifetime pass available to eligible people without charge."
+   }
+  ],
+  "when_it_takes_effect": "The summary does not give a separate effective date. The law was enacted on December 3, 2020.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

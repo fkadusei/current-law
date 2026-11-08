@@ -36,5 +36,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2014 federal law that directs NIST, NSF, and other agencies to expand voluntary cybersecurity standards, research, education, and workforce programs.",
+  "what_it_does": "The law mostly tells federal agencies to do more cybersecurity work rather than setting binding rules for private companies. NIST may help industry build voluntary, cost-effective standards to reduce cyber risks to critical infrastructure, and information given to NIST for that purpose cannot be used by government agencies to regulate the entity that gave it. The law also orders agencies to write cybersecurity research plans, expands National Science Foundation grants and scholarships, and asks NIST to run public awareness and international standards coordination efforts.",
+  "who_it_affects": [
+   {
+    "group": "Owners and operators of critical infrastructure",
+    "how": "They may voluntarily adopt the prioritized, flexible cybersecurity framework that NIST helps develop, but the law does not require them to use it."
+   },
+   {
+    "group": "Students in cybersecurity programs",
+    "how": "The National Science Foundation's Federal Cyber Scholarship-for-Service program continues, and recipients must work in a government cybersecurity role for as long as their scholarship lasted, with scholarships capped at three years."
+   },
+   {
+    "group": "Small and medium-sized businesses",
+    "how": "NIST must share cybersecurity best practices and standards that these businesses can use through its national awareness and education program."
+   },
+   {
+    "group": "Federal cybersecurity workers",
+    "how": "Agencies may hire winners of federal cybersecurity competitions for internships or other work experience through the Office of Personnel Management."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on December 18, 2014, and its provisions take effect on that date unless a section sets a different timeline, such as the periodic reporting and plan update schedules.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

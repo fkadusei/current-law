@@ -3515,5 +3515,28 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "Congress reorganized existing National Park Service laws into one numbered section of the U.S. Code, Title 54, and made related cleanup changes.",
+  "what_it_does": "The law moves existing federal laws about national parks and related programs into a single new title of the U.S. Code, called Title 54, with the title named \"National Park Service and Related Programs.\" It makes conforming changes so other laws still line up with the new structure. It also repeals some older provisions that the new title replaces. The official summary describes the measure as a codification, which means it restates existing law in a clearer form rather than summarizing new policies.",
+  "who_it_affects": [
+   {
+    "group": "National Park Service staff and officials",
+    "how": "They will find the laws that govern their agency organized in Title 54 instead of scattered older statutes."
+   },
+   {
+    "group": "Visitors to national parks and other units of the National Park Service",
+    "how": "The summary does not describe changes to fees, rules, or access, so the law's direct effect on visitors appears limited to the reorganization itself."
+   },
+   {
+    "group": "Lawyers, researchers, and the public who read the U.S. Code",
+    "how": "Park-related laws are now grouped under one title, which makes them easier to locate and cite."
+   }
+  ],
+  "when_it_takes_effect": "Signed into law on December 19, 2014. The official summary does not describe a separate later effective date.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

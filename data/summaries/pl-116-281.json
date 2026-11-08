@@ -1,0 +1,32 @@
+{
+ "headline": "A 2020 law lets the Justice Department give grants for mental health and substance use care for people leaving jails and prisons.",
+ "what_it_does": "The law authorizes the Department of Justice to award grants. The grants can pay for clinical services for people with serious mental illness or substance use disorders who need mental health care after release from a correctional facility. Eligible grant recipients include states, Native American tribes, local governments, and community-based nonprofit organizations.",
+ "who_it_affects": [
+  {
+   "group": "People with serious mental illness or substance use disorders who are released from jails or prisons",
+   "how": "They may be able to get clinical services after release if a funded program serves them."
+  },
+  {
+   "group": "State governments",
+   "how": "They can apply for Justice Department grants to provide these post-release clinical services."
+  },
+  {
+   "group": "Native American tribes",
+   "how": "Tribes can apply for the same grants to provide post-release clinical services."
+  },
+  {
+   "group": "Local governments",
+   "how": "Cities and counties can apply for grants to provide post-release clinical services."
+  },
+  {
+   "group": "Community-based nonprofit organizations",
+   "how": "Eligible nonprofits can apply for grants to deliver these services."
+  }
+ ],
+ "when_it_takes_effect": "The law became effective when it was enacted on December 31, 2020. The summary does not list any other start dates or deadlines.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

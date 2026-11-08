@@ -3509,5 +3509,28 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "Congress directs FEMA to report on its plans for clearer guidance, record keeping, and easier paperwork for disaster aid applicants.",
+  "what_it_does": "This law requires the Federal Emergency Management Agency (FEMA) to send Congress a report about how it plans to help people and groups applying for disaster money. The report must cover consistent guidance on FEMA funding rules during an emergency, keeping and passing along records when staff change, and easing the paperwork burden for those getting and tracking aid. It must also include a plan for record-keeping procedures and identify new technologies that could help FEMA staff inform applicants about the status of their applications and projects. The law itself does not change any benefit, payment, or rule for applicants.",
+  "who_it_affects": [
+   {
+    "group": "State, local, and tribal governments applying for disaster assistance",
+    "how": "They are the intended audience for the planned clearer guidance and easier application tracking, but the law does not itself change how they apply."
+   },
+   {
+    "group": "Private nonprofit organizations applying for disaster assistance",
+    "how": "The report is meant to cover support for nonprofits that apply for and manage FEMA grants, but the law does not itself change their obligations."
+   },
+   {
+    "group": "FEMA staff and the disaster workforce",
+    "how": "They must prepare the report, including plans for record-keeping and new technology."
+   }
+  ],
+  "when_it_takes_effect": "The law took effect on enactment, October 18, 2017, and requires FEMA to submit the report to Congress; no specific report deadline is stated in the summary.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

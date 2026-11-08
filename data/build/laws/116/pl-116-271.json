@@ -42,5 +42,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law extends and updates the federal ocean and coastal observing network and gives NOAA new duties on storm modeling and water forecasting.",
+  "what_it_does": "The law reauthorizes the Integrated Coastal and Ocean Observation System through fiscal year 2025, a network of federal and regional groups that gather information about coasts, oceans, and the Great Lakes. It requires NOAA to seek public input before a Named Storm Event Model takes effect, which is the computer model used to assess storm winds, rain, and surges. It also lets NOAA place sensors in coastal states at the highest risk of geophysical events, and it gives NOAA's National Water Center a statutory basis. Finally, it directs the National Weather Service to lead water prediction research and make the National Water Center's policy directive public.",
+  "who_it_affects": [
+   {
+    "group": "Coastal state residents in high-risk areas",
+    "how": "NOAA may place monitoring sensors in their areas that face the greatest risk of geophysical events such as tsunamis or similar hazards."
+   },
+   {
+    "group": "Coastal communities and emergency managers",
+    "how": "They may receive storm assessment information shaped by a model that NOAA must open to public input before it takes effect."
+   },
+   {
+    "group": "Water resource managers and state and local water agencies",
+    "how": "The National Weather Service must coordinate with them on total water prediction and related forecasting tools."
+   },
+   {
+    "group": "Fishers, shippers, and other ocean users",
+    "how": "The observing network is reauthorized, so the ocean and coastal data they rely on is set to continue through fiscal year 2025."
+   }
+  ],
+  "when_it_takes_effect": "Enacted December 31, 2020; the observing network authorization runs through fiscal year 2025.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

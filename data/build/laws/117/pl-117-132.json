@@ -3492,5 +3492,15 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "This 2022 law directs the award of one Congressional Gold Medal to the U.S. Army Rangers Veterans of World War II.",
+  "what_it_does": "The law provides for a single Congressional Gold Medal to be awarded to the U.S. Army Rangers who served in World War II. It recognizes their service during that war. The official summary does not describe any money, benefits, or new rules for individuals.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law was enacted on June 7, 2022. The summary does not give a separate effective date.",
+  "ceremonial": true,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

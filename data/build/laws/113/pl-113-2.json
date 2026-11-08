@@ -4360,5 +4360,40 @@
   "House": "R",
   "Senate": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "Public Law 113-2 provides about $50 billion in supplemental federal funding for recovery from Hurricane Sandy and changes how FEMA and other agencies handle disaster aid.",
+  "what_it_does": "The law adds emergency spending for FY2013 across many federal agencies, including the Corps of Engineers, FEMA, the Small Business Administration, HUD, and the Department of Transportation, to respond to Hurricane Sandy's damage. Division B, the Sandy Recovery Improvement Act of 2013, changes Stafford Act rules so FEMA can use alternative procedures for public assistance, such as fixed cost estimates, faster debris removal payments, and more flexible use of leftover funds. It also lets the President lease or repair apartment buildings for temporary housing, allows tribal governments to request disaster declarations directly, and sets a shorter review path for environmental and historic reviews.",
+  "who_it_affects": [
+   {
+    "group": "Residents and businesses in Hurricane Sandy-affected areas",
+    "how": "They may receive federal disaster funds, small business recovery counseling, and disaster loans through the appropriations and programs the law funds."
+   },
+   {
+    "group": "State, tribal, and local governments",
+    "how": "They can seek FEMA public assistance under the new alternative procedures, including fixed estimates and in-lieu payments, and may request child care aid or reimbursement for emergency staff costs."
+   },
+   {
+    "group": "Indian tribal governments",
+    "how": "They can submit requests for major disaster or emergency declarations directly to the President."
+   },
+   {
+    "group": "Public housing agencies and voucher holders in declared disaster areas",
+    "how": "HUD may temporarily adjust section 8 voucher renewal funding and administrative fee rules on request to avoid major funding losses."
+   },
+   {
+    "group": "Veterans",
+    "how": "The Veterans Health Administration, National Cemetery Administration, and VA information technology and construction projects receive supplemental funds."
+   },
+   {
+    "group": "Federal agencies and grant recipients",
+    "how": "Agencies must submit internal control plans, and DOT and HUD must notify Congress's appropriations committees at least 3 business days before selecting grant awards of $1 million or more."
+   }
+  ],
+  "when_it_takes_effect": "Enacted January 29, 2013; the funding and procedural changes apply from that date, with some reporting and plan deadlines set later in 2013 and beyond.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

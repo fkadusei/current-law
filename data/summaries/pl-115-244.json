@@ -1,0 +1,36 @@
+{
+ "headline": "This 2018 law provides money for fiscal year 2019 to Congress, the Energy and Water agencies, and military construction and Veterans Affairs programs.",
+ "what_it_does": "Public Law 115-244 combines three of the twelve regular FY2019 spending bills into one law. It sets funding levels and rules for the Army Corps of Engineers, the Bureau of Reclamation, the Department of Energy, the Legislative Branch, Defense Department construction, and the Department of Veterans Affairs. It also includes many limits on how the money may be spent, such as notice requirements to Congress and restrictions on certain contracts and purchases.",
+ "who_it_affects": [
+  {
+   "group": "Veterans enrolled in VA health care or benefits programs",
+   "how": "The law funds VA health care, disability and pension benefits, and cemeteries, and it sets rules such as quarterly reporting and limits on certain VA reorganizations."
+  },
+  {
+   "group": "Military families and service members living on bases",
+   "how": "The law funds military housing and base construction and limits some actions, such as moving units or building new bases without advance notice to Congress."
+  },
+  {
+   "group": "Farmers and landowners near waterways and wetlands",
+   "how": "The law bars Corps of Engineers funds from being used to require Clean Water Act permits for certain agricultural discharges of dredged or fill material."
+  },
+  {
+   "group": "Federal contractors and companies that bid on government work",
+   "how": "The law sets conditions such as E-Verify compliance, U.S.-made steel and buoy chain requirements, and limits on certain foreign contracts."
+  },
+  {
+   "group": "Members of Congress and their staff",
+   "how": "The law sets congressional office funding rules, including a ban on COLAs for Members in FY2019 and limits on printed copies and vehicle leases."
+  },
+  {
+   "group": "Residents of communities served by Corps of Engineers, Reclamation, and Energy Department projects",
+   "how": "The law funds flood control, navigation, water supply, and energy programs, and it adds conditions for some of those projects."
+  }
+ ],
+ "when_it_takes_effect": "Enacted September 21, 2018, and the funding generally applies to fiscal year 2019, which runs from October 1, 2018 through September 30, 2019, with some provisions lasting longer.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

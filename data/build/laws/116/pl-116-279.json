@@ -42,5 +42,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Creates a federal task force to help states run criminal background checks on childcare staff, including checks across state lines.",
+  "what_it_does": "The law sets up an interagency task force led by the Administration for Children and Families, which is part of the Department of Health and Human Services. The task force must consult with state agencies and develop recommendations and best practices for background checks on childcare staff. It must also review how states respond to requests for information about workers who lived in another state within the past five years. The task force must deliver a final report within one year of its first meeting.",
+  "who_it_affects": [
+   {
+    "group": "Childcare workers and job applicants",
+    "how": "Staff and people applying for childcare jobs may see future changes in how their criminal background checks are run, especially for checks that cover time spent in another state."
+   },
+   {
+    "group": "State childcare and background check agencies",
+    "how": "State agencies are consulted by the task force and may later receive recommendations on how to handle background check requests."
+   },
+   {
+    "group": "Childcare centers and family childcare providers",
+    "how": "Providers may eventually see new guidance on background checks for their staff, though the law itself does not require them to change anything right away."
+   },
+   {
+    "group": "Parents using childcare",
+    "how": "The law aims to support background checks on childcare staff, but it does not directly change any service or rule that parents must follow."
+   }
+  ],
+  "when_it_takes_effect": "Enacted December 31, 2020; the task force's final report is due within one year of its first meeting.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -4342,5 +4342,52 @@
   "House": "D",
   "Senate": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2020 federal law that responded to COVID-19 by adding paid sick and family leave, free testing coverage, food aid, unemployment support, and extra Medicaid funding.",
+  "what_it_does": "The law creates temporary paid sick leave for workers affected by COVID-19 and expands paid family leave for parents whose children's schools or child care are closed. It requires most health insurance, Medicare, Medicaid, and military and VA health plans to cover COVID-19 testing without cost-sharing. It expands food aid such as SNAP and WIC, adds emergency unemployment grants, and raises the federal share of some unemployment payments. Employers get payroll tax credits to offset the leave they pay, and self-employed people get refundable tax credits.",
+  "who_it_affects": [
+   {
+    "group": "Employees of employers with fewer than 500 workers",
+    "how": "They can get up to 80 hours of paid sick time for COVID-19-related reasons and up to 12 weeks of partly paid family leave to care for a child whose school or child care is closed."
+   },
+   {
+    "group": "Small employers with fewer than 500 workers",
+    "how": "They must provide the required paid sick and family leave, but they receive payroll tax credits to cover the wages paid."
+   },
+   {
+    "group": "Self-employed individuals",
+    "how": "They can claim refundable tax credits for sick leave or family leave amounts they would otherwise have received, with IRS documentation required."
+   },
+   {
+    "group": "People with private health insurance, Medicare, Medicaid, or CHIP",
+    "how": "COVID-19 testing and related doctor visits are covered without copayments, deductibles, or coinsurance during the public health emergency."
+   },
+   {
+    "group": "Uninsured people",
+    "how": "State Medicaid programs may cover COVID-19 testing for them, and a federal fund can reimburse testing costs."
+   },
+   {
+    "group": "Families receiving SNAP or WIC, and households with children who would get school meals",
+    "how": "Benefits may be expanded, WIC recertification can happen without an in-person clinic visit, and SNAP emergency benefits may be provided when schools are closed."
+   },
+   {
+    "group": "Unemployed workers and state unemployment agencies",
+    "how": "States may receive emergency grants and a 100% federal share of certain unemployment payments, and some waiting-period and work-search rules may be waived."
+   },
+   {
+    "group": "Veterans and TRICARE enrollees",
+    "how": "VA and TRICARE cannot require cost-sharing for COVID-19 testing and related visits during the emergency."
+   },
+   {
+    "group": "Medicaid enrollees and states",
+    "how": "States receive a higher federal matching rate for Medicaid, and must meet conditions such as not tightening eligibility standards."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted March 18, 2020. Paid sick and family leave rules took effect within 15 days of enactment and generally expire December 31, 2020. Many other provisions last for the public health emergency or through set dates in 2020 or 2024.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

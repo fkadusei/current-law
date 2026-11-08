@@ -1,0 +1,24 @@
+{
+ "headline": "This law lets the federal government accept donated land of about 160 acres to expand Yucca House National Monument in Colorado.",
+ "what_it_does": "The Department of the Interior is allowed to take ownership of about 160 acres, plus any related interests in that land, if the owners give it to the government as a donation. Once the land is acquired, Interior must change the monument's boundaries to include it. The added land is then managed as part of the monument.",
+ "who_it_affects": [
+  {
+   "group": "Owners of the proposed addition land",
+   "how": "They may choose to donate their land or interests in it to the federal government, but the bill does not require any sale or transfer."
+  },
+  {
+   "group": "National Park Service and Department of the Interior",
+   "how": "They must accept and manage the donated land as part of the monument once it is acquired and the boundaries are adjusted."
+  },
+  {
+   "group": "Visitors to Yucca House National Monument",
+   "how": "If the land is added, the monument's protected area would grow, which could affect how the added land is accessed and used."
+  }
+ ],
+ "when_it_takes_effect": "The authority took effect when the law was enacted on January 13, 2021, but the boundary change happens only after the land is actually donated and acquired.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

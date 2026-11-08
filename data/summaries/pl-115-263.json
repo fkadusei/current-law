@@ -1,0 +1,28 @@
+{
+ "headline": "A 2018 law bars health plans and pharmacy benefit managers from stopping pharmacists from telling patients when their insurance price differs from the cash price of a drug.",
+ "what_it_does": "The law changes the Public Health Service Act so that health insurance plans and pharmacy benefit managers cannot use contract terms, often called gag clauses, that keep pharmacies from telling enrollees if the plan's out-of-pocket cost for a drug is higher or lower than the price without insurance. It also extends an existing antitrust filing rule to biosimilar makers. Generic drug makers already must file certain deals about making, marketing, or selling their drugs with the Federal Trade Commission and the Department of Justice, and now biosimilar makers must file the same kinds of agreements.",
+ "who_it_affects": [
+  {
+   "group": "People with prescription drug coverage through private health insurance",
+   "how": "They can learn from their pharmacist when paying cash would cost less than their insurance copay for a drug."
+  },
+  {
+   "group": "Health insurance plans and pharmacy benefit managers",
+   "how": "They may no longer write contract terms that stop pharmacies from sharing cost differences with enrollees."
+  },
+  {
+   "group": "Retail and independent pharmacies",
+   "how": "They are allowed to tell customers about the difference between insurance and cash prices for a drug."
+  },
+  {
+   "group": "Biosimilar biological product applicants",
+   "how": "They must file agreements about the manufacture, marketing, or sale of their products with the FTC and the Department of Justice, the same as generic drug applicants."
+  }
+ ],
+ "when_it_takes_effect": "The summary does not give a specific effective date; the law was enacted on October 10, 2018.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

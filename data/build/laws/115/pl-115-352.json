@@ -39,5 +39,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law lets federal agencies pay extra interest that accrued because of their own mistakes when calculating retirement deposits for employees with past military service.",
+  "what_it_does": "Federal employees who had earlier military service can buy back that time by paying a deposit into their federal retirement account. If an agency made a mistake calculating that deposit, extra interest can build up on the amount owed. This law allows the agency to pay that extra interest itself instead of the employee. It covers employees, Members of Congress, and annuitants affected by these administrative errors.",
+  "who_it_affects": [
+   {
+    "group": "Federal employees with prior military service who buy back that time for retirement",
+    "how": "If their agency miscalculated the required deposit, the agency may now cover the extra interest caused by that error."
+   },
+   {
+    "group": "Members of Congress and annuitants with similar deposit errors",
+    "how": "The same authority to have the agency pay the extra interest applies to them."
+   },
+   {
+    "group": "Federal agencies that process retirement deposits",
+    "how": "They are authorized to pay the additional interest that results from their own calculation errors."
+   }
+  ],
+  "when_it_takes_effect": "Enacted December 21, 2018; the summary does not specify a separate effective date.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

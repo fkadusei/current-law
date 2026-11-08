@@ -1,0 +1,44 @@
+{
+ "headline": "A large omnibus spending law that sets fiscal year 2013 funding for many federal departments and agencies, plus continuing funding rules and some across-the-board budget cuts.",
+ "what_it_does": "This law, signed March 26, 2013, provides money for federal agencies for fiscal year 2013, which ran from October 2012 to September 2013. It bundles several appropriations bills covering agriculture, commerce, justice, science, defense, homeland security, military construction and veterans affairs, and continuing funding for other agencies, with many restrictions on how the money may be spent. It also reduces (rescinds) some unspent funds and sets a government-wide cut of a set percentage to most discretionary accounts.",
+ "who_it_affects": [
+  {
+   "group": "Farmers, ranchers, and rural residents",
+   "how": "Agriculture and rural programs such as farm loans, conservation programs, rural housing, and crop insurance receive funding under specific limits and rules."
+  },
+  {
+   "group": "Recipients of federal food assistance programs",
+   "how": "Funding for child nutrition, infant formula, and fresh fruit and vegetable programs is set, with some amounts limited or rescinded."
+  },
+  {
+   "group": "Military service members and defense contractors",
+   "how": "Defense funding covers pay, operations, weapons purchases, and contracts, and it limits certain uses of funds such as contracts with companies convicted of felonies."
+  },
+  {
+   "group": "Veterans",
+   "how": "Veterans Affairs health care, benefits, and cemetery programs receive funding, and contracts must give certain veteran-owned small businesses preference where available."
+  },
+  {
+   "group": "Federal employees and agencies",
+   "how": "Pay freezes for certain civilian employees and across-the-board budget reductions apply, and agencies must submit spending plans to Congress."
+  },
+  {
+   "group": "Federal workers and retirees in the Department of Commerce and Justice",
+   "how": "Agency budgets for the FBI, DEA, ATF, NASA, NSF, and similar agencies are set, with limits on conference travel and reporting requirements."
+  },
+  {
+   "group": "Federal contractors and grant recipients",
+   "how": "Companies convicted of felonies or owing unpaid federal taxes are barred from many contracts, grants, and loans funded under the law."
+  },
+  {
+   "group": "Recipients of Medicare, Medicaid, Head Start, and child care funds",
+   "how": "The continuing resolution keeps funding at prior levels for many health and human services programs and sets specific amounts for some of them."
+  }
+ ],
+ "when_it_takes_effect": "Signed into law on March 26, 2013, and applies to fiscal year 2013, ending September 30, 2013, with some provisions running through later dates.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

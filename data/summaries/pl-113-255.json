@@ -1,0 +1,28 @@
+{
+ "headline": "A 2014 law changes the default investment for new Thrift Savings Plan participants from the G Fund to an age-based L Fund, with exceptions and added protections.",
+ "what_it_does": "When a Thrift Savings Plan participant has not chosen how to invest, their money will now go into an age-appropriate target date L Fund instead of the Government Securities Investment Fund (G Fund). Participants whose default is an L Fund must receive a risk acknowledgement before they enroll. Members of the uniformed services keep the G Fund as their default. The law also extends certain fiduciary protection requirements to TSP beneficiaries.",
+ "who_it_affects": [
+  {
+   "group": "Federal employees enrolled in the Thrift Savings Plan who have not made an investment choice",
+   "how": "Their contributions will default to an age-appropriate L Fund instead of the G Fund."
+  },
+  {
+   "group": "Members of the uniformed services in the Thrift Savings Plan",
+   "how": "Their default investment stays in the G Fund."
+  },
+  {
+   "group": "Newly enrolling TSP participants whose default is an L Fund",
+   "how": "They must receive a risk acknowledgement before enrolling."
+  },
+  {
+   "group": "TSP beneficiaries",
+   "how": "Certain fiduciary protection requirements now apply to them."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

@@ -1,0 +1,28 @@
+{
+ "headline": "This 2014 law lets Utah trade certain state mineral lands to the Ute Indian Tribe in exchange for federal mineral lands, with both sides keeping a reserved interest.",
+ "what_it_does": "The law allows Utah to give up some of its school trust and subsurface mineral lands south of the Grand County and Uintah County border, for the benefit of the Ute Indian Tribe of the Uintah and Ouray Reservation. In return, Utah receives certain federal subsurface mineral lands north of that border. The Interior Secretary and Utah each reserve an overriding interest in the minerals that can be leased under the Mineral Leasing Act on the lands the other side receives, which keeps a stake in future mineral development. The Secretary may also sign cooperative agreements with Utah and the Tribe to carry out the exchange and manage those interests.",
+ "who_it_affects": [
+  {
+   "group": "Ute Indian Tribe of the Uintah and Ouray Reservation",
+   "how": "The Tribe receives certain state subsurface mineral lands under the exchange."
+  },
+  {
+   "group": "Utah school trust beneficiaries",
+   "how": "The state gives up some school trust lands but keeps a reserved interest in leasable minerals on the federal lands it receives, which is meant to benefit the school trust."
+  },
+  {
+   "group": "Bureau of Land Management and the Interior Department",
+   "how": "The Interior Secretary holds a reserved interest in leasable minerals on the state lands conveyed and may enter agreements to carry out the exchange."
+  },
+  {
+   "group": "Companies that lease federal or state minerals in the affected areas",
+   "how": "Future mineral leasing on the exchanged lands may be affected because the reserved interests and new ownership shape who manages and benefits from that development."
+  }
+ ],
+ "when_it_takes_effect": "The law took effect when it was signed on July 25, 2014. The official summary does not list other deadlines or a specific transfer date.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

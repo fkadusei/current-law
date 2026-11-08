@@ -1,0 +1,24 @@
+{
+ "headline": "This law creates a voluntary pilot program that lets emergency responders at high risk of anthrax exposure receive anthrax vaccines nearing their expiration dates from the federal stockpile.",
+ "what_it_does": "The Department of Homeland Security, working with the Department of Health and Human Services, must run a pilot program that offers anthrax vaccines from the Strategic National Stockpile to emergency responders who are at high risk of exposure and agree to get them. Only vaccines that are close to their labeled use dates, are not needed for other purposes, and will not hurt the country's ability to meet emergency needs can be used. DHS must pick two to five states to take part, require written certification that responders receive risks, benefits, and educational materials, and submit annual reports, with a final report on whether the program should continue after five years.",
+ "who_it_affects": [
+  {
+   "group": "Emergency response providers at high risk of anthrax exposure",
+   "how": "Those who volunteer may be offered anthrax vaccines from the federal stockpile, along with disclosures and education about benefits and risks."
+  },
+  {
+   "group": "State and local governments in the selected pilot states",
+   "how": "Two to five states must choose to participate, follow DHS guidance to identify at-risk providers, and make sure the program fits their emergency preparedness plans."
+  },
+  {
+   "group": "Federal agencies (DHS and HHS)",
+   "how": "They must coordinate through a memorandum of understanding, set up communication, training, logistics, and reporting, and track costs and outcomes."
+  }
+ ],
+ "when_it_takes_effect": "Enacted December 14, 2016; the pilot program and reporting requirements apply from that date, with the final report due after five years of operation.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

@@ -1,0 +1,24 @@
+{
+ "headline": "This law requires U.S. Customs and Border Protection to study threats, staffing, technology, and facility needs at U.S. air, land, and sea ports of entry and report the findings to Congress.",
+ "what_it_does": "The law directs Customs and Border Protection (CBP) to prepare a threat and operational analysis of ports of entry, covering air, land, and sea crossings. The analysis must look at security threats, ways people and goods are smuggled through ports, and ways to speed up travel and trade and cut wait times. It must also estimate the personnel, technology, and infrastructure needs and costs at each port. CBP must send the analysis and a strategy and implementation plan to the congressional homeland security and tax committees at set intervals.",
+ "who_it_affects": [
+  {
+   "group": "CBP officers and staff at ports of entry",
+   "how": "The agency must assess which port jobs need law enforcement training and which could be done by non-law enforcement staff, the private sector, or automation."
+  },
+  {
+   "group": "Travelers and commercial importers crossing at U.S. ports of entry",
+   "how": "The analysis must consider ways to reduce wait times and make travel and trade move more smoothly through ports."
+  },
+  {
+   "group": "Communities near land, air, and sea ports of entry",
+   "how": "Port-level staffing, technology, and infrastructure needs and costs are to be studied, which could inform future investments in those locations."
+  }
+ ],
+ "when_it_takes_effect": "Effective upon enactment on December 21, 2018, with reports due to Congress at intervals set in the law.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

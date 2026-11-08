@@ -36,5 +36,24 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Congress approved a joint resolution reappointing Michael M. Lynton as a citizen regent of the Smithsonian Institution's Board of Regents.",
+  "what_it_does": "This joint resolution renews Michael M. Lynton's term as a citizen regent on the Board of Regents, which governs the Smithsonian Institution. Citizen regents are private individuals, not federal officials, who help oversee the museums, research centers, and other operations of the Smithsonian. The resolution does not change any rules or funding; it only extends Lynton's service on the board.",
+  "who_it_affects": [
+   {
+    "group": "Michael M. Lynton",
+    "how": "He continues to serve as a citizen regent on the Smithsonian Board of Regents for another term."
+   },
+   {
+    "group": "The Smithsonian Institution",
+    "how": "Its Board of Regents keeps one of its citizen members, with Lynton's reappointment in place."
+   }
+  ],
+  "when_it_takes_effect": "October 2, 2020, the date it was enacted.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

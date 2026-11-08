@@ -1,0 +1,24 @@
+{
+ "headline": "This 2018 law reauthorizes and updates CDC programs that help states and tribes track and review deaths related to pregnancy.",
+ "what_it_does": "The law amends the Public Health Service Act to extend CDC maternal death surveillance programs through fiscal year 2023. It allows the CDC to support state and tribal maternal mortality review committees. These committees collect, analyze, and report data on deaths from any cause during pregnancy or within one year after, and on deaths that are related to pregnancy or its management.",
+ "who_it_affects": [
+  {
+   "group": "State and tribal health departments",
+   "how": "They can receive CDC support to run maternal mortality review committees and collect and report data on pregnancy-associated and pregnancy-related deaths."
+  },
+  {
+   "group": "Pregnant people and new mothers",
+   "how": "Better tracking of pregnancy-related deaths is intended to inform state and tribal reviews of these cases, though the law itself does not directly change their care or benefits."
+  },
+  {
+   "group": "Maternal mortality review committee members",
+   "how": "They are the groups that collect, analyze, and report the specified data on these deaths."
+  }
+ ],
+ "when_it_takes_effect": "Enacted December 21, 2018, with program authorization running through fiscal year 2023.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

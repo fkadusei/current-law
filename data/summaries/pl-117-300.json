@@ -1,0 +1,28 @@
+{
+ "headline": "This law changes how the VA and its appeals board handle veterans' disability claims based on military sexual trauma, including training, letter wording, and exam practices.",
+ "what_it_does": "The law requires the VA to offer annual training on military sexual trauma (MST) to each member of the Board of Veterans' Appeals, and bars assigning MST-related cases to members who have not completed it. When an appeal is filed and the veteran asks for a hearing, the board must quickly decide whether the case involves an MST-related claim. The VA must also review and revise letters that explain denied MST claims so they use trauma-informed language and avoid wording that could retraumatize veterans. Finally, the VA must set up protocols so that VA and contract medical examiners use trauma-informed methods when examining veterans for MST-related claims.",
+ "who_it_affects": [
+  {
+   "group": "Veterans who have filed claims for disability compensation based on military sexual trauma",
+   "how": "Their appeals may be routed to trained board members, their hearing requests are flagged for quick review, and denial letters and medical exams are expected to follow trauma-informed practices."
+  },
+  {
+   "group": "Members of the Board of Veterans' Appeals",
+   "how": "They must be offered annual training on MST and related proceedings, and they cannot be assigned MST cases until they complete it."
+  },
+  {
+   "group": "VA medical providers and contract medical providers who perform claim-related exams",
+   "how": "They must follow new VA protocols that call for trauma-informed practices when examining veterans for MST-related claims."
+  },
+  {
+   "group": "VA staff who write claim decision letters",
+   "how": "Their letters on denied MST claims must be audited and revised to use trauma-informed language."
+  }
+ ],
+ "when_it_takes_effect": "Enacted December 27, 2022; the summary does not list specific deadlines for each requirement.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

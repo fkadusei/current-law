@@ -1,0 +1,24 @@
+{
+ "headline": "This law directs the VA to pay state veterans homes for adult day health care for certain veterans who are not already getting VA nursing home payments.",
+ "what_it_does": "The VA must make an agreement with each state veterans home to pay for medical supervision model adult day health care for eligible veterans. That care includes coordinated physician, dental, and nursing services plus drug administration, along with any other VA requirements. The payment counts as payment in full for that care, and it covers necessary transportation. Until VA publishes regulations setting the rate, the payment is 65% of what VA would pay if the veteran were in a VA nursing home.",
+ "who_it_affects": [
+  {
+   "group": "Veterans with service-connected disabilities who need adult day health care",
+   "how": "They may get this day care paid for at a state veterans home if their care is for a service-connected disability or they have a service-connected disability rated 70% or more."
+  },
+  {
+   "group": "State veterans homes",
+   "how": "They can receive VA payments for adult day health care, but only under agreements with the VA and at rates set by VA rules."
+  },
+  {
+   "group": "Department of Veterans Affairs",
+   "how": "It must enter into agreements with each state home and write regulations that set the payment rates and related requirements."
+  }
+ ],
+ "when_it_takes_effect": "The payment rate set by regulation takes effect 30 days after the regulations are published in the Federal Register; until then the interim 65% rate applies.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

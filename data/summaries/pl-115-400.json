@@ -1,0 +1,24 @@
+{
+ "headline": "This law requires the Department of Homeland Security to study how it helps first responders and businesses guard against vehicle-based terror attacks, then write a plan to improve that help.",
+ "what_it_does": "The law directs DHS to review its current activities that support emergency responders and private companies in preventing, reducing, and responding to vehicle-based terrorism. Based on that review, DHS must write a strategy and send it to the congressional homeland security committees. The strategy must examine the current threat, look at ways to share best practices with responders and private companies, and identify training DHS can offer them.",
+ "who_it_affects": [
+  {
+   "group": "Emergency response providers such as police, firefighters, and emergency medical workers",
+   "how": "They may receive better information and training from DHS on preventing and responding to vehicle attacks."
+  },
+  {
+   "group": "Private sector organizations, such as businesses that host large public events or manage public spaces",
+   "how": "DHS may share best practices and offer training that could help them prepare for vehicle-based threats."
+  },
+  {
+   "group": "Department of Homeland Security",
+   "how": "DHS must complete an assessment of its activities and submit a written strategy to Congress."
+  }
+ ],
+ "when_it_takes_effect": "Enacted December 31, 2018; the law does not list a specific deadline in the summary provided for submitting the strategy.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

@@ -1,0 +1,32 @@
+{
+ "headline": "A 2016 law sets up U.S. participation in three international fishing agreements for the Pacific and Northwest Atlantic and makes several related changes to fishing rules and reports.",
+ "what_it_does": "The law lets NOAA write regulations to carry out U.S. membership in the North Pacific, South Pacific, and Northwest Atlantic fisheries conventions. It sets how many U.S. commissioners each commission may have, creates advisory committees, and lists prohibited fishing and shipping activities in covered waters. It also requires some commercial fishing vessels without monitoring systems to stow their gear below deck, and it removes a few reporting requirements.",
+ "who_it_affects": [
+  {
+   "group": "Commercial fishing vessel operators in the North and South Pacific",
+   "how": "Vessels without a working monitoring system that can talk to U.S. enforcement must keep all fishing gear stowed below deck and not ready for use."
+  },
+  {
+   "group": "Fishing and shipping operators in covered Pacific and Northwest Atlantic waters",
+   "how": "They must follow the listed prohibited activities, and NOAA and the Coast Guard enforce those rules."
+  },
+  {
+   "group": "Fishing industry groups and interested stakeholders",
+   "how": "Advisory committee seats are set aside for people representing groups concerned with the covered fish stocks."
+  },
+  {
+   "group": "American Samoa, Guam, and the Commonwealth of the Northern Mariana Islands",
+   "how": "The State Department must make sure these territories take part in the commissions in the same way as territories of other nations."
+  },
+  {
+   "group": "Commercial fishing vessel operators in the Western and Central Pacific",
+   "how": "Commercial fishing experience is added as a factor the President should consider when picking a commissioner for that commission."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

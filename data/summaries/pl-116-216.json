@@ -1,0 +1,36 @@
+{
+ "headline": "A 2020 law extends USDA's authority over grain inspection, weighing, and grading through fiscal year 2025 and adds reporting and review requirements.",
+ "what_it_does": "The law reauthorizes the United States Grain Standards Act through fiscal year 2025, which lets USDA set official grain marketing standards and set rules for grain inspection and weighing. It extends USDA's power to collect fees that pay for official inspections and weighing, and it keeps the cap on administrative and supervisory costs in place through the same year. It also requires quarterly USDA reports on grain quality and food safety test data and on certain waivers and exceptions, bars user fees from paying for work not directly tied to inspections or weighing, lets advisory committee members serve up to two consecutive terms, and requires a nationwide review of official agency geographic areas.",
+ "who_it_affects": [
+  {
+   "group": "Grain farmers and grain sellers",
+   "how": "They are affected by the continued federal grain standards and inspection system that sets how their grain is graded and weighed."
+  },
+  {
+   "group": "Grain elevators, exporters, and other businesses that pay for official inspection and weighing",
+   "how": "They continue to pay USDA-authorized fees for these services, and those fees may not be used for activities outside official inspection or weighing."
+  },
+  {
+   "group": "State agencies that provide grain inspection or weighing services",
+   "how": "They must notify customers or applicants before temporarily stopping these services."
+  },
+  {
+   "group": "Customers and applicants for official grain weighing or inspection",
+   "how": "They receive advance notice if a state agency plans to temporarily stop providing these services."
+  },
+  {
+   "group": "Members of the grain standards advisory committee",
+   "how": "They may serve up to two consecutive terms, and the committee's authorization is extended through fiscal year 2025."
+  },
+  {
+   "group": "Official inspection agencies operating in designated geographic areas",
+   "how": "Their service areas will be reviewed nationwide by USDA."
+  }
+ ],
+ "when_it_takes_effect": "Enacted December 11, 2020, with the reauthorization running through fiscal year 2025.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

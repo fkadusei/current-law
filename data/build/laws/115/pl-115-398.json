@@ -3534,5 +3534,32 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "This law sets up in statute a federal program that trains health and social service workers to spot and help people who may be victims of human trafficking.",
+  "what_it_does": "The law gives legal authority to the SOAR to Health and Wellness Training Program run by the Department of Health and Human Services, and it expands that program. The training teaches providers to identify possible trafficking victims, work with law enforcement, refer victims to support agencies, and provide coordinated care. The law also requires the program to develop a flexible training module, offer technical assistance, collect data on victims served, and combine its training with other training for providers, such as training on sexual assault victims.",
+  "who_it_affects": [
+   {
+    "group": "Health care providers such as doctors, nurses, and clinic staff",
+    "how": "They can take part in training to recognize possible human trafficking victims and learn how to refer them for help."
+   },
+   {
+    "group": "Social service workers and victim service agencies",
+    "how": "They can receive training on identifying trafficking victims and coordinating referrals and care with other organizations."
+   },
+   {
+    "group": "Possible victims of human trafficking",
+    "how": "The program aims to help providers identify them and connect them with coordinated care and support services."
+   },
+   {
+    "group": "Law enforcement agencies",
+    "how": "They may work with trained providers to report cases and facilitate communication with victims."
+   }
+  ],
+  "when_it_takes_effect": "The law took effect when it was enacted on December 31, 2018.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

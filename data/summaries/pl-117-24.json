@@ -1,0 +1,24 @@
+{
+ "headline": "Congress used a special review process to cancel a 2020 bank regulator rule about which party counts as the lender on a national bank or federal savings association loan.",
+ "what_it_does": "This joint resolution overturns a final rule from the Office of the Comptroller of the Currency, published October 30, 2020, that set a test for who counts as the lender on a loan made by a national bank or federal savings association. Under the rule, the bank had to be named as the lender in the loan agreement, or had to fund the loan, as of the date the loan was made. Because the resolution cancels the rule, that test no longer applies.",
+ "who_it_affects": [
+  {
+   "group": "National banks and federal savings associations",
+   "how": "They no longer have to meet the October 2020 rule's test of being named as lender or funding the loan when deciding whether they are the lender on a loan."
+  },
+  {
+   "group": "Nonbank companies that partner with banks to make consumer or business loans",
+   "how": "The rule that would have limited how these partnerships were treated as bank loans was canceled, so the earlier rules and court decisions on this question continue to apply."
+  },
+  {
+   "group": "Borrowers who take out loans through bank partnerships",
+   "how": "The lender identity and the rules that apply to the loan are determined under the rules that were in place before the canceled 2020 rule."
+  }
+ ],
+ "when_it_takes_effect": "The resolution became law on June 30, 2021, and the canceled rule is treated as if it never took effect.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

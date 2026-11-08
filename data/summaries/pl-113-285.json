@@ -1,0 +1,24 @@
+{
+ "headline": "Congress directed the FAA to release St. Clair, Missouri from federal restrictions on its regional airport, conditioned on the city making specified payments and transfers to the state transportation department.",
+ "what_it_does": "The law requires the Federal Aviation Administration to lift the federal limits on how St. Clair uses, sells, transfers, or closes the St. Clair Regional Airport. The release cannot happen until the city transfers certain money to the Missouri Department of Transportation, including funds for airport capital improvements, and gives over salvageable airport equipment at no cost. The money covers the fair market value of the airport property, the unpaid part of certain federal development grants, and leftover airport revenue. The law also directs the FAA to remove the airport's runway end indicator lighting system.",
+ "who_it_affects": [
+  {
+   "group": "City of St. Clair, Missouri",
+   "how": "The city is freed from federal restrictions on the airport but must first transfer specified funds and salvageable equipment to the Missouri Department of Transportation."
+  },
+  {
+   "group": "Missouri Department of Transportation",
+   "how": "The state agency receives the required payments and equipment and must use the capital-improvement funds for airport development under the FAA's state block grant program."
+  },
+  {
+   "group": "Users of the St. Clair Regional Airport",
+   "how": "The airport's runway end indicator lighting system is to be removed, and the airport's future use or closure is no longer governed by federal restrictions."
+  }
+ ],
+ "when_it_takes_effect": "Enacted December 18, 2014; the FAA release may not be carried out until the city completes the required transfers.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

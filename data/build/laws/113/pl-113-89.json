@@ -4342,5 +4342,44 @@
   "House": "R",
   "Senate": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2014 law that rolls back parts of the 2012 flood insurance overhaul by restoring some lower premiums, capping rate increases, and changing escrow and mapping rules for the National Flood Insurance Program.",
+  "what_it_does": "The law repeals a ban on FEMA giving premium subsidies to certain properties, including properties bought after the 2012 Biggert-Waters Act, and it removes catastrophe years from the calculation used to set rates. It limits annual increases in the chargeable risk premium rate to 18% for most properties, with exceptions, and it lets some borrowers pay flood premiums monthly or annually and choose high-deductible policies up to $10,000 on residential properties. It also changes how flood maps are made, requires FEMA to notify communities before using new mapping models, and requires FEMA to publish rate tables six months before rate changes take effect.",
+  "who_it_affects": [
+   {
+    "group": "Homeowners in the National Flood Insurance Program",
+    "how": "Some may pay lower or capped premiums, and they may be able to pay premiums monthly and choose a high-deductible policy up to $10,000."
+   },
+   {
+    "group": "Buyers of properties with existing flood policies",
+    "how": "They may assume the seller's policy at chargeable rates for the rest of its term."
+   },
+   {
+    "group": "Owners of properties that cannot be elevated",
+    "how": "FEMA must issue guidelines on other mitigation methods and consider them when calculating premiums."
+   },
+   {
+    "group": "Borrowers with federally backed mortgages",
+    "how": "Lenders must offer an option to handle flood premiums and escrow in a specified way, and some loans are exempt from escrow requirements."
+   },
+   {
+    "group": "Communities near flood protection systems and levees",
+    "how": "Communities making adequate progress on flood protection may qualify for insurance at premium rates that would apply if the system were complete."
+   },
+   {
+    "group": "Small businesses, nonprofits, and houses of worship",
+    "how": "FEMA must monitor and report to Congress on how mandatory rate increases and surcharges affect their flood insurance affordability."
+   },
+   {
+    "group": "Owners of properties substantially improved by more than 50% of market value after July 6, 2012",
+    "how": "FEMA may not estimate risk premium rates for them under the law."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on March 21, 2014, and its provisions take effect on different timelines set in the text, with some requiring FEMA to issue guidance, reports, or rate tables later.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

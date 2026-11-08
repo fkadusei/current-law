@@ -1,0 +1,28 @@
+{
+ "headline": "This law lets the Bureau of Reclamation contract out development of small hydropower plants built into existing water conduits like canals and pipelines.",
+ "what_it_does": "It amends the Reclamation Project Act of 1939 so the Interior Department, through the Bureau of Reclamation, can arrange for small hydropower (five megawatts or less) to be built at Bureau water facilities. Irrigation districts and water users associations that run or receive water from those conduits get the first chance to lease the power rights, and if they decline, the Bureau offers them to other parties. The Bureau must use its existing categorical exclusion process under the National Environmental Policy Act for these projects, except for siting transmission lines on federal land. The law also states that it does not change water delivery for original project purposes, does not require federal power agencies to buy or sell the power, and treats water used for power as incidental to the project's main purposes.",
+ "who_it_affects": [
+  {
+   "group": "Irrigation districts and water users associations",
+   "how": "They get the first option to lease power rights on conduits they operate or receive water from, and can decline if they choose."
+  },
+  {
+   "group": "Companies or individuals seeking to develop small hydropower",
+   "how": "They may be able to lease power privileges at Bureau conduits if the local water users decline the offer."
+  },
+  {
+   "group": "Rural communities near Bureau water conduits",
+   "how": "Local hydropower projects built under the law could create construction and operating jobs, according to the law's title."
+  },
+  {
+   "group": "Federal power marketing administrations",
+   "how": "They are not required to purchase or market power produced by these small projects."
+  }
+ ],
+ "when_it_takes_effect": "Enacted August 9, 2013, with no specific later effective date stated in the summary.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

@@ -3525,5 +3525,28 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "This law requires professionals in Puerto Rico debt cases to disclose their connections to other parties before they can be paid for their work.",
+  "what_it_does": "The law applies to professionals who work on debt adjustment cases involving Puerto Rico, such as in bankruptcy-style proceedings. Before these professionals can seek payment, they must file a sworn statement listing their connections to people and groups involved in the case. The Financial Oversight and Management Board for Puerto Rico must create a list of these interested parties, which includes debtors, creditors, their attorneys and accountants, and staff of the U.S. Trustee Program and the board. If a professional does not file the statement, files an inadequate one, or has certain conflicts of interest, they can be denied compensation.",
+  "who_it_affects": [
+   {
+    "group": "Professionals who work on debt adjustment cases in Puerto Rico",
+    "how": "They must file sworn disclosures of their connections to other parties before they can be paid, and they can be denied payment if disclosures are missing, inadequate, or show certain conflicts."
+   },
+   {
+    "group": "Debtors and creditors in Puerto Rico debt cases",
+    "how": "Their attorneys, accountants, and other connected professionals must disclose relationships that could affect the case."
+   },
+   {
+    "group": "Financial Oversight and Management Board for Puerto Rico",
+    "how": "The board must set up and maintain a list of interested parties for these cases."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

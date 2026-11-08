@@ -39,5 +39,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2014 federal law lets two North Texas water agencies move water from Lake Texoma across state lines despite certain invasive-species transfer bans, under specific conditions.",
+  "what_it_does": "The law creates an exception to federal rules that normally bar moving invasive species across state borders under the Lacey Act and related criminal provisions. The exception covers water transfers by the North Texas Municipal Water District and the Greater Texoma Utility Authority. To qualify, the transfers must use only closed systems that draw from Lake Texoma, and invasive species must be eliminated or removed at treatment facilities.",
+  "who_it_affects": [
+   {
+    "group": "North Texas Municipal Water District",
+    "how": "It can carry out water transfers from Lake Texoma without being subject to the cross-state invasive species transfer bans, as long as it meets the closed-system and treatment conditions."
+   },
+   {
+    "group": "Greater Texoma Utility Authority",
+    "how": "It can carry out water transfers from Lake Texoma without being subject to the cross-state invasive species transfer bans, as long as it meets the closed-system and treatment conditions."
+   },
+   {
+    "group": "People who receive water from these two agencies' systems",
+    "how": "Their water supply may come through transfers that are allowed under this exception, which requires invasive species to be removed at treatment facilities."
+   }
+  ],
+  "when_it_takes_effect": "The summary does not give a separate effective date. The law was enacted on June 9, 2014.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

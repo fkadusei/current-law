@@ -1,0 +1,20 @@
+{
+ "headline": "Makes permanent the authority of the Government Accountability Office to hear contractor protests over certain large civilian federal task and delivery orders.",
+ "what_it_does": "Federal agencies often buy services and goods by issuing task or delivery orders under existing contracts. Before this law, the GAO could hear a company's protest about these orders for civilian agencies only until September 30, 2016. This law removes that end date, so the authority continues without expiring. The protest power applies to orders valued above $10 million.",
+ "who_it_affects": [
+  {
+   "group": "Companies that bid on or hold federal civilian task or delivery orders",
+   "how": "They can keep filing protests with the GAO about large civilian orders worth more than $10 million instead of losing that option after the 2016 expiration date."
+  },
+  {
+   "group": "Civilian federal agencies that issue task or delivery orders",
+   "how": "Their large orders over $10 million remain subject to possible GAO protest review rather than being exempt after the sunset date."
+  }
+ ],
+ "when_it_takes_effect": "Enacted December 14, 2016, and it removes the September 30, 2016 expiration for civilian protest authority.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

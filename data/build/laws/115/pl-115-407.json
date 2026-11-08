@@ -36,5 +36,40 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2018 federal law updates many Department of Veterans Affairs benefits and programs, including education payments, lease and phone contract rights for servicemembers, and records and cemetery rules.",
+  "what_it_does": "The law makes many changes to VA programs. It changes education benefits, such as housing stipend documentation, faster education payments, and rules for schools with certain payment policies. It adds headstone rules for unmarked graves in tribal veterans cemeteries and lets surviving spouses end leases without penalty within one year of a servicemember's death. It also lets servicemembers end certain phone, internet, and cable contracts after receiving orders to a location that does not support them, and it requires the VA to publish a list of nonprofit transition programs.",
+  "who_it_affects": [
+   {
+    "group": "Veterans using VA education benefits, including Post-9/11 GI Bill recipients",
+    "how": "They will get housing stipend documentation electronically, faster education payment processing, and updated housing amounts for certain high technology training programs."
+   },
+   {
+    "group": "Surviving spouses of servicemembers who died in service",
+    "how": "They may end a lease without penalty within one year of the servicemember's death."
+   },
+   {
+    "group": "Active servicemembers who receive military orders to certain locations",
+    "how": "They may end commercial phone, internet, or programming contracts that cannot be supported at the new location."
+   },
+   {
+    "group": "Tribal organizations and families of veterans buried in tribal veterans cemeteries or on tribal land",
+    "how": "The VA must provide headstones or markers for unmarked graves of eligible people when requested."
+   },
+   {
+    "group": "Veterans who are leaving the military or transitioning from incarceration",
+    "how": "The VA must publish a list of nonprofit community transition programs, and homeless veteran reintegration programs can now serve more veterans, including those leaving prison."
+   },
+   {
+    "group": "VA employees and people who owe debts to the VA",
+    "how": "Employees who knowingly misused VA purchase cards are barred from holding purchase card or approving roles, and the VA must create a standard debt notice letter and an electronic notice option."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

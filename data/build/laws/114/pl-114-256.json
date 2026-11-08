@@ -42,5 +42,40 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2016 law directs the VA to set quality standards for vehicle modification providers and to add licensed hearing aid specialists to its health system.",
+  "what_it_does": "The law requires the VA to let eligible disabled veterans who receive an automobile make personal choices about it and to create a policy setting quality standards for providers who modify vehicles under the VA adaptive equipment program. It allows the VA to approve manufacturers and nonprofit groups that certify these providers, and it requires the VA to update its handbook and report on compliance. It also allows the VA to hire licensed hearing aid specialists, limits their work to their state license, and requires that their services fit within audiologist-developed treatment plans.",
+  "who_it_affects": [
+   {
+    "group": "Disabled veterans who receive vehicle adaptive equipment",
+    "how": "They are given the chance to make personal selections about their vehicle and can get modifications at the residence or location they choose."
+   },
+   {
+    "group": "Automobile modification providers",
+    "how": "They must meet VA quality, safety, and training standards, and may need certification from an approved manufacturer or nonprofit certifying organization."
+   },
+   {
+    "group": "Manufacturers of automobile adaptive equipment",
+    "how": "They can seek VA approval to certify providers if their certification standards meet or exceed the VA quality standards."
+   },
+   {
+    "group": "Veterans who need hearing care",
+    "how": "They can receive hearing services from licensed hearing aid specialists and audiologists, and the VA must give them access to the full range of audiologist services."
+   },
+   {
+    "group": "Licensed hearing aid specialists",
+    "how": "They may be appointed to the VA health system but may practice only within the scope of their state license and as part of audiologist-developed plans."
+   },
+   {
+    "group": "Audiologists",
+    "how": "They develop the non-medical treatment plans that hearing aid specialists follow when serving veterans."
+   }
+  ],
+  "when_it_takes_effect": "The summary does not give a single effective date. It sets deadlines such as updating the VA handbook within one year and reporting on implementation at set intervals, with some reporting running through 2022.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

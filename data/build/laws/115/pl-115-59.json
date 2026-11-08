@@ -39,5 +39,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2017 federal law limits federal agencies from putting Social Security numbers on mailed documents unless the agency head finds it necessary.",
+  "what_it_does": "Federal agencies, including those in the legislative and judicial branches with some exceptions, generally may not include a person's Social Security account number on documents sent by mail. An agency head can still allow it if they decide it is necessary. Agencies that have Chief Financial Officers must issue rules within five years of enactment that describe when including the number is necessary.",
+  "who_it_affects": [
+   {
+    "group": "People who receive mail from federal agencies",
+    "how": "Agencies should less often print their full Social Security number on letters and other documents sent to them by mail."
+   },
+   {
+    "group": "Federal agencies that send mail to the public",
+    "how": "They must stop including Social Security numbers on mailed documents unless the agency head determines it is necessary."
+   },
+   {
+    "group": "Federal agencies with Chief Financial Officers",
+    "how": "They must write regulations within five years of enactment that explain the circumstances in which including a Social Security number on mail is necessary."
+   }
+  ],
+  "when_it_takes_effect": "Signed into law on September 15, 2017; the required agency regulations are due within five years of that date, and the summary does not give a separate start date for the mailing limit.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

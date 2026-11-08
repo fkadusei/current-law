@@ -3495,5 +3495,28 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2022 law separates VA peer support specialists from claim decisions for military sexual trauma cases and adds training and referral options for those veterans.",
+  "what_it_does": "The law says VA peer support specialists cannot help veterans with disability compensation claims for mental health conditions, such as PTSD, that stem from military sexual trauma. These specialists may only offer counseling, guidance, and support, and they cannot take part in deciding claims. Claim forms for these conditions must include an option to be referred to an MST trauma coordinator at the nearest VA facility. The VA must also provide yearly training on MST peer support and on processing these claims.",
+  "who_it_affects": [
+   {
+    "group": "Veterans who file VA disability claims for mental health conditions from military sexual trauma",
+    "how": "They can choose on the claim form to be referred to an MST trauma coordinator at the VA facility closest to their home."
+   },
+   {
+    "group": "VA peer support specialists",
+    "how": "They must focus on counseling and support and cannot help with or decide these compensation claims, and they must complete yearly MST training."
+   },
+   {
+    "group": "VA MST coordinators",
+    "how": "They must complete yearly training on processing compensation claims for mental health conditions based on military sexual trauma."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on December 27, 2022; the summary does not state specific effective dates for each provision.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

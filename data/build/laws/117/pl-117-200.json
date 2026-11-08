@@ -3525,5 +3525,32 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2022 law lets two co-borrowers on a joint federal student loan split it into two separate loans, and lets one borrower apply alone in certain abuse or access situations.",
+  "what_it_does": "Two people who took out a joint consolidation loan for federal student debt can apply together to the Department of Education to split it into two separate loans. One borrower can apply alone if they have experienced domestic or economic abuse from the other borrower, or cannot reasonably reach or access the other borrower's loan information. When a separate loan is created under those circumstances, the other borrower becomes solely responsible for the remaining balance of the joint loan.",
+  "who_it_affects": [
+   {
+    "group": "Borrowers with joint federal consolidation student loans",
+    "how": "They can ask the Department of Education to split a shared consolidated loan into two separate loans, either together or, in certain cases, alone."
+   },
+   {
+    "group": "People experiencing domestic or economic abuse from a co-borrower",
+    "how": "They can apply on their own to separate their share of a joint consolidation loan from the abusive co-borrower's share."
+   },
+   {
+    "group": "Borrowers who cannot reasonably reach or access their co-borrower's loan information",
+    "how": "They can apply alone to separate the joint loan when they cannot reasonably contact or get information from the other borrower."
+   },
+   {
+    "group": "Co-borrowers whose joint loan is separated under these circumstances",
+    "how": "They become solely responsible for the entire remaining balance of the former joint loan."
+   }
+  ],
+  "when_it_takes_effect": "The summary does not state a specific effective date. The law was enacted on October 11, 2022.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -1,0 +1,24 @@
+{
+ "headline": "This law directs the Interior Department to hold about 11 acres of former Albuquerque Indian School land in trust for 19 New Mexico pueblos.",
+ "what_it_does": "The Interior Department must take four federal land tracts in New Mexico, totaling about 11.11 acres, into trust for 19 named pueblos once environmental review requirements are met. The land must be used for educational, health, cultural, business, and economic development purposes. Existing easements, rights-of-way, restrictions, and utility agreements stay in place, and the Bureau of Indian Affairs may keep using the land for its existing facilities. The law also bans gaming on these lands.",
+ "who_it_affects": [
+  {
+   "group": "The 19 named pueblos in New Mexico",
+   "how": "They gain trust ownership of about 11 acres of former Albuquerque Indian School land for development uses, but they must allow continued Bureau of Indian Affairs use and honor existing easements and agreements."
+  },
+  {
+   "group": "Bureau of Indian Affairs",
+   "how": "It may keep operating its existing facilities on the transferred land after the transfer."
+  },
+  {
+   "group": "Utility companies and holders of recorded easements or rights-of-way on the tracts",
+   "how": "Their existing agreements and recorded rights continue to apply after the land goes into trust."
+  }
+ ],
+ "when_it_takes_effect": "The land transfer takes effect after the National Environmental Policy Act requirements for the trust acquisition are satisfied; the law was enacted October 16, 2015.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

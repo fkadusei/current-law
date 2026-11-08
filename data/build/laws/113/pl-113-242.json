@@ -42,5 +42,36 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This 2014 law requires states and federal agencies to report deaths of people held in custody to the Attorney General, who must study the reports.",
+  "what_it_does": "States that receive certain federal crime-control grants must report to the Attorney General each quarter about deaths of people who are detained, arrested, being taken to prison, or incarcerated in state or local facilities. Each federal law enforcement agency must report similar deaths to the Attorney General once a year, including deaths in federal prisons and detention centers. The Attorney General must study the reports and recommend ways to reduce these deaths. States that do not comply can face penalties.",
+  "who_it_affects": [
+   {
+    "group": "States that receive certain federal Byrne or Justice Assistance grants",
+    "how": "They must send the Attorney General quarterly reports on deaths in their custody or face penalties for not complying."
+   },
+   {
+    "group": "State and local jails, prisons, and law enforcement agencies",
+    "how": "Their deaths of detained or incarcerated people are included in the required state reporting to the federal government."
+   },
+   {
+    "group": "Heads of federal law enforcement agencies",
+    "how": "Each must report deaths of people detained or arrested by their officers to the Attorney General once a year."
+   },
+   {
+    "group": "People held in federal correctional or pretrial detention facilities",
+    "how": "Deaths of people in these facilities, or in contracted facilities, are covered by the federal annual reporting requirement."
+   },
+   {
+    "group": "The Attorney General",
+    "how": "The office must collect these reports, study them, and report on ways to use the data to reduce custody deaths."
+   }
+  ],
+  "when_it_takes_effect": "Enacted December 18, 2014; the summary does not list separate effective dates for the reporting requirements.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

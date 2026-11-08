@@ -3534,5 +3534,24 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "This law states U.S. policy support for democracy and human rights in the Western Hemisphere and asks the State Department to push reforms at the Organization of American States.",
+  "what_it_does": "The law says it is U.S. policy to promote democracy, the rule of law, and human rights in the Western Hemisphere, and to support key regional charters and declarations. It expresses congressional views that the Organization of American States should be the main body for resolving regional disputes, and that member countries should move toward a fee system where no single country pays more than half of the group's assessed fees within five years. It directs the Secretary of State to write a multiyear strategy for these changes and to seek support from other countries for reforms and shared costs.",
+  "who_it_affects": [
+   {
+    "group": "Member countries of the Organization of American States",
+    "how": "They would be asked to support reforms, share budget costs, and coordinate donor efforts under a plan the U.S. State Department would pursue."
+   },
+   {
+    "group": "Staff and officials of the State Department",
+    "how": "They must prepare a multiyear strategy for Congress and carry out diplomatic outreach on OAS reforms and funding."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on October 2, 2013; the fee goal is framed as a five-year target, and the strategy is due to Congress under the law's terms.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

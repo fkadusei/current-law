@@ -39,5 +39,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law changes US copyright rules so that books and other published works can be made and shared in accessible formats, such as braille or audio, for people with print disabilities.",
+  "what_it_does": "It amends federal copyright law to carry out the Marrakesh Treaty, an international agreement on access to published works for people who are blind, visually impaired, or otherwise print disabled. The existing copyright exceptions that let accessible copies be made and distributed are limited to activities inside the United States. The law also widens the types of published works that can be copied into accessible formats and updates some key terms to match the treaty. A new section allows accessible-format works to be exported to and imported from other treaty countries for these individuals.",
+  "who_it_affects": [
+   {
+    "group": "People who are blind, visually impaired, or otherwise print disabled",
+    "how": "They can get more published works in accessible formats, and these works can be moved across borders for their use."
+   },
+   {
+    "group": "Libraries and nonprofit organizations that serve people with print disabilities",
+    "how": "They may make and distribute accessible copies of a wider range of published works under the copyright exceptions."
+   },
+   {
+    "group": "Publishers and copyright holders",
+    "how": "The copyright exceptions for accessible-format copies now apply to a broader set of works, and the exceptions cover only activities within the United States."
+   },
+   {
+    "group": "Organizations that import or export accessible-format works",
+    "how": "They may send and receive accessible-format works across borders for qualifying individuals under the new section."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

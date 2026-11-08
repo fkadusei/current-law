@@ -1,0 +1,32 @@
+{
+ "headline": "A 2022 law provides $40.1 billion in emergency funding for federal responses to Russia's invasion of Ukraine.",
+ "what_it_does": "The act gives $40.1 billion in emergency spending for fiscal year 2022 to respond to Russia's invasion of Ukraine. It sends money to several federal departments and agencies, including Defense, State, Justice, Health and Human Services, Agriculture, Treasury, the Nuclear Regulatory Commission, and USAID. The funds are for items such as defense equipment, migration and refugee aid, emergency food assistance, economic aid, and regulatory support on nuclear power issues. It also covers seizures of property tied to the invasion.",
+ "who_it_affects": [
+  {
+   "group": "Ukrainian civilians and refugees",
+   "how": "The law funds migration and refugee assistance and emergency food aid connected to the invasion."
+  },
+  {
+   "group": "Defense contractors and the U.S. military",
+   "how": "The law provides money for defense equipment and related military spending."
+  },
+  {
+   "group": "Farmers and food assistance recipients",
+   "how": "The law funds emergency food assistance through the Department of Agriculture."
+  },
+  {
+   "group": "Nuclear power companies and regulators",
+   "how": "The law gives the Nuclear Regulatory Commission money for regulatory and technical support on nuclear power issues."
+  },
+  {
+   "group": "Individuals and companies with property tied to the invasion",
+   "how": "The law provides funding for federal seizures of property related to the invasion."
+  }
+ ],
+ "when_it_takes_effect": "Enacted May 21, 2022, with funds available for fiscal year 2022.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

@@ -39,5 +39,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Congress named a post office building in Vallejo, California, after Janet Capello.",
+  "what_it_does": "This law renames the U.S. Postal Service facility at 2635 Napa Street in Vallejo, California, as the \"Janet Capello Post Office Building.\" It is a naming measure only. It does not change postal services, rules, or staffing.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law was enacted on March 23, 2018, and the name took effect on that date.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

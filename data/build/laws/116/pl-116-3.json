@@ -36,5 +36,36 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2019 law that extends and adjusts several Medicaid programs, including a home-care grant program, spousal protections, and state funding rules.",
+  "what_it_does": "The law provides funding for fiscal year 2019 and changes the Money Follows the Person program, which helps states shift Medicaid long-term care from institutions toward home and community settings. It temporarily extends rules that protect spouses of people receiving home and community-based services from losing their finances to Medicaid costs. It lowers the federal matching rate for states that have not set up programs to verify assets when deciding Medicaid eligibility. It also reduces money going to the Medicaid Improvement Fund starting in fiscal year 2021.",
+  "who_it_affects": [
+   {
+    "group": "People receiving Medicaid home and community-based services",
+    "how": "Spousal protections that keep a healthy spouse from having to give up most household assets are temporarily extended."
+   },
+   {
+    "group": "Spouses of Medicaid long-term care recipients",
+    "how": "They keep the spousal impoverishment protections for a limited period under the extension."
+   },
+   {
+    "group": "State Medicaid programs",
+    "how": "States can receive grants to expand home-based long-term care, and states without asset-verification programs face a lower federal matching rate."
+   },
+   {
+    "group": "States without asset-verification programs for Medicaid eligibility",
+    "how": "Their federal Medicaid matching payments are reduced until they adopt such programs."
+   },
+   {
+    "group": "Medicaid long-term care providers and institutions",
+    "how": "Funding and policy shifts under the Money Follows the Person program encourage more care to move from institutional to home settings."
+   }
+  ],
+  "when_it_takes_effect": "Enacted January 24, 2019; the fiscal year 2019 funding applies to that year, the Medicaid Improvement Fund reduction begins in fiscal year 2021, and the spousal protection extension is temporary with dates set in the statute.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

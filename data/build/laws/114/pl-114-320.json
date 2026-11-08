@@ -36,5 +36,24 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Public Law 114-320 lets a 2016 U.S.-Norway agreement on peaceful nuclear energy take effect without the usual full congressional review steps.",
+  "what_it_does": "The law approves the Agreement for Cooperation between the United States and Norway on peaceful uses of nuclear energy, which was completed on June 11, 2016. It treats the agreement as if the congressional review steps required by the Atomic Energy Act of 1954 had already been completed. Once in effect, the agreement is subject to the Atomic Energy Act and other applicable U.S. law.",
+  "who_it_affects": [
+   {
+    "group": "Companies that transfer nuclear materials, equipment, or technology between the United States and Norway",
+    "how": "The agreement sets the framework that governs such transfers, so these companies would need to follow its terms and U.S. nuclear export rules."
+   },
+   {
+    "group": "U.S. federal agencies that oversee nuclear exports and cooperation",
+    "how": "These agencies would administer the agreement under the Atomic Energy Act and other applicable U.S. law."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

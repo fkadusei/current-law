@@ -33,5 +33,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2015 law renames a federal building in Helena, Arkansas, after former federal judge Jacob Trieber.",
+  "what_it_does": "The law officially names the federal building at 617 Walnut Street in Helena, Arkansas, the Jacob Trieber Federal Building, United States Post Office, and United States Court House. It changes only the building's name and does not change any rules, services, or funding.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law took effect when it was enacted on October 7, 2015.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

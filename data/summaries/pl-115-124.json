@@ -1,0 +1,32 @@
+{
+ "headline": "This 2018 law's record describes Defense Department funding for fiscal year 2017, but its title and summary do not match, so the details are uncertain.",
+ "what_it_does": "The summary describes annual Department of Defense spending for military pay, operations, equipment purchases, research, and health programs, plus a separate section for overseas military operations. It also sets rules on how that money may be spent, moved, or held, and it limits certain actions such as closing the Guantanamo Bay detention facility. The title given is Continuing Appropriations Amendments Act, 2018, but the summary text is for the Department of Defense Appropriations Act, 2017, so this explanation relies only on the summary.",
+ "who_it_affects": [
+  {
+   "group": "Active-duty and reserve service members in the Army, Navy, Marine Corps, Air Force, and National Guard",
+   "how": "The summary says the bill provides pay and personnel funding for these members."
+  },
+  {
+   "group": "Defense contractors and suppliers",
+   "how": "The summary sets Buy American and domestic-sourcing rules for certain steel, bearings, flags, and other items bought with these funds."
+  },
+  {
+   "group": "Small businesses that seek federal research contracts",
+   "how": "The summary says Small Business Innovation Research and Small Business Technology Transfer set-asides are taken from the programs that contribute to the extramural budget."
+  },
+  {
+   "group": "Military families in need of housing or medical support",
+   "how": "The summary mentions funding for Fisher Houses and a Defense Health Program, though it does not give details on eligibility or changes."
+  },
+  {
+   "group": "Detainees held at Guantanamo Bay, Cuba",
+   "how": "The summary says funds may not be used to close or transfer detainees, or to build U.S. facilities to house them."
+  }
+ ],
+ "when_it_takes_effect": "The enactment date is listed as February 9, 2018, but the summary does not state specific effective dates for its provisions.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

@@ -39,5 +39,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This 2014 law makes federal penalties for repeat domestic assault offenders harsher and requires the Attorney General to report on state child abuse penalties every three years.",
+  "what_it_does": "The law amends the federal criminal code so that people who commit domestic assault and have at least two prior final convictions for qualifying offenses face certain increased criminal penalties. Qualifying prior offenses include assault, sexual abuse, or serious violent felonies against a spouse, intimate partner, or a child who is in the person's care or family. The law also directs the Attorney General to report to the congressional judiciary committees every three years on child abuse penalties in all 50 states, D.C., and U.S. territories, including whether each place has enhanced penalties for serious injury or lasting harm to a victim.",
+  "who_it_affects": [
+   {
+    "group": "People convicted of domestic assault who have two or more prior qualifying convictions",
+    "how": "They can face the increased federal criminal penalties the law creates for repeat (habitual) offenders."
+   },
+   {
+    "group": "Spouses, intimate partners, and children in a person's care",
+    "how": "The law's habitual offender rules count prior offenses against them, which affects how federal penalties apply to repeat offenders."
+   },
+   {
+    "group": "State, territorial, and D.C. governments",
+    "how": "Their child abuse penalty laws are included in the Attorney General's required reports to Congress."
+   },
+   {
+    "group": "Attorney General's office (Department of Justice)",
+    "how": "It must prepare and submit a report every three years on child abuse penalties across all jurisdictions."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on May 20, 2014, and the official summary does not list a separate effective date for its provisions.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

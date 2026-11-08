@@ -36,5 +36,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law clarifies how the DEA can register, suspend, or revoke licenses for companies and providers that make, sell, or dispense controlled substances, and requires federal agencies to report to Congress on related issues.",
+  "what_it_does": "The law defines key phrases in the Controlled Substances Act, including \"public health and safety\" factors and \"imminent danger,\" which the DEA uses when deciding whether to register, suspend, or revoke a registration. It requires the DEA to include specific legal reasons and a notice of the chance to submit a corrective action plan in any order to show cause before it denies, revokes, or suspends a registration. It also requires the FDA, SAMHSA, AHRQ, and CDC, working with the DEA, to report to Congress on patient access to controlled substances, diversion, pain management and opioid prescribing guidance, prescription drug monitoring programs, and opioid reporting rules.",
+  "who_it_affects": [
+   {
+    "group": "Manufacturers, distributors, and dispensers of controlled substances that hold DEA registrations",
+    "how": "They face clearer legal definitions and must receive a more detailed order with a stated legal basis and a chance to submit a corrective action plan before the DEA denies, revokes, or suspends their registration."
+   },
+   {
+    "group": "Pharmacies and prescribers who dispense controlled substances",
+    "how": "They are covered by the same registration rules, so the new definitions and notice requirements apply to them when the DEA takes action against their registration."
+   },
+   {
+    "group": "Patients who need prescription controlled substances, such as pain medication",
+    "how": "The required federal reports to Congress cover obstacles to legitimate access and gaps in prescribing guidance, which could inform future policy on how these medicines are available."
+   },
+   {
+    "group": "Medical educators and clinical guideline developers in pain management",
+    "how": "The reports will assess the availability of and gaps in medical education, training, and clinical guidance on pain management and opioid prescribing."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

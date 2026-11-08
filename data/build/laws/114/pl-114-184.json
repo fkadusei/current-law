@@ -39,5 +39,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law lets federal investigators get court orders to see tax return information when investigating crimes involving missing or exploited children.",
+  "what_it_does": "The law changes the Internal Revenue Code so federal law enforcement can ask a federal court, without notifying the taxpayer first, for an order allowing disclosure of tax returns or related information in criminal investigations about missing or exploited children. If a judge grants the order, federal officers and employees directly involved in related proceedings may receive that information. Federal agencies may also share it with state and local police who are working on a joint team with them, but only for locating the child or for related legal proceedings.",
+  "who_it_affects": [
+   {
+    "group": "Children who are missing or exploited",
+    "how": "Federal investigators may be able to use tax return information in their efforts to find them and pursue criminal cases."
+   },
+   {
+    "group": "Taxpayers whose returns could be disclosed",
+    "how": "Their tax return information may be shared with investigators if a federal judge approves a request in a qualifying child-related criminal case."
+   },
+   {
+    "group": "Federal law enforcement officers and agencies",
+    "how": "They gain a court-order process to obtain tax return information for criminal investigations involving missing or exploited children."
+   },
+   {
+    "group": "State and local law enforcement agencies on joint federal teams",
+    "how": "They may receive shared tax return information from federal agencies, but only for specific investigative and legal purposes."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on June 30, 2016, and the summary does not list a separate effective date.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

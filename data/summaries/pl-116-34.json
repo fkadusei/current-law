@@ -1,0 +1,28 @@
+{
+ "headline": "This law permanently funds the September 11th Victim Compensation Fund and changes several of its rules, including how long claims can be filed and how claims are paid.",
+ "what_it_does": "The law funds the September 11th Victim Compensation Fund through fiscal year 2092 and allows claims to be filed until October 2090. It requires the Fund's policies and procedures to be reviewed at least once every five years instead of once a year, and it requires that claimants later be paid any amount cut from their claims because of insufficient funding. It also removes the cap on noneconomic damages in certain cases, adjusts the yearly economic loss limit for inflation, and gives the Attorney General statutory authority to appoint a special master and up to two deputy special masters to run the Fund.",
+ "who_it_affects": [
+  {
+   "group": "People with illnesses or injuries linked to the September 11, 2001 attacks",
+   "how": "They can file claims for compensation through the Fund for a longer period, and some claims may be paid in full even if funding was previously insufficient."
+  },
+  {
+   "group": "Families of people killed in the September 11, 2001 attacks",
+   "how": "They can seek compensation from the Fund under the same program, with the updated rules on damages and inflation adjustments applying to their claims."
+  },
+  {
+   "group": "Justice Department and the Attorney General",
+   "how": "The Attorney General gets clear authority to appoint a special master and up to two deputy special masters to administer the Fund."
+  },
+  {
+   "group": "Federal budget officials",
+   "how": "The bill's budget effects are exempt from the Pay-As-You-Go rules that normally require new spending to be offset by cuts or revenue increases."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on July 29, 2019. Its provisions run on set timelines, including claim filing through October 2090 and funding through fiscal year 2092.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

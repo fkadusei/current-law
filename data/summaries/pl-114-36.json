@@ -1,0 +1,20 @@
+{
+ "headline": "This law removes foreign-grown cotton futures contracts from the United States Cotton Futures Act, so they no longer need USDA classification under that Act.",
+ "what_it_does": "The Cotton Futures Act sets rules for cotton futures contracts traded in the United States, including a requirement that the cotton be classified by the Department of Agriculture. This law excludes contracts involving cotton grown outside the United States and tendered for delivery from that coverage. Those contracts would no longer fall under the Act or its classification requirement.",
+ "who_it_affects": [
+  {
+   "group": "Traders and firms that buy or sell foreign-grown cotton futures contracts",
+   "how": "Contracts covering cotton grown outside the United States and delivered under them no longer need to meet the Act's coverage and USDA classification requirement."
+  },
+  {
+   "group": "The Department of Agriculture",
+   "how": "It no longer has to classify foreign-grown cotton tendered for delivery under futures contracts covered by this exclusion."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on July 20, 2015. The official summary does not describe a separate start date.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

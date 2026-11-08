@@ -1,0 +1,24 @@
+{
+ "headline": "This law clarifies how people can sue for damages from international terrorism, including when terrorist groups can be sued and how their seized assets can pay judgments.",
+ "what_it_does": "The law changes federal rules about civil lawsuits for damages caused by acts of international terrorism. It says that designated foreign terrorist organizations and specially designated global terrorists do not count as military forces, so the bar on suing over acts during armed conflicts does not protect them. It lets courts use assets of a terrorist party that were seized or frozen under the Foreign Narcotics Kingpin Designation Act to pay court-awarded judgments against that party. It also allows federal courts to hear cases against certain foreign non-state defendants that accept benefits from the United States, such as foreign assistance.",
+ "who_it_affects": [
+  {
+   "group": "Victims of international terrorism and their families",
+   "how": "They may be able to bring civil damage claims in cases where the terrorist group was previously shielded by the armed-conflict limit, and they may be able to collect judgments from seized or frozen assets."
+  },
+  {
+   "group": "Designated foreign terrorist organizations and specially designated global terrorists",
+   "how": "They can no longer rely on the argument that they are military forces to avoid civil damage claims for acts of international terrorism."
+  },
+  {
+   "group": "Foreign non-state entities that receive U.S. assistance",
+   "how": "They may be subject to personal jurisdiction in U.S. federal courts in civil cases because they accept benefits from the United States."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on October 3, 2018, and the summary does not give a separate effective date.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

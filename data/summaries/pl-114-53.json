@@ -1,0 +1,44 @@
+{
+ "headline": "A short-term federal spending bill that keeps the government funded through December 11, 2015, and extends several expiring programs.",
+ "what_it_does": "This law is a continuing resolution, which keeps federal agencies funded at roughly FY2015 levels after the new fiscal year began without full funding bills in place. Most programs receive a cut of about 0.21 percent, and the law continues to December 11, 2015, or until a regular spending bill is enacted. It also extends several programs that were set to expire, including E-Verify, the EB-5 investor visa program, the Internet Tax Freedom Act, and fee authority on federal recreational lands through September 30, 2017. The law also includes a $700 million emergency appropriation for Forest Service wildfire suppression and a set of rules and reports on Transportation Security Administration investigators and Federal Air Marshal Service misconduct.",
+ "who_it_affects": [
+  {
+   "group": "Federal agencies and their employees",
+   "how": "They keep operating at roughly last year's funding levels, with most programs reduced by about 0.21 percent, which lowers the chance of a shutdown and furloughs during this period."
+  },
+  {
+   "group": "Employers that use E-Verify",
+   "how": "They may continue using the federal system to check whether new hires are authorized to work, since the program was extended."
+  },
+  {
+   "group": "Foreign investors seeking EB-5 visas",
+   "how": "They can still apply under the EB-5 Immigrant Investor Visa Program because its authority was extended."
+  },
+  {
+   "group": "Internet access customers and online sellers",
+   "how": "State and local governments are barred from taxing internet access or imposing multiple or discriminatory taxes on e-commerce, because the moratorium was extended."
+  },
+  {
+   "group": "Recreation visitors to federal lands and waters",
+   "how": "Federal agencies may keep charging and retaining recreation fees through September 30, 2017."
+  },
+  {
+   "group": "Transportation Security Administration Office of Inspection employees",
+   "how": "Employees classified as criminal investigators may be reclassified if they do not spend at least half their time on criminal investigative duties, and the agency must certify its classifications to Congress."
+  },
+  {
+   "group": "Low-income elderly people receiving USDA food assistance",
+   "how": "The Commodity Supplemental Food Program receives a higher rate of funding under this law."
+  },
+  {
+   "group": "Veterans awaiting disability benefits",
+   "how": "The Veterans Benefits Administration receives additional funding to continue work on the disability claims backlog."
+  }
+ ],
+ "when_it_takes_effect": "Upon enactment on September 30, 2015, with the funding period running through December 11, 2015, or until a regular appropriations act is enacted, whichever comes first.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

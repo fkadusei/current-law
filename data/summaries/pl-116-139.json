@@ -1,0 +1,36 @@
+{
+ "headline": "A 2020 COVID-19 law that added money for small business loans, health care providers, and coronavirus testing.",
+ "what_it_does": "The law adds new funding for the Paycheck Protection Program and the Economic Injury Disaster Loan program run by the Small Business Administration. It also expands disaster loan eligibility to include agricultural businesses. It gives $75 billion to reimburse health care providers for coronavirus-related costs and lost revenue, and $25 billion for COVID-19 testing. Most of the money must be used only to respond to the coronavirus outbreak and is set to expire at the end of the current fiscal year unless the law says otherwise.",
+ "who_it_affects": [
+  {
+   "group": "Small businesses",
+   "how": "They can receive additional Paycheck Protection Program loans and Economic Injury Disaster Loans under the expanded funding."
+  },
+  {
+   "group": "Agricultural enterprises",
+   "how": "They become eligible for emergency economic injury disaster loans and advances tied to COVID-19."
+  },
+  {
+   "group": "Health care providers",
+   "how": "They can be reimbursed for coronavirus-related expenses and lost revenue using a $75 billion fund."
+  },
+  {
+   "group": "Community health centers and rural health clinics",
+   "how": "They receive a specified share of the $25 billion COVID-19 testing funds."
+  },
+  {
+   "group": "People without health insurance",
+   "how": "The law sets aside part of the testing funds for testing for people who are uninsured."
+  },
+  {
+   "group": "State, local, territorial, and tribal governments",
+   "how": "They receive specified portions of the COVID-19 testing funds."
+  }
+ ],
+ "when_it_takes_effect": "Enacted April 24, 2020; the funds generally remain available only through the fiscal year in which they were provided, unless the law specifies otherwise.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

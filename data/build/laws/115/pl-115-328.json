@@ -3531,5 +3531,28 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "This law extends a federal program on preterm birth through 2023, requires CDC to post its research report online, and broadens the topics covered by related education programs.",
+  "what_it_does": "The law reauthorizes the PREEMIE Act, which supports research and education about babies born early, through fiscal year 2023. It requires the Centers for Disease Control and Prevention to publish its research report on its website. It also allows the education programs about preterm birth to cover substance-use disorders, depression, and immunization.",
+  "who_it_affects": [
+   {
+    "group": "Pregnant people and mothers of premature babies",
+    "how": "Education programs about preterm birth may now also include information on substance-use disorders, depression, and immunization."
+   },
+   {
+    "group": "Families of preterm infants",
+    "how": "Families can use the expanded education content, which covers more health topics related to preterm birth."
+   },
+   {
+    "group": "The general public and researchers",
+    "how": "The CDC research report must be posted on the agency's website, making it available to anyone who looks for it."
+   }
+  ],
+  "when_it_takes_effect": "Signed into law on December 18, 2018. The official summary does not list other specific effective dates, and the program authorization runs through fiscal year 2023.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

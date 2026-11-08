@@ -39,5 +39,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This 2017 law lets police and criminal justice agencies use fast, fully automated DNA testing machines, with FBI standards, and add those results to the national DNA database.",
+  "what_it_does": "The law requires the FBI to create standards and procedures for using Rapid DNA instruments, which are machines that automatically turn a DNA sample into a DNA analysis. DNA samples prepared by criminal justice agencies using these machines, and following FBI standards, can be included in the Combined DNA Index System (CODIS), the national DNA database. The law also lets the FBI waive certain existing requirements when a sample is analyzed with Rapid DNA and the results are added to CODIS.",
+  "who_it_affects": [
+   {
+    "group": "Criminal justice agencies such as police and crime labs",
+    "how": "They can use Rapid DNA machines to analyze samples and add results to CODIS if they follow FBI standards and procedures."
+   },
+   {
+    "group": "The FBI",
+    "how": "It must issue standards and procedures for Rapid DNA use and may waive some existing DNA analysis requirements for samples run on these machines."
+   },
+   {
+    "group": "People who have been convicted of crimes and whose DNA is collected",
+    "how": "Their DNA samples may be processed with Rapid DNA machines and entered into CODIS under the new rules."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

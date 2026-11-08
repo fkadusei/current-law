@@ -3528,5 +3528,36 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "This law extends federal support for libraries and museums through fiscal year 2025 and adds tribal libraries and museums to the programs.",
+  "what_it_does": "The law reauthorizes the Museum and Library Services Act through fiscal year 2025 and provides funding for library services and technology during that time. It expands the legal definitions of library and museum to include tribal libraries and museums. It also expands the types of services museums may provide. A new 21st Century Museum Professional Program lets the Institute of Museum and Library Services work with museums, universities, and other groups on projects that recruit and train students and workers from diverse and underrepresented backgrounds for museum careers.",
+  "who_it_affects": [
+   {
+    "group": "Tribal libraries and museums",
+    "how": "They are now included in the legal definitions of library and museum, making them eligible for programs under the Act."
+   },
+   {
+    "group": "Libraries",
+    "how": "They receive continued federal funding for library services and technology through fiscal year 2025."
+   },
+   {
+    "group": "Museums",
+    "how": "They may offer a wider range of services under the expanded authority in the Act."
+   },
+   {
+    "group": "Students from diverse and underrepresented backgrounds",
+    "how": "They may be recruited and supported through new projects aimed at museum-related degree programs."
+   },
+   {
+    "group": "Museum professionals and the museum workforce",
+    "how": "They may gain access to new professional development and retention programs funded through partnerships."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on December 31, 2018, and its authorization runs through fiscal year 2025.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

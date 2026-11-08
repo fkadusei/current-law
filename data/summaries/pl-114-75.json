@@ -1,0 +1,20 @@
+{
+ "headline": "This law gives federal employees who are veterans with a service-connected disability rating of 30% or more up to 104 hours of paid leave a year for disability-related medical treatment.",
+ "what_it_does": "Eligible federal employees can take up to 104 hours of leave without any loss or reduction in pay for medical treatment of their service-connected disability, where sick leave could normally be used. The leave is available during the 12 months that begin on the employee's first day of federal employment. Unused leave is forfeited at the end of that 12-month period, and employees must certify to their agency head that they used the leave to receive treatment from a health care provider.",
+ "who_it_affects": [
+  {
+   "group": "Federal employees who are veterans with a service-connected disability rated at 30% or more",
+   "how": "They can take up to 104 hours of paid leave for medical treatment of their disability during their first 12 months of federal employment, but must use it in that period or lose it."
+  },
+  {
+   "group": "Federal employing agencies",
+   "how": "They must accept employee certifications that leave was used for disability treatment and manage this leave category for eligible workers."
+  }
+ ],
+ "when_it_takes_effect": "The summary does not state a separate start date; the law was enacted on November 5, 2015.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

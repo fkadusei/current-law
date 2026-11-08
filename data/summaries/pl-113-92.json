@@ -1,0 +1,20 @@
+{
+ "headline": "A 2014 law lets people who gave cash to Typhoon Haiyan relief in early 2014 claim the donation as if they gave it in 2013, and lets a phone bill serve as proof.",
+ "what_it_does": "For cash gifts made after the law was enacted and before April 15, 2014, to help victims of Typhoon Haiyan, the law treats the gift as made on December 31, 2013, for the charitable deduction. This means the donation can count toward a 2013 tax return. The law also says a phone bill showing the charity's name, the date, and the amount meets the Internal Revenue Code's recordkeeping rules for these gifts.",
+ "who_it_affects": [
+  {
+   "group": "Taxpayers who gave cash to Typhoon Haiyan relief between March 25 and April 15, 2014",
+   "how": "They can treat those gifts as 2013 contributions when claiming the charitable deduction."
+  },
+  {
+   "group": "Taxpayers who itemize deductions and gave cash to these relief efforts",
+   "how": "They can use a phone bill showing the charity's name, date, and amount as proof instead of other standard receipts."
+  }
+ ],
+ "when_it_takes_effect": "The law took effect when it was enacted on March 25, 2014. Its special treatment applies to cash gifts made from that date through April 15, 2014.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

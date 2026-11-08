@@ -1,0 +1,24 @@
+{
+ "headline": "This law makes permanent a program that lets approved U.S. business travelers and government officials get a travel card for faster border processing in Asia-Pacific countries.",
+ "what_it_does": "The law moves the APEC Business Travel Card program from a 2011 law into the Homeland Security Act of 2002 and removes its September 30, 2018 end date. U.S. Customs and Border Protection can issue the card to U.S. citizens who are in good standing in a DHS trusted traveler program and who are doing business in the Asia-Pacific region or doing official APEC work. CBP sets and collects fees for issuing and renewing cards and must tell Congress if program costs exceed the fees collected. The law also creates a Treasury account for the program's money and says cards issued under the old law stay valid until they expire.",
+ "who_it_affects": [
+  {
+   "group": "U.S. citizens who travel for business in the Asia-Pacific region",
+   "how": "They can apply for an APEC Business Travel Card if they already hold approval in a DHS trusted traveler program and pay the required fee."
+  },
+  {
+   "group": "U.S. government officials engaged in APEC business",
+   "how": "They are eligible to receive the card while doing official APEC work."
+  },
+  {
+   "group": "Holders of existing APEC Business Travel Cards",
+   "how": "Cards issued under the earlier 2011 law remain valid until they expire, and the program they belong to no longer has a set end date."
+  }
+ ],
+ "when_it_takes_effect": "The law took effect on its enactment date, November 2, 2017, and the program has no scheduled end date.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

@@ -1,0 +1,20 @@
+{
+ "headline": "A 2020 law requires the VA to report on patient safety and quality of care at its medical centers, and on deaths at one West Virginia facility.",
+ "what_it_does": "The law requires the Department of Veterans Affairs to report on its policies and procedures for patient safety and quality of care at VA medical centers. It also requires the VA to describe steps it has taken to improve that care. After any investigation or trial into deaths at the Louis A. Johnson VA Medical Center in Clarksburg, West Virginia, concludes, the VA must report on those events and on actions taken to prevent similar events.",
+ "who_it_affects": [
+  {
+   "group": "Veterans who receive care at VA medical centers",
+   "how": "The VA must publicly report on how it protects patient safety and quality of care at its facilities."
+  },
+  {
+   "group": "Families of patients who died at the Louis A. Johnson VA Medical Center in Clarksburg, West Virginia",
+   "how": "The VA must report on those deaths and the steps it takes afterward to prevent similar events once related investigations or trials end."
+  }
+ ],
+ "when_it_takes_effect": "Signed into law on December 4, 2020. The summary does not list a separate start date or reporting deadlines.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

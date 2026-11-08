@@ -36,5 +36,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law lets banks and credit unions run savings promotion raffles, where people who deposit money get a chance to win prizes.",
+  "what_it_does": "The law allows covered financial institutions to hold a contest called a savings promotion raffle. To enter, a person must deposit a set amount of money into a savings account or program, and each entry has an equal chance of being drawn. The institution must follow rules set by its federal regulator. The law also carves these raffles out of federal bans on lotteries and certain gambling and racketeering-related crimes.",
+  "who_it_affects": [
+   {
+    "group": "Banks and credit unions",
+    "how": "Insured institutions may run savings promotion raffles that would otherwise be barred by federal lottery and gambling rules, but they must follow regulator rules for these contests."
+   },
+   {
+    "group": "People with savings accounts",
+    "how": "Account holders may be able to enter prize drawings when they deposit a required amount of money into a savings account or program."
+   },
+   {
+    "group": "Federal bank regulators",
+    "how": "Agencies such as the Federal Reserve, FDIC, and the Office of the Comptroller of the Currency must write rules that govern how these raffles are conducted."
+   }
+  ],
+  "when_it_takes_effect": "The summary does not state an effective date; the law was enacted on December 18, 2014.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

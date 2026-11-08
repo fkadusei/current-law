@@ -36,5 +36,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2021 federal law directs the nation's cybersecurity agency to study school cyber risks and offer voluntary guidance and a training toolkit for schools.",
+  "what_it_does": "The law requires the Cybersecurity and Infrastructure Security Agency (CISA) to study the cybersecurity risks facing elementary and secondary schools. The study must look at how hard it is for schools to protect their computer systems and the sensitive student and employee records they hold. CISA must then turn the findings into recommendations and guidelines to help schools, and the use of those guidelines is voluntary. CISA must also build an online training toolkit for school officials and post the study, guidelines, and toolkit on the Department of Homeland Security website.",
+  "who_it_affects": [
+   {
+    "group": "Public and private elementary and secondary schools",
+    "how": "They can use the voluntary cybersecurity guidelines and the online training toolkit to help protect their computer systems and student and employee records."
+   },
+   {
+    "group": "School officials and staff who handle technology",
+    "how": "They gain access to a free online training toolkit designed for their role."
+   },
+   {
+    "group": "Students and school employees",
+    "how": "Their personal records may be better protected if schools choose to follow the recommended guidelines."
+   }
+  ],
+  "when_it_takes_effect": "Upon enactment on October 8, 2021, with CISA's study, guidelines, and toolkit to be produced and posted afterward; the law does not list a specific completion deadline in the summary provided.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

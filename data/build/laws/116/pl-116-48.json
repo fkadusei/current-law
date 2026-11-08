@@ -39,5 +39,24 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2019 law clarifies that federal employees may serve on the national Urban Search and Rescue task forces that respond to disasters.",
+  "what_it_does": "The law changes a section of the Stafford Act, the main federal disaster response law. It states that Urban Search and Rescue task forces, which are teams that find and rescue people after disasters like collapsed buildings, may include federal employees. The summary does not describe any new funding, duties, or deadlines.",
+  "who_it_affects": [
+   {
+    "group": "Federal employees who serve on Urban Search and Rescue task forces",
+    "how": "They are clearly allowed to be part of these disaster response teams."
+   },
+   {
+    "group": "Local fire and emergency agencies that sponsor Urban Search and Rescue task forces",
+    "how": "Their task forces may now include federal workers as members when they respond to disasters."
+   }
+  ],
+  "when_it_takes_effect": "The law took effect on the date it was enacted, August 22, 2019.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

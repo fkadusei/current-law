@@ -1,0 +1,20 @@
+{
+ "headline": "A 2022 law gives the government 10 years to bring criminal charges or civil cases against borrowers who committed fraud on Paycheck Protection Program loans.",
+ "what_it_does": "The law sets a 10-year statute of limitations for fraud involving Paycheck Protection Program loans. A statute of limitations is the deadline for starting a case, so this sets how long after the fraud the government can still bring criminal charges or civil enforcement actions against a borrower. The summary provided does not describe further details such as penalties or reporting rules.",
+ "who_it_affects": [
+  {
+   "group": "Businesses that received Paycheck Protection Program loans",
+   "how": "Borrowers who committed fraud on these loans can face criminal charges or civil enforcement for up to 10 years after the fraud."
+  },
+  {
+   "group": "Federal prosecutors and enforcement agencies",
+   "how": "They have a longer window of 10 years to start cases involving PPP loan fraud."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

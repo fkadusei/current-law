@@ -36,5 +36,36 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law lets the VA lease parts of its West Los Angeles campus to private groups and UCLA for veterans-focused housing and services, with rent going back to the campus.",
+  "what_it_does": "The law allows the Department of Veterans Affairs to lease land at its West Los Angeles campus for supportive housing and for services that mainly help veterans and their families, such as health, education, job training, and legal aid. It also allows a lease to the University of California, Los Angeles for up to 10 years if veterans services remain the main focus. Lease money goes back to the campus for renovation and maintenance, and the VA cannot sell campus land to third parties. The VA must set up a Community Veterans Engagement Board, file yearly reports on campus leases, and have its Inspector General and the GAO review the program.",
+  "who_it_affects": [
+   {
+    "group": "Veterans and their families in the Los Angeles area",
+    "how": "They may gain access to new supportive housing and services such as health, job training, and legal help on the West Los Angeles campus."
+   },
+   {
+    "group": "Homeless and at-risk veterans",
+    "how": "The enhanced-use lease program is designed to create supportive housing for them on underused VA land."
+   },
+   {
+    "group": "Private developers and third-party service providers",
+    "how": "They may be able to lease campus land for up to 50 years to provide veterans services, but they must pay rent and follow the VA master plan."
+   },
+   {
+    "group": "University of California, Los Angeles",
+    "how": "It may lease campus land for up to 10 years if it provides additional non-VA services that mainly benefit veterans."
+   },
+   {
+    "group": "Local transit agencies and utilities",
+    "how": "They may receive easements or rights-of-way on campus land for mass transit facilities or public utilities."
+   }
+  ],
+  "when_it_takes_effect": "The law took effect when it was signed on September 29, 2016, though specific leases depend on later VA agreements and the master plan.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

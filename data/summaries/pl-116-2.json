@@ -1,0 +1,20 @@
+{
+ "headline": "This law extends for 15 months the Department of Homeland Security's program that sets security standards for chemical facilities.",
+ "what_it_does": "The law extends the Chemical Facility Anti-Terrorism Standards Program by 15 months. That program is run by the Department of Homeland Security and covers security rules for facilities that hold certain chemicals. The summary does not describe changes to the program's rules, only how long it continues.",
+ "who_it_affects": [
+  {
+   "group": "Owners and operators of chemical facilities covered by the program",
+   "how": "Their facilities remain subject to the program's security standards for an additional 15 months."
+  },
+  {
+   "group": "Department of Homeland Security",
+   "how": "The department keeps administering the program for the extended period."
+  }
+ ],
+ "when_it_takes_effect": "Enacted January 18, 2019; the extension runs for 15 months from the date the program would otherwise have expired.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

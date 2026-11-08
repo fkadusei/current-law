@@ -45,5 +45,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law requires the Department of Homeland Security to create and report on a plan for scanning all vehicles and freight rail traffic entering the U.S. at land border crossings.",
+  "what_it_does": "The law directs DHS to report to Congress on a plan for high-throughput scanning of commercial and passenger vehicles and freight rail at land ports of entry and rail-border crossings. It uses large X-ray, gamma-ray, or similar non-intrusive inspection systems. The plan must include an inventory of current systems, estimated costs of reaching a 100% scanning rate, and expected effects on wait times. DHS must also periodically report to Congress on progress.",
+  "who_it_affects": [
+   {
+    "group": "U.S. Customs and Border Protection and other DHS staff",
+    "how": "They must build the scanning plan, inventory current equipment, estimate costs, and report progress to Congress."
+   },
+   {
+    "group": "Commercial truck and freight rail operators entering the U.S. by land",
+    "how": "Their vehicles and rail freight would be subject to the scanning plan being developed under the law."
+   },
+   {
+    "group": "Travelers driving passenger vehicles across land borders",
+    "how": "Their vehicles would be covered by the scanning plan, which could affect wait times at crossings."
+   },
+   {
+    "group": "Communities near land ports of entry",
+    "how": "Wait times at local crossings are one of the required areas the plan must study, so traffic flow could be affected if scanning rates increase."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

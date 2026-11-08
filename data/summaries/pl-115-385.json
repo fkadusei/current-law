@@ -1,0 +1,44 @@
+{
+ "headline": "This law updates the federal juvenile justice grant program, changing rules for how states treat young people in the justice system and how federal funds are used.",
+ "what_it_does": "The law amends the Juvenile Justice and Delinquency Prevention Act of 1974 and changes requirements for states that receive Formula Grant funds. Changes include limits on detaining status offenders, rules on keeping juveniles out of sight and sound contact with adults, and a requirement to reduce racial and ethnic disparities in the system. It also repeals the Juvenile Delinquency Prevention Block Grant program, adds reporting and data requirements, and reauthorizes several grant programs through fiscal years 2020 and 2023.",
+ "who_it_affects": [
+  {
+   "group": "States that receive Formula Grant funds",
+   "how": "They must meet revised core requirements, such as limits on detaining status offenders, separation of juveniles from adults, and reducing racial and ethnic disparities, to receive their full allocation."
+  },
+  {
+   "group": "Juveniles who are status offenders or in detention",
+   "how": "Detaining a status offender in secure custody under the court-order exception must follow new rules, including a seven-day maximum length of detention."
+  },
+  {
+   "group": "Indian tribes with a criminal justice function",
+   "how": "The Justice Department must develop a policy on implementing the law's tribal provisions, and the law removes the requirement that an eligible tribe perform law enforcement functions."
+  },
+  {
+   "group": "Local communities and youth-serving organizations",
+   "how": "Incentive grants for local delinquency prevention programs are now directed to state entities, which make subgrants to eligible local entities, and a share of funds is reserved for tribal programs."
+  },
+  {
+   "group": "State Advisory Group members",
+   "how": "Membership now includes representatives of public agencies that address adolescent mental health, substance abuse, or disabilities, and victim or witness advocates, and the maximum age of youth members rises from 24 to 28."
+  },
+  {
+   "group": "Juveniles with records or at risk of entering the system",
+   "how": "States must inform juveniles of the process for expunging juvenile records and expand access to legal counsel under new program areas."
+  },
+  {
+   "group": "Youth with a parent or guardian in a tribal facility",
+   "how": "They are now included among the juveniles served by mentoring, counseling, and training programs funded under the law."
+  },
+  {
+   "group": "Missing and exploited children and runaway or homeless youth programs",
+   "how": "These programs are reauthorized through fiscal year 2020."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted December 21, 2018. The summary does not list separate effective dates for each provision, and some changes depend on future appropriations or later deadlines.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

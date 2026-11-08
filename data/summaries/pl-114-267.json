@@ -1,0 +1,28 @@
+{
+ "headline": "This law requires the Homeland Security Secretary to produce a report analyzing threats and security gaps along the U.S. northern border with Canada.",
+ "what_it_does": "The law directs the Secretary of Homeland Security to submit a northern border threat analysis to specified congressional committees. The analysis must cover terrorism and crime threats, needed improvements at and between ports of entry, legal and cooperation gaps among law enforcement agencies, and whether more CBP preclearance or preinspection operations could help. The Secretary must also consider technology, staffing, terrain, population, climate, and the needs of DHS facilities.",
+ "who_it_affects": [
+  {
+   "group": "Congressional committees with oversight of homeland security and border issues",
+   "how": "They receive the northern border threat analysis report from the Department of Homeland Security."
+  },
+  {
+   "group": "Department of Homeland Security and U.S. Customs and Border Protection",
+   "how": "They must prepare the northern border threat analysis and consider the listed topics in it."
+  },
+  {
+   "group": "State, tribal, and local law enforcement along the northern border",
+   "how": "The analysis must examine their role in border security and any gaps in cooperation with federal and Canadian agencies."
+  },
+  {
+   "group": "Travelers and businesses that cross the northern border",
+   "how": "The report may lead to later changes at ports of entry, such as additional preclearance operations, but this law does not itself change crossing rules."
+  }
+ ],
+ "when_it_takes_effect": "Enacted December 14, 2016; the summary does not state a specific deadline for the report.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

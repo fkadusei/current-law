@@ -3525,5 +3525,36 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "This law sets rules for how the U.S. government handles cases where a child is taken across international borders by a parent, and how it pushes other countries to return those children.",
+  "what_it_does": "The law directs the State Department to report yearly to Congress on countries that do not follow their obligations in child abduction cases, and to train diplomatic staff to help U.S. parents. If a case stays unresolved for 12 months, the Secretary of State must decide whether the foreign government failed to act, and may then take listed diplomatic or other steps, such as public statements, visit delays, or assistance limits, while protecting humanitarian aid. It also lets a parent with a court order ask U.S. Customs and Border Protection to stop a child from leaving the country.",
+  "who_it_affects": [
+   {
+    "group": "Parents whose children have been taken abroad",
+    "how": "They can ask the State Department for help, be connected to a diplomatic official, and be notified of a congressional representative's involvement if they consent."
+   },
+   {
+    "group": "Parents or guardians holding a U.S. court order about a child",
+    "how": "They can present the order to Customs and Border Protection so that a child is stopped from leaving U.S. territory in time."
+   },
+   {
+    "group": "Children with a U.S. habitual residence who are abducted abroad",
+    "how": "The government is directed to pursue their prompt return through diplomatic channels and existing treaties."
+   },
+   {
+    "group": "Foreign governments with unresolved abduction cases",
+    "how": "They may face diplomatic demarches, public statements, visit delays, or limits on certain U.S. aid if the State Department finds a pattern of noncompliance."
+   },
+   {
+    "group": "U.S. diplomatic and consular staff",
+    "how": "They must keep consistent reporting standards, name an official in each mission to help visiting parents, and monitor abduction cases."
+   }
+  ],
+  "when_it_takes_effect": "The law took effect on enactment on August 8, 2014, and the State Department's duties run on the timelines described in the statute, such as the 12-month review period.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

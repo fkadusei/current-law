@@ -3497,5 +3497,24 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "This law directs the Department of Veterans Affairs to seek a outside review of how it conducts medical exams for veterans claiming disabilities from military sexual trauma.",
+  "what_it_does": "The VA must try to make an agreement with the National Academies of Sciences, Engineering, and Medicine to review the medical exams it gives to veterans with these claims. The review covers exams for mental and physical conditions linked to military sexual trauma that assess how much those conditions impair a person. The National Academies must report its findings, and the VA must report on its plans to act on the findings and recommendations.",
+  "who_it_affects": [
+   {
+    "group": "Veterans who file VA disability claims for conditions linked to military sexual trauma",
+    "how": "The medical exams used to judge their claims may be reviewed by outside experts, and the VA may later change how those exams are done."
+   },
+   {
+    "group": "VA medical examiners and staff who conduct these exams",
+    "how": "Their exam process will be reviewed, and they may need to follow any changes the VA adopts based on the findings."
+   }
+  ],
+  "when_it_takes_effect": "Enacted December 27, 2022; the official summary does not list a separate effective date or deadlines for the reports.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

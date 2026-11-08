@@ -45,5 +45,24 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2021 law directs the National Science Foundation to fund research on the science of opioid addiction through competitive, merit-reviewed awards.",
+  "what_it_does": "The law tells the National Science Foundation to support research on how opioid addiction works. The research is picked through merit review and competitive awards. The official summary is short and does not describe specific dollar amounts, research topics, or reporting duties.",
+  "who_it_affects": [
+   {
+    "group": "Researchers who study opioid addiction",
+    "how": "They can seek National Science Foundation grants for this kind of research, which are awarded through competition and merit review."
+   },
+   {
+    "group": "The National Science Foundation",
+    "how": "It must support this research as part of its grant-making work."
+   }
+  ],
+  "when_it_takes_effect": "Enacted January 13, 2021; the official summary does not name a separate later start date.",
+  "ceremonial": false,
+  "confidence": "low",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

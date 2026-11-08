@@ -3515,5 +3515,24 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2020 law requires the Government Accountability Office to study VA disability and pension benefits for National Guard and reserve members.",
+  "what_it_does": "The law directs the Government Accountability Office, a federal watchdog agency, to study disability and pension benefits that the Department of Veterans Affairs provides to members of the National Guard and reserve components of the Armed Forces. The GAO must then report on its study. The official summary does not describe the study's findings or any changes to benefit rules.",
+  "who_it_affects": [
+   {
+    "group": "National Guard members",
+    "how": "The law requires a federal review of VA disability and pension benefits available to them, but it does not change those benefits."
+   },
+   {
+    "group": "Reserve component members",
+    "how": "The law requires a federal review of VA disability and pension benefits available to them, but it does not change those benefits."
+   }
+  ],
+  "when_it_takes_effect": "The law took effect when it was enacted on October 30, 2020. The official summary does not state a deadline for the GAO report.",
+  "ceremonial": false,
+  "confidence": "low",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -3539,5 +3539,28 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "This 2018 law extends an overtime pay exemption for Secret Service protective staff and orders two reports and a federal review.",
+  "what_it_does": "The law changes an earlier 2016 law so that Secret Service officers, employees, and agents who do protective work can receive premium pay above the usual federal cap, and it adds the Uniformed Division to that exemption. The change is set to apply as if it had started on December 31, 2016, and the summary says the exemption runs through 2018, subject to certain limits. The Secret Service must report to Congress by January 30, 2018 and January 30, 2019 on premium pay above the cap paid the year before. The Government Accountability Office must also study how well the Secret Service has carried out recommendations from a 2014 protective mission review panel, especially on training and staffing.",
+  "who_it_affects": [
+   {
+    "group": "Secret Service officers, employees, and agents who perform protective services",
+    "how": "They can keep receiving premium pay above the normal federal pay limit under the extended exemption."
+   },
+   {
+    "group": "Secret Service Uniformed Division members",
+    "how": "The pay exemption now explicitly covers them as well."
+   },
+   {
+    "group": "Federal taxpayers and Congress",
+    "how": "They receive yearly reports on premium pay above the cap paid to Secret Service personnel."
+   }
+  ],
+  "when_it_takes_effect": "Enacted April 3, 2018; the pay amendments are treated as effective December 31, 2016, and reports are due January 30, 2018 and January 30, 2019.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

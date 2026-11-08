@@ -1,0 +1,24 @@
+{
+ "headline": "This law extends and revises a Medicaid demonstration project that pays for emergency psychiatric care in certain states, and requires federal health officials to report to Congress on whether it should continue or expand.",
+ "what_it_does": "It changes the time limit on a Medicaid pilot program that covers emergency psychiatric care for people in participating states. Participation can be extended through fiscal year 2016, and later possibly through December 31, 2019, if the program is projected not to increase net Medicaid spending. States whose spending rises because of the project must have the excess treated as a Medicaid overpayment. The Department of Health and Human Services must send Congress recommendations on whether to continue, expand, or make the project permanent, and $100,000 is set aside for the project.",
+ "who_it_affects": [
+  {
+   "group": "Medicaid enrollees who need emergency psychiatric care",
+   "how": "They may receive emergency mental health services under the demonstration project in states that take part in it."
+  },
+  {
+   "group": "State Medicaid agencies in participating states",
+   "how": "They can keep running the demonstration project longer, but must show it does not increase net Medicaid spending and must repay any excess spending as an overpayment."
+  },
+  {
+   "group": "Department of Health and Human Services and CMS",
+   "how": "They must review each participating state's spending every year and report recommendations to Congress on the project's future."
+  }
+ ],
+ "when_it_takes_effect": "Enacted December 11, 2015; the extensions apply through fiscal year 2016 and through December 31, 2019, subject to the budget conditions.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

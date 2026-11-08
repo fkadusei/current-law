@@ -36,5 +36,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law extends federal funding for the Temporary Assistance for Needy Families program and related territory grants through June 30, 2019.",
+  "what_it_does": "The law extends the period during which money is appropriated for Temporary Assistance for Needy Families (TANF) grants to states. It also extends related assistance grants to U.S. territories such as Puerto Rico and the Virgin Islands. The official summary does not describe any changes to eligibility or benefit rules.",
+  "who_it_affects": [
+   {
+    "group": "State governments that run TANF programs",
+    "how": "They can keep receiving federal TANF grant money through June 30, 2019 under the extended funding period."
+   },
+   {
+    "group": "U.S. territories such as Puerto Rico and the Virgin Islands",
+    "how": "They can keep receiving related federal assistance grants through June 30, 2019."
+   },
+   {
+    "group": "Low-income families who receive TANF cash assistance",
+    "how": "The extension keeps the funding source for their state's TANF program in place through June 30, 2019, though the summary does not say how benefits would change."
+   }
+  ],
+  "when_it_takes_effect": "Enacted January 24, 2019, with the funding extension running through June 30, 2019.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

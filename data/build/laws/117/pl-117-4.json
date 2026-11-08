@@ -39,5 +39,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law lets the Department of Veterans Affairs give COVID-19 vaccines to certain veterans, their caregivers, and their spouses while the COVID-19 public health emergency lasts.",
+  "what_it_does": "The law allows the VA to provide COVID-19 vaccines to groups beyond veterans already enrolled in VA health care. Those groups include some veterans not enrolled in VA care, certain beneficiaries, family and other caregivers in specified VA programs, and spouses of veterans. The VA must give priority first to enrolled veterans, then to certain newly separated veterans who receive care for specified disabilities, and then to caregivers who go with those prioritized veterans. The VA decides when spouses can be offered a vaccine.",
+  "who_it_affects": [
+   {
+    "group": "Veterans not enrolled in the VA health care system",
+    "how": "They may be offered a COVID-19 vaccine from the VA, though enrolled veterans and certain newly separated veterans with specified disabilities are vaccinated first."
+   },
+   {
+    "group": "Spouses of veterans",
+    "how": "They may be offered a COVID-19 vaccine through the VA, with the timing set by the VA."
+   },
+   {
+    "group": "Family and other caregivers in specified VA programs",
+    "how": "Caregivers of veterans in listed VA caregiver and home-care programs may be offered a COVID-19 vaccine, and caregivers going with prioritized veterans come after those veterans."
+   },
+   {
+    "group": "Beneficiaries eligible for VA care due to a service-connected disability or a veteran's death",
+    "how": "They may be offered a COVID-19 vaccine from the VA under the law's rules."
+   }
+  ],
+  "when_it_takes_effect": "The law took effect on March 24, 2021, when it was enacted, and its vaccine authority applies only during the COVID-19 public health emergency.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

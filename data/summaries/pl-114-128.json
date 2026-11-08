@@ -1,0 +1,20 @@
+{
+ "headline": "This 2016 law changes the mapped boundaries of certain protected coastal barrier units in Collier County, Florida.",
+ "what_it_does": "The law revises the boundaries of some units in the John H. Chafee Coastal Barrier Resources System located in Collier County, Florida. The system is a federal map of undeveloped coastal areas. Changing a unit's boundary changes which specific parcels of land fall inside or outside the mapped area. The official summary does not list which parcels are affected.",
+ "who_it_affects": [
+  {
+   "group": "Owners of land in the affected Collier County coastal units",
+   "how": "Whether their property is inside or outside the revised boundary can change how federal rules and programs, such as federal flood insurance and certain federal spending, apply to it."
+  },
+  {
+   "group": "People who buy or build homes near Collier County's coast",
+   "how": "Changed boundaries may affect whether federal flood insurance or federal funding is available for projects on nearby land."
+  }
+ ],
+ "when_it_takes_effect": "The summary does not state a specific effective date, so it is likely to take effect when it was enacted on February 29, 2016.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

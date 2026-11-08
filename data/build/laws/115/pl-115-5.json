@@ -4357,5 +4357,24 @@
   "House": "R",
   "Senate": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "Congress used a joint resolution in 2017 to cancel a 2016 Interior Department rule on how coal mining affects streams and groundwater.",
+  "what_it_does": "The law nullifies the Stream Protection Rule, which the Office of Surface Mining Reclamation and Enforcement finalized on December 20, 2016. That rule dealt with how surface coal mining affects surface water, groundwater, and the productivity of mined land. Because the resolution cancels the rule, the earlier rule no longer applies.",
+  "who_it_affects": [
+   {
+    "group": "Coal mining companies that run surface mines",
+    "how": "They no longer have to follow the rules on water and land productivity that the canceled 2016 rule would have required."
+   },
+   {
+    "group": "People who live near surface coal mines and depend on nearby streams or groundwater",
+    "how": "The stream and groundwater protections in the canceled rule did not take effect, so the rules that were in place before it still govern these areas."
+   }
+  ],
+  "when_it_takes_effect": "The resolution took effect when it was enacted on February 16, 2017.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

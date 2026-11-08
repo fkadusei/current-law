@@ -4367,5 +4367,32 @@
   "House": "R",
   "Senate": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "A short-term spending extension that keeps federal agencies funded until December 22, 2017, and redirects unused children's health insurance funds to states facing emergency shortfalls.",
+  "what_it_does": "Division A extends the expiration date of the existing stopgap spending law from December 8 to December 22, 2017, so federal agencies can keep operating while full-year spending bills are still pending. It ends when the regular spending bills are enacted or on December 22, whichever comes first. Division B sets a rule for the first quarter of fiscal 2018 that requires the Centers for Medicare & Medicaid Services to send unused Children's Health Insurance Program funds first to states with emergency shortfalls, before sending them to states with non-emergency shortfalls.",
+  "who_it_affects": [
+   {
+    "group": "Federal employees and agencies",
+    "how": "Federal agencies receive continued funding so government operations can continue without a shutdown through December 22, 2017, or until full-year appropriations are enacted."
+   },
+   {
+    "group": "Families who rely on federal programs and services",
+    "how": "Services funded by federal agencies are protected from a funding lapse during the extension period."
+   },
+   {
+    "group": "Children enrolled in CHIP and their families",
+    "how": "States with emergency shortfalls in their children's health plans are placed first in line to receive redistributed unused CHIP funds in the first quarter of fiscal 2018."
+   },
+   {
+    "group": "State governments that run CHIP programs",
+    "how": "States facing emergency CHIP funding shortfalls receive priority for redistributed unused allotments before states with non-emergency shortfalls."
+   }
+  ],
+  "when_it_takes_effect": "Upon enactment on December 8, 2017; the Division A extension runs through December 22, 2017, or until applicable full-year appropriations are enacted, and the Division B rule applies to the first quarter of fiscal 2018.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -3550,5 +3550,28 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "This law lets the federal government transfer surplus property to state agencies, which can donate it to certain veterans' organizations for education or public health purposes.",
+  "what_it_does": "The law authorizes the federal government to transfer surplus property to a state agency. The state agency can then give that property away within its state. The donations must be used for education or public health. Only organizations made up mostly of veterans, and whose representatives are recognized by the Secretary of Veterans Affairs to handle VA benefit claims, are eligible.",
+  "who_it_affects": [
+   {
+    "group": "Veterans' organizations whose members are mostly veterans",
+    "how": "These groups may be able to receive donated federal surplus property if they meet the membership and VA-recognition requirements."
+   },
+   {
+    "group": "Organizations with VA-recognized claims representatives",
+    "how": "Groups whose representatives are recognized by the VA to prepare, present, and pursue veterans' benefit claims are eligible to receive donations."
+   },
+   {
+    "group": "State agencies that handle surplus property",
+    "how": "Each state agency receives federal surplus property and is responsible for distributing it by donation within its state."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

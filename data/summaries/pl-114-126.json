@@ -1,0 +1,28 @@
+{
+ "headline": "This law lets the Justice Department allow citizens of designated foreign countries to sue certain U.S. agencies under the Privacy Act for mishandling records shared with the U.S. for criminal law enforcement.",
+ "what_it_does": "The Justice Department, with the agreement of State, Treasury, and Homeland Security, can designate a foreign country or regional group whose citizens may bring privacy lawsuits against U.S. agencies. Those suits can challenge intentional or willful improper disclosure of shared records, or a refusal to let a person review or amend their records. A designation can be revoked if the country stops meeting the required privacy, data transfer, or certification conditions, and the Justice Department's decisions cannot be reviewed by a court or agency. The U.S. District Court for the District of Columbia has exclusive jurisdiction over these claims.",
+ "who_it_affects": [
+  {
+   "group": "Citizens of designated foreign countries or regional economic organizations",
+   "how": "They can gain the right to sue certain U.S. agencies under the Privacy Act if the Justice Department designates their country or organization."
+  },
+  {
+   "group": "U.S. federal agencies that receive personal records from foreign governments",
+   "how": "They can be sued by citizens of designated countries for intentional or willful improper disclosure, or for refusing access or amendment requests that the Justice Department has designated for suit."
+  },
+  {
+   "group": "Justice Department, State Department, Treasury Department, and Homeland Security Department",
+   "how": "They must work together on designating countries and can revoke designations if conditions are no longer met."
+  },
+  {
+   "group": "Foreign governments that share criminal-justice records with the U.S.",
+   "how": "Their citizens may gain the ability to seek legal remedies in U.S. courts, which depends on meeting the designation conditions."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

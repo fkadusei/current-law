@@ -4349,5 +4349,28 @@
   "House": "R",
   "Senate": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "Congress voided a Labor Department rule that would have defined which jobs regularly conduct drug testing for state unemployment benefit programs.",
+  "what_it_does": "This joint resolution cancels a Department of Labor rule finalized on August 1, 2016. That rule concerned which occupations regularly conduct drug testing, for purposes of state unemployment compensation programs. Because the resolution nullifies the rule, the rule does not take effect.",
+  "who_it_affects": [
+   {
+    "group": "People applying for state unemployment compensation",
+    "how": "The federal rule that would have shaped how states handle drug testing tied to their benefit applications no longer applies."
+   },
+   {
+    "group": "State unemployment compensation agencies",
+    "how": "They do not have to follow the voided Labor Department definition of occupations that regularly conduct drug testing."
+   },
+   {
+    "group": "Workers in occupations that regularly conduct drug testing",
+    "how": "The rule that would have identified their occupations for state unemployment purposes is no longer in effect."
+   }
+  ],
+  "when_it_takes_effect": "The resolution took effect when it was enacted on March 31, 2017.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

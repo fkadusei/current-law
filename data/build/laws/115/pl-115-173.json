@@ -45,5 +45,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This 2018 law requires federal agencies to send Congress reports on security clearance backlogs, costs, and related processes.",
+  "what_it_does": "The law orders several federal offices to write reports about how security clearance background investigations are run. The Office of Personnel Management must report on its investigation backlog and a plan to fix it, plus the costs of its investigation work compared with a single government-wide system. The Director of National Intelligence must report on continuous evaluation programs, recognition of clearances across agencies, and whether the processing schedule should change. The President must also report on how staff clearances are handled and on position sensitivity designations, along with recommendations for guidance.",
+  "who_it_affects": [
+   {
+    "group": "Federal employees and contractors who need security clearances",
+    "how": "The law requires reports that may lead to changes in how long clearance investigations take and how they are processed."
+   },
+   {
+    "group": "National Background Investigations Bureau and Office of Personnel Management staff",
+    "how": "These offices must prepare reports on the backlog, costs, and a mitigation plan."
+   },
+   {
+    "group": "Office of the Director of National Intelligence",
+    "how": "This office must report on clearance reciprocity, continuous evaluation, and processing schedules."
+   },
+   {
+    "group": "Federal agencies that assign position sensitivity designations",
+    "how": "They may receive guidance on designating positions and choosing the right background investigation after the required review."
+   }
+  ],
+  "when_it_takes_effect": "Took effect on enactment, May 22, 2018; the reports are due on deadlines set in the law.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

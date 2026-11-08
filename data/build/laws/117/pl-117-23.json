@@ -4340,5 +4340,28 @@
   "House": "D",
   "Senate": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "Congress used a special review process to cancel a 2020 EPA rule that had removed certain methane emission limits for new and changed oil and natural gas facilities.",
+  "what_it_does": "This joint resolution overturns an EPA rule published on September 14, 2020, that amended Clean Air Act performance standards for the oil and natural gas sector. The 2020 rule removed limits on methane emissions from that sector. By passing this resolution, Congress nullified the rule, so the earlier standards apply again.",
+  "who_it_affects": [
+   {
+    "group": "Oil and natural gas companies that build, rebuild, or modify facilities",
+    "how": "They must follow the emission standards for new and changed sources that existed before the 2020 rule, instead of the looser rule that was removed."
+   },
+   {
+    "group": "People who live near oil and natural gas facilities",
+    "how": "Methane limits for new and modified facilities apply again, which affects the air quality rules that cover their communities."
+   },
+   {
+    "group": "The Environmental Protection Agency",
+    "how": "It cannot enforce the 2020 rule, and it must work under the earlier standards for this sector."
+   }
+  ],
+  "when_it_takes_effect": "June 30, 2021, the date the resolution was enacted.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

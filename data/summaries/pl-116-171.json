@@ -1,0 +1,44 @@
+{
+ "headline": "A 2020 law that requires the VA to expand mental health care, suicide prevention, women veterans' services, and telehealth for veterans.",
+ "what_it_does": "The law makes many changes to how the Department of Veterans Affairs handles mental health care and suicide prevention. It requires new grant programs, pilot programs, staffing plans, and studies on topics like PTSD treatments, hearing aid specialists, and telehealth access. It also requires the VA to have at least one suicide prevention coordinator at each medical center and to add text messaging to the Women Veterans Call Center. Many provisions require reports from the VA or the Government Accountability Office rather than directly changing benefits.",
+ "who_it_affects": [
+  {
+   "group": "Veterans who receive VA health care",
+   "how": "They may see new mental health services, expanded telehealth options, complementary treatments like acupuncture in pilot programs, and new suicide prevention support."
+  },
+  {
+   "group": "Women veterans",
+   "how": "They can reach the Women Veterans Call Center by text message and will get a VA website listing benefits and services for women."
+  },
+  {
+   "group": "Veterans leaving active military service",
+   "how": "The VA must submit a plan for providing health care to veterans during the first year after discharge or release."
+  },
+  {
+   "group": "Nonprofit and community organizations that provide suicide prevention services",
+   "how": "They may apply for three-year grants from the VA, and grantees must refer some people for VA care and cover ongoing costs if a person refuses VA care."
+  },
+  {
+   "group": "Veterans in rural or hard-to-reach areas",
+   "how": "The VA must fund telehealth grants and study barriers to telehealth access, which may expand remote care options."
+  },
+  {
+   "group": "VA mental health staff and hearing aid specialists",
+   "how": "The VA must create a new occupational series for licensed counselors and therapists, and must appoint at least one licensed hearing aid specialist at each medical center."
+  },
+  {
+   "group": "Members of the Armed Forces and reserve components who have PTSD or traumatic brain injury",
+   "how": "The law creates a joint VA and Department of Defense Intrepid Spirit Center to provide treatment and care."
+  },
+  {
+   "group": "Veterans taking part in VA research on hyperbaric oxygen therapy or precision medicine",
+   "how": "The VA must study hyperbaric oxygen treatment for PTSD and traumatic brain injury and set up a biomarker initiative with data privacy protections."
+  }
+ ],
+ "when_it_takes_effect": "Enacted October 17, 2020, with many provisions setting their own deadlines for reports, studies, programs, and rules, typically within months or a few years after enactment.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

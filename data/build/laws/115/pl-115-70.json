@@ -39,5 +39,36 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law sets new duties for federal agencies to combat, track, and prosecute elder abuse and expands criminal penalties for certain fraud targeting older people.",
+  "what_it_does": "The law requires the Justice Department to appoint Elder Justice Coordinators, train FBI agents, and publish data on elder abuse cases. It expands federal telemarketing fraud rules to cover email marketing and adds a higher penalty and mandatory forfeiture when the victim is over 55. It also adds health care fraud to the list of fraud crimes that can carry enhanced penalties, and it directs agencies to publish model power of attorney and guardianship materials. Several sections require reports to Congress, including a Government Accountability Office review.",
+  "who_it_affects": [
+   {
+    "group": "People age 55 and older",
+    "how": "Fraud schemes that target or victimize someone over 55 can now face enhanced federal criminal penalties and mandatory forfeiture of proceeds."
+   },
+   {
+    "group": "Telemarketers and email marketers",
+    "how": "Fraud carried out through email marketing, and not only telemarketing, is now covered by federal telemarketing fraud rules, including offers tied to investments, business opportunities, or loans."
+   },
+   {
+    "group": "People who run health care businesses or bill federal health programs",
+    "how": "Health care fraud is added to the list of fraud offenses that can face enhanced penalties."
+   },
+   {
+    "group": "State and local law enforcement and adult protective services agencies",
+    "how": "The Justice Department must provide information, training, and technical help, and HHS must publish data on elder abuse cases referred to adult protective services."
+   },
+   {
+    "group": "State courts handling guardianship and conservatorship cases",
+    "how": "HHS may award demonstration grants to state highest courts to review adult guardianship and conservatorship proceedings and make changes."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on October 18, 2017, and the summary does not list separate effective dates for each section.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

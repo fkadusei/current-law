@@ -36,5 +36,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A law that names a post office building in Knox, Pennsylvania, after Specialist Ross A. McGinnis, a soldier.",
+  "what_it_does": "This law renames the U.S. Postal Service facility at 523 East Railroad Street in Knox, Pennsylvania, as the \"Specialist Ross A. McGinnis Memorial Post Office.\" It is a naming measure only. It does not change postal services, hours, fees, or rules.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "It took effect when it was signed into law on June 13, 2016.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

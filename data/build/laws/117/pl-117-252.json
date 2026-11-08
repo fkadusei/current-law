@@ -3517,5 +3517,28 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "This law makes permanent a yearly requirement that federal chief judges hold events promoting free legal help for survivors of abuse and sexual assault.",
+  "what_it_does": "The law requires the chief judge of each federal judicial district to lead at least one public event each year to encourage free (pro bono) legal services for survivors of domestic violence, dating violence, sexual assault, and stalking. A 2018 version of this requirement was set to expire after four years, and this act removes that expiration date so the requirement continues.",
+  "who_it_affects": [
+   {
+    "group": "Survivors of domestic violence, dating violence, sexual assault, and stalking",
+    "how": "The yearly public events are meant to help connect them with lawyers who offer free legal services."
+   },
+   {
+    "group": "Attorneys who do pro bono work",
+    "how": "The events are intended to encourage lawyers to volunteer their time for these survivors."
+   },
+   {
+    "group": "Federal chief judges and federal district courts",
+    "how": "Each chief judge must keep leading at least one public event per year on this topic, with no end date."
+   }
+  ],
+  "when_it_takes_effect": "Enacted December 20, 2022; the requirement no longer sunsets after four years.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

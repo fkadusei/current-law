@@ -3534,5 +3534,32 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2015 law directs the National Science Foundation to keep funding informal STEM learning research and expands its Master Teaching Fellowships to teachers with bachelor's degrees.",
+  "what_it_does": "The law requires the National Science Foundation to keep awarding competitive grants for research and development of out-of-school and informal STEM learning, such as learning that happens outside a classroom. It also lets the agency offer Master Teaching Fellowships to math and science teachers who have only a bachelor's degree, not just those with a master's. Fellowship money for teachers working toward a master's is limited to one year, prorated for part-time study. The law also counts elementary and secondary computer science teachers as math and science teachers for the Robert Noyce Teacher Scholarship Program.",
+  "who_it_affects": [
+   {
+    "group": "Math and science teachers with a bachelor's degree",
+    "how": "They can now qualify for NSF Master Teaching Fellowships, which can support coursework toward a master's degree and leadership training."
+   },
+   {
+    "group": "Elementary and secondary computer science teachers",
+    "how": "They are now treated as math and science teachers for eligibility in the Robert Noyce Teacher Scholarship Program."
+   },
+   {
+    "group": "Students and teachers in informal STEM settings",
+    "how": "NSF-funded research and resources aimed at out-of-school science, technology, engineering, and math learning are meant to continue and expand."
+   },
+   {
+    "group": "Universities and research organizations",
+    "how": "They can compete for NSF grants to research and build informal STEM learning tools and fellowship programs."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -1,0 +1,56 @@
+{
+ "headline": "A 2013 law that set federal spending limits for 2014 and 2015 and also changed rules for federal retirement, air travel fees, Medicare, student loans, and several other programs.",
+ "what_it_does": "The law raises federal discretionary spending limits for fiscal years 2014 and 2015 and keeps the existing Budget Control Act limits for fiscal years 2016 through 2021. It also sets a congressional budget framework and adds spending, fee, and program changes across many areas. Among them, it raises the airline passenger security fee to 5.60 dollars per one-way trip starting July 1, 2014, and it sets new retirement contribution and cost-of-living rules for some federal and military workers. It also extends several Medicare and Medicaid programs that were set to expire in early 2014.",
+ "who_it_affects": [
+  {
+   "group": "Federal employees hired after December 31, 2013",
+   "how": "Employees who newly enter the Federal Employees Retirement System after that date pay a higher contribution rate."
+  },
+  {
+   "group": "Members of the Armed Forces under age 62 who are retired",
+   "how": "Their annual retirement pay adjustments will be based on the Consumer Price Index minus 1 percent starting December 1, 2015, with recomputation at age 62."
+  },
+  {
+   "group": "Air travelers on flights departing U.S. airports",
+   "how": "The one-way security fee rises to 5.60 dollars per trip starting July 1, 2014, and the separate Aviation Infrastructure Security Service Fee is repealed October 1, 2014."
+  },
+  {
+   "group": "Medicare physicians, hospitals, and ambulance providers",
+   "how": "Several payment rules and extensions, including a physician fee update for early 2014 and rural hospital adjustments, were extended for short periods."
+  },
+  {
+   "group": "Medicaid enrollees and state Medicaid programs",
+   "how": "The qualifying individual program and Transitional Medical Assistance were extended through March 31, 2014, and states face new rules on recovering costs from liable third parties."
+  },
+  {
+   "group": "Borrowers with rehabilitated Federal Family Education Loans",
+   "how": "Guaranty agencies may sell these loans to the Secretary of Education more easily, and the maximum collection fee they may charge drops from 18.5 percent to 16 percent."
+  },
+  {
+   "group": "Farmers and ranchers seeking USDA conservation planning help",
+   "how": "The Natural Resources Conservation Service may charge up to 150 dollars per conservation plan, with waivers available for some beginning, limited-resource, or socially disadvantaged producers."
+  },
+  {
+   "group": "Federal and defense contractors and their employees",
+   "how": "Contractor compensation costs are capped at 487,000 dollars per employee, adjusted annually, for contracts entered into 180 days after enactment."
+  },
+  {
+   "group": "Employers with defined benefit pension plans covered by the PBGC",
+   "how": "Flat-rate and variable-rate premiums rise in 2015 and 2016, and the variable-rate cap increases to 500 dollars for plan years beginning after 2015."
+  },
+  {
+   "group": "Oil and gas lessees and states that receive federal land leasing administrative payments",
+   "how": "Certain royalty interest payments are restricted, the Strategic Petroleum Reserve account balances are rescinded, and state administrative payments under the Mineral Leasing Act are reduced by 2 percent starting in fiscal year 2014."
+  },
+  {
+   "group": "Unemployment insurance debtors and state unemployment agencies",
+   "how": "States must use the federal Treasury Offset Program to collect unemployment debts that remain uncollected one year after they were finally determined due."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted December 26, 2013, and its provisions take effect on different dates, including July 1, 2014 for the airline fee increase, December 1, 2015 for the military retirement adjustment change, and 2015 to 2016 for PBGC premium increases.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

@@ -42,5 +42,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A law requires the VA Secretary to approve in writing any move of a VA senior executive to another senior executive job.",
+  "what_it_does": "Public Law 115-188 prohibits a VA senior executive from being reassigned to another senior executive position unless the Secretary of Veterans Affairs approves the move in writing and signs it. The VA must also report these reassignments to Congress on a regular schedule, which the summary describes as biannual. The law is called the Department of Veterans Affairs Senior Executive Accountability Act of 2018, or SEA Act.",
+  "who_it_affects": [
+   {
+    "group": "Senior executives at the Department of Veterans Affairs",
+    "how": "They cannot be moved to a different senior executive job unless the Secretary approves the move in writing and signs it."
+   },
+   {
+    "group": "The Secretary of Veterans Affairs",
+    "how": "The Secretary must personally approve and sign in writing any reassignment of a VA senior executive to another senior executive post."
+   },
+   {
+    "group": "Congress",
+    "how": "It receives the VA's reports on these reassignments on a biannual schedule."
+   }
+  ],
+  "when_it_takes_effect": "The summary does not state an effective date. The law was enacted June 21, 2018.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

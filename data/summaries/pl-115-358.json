@@ -1,0 +1,24 @@
+{
+ "headline": "This 2018 law changes the boundaries of some coastal barrier units in four states and requires the Interior Department to publish digital versions of its coastal barrier maps.",
+ "what_it_does": "The law modifies certain boundaries of the John H. Chafee Coastal Barrier Resources System units in Delaware, North Carolina, South Carolina, and Florida. The system covers undeveloped coastal barriers and related areas that are identified on a map kept by the Department of the Interior. The law also requires Interior to publish digital versions of these maps on the U.S. Fish and Wildlife Service website. Interior must further report to Congress on the progress and challenges of moving from paper to digital maps, and give a timetable for finishing the work.",
+ "who_it_affects": [
+  {
+   "group": "Property owners and residents in the changed unit areas in Delaware, North Carolina, South Carolina, and Florida",
+   "how": "Their land may fall inside or outside a Coastal Barrier Resources System unit after the boundary changes, which can affect federal rules for that land."
+  },
+  {
+   "group": "The public and people who use Coastal Barrier Resources System maps",
+   "how": "They can view the maps online through the U.S. Fish and Wildlife Service website instead of only on paper."
+  },
+  {
+   "group": "Congress",
+   "how": "It receives a report from Interior on the map digitization effort and its timetable."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

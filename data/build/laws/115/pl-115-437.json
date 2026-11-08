@@ -3529,5 +3529,20 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "This law removes a deadline for naming members to the Public Buildings Reform Board and changes when the board ends.",
+  "what_it_does": "It amends the Federal Assets Sale and Transfer Act of 2016, which created the Public Buildings Reform Board to review federal buildings. The law removes the deadline for appointing board members. It also sets the board's end date as six years after its members are selected for appointment.",
+  "who_it_affects": [
+   {
+    "group": "Members of the Public Buildings Reform Board",
+    "how": "They no longer have a set deadline for appointment, and their board's end date is now six years after they are selected."
+   }
+  ],
+  "when_it_takes_effect": "Enacted January 14, 2019; the summary does not give a separate effective date.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

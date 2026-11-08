@@ -3546,5 +3546,28 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2022 federal law lets people who allege sexual assault or sexual harassment choose to take their case to court instead of private arbitration.",
+  "what_it_does": "The law makes arbitration agreements unenforceable when they stop a person from filing a lawsuit in court over a sexual assault or sexual harassment claim. The person who says they were harmed decides whether to use court or arbitration. The law applies to these disputes whether they arise before or after the agreement was signed, based on the general scope of the act.",
+  "who_it_affects": [
+   {
+    "group": "Employees who signed arbitration agreements with their employers",
+    "how": "They can now choose to file a sexual harassment or sexual assault claim in court even if their contract requires arbitration."
+   },
+   {
+    "group": "Consumers who signed arbitration agreements with companies",
+    "how": "They can choose court instead of arbitration for sexual assault or sexual harassment claims covered by those agreements."
+   },
+   {
+    "group": "Businesses that use mandatory arbitration clauses in contracts",
+    "how": "They can no longer rely on those clauses to force sexual assault or sexual harassment disputes into arbitration when the person alleging the conduct wants court."
+   }
+  ],
+  "when_it_takes_effect": "The law took effect when it was enacted on March 3, 2022.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

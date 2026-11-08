@@ -39,5 +39,36 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law changes federal organ transplant rules so that organs infected with HIV, rather than the AIDS-causing agent, can be donated and transplanted under strict research conditions.",
+  "what_it_does": "The law amends the Public Health Service Act to remove the requirement that the national organ transplant network screen for the agent that causes AIDS and replaces it with authority to set standards for HIV-infected organs. Under those standards, HIV-infected organs may only go to recipients who already have HIV and who take part in an approved clinical research study, or who receive a transplant under the rules once research is no longer needed. The Secretary of Health and Human Services must issue research guidelines, review new science each year, and update rules when warranted. The law also says that donations made under this act do not violate the federal criminal ban on knowingly donating organs while infected with HIV.",
+  "who_it_affects": [
+   {
+    "group": "People with HIV who need organ transplants",
+    "how": "They may be able to receive organs from donors with HIV, but only through approved clinical research or under the специфic rules set by the Secretary."
+   },
+   {
+    "group": "Organ donors who have HIV",
+    "how": "Their organs may be recovered and used for transplant if the donation follows this law, which also shields the donation from the federal criminal ban on knowing HIV-infected donations."
+   },
+   {
+    "group": "Organ procurement organizations",
+    "how": "They must test donated organs to identify HIV infection instead of testing for the AIDS-causing agent."
+   },
+   {
+    "group": "The Organ Procurement and Transplantation Network",
+    "how": "It must revise its quality standards for HIV-infected organs and may adopt standards for handling them, following the Secretary's annual science reviews."
+   },
+   {
+    "group": "Transplant centers and institutional review boards",
+    "how": "They must ensure that any HIV-infected organ transplant happens within an approved research study or under the approved rules."
+   }
+  ],
+  "when_it_takes_effect": "The law took effect on its enactment date, November 21, 2013, though the Network and HHS must then issue and revise the related standards and regulations.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

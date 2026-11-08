@@ -1,0 +1,24 @@
+{
+ "headline": "This law requires the Defense Department to find veterans with combat injuries who had taxes wrongly withheld from disability severance pay and help them get refunds.",
+ "what_it_does": "The Department of Defense must identify combat-injured veterans whose disability severance payments were taxed by mistake, since those payments were not considered gross income. The department must then notify each affected veteran of the amount withheld and explain how to file amended tax returns. The deadline for these veterans to request an IRS credit or refund is extended to one year after they receive that notice. The law also requires DOD to stop withholding taxes from these payments when they are not income, and to report to Congress on the number of people affected, the total amount withheld, and how the department will prevent this in the future.",
+ "who_it_affects": [
+  {
+   "group": "Veterans with combat-related injuries who received disability severance payments after January 17, 1991",
+   "how": "They may receive a notice of taxes wrongly withheld and instructions for filing amended returns to get money back."
+  },
+  {
+   "group": "Veterans who missed the normal three-year window to claim a tax refund",
+   "how": "Their deadline to file a refund claim with the IRS is extended to one year after DOD provides the required information."
+  },
+  {
+   "group": "Department of Defense",
+   "how": "It must find affected payments, send notices, stop improper withholding, and submit a report to Congress."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on December 16, 2016; DOD must identify affected veterans within one year of enactment, and the refund filing extension runs from when each veteran receives notice.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

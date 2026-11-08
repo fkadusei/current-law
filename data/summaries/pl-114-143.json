@@ -1,0 +1,32 @@
+{
+ "headline": "This law directs FEMA to modernize and run the nation's emergency alert and warning system so that officials can reach the public during disasters and threats.",
+ "what_it_does": "The law amends the Homeland Security Act of 2002 and tells FEMA to upgrade the integrated public alert and warning system used for natural disasters, terrorism, and other threats. FEMA must set common alert standards and procedures, make alerts reach people with disabilities, access needs, or limited English proficiency, and test and secure the system. FEMA must also run public education, publish an annual performance report, and set up a temporary advisory subcommittee that expires within three years. The law authorizes appropriations for fiscal years 2016 through 2018.",
+ "who_it_affects": [
+  {
+   "group": "The public, including people in areas at risk from disasters",
+   "how": "Alerts are meant to be sent through more channels, tailored by location and risk, and provided in formats usable by people with disabilities or limited English."
+  },
+  {
+   "group": "People in remote areas",
+   "how": "The system is directed to improve the ability of remote areas to receive alerts."
+  },
+  {
+   "group": "FEMA and other federal agencies",
+   "how": "FEMA must modernize, test, secure, and report on the system, and federal agencies must be able to use it to alert the public."
+  },
+  {
+   "group": "State, tribal, and local governments",
+   "how": "These governments are authorized to alert and warn their populations through the system, and the law encourages local and regional public-private partnerships."
+  },
+  {
+   "group": "Wireless and other communications providers and technology companies",
+   "how": "The system is required to adapt to future technologies for communicating directly with the public, and FEMA must run a market awareness campaign about it."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted April 11, 2016; the advisory subcommittee ends no later than three years after enactment, and funding authorization covers fiscal years 2016 through 2018.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

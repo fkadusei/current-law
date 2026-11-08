@@ -1,0 +1,20 @@
+{
+ "headline": "A 2018 law lets the federal government accept donated land to expand the John Muir National Historic Site in Martinez, California.",
+ "what_it_does": "The Department of the Interior is allowed to acquire about 44 acres of land by donation. Once acquired, that land becomes part of the John Muir National Historic Site and is managed as part of that site. The summary does not describe any purchase funding, price, or specific parcel owners.",
+ "who_it_affects": [
+  {
+   "group": "Landowners near the John Muir National Historic Site in Martinez, California",
+   "how": "A landowner may choose to donate land of about 44 acres to the federal government, which would then be added to the historic site."
+  },
+  {
+   "group": "Visitors to the John Muir National Historic Site",
+   "how": "If donated land is added, the site would grow to include about 44 more acres managed under the same rules as the rest of the site."
+  }
+ ],
+ "when_it_takes_effect": "The law took effect when it was enacted on June 22, 2018, but no specific deadline for acquiring the land is stated in the summary.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

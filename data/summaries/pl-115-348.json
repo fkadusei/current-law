@@ -1,0 +1,28 @@
+{
+ "headline": "This 2018 law states U.S. policy condemning the use of civilians as human shields and requires sanctions on certain foreign people and groups that direct such acts.",
+ "what_it_does": "The law says it is U.S. policy to condemn using innocent civilians as human shields. Within one year and every year after, the President must list foreign people who are members of Hizballah or Hamas, or who act for them, and who knowingly direct civilians protected by the law of war to shield military targets from attack. The President must also list foreign people, agencies, or foreign state bodies that knowingly and materially direct or support such acts. Listed targets face blocked U.S.-based property and visa sanctions, including revoked existing visas. The law also urges, but does not require, a similar yearly list of other foreign people or entities that commit this conduct. It stops being effective on December 31, 2023.",
+ "who_it_affects": [
+  {
+   "group": "Foreign members of Hizballah or Hamas who knowingly direct the use of civilians as human shields",
+   "how": "They must be placed on the required annual list and face blocked U.S.-based property and visa sanctions, including loss of existing visas."
+  },
+  {
+   "group": "Foreign people who knowingly act for Hizballah or Hamas and direct civilian shielding",
+   "how": "They must be placed on the required annual list and face the same property blocking and visa sanctions."
+  },
+  {
+   "group": "Foreign persons, agencies, or instrumentalities of foreign states that knowingly and materially direct or support civilian shielding",
+   "how": "They must be placed on the required annual list and may face U.S.-based property blocking and visa sanctions."
+  },
+  {
+   "group": "Foreign persons or entities that knowingly direct civilian shielding but are not on the mandatory list",
+   "how": "The President is urged, but not required, to list them each year, so their inclusion depends on executive action."
+  }
+ ],
+ "when_it_takes_effect": "Signed into law on December 21, 2018; the law ceases to be effective on December 31, 2023.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

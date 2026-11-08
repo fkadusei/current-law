@@ -36,5 +36,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law lets the Interior Department take land within the Grand Ronde Reservation's original 1857 boundaries into trust for the Confederated Tribes of the Grand Ronde Community of Oregon, with limits on gaming.",
+  "what_it_does": "The Department of the Interior may accept title to real property inside the original 1857 Grand Ronde reservation in Polk and Yamhill Counties, Oregon, if the tribes transfer it to the United States. Interior must treat such land as an on-reservation trust acquisition. Gaming is prohibited on that land, except within two miles of a specified gaming facility. Land taken into trust within the original boundaries after September 9, 1988 is considered part of the reservation. The summary notes it describes the version reported to the Senate in March 2016, so the enacted text may differ.",
+  "who_it_affects": [
+   {
+    "group": "Confederated Tribes of the Grand Ronde Community of Oregon",
+    "how": "The tribes can transfer land within the original 1857 reservation to federal trust status, and such land is treated as part of the reservation."
+   },
+   {
+    "group": "Department of the Interior",
+    "how": "Interior is authorized to accept these land transfers and must handle them as on-reservation trust acquisitions."
+   },
+   {
+    "group": "Landowners and residents in Polk and Yamhill Counties, Oregon",
+    "how": "Land within the original reservation boundaries may change to federal trust status, and gaming is restricted on that land."
+   },
+   {
+    "group": "Operators of or neighbors to the specified gaming facility",
+    "how": "Gaming is barred on newly acquired land except within two miles of that facility."
+   }
+  ],
+  "when_it_takes_effect": "Enacted December 14, 2016; the summary does not describe a separate effective date.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

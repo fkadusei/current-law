@@ -1,0 +1,28 @@
+{
+ "headline": "This law requires the VA to share certain prescription information about veterans and their dependents with state controlled substance monitoring programs.",
+ "what_it_does": "The Department of Veterans Affairs must disclose information about people who are given medication prescribed by a VA employee or by an outside provider the VA has authorized to prescribe it. The information goes to state controlled substance monitoring programs. The stated purpose is to prevent misuse and diversion of prescription medicines, and disclosure is limited to what is necessary for that purpose.",
+ "who_it_affects": [
+  {
+   "group": "Veterans who receive VA-prescribed medications",
+   "how": "Information about the medications dispensed to them can be shared with state controlled substance monitoring programs."
+  },
+  {
+   "group": "Dependents of veterans who receive VA-prescribed medications",
+   "how": "Information about medications dispensed to them under VA prescriptions can be shared with state monitoring programs."
+  },
+  {
+   "group": "Non-VA providers authorized by the VA to prescribe medication",
+   "how": "Prescriptions they write under VA authorization are covered by the disclosure requirement."
+  },
+  {
+   "group": "State controlled substance monitoring programs",
+   "how": "They may receive prescription information from the VA for the purpose of preventing misuse and diversion."
+  }
+ ],
+ "when_it_takes_effect": "The summary does not state a separate start date. The law was enacted on November 21, 2017.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

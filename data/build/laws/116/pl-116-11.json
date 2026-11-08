@@ -36,5 +36,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2019 law lets Robert J. Dole receive an honorary appointment to the rank of colonel in the regular Army.",
+  "what_it_does": "This law authorizes an honorary appointment of Robert J. Dole, a former senator from Kansas, to the rank of colonel in the regular Army. The appointment is symbolic and recognizes his military service. The summary does not describe any pay, benefits, or new duties attached to the rank.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law was enacted on April 6, 2019.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

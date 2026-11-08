@@ -36,5 +36,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law directs the Interior Department to carry out a drought plan for the Colorado River, submitted by seven Western states.",
+  "what_it_does": "The law requires the Department of the Interior to carry out the Colorado River Drought Contingency Plan. The plan was submitted to Congress on March 19, 2019, by Arizona, California, Colorado, Nevada, New Mexico, Utah, and Wyoming. Interior must put the plan into effect without delay and manage the reservoirs in the Colorado River System according to the plan.",
+  "who_it_affects": [
+   {
+    "group": "Water users in the Colorado River Basin states",
+    "how": "The plan sets how water is shared and stored during drought, which affects the supply that cities, farms, and other users rely on from the river."
+   },
+   {
+    "group": "Federal reservoir operators at the Bureau of Reclamation",
+    "how": "They must operate Colorado River System reservoirs in line with the plan."
+   },
+   {
+    "group": "Residents of Arizona, California, Colorado, Nevada, New Mexico, Utah, and Wyoming",
+    "how": "Their states are the ones that submitted the plan, so the plan's terms shape how their state shares river water during shortages."
+   }
+  ],
+  "when_it_takes_effect": "The law took effect when it was enacted on April 16, 2019, and Interior must carry out the plan without delay.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

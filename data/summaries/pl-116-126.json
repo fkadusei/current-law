@@ -1,0 +1,24 @@
+{
+ "headline": "This law bars misuse of retirement payments by people who receive them on behalf of others, and requires the Office of Personnel Management to act when misuse is found.",
+ "what_it_does": "A representative payee is someone designated to receive benefit payments for a minor, a person who is mentally incompetent, or someone with another legal disability. The law makes it illegal for a representative payee to embezzle or convert payments from the Civil Service Retirement System or the Federal Employees Retirement System for any use other than the benefit of the person they serve. If the Office of Personnel Management finds this has happened, it must end that person's certification to receive benefits and either name a new representative payee or pay the individual directly.",
+ "who_it_affects": [
+  {
+   "group": "Federal retirees and survivors who receive benefits through a representative payee",
+   "how": "Their payments are protected from misuse, and OPM can switch them to a new payee or pay them directly if a payee is found to have misused funds."
+  },
+  {
+   "group": "Representative payees for Civil Service Retirement System or Federal Employees Retirement System benefits",
+   "how": "They are prohibited from using these payments for anything other than the benefit of the person they represent, and may lose their certification if they do."
+  },
+  {
+   "group": "Minors and adults with mental incompetence or other legal disabilities who receive federal retirement benefits",
+   "how": "OPM must replace a payee who misuses funds so that benefits continue to reach them."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on March 18, 2020; the summary does not state a separate effective date.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

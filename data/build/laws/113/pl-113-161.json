@@ -36,5 +36,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Creates a State Department Special Envoy to promote religious freedom for religious minorities in the Near East and South Central Asia, set to expire in 2019.",
+  "what_it_does": "The law lets the President appoint a Special Envoy inside the State Department, with the rank of ambassador, to focus on religious freedom for religious minorities in the Near East and South Central Asia. The Envoy is directed to speak out against violations, track and push back on religious intolerance, work with foreign governments on discriminatory laws, and help prepare certain required reports. The Envoy may also represent the U.S. in talks with foreign governments and international bodies, under the direction of the President and Secretary of State. The Act ends on October 1, 2019, and allows State to use funds appropriated for fiscal years 2015 through 2019 for the Envoy.",
+  "who_it_affects": [
+   {
+    "group": "Religious minorities in Near East and South Central Asian countries",
+    "how": "The Special Envoy is directed to promote their religious freedom and to consider their economic and security needs tied to religious discrimination or persecution."
+   },
+   {
+    "group": "State Department staff and the Special Envoy's office",
+    "how": "The law creates the Special Envoy position and sets out its duties, reporting roles, and funding source through fiscal year 2019."
+   },
+   {
+    "group": "Foreign governments in the affected regions",
+    "how": "The Envoy is directed to work with these governments on laws that the Act describes as inherently discriminatory."
+   },
+   {
+    "group": "Nongovernmental and international organizations",
+    "how": "The Envoy is directed to consult with them as appropriate."
+   }
+  ],
+  "when_it_takes_effect": "Enacted August 8, 2014; the Act terminates on October 1, 2019.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

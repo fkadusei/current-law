@@ -1,0 +1,44 @@
+{
+ "headline": "This 2018 law extends or changes many VA health care, housing, benefits, and homeless veteran programs that were set to expire.",
+ "what_it_does": "The law keeps many Department of Veterans Affairs programs running past their expiration dates, most through fiscal year 2020, and some through 2019 or 2022. It makes a few programs permanent, such as certain housing adaptation help and rehabilitation benefits for severely injured service members. It also changes some rules, including how the VA collects overpayments, which mental health services are open to some veterans, and conflict-of-interest rules for VA employees tied to schools.",
+ "who_it_affects": [
+  {
+   "group": "Veterans who use VA hospitals and clinics",
+   "how": "Copayment rules for hospital and nursing home care, family caregiver help, and rural transportation and child care pilot programs continue under the extended authority."
+  },
+  {
+   "group": "Veterans with service-connected disabilities",
+   "how": "The VA can keep providing certain nursing home care to them, and some who have difficulty walking can keep getting help acquiring and adapting homes."
+  },
+  {
+   "group": "Homeless veterans and veterans at risk of homelessness",
+   "how": "Reintegration, counseling, outreach, and grant programs, including ones for women veterans and veterans with children, are extended through fiscal year 2020."
+  },
+  {
+   "group": "Veterans not enrolled in VA health care",
+   "how": "They can receive certain mental health services if they are eligible but not enrolled."
+  },
+  {
+   "group": "Health care providers in the VA network",
+   "how": "The VA may now collect overpayments by other means in addition to deducting them from payments owed, and more state prescription drug monitoring programs can be checked."
+  },
+  {
+   "group": "Veterans attending educational institutions",
+   "how": "Schools receiving VA education benefit funds must charge in-state tuition to certain eligible veterans as a condition of participating."
+  },
+  {
+   "group": "Veterans participating in Olympic or adaptive sports programs",
+   "how": "VA monthly allowances for Olympic participants and the Adaptive Sports Program funding are extended through fiscal year 2020."
+  },
+  {
+   "group": "VA employees working on education benefit programs",
+   "how": "Conflict-of-interest rules tied to educational institutions are narrowed to those employees, and the punishment for violations is reduced."
+  }
+ ],
+ "when_it_takes_effect": "The law was signed on September 29, 2018. Most extensions run through fiscal year 2020, with a few ending in fiscal year 2019 or fiscal year 2022.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

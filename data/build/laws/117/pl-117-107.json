@@ -3539,5 +3539,24 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "Congress made lynching a federal hate crime and set criminal penalties for conspiring to commit certain hate crimes.",
+  "what_it_does": "The law makes lynching a federal hate crime offense. It sets penalties of a fine, a prison term of up to 30 years, or both, for a person who conspires to commit a hate crime that causes death or serious bodily injury, or that includes kidnapping, aggravated sexual abuse, or an attempt to kill.",
+  "who_it_affects": [
+   {
+    "group": "People who conspire to commit federal hate crimes",
+    "how": "They can face a fine, up to 30 years in prison, or both if the conspiracy involves a hate crime that results in death or serious injury or includes kidnapping, aggravated sexual abuse, or an attempt to kill."
+   },
+   {
+    "group": "Federal prosecutors and courts",
+    "how": "They have a federal hate crime charge available for lynching and for qualifying hate-crime conspiracies."
+   }
+  ],
+  "when_it_takes_effect": "Signed into law on March 29, 2022. The official summary does not list a separate later effective date.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

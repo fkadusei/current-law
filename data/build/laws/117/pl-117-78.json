@@ -33,5 +33,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Congress created a rebuttable presumption that goods made with forced labor in China's Xinjiang region are barred from entering the United States, and expanded sanctions on people tied to those abuses.",
+  "what_it_does": "The law sets up a presumption that goods made wholly or partly with forced labor in Xinjiang, or made by listed entities, are banned from import into the United States. U.S. Customs and Border Protection enforces this, and an importer can overcome the presumption by showing with clear and convincing evidence that the goods were not made with forced labor. The law also expands existing asset-blocking and visa-blocking sanctions to foreign people and entities responsible for serious human rights abuses tied to forced labor. It requires the Forced Labor Enforcement Task Force and the State Department to report to Congress with strategies on preventing such imports and raising international awareness.",
+  "who_it_affects": [
+   {
+    "group": "Importers bringing goods from China into the United States",
+    "how": "They must be able to show, with clear and convincing evidence, that their goods were not made wholly or partly with forced labor, or else the goods may be blocked at the border."
+   },
+   {
+    "group": "Companies that source materials or products from Xinjiang",
+    "how": "Goods made by these businesses or using Xinjiang materials may be presumed barred from U.S. entry unless the importer proves otherwise."
+   },
+   {
+    "group": "Chinese government officials and entities tied to forced labor programs in Xinjiang",
+    "how": "They face expanded asset-blocking and visa-blocking sanctions under U.S. law."
+   },
+   {
+    "group": "Uyghurs, Kazakhs, Kyrgyz, and members of other persecuted groups in Xinjiang",
+    "how": "The law targets the forced labor programs and the entities that move these workers, with the stated aim of ending those practices."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on December 23, 2021, and its import presumption applies from that date, though the summary does not give a specific effective date for each provision.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

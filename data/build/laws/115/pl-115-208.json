@@ -39,5 +39,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law names a post office building in Pekin, Illinois, after Lance Corporal Jordan S. Bastean.",
+  "what_it_does": "It officially designates the U.S. Postal Service facility at 514 Broadway Street in Pekin, Illinois, as the \"Lance Corporal Jordan S. Bastean Post Office.\" The change is only a name. It does not change postal services, hours, or rules. Naming post offices after people is a common ceremonial way to honor them.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law took effect when it was enacted on July 24, 2018.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

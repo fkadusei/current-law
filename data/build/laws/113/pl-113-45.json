@@ -3530,5 +3530,28 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "This law says federal transportation officials can require sleep-disorder screening or treatment for commercial truck and bus drivers only through a formal rulemaking process.",
+  "what_it_does": "The law limits how the Department of Transportation can impose sleep-apnea or other sleep-disorder screening, testing, or treatment on people who drive commercial motor vehicles. Any such new or revised requirement must go through a formal rulemaking proceeding before the department can enforce it. The law applies only to requirements adopted on or after September 1, 2013.",
+  "who_it_affects": [
+   {
+    "group": "Commercial truck and bus drivers",
+    "how": "They could be subject to a sleep-disorder screening or treatment requirement only if the Department of Transportation adopts it through a formal rulemaking process."
+   },
+   {
+    "group": "Federal transportation regulators",
+    "how": "The Department of Transportation must use a formal rulemaking proceeding before it can implement or enforce these sleep-disorder requirements."
+   },
+   {
+    "group": "Trucking and bus companies",
+    "how": "Any new federal sleep-disorder screening or treatment rule for their drivers would follow the formal rulemaking process first."
+   }
+  ],
+  "when_it_takes_effect": "Enacted October 15, 2013; it applies to sleep-disorder requirements adopted on or after September 1, 2013.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

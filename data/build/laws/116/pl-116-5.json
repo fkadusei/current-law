@@ -3532,5 +3532,40 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "This law temporarily funds several federal agencies through February 15, 2019, ending a partial government shutdown that began in late December 2018.",
+  "what_it_does": "It is a continuing resolution that keeps federal agencies funded while seven of the FY2019 spending bills were still unfinished. It also makes sure employees furloughed during the shutdown can be paid once the lapse ends, and it reimburses certain states, grantees, and furloughed state workers. It extends several existing programs, including the Violence Against Women Act and some immigration authorities, through February 15, 2019. It also delays certain budget sequestration reports and moves 2019 PAYGO scorecard debits to the 2020 scorecard.",
+  "who_it_affects": [
+   {
+    "group": "Federal employees furloughed during the shutdown",
+    "how": "They are covered by a requirement to be paid for the time they were out, though that pay depends on enactment of legislation ending the lapse."
+   },
+   {
+    "group": "Certain state governments and federal grantees",
+    "how": "They may be reimbursed or compensated for losses caused by the funding lapse."
+   },
+   {
+    "group": "Furloughed state employees",
+    "how": "They may receive compensation for pay lost during the federal funding lapse."
+   },
+   {
+    "group": "Federal agencies funded under the continuing resolution",
+    "how": "They receive temporary spending authority through February 15, 2019, or until their full appropriations bills are enacted."
+   },
+   {
+    "group": "Survivors and service providers under the Violence Against Women Act",
+    "how": "The program's authorization is extended through February 15, 2019."
+   },
+   {
+    "group": "Pesticide manufacturers and the Environmental Protection Agency",
+    "how": "The EPA's authority to collect and spend certain pesticide-related fees is extended through February 15, 2019."
+   }
+  ],
+  "when_it_takes_effect": "Enacted January 25, 2019, with funding and extensions running through February 15, 2019, or until applicable appropriations legislation is enacted, whichever comes first.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

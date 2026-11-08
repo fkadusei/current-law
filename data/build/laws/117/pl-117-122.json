@@ -3534,5 +3534,20 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2022 law lets the Department of Homeland Security work with nonprofit groups to create and provide cybersecurity training.",
+  "what_it_does": "The law allows the Department of Homeland Security to partner with one or more consortia made up of nonprofit organizations. These partners can develop, update, and deliver cybersecurity training that supports homeland security. The official summary does not describe who must take the training or how it is funded.",
+  "who_it_affects": [
+   {
+    "group": "Nonprofit entities that form consortia",
+    "how": "They can work with the Department of Homeland Security to develop and deliver cybersecurity training."
+   }
+  ],
+  "when_it_takes_effect": "Signed into law on May 12, 2022; the summary does not list a separate effective date.",
+  "ceremonial": false,
+  "confidence": "low",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

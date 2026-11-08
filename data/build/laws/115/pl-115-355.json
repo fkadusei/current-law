@@ -36,5 +36,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Names a post office building in Dansville, New York, after Staff Sergeant Alexandria Gleason-Morrow.",
+  "what_it_does": "This law renames the U.S. Postal Service facility at 116 Main Street in Dansville, New York. The building will now be called the Staff Sergeant Alexandria Gleason-Morrow Post Office Building. It does not change how the post office runs or any mail service.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law took effect when it was signed on December 21, 2018.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

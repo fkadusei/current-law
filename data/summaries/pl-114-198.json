@@ -1,0 +1,44 @@
+{
+ "headline": "A 2016 federal law that expands opioid and heroin prevention, treatment, law enforcement grants, and related rules across many agencies.",
+ "what_it_does": "The law creates grant programs and task forces aimed at opioid, heroin, and methamphetamine abuse. It funds prevention education, naloxone access for first responders, medication-assisted treatment, recovery support, and programs for women, families, and veterans. It also changes some criminal and Medicare rules, such as limits on certain prescribers and pharmacies for Medicare drug plan members identified as at risk of drug abuse, and broadens who can be prosecuted for importing certain drugs.",
+ "who_it_affects": [
+  {
+   "group": "State, local, and tribal governments",
+   "how": "They can apply for federal grants for treatment, naloxone programs, prescription drug monitoring, and criminal justice drug programs."
+  },
+  {
+   "group": "First responders and people who may give overdose reversal drugs",
+   "how": "The law funds training and supplies for first responders to give naloxone, and it gives priority to states that protect people who administer it from civil liability."
+  },
+  {
+   "group": "People with substance use disorders",
+   "how": "They may gain access to medication-assisted treatment, recovery support services, and family-based programs funded by the grants."
+  },
+  {
+   "group": "People who are incarcerated or recently released",
+   "how": "Some grants fund educational programs, treatment before reentry, and studies of collateral consequences of drug convictions."
+  },
+  {
+   "group": "Medicare prescription drug plan members identified as at risk of drug abuse",
+   "how": "Their plan may limit which doctors and pharmacies can prescribe or fill frequently abused drugs, and they must be notified and have their preferences considered, though hospice and long-term care residents are exempt."
+  },
+  {
+   "group": "Veterans and pregnant or postpartum women with substance use disorders",
+   "how": "The law authorizes pilot grants and services aimed at their treatment needs."
+  },
+  {
+   "group": "Medicaid enrollees with substance use disorders",
+   "how": "The Government Accountability Office must study how the Medicaid institutions for mental disease exclusion affects their access to inpatient treatment."
+  },
+  {
+   "group": "Nonprofit organizations and grant applicants",
+   "how": "Grant funds cannot be used for conferences costing over $20,000 without written approval, and grants are barred to nonprofits that hold money offshore to avoid taxes."
+  }
+ ],
+ "when_it_takes_effect": "Signed into law on July 22, 2016; the authorized programs run through fiscal year 2020, and some provisions set reporting or task force deadlines.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

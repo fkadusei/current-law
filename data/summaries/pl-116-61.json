@@ -1,0 +1,28 @@
+{
+ "headline": "A 2019 law extends several expiring Department of Veterans Affairs programs, including housing support for very low-income veteran families, for one or two more fiscal years.",
+ "what_it_does": "This law keeps several Department of Veterans Affairs programs from ending on their scheduled dates. It extends a set of VA authorities through fiscal year 2020, including vendee loans, beneficiary travel, and a regional office in the Philippines. It also extends through fiscal year 2021 the authority to fund supportive services for very low-income veteran families living in permanent housing.",
+ "who_it_affects": [
+  {
+   "group": "Veterans who use VA beneficiary travel benefits",
+   "how": "The law keeps the VA's authority to pay travel costs for eligible veterans going to VA medical appointments and related care through the extended period."
+  },
+  {
+   "group": "Very low-income veteran families in permanent housing",
+   "how": "The law keeps federal funding available for supportive services, such as help that keeps them stably housed, through fiscal year 2021."
+  },
+  {
+   "group": "Veterans who use VA vendee loans",
+   "how": "The law keeps the VA's authority for vendee loans, which help buyers of VA-acquired property, in place through fiscal year 2020."
+  },
+  {
+   "group": "Veterans and families served by the VA regional office in the Philippines",
+   "how": "The law keeps this regional office authorized to operate through fiscal year 2020."
+  }
+ ],
+ "when_it_takes_effect": "Enacted September 30, 2019; the extended authorities run through fiscal year 2020 for most programs and fiscal year 2021 for the supportive housing services authority.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

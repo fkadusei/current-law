@@ -39,5 +39,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A federal law bans rinse-off cosmetics that contain plastic microbeads, with sales and manufacturing limits set to start in 2017 and 2018.",
+  "what_it_does": "The law amends the Federal Food, Drug, and Cosmetic Act to ban rinse-off cosmetics that have intentionally added plastic microbeads. Manufacturing of these products is banned starting July 1, 2017. Sales of them are banned starting January 1, 2018. For cosmetics that are also over-the-counter drugs, both bans are delayed by one year.",
+  "who_it_affects": [
+   {
+    "group": "Companies that make rinse-off cosmetics such as face washes, toothpastes, and body scrubs",
+    "how": "They must stop making products with intentionally added plastic microbeads starting July 1, 2017."
+   },
+   {
+    "group": "Stores and sellers of rinse-off cosmetics",
+    "how": "They cannot sell products with intentionally added plastic microbeads starting January 1, 2018."
+   },
+   {
+    "group": "Consumers who buy rinse-off personal care products",
+    "how": "Products sold in the United States will no longer contain intentionally added plastic microbeads after the bans take effect."
+   },
+   {
+    "group": "Makers of over-the-counter drug products that are also cosmetics",
+    "how": "Their manufacturing and sales bans are delayed by one year compared with other cosmetics."
+   }
+  ],
+  "when_it_takes_effect": "Manufacturing ban starts July 1, 2017; sales ban starts January 1, 2018; over-the-counter drug cosmetics are delayed by one year.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

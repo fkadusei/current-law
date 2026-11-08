@@ -39,5 +39,24 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Reauthorizes a federal grant program that aims to improve emergency health care for seriously ill or injured children, through fiscal year 2024.",
+  "what_it_does": "This law extends the Emergency Medical Services for Children Program, a grant program run by the Health Resources and Services Administration. The program focuses on improving emergency care for children who are seriously ill or injured. The extension runs through fiscal year 2024.",
+  "who_it_affects": [
+   {
+    "group": "Children who are seriously ill or seriously injured",
+    "how": "The program is meant to improve emergency health care available to them."
+   },
+   {
+    "group": "Organizations that apply for or receive program grants",
+    "how": "They can continue to receive funding for this emergency care work through fiscal year 2024."
+   }
+  ],
+  "when_it_takes_effect": "Enacted August 22, 2019, and authorizes the program through fiscal year 2024.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -3538,5 +3538,28 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2018 law requires federal agencies that build or redesign public websites to make them work on smartphones and tablets.",
+  "what_it_does": "When a federal agency creates or redesigns a website meant for the public, the site must be mobile friendly. Mobile friendly means it can be navigated, viewed, and accessed on a smartphone, tablet, or similar device. The Office of Management and Budget must also report on how well agencies follow this rule.",
+  "who_it_affects": [
+   {
+    "group": "Federal agencies that create or redesign public websites",
+    "how": "They must make new or redesigned public-facing websites work well on mobile devices."
+   },
+   {
+    "group": "Members of the public who use federal websites",
+    "how": "People visiting covered federal sites on phones or tablets should be able to navigate and access them on those devices."
+   },
+   {
+    "group": "Office of Management and Budget",
+    "how": "It must report on whether agencies are complying with the mobile-friendly requirement."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

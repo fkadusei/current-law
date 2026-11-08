@@ -39,5 +39,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Names a post office in Spring Lake, North Carolina, after Howard B. Pate, Jr.",
+  "what_it_does": "This law renames the U.S. Postal Service building at 225 North Main Street in Spring Lake, North Carolina, as the Howard B. Pate, Jr. Post Office. It only changes the official name of the facility. It does not change how mail is delivered or what services the office provides.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law was enacted on March 23, 2018.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

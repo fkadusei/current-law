@@ -36,5 +36,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law updates federal rules on missing children, changing how a missing child is defined and extending funding for related programs through 2023.",
+  "what_it_does": "The law changes the legal definition of a \"missing child\" to mean a person under 18 whose whereabouts are unknown to their parent. It says a parent includes a legal guardian or someone who acts as a parent, such as a grandparent. It also updates the duties of the National Center for Missing and Exploited Children and requires the Center to make its yearly report on missing children and attempted abductions available to the public. Finally, it extends federal programs for missing and exploited children, and audit rules for grant recipients, through fiscal year 2023.",
+  "who_it_affects": [
+   {
+    "group": "Children under 18 who are missing or at risk of being abducted",
+    "how": "The updated definition determines when a child is treated as missing under federal law, based on whether their parent does not know where they are."
+   },
+   {
+    "group": "Grandparents and other relatives or guardians who raise children",
+    "how": "They are explicitly included in the definition of a parent, so they can act in that role under the federal missing-children framework."
+   },
+   {
+    "group": "Families of missing children",
+    "how": "The National Center for Missing and Exploited Children must now make its annual report on missing children and attempted abductions available to the public."
+   },
+   {
+    "group": "Organizations that receive federal grants for missing and exploited children programs",
+    "how": "Their funding and audit requirements continue through fiscal year 2023 under the reauthorization."
+   }
+  ],
+  "when_it_takes_effect": "Enacted October 11, 2018; programs and audit requirements are reauthorized through fiscal year 2023.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

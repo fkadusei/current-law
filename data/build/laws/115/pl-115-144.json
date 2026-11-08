@@ -3538,5 +3538,15 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "Congress renamed a Boston post office lobby after John F. Kennedy in 2018.",
+  "what_it_does": "This law officially names the Postal Service facility at 25 New Chardon Street Lobby in Boston, Massachusetts, the \"John Fitzgerald Kennedy Post Office.\" It is a naming measure only and does not change postal services, rules, or costs. Mail delivery and post office operations stay the same.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law took effect when it was enacted on March 23, 2018.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

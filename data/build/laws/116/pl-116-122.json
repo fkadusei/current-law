@@ -39,5 +39,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law lets Customs and Border Protection hire 240 new agricultural specialists each year and orders a federal review of how farm and food imports are inspected.",
+  "what_it_does": "The law authorizes U.S. Customs and Border Protection to hire, train, and assign 240 new agricultural specialists each fiscal year until staffing matches the number set by an annual staffing model. It also allows the agency to add support staff and certain agricultural detector dog teams. The staffing model counts inspection data, seasonal surges, and trade and travel forecasts at each port of entry. The Government Accountability Office must review how federal agencies coordinate and carry out inspections of farm products entering the country, including specialist training and working conditions.",
+  "who_it_affects": [
+   {
+    "group": "CBP Agriculture Specialists",
+    "how": "The law authorizes the agency to hire and train new specialists and requires a review of their training and working conditions."
+   },
+   {
+    "group": "Importers and shippers of agricultural goods",
+    "how": "Staffing at ports of entry may increase over time, which could change how quickly farm and food shipments are inspected."
+   },
+   {
+    "group": "Travelers arriving at U.S. ports of entry",
+    "how": "Added agricultural staff and detector dog teams may change how luggage and passengers are screened for farm items."
+   },
+   {
+    "group": "Farmers and agricultural producers",
+    "how": "The law targets inspection of agricultural commodities entering the country to address risks to the domestic food and farm supply."
+   }
+  ],
+  "when_it_takes_effect": "The hiring authority applies each fiscal year starting with the law's enactment on March 3, 2020, and the GAO review is required after enactment, with no specific deadline stated in the summary.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

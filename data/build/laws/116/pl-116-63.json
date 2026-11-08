@@ -36,5 +36,24 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A one-year law lets states move some clean water loan funds into drinking water loan funds to address lead exposure threats.",
+  "what_it_does": "For one year, a state may shift up to 5% of the total federal grant money it has received for its clean water state revolving fund into its drinking water state revolving fund. The transfer is allowed only to address a public health threat from heightened lead exposure in drinking water. The title also says the bill includes other provisions, but the official summary describes only this transfer authority.",
+  "who_it_affects": [
+   {
+    "group": "State governments that run clean water and drinking water state revolving funds",
+    "how": "They gain temporary authority to move up to 5% of their clean water fund's cumulative federal grant amount into their drinking water fund to respond to lead risks."
+   },
+   {
+    "group": "Residents served by public drinking water systems in areas with lead exposure concerns",
+    "how": "Their state may use the transferred money to help fund drinking water work aimed at reducing lead exposure."
+   }
+  ],
+  "when_it_takes_effect": "Enacted October 4, 2019; the transfer authority lasts for one year.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

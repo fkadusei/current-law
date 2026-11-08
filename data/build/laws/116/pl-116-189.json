@@ -36,5 +36,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law adds abuse protections for amateur athletes in U.S. Olympic and Paralympic sports and sets up new oversight tools for Congress.",
+  "what_it_does": "The law requires the U.S. Olympic and Paralympic Committee to protect athletes, including by reporting any child abuse allegation involving a minor athlete to law enforcement right away. It creates ways for Congress to dissolve the USOPC board and decertify national governing bodies. It also requires an anonymous yearly athlete survey, creates an Athletes' Advisory Council, and bans retaliation against people who report sexual abuse or harassment. Finally, it sets up a congressional commission to study the state of U.S. Olympic and Paralympic participation.",
+  "who_it_affects": [
+   {
+    "group": "Amateur athletes in U.S. Olympic and Paralympic sports",
+    "how": "They gain abuse protections, a yearly anonymous survey, and a council that gives them a voice in decisions."
+   },
+   {
+    "group": "Coaches, trainers, and employees in Olympic and Paralympic sports",
+    "how": "They are protected from retaliation for reporting abuse or harassment, and they must not try to influence SafeSport investigations."
+   },
+   {
+    "group": "U.S. Olympic and Paralympic Committee and national governing bodies",
+    "how": "They face a duty of care to athletes, must report child abuse allegations to police, and can be overseen or decertified by Congress."
+   },
+   {
+    "group": "U.S. Center for SafeSport",
+    "how": "It must report attempts to interfere with its investigations to Congress within 72 hours and its Ombuds office has revised duties."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

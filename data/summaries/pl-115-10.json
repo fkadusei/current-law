@@ -1,0 +1,28 @@
+{
+ "headline": "This 2017 law authorizes NASA's funding for fiscal year 2017 and sets many policy goals and reporting duties for its space, science, aeronautics, and crew programs.",
+ "what_it_does": "The law authorizes appropriations to NASA for fiscal year 2017 across several areas, including exploration, space operations, science, aeronautics, and education. It states policy goals for the International Space Station, commercial crew and cargo services, and human missions toward Mars. It also requires NASA to produce many plans, roadmaps, and reports, and it sets rules for medical care for former astronauts and insurance and indemnification for launch providers.",
+ "who_it_affects": [
+  {
+   "group": "NASA and its employees",
+   "how": "The agency must carry out the listed plans, studies, and reports and follow new rules on IT security, contracting, and program management."
+  },
+  {
+   "group": "Commercial space companies that provide launch, cargo, or crew services",
+   "how": "They may compete for NASA contracts under fair and open competition and must meet insurance or financial responsibility amounts tied to their launch or reentry work."
+  },
+  {
+   "group": "Former NASA astronauts and payload specialists",
+   "how": "NASA may provide medical monitoring and treatment for conditions linked to spaceflight, with no deductible or copayment, under the TREAT Astronauts Act subtitle."
+  },
+  {
+   "group": "Scientists and research institutions",
+   "how": "NASA must pursue science missions, planetary and astrobiology strategies, and extended mission reviews that affect which projects get funded and how long they run."
+  }
+ ],
+ "when_it_takes_effect": "The law took effect on its enactment date, March 21, 2017, though many of its reports and plans have their own deadlines, some running into the 2020s and 2030s.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

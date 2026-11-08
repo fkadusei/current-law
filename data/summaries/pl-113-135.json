@@ -1,0 +1,32 @@
+{
+ "headline": "This law directs the federal government to transfer about 948 acres of former mine land in Henderson, Nevada, to a local redevelopment agency, with cleanup and reclamation duties placed on the local agency and a designated private party.",
+ "what_it_does": "The Secretary of the Interior must convey federal land within the Three Kids Mine site to the Henderson Redevelopment Agency. The agency must pay fair market value, if any, based on an appraisal that ignores existing contamination, and must cover the appraisal costs. The land is withdrawn from most public land, mining, and mineral leasing uses for 10 years, and the River Mountains Area of Critical Environmental Concern boundary is adjusted to leave out the mine site. Cleanup responsibility passes to a designated private entity and the state of Nevada once the transfer is complete, and existing water infrastructure rights are preserved.",
+ "who_it_affects": [
+  {
+   "group": "City of Henderson and the Henderson Redevelopment Agency",
+   "how": "The agency receives about 948 acres of federal land and takes on the obligation to pay any fair market value and reimburse appraisal costs."
+  },
+  {
+   "group": "Private companies designated to redevelop the site",
+   "how": "A private entity chosen by the agency and approved by Nevada becomes responsible for assessing, cleaning up, reclaiming, and redeveloping the mine site."
+  },
+  {
+   "group": "State of Nevada",
+   "how": "The state shares responsibility for complying with the cleanup agreement after the land is conveyed and must approve the responsible party."
+  },
+  {
+   "group": "Existing water rights holders using Bureau of Reclamation infrastructure",
+   "how": "Their exclusive and perpetual rights to operate, maintain, and improve water conveyance facilities on the land are preserved."
+  },
+  {
+   "group": "Mining claim holders and users of federal land for mineral leasing or public land uses",
+   "how": "The federal land is withdrawn from new claims, leases, and other dispositions for 10 years, subject to valid existing rights."
+  }
+ ],
+ "when_it_takes_effect": "The withdrawal begins on the earlier of enactment (July 25, 2014) or the conveyance date; the conveyance and cleanup obligations follow the agreement and transfer process described in the act.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

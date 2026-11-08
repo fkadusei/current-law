@@ -4340,5 +4340,32 @@
   "House": "D",
   "Senate": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "This 2022 law bans imports of Russian energy products, such as oil and fuels, and lets the President lift the ban only if certain conditions are certified and Congress does not block it.",
+  "what_it_does": "The law prohibits bringing into the United States energy products from Russia, specifically goods classified under chapter 27 of the Harmonized Tariff Schedule, which covers mineral fuels, mineral oils, and related products. The President can end this ban if he certifies that Russia has agreed to withdraw forces and stop hostilities in Ukraine, poses no immediate military threat to any NATO member, and recognizes Ukrainians' right to freely choose their own government. Congress can block that termination through a disapproval process.",
+  "who_it_affects": [
+   {
+    "group": "Companies that import Russian oil and fuel products",
+    "how": "They are barred from bringing covered Russian energy products into the United States."
+   },
+   {
+    "group": "Russian energy exporters",
+    "how": "They can no longer sell covered energy products to buyers in the United States unless the ban is lifted."
+   },
+   {
+    "group": "The President",
+    "how": "The President gains authority to end the ban if the listed conditions are certified, subject to congressional disapproval."
+   },
+   {
+    "group": "Congress",
+    "how": "Lawmakers can vote to disapprove of any presidential decision to end the import ban."
+   }
+  ],
+  "when_it_takes_effect": "The summary does not state a specific effective date; the law was enacted April 8, 2022.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

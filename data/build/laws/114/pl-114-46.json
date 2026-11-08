@@ -39,5 +39,52 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Designates new wilderness areas in central Idaho, adjusts Sawtooth National Recreation Area land rules, and transfers several parcels of federal land to Idaho counties and cities.",
+  "what_it_does": "The law sets aside specified federal land in the Boulder-White Cloud Mountains as wilderness areas within the National Wilderness Preservation System. It keeps existing livestock grazing going where it already exists and lets agencies accept donated grazing leases in a designated grazing area. It also gives land without cost to Blaine, Custer, and Clayton-area local governments and the cities of Challis and Stanley for purposes such as a school bus turnaround, a park, a cemetery, a fire hall, a water tower, a wastewater plant, and about 20 workforce apartments.",
+  "who_it_affects": [
+   {
+    "group": "People who hike, camp, and visit the new wilderness areas",
+    "how": "The areas will be managed under wilderness rules, and commercial outfitting and guide services are allowed where needed for wilderness recreation."
+   },
+   {
+    "group": "Ranchers with grazing permits on the affected land",
+    "how": "Existing grazing is allowed to continue, and leases or permits in the designated grazing area can be donated to the managing agency."
+   },
+   {
+    "group": "Outfitters and guides",
+    "how": "They may provide commercial services inside the new wilderness areas to the extent needed for recreational or other wilderness purposes."
+   },
+   {
+    "group": "Residents of Blaine County",
+    "how": "The county receives up to one acre for a school bus turnaround at no cost, subject to terms the agency sets."
+   },
+   {
+    "group": "Residents of Custer County and the cities of Mackay and Stanley",
+    "how": "The county receives land for a park, campground, fire hall, and waste transfer site, and the city of Stanley receives about four acres for workforce housing."
+   },
+   {
+    "group": "Residents of Challis and Clayton",
+    "how": "The city of Challis receives about 460 acres, and the city of Clayton receives land for a cemetery, park, water tower, wastewater facility, and fire hall."
+   },
+   {
+    "group": "Workers in the City of Stanley",
+    "how": "The city may build up to 20 apartment units on the transferred parcel for people who work in the city or nearby, with building height and placement limits."
+   },
+   {
+    "group": "Idaho Tribes",
+    "how": "The law states that it does not reduce any Indian Tribe's treaty rights."
+   },
+   {
+    "group": "State of Idaho",
+    "how": "The federal agency must try to complete a land exchange for state land located inside the new wilderness boundaries."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on August 7, 2015, and the official summary does not list separate later effective dates for its provisions.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

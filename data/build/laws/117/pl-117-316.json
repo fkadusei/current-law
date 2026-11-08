@@ -33,5 +33,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "The FLOODS Act directs NOAA to improve flood, flash flood, tornado, and hurricane forecasting and warnings, and creates a federal committee on water management.",
+  "what_it_does": "The law requires NOAA to set up a National Integrated Flood Information System to support timely decisions that reduce flood damage and costs. NOAA must also build partnerships with universities and federal agencies, improve flash flood watches and warnings, estimate how often precipitation occurs, and find gaps in snow data used for flood prediction. It also requires the National Weather Service to assign a service coordination hydrologist to each River Forecast Center to help state and local officials, and it creates an Interagency Committee on Water Management and Infrastructure so agencies with overlapping water duties coordinate.",
+  "who_it_affects": [
+   {
+    "group": "State and local emergency managers",
+    "how": "They are expected to get more impact-based forecast support from the National Weather Service to plan for floods."
+   },
+   {
+    "group": "People living in flood-prone areas",
+    "how": "Flood and flash flood forecasts and warnings are meant to be evaluated and improved over time."
+   },
+   {
+    "group": "Federal agencies that work on water matters",
+    "how": "They must coordinate through a new interagency committee where their responsibilities overlap."
+   },
+   {
+    "group": "Universities and researchers",
+    "how": "NOAA is directed to form partnerships with institutions of higher education to improve water predictions."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -36,5 +36,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Congress named a post office in Salem, Ohio after Howard Arthur Tibbs.",
+  "what_it_does": "This law renames the U.S. Postal Service facility at 275 Penn Avenue in Salem, Ohio, as the Howard Arthur Tibbs Post Office. It is a naming measure only and does not change how the post office operates or its services. The official summary describes only the designation.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law was enacted on December 27, 2022.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

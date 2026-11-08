@@ -1,0 +1,20 @@
+{
+ "headline": "Congress approved a Veterans Affairs request to waive certain dental care eligibility rules so the VA can run a pilot program expanding veterans' access to dental care.",
+ "what_it_does": "This joint resolution approves a waiver request from the Secretary of Veterans Affairs under section 1703E(f) of title 38 of the U.S. Code. The waiver sets aside some statutory dental care eligibility requirements so the VA can test a pilot program. The pilot is part of the VA's Center for Innovation for Care and Payment and is meant to expand veterans' access to dental services.",
+ "who_it_affects": [
+  {
+   "group": "Veterans who need dental care",
+   "how": "Some veterans who would not otherwise meet current dental care eligibility rules may be able to receive care through the pilot program."
+  },
+  {
+   "group": "Veterans Affairs dental and health care staff",
+   "how": "VA staff would run the pilot program under the waived rules."
+  }
+ ],
+ "when_it_takes_effect": "The resolution was enacted on March 3, 2020. The summary does not give specific start or end dates for the pilot program.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

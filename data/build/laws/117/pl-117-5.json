@@ -3507,5 +3507,28 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "Extends COVID-19 bankruptcy relief provisions for one year and lets some Chapter 13 debtors modify repayment plans if hardship came from COVID-19.",
+  "what_it_does": "The law extends two bankruptcy provisions that were set to expire March 27, 2021, for one year. One excludes certain COVID-19 aid payments from income counted in bankruptcy. The other raises the debt limit for businesses that qualify for certain Chapter 11 reorganization bankruptcies. It also lets people with Chapter 13 repayment plans confirmed before enactment modify those plans if they face material financial hardship due to COVID-19, which was previously limited to plans confirmed before March 27, 2020.",
+  "who_it_affects": [
+   {
+    "group": "People in bankruptcy who received COVID-19 aid payments",
+    "how": "Those payments can be left out of the income counted in their bankruptcy case for one additional year."
+   },
+   {
+    "group": "Small businesses filing certain Chapter 11 reorganization bankruptcies",
+    "how": "They can qualify under a higher debt eligibility limit for one additional year."
+   },
+   {
+    "group": "Chapter 13 debtors with plans confirmed before March 27, 2021",
+    "how": "If they face material financial hardship due to COVID-19, they may ask to modify their existing repayment plans."
+   }
+  ],
+  "when_it_takes_effect": "Upon enactment on March 27, 2021, with the extended provisions lasting one year.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

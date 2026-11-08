@@ -1,0 +1,24 @@
+{
+ "headline": "Public Law 116-133 lets certain foreign-born children of U.S. citizen military members and government employees stationed abroad become citizens even if they do not live in the United States.",
+ "what_it_does": "Before this law, a foreign-born child got U.S. citizenship automatically only if the child lived in the United States in the custody of a citizen parent after being lawfully admitted as a permanent resident. This law says that living-in-the-United-States requirement is also met when the child lives with a citizen service member or government employee who is stationed abroad, or with that person's accompanying spouse, and the child has been lawfully admitted for permanent residence. The child must still be under 18 and have at least one citizen parent.",
+ "who_it_affects": [
+  {
+   "group": "Children of U.S. citizen members of the Armed Forces stationed abroad",
+   "how": "Some foreign-born children who live overseas with a citizen service member can now acquire citizenship automatically without living in the United States."
+  },
+  {
+   "group": "Children of U.S. citizen federal civil servants stationed abroad",
+   "how": "Some foreign-born children who live overseas with a citizen government employee can now acquire citizenship automatically without living in the United States."
+  },
+  {
+   "group": "Accompanying spouses of stationed service members and government employees",
+   "how": "The law counts an accompanying spouse's custody of the child as meeting the residence requirement, so children in that spouse's care may qualify."
+  }
+ ],
+ "when_it_takes_effect": "The law took effect when it was enacted on March 26, 2020. The official summary does not list a separate effective date.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

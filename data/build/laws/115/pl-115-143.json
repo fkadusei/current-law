@@ -39,5 +39,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Congress named a Princeton, New Jersey post office after mathematician John F. Nash Jr.",
+  "what_it_does": "This law renames a United States Postal Service facility at 259 Nassau Street, Suite 2 in Princeton, New Jersey, as the \"Dr. John F. Nash, Jr. Post Office.\" It is an honorary designation and does not change how the post office operates or what services it provides.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law was enacted on March 23, 2018.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

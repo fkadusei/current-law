@@ -36,5 +36,24 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Requires small U.S. airports to provide nursing areas and baby changing tables in their terminals by fiscal year 2023.",
+  "what_it_does": "This law requires small hub airports to keep a lactation area for nursing mothers in each passenger terminal building. It also requires a baby changing table in at least one men's restroom and one women's restroom in each terminal. Medium and large hub airports already had to meet this requirement by fiscal year 2021, and this law sets a 2023 deadline for small hub airports.",
+  "who_it_affects": [
+   {
+    "group": "Small hub airports",
+    "how": "They must add or maintain nursing areas and baby changing tables in their passenger terminals by fiscal year 2023."
+   },
+   {
+    "group": "Nursing mothers and parents traveling with babies",
+    "how": "They can expect a private nursing area and changing tables at small hub airports once the requirement is met."
+   }
+  ],
+  "when_it_takes_effect": "Small hub airports must comply by fiscal year 2023. Medium and large hub airports were required to comply by fiscal year 2021.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

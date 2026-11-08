@@ -1,0 +1,32 @@
+{
+ "headline": "This 2015 law directs the Justice Department to set up a national network for Blue Alerts, which share information when a law enforcement officer is seriously hurt, killed, or missing, or when a credible threat against officers exists.",
+ "what_it_does": "The Attorney General must create a national Blue Alert communications network inside the Department of Justice and assign an existing DOJ officer to coordinate it. The coordinator helps states and local governments build their own Blue Alert plans, offers voluntary guidelines, develops ways to help catch suspects, and sets up an advisory group. The guidelines must address sharing information with law enforcement and public health officials, following federal, state, and local privacy laws, and protecting the civil liberties of officers and their families. The coordinator must also report to Congress each year.",
+ "who_it_affects": [
+  {
+   "group": "Law enforcement officers and their families",
+   "how": "The law requires that Blue Alert guidelines protect the civil liberties of officers and their families."
+  },
+  {
+   "group": "State and local governments",
+   "how": "They can use federal help and voluntary guidelines to create their own Blue Alert plans, but the law does not require them to do so."
+  },
+  {
+   "group": "State and local law enforcement agencies",
+   "how": "They may receive information and coordination help through the national network when a Blue Alert is issued."
+  },
+  {
+   "group": "Public health and other officials",
+   "how": "The guidelines are meant to make sure they receive appropriate Blue Alert information."
+  },
+  {
+   "group": "The public",
+   "how": "People may receive Blue Alerts about a seriously injured, killed, or missing officer, or about a credible threat against an officer, when a state or local plan sends them."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on May 19, 2015, and the source material does not list separate effective dates for each provision.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

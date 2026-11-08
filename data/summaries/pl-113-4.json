@@ -1,0 +1,44 @@
+{
+ "headline": "This law renews and expands federal programs and protections for victims of domestic violence, dating violence, sexual assault, and stalking, and it gives Indian tribes criminal jurisdiction over some of these crimes on tribal lands.",
+ "what_it_does": "It extends the Violence Against Women Act and related programs for fiscal years 2014 through 2018, and it adds or changes grant rules, services, and definitions. It lets public housing agencies and assisted-housing owners remove an abuser from a lease without evicting the victim, and it sets up emergency transfer rules for victims. It also gives tribal courts authority over domestic violence and protection order violations on tribal land, and it changes immigration rules for some abused immigrants and campus rules for reporting sexual violence.",
+ "who_it_affects": [
+  {
+   "group": "Victims of domestic violence, dating violence, sexual assault, and stalking",
+   "how": "They may receive expanded services, legal help, emergency housing transfers, and protections in federal programs."
+  },
+  {
+   "group": "Tenants in public housing and other federally assisted housing",
+   "how": "They cannot be denied or evicted only because they are victims, though household members who commit domestic-violence-related crimes can be removed from the lease."
+  },
+  {
+   "group": "Indian tribes and tribal courts",
+   "how": "They gain criminal jurisdiction over certain domestic violence and protection order crimes on their lands, along with new grant funding and procedural requirements."
+  },
+  {
+   "group": "Immigrant victims of abuse, including VAWA self-petitioners and U-visa applicants",
+   "how": "Some are excluded from the public charge bar, and stalking victims can now qualify for U visas."
+  },
+  {
+   "group": "Colleges and universities",
+   "how": "They must follow expanded rules on disclosing rape and sexual violence discipline and must run prevention and education programs."
+  },
+  {
+   "group": "Law enforcement agencies, crime labs, and state or local governments",
+   "how": "They can receive grants to audit and clear backlogs of sexual assault evidence kits, but must meet deadlines, plans, and reporting rules."
+  },
+  {
+   "group": "International marriage brokers and K-visa fiancé(e) petitioners",
+   "how": "Brokers face age-verification rules, background checks, and criminal penalties for certain violations."
+  },
+  {
+   "group": "Nonprofit grant recipients and other DOJ grantees",
+   "how": "They face more audits, compensation disclosure rules, conference spending limits, and a ban on using grant funds to lobby over grant awards."
+  }
+ ],
+ "when_it_takes_effect": "Many provisions took effect at the start of the next federal fiscal year, October 1, 2013, most funding authorizations cover fiscal years 2014 through 2018, and tribal criminal jurisdiction took effect two years after enactment, in March 2015.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

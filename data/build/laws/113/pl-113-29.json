@@ -36,5 +36,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This 2013 law lets the Housing and Urban Development Department add or change rules for federally insured reverse mortgages to strengthen the program's finances.",
+  "what_it_does": "It amends the National Housing Act, which governs federal mortgage insurance for reverse mortgages, also called home equity conversion mortgages. It lets the HUD Secretary set extra or different requirements through a notice or mortgagee letter when needed to improve the program's fiscal safety and soundness. Those requirements take effect as soon as HUD issues them.",
+  "who_it_affects": [
+   {
+    "group": "Elderly homeowners with federally insured reverse mortgages",
+    "how": "HUD can change the rules for their loans through notices or mortgagee letters, and those changes take effect when issued."
+   },
+   {
+    "group": "Lenders and mortgage servicers that offer federally insured reverse mortgages",
+    "how": "They must follow any new or alternative HUD requirements issued under this authority as soon as they are published."
+   },
+   {
+    "group": "Future borrowers considering a reverse mortgage",
+    "how": "Loan terms and eligibility rules may change over time as HUD uses this authority."
+   }
+  ],
+  "when_it_takes_effect": "The law took effect when it was signed on August 9, 2013. Each new HUD requirement takes effect when HUD issues it.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

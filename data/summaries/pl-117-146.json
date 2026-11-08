@@ -1,0 +1,24 @@
+{
+ "headline": "A 2022 federal law gives the Federal Maritime Commission more power to police ocean shipping fees and unfair practices affecting U.S. exports.",
+ "what_it_does": "The law expands the Federal Maritime Commission's authority over ocean shipping. The agency can now investigate complaints about detention and demurrage charges, which are late fees that shipping companies charge when cargo sits too long at ports or containers are not returned on time. If the agency finds those charges unreasonable, it can order refunds. The law also bars ocean carriers, marine terminal operators, and ocean transportation intermediaries from unreasonably refusing available cargo space or using other unfair or unjustly discriminatory practices.",
+ "who_it_affects": [
+  {
+   "group": "Exporters and companies that ship goods overseas",
+   "how": "They can file complaints with the Federal Maritime Commission about late fees they believe are unreasonable and may be eligible for refunds."
+  },
+  {
+   "group": "Ocean carriers and marine terminal operators",
+   "how": "They must charge reasonable detention and demurrage fees and cannot unreasonably refuse available cargo space or treat shippers unfairly or discriminatorily."
+  },
+  {
+   "group": "Ocean transportation intermediaries such as freight forwarders and customs brokers",
+   "how": "They are subject to the same bans on unreasonable refusal of cargo space and unfair or discriminatory practices."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

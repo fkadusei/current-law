@@ -1,0 +1,28 @@
+{
+ "headline": "This law changes how the federal Public Safety Officers' Benefits program decides claims for officers killed or hurt on the job and their families.",
+ "what_it_does": "It changes rules for the Public Safety Officers' Benefits program, which pays death, disability, and education benefits to public safety officers and their survivors. The Bureau of Justice Assistance must give substantial weight to facts from state, local, or federal agencies, and it must adopt agency fact findings that have substantial evidence behind them. The bureau must try to get missing documents before abandoning a claim and may use tools like subpoenas first. It also presumes an officer acted properly, and it cannot deny benefits based on a limitation such as intoxication unless there is clear and convincing evidence.",
+ "who_it_affects": [
+  {
+   "group": "Public safety officers such as police, firefighters, and emergency medical workers",
+   "how": "Those injured in the line of duty may find it easier to get disability benefits because the bureau must presume they acted properly and must prove any limitation with clear and convincing evidence."
+  },
+  {
+   "group": "Surviving family members of officers killed in the line of duty",
+   "how": "Survivors filing death benefit claims get the same presumption of proper conduct and protection against denial based on limitations like intoxication, and the bureau must try to obtain missing records before abandoning a claim."
+  },
+  {
+   "group": "Students who are children or spouses of fallen or disabled officers",
+   "how": "Education benefit claims are covered by the same documentation and claim-processing rules, and the age limit is extended for claims approved more than one year after filing."
+  },
+  {
+   "group": "State, local, and federal agencies that handle officer injury or death records",
+   "how": "Their certifications of facts and findings must be given substantial weight and, when supported, adopted by the bureau in eligibility decisions."
+  }
+ ],
+ "when_it_takes_effect": "The provisions apply to claims that were pending on or submitted on or after the date the law was enacted, June 2, 2017.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

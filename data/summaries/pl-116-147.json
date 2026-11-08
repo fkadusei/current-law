@@ -1,0 +1,20 @@
+{
+ "headline": "Extends the deadline for lenders to approve Paycheck Protection Program loans for small businesses until August 8, 2020.",
+ "what_it_does": "This law moves the end date for the Paycheck Protection Program, a COVID-19 relief effort for small businesses, to August 8, 2020. It also separates the loan amounts set aside for the Paycheck Protection Program from amounts for other Small Business Act section 7(a) loans. The official summary covers only the deadline extension, so other provisions in the title may have details not described here.",
+ "who_it_affects": [
+  {
+   "group": "Small businesses seeking Paycheck Protection Program loans",
+   "how": "They get more time to apply for these loans before the program's application period closes."
+  },
+  {
+   "group": "Lenders that make Paycheck Protection Program loans",
+   "how": "They can keep approving these loans under the program until the new deadline."
+  }
+ ],
+ "when_it_takes_effect": "Enacted July 4, 2020, with the extended application period running through August 8, 2020.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

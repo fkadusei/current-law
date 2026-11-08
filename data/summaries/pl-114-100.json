@@ -1,0 +1,24 @@
+{
+ "headline": "This law temporarily extends federal funding for government agencies so a shutdown does not happen when the previous funding expired on December 16, 2015.",
+ "what_it_does": "It amends the Continuing Appropriations Act, 2016 to keep federal agencies funded at their current annual rate. The funding continues through the earlier of December 22, 2015, or the date Congress enacts full FY2016 appropriations legislation. Without this extension, agencies would have lost their funding authority on December 16, 2015.",
+ "who_it_affects": [
+  {
+   "group": "Federal agencies",
+   "how": "They can keep operating at their current funding level instead of shutting down when the prior funding expired."
+  },
+  {
+   "group": "Federal employees",
+   "how": "They can continue working and being paid during the short extension period rather than facing a funding lapse."
+  },
+  {
+   "group": "People who use federal services",
+   "how": "Programs and services run by federal agencies continue without interruption during the extension period."
+  }
+ ],
+ "when_it_takes_effect": "Enacted December 16, 2015, and funding runs through the earlier of December 22, 2015, or enactment of FY2016 appropriations legislation.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

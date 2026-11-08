@@ -36,5 +36,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A law that names the Postal Service building at 3957 2nd Avenue in Laurel Hill, Florida, after Sergeant First Class William \"Kelly\" Lacey.",
+  "what_it_does": "This law renames a United States Postal Service facility in Laurel Hill, Florida, to honor Sergeant First Class William \"Kelly\" Lacey. It changes only the name of the building and does not change how the post office operates. Mail service, postal rules, and employee duties stay the same.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law took effect when it was signed on July 29, 2016.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

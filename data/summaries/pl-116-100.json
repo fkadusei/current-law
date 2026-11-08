@@ -1,0 +1,20 @@
+{
+ "headline": "A 2019 law requires the Bonneville Power Administration to pay the Spokane Tribe settlement money tied to the Grand Coulee Dam.",
+ "what_it_does": "The law requires the Bonneville Power Administration to make specified settlement payments to the Spokane Tribe of Indians. The payments relate to the building and running of the Grand Coulee Dam. The tribe may use or invest the money the same way it handles its other tribal government funds. The first payment ends the tribe's monetary claims against the United States for a fair share of the dam's yearly hydropower revenue.",
+ "who_it_affects": [
+  {
+   "group": "Spokane Tribe of Indians of the Spokane Reservation",
+   "how": "The tribe receives settlement payments and gives up its past and existing money claims against the United States over its share of Grand Coulee Dam hydropower revenue."
+  },
+  {
+   "group": "Bonneville Power Administration",
+   "how": "The federal power agency must make the payments specified in the law."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on December 20, 2019; the summary does not list specific payment dates.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

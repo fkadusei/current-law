@@ -1,0 +1,32 @@
+{
+ "headline": "This law widens legal protections for people and businesses that donate food and grocery products, including some donations sold at a low price.",
+ "what_it_does": "The law expands the liability protections under the Bill Emerson Good Samaritan Food Donation Act. Protection now covers donations of food or grocery products that appear fit or wholesome, even when the recipient pays a reduced \"good Samaritan\" price. That price must be no more than the cost of handling, processing, packaging, transporting, and distributing the item. Protection also covers food given directly to needy individuals at no cost.",
+ "who_it_affects": [
+  {
+   "group": "Retail grocers and wholesalers",
+   "how": "They gain liability protection when they donate food or grocery products, including at a reduced price that covers only their handling and distribution costs."
+  },
+  {
+   "group": "Agricultural producers, processors, and distributors",
+   "how": "They gain liability protection when they donate food they grow, process, or distribute."
+  },
+  {
+   "group": "Restaurants and caterers",
+   "how": "They gain liability protection when they donate food, including directly to needy individuals at no cost."
+  },
+  {
+   "group": "School food authorities and institutions of higher education",
+   "how": "They gain liability protection when they donate food, including directly to needy individuals at no cost."
+  },
+  {
+   "group": "Needy individuals",
+   "how": "They may receive food or grocery products at no cost directly from the listed donors."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

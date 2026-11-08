@@ -39,5 +39,36 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Directs the federal Bureau of Reclamation to transfer certain land and a game and fish building around Jamestown Reservoir in North Dakota to state and local owners.",
+  "what_it_does": "The bill requires the Bureau of Reclamation to convey recreation land and permitted cabin land around Jamestown Reservoir to the Stutsman County Park Board within five years. The county board pays the costs of the transfer and must use the recreation land for public recreation, access, wildlife habitat, or keeping its natural character. Cabin land must be used for existing cabins or recreation purposes, and it can be sold at fair market value, excluding improvements made by permit holders. Separately, the bill requires the Bureau to transfer a leased game and fish headquarters to the State of North Dakota, which must keep using it for that purpose.",
+  "who_it_affects": [
+   {
+    "group": "Stutsman County Park Board",
+    "how": "It receives federal recreation land and permitted cabin land and must pay transfer costs and follow the bill's use rules, or the land returns to the United States."
+   },
+   {
+    "group": "Cabin permit holders at Jamestown Reservoir",
+    "how": "Their cabin sites may be sold to the county board at fair market value, with the value of their own improvements left out of the price."
+   },
+   {
+    "group": "North Dakota Game and Fish Department",
+    "how": "It will own the game and fish headquarters it currently leases, and must keep using it as a game and fish headquarters."
+   },
+   {
+    "group": "Ranchers with haying or grazing contracts on the recreation land",
+    "how": "Existing haying and grazing contracts in effect when the law was enacted may continue under the county board."
+   },
+   {
+    "group": "Bureau of Reclamation",
+    "how": "It must complete these transfers within five years and may use payments received for Jamestown Dam and Reservoir operations, subject to appropriations."
+   }
+  ],
+  "when_it_takes_effect": "The Bureau of Reclamation must complete the conveyances within five years of enactment on December 11, 2018.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

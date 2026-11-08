@@ -1,0 +1,28 @@
+{
+ "headline": "This law lets cities combine their wastewater and stormwater cleanup plans under one Clean Water Act permit and creates an EPA office to help municipalities.",
+ "what_it_does": "The law allows a city or town to write one integrated plan that covers wastewater and stormwater, and a Clean Water Act discharge permit can then include all the requirements that plan addresses. Plans can include green infrastructure, such as measures that copy natural processes to store or reduce stormwater, and projects that reclaim, recycle, or reuse water. Permits built on these plans can spread certain water quality compliance steps over more than one permit term, if state standards allow it. The law also creates an Office of the Municipal Ombudsman inside the EPA to give technical help to cities and towns, and it requires the EPA to promote green infrastructure and report on integrated plans used since June 5, 2012.",
+ "who_it_affects": [
+  {
+   "group": "Municipalities with wastewater or stormwater permits",
+   "how": "They can combine wastewater and stormwater requirements into one integrated plan and ask to modify existing EPA orders or settlements based on that plan."
+  },
+  {
+   "group": "Cities and towns with combined sewer systems",
+   "how": "They may be able to address combined sewer overflow requirements through an integrated plan rather than separate permit obligations."
+  },
+  {
+   "group": "State environmental agencies that issue Clean Water Act permits",
+   "how": "They may need to review and approve integrated plans and compliance schedules that span more than one permit term."
+  },
+  {
+   "group": "Residents who pay local water and sewer fees",
+   "how": "Local utilities may choose green infrastructure or water reuse projects under an integrated plan, which can affect how their local water system is built and funded."
+  }
+ ],
+ "when_it_takes_effect": "The law took effect when it was enacted on January 14, 2019, though specific permits and plans depend on later EPA and state actions.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

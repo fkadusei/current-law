@@ -3526,5 +3526,24 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "This law gives the Patent Office permanent authority to run a program that speeds up patent reviews for humanitarian inventions.",
+  "what_it_does": "The law sets up a program that gives certificates to patent applicants whose inventions address humanitarian problems. The certificates can be used to speed up certain proceedings and applications at the U.S. Patent and Trademark Office. The program replaces an earlier version called Patents for Humanity. The Patent Office must hold a competition at least once every two years to pick the winners.",
+  "who_it_affects": [
+   {
+    "group": "Inventors and companies that file patent applications for humanitarian technology",
+    "how": "Eligible applicants can compete for certificates that may speed up how quickly their patent applications are handled."
+   },
+   {
+    "group": "U.S. Patent and Trademark Office",
+    "how": "The office must run a competition at least once every two years to award these certificates."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on December 20, 2022, and the competition requirement applies on an ongoing basis after that date.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

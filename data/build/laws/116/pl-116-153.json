@@ -42,5 +42,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A federal law directing the Justice Department to set up a grant and technical assistance program for veterans treatment courts.",
+  "what_it_does": "The law tells the Department of Justice to create a Veterans Treatment Court Program. Through this program, the department can give grants and technical help to state, local, and tribal governments. The money and help are meant to develop and keep running veterans treatment courts.",
+  "who_it_affects": [
+   {
+    "group": "Military veterans involved in criminal cases",
+    "how": "Veterans facing charges may have access to veterans treatment courts in places where local governments set them up with federal grant support."
+   },
+   {
+    "group": "State, local, and tribal governments",
+    "how": "These governments can apply for federal grants and technical assistance to start or maintain veterans treatment courts."
+   },
+   {
+    "group": "Department of Justice",
+    "how": "The department must establish and run the Veterans Treatment Court Program."
+   }
+  ],
+  "when_it_takes_effect": "Enacted August 8, 2020, with the program's details left to the Department of Justice to carry out.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

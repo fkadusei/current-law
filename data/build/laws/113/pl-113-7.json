@@ -33,5 +33,40 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This 2013 law narrows which officials must post financial disclosure reports online and delays the deadline for building the electronic filing systems.",
+  "what_it_does": "It changes the STOCK Act, a 2012 law on financial disclosure. Mandatory public online reporting now applies only to Members of Congress, congressional candidates, the President, the Vice President, and certain senior executive branch officials who need Senate confirmation. The law also pushes the deadline for building the electronic filing and public access systems to January 1, 2014. It removes the rule that barred requiring a login to search or sort the public data, and it removes the login requirement for people downloading the reports.",
+  "who_it_affects": [
+   {
+    "group": "Members of Congress and congressional candidates",
+    "how": "They must still file financial disclosure reports that are posted publicly online."
+   },
+   {
+    "group": "The President and Vice President",
+    "how": "They must still file financial disclosure reports that are posted publicly online."
+   },
+   {
+    "group": "Senate-confirmed senior executive branch officials (Executive Schedule levels I and II)",
+    "how": "They must still file financial disclosure reports that are posted publicly online."
+   },
+   {
+    "group": "Congressional staff and other executive branch officers and employees",
+    "how": "They no longer face mandatory public online posting of their financial disclosure statements under this law."
+   },
+   {
+    "group": "Members of the public who search or download financial disclosure data",
+    "how": "They can now search and sort the public data without a login, and downloads no longer require a login with the user's name."
+   },
+   {
+    "group": "The Secretary of the Senate, the Sergeant at Arms, the Clerk of the House, and the Director of the Office of Government Ethics",
+    "how": "They received more time, until January 1, 2014, to build electronic filing and online public access systems."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on April 15, 2013. The system-building deadline is extended to January 1, 2014.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

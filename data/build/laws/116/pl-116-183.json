@@ -36,5 +36,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law applies small business subcontracting limits to certain VA contracts awarded to veteran-owned small businesses and adds penalties for false compliance certifications.",
+  "what_it_does": "The law applies certain small business subcontracting limits to contracts the Department of Veterans Affairs awards to veteran-owned small businesses, including those with service-connected disabilities. Before awarding such a contract, the VA must get a certification from the bidder promising to follow those limits, and the certification must warn that false statements are subject to criminal penalties. The VA's small business office and chief acquisition officer must jointly monitor compliance and send suspected violations to the VA Inspector General. If the VA finds a contractor did not act in good faith, it may refer the contractor for debarment, impose a criminal fine, or refer it for prosecution, and the Inspector General must report on these referrals and outcomes.",
+  "who_it_affects": [
+   {
+    "group": "Veteran-owned small businesses and small businesses with service-connected disabled veteran owners",
+    "how": "They are the businesses whose VA contracts are covered by the subcontracting limits and monitoring rules."
+   },
+   {
+    "group": "Companies that bid on VA contracts",
+    "how": "They must certify in writing that they will follow the subcontracting limits and face possible criminal penalties, debarment, or fines if they do not act in good faith."
+   },
+   {
+    "group": "Prime contractors that hire subcontractors on VA work",
+    "how": "They must limit how much of the contracted work they pass to other companies, as set by the applicable subcontracting rules."
+   },
+   {
+    "group": "Department of Veterans Affairs contracting staff and Inspector General office",
+    "how": "They must monitor compliance, refer suspected violations, and the Inspector General must report on the number and outcome of referrals."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

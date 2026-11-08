@@ -36,5 +36,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2014 law renamed Philadelphia's 30th Street Station as the William H. Gray III 30th Street Station.",
+  "what_it_does": "The law changes the official name of the railroad station at 2955 Market Street in Philadelphia, Pennsylvania, from 30th Street Station to the William H. Gray III 30th Street Station. It honors former U.S. Representative William H. Gray III. It does not change how the station operates, its services, or its fares.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law took effect when it was enacted on August 8, 2014.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

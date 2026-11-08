@@ -39,5 +39,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2016 law requiring the National Science Foundation to report its funding for disability education research and to support research on learning disabilities, including dyslexia.",
+  "what_it_does": "The law requires the National Science Foundation to list, in its yearly budget request to Congress, how much it wants for its Research in Disabilities Education program. That program aims to help learners with disabilities take part in and succeed in science, technology, engineering, and math. The law also directs the agency, subject to available funding, to put specified money toward research on learning disabilities, including dyslexia, with the goal of practical use.",
+  "who_it_affects": [
+   {
+    "group": "People with dyslexia and other learning disabilities",
+    "how": "The law directs federal science funding toward research aimed at practical applications for learning disabilities, including dyslexia."
+   },
+   {
+    "group": "Students with disabilities in science, technology, engineering, and math",
+    "how": "The law supports a federal program meant to broaden their participation and achievement in these fields."
+   },
+   {
+    "group": "Researchers and universities that seek National Science Foundation grants",
+    "how": "The law sets aside specified agency funding for learning disability research, which may create grant opportunities in this area, subject to appropriations."
+   },
+   {
+    "group": "National Science Foundation",
+    "how": "The agency must report its requested funding for the disabilities education program in its annual congressional budget justification and devote specified funds to learning disability research."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on February 18, 2016, but the funding provisions apply only subject to future appropriations.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

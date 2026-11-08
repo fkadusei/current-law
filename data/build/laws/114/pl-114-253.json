@@ -39,5 +39,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2016 law names a federal courthouse in Shreveport, Louisiana, after the late judge Tom Stagg.",
+  "what_it_does": "The law gives an official name to the federal building and U.S. courthouse at 300 Fannin Street in Shreveport, Louisiana. The new name is the \"Tom Stagg United States Court House.\" It changes only the name and does not change how the courthouse operates.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law took effect when it was enacted on December 8, 2016.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

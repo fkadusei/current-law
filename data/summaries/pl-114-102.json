@@ -1,0 +1,28 @@
+{
+ "headline": "This law sets U.S. policy to cut off Hizballah's money networks and requires reports, briefings, and possible penalties on foreign banks that help the group.",
+ "what_it_does": "The law states that it is U.S. policy to stop Hizballah's global logistics and financial networks from operating and to use diplomatic, legislative, and executive tools against the group's criminal activities. It requires the President to prohibit or place strict conditions on U.S. bank accounts held by foreign financial institutions that knowingly help Hizballah or its designated agents move money, with penalties under the International Emergency Economic Powers Act. It also requires many reports and briefings to Congress on Hizballah's narcotics trafficking, transnational crime, rewards program results, and fundraising methods. The law ends 30 days after the President certifies that Hizballah is no longer a designated foreign terrorist organization.",
+ "who_it_affects": [
+  {
+   "group": "Foreign financial institutions that hold correspondent or payable-through accounts in the United States",
+   "how": "They could lose or face strict conditions on U.S. accounts if they knowingly facilitate significant transactions for Hizballah or its designated agents, though the President may waive sanctions or decline them after certain assurances."
+  },
+  {
+   "group": "Foreign central banks",
+   "how": "Treasury must identify to Congress every 180 days any foreign central bank that carries out a prohibited activity, with a detailed description."
+  },
+  {
+   "group": "Satellite, broadcast, and internet providers that contract with al-Manar TV",
+   "how": "The President must report to Congress which providers have knowingly contracted with al-Manar TV and whether they were sanctioned under Executive Order 13224."
+  },
+  {
+   "group": "U.S. intelligence agencies",
+   "how": "The law does not apply to authorized U.S. intelligence activities."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on December 18, 2015, and it stays in effect until 30 days after the President certifies that Hizballah is no longer a designated foreign terrorist organization and is no longer listed in Executive Order 13224's Annex. The President must also issue implementing regulations, and reporting deadlines run on 30-day and 180-day cycles.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

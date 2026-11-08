@@ -42,5 +42,40 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law changes water rules and river protections for the Crooked River in Oregon, including water releases from Prineville Reservoir and conditions on possible hydropower projects at Bowman Dam.",
+  "what_it_does": "It changes the Wild and Scenic Rivers Act boundary for the Crooked River and requires anyone applying to build non-federal hydropower at Bowman Dam to study and address effects on scenic, recreational, and fishing values. It requires 5,100 acre-feet of water to be released each year to offset groundwater pumping by the city of Prineville, which must pay the federal government for that water. It sets priorities for storing and releasing water from Prineville Reservoir for federal irrigation contracts, the McKay Creek lands, and North Unit Irrigation District, and it adjusts Ochoco Irrigation District's contracts and boundaries.",
+  "who_it_affects": [
+   {
+    "group": "City of Prineville and its residents",
+    "how": "The city must pay for the 5,100 acre-feet of water released each year to offset its groundwater pumping, and it may contract with the federal government for additional water."
+   },
+   {
+    "group": "Hydropower developers applying for licenses at Bowman Dam",
+    "how": "They must analyze and propose ways to reduce impacts on the river's scenic, recreational, and fishery values and keep access facilities from blocking the river's free flow."
+   },
+   {
+    "group": "Ochoco Irrigation District landowners",
+    "how": "Landowners may repay their share of project construction costs, and some McKay Creek acres may be added to the district and receive irrigation water if state water rights are issued."
+   },
+   {
+    "group": "North Unit Irrigation District and other Bureau of Reclamation contract holders",
+    "how": "They receive priority access to stored water, including 10,000 acre-feet that can be released for downstream fish and wildlife if they do not begin contracting by June 1."
+   },
+   {
+    "group": "People who fish, boat, or recreate on the Crooked River",
+    "how": "Hydropower planning must account for effects on the river's recreational and fishing values, and water release schedules aim to benefit downstream fish and wildlife."
+   },
+   {
+    "group": "Confederated Tribes of the Warm Springs Reservation of Oregon",
+    "how": "The Bureau of Reclamation must invite the tribes to dry-year water management planning meetings."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on December 18, 2014, but several provisions depend on later steps such as state water rights, federal contracts, and license applications.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

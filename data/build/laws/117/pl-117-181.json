@@ -3528,5 +3528,24 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "Extends the life of the U.S. Commission on International Religious Freedom through fiscal year 2024.",
+  "what_it_does": "This law renews the authority of the U.S. Commission on International Religious Freedom, an independent federal body. The commission keeps track of violations of religious freedom in other countries. It also gives the government policy recommendations on those issues. The summary provided does not describe any other changes.",
+  "who_it_affects": [
+   {
+    "group": "Members and staff of the U.S. Commission on International Religious Freedom",
+    "how": "The commission's existence and work are continued through fiscal year 2024 under this law."
+   },
+   {
+    "group": "Religious minority communities and advocates abroad whose religious freedom the commission monitors",
+    "how": "The commission can keep reporting on religious freedom violations in other countries through fiscal year 2024."
+   }
+  ],
+  "when_it_takes_effect": "Enacted September 30, 2022; the reauthorized commission period runs through fiscal year 2024.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

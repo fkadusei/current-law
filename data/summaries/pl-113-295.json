@@ -1,0 +1,64 @@
+{
+ "headline": "Extends dozens of expiring federal tax breaks for individuals and businesses, creates tax-advantaged savings accounts for people with disabilities, and changes several Medicare and Social Security rules to help offset the costs.",
+ "what_it_does": "Division A extends many tax deductions and credits that were set to expire, most through the end of 2014 and some through 2015, and makes a number of technical corrections to earlier tax laws. Division B creates ABLE accounts, which are tax-exempt savings accounts for people with blindness or disabilities to pay for qualified disability expenses, and sets rules on how those accounts affect federal benefits and bankruptcy. Title II makes offsetting changes to Social Security, Medicare, and related programs, such as raising a Medicare collection levy from 15% to 30%.",
+ "who_it_affects": [
+  {
+   "group": "Elementary and secondary school teachers",
+   "how": "They can keep deducting certain out-of-pocket classroom expenses for an extra year."
+  },
+  {
+   "group": "Homeowners and people who pay mortgage insurance",
+   "how": "They can keep deducting mortgage insurance premiums and the tax exclusion for certain forgiven home debt through 2014."
+  },
+  {
+   "group": "Students and families paying college costs",
+   "how": "They can keep claiming the tax deduction for qualified tuition and related expenses through 2014."
+  },
+  {
+   "group": "Commuters whose employers offer transit or parking benefits",
+   "how": "They keep the same tax treatment for those benefits through 2014."
+  },
+  {
+   "group": "Taxpayers who give to charity or donate land for conservation",
+   "how": "They can keep using certain tax deductions for conservation easements and IRA charitable transfers through 2014."
+  },
+  {
+   "group": "Businesses that do research, hire certain workers, or build low-income housing",
+   "how": "They can keep claiming the research credit, work opportunity credit, low-income housing credit, and several other business credits through 2014."
+  },
+  {
+   "group": "Homeowners and builders using energy-efficient improvements or fuels",
+   "how": "They can keep claiming credits for home energy upgrades, renewable electricity, biofuels, and alternative fuel refueling through 2014."
+  },
+  {
+   "group": "Families of people with disabilities",
+   "how": "They can open ABLE accounts, though money left unused for disability expenses faces an additional 10% tax, and balances over $100,000 can affect SSI benefits."
+  },
+  {
+   "group": "People receiving Supplemental Security Income or Medicaid",
+   "how": "Most ABLE account funds are not counted when checking eligibility, but SSI payments pause while excess ABLE resources are held."
+  },
+  {
+   "group": "Medicare providers and suppliers with overdue federal taxes",
+   "how": "The IRS can levy 30% of their Medicare payments instead of 15%."
+  },
+  {
+   "group": "Inland waterway barge operators and fuel users",
+   "how": "Fuel used after March 31, 2015 carries a higher Inland Waterways Trust Fund tax of 29 cents per gallon."
+  },
+  {
+   "group": "Professional employer organizations",
+   "how": "Certified PEOs are treated as employers for payroll tax purposes and must post a bond and meet IRS reporting rules."
+  },
+  {
+   "group": "Taxpayers who file late or make certain errors on returns",
+   "how": "Penalty amounts for these failures will now rise each year with inflation."
+  }
+ ],
+ "when_it_takes_effect": "Enacted December 19, 2014; the tax extensions mostly cover tax years 2014 or 2015, and other provisions start on dates set in each section, with some beginning in 2015 or later.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

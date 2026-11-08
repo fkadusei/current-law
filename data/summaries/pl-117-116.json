@@ -1,0 +1,28 @@
+{
+ "headline": "A 2022 law requires federal agencies to improve how cybercrime data is collected and reported.",
+ "what_it_does": "The law directs the Department of Justice to work with the National Academy of Sciences to create a classification system for different types of cybercrime against individuals and businesses. It requires DOJ to add a cybercrime category to the National Incident-Based Reporting System so federal, state, and local officials can submit cybercrime reports. It also requires the Bureau of Justice Statistics and the Census Bureau to add cybercrime questions to the annual National Crime Victimization Survey. Finally, it requires the Government Accountability Office to review how well cybercrime reporting works and how cybercrime data compares with data on other crimes.",
+ "who_it_affects": [
+  {
+   "group": "Individuals who are victims of cybercrime",
+   "how": "They may be asked about cybercrime in the annual National Crime Victimization Survey, which is meant to give government a fuller picture of these crimes."
+  },
+  {
+   "group": "Businesses that are targets of cybercrime",
+   "how": "Their cybercrime experiences are to be classified under the new federal taxonomy and may be counted in new federal data collection efforts."
+  },
+  {
+   "group": "State and local law enforcement agencies",
+   "how": "They can submit cybercrime reports through a new category in the National Incident-Based Reporting System."
+  },
+  {
+   "group": "Department of Justice, Bureau of Justice Statistics, and Census Bureau",
+   "how": "They must build and carry out the new cybercrime data collection, classification, and survey requirements."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

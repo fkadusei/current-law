@@ -1,0 +1,28 @@
+{
+ "headline": "A law that extends federal programs for preserving sound recordings and films through 2026 and changes the size and makeup of one foundation's board.",
+ "what_it_does": "It extends the Library of Congress's national sound recording preservation program and the National Recording Preservation Foundation through fiscal year 2026, with funding capped at the lesser of $1 million or the private contributions the Foundation receives. It increases the Foundation's board from 9 to 12 members and requires at least 8 of them to have knowledge or experience in sound recording work. It also extends the National Film Registry and the National Film Preservation Foundation through fiscal year 2026.",
+ "who_it_affects": [
+  {
+   "group": "Library of Congress and its sound recording preservation program",
+   "how": "The program's authorization is extended through fiscal year 2026."
+  },
+  {
+   "group": "Members of the National Recording Preservation Foundation's board of directors",
+   "how": "The board grows from 9 seats to 12, with at least 8 members needing sound recording experience."
+  },
+  {
+   "group": "Private donors and state and local governments that contribute to the National Recording Preservation Foundation",
+   "how": "Their contributions set the ceiling on federal funding, which is the lesser of $1 million or the amount they give."
+  },
+  {
+   "group": "Film archivists and the National Film Preservation Foundation",
+   "how": "The National Film Registry and the Foundation are reauthorized through fiscal year 2026."
+  }
+ ],
+ "when_it_takes_effect": "The reauthorizations run through fiscal year 2026; the bill summary does not give a specific start date.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

@@ -1,0 +1,24 @@
+{
+ "headline": "This law sets in statute an FDA practice of using the narrower term \"active moiety\" instead of \"active ingredient\" when deciding certain drug market exclusivity and priority review questions.",
+ "what_it_does": "The FDA already defined drugs this way in some cases. This law gives that practice explicit legal authority. It replaces \"active ingredient\" with \"active moiety\" in several laws that govern FDA activities. Under the narrower term, some drugs may not qualify for market exclusivity.",
+ "who_it_affects": [
+  {
+   "group": "Drug companies that develop new drugs",
+   "how": "Whether a new drug qualifies for a market exclusivity period can depend on the narrower active moiety definition."
+  },
+  {
+   "group": "Generic drug manufacturers",
+   "how": "Because exclusivity periods block generic competitors for a set time, a narrower definition can affect when generic versions of some drugs may enter the market."
+  },
+  {
+   "group": "Families of children with rare pediatric diseases",
+   "how": "The narrower term also applies to decisions about priority review for drugs treating these diseases, which can affect how quickly those drugs are reviewed."
+  }
+ ],
+ "when_it_takes_effect": "The summary does not give a separate effective date. The law was enacted on April 23, 2021.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

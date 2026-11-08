@@ -1,0 +1,24 @@
+{
+ "headline": "Congress voted to cancel a 2016 Education Department rule on how states must hold schools accountable under the Elementary and Secondary Education Act.",
+ "what_it_does": "This joint resolution uses the Congressional Review Act to overturn a rule the Department of Education finalized on November 29, 2016. The rule covered accountability and state plans under the Elementary and Secondary Education Act of 1965. Once the resolution is enacted, the rule is treated as if it never took effect. The summary does not describe the rule's specific requirements, so this explanation stays general.",
+ "who_it_affects": [
+  {
+   "group": "State education agencies",
+   "how": "States no longer have to follow the canceled federal rule on accountability and state plans, so they fall back on the underlying statute and earlier guidance."
+  },
+  {
+   "group": "Public school districts",
+   "how": "Districts are affected indirectly, because their state's accountability and reporting plans now follow the rules in place before the canceled regulation."
+  },
+  {
+   "group": "Public school students and families",
+   "how": "Students and parents may see changes in how their schools are measured and reported, depending on how each state responds to the canceled rule."
+  }
+ ],
+ "when_it_takes_effect": "Upon enactment on March 27, 2017.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

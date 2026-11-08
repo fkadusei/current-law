@@ -3522,5 +3522,32 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "Extends federal grant programs that help states and localities test DNA evidence from rape kits and train personnel through fiscal year 2024.",
+  "what_it_does": "This law reauthorizes, meaning it renews the legal authority for, three sets of federal grants. The first helps state and local governments work through backlogs of DNA evidence, including sexual assault rape kits. The second pays for DNA training and education for law enforcement, corrections staff, and court officers. The third funds the Sexual Assault Forensic Exam Program, which supports forensic medical exams for sexual assault victims.",
+  "who_it_affects": [
+   {
+    "group": "State and local crime labs and police departments",
+    "how": "They can apply for federal grants to process DNA evidence and reduce untested rape kit backlogs through fiscal year 2024."
+   },
+   {
+    "group": "Law enforcement, corrections, and court officers",
+    "how": "They can receive federal funding for DNA-related training and education through fiscal year 2024."
+   },
+   {
+    "group": "Sexual assault survivors",
+    "how": "Hospitals and programs that perform forensic exams may receive federal support, and evidence from their rape kits may be processed more quickly."
+   },
+   {
+    "group": "Hospitals and clinics that perform sexual assault forensic exams",
+    "how": "They may receive federal grant funding under the Sexual Assault Forensic Exam Program through fiscal year 2024."
+   }
+  ],
+  "when_it_takes_effect": "Enacted December 30, 2019; the grant authorizations run through fiscal year 2024.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

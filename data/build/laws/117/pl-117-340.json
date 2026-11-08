@@ -3512,5 +3512,28 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2023 law requires the U.S. Olympic and Paralympic Committee to give male and female Team USA athletes equal pay and benefits in sports where it runs separate men's and women's programs.",
+  "what_it_does": "The law covers athletes who represent the United States in international amateur competitions. For sports with separate men's and women's programs run by the U.S. Olympic and Paralympic Committee, the committee must provide equal and nondiscriminatory pay, benefits, medical care, travel, and expense payments, using funds it gives directly to athletes. The committee may still consider merit, performance, seniority, or amount of play, and may give extra support to address outside income gaps, underdeveloped programs, or documented personal need. The committee must also urge international sports groups to equalize their prizes and support, and it must report to Congress yearly with pay details broken out by gender, race, and professional team status.",
+  "who_it_affects": [
+   {
+    "group": "Olympic and Paralympic athletes who compete for Team USA",
+    "how": "Male and female athletes in sports with separate programs must receive equivalent pay, benefits, medical care, and travel support from the committee."
+   },
+   {
+    "group": "U.S. Olympic and Paralympic Committee",
+    "how": "The committee must meet the equal-pay rules within one year, report to Congress each year, and advocate to international sports federations for equal prizes and support."
+   },
+   {
+    "group": "International sports federations and event organizers",
+    "how": "They are not required to follow the law, but the committee must press them to equalize prizes, compensation, and funding for athletes."
+   }
+  ],
+  "when_it_takes_effect": "Full compliance was required within one year of enactment on January 5, 2023, so by about January 2024, with annual reports to Congress after that.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

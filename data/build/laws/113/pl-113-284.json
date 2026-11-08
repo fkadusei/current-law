@@ -39,5 +39,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2014 law removes three yearly review duties that the Department of Homeland Security's Inspector General had been required to perform.",
+  "what_it_does": "The law repeals three recurring requirements for the Department of Homeland Security's Inspector General, the office that audits and oversees the department. The first was an annual evaluation of the Cargo Inspection Targeting System, a tool used to pick shipping containers for inspection. The second was an annual review of Coast Guard performance. The third was an annual review of grants that the department gives to states and high-risk urban areas. After this law, the Inspector General no longer has to do these three reviews every year.",
+  "who_it_affects": [
+   {
+    "group": "DHS Office of Inspector General staff",
+    "how": "They no longer have to carry out these three annual reviews, which frees up their work schedule."
+   },
+   {
+    "group": "Shipping and cargo companies",
+    "how": "The yearly outside review of the cargo targeting system is no longer required, though the system itself is not changed by this law."
+   },
+   {
+    "group": "State and local governments and high-risk urban areas that receive DHS grants",
+    "how": "The yearly federal oversight review of their DHS grants is no longer required under this law."
+   }
+  ],
+  "when_it_takes_effect": "The law took effect when it was enacted on December 18, 2014.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -1,0 +1,24 @@
+{
+ "headline": "This law requires a federal training program on spotting and managing supply chain security risks for federal officials who buy goods and technology.",
+ "what_it_does": "The Federal Acquisition Institute must create a training program for federal officials who handle supply chain risk management. The program is meant to teach them how to find and reduce security risks at each stage of buying something, including information and communications technology. The Office of Management and Budget must issue guidance requiring executive branch agencies to use the program and must make that guidance available to legislative and judicial branch agencies.",
+ "who_it_affects": [
+  {
+   "group": "Federal acquisition and procurement officials with supply chain risk management duties",
+   "how": "They are expected to complete a new training program designed to help them identify and reduce security risks when acquiring goods and technology."
+  },
+  {
+   "group": "Executive branch federal agencies",
+   "how": "They must adopt and use the training program under guidance issued by the Office of Management and Budget."
+  },
+  {
+   "group": "Legislative and judicial branch agencies",
+   "how": "They receive the guidance on the training program and may use it, since the law makes the guidance available to them."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

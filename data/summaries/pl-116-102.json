@@ -1,0 +1,24 @@
+{
+ "headline": "This law directs the National Science Foundation to focus some of its STEM education grants on early childhood and elementary learning, including research on girls' participation in STEM.",
+ "what_it_does": "The law changes how the National Science Foundation awards certain STEM education grants. It tells the agency to focus its Discovery Research PreK-12 grants more on prekindergarten and elementary education. It also allows grants aimed at increasing participation by underrepresented groups to fund research on female students in prekindergarten through elementary school, including the role of teachers and caregivers. Finally, it allows computer science education grants to support tools, programs, and career exposure for these young female students.",
+ "who_it_affects": [
+  {
+   "group": "Young girls in prekindergarten through elementary school",
+   "how": "Federal grants may now be used to fund STEM and computer science enrichment programs and career exposure aimed at them."
+  },
+  {
+   "group": "Teachers and caregivers of young children",
+   "how": "The law allows federal research into how their roles encourage or discourage young girls' participation in STEM activities."
+  },
+  {
+   "group": "Researchers and educational institutions that apply for National Science Foundation grants",
+   "how": "Applicants for these grant programs may now propose projects focused on early elementary education and young female students."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

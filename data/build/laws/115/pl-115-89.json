@@ -39,5 +39,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This 2017 law changes how multi-state apprenticeship programs are approved and removes an attendance-certification step for veterans who receive training allowances.",
+  "what_it_does": "For multi-state apprenticeship programs that are not run by the federal government, the state approving agency that handles program approval is the one in the state where the program's headquarters is located. For all other purposes, the agency in the state where the program takes place handles oversight. The law also removes the requirement that veterans and other eligible people in apprenticeship or on-the-job training programs certify their attendance to receive the training assistance allowance.",
+  "who_it_affects": [
+   {
+    "group": "Veterans enrolled in apprenticeship or on-the-job training programs",
+    "how": "They no longer have to certify their program attendance to receive the training assistance allowance."
+   },
+   {
+    "group": "Other eligible people enrolled in apprenticeship or on-the-job training programs",
+    "how": "They no longer have to certify their program attendance to receive the training assistance allowance."
+   },
+   {
+    "group": "Operators of multi-state non-federal apprenticeship programs",
+    "how": "Program approval is handled by the state agency where the program's headquarters is located, while other matters go to the agency in each state where the program takes place."
+   },
+   {
+    "group": "State approving agencies",
+    "how": "They take on defined roles for multi-state apprenticeship programs based on headquarters location for approval and program location for other purposes."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

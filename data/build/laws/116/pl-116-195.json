@@ -36,5 +36,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Directs Congress leaders to arrange a single Congressional Gold Medal honoring Rosie the Riveter, the women who worked or volunteered for the World War II effort.",
+  "what_it_does": "The law tells the leaders of the Senate and House to make arrangements for one Congressional Gold Medal to be awarded to Rosie the Riveter, meaning any woman who held a job or volunteered to support the World War II effort. The medal is recognized as a tribute to these women and the example they set for later generations. The medal will be displayed at the National Museum of American History, which must also make it available for display at other places linked to Rosie the Riveter.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law took effect when it was enacted on December 3, 2020.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

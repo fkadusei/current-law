@@ -1,0 +1,32 @@
+{
+ "headline": "This law creates a temporary board to find federal buildings and land to sell or repurpose, and sets rules for how agencies report and dispose of civilian property.",
+ "what_it_does": "The law sets up the Public Buildings Reform Board, which expires six years after enactment, to help the government shrink its civilian real estate holdings and cut costs. Federal agencies must report their properties and recommend which to sell, transfer, consolidate, or reconfigure, and the Office of Management and Budget reviews those recommendations and sets space-use standards. Approved properties generally must be sold by the General Services Administration, with the Department of Housing and Urban Development first screening some for homeless assistance use. The law also requires a public property database, lets surplus property be used for homeless housing, and orders the sale of two specific buildings in Southwest Washington, D.C., by December 31, 2018.",
+ "who_it_affects": [
+  {
+   "group": "Federal civilian agencies",
+   "how": "They must submit property data and disposal and efficiency recommendations, and carry out approved recommendations on set timelines."
+  },
+  {
+   "group": "Homeless service providers and people experiencing homelessness",
+   "how": "HUD screens suitable federal properties for homeless assistance, and surplus property may be used to provide permanent housing for homeless people."
+  },
+  {
+   "group": "Museums seeking donated federal surplus property",
+   "how": "The GSA treats a museum as public, and eligible, if it agrees to honor business-hours access requests."
+  },
+  {
+   "group": "Local communities near federal properties",
+   "how": "The board and OMB must consider the economic impact of property changes on nearby communities, and some properties may be set aside as public parks."
+  },
+  {
+   "group": "Potential buyers and recipients of federal property",
+   "how": "Properties may be sold at fair market value, and transfers depend on environmental cost certifications."
+  }
+ ],
+ "when_it_takes_effect": "The law took effect on enactment, December 16, 2016; the board ends six years later, and the two D.C. building sales were due by December 31, 2018.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

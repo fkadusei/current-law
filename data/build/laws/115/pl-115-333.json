@@ -36,5 +36,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law tells the Small Business Administration to give first priority to investment-company applicants in states with few licensed firms and below-median financing, and exempts them from certain capital requirements.",
+  "what_it_does": "The law amends the Small Business Investment Act of 1958. When the SBA reviews applications from small business investment companies (SBICs), it must give first priority to applicants based in underlicensed states, meaning states with fewer licensees per person than the national median. It must also favor applicants in states with below-median financing. Applicants in underlicensed states are exempt from certain SBA capital requirements.",
+  "who_it_affects": [
+   {
+    "group": "Small business investment companies (SBICs) applying to the SBA",
+    "how": "Applicants based in underlicensed states move to the front of the SBA review line and are exempt from certain capital requirements."
+   },
+   {
+    "group": "The Small Business Administration",
+    "how": "The agency must change how it orders and reviews SBIC applications and must apply the capital-requirement exemptions."
+   },
+   {
+    "group": "Small businesses in underlicensed states with below-median financing",
+    "how": "The official summary does not say how the change reaches individual businesses, but the law aims to direct SBIC investment toward these states."
+   }
+  ],
+  "when_it_takes_effect": "The law was signed on December 19, 2018. The summary does not give a separate start date for these provisions.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

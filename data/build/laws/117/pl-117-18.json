@@ -39,5 +39,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law requires the VA to spend land-use money from its West Los Angeles campus on veterans' housing and campus upkeep, and lets it sign longer leases there.",
+  "what_it_does": "The VA often earns money when it leases or shares land at its West Los Angeles campus. This law says that money must be spent only on campus renovation and maintenance, on housing and services for homeless or at-risk veterans and their families, on minor construction projects, or on community operations that support emergency shelter or supportive housing for those veterans. It also raises the maximum length of enhanced-use leases on the campus from 75 years to 99 years. The VA must also report each year on how the lease money is spent and what benefits veterans get from it.",
+  "who_it_affects": [
+   {
+    "group": "Homeless or at-risk veterans and their families",
+    "how": "The campus land-use income must be used for housing, shelter, and related services that can reach them."
+   },
+   {
+    "group": "Veterans who use the West Los Angeles VA campus",
+    "how": "Lease income must go toward campus renovation and upkeep, and the VA must report on the direct benefits to veterans."
+   },
+   {
+    "group": "Businesses and organizations that lease or share land at the West Los Angeles campus",
+    "how": "They can be offered leases of up to 99 years instead of 75 years."
+   }
+  ],
+  "when_it_takes_effect": "The law took effect when it was enacted on June 23, 2021.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

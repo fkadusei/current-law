@@ -1,0 +1,36 @@
+{
+ "headline": "This law makes 988 the national number for suicide prevention and mental health crisis calls.",
+ "what_it_does": "The law requires the Federal Communications Commission to designate 988 as the universal phone number for a national suicide prevention and mental health crisis hotline. States may charge and collect a fee for 988 services, but the money must go into a separate account and be spent only on 988 services. The law also requires reports on how to run 988 well nationwide and on a plan to reach high-risk groups such as LGBTQ youth, minority communities, and rural residents.",
+ "who_it_affects": [
+  {
+   "group": "People in crisis or thinking about suicide",
+   "how": "They can call or text 988 as a single, easy-to-remember number to reach a crisis hotline."
+  },
+  {
+   "group": "Families and friends of people in crisis",
+   "how": "They have one national number to call when they are worried about someone's mental health."
+  },
+  {
+   "group": "State governments",
+   "how": "States may impose and collect fees for 988 services, but must hold that money in a designated account and use it only for 988 services."
+  },
+  {
+   "group": "Telephone carriers and the FCC",
+   "how": "The FCC must designate 988 as the universal number and submit an annual report on how states administer 988 fees."
+  },
+  {
+   "group": "Veterans",
+   "how": "The Department of Veterans Affairs must work with HHS on a joint report about making 988 operate effectively across the country."
+  },
+  {
+   "group": "LGBTQ youth, minority communities, and rural residents",
+   "how": "HHS must develop a strategy to give these high-risk groups access to competent, specialized crisis services."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

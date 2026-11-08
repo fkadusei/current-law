@@ -42,5 +42,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This 2017 law asks the State Department to help the United States rejoin the Bureau of International Expositions, the group that approves world's fairs.",
+  "what_it_does": "The law states that the United States should rejoin the Bureau of International Expositions, a group that oversees world's fairs and similar large international exhibitions. It directs the State Department to help submit a request to rejoin in a timely way. It also lets the State Department take needed steps to rejoin and accept outside money for that purpose. Finally, it says the law does not allow spending that older foreign relations rules prohibit for U.S. pavilions at expos, and it bars State Department employees acting in their official role from asking for money to pay for such pavilions.",
+  "who_it_affects": [
+   {
+    "group": "State Department",
+    "how": "It is directed to help the United States rejoin the Bureau of International Expositions and is allowed to accept outside contributions for that effort."
+   },
+   {
+    "group": "State Department employees",
+    "how": "They are barred from asking for donations in their official role to pay for a U.S. pavilion or exhibit at an international exposition."
+   },
+   {
+    "group": "Organizations that might give money for U.S. expo participation",
+    "how": "They may be asked to contribute, since the State Department is allowed to accept contributions for the rejoining effort."
+   }
+  ],
+  "when_it_takes_effect": "The law took effect when it was enacted on May 8, 2017.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

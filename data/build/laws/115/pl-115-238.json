@@ -39,5 +39,24 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law gives certain newly hired federal employees who are veterans with a 30% or higher service-connected disability paid leave for medical care, and extends that leave to certain VA health workers.",
+  "what_it_does": "It amends the Wounded Warriors Federal Leave Act of 2015, which already gives new federal employees who are veterans with a service-connected disability rated at 30% or more a set amount of leave for treating that disability. This law extends that same leave policy to several types of clinicians working for the Veterans Health Administration. The covered roles include physicians, dentists, podiatrists, chiropractors, optometrists, registered nurses, physician assistants, and expanded-function dental auxiliaries.",
+  "who_it_affects": [
+   {
+    "group": "Veterans with a service-connected disability rated at 30% or more who are new federal employees",
+    "how": "They may use the leave the law provides for medical treatment of their service-connected disability."
+   },
+   {
+    "group": "Physicians, dentists, podiatrists, chiropractors, optometrists, registered nurses, physician assistants, and expanded-function dental auxiliaries who work for the Veterans Health Administration",
+    "how": "Those who are veterans with a qualifying disability and are newly hired federal employees become eligible for the leave policy."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

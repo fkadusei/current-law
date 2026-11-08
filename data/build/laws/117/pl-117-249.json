@@ -3520,5 +3520,36 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "This law lets the Small Business Administration declare disasters in rural areas so those areas can get economic injury loans, and it asks the GAO to study rural access to disaster aid.",
+  "what_it_does": "The law allows the Small Business Administration to declare a disaster in a rural area where significant damage has occurred. Significant damage means uninsured losses of at least 40% of the property's fair replacement value or pre-disaster fair market value, whichever is less. In a rural area where the President has already declared a major disaster, the SBA may issue economic injury disaster loans if the state or tribal government asks for it and a home, small business, private nonprofit, or small agricultural cooperative has suffered significant damage. The Government Accountability Office must also report on challenges rural communities face in getting economic injury aid compared with urban communities, and recommend ways to improve their access.",
+  "who_it_affects": [
+   {
+    "group": "Residents and property owners in rural counties or political subdivisions",
+    "how": "They may be able to get SBA economic injury disaster loans after a major disaster if their area qualifies and their state or tribal government requests the declaration."
+   },
+   {
+    "group": "Small businesses in rural areas",
+    "how": "They can apply for SBA economic injury loans after qualifying damage if their area receives the declaration."
+   },
+   {
+    "group": "Private nonprofit organizations and small agricultural cooperatives in rural areas",
+    "how": "They may become eligible for SBA economic injury loans if they suffer significant uninsured damage in a qualifying area."
+   },
+   {
+    "group": "State and tribal governments",
+    "how": "They must submit a request to the SBA before a declaration can be made for a rural area."
+   },
+   {
+    "group": "Rural communities compared with urban communities",
+    "how": "The GAO will study how their access to economic injury aid differs and suggest changes."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on December 20, 2022, and no specific later effective date is stated in the summary.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

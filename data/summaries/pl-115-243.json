@@ -1,0 +1,24 @@
+{
+ "headline": "This law lets Social Security coverage be extended to tribal council members through agreements between the Social Security Administration and tribes.",
+ "what_it_does": "At a tribe's request, the Social Security Administration must make an agreement with that tribe to extend Social Security benefits, including retirement, survivors, and disability benefits, to members of the tribal council. The law also lets council members get Social Security credit for taxes they paid before the agreement took effect, as long as those taxes were paid on time, in good faith, and were not later refunded.",
+ "who_it_affects": [
+  {
+   "group": "Members of tribal councils",
+   "how": "They can become covered by Social Security and may receive credit for earlier taxes they paid if their tribe requests and signs an agreement."
+  },
+  {
+   "group": "Federal tribes that choose to request an agreement",
+   "how": "They may ask the Social Security Administration to enter into an agreement so their council members are covered."
+  },
+  {
+   "group": "Social Security Administration",
+   "how": "It must enter into an agreement when a tribe asks for one and must apply the credit rules for past taxes."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

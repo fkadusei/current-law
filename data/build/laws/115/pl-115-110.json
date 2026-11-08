@@ -3515,5 +3515,28 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "This 2018 law changes some terms of a land swap at Cooper Spur near Mount Hood between the federal government and Oregon.",
+  "what_it_does": "It amends a 2009 public lands law to revise details of the Cooper Spur-Government Camp land exchange. After the Department of Agriculture approves the final appraised values, it does not have to reappraise them for up to three years, unless fire, windstorm, or other events significantly change the land. The law also sets conditions for the transfer, including a conservation easement to protect identified wetlands, a nonexclusive trail easement, and equalizing the values of the exchanged properties.",
+  "who_it_affects": [
+   {
+    "group": "The State of Oregon and the federal government as parties to the Cooper Spur land exchange",
+    "how": "The exchange terms, appraisal timing, and conveyance conditions they must follow are changed by this law."
+   },
+   {
+    "group": "The U.S. Department of Agriculture",
+    "how": "It does not have to reappraise or update the approved land values for up to three years unless the land is significantly altered by fire, windstorm, or similar events."
+   },
+   {
+    "group": "Hikers and other trail users near Cooper Spur",
+    "how": "The exchange includes a nonexclusive trail easement, which is meant to keep a trail route available across the transferred land."
+   }
+  ],
+  "when_it_takes_effect": "Took effect when signed into law on January 10, 2018.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

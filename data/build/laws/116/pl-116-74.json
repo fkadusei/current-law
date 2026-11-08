@@ -36,5 +36,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2019 law makes a grant for the National Community Anti-Drug Coalition Institute permanent, makes technical fixes, and ends a required GAO audit of the drug policy office.",
+  "what_it_does": "The law makes permanent a grant that supports the National Community Anti-Drug Coalition Institute. It also makes several technical corrections to existing law. Finally, it repeals a requirement that the Government Accountability Office audit the Office of National Drug Control Policy. The official summary does not list every correction, so the full bill text would show the details.",
+  "who_it_affects": [
+   {
+    "group": "National Community Anti-Drug Coalition Institute",
+    "how": "Its grant funding is made permanent instead of needing to be renewed under a time-limited authorization."
+   },
+   {
+    "group": "Local community anti-drug coalitions",
+    "how": "They may be indirectly affected because the Institute supports community anti-drug groups, though the summary does not describe specific changes to their work."
+   },
+   {
+    "group": "Office of National Drug Control Policy",
+    "how": "It is no longer required to be audited by the Government Accountability Office under this provision."
+   },
+   {
+    "group": "Government Accountability Office",
+    "how": "It no longer has to conduct this specific audit of the Office of National Drug Control Policy."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

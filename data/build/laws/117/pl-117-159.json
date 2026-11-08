@@ -4344,5 +4344,44 @@
   "House": "D",
   "Senate": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2022 federal law that changes gun rules, especially for buyers ages 18 to 21, and funds mental health, school safety, and community violence programs.",
+  "what_it_does": "The law adds background check steps for people ages 18 to 21 buying guns from licensed dealers, including checks of juvenile and mental health records, and allows a sale to be delayed up to 10 business days if a possible disqualifying juvenile record needs review. It creates federal crimes for straw purchasing and gun trafficking, with penalties that can include seizure of guns and related property, and it extends gun restrictions to people convicted of misdemeanor domestic violence against dating partners. It also extends and funds Medicaid mental health clinic programs, school-based health services, and school safety resources, and it provides supplemental appropriations for these purposes.",
+  "who_it_affects": [
+   {
+    "group": "People ages 18 to 21 who buy firearms from licensed dealers",
+    "how": "Their purchase background checks include extra searches of juvenile justice, state mental health, and local police records, and a sale may be delayed up to 10 business days."
+   },
+   {
+    "group": "Gun dealers and people who sell firearms regularly",
+    "how": "Anyone who sells firearms to predominantly earn a profit must be federally licensed."
+   },
+   {
+    "group": "People convicted of misdemeanor domestic violence against a dating partner",
+    "how": "Federal firearm possession restrictions now apply to them for convictions on or after the law's enactment date, and they expire five years after conviction if certain conditions are met."
+   },
+   {
+    "group": "People who buy or traffic guns illegally, including straw buyers",
+    "how": "New federal crimes apply, with criminal and civil penalties and forfeiture of firearms and related property."
+   },
+   {
+    "group": "Medicaid and CHIP enrollees, especially children",
+    "how": "The law extends certified community behavioral health clinic demonstrations through September 30, 2025, expands school-based services, and requires reviews of children's screening services."
+   },
+   {
+    "group": "Schools, school districts, and local education agencies",
+    "how": "They may receive grants for school safety, school-based mental health services, and related programs, and federal education funds cannot be used to give anyone a dangerous weapon or weapons training."
+   },
+   {
+    "group": "State and local governments",
+    "how": "They may use Byrne JAG grants for crisis intervention programs such as mental health courts, drug courts, veterans' courts, and red flag laws."
+   }
+  ],
+  "when_it_takes_effect": "Signed into law June 25, 2022, with the background check requirements for ages 18 to 21 expiring 10 years after enactment; funding and program dates vary by section, with some Medicaid demonstrations running through September 30, 2025.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -1,0 +1,28 @@
+{
+ "headline": "This law creates a program that lets federal cybersecurity and IT workers temporarily move between jobs at different federal agencies.",
+ "what_it_does": "The law sets up a rotational cyber workforce program, which allows certain federal employees to be detailed, or temporarily assigned, to cyber-related jobs at other federal agencies. Each agency can decide whether its own information technology, cybersecurity, or other cyber positions qualify for the program. The Office of Personnel Management must issue an operation plan with the rules, steps, and procedures for these assignments. The Government Accountability Office must later review how well the program works, including how many agencies take part and what employees experience.",
+ "who_it_affects": [
+  {
+   "group": "Federal employees in information technology and cybersecurity roles",
+   "how": "Certain of them may be temporarily detailed to cyber-related positions at other federal agencies under the program."
+  },
+  {
+   "group": "Federal agencies with cyber, IT, or information technology positions",
+   "how": "Each agency decides which of its positions are eligible for the rotational program and takes part in detailing employees under the plan."
+  },
+  {
+   "group": "Office of Personnel Management",
+   "how": "The office must write and issue an operation plan that sets policies, processes, and procedures for the program."
+  },
+  {
+   "group": "Government Accountability Office",
+   "how": "The office must assess the program's operation and effectiveness, including agency participation and employee experiences."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

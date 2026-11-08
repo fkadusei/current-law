@@ -3523,5 +3523,20 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2023 law directs the Interior Department to study whether parts of Virginia and North Carolina should become a National Heritage Area called the Great Dismal Swamp National Heritage Area.",
+  "what_it_does": "The law orders the Department of the Interior to assess whether a study area of cities and counties in Virginia and counties in North Carolina is suitable and feasible to designate as a National Heritage Area. The study must determine whether the area has natural, historic, and cultural resources that reflect distinctive aspects of American people and culture, and whether those resources deserve recognition, conservation, interpretation, and continued use. The summary describes a study only and does not create the heritage area itself.",
+  "who_it_affects": [
+   {
+    "group": "Residents of the Virginia cities and counties and North Carolina counties in the study area",
+    "how": "The study would examine the history, culture, and natural places where they live, but the summary does not say the study itself changes any rules, fees, or services for them."
+   }
+  ],
+  "when_it_takes_effect": "The law took effect when it was signed on January 5, 2023. The summary does not give a deadline for completing the study or say whether a designation would follow.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

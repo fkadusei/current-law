@@ -3514,5 +3514,24 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "This 2018 law changes tariff rates on certain chemicals and goods, and extends the government's authority to collect customs processing fees.",
+  "what_it_does": "The law updates the Harmonized Tariff Schedule, which sets the import duty rates the United States charges on goods. It repeals some tariff cuts that had already expired and sets new temporary duty suspensions or reductions for specified chemicals and other items through December 31, 2020. It also extends the Treasury Department's authority to collect certain customs user fees for processing imported goods until October 13, 2027, up from July 21, 2027.",
+  "who_it_affects": [
+   {
+    "group": "Importers that bring specified chemicals and other listed items into the United States",
+    "how": "The duty rates on those listed items changed, with some temporary reductions or suspensions lasting through the end of 2020."
+   },
+   {
+    "group": "Businesses that pay customs user fees on imported merchandise",
+    "how": "They will keep paying these processing fees for a longer period, through October 2027."
+   }
+  ],
+  "when_it_takes_effect": "Enacted September 13, 2018; the temporary duty changes run through December 31, 2020, and the user fee extension runs to October 13, 2027.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

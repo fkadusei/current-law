@@ -1,0 +1,28 @@
+{
+ "headline": "This law extends the federal SBIR and STTR small business research grant programs through fiscal year 2025 and adds new security and performance rules.",
+ "what_it_does": "The SBIR and STTR programs give competitive awards to domestic small businesses for research and development that could later be sold commercially. This law reauthorizes both programs and related pilot programs through FY2025. It requires agencies to check security risks posed by applicants with financial ties to certain foreign countries, and bars awards to businesses with certain foreign connections. Businesses that have won many prior awards must meet stricter minimum performance standards, and the SBA Inspector General must audit them.",
+ "who_it_affects": [
+  {
+   "group": "Small businesses that apply for or receive SBIR or STTR awards",
+   "how": "They must meet new security screening rules tied to foreign financial ties and face stricter performance standards if they have many prior awards."
+  },
+  {
+   "group": "Small businesses with a large number of prior SBIR or STTR awards",
+   "how": "They must meet expanded minimum performance standards and may be audited by the SBA Office of Inspector General."
+  },
+  {
+   "group": "Federal agencies that run SBIR and STTR programs, including DoD, DOE, HHS, and NSF",
+   "how": "They must assess security risks in applicants and report on national security and research integrity risks in the programs."
+  },
+  {
+   "group": "Researchers and entrepreneurs seeking federal research funding through these programs",
+   "how": "The programs continue through FY2025, with new eligibility limits based on foreign connections."
+  }
+ ],
+ "when_it_takes_effect": "Enacted September 30, 2022; the programs are reauthorized through fiscal year 2025, and specific provisions may have their own start dates.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

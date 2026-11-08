@@ -36,5 +36,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Congress named a Detroit Postal Service building after the singer Aretha Franklin.",
+  "what_it_does": "This law renames a specific U.S. Postal Service facility at 12711 East Jefferson Avenue in Detroit, Michigan, as the Aretha Franklin Post Office Building. It is a naming measure only. It does not change how the post office operates, its services, or its staff rules.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "It took effect when it was enacted on January 5, 2021.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

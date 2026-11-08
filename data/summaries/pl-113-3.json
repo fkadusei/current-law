@@ -1,0 +1,24 @@
+{
+ "headline": "This 2013 law temporarily raised the federal debt limit through May 18, 2013, and tied congressional pay to whether each chamber passed a budget resolution.",
+ "what_it_does": "It suspended the current $16.394 trillion public debt limit through May 18, 2013, so the government could keep borrowing during that period. After that date, it set up an automatic increase in the debt limit, but only to cover certain borrowing needed to pay commitments that came due before May 19, 2013. It also required each house of Congress to hold members' salary payments in escrow if that house had not agreed to a budget resolution for fiscal year 2014 by April 15, 2013. Those held payments would be released only once the house agreed to a budget resolution or at the end of the 113th Congress.",
+ "who_it_affects": [
+  {
+   "group": "Members of Congress",
+   "how": "Their mandatory pay would be held in an escrow account after April 15, 2013, if their chamber had not adopted a fiscal year 2014 budget resolution, and released only after that resolution passed or at the end of the 113th Congress."
+  },
+  {
+   "group": "The U.S. Treasury Department",
+   "how": "It could keep borrowing to meet existing obligations through May 18, 2013, and faced new limits on how it could borrow after that date."
+  },
+  {
+   "group": "Holders of federal debt and government contractors",
+   "how": "They would see borrowing continue without a default during the suspension period, with new borrowing after May 18 limited to covering commitments already due."
+  }
+ ],
+ "when_it_takes_effect": "Enacted February 4, 2013; the debt limit suspension runs through May 18, 2013, and the automatic increase rule took effect May 19, 2013.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

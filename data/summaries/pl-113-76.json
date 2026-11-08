@@ -1,0 +1,48 @@
+{
+ "headline": "A huge federal spending law that funds most of the government for fiscal year 2014, enacted January 17, 2014, after a Senate-House agreement.",
+ "what_it_does": "This law, known as the Consolidated Appropriations Act, 2014, provides money for federal agencies and programs for the fiscal year that ran from October 2013 through September 2014. It is organized into divisions covering agriculture, commerce and justice, defense, energy and water, financial services, homeland security, interior and environment, labor and health, legislative branch, military construction and veterans affairs, state and foreign operations, and transportation and housing. Along with the spending amounts, it sets rules on how the money may be used, including limits on travel, conferences, contracts with companies that owe taxes or have felony convictions, and some program-specific restrictions. It also includes a few non-spending provisions, such as extending a space launch liability deadline to December 31, 2016.",
+ "who_it_affects": [
+  {
+   "group": "Farmers and ranchers",
+   "how": "USDA programs such as conservation, crop insurance, and farm lending receive funds, and some specific programs are limited or extended under the law."
+  },
+  {
+   "group": "Low-income families who receive food or housing help",
+   "how": "Funding for SNAP employment and training is held at the FY2013 level, and housing rules such as section 8 eligibility and utility allowances are changed."
+  },
+  {
+   "group": "Federal employees",
+   "how": "Agencies get funding and face limits on first-class travel, conference spending, and certain pay increases for political appointees."
+  },
+  {
+   "group": "Veterans",
+   "how": "VA medical, benefits, and cemetery programs receive appropriated funds, and VA must report regularly to Congress on claims and health system finances."
+  },
+  {
+   "group": "Active-duty military members and their families",
+   "how": "Defense pay, housing, and operations accounts are funded, and some military retirees face a reduced annual cost-of-living adjustment starting December 2015."
+  },
+  {
+   "group": "Students receiving federal aid",
+   "how": "The maximum Pell Grant is set at $4,860 for award year 2014-2015, and the FAFSA is changed to identify foster youth."
+  },
+  {
+   "group": "Businesses that contract with the federal government",
+   "how": "Companies with unpaid federal taxes or recent felony convictions are generally barred from new federal contracts, grants, or loans funded by this law."
+  },
+  {
+   "group": "Taxpayers who deal with the IRS",
+   "how": "The IRS receives funds for taxpayer service and identity theft prevention, and it must follow new rules on training, confidentiality, and video production."
+  },
+  {
+   "group": "Residents of the District of Columbia",
+   "how": "The District receives federal payments for schools, courts, and other services, and its budget rules are set by this law."
+  }
+ ],
+ "when_it_takes_effect": "Enacted January 17, 2014; most spending applies to fiscal year 2014, ending September 30, 2014, with some provisions running into later years.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

@@ -3520,5 +3520,15 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2019 law directs the Education Department to give yearly no-cash recognition awards to outstanding classified school employees.",
+  "what_it_does": "The law tells the Department of Education to choose one award winner each year from nominations sent in by states. Winners are chosen from nine job categories, including paraprofessionals, clerical and administrative staff, transportation, food service, custodial and maintenance, security, health and student services, technical services, and skilled trades. The Department must also create national guidelines for judging the nominations. The award carries no monetary value.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law took effect when it was enacted on April 12, 2019.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

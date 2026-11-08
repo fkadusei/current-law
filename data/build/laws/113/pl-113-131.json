@@ -3531,5 +3531,28 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "This 2014 law directs the U.S. Forest Service to transfer certain cemetery land in the Black Hills of South Dakota to local communities that already run those cemeteries.",
+  "what_it_does": "The Secretary of Agriculture must give local South Dakota communities ownership of National Forest System parcels that hold community cemeteries. The transfer also covers up to two more acres next to each cemetery, which includes unmarked graves and room to expand. Recipients must take the land as it is, keep using it the same way it was used before, and pay for the survey of their own parcel.",
+  "who_it_affects": [
+   {
+    "group": "Local communities in South Dakota that manage the Black Hills cemeteries",
+    "how": "They receive ownership of the cemetery land and up to two adjoining acres, and they must pay for the survey of their parcel."
+   },
+   {
+    "group": "Families with relatives buried in these cemeteries",
+    "how": "The law is meant to keep the cemeteries, including unmarked graves, in local hands and allow them to grow, though it does not change who may be buried there."
+   },
+   {
+    "group": "The U.S. Forest Service",
+    "how": "It no longer manages these specific cemetery parcels once the conveyances are completed."
+   }
+  ],
+  "when_it_takes_effect": "The law took effect when it was enacted on July 25, 2014, but the transfers happen as the Secretary carries them out, and the summary gives no fixed deadline.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

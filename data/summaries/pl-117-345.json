@@ -1,0 +1,20 @@
+{
+ "headline": "This law officially designates a roughly 3,292-mile route, the old Butterfield Overland Mail trail, as a national historic trail.",
+ "what_it_does": "The act names the trail as the Butterfield Overland National Historic Trail, running from St. Louis, Missouri, and Memphis, Tennessee, west through Arkansas, Oklahoma, Texas, New Mexico, and Arizona to San Francisco, California. It bars the United States from acquiring land or interests in land outside the boundaries of existing federally managed areas for the trail without the owner's consent. It also bars the Department of the Interior from using eminent domain or condemnation to carry out the act.",
+ "who_it_affects": [
+  {
+   "group": "Private landowners along the trail route in Missouri, Tennessee, Arkansas, Oklahoma, Texas, New Mexico, Arizona, and California",
+   "how": "The federal government cannot take their land or interests in land for the trail without their consent, and Interior cannot use eminent domain against them for this purpose."
+  },
+  {
+   "group": "Department of the Interior",
+   "how": "It must carry out the designation without using eminent domain or condemnation and cannot acquire trail land outside existing federal areas without landowner consent."
+  }
+ ],
+ "when_it_takes_effect": "The act was enacted on January 5, 2023, and the summary does not list a separate later effective date.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

@@ -1,0 +1,36 @@
+{
+ "headline": "This law strengthens U.S. enforcement against illegal, unreported, and unregulated fishing, including penalties, port rules, and a ban on trading illegally caught fish.",
+ "what_it_does": "The law extends enforcement rules from the Magnuson-Stevens Act to several other international fishing treaties and laws, giving the Department of Commerce tools like civil and criminal penalties, permit sanctions, seizures, inspections, and arrests. It makes it unlawful to buy, sell, import, export, or transport fish caught in violation of treaties or binding international conservation rules. It also lets Commerce list vessels and nations tied to illegal fishing, and it requires denial of port privileges for vessels from nations that receive negative certifications. Finally, it authorizes Commerce to write rules carrying out the 2009 UN Port State Measures Agreement, which lets countries inspect foreign boats at their ports.",
+ "who_it_affects": [
+  {
+   "group": "Commercial fishing vessel operators, including foreign vessels that fish in regulated waters",
+   "how": "They face civil and criminal penalties, permit sanctions, and possible seizure if they break the covered fishing treaties, and they can be denied port access if their nation receives a negative certification."
+  },
+  {
+   "group": "Seafood importers, distributors, and sellers",
+   "how": "They may not buy, sell, import, export, or transport fish that was caught in violation of international treaties or binding conservation measures."
+  },
+  {
+   "group": "Owners of high seas fishing vessels",
+   "how": "A high seas fishing permit becomes void if another required permit or authorization expires, is revoked or suspended, or if the vessel loses its U.S. documentation or eligibility for it."
+  },
+  {
+   "group": "Nations whose fishing fleets or enforcement efforts are judged inadequate",
+   "how": "Commerce must identify them and may apply sanctions, including denial of port privileges for their fishing vessels."
+  },
+  {
+   "group": "Foreign fishing vessels seeking to use U.S. ports",
+   "how": "They may be inspected and restricted under the Port State Measures Agreement rules that Commerce is authorized to write."
+  },
+  {
+   "group": "Antarctic fishing operators",
+   "how": "A person can now violate the Antarctic Marine Living Resources Convention Act without having known or reasonably should have known that the fish were taken illegally."
+  }
+ ],
+ "when_it_takes_effect": "Signed into law on November 5, 2015; enforcement and identification programs are authorized through fiscal year 2020, and some provisions depend on future Commerce regulations.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

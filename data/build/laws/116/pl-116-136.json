@@ -4369,5 +4369,44 @@
   "House": "D",
   "Senate": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "The CARES Act is a 2020 federal law responding to the COVID-19 pandemic with aid for workers, businesses, health care, students, and government programs.",
+  "what_it_does": "The law sets up the Paycheck Protection Program, which offers federally guaranteed loans to small businesses that keep paying workers, and those loans can be forgiven if spending rules are met. It expands unemployment benefits, including extra weekly payments and coverage for people not normally eligible, and sends one-time tax credit payments to lower-income taxpayers. It also changes rules for Medicare, Medicaid, and private health plans, pauses many federal student loan payments, and provides money for states, hospitals, and federal agencies. The summary describes these as temporary measures tied to the pandemic, with many provisions ending in 2020 or 2021.",
+  "who_it_affects": [
+   {
+    "group": "Small businesses and sole proprietors",
+    "how": "They could receive federally guaranteed paycheck protection loans that may be forgiven if the money is used for payroll, rent, utilities, and similar costs."
+   },
+   {
+    "group": "Unemployed workers, including gig and self-employed workers",
+    "how": "They could receive extended and new pandemic unemployment benefits, including an extra $600 weekly payment for a limited period."
+   },
+   {
+    "group": "Lower- and middle-income taxpayers and their dependent children",
+    "how": "They could receive a one-time refundable tax credit, with the amount reduced for higher incomes."
+   },
+   {
+    "group": "Federal student loan borrowers",
+    "how": "Their required payments on certain federal loans were suspended through September 30, 2020, with interest not accruing during that time."
+   },
+   {
+    "group": "Medicare and Medicaid enrollees",
+    "how": "They gained expanded access to telehealth services and no-cost COVID-19 vaccine coverage under Medicare."
+   },
+   {
+    "group": "Workers who took pandemic-related leave or were furloughed",
+    "how": "Employers were given rules on paid sick leave and family leave limits, and certain retirement plan withdrawals were allowed without the usual penalty."
+   },
+   {
+    "group": "State and local governments",
+    "how": "They could receive payments from a Coronavirus Relief Fund for pandemic-related costs incurred between March 1 and December 30, 2020."
+   }
+  ],
+  "when_it_takes_effect": "Enacted March 27, 2020; most provisions apply for set periods that mostly end in 2020 or 2021, though some run longer.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

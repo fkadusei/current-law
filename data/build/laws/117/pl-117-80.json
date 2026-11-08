@@ -3517,5 +3517,15 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "A law lets the National Medal of Honor Museum Foundation build a commemorative work on federal land in Washington, D.C., honoring Medal of Honor recipients, paid for without federal funds.",
+  "what_it_does": "The law gives the National Medal of Honor Museum Foundation permission to establish a commemorative work on federal land in the District of Columbia. The foundation must raise its own money and pay all costs, and federal funds cannot be used. The project must follow the Commemorative Works Act.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law was enacted on December 27, 2021. The official summary does not list a separate start date.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

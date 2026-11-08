@@ -1,0 +1,24 @@
+{
+ "headline": "Congress authorized a Justice Department block grant program that funds local partnerships to reduce crime in neighborhoods.",
+ "what_it_does": "The law creates the Project Safe Neighborhoods Block Grant Program within the Department of Justice. Grants support local plans to reduce crime, evidence-based prevention and intervention programs, and data collection on results. Grant funds must be controlled locally to the greatest extent practicable, and 30% of grant money must go to gang task forces in areas with significant or growing levels of violent crime, firearm offenses, and drug or human trafficking by criminal or transnational groups.",
+ "who_it_affects": [
+  {
+   "group": "Local governments and community partners that apply for grants",
+   "how": "They can receive federal funds to write comprehensive crime-reduction plans, run prevention or intervention programs, and track outcomes."
+  },
+  {
+   "group": "Gang task forces in regions with high levels of organized violent and trafficking crime",
+   "how": "At least 30% of the grant money available is set aside for them."
+  },
+  {
+   "group": "Residents of communities that receive grants",
+   "how": "Local programs funded under the law may change the crime-prevention services available in their neighborhoods."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on June 18, 2018. The summary does not list a separate start date for the grants or the dollar amounts authorized.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

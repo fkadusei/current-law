@@ -1,0 +1,24 @@
+{
+ "headline": "A 2015 law removes SBA guarantee fees on certain Express loans to veterans and their spouses, raises a loan limit, and adds reporting and lending limits.",
+ "what_it_does": "The law stops the Small Business Administration from charging a guarantee fee on SBA Express loans made to veterans or their spouses on or after October 1, 2015. The fee can come back in any future fiscal year when the President's budget shows the program's cost above zero. It also raises the FY2015 cap on general business loan commitments from $18.75 billion to $23.5 billion. Starting October 1, 2015, the SBA cannot guarantee a loan in two situations: when the borrower could only get credit because the lender needs to sell the guaranteed part, or when the only purpose is to let a lender go over its legal lending limit. The law also requires the SBA to report to Congress on outreach to female veterans about access to capital.",
+ "who_it_affects": [
+  {
+   "group": "Veterans and spouses of veterans who take out SBA Express loans",
+   "how": "They do not have to pay the SBA guarantee fee on these loans for loans made on or after October 1, 2015, unless a future budget shows the program costs more than zero."
+  },
+  {
+   "group": "Lenders that make SBA Express loans",
+   "how": "They can no longer get an SBA guarantee on loans where the borrower could only qualify because the lender needs to sell the guaranteed portion, or where the guarantee is used only to exceed the lender's legal lending limit."
+  },
+  {
+   "group": "Female veterans and women's business centers and Veterans Business Outreach Centers",
+   "how": "The SBA must assess and report to Congress on how much outreach and consultation it does with female veterans about access to capital."
+  }
+ ],
+ "when_it_takes_effect": "The fee waiver applies to loans made on or after October 1, 2015. The lending restrictions start October 1, 2015. The $23.5 billion limit applies to FY2015 commitments.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

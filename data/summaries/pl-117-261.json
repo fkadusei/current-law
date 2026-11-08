@@ -1,0 +1,24 @@
+{
+ "headline": "A 2022 law repeals the Klamath Tribe Judgment Fund Act and directs the Interior Department to pay the tribe the remaining funds in its judgment fund accounts.",
+ "what_it_does": "The law removes the Klamath Tribe Judgment Fund Act, which had set out how money credited to the Klamath Tribe was to be distributed. It requires the Department of the Interior to disburse to the tribe the remaining balance held in per capita trust accounts and in trust accounts for legal fees and administration. The official summary does not describe the exact amounts or the new distribution steps.",
+ "who_it_affects": [
+  {
+   "group": "Members of the Klamath Tribe",
+   "how": "Money held for them in per capita trust accounts is part of the balance the Interior Department must disburse under the law."
+  },
+  {
+   "group": "The Klamath Tribe",
+   "how": "The tribe becomes the recipient of the remaining funds that were held in the judgment fund trust accounts."
+  },
+  {
+   "group": "Department of the Interior",
+   "how": "The department must carry out the disbursement of the remaining trust account balances to the tribe."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted December 21, 2022. The official summary does not list a separate effective date.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

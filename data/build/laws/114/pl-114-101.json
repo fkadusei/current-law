@@ -3539,5 +3539,32 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "This law renames the Nisqually National Wildlife Refuge in Washington after Billy Frank Jr. and creates the Medicine Creek Treaty National Memorial inside it.",
+  "what_it_does": "The refuge is renamed the Billy Frank Jr. Nisqually National Wildlife Refuge. Within it, the law establishes the Medicine Creek Treaty National Memorial, a unit of the National Park System, to mark where the 1854 Medicine Creek Treaty was signed. The Interior Department must set the memorial's boundaries and provide for its administration and interpretation by the U.S. Fish and Wildlife Service, working with the four tribes named in the treaty.",
+  "who_it_affects": [
+   {
+    "group": "Muckleshoot, Nisqually, Puyallup, and Squaxin Island Indian Tribes",
+    "how": "They are the tribes whose leaders signed the 1854 treaty, and Interior must coordinate with their representatives on how the memorial is interpreted."
+   },
+   {
+    "group": "Visitors to the Nisqually National Wildlife Refuge",
+    "how": "The refuge goes by a new name, and the memorial becomes a new site within it that visitors may come to see."
+   },
+   {
+    "group": "U.S. Fish and Wildlife Service",
+    "how": "The agency is responsible for administering and interpreting the new memorial."
+   },
+   {
+    "group": "Department of the Interior",
+    "how": "The department must set the memorial's boundaries and coordinate with the tribes on its interpretation."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

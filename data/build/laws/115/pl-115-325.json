@@ -42,5 +42,52 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law updates federal rules on tribal energy development, leasing, hydroelectric licenses, biomass projects, and related Interior and Energy Department programs.",
+  "what_it_does": "The law amends several earlier statutes to make it easier for Indian tribes to develop and manage their own energy resources. It lets tribes pool energy resources, skip some federal approvals for certain leases if they follow an approved tribal energy agreement, and receive grants and loan guarantees for energy programs. It also gives tribes preference for preliminary hydroelectric licenses, sets up biomass demonstration projects on forest land, and lets the Navajo Nation and Crow Tribe handle some land leases with different terms.",
+  "who_it_affects": [
+   {
+    "group": "Federally recognized Indian tribes",
+    "how": "They can access more Energy Department grants and loan guarantees, pool energy resources, and develop energy projects with fewer federal approvals under approved tribal energy agreements."
+   },
+   {
+    "group": "Intertribal organizations",
+    "how": "They become eligible for Energy Department Indian energy education and planning grants."
+   },
+   {
+    "group": "Tribal energy development organizations",
+    "how": "They can qualify for Energy Department energy development loan guarantees."
+   },
+   {
+    "group": "The Navajo Nation",
+    "how": "It can enter into certain mineral resource leases on its restricted lands without Interior Department approval, and longer commercial and agricultural lease terms are allowed without approval."
+   },
+   {
+    "group": "The Crow Tribe of Montana",
+    "how": "It may lease its land for terms of up to 99 years."
+   },
+   {
+    "group": "Tribes seeking hydroelectric licenses",
+    "how": "They receive preference alongside states and municipalities when the Federal Energy Regulatory Commission grants preliminary licenses."
+   },
+   {
+    "group": "Tribes and nearby communities with Indian forest land",
+    "how": "They may take part in federal biomass energy demonstration projects that supply woody biomass from federal lands."
+   },
+   {
+    "group": "Tribes receiving home weatherization funds",
+    "how": "The requirements for direct home weatherization grants to tribes are revised."
+   },
+   {
+    "group": "Parties with interests in Indian land transactions",
+    "how": "Mineral or energy resources in covered transactions must be appraised by Interior, the tribe, or a certified third-party appraiser, and the law sets rules for money Interior holds during reviews of these transactions."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

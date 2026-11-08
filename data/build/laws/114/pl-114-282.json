@@ -36,5 +36,36 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Directs the Treasury to mint and sell commemorative coins marking the 50th anniversary of the Apollo 11 moon landing, with surcharges going to space and STEM education groups.",
+  "what_it_does": "The law tells the Department of the Treasury to make gold, silver, half-dollar clad, and proof silver coins honoring the first manned moon landing. Treasury may issue these coins only during a one-year period starting January 1, 2019. Each coin sale includes a surcharge: $35 per gold coin, $10 per silver coin, $5 per half-dollar clad coin, and $50 per proof silver coin. Half of the surcharge money goes to the Smithsonian's National Air and Space Museum for its Destination Moon exhibit, and the other half is split between the Astronauts Memorial Foundation and the Astronaut Scholarship Foundation, which gives college scholarships for science, technology, engineering, and math students. The law also requires that the coin program cost the federal government nothing and that no money go to these recipients until the cost of designing and issuing the coins is paid back.",
+  "who_it_affects": [
+   {
+    "group": "Coin buyers and collectors",
+    "how": "People who buy these commemorative coins pay the base price plus the set surcharge for each coin."
+   },
+   {
+    "group": "Students pursuing STEM degrees",
+    "how": "The Astronaut Scholarship Foundation may use its share of the surcharges to fund college scholarships for science, technology, engineering, and math students."
+   },
+   {
+    "group": "Smithsonian National Air and Space Museum",
+    "how": "The museum receives half of the surcharge money to support its Destination Moon exhibit."
+   },
+   {
+    "group": "Astronauts Memorial Foundation",
+    "how": "This group receives one-quarter of the surcharge money."
+   },
+   {
+    "group": "Department of the Treasury",
+    "how": "Treasury must mint and sell the coins within the one-year window and make sure the program costs taxpayers nothing."
+   }
+  ],
+  "when_it_takes_effect": "Treasury may issue the coins only for a one-year period beginning January 1, 2019, and the law was enacted December 16, 2016.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

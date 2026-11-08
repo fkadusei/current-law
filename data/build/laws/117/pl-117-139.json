@@ -33,5 +33,24 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law extends a federal compensation program for people who were exposed to radiation from atomic weapons testing or uranium mining and later developed certain illnesses.",
+  "what_it_does": "The bill extends the Radiation Exposure Compensation Act program, which pays compensation to people who were exposed to radiation from atomic weapons testing or uranium mining or processing. Those people must also have later developed specified cancers or other medical conditions. The bill sets the program to end two years after the law was enacted.",
+  "who_it_affects": [
+   {
+    "group": "People exposed to radiation from atomic weapons testing",
+    "how": "They can keep applying for compensation under the extended program if they developed a covered cancer or other listed condition."
+   },
+   {
+    "group": "Uranium miners and uranium processing workers",
+    "how": "Those who were exposed to radiation from uranium mining or processing and later developed a covered condition can seek compensation under the extended program."
+   }
+  ],
+  "when_it_takes_effect": "The extension took effect when the law was enacted on June 7, 2022. The program is set to terminate two years after that date, around June 2024.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -3531,5 +3531,15 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "Congress authorized the Peace Corps Commemorative Foundation to build a memorial on federal land in Washington, D.C., honoring the Peace Corps.",
+  "what_it_does": "This law lets the Peace Corps Commemorative Foundation create a commemorative work on federal land in the District of Columbia. The work is meant to honor the Peace Corps' mission and the ideals it was founded on. The summary does not describe the site, design, or funding.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law was enacted on January 24, 2014, and the summary does not list a separate effective date.",
+  "ceremonial": true,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

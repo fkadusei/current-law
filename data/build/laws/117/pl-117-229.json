@@ -4349,5 +4349,44 @@
   "House": "D",
   "Senate": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "A December 2022 law keeps the federal government funded through December 23, 2022, extends many expiring programs, and directs NOAA to update rainfall estimates.",
+  "what_it_does": "The act is a continuing resolution that funds federal agencies at FY2022 levels until the FY2023 spending bills are enacted or December 23, 2022, whichever comes first, which prevents a shutdown. It also extends a long list of expiring programs, including Medicare payment adjustments for certain hospitals, home visiting and child welfare grants, and several FDA device and drug programs. A separate division directs NOAA to seek a National Academies study and issue guidance on probable maximum precipitation estimates. The act also includes a payment to the beneficiary of the late Representative Aston Donald McEachin.",
+  "who_it_affects": [
+   {
+    "group": "Federal agencies and their employees",
+    "how": "They keep operating at FY2022 funding levels through the continuing resolution instead of shutting down."
+   },
+   {
+    "group": "Certain small rural and low-volume hospitals that serve Medicare patients",
+    "how": "They continue to receive extended Medicare payment adjustments and additional payments."
+   },
+   {
+    "group": "Families with pregnant individuals or young children in certain communities",
+    "how": "The Maternal, Infant, and Early Childhood Home Visiting Program is extended with additional funding."
+   },
+   {
+    "group": "Child welfare agencies and families involved in the child welfare system",
+    "how": "Title IV-B child and family services programs are extended with additional funding."
+   },
+   {
+    "group": "Medical device and drug companies seeking FDA approval",
+    "how": "Several FDA programs, such as the humanitarian device exemption and certain market exclusivity and accreditation provisions, are extended to December 24, 2022."
+   },
+   {
+    "group": "Engineers, consultants, and regulators who perform or review probable maximum precipitation studies, such as dam and infrastructure safety analysts",
+    "how": "NOAA must develop best-practice guidance for these studies, which may change how they are done."
+   },
+   {
+    "group": "Alaska Native villages and corporations in areas served by Alaska Native regional health entities",
+    "how": "A rule barring the Indian Health Service from sending them certain funds is extended to December 24, 2022."
+   }
+  ],
+  "when_it_takes_effect": "Enacted December 16, 2022; most continuing appropriations and extensions run through December 23, 2022, and certain FDA provisions run through December 24, 2022.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

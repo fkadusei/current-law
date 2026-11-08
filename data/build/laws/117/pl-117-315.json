@@ -33,5 +33,24 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2022 law lets certain federal grant money for domestic violence and sexual assault coalitions also support women in Native Hawaiian communities.",
+  "what_it_does": "The law is a technical change to the Violence Against Women Act. It allows formula grants given to tribal domestic violence and sexual assault coalitions to be used to help women in Native Hawaiian communities, not only women in tribal communities. The summary does not describe any other changes to funding amounts, eligibility rules, or deadlines.",
+  "who_it_affects": [
+   {
+    "group": "Women in Native Hawaiian communities",
+    "how": "They can now be served by grant-funded domestic violence and sexual assault programs run by tribal coalitions."
+   },
+   {
+    "group": "Tribal domestic violence and sexual assault coalitions",
+    "how": "They may use their federal formula grant money to support women in Native Hawaiian communities as well as women in tribal communities."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on December 27, 2022, and the official summary does not state a separate effective date.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

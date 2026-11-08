@@ -1,0 +1,24 @@
+{
+ "headline": "A 2019 law requires lobbyists' registrations and quarterly reports to list certain past criminal convictions.",
+ "what_it_does": "The law changes the lobbying disclosure forms. Each lobbyist registration and quarterly report must now include the date and description of any conviction of a listed lobbyist for offenses such as bribery, extortion, embezzlement, illegal kickbacks, tax evasion, fraud, conflicts of interest, false statements, perjury, or money laundering. The summary does not say how far back convictions must be reported.",
+ "who_it_affects": [
+  {
+   "group": "Registered lobbyists with a qualifying criminal conviction",
+   "how": "They must have their conviction date and offense listed on the lobbying registration and quarterly reports that cover them."
+  },
+  {
+   "group": "Lobbying firms and organizations that file registrations and quarterly reports",
+   "how": "They must add the conviction information to the forms they file for any listed lobbyist with a qualifying conviction."
+  },
+  {
+   "group": "The public and reporters who review lobbying disclosure records",
+   "how": "They can see conviction information for listed lobbyists in the public filings."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on January 3, 2019. The summary does not give a separate start date for the new reporting requirement.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

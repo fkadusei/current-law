@@ -3533,5 +3533,24 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "This law extends for four years a bankruptcy rule that exempts certain National Guard and reserve members from the Chapter 7 means test.",
+  "what_it_does": "Chapter 7 bankruptcy filers usually must pass a means test that checks their income. This law keeps an exemption from that test for qualifying service members. To qualify, a member must have been called to active duty or homeland defense activity for at least 90 days on or after September 11, 2001. The exemption had been set to expire on December 19, 2019, and this law extends it for four more years.",
+  "who_it_affects": [
+   {
+    "group": "National Guard and reserve members called to active duty or homeland defense for at least 90 days since September 11, 2001",
+    "how": "They can keep the exemption from the Chapter 7 means test for four more years if they file for bankruptcy."
+   },
+   {
+    "group": "Bankruptcy filers in the Chapter 7 process",
+    "how": "Qualifying service members who file under Chapter 7 do not have to meet the means test requirement during the extension period."
+   }
+  ],
+  "when_it_takes_effect": "The extension took effect when the law was enacted on August 23, 2019, and it continues the exemption that was otherwise set to expire on December 19, 2019.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

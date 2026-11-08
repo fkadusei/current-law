@@ -1,0 +1,28 @@
+{
+ "headline": "This 2015 law directs the Department of Health and Human Services to study and report on opioid use during pregnancy and its effects on newborns.",
+ "what_it_does": "The law requires HHS to review its existing work on prenatal opioid use and newborn withdrawal, then find gaps in research and overlap among programs. HHS must also study how to prevent and treat opioid use disorders in pregnant women and women of reproductive age, and publish a report with recommendations. The law allows HHS to keep providing technical help to states and Indian tribes to track newborn withdrawal cases and to share public health information.",
+ "who_it_affects": [
+  {
+   "group": "Pregnant women with opioid use disorders",
+   "how": "The law asks HHS to study treatment options for them and the effects of prenatal opioid use on their babies."
+  },
+  {
+   "group": "Newborns with neonatal abstinence syndrome",
+   "how": "The law directs HHS to assess existing research on this newborn withdrawal condition and its effects on infants."
+  },
+  {
+   "group": "Women of reproductive age",
+   "how": "HHS must evaluate the causes of and barriers to opioid use disorder treatment for this group and recommend prevention steps."
+  },
+  {
+   "group": "State and tribal health agencies",
+   "how": "HHS may continue offering them technical assistance to improve tracking of newborn withdrawal and to run public education efforts."
+  }
+ ],
+ "when_it_takes_effect": "The law took effect on its enactment date, November 25, 2015, and it requires HHS to complete its review and report afterward; the summary does not give specific report deadlines.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

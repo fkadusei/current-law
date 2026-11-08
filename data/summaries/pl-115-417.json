@@ -1,0 +1,24 @@
+{
+ "headline": "A 2019 law exempts investment advisers who work only with rural business investment companies from certain federal registration requirements under the Investment Advisers Act.",
+ "what_it_does": "The law amends the Investment Advisers Act of 1940. It removes the usual registration requirements for investment advisers whose only clients are rural business investment companies, which are investment funds that support businesses in rural areas. Advisers who serve other types of clients are not covered by this exemption.",
+ "who_it_affects": [
+  {
+   "group": "Investment advisers who solely advise rural business investment companies",
+   "how": "They no longer have to meet the federal registration requirements that apply to most investment advisers under the Advisers Act."
+  },
+  {
+   "group": "Rural business investment companies",
+   "how": "They can hire advisers who are exempt from registration, which may affect the advisers available to them."
+  },
+  {
+   "group": "Other investment advisers",
+   "how": "They are not affected, because the exemption applies only to advisers who solely advise rural business investment companies."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted January 3, 2019. The official summary does not state a separate effective date.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

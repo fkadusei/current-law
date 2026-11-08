@@ -33,5 +33,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2022 law directs Congress to remove a bust of Chief Justice Roger Taney from the Old Supreme Court Chamber and obtain a bust of Thurgood Marshall for the Capitol.",
+  "what_it_does": "The law tells the Joint Committee on the Library to take down the bust of Roger Brooke Taney in the Old Supreme Court Chamber of the Capitol. It also directs the committee to obtain and install a bust of Thurgood Marshall in a prominent spot in the Capitol or on the Capitol Grounds. The committee must give priority to a site near the Old Supreme Court Chamber.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "On enactment, December 27, 2022.",
+  "ceremonial": true,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

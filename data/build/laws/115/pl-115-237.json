@@ -39,5 +39,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law requires federal court chief judges to hold public events that encourage free legal help for survivors of domestic violence, sexual assault, and stalking.",
+  "what_it_does": "Each federal judicial district's chief judge must hold public events promoting pro bono (free) legal services for survivors of domestic violence, dating violence, sexual assault, and stalking. A district that includes an Indian tribe or tribal organization must hold at least one such event every two years aimed at Indian and Alaska Native victims. Chief judges must report on these events to the Administrative Office of the U.S. Courts, which compiles the reports and sends them to Congress.",
+  "who_it_affects": [
+   {
+    "group": "Survivors of domestic violence, dating violence, sexual assault, and stalking",
+    "how": "They may have more access to free legal help because federal courts are required to promote these services through public events."
+   },
+   {
+    "group": "Indian and Alaska Native victims of domestic violence, dating violence, sexual assault, and stalking",
+    "how": "Districts with tribes must hold a promotional event at least once every two years focused on free legal services for them."
+   },
+   {
+    "group": "Federal chief judges and judicial districts",
+    "how": "Each chief judge must organize public events and report on them to the Administrative Office of the U.S. Courts."
+   },
+   {
+    "group": "Lawyers who do pro bono work",
+    "how": "Public events are meant to connect them with survivors who need free legal services."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

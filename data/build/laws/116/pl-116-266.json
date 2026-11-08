@@ -36,5 +36,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Congress named the post office at 909 West Holiday Drive in Fate, Texas, after former Congressman Ralph Hall.",
+  "what_it_does": "This law renames a United States Postal Service facility in Fate, Texas, as the \"Ralph Hall Post Office.\" It is a symbolic honor and does not change how the post office operates. Mail service, postal rules, and staffing stay the same.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law was enacted on December 30, 2020.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

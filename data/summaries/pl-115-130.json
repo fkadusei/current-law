@@ -1,0 +1,20 @@
+{
+ "headline": "This law requires the VA to send Congress reports on how it uses private medical evidence in veterans' benefit claims and when it orders in-person exams.",
+ "what_it_does": "The VA must report within 180 days on its Acceptable Clinical Evidence initiative, which aims to reduce the need for in-person disability exams. Each year through 2024, the VA must also report for each regional office how often it ordered exams because a veteran's private medical evidence was judged unacceptable, the common reasons, and which disabilities were most often denied when private evidence was submitted. The law itself does not change benefit amounts or eligibility rules.",
+ "who_it_affects": [
+  {
+   "group": "Veterans who file disability compensation or pension claims with private medical evidence",
+   "how": "The yearly reports track how often their private medical records were rejected and sent them to a VA exam, which may show how their claims are handled."
+  },
+  {
+   "group": "Department of Veterans Affairs and its regional offices",
+   "how": "The VA must collect data, study its evidence policies, and send required reports to Congress on set deadlines."
+  }
+ ],
+ "when_it_takes_effect": "Enacted March 9, 2018; the first report was due within 180 days of enactment, and annual reports are due by March 1 each year from 2018 through 2024.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

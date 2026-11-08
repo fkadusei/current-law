@@ -36,5 +36,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law extends U.S. global food security and disaster food aid programs through fiscal year 2023 and adds more reporting requirements for the President.",
+  "what_it_does": "The law changes the Global Food Security Act of 2016 so that the part of the global food security strategy run by the State Department and USAID continues through fiscal year 2023. It also requires the President to report more information about how that strategy is being carried out. In addition, it amends the Foreign Assistance Act of 1961 to extend the international disaster relief and rehabilitation program through fiscal year 2023, including a set-aside for emergency food security aid.",
+  "who_it_affects": [
+   {
+    "group": "People in countries receiving U.S. global food security and emergency food aid",
+    "how": "Food security and emergency food assistance programs run by State and USAID are authorized to continue through fiscal year 2023."
+   },
+   {
+    "group": "State Department and USAID staff who run these programs",
+    "how": "They must follow expanded reporting requirements on how the global food security strategy is being implemented."
+   },
+   {
+    "group": "Congress",
+    "how": "Lawmakers receive more detailed reports from the President on the strategy's progress."
+   }
+  ],
+  "when_it_takes_effect": "Enacted October 11, 2018; the program extensions run through fiscal year 2023.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

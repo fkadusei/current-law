@@ -1,0 +1,60 @@
+{
+ "headline": "A stopgap spending law that keeps federal agencies funded at current levels until December 11, 2014, and extends several expiring programs and authorities.",
+ "what_it_does": "The law provides temporary federal funding at the prior year's rate so agencies can keep operating while Congress finishes full-year spending bills. It cuts that rate by a very small amount, about 0.0554 percent, and bars the Defense Department from starting new production or new projects that were not funded in fiscal year 2014. It also extends several programs that would have expired, including the Export-Import Bank's operating authority through June 30, 2015, the Internet Tax Freedom Act, and parts of the Temporary Assistance for Needy Families program. It adds money for the Ebola response, authorizes the Defense Department to help Syrian opposition groups fight the Islamic State, and requires reports to Congress on that effort.",
+ "who_it_affects": [
+  {
+   "group": "Federal employees and federal agencies",
+   "how": "Agencies can keep paying staff and running programs at current levels, and the law limits some spending to avoid furloughs."
+  },
+  {
+   "group": "Members of the military and Defense Department contractors",
+   "how": "The Defense Department may not start new production or new projects not funded in 2014, and it may fund military construction and related activities at set levels."
+  },
+  {
+   "group": "Veterans",
+   "how": "The Veterans Affairs Department receives money for benefits processing and its Inspector General office."
+  },
+  {
+   "group": "Recipients of Temporary Assistance for Needy Families and Head Start grantees",
+   "how": "Their program authorities are extended through the stopgap period, and some Early Head Start funds are excluded from certain grant calculations."
+  },
+  {
+   "group": "Small businesses that borrow through the Small Business Administration",
+   "how": "Funding is provided for general business loans and can be increased if demand rises."
+  },
+  {
+   "group": "Exporters and foreign buyers who rely on the Export-Import Bank",
+   "how": "The bank's authority to make loans and guarantees is extended through June 30, 2015."
+  },
+  {
+   "group": "Internet service and e-commerce businesses",
+   "how": "Protections from certain state and local internet access taxes are extended through December 11, 2014."
+  },
+  {
+   "group": "People in Africa and health workers responding to Ebola",
+   "how": "The Health and Human Services and CDC receive funds to speed up Ebola countermeasures and outbreak response."
+  },
+  {
+   "group": "Participants in the Supplemental Nutrition Assistance Program and other mandatory benefit programs",
+   "how": "Benefit payments continue at the rate needed to maintain current program levels through December 11, 2014."
+  },
+  {
+   "group": "Travelers and air carriers",
+   "how": "Certain Transportation Department insurance and air carrier liability protections for terrorism-related third-party claims are extended through December 11, 2014."
+  },
+  {
+   "group": "Recreation users of federal lands",
+   "how": "Recreational fee programs run by the Interior Department and Agriculture Department are extended through December 11, 2015."
+  },
+  {
+   "group": "Customs and immigration staff at the border",
+   "how": "Customs and Border Protection and ICE receive funding flexibility to keep staffing and border and immigration operations going."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted September 19, 2014. Its funding lasts until the earliest of three events: enactment of a full-year appropriation for a given program, enactment of a full-year bill that omits it, or December 11, 2014. Several extensions run to December 11, 2014, and the Export-Import Bank extension runs to June 30, 2015.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

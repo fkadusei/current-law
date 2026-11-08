@@ -1,0 +1,28 @@
+{
+ "headline": "This law makes the State Department's special envoy on anti-Semitism an ambassador-rank post that the President appoints with Senate approval.",
+ "what_it_does": "The law sets up the Special Envoy for Monitoring and Combating anti-Semitism as an ambassador-rank official who leads the Office to Monitor and Combat anti-Semitism at the State Department. Before this law, the Secretary of State appointed the envoy. Now the President appoints the envoy with the advice and consent of the Senate. The President may choose the envoy from among current State Department officers and employees, and the envoy serves as the government's main advisor on monitoring and combating anti-Semitism in foreign countries.",
+ "who_it_affects": [
+  {
+   "group": "The President",
+   "how": "The President now nominates the special envoy, rather than the Secretary of State making the appointment."
+  },
+  {
+   "group": "U.S. Senators",
+   "how": "The Senate must give advice and consent before the special envoy can take office."
+  },
+  {
+   "group": "State Department officers and employees",
+   "how": "The President may pick the envoy from among current department staff, which opens that role to them."
+  },
+  {
+   "group": "People living in foreign countries where anti-Semitism is a concern",
+   "how": "The envoy's office is charged with monitoring and combating anti-Semitism abroad, so its work is aimed at these communities."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on January 13, 2021. The official summary does not list a separate later start date.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

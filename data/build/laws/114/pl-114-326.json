@@ -3542,5 +3542,28 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "This law directs FEMA to keep running a national network of urban search and rescue teams that help states and localities respond to disasters.",
+  "what_it_does": "The law amends the Stafford Act so that FEMA keeps administering the National Urban Search and Rescue Response System. FEMA designates local teams to join the system, sets participation rules, and signs agreements with the government agencies that sponsor each team. FEMA also signs yearly preparedness agreements that provide money for training, equipment, and medical checks for responders, and response agreements that repay sponsors for costs of responding to major disasters or emergencies. FEMA must also report to Congress on a plan to pay for, maintain, and replace system equipment.",
+  "who_it_affects": [
+   {
+    "group": "Local and state fire or rescue agencies that sponsor urban search and rescue teams",
+    "how": "They can receive federal money for training, equipment, responder health monitoring, and reimbursement of response costs if they sign agreements with FEMA."
+   },
+   {
+    "group": "Urban search and rescue team members",
+    "how": "They may be appointed by FEMA for federal service to take part in exercises, staging, disaster responses, and training events."
+   },
+   {
+    "group": "State and local governments facing hazards",
+    "how": "They can draw on a standardized national network of search and rescue resources when responding to emergencies."
+   }
+  ],
+  "when_it_takes_effect": "The law took effect when it was enacted on December 16, 2016, and the bill requires FEMA to submit an equipment financing plan report, with no specific deadline stated in the summary.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

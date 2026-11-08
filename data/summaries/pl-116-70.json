@@ -1,0 +1,20 @@
+{
+ "headline": "Makes permanent a higher dollar threshold above which the Small Business Administration may require collateral on disaster loans to small businesses.",
+ "what_it_does": "The law changes a rule about disaster loans from the Small Business Administration. Under the rule, the agency can ask a borrower to pledge collateral only when a loan is above a set dollar amount. This law makes a higher version of that amount permanent instead of temporary. The summary provided does not give the specific dollar figures.",
+ "who_it_affects": [
+  {
+   "group": "Small businesses that borrow from the Small Business Administration after a major disaster",
+   "how": "Smaller disaster loans are less likely to require pledged collateral under the higher threshold."
+  },
+  {
+   "group": "Homeowners and nonprofits that apply for SBA disaster loans",
+   "how": "The same collateral threshold applies to their disaster loans, so they may be affected in the same way."
+  }
+ ],
+ "when_it_takes_effect": "Upon enactment on November 22, 2019, the higher threshold became permanent.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

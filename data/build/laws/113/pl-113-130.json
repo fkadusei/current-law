@@ -3511,5 +3511,15 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "Names a planned VA and Defense Department joint outpatient clinic in Marina, California, after Major General William H. Gourley.",
+  "what_it_does": "This law gives an official name to a medical clinic that the Department of Veterans Affairs and the Department of Defense plan to build in Marina, California. The clinic will be called the Major General William H. Gourley VA-DOD Outpatient Clinic. The law is a naming measure and does not describe changes to clinic services, funding, or rules.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law was enacted on July 25, 2014, and the naming applies to the clinic once it is built.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

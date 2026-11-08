@@ -1,0 +1,32 @@
+{
+ "headline": "A short-term funding bill that keeps several federal agencies and programs running through December 21, 2018, which prevents a partial government shutdown.",
+ "what_it_does": "This joint resolution, called a continuing resolution, provides temporary FY2019 funding to several federal agencies through December 21, 2018, instead of the December 7, 2018 date under current law. It covers the seven FY2019 spending bills that had not yet been enacted, so funding would not lapse when the earlier stopgap expired. It also extends the National Flood Insurance Program and several other programs, including the Violence Against Women Reauthorization Act of 2013 and the Temporary Assistance for Needy Families (TANF) block grant, through the same date.",
+ "who_it_affects": [
+  {
+   "group": "Federal agencies whose FY2019 spending bills had not yet been enacted",
+   "how": "They keep receiving temporary funding through December 21, 2018, so their operations do not stop on December 7."
+  },
+  {
+   "group": "Federal employees and contractors working for those agencies",
+   "how": "Their paid work continues without interruption during the extended funding period, since the agencies remain funded."
+  },
+  {
+   "group": "People who hold National Flood Insurance Program policies",
+   "how": "Their flood coverage stays in effect through December 21, 2018."
+  },
+  {
+   "group": "States and families who rely on TANF cash assistance",
+   "how": "The TANF block grant program continues through December 21, 2018, so benefits and state administration can carry on during that period."
+  },
+  {
+   "group": "Programs and people served under the Violence Against Women Reauthorization Act of 2013",
+   "how": "The authorities and grants under that law are extended through December 21, 2018."
+  }
+ ],
+ "when_it_takes_effect": "Upon enactment on December 7, 2018, with funding and program extensions running through December 21, 2018.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

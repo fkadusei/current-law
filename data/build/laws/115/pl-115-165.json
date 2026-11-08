@@ -3511,5 +3511,36 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2018 law tightens oversight of people who manage Social Security and SSI benefits for others, with added rules for children in foster care.",
+  "what_it_does": "The law requires the Social Security Administration to give each state's protection and advocacy system yearly grants to review representative payees, and to do periodic on-site reviews of payees. It sets rules for choosing payees, including barring people convicted of a felony and barring anyone who already has a payee from serving as one. It also requires the agency to share information with states to find children in foster care who receive benefits and to pick the right payee when a child's foster care status changes.",
+  "who_it_affects": [
+   {
+    "group": "People who receive Social Security or SSI benefits through a representative payee",
+    "how": "Their payees will face more oversight, including periodic on-site reviews by the Social Security Administration."
+   },
+   {
+    "group": "Family members who serve as representative payees",
+    "how": "Some monitoring requirements for these relatives are reduced under the law."
+   },
+   {
+    "group": "Children in foster care who receive Social Security or SSI benefits",
+    "how": "The agency must identify these children with state data and assign a suitable payee whenever their foster care status changes."
+   },
+   {
+    "group": "Individuals with felony convictions, or with attempted or conspiracy felony convictions, who want to be payees",
+    "how": "They are generally barred from serving as a representative payee."
+   },
+   {
+    "group": "State protection and advocacy systems",
+    "how": "They receive annual federal grants to review representative payees."
+   }
+  ],
+  "when_it_takes_effect": "The summary does not list effective dates for each section; the law was enacted April 13, 2018.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

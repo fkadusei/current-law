@@ -1,0 +1,40 @@
+{
+ "headline": "A 2016 law expands U.S. sanctions and reporting requirements aimed at North Korea's weapons programs, financial dealings, cyber activity, and human rights abuses.",
+ "what_it_does": "The law requires the President to investigate sanctionable activity involving North Korea and to designate people and companies that violate its rules, which can lead to blocked property, frozen financial access, and denied visas. It bars federal agencies from buying goods or services from designated persons, and contractors must certify they do not engage in sanctionable conduct. It also requires many reports to Congress on North Korea policy, human rights, political prison camps, cyber threats, and travel warnings for U.S. citizens, and it authorizes funding for FY2017 through FY2021 for radio programming and humanitarian and information efforts.",
+ "who_it_affects": [
+  {
+   "group": "Companies and individuals that trade with North Korea",
+   "how": "They can be designated for sanctions if they knowingly deal in weapons-related goods, luxury goods, arms, or certain metals, or support North Korean government abuses."
+  },
+  {
+   "group": "Federal contractors",
+   "how": "They must certify they do not engage in sanctionable activity, and a false certification can lead to contract termination and up to two years of debarment."
+  },
+  {
+   "group": "Banks and financial institutions",
+   "how": "They may face restrictions on transfers and foreign exchange transactions tied to designated persons or North Korea."
+  },
+  {
+   "group": "Foreign persons and their companies designated under the law",
+   "how": "They may be denied U.S. visas or entry, and their U.S.-located property can be blocked."
+  },
+  {
+   "group": "International humanitarian organizations",
+   "how": "They are exempt from sanctions for humanitarian transactions and incidental contact while providing aid."
+  },
+  {
+   "group": "U.S. citizens planning travel to North Korea",
+   "how": "The State Department must expand and update travel warnings that describe risks such as detention and abduction."
+  },
+  {
+   "group": "Exporters of goods and technology to North Korea",
+   "how": "Certain exports that could aid North Korea's military or support terrorism require a validated license."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on February 18, 2016, and many provisions apply from that date, though specific reports and sanctions have their own deadlines and conditions.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

@@ -1,0 +1,20 @@
+{
+ "headline": "This law directs the General Services Administration to help federal agencies run their mail operations more efficiently and to review their mail practices.",
+ "what_it_does": "The law changes the Presidential and Federal Records Act Amendments of 2014. It requires the General Services Administration (GSA) to give federal agencies guidance and help with processing mail. The GSA must promote economy and efficiency in how agencies choose and use space, staff, equipment, and supplies for mail facilities. The GSA may also inspect agency mail practices and suggest improvements, and it can set goals for federal records management systems.",
+ "who_it_affects": [
+  {
+   "group": "Federal agencies that handle mail",
+   "how": "They must receive GSA guidance and assistance on mail processing and may have their mail practices inspected with recommendations for improvement."
+  },
+  {
+   "group": "General Services Administration staff",
+   "how": "The agency is required to provide mail processing guidance and gains authority to review agency mail practices and set records management goals."
+  }
+ ],
+ "when_it_takes_effect": "The law took effect when it was enacted on November 21, 2017.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

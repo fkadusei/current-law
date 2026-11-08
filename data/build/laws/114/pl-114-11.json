@@ -36,5 +36,40 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2015 law directs federal agencies and the Energy Department to study and promote energy efficiency in commercial buildings and to set rules for certain water heaters.",
+  "what_it_does": "The law has three parts. It asks the General Services Administration to create model lease terms that encourage energy and water savings in commercial buildings, and it asks the Energy Department and EPA to study efficient building design and create voluntary recognition programs. It also sets energy standards and labeling rules for grid-enabled water heaters used in demand response and thermal storage programs, and it bars people from enabling those heaters outside such programs or removing their labels. Finally, it requires federal agencies leasing space in buildings without an Energy Star label to measure energy efficiency against a benchmark and disclose energy use information.",
+  "who_it_affects": [
+   {
+    "group": "Federal agencies that lease or manage buildings",
+    "how": "They must include energy benchmarking and energy-use disclosure terms in leases for buildings without an Energy Star label."
+   },
+   {
+    "group": "Commercial building owners and tenants",
+    "how": "They may use model leasing provisions and can voluntarily join EPA recognition programs for energy efficiency."
+   },
+   {
+    "group": "Manufacturers and private labelers of grid-enabled water heaters",
+    "how": "They must meet new efficiency and labeling rules and may provide activation keys only to utilities or program operators that use the heaters."
+   },
+   {
+    "group": "Utilities and demand response program operators",
+    "how": "They receive activation keys for grid-enabled water heaters and are the only authorized users of those heaters under the law."
+   },
+   {
+    "group": "Anyone who handles grid-enabled water heaters",
+    "how": "It is illegal to enable a heater for use outside a qualifying program when they know it is not in such a program, or to knowingly remove or hide its label."
+   },
+   {
+    "group": "State and local governments that manage buildings",
+    "how": "The federal government will make model leasing provisions and best practices available to them for managing owned and leased buildings."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

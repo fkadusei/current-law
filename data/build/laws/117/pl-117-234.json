@@ -39,5 +39,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Congress renamed a Detroit, Michigan post office building after civil rights leader Rosa Parks.",
+  "what_it_does": "This law names the U.S. Postal Service facility at 4744 Grand River Avenue in Detroit, Michigan, the Rosa Louise McCauley Parks Post Office Building. It changes only the official name of the building. It does not change postal services, rules, or staffing.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law was enacted on December 19, 2022.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

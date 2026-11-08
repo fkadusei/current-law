@@ -4383,5 +4383,44 @@
   "House": "R",
   "Senate": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "The 21st Century Cures Act is a 2016 health law that funds medical research, speeds up some FDA reviews, changes health IT rules, and expands mental health and addiction programs.",
+  "what_it_does": "The law sets up funding and rules for the National Institutes of Health, including precision medicine, data sharing, and new research grant programs. It changes how the FDA reviews drugs, medical devices, and combination products, and it creates faster paths for some new therapies. It also updates electronic health record rules, extends and expands federal mental health and substance use programs, and makes a range of Medicare and Medicaid changes.",
+  "who_it_affects": [
+   {
+    "group": "Medical researchers and NIH-funded scientists",
+    "how": "They face new rules on sharing research data, reduced paperwork for some policies, and new grant and loan repayment programs."
+   },
+   {
+    "group": "Drug and medical device companies",
+    "how": "They can use new FDA review paths, such as breakthrough device designation, priority review vouchers, and accelerated approval for certain therapies."
+   },
+   {
+    "group": "People with rare or serious conditions and clinical trial participants",
+    "how": "They may gain earlier access to certain investigational treatments through compassionate use and regenerative therapy pathways, and some trials may proceed with modified consent rules."
+   },
+   {
+    "group": "Health care providers and health IT developers",
+    "how": "They must follow new electronic health record certification, information sharing, and anti-information-blocking rules."
+   },
+   {
+    "group": "People with mental illness or substance use disorders and their families",
+    "how": "They may be served by extended federal grant programs for treatment, crisis services, suicide prevention, and diversion from jail."
+   },
+   {
+    "group": "Medicare and Medicaid enrollees and the hospitals and providers that serve them",
+    "how": "Payment rules, enrollment and provider termination rules, and some coverage changes for home infusion therapy and other services are affected."
+   },
+   {
+    "group": "Small employers that offer health reimbursement arrangements",
+    "how": "Those with fewer than 50 full-time employees that meet specified conditions are exempt from certain group health plan requirements."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on December 13, 2016, but many provisions take effect on later dates, including some set for January 1, 2018 or January 1, 2019, and others tied to fiscal years through 2020 to 2023.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

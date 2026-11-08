@@ -39,5 +39,36 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Congress extended federal autism research, data collection, and support programs through 2024 and widened them to cover people of all ages.",
+  "what_it_does": "This law renews several federal autism programs through fiscal year 2024. It covers research at the National Institutes of Health, state autism data collection by the Centers for Disease Control and Prevention, and education and early detection work supported by the Health Resources and Services Administration. It also continues the Interagency Autism Coordinating Committee. The programs now serve autistic people of every age instead of only children, and funding is directed toward areas with shortages of health services and toward reducing health gaps among different populations.",
+  "who_it_affects": [
+   {
+    "group": "Autistic people of all ages",
+    "how": "Federal autism programs now cover adults as well as children rather than only youth."
+   },
+   {
+    "group": "Families and caregivers of autistic people",
+    "how": "They may find more federally supported education, early detection, and intervention services, especially in areas with few health providers."
+   },
+   {
+    "group": "Residents of areas with shortages of personal health services",
+    "how": "Federal autism funding is directed toward these areas."
+   },
+   {
+    "group": "State health agencies",
+    "how": "They may continue to receive federal support for collecting state-level autism data through the CDC."
+   },
+   {
+    "group": "Autism researchers",
+    "how": "NIH autism research programs are reauthorized through fiscal year 2024."
+   }
+  ],
+  "when_it_takes_effect": "Enacted September 30, 2019, with the reauthorized programs running through fiscal year 2024.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -1,0 +1,32 @@
+{
+ "headline": "This law changes how the Nuclear Regulatory Commission is funded and creates new licensing steps, especially for advanced nuclear reactors.",
+ "what_it_does": "The law changes which NRC costs must be paid through fees charged to the nuclear industry, starting in fiscal year 2021. It removes some costs, such as advanced reactor rule development and university research, from the amount the NRC must recover through fees. It also caps the annual fee charged to operating reactors, with a waiver if the cap would hurt safety and security work. For advanced reactors, the NRC must set up staged licensing, use more risk-informed methods, and create a new technology-inclusive framework by the end of 2027. The law also requires several reports to Congress and a voluntary pilot program on flat fees for uranium recovery licensing.",
+ "who_it_affects": [
+  {
+   "group": "Companies developing advanced nuclear reactors",
+   "how": "They can apply under a new staged licensing process and must work with NRC performance metrics and milestone schedules for requested activities."
+  },
+  {
+   "group": "Operators of commercial nuclear reactors",
+   "how": "Their annual NRC fees are capped, though the NRC may waive the cap if it would compromise safety or security."
+  },
+  {
+   "group": "Universities with research reactors",
+   "how": "Certain university research and development costs are excluded from NRC fee recovery, and research reactors may recover a larger share of operating costs."
+  },
+  {
+   "group": "Uranium recovery license holders",
+   "how": "The NRC must study license duration and run a voluntary pilot testing a flat fee for routine licensing matters."
+  },
+  {
+   "group": "Residents near nuclear facilities",
+   "how": "The NRC must report on local community advisory boards and on lessons learned about evacuations in dense urban and suburban areas."
+  }
+ ],
+ "when_it_takes_effect": "The fee changes take effect in fiscal year 2021, and the technology-inclusive advanced reactor framework must be in place by the end of 2027.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

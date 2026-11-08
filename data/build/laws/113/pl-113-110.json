@@ -39,5 +39,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Names a Post Office building in Eatonville, Washington, after National Park Ranger Margaret Anderson.",
+  "what_it_does": "This law renames the U.S. Postal Service facility at 103 Center Street West in Eatonville, Washington, as the \"National Park Ranger Margaret Anderson Post Office.\" It changes only the official name of the building. It does not change postal services, mail delivery, staffing, or hours.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law took effect when it was enacted on June 9, 2014.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

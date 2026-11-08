@@ -1,0 +1,44 @@
+{
+ "headline": "A large public lands package that sets aside new protected areas, authorizes many land exchanges and transfers, expands park units, and changes hunting, wildfire, and conservation programs.",
+ "what_it_does": "This omnibus law covers many separate land and resource topics across federal agencies. It directs the Forest Service, Bureau of Land Management, and National Park Service to convey, exchange, or withdraw specific parcels in many states, including Colorado, Arizona, Utah, California, and New Mexico. It designates new wilderness areas, wild and scenic rivers, national monuments, and recreation areas, and adjusts boundaries of existing parks and forests. It also creates programs for wildfire technology and tracking, expands hunting and fishing access on federal land, sets rules for a youth outdoor pass, and sets up new national heritage areas and studies.",
+ "who_it_affects": [
+  {
+   "group": "Residents and local governments near the parcels being conveyed, such as counties and cities in Colorado, Arizona, Utah, South Dakota, and Texas",
+   "how": "They may gain title to or use of federal land, often at fair market value or without cost, under the specific sections that name them."
+  },
+  {
+   "group": "Hunters, anglers, and recreational shooters",
+   "how": "Federal land named in the bill must stay open to these activities unless the managing agency follows closure procedures, and veterans and youths get extra hunting days for certain waterfowl."
+  },
+  {
+   "group": "Fourth graders and home-schooled 10-year-olds",
+   "how": "They can receive a free annual pass for access to federal lands and waters that charge entry fees."
+  },
+  {
+   "group": "Veterans ages 35 and younger and former Public Lands Corps members",
+   "how": "Veterans under 36 may now join the Public Lands Corps, and former members may be treated as competitively appointed for certain federal jobs."
+  },
+  {
+   "group": "Alaska Native veterans who served from 1964 to 1971",
+   "how": "They may select a parcel of 2.5 to 160 acres of available federal land in Alaska through an allotment application."
+  },
+  {
+   "group": "Mining claimholders in Alaska",
+   "how": "They get a 60-day window to fix certain defects in maintenance fee waiver applications or pay fees owed for earlier periods."
+  },
+  {
+   "group": "Permit holders and landowners near the affected federal lands",
+   "how": "Some permit holders may buy the federal interest in their permitted property, and some landowners may get information about federal conservation programs."
+  },
+  {
+   "group": "Firefighters and wildland fire managers",
+   "how": "They may be tracked remotely, and their treated injuries must be recorded in a national fire database."
+  }
+ ],
+ "when_it_takes_effect": "Takes effect on the date of enactment, March 12, 2019, though many sections set their own deadlines, such as the Navajo Nation's seven-year selection window and the 10-year California State School lands agreement.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

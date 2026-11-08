@@ -1,0 +1,24 @@
+{
+ "headline": "This law creates a temporary commission to study how the government can share and link federal data for program evaluation while protecting personal privacy.",
+ "what_it_does": "It sets up a Commission on Evidence-Based Policymaking inside the executive branch. The Commission must study how federal administrative, tax, and survey data could be combined and made available for research, while weighing privacy and security risks. It must also consider whether a data clearinghouse should be created, and then report its findings and recommendations to the President and Congress. The Commission ends no later than 18 months after enactment, and its costs are paid from up to $3 million transferred by principal statistical agencies to the Census Bureau, with no additional funds authorized.",
+ "who_it_affects": [
+  {
+   "group": "People who receive federal benefits or tax credits",
+   "how": "Their program and tax records could be studied and possibly linked across agencies, and the Commission must consider how they would be notified of such uses."
+  },
+  {
+   "group": "Federal statistical and data agencies, such as the Census Bureau, IRS, and Social Security Administration",
+   "how": "They must advise the Commission, and several principal statistical agencies must transfer up to $3 million to the Census Bureau to fund it."
+  },
+  {
+   "group": "Researchers who study federal programs",
+   "how": "The Commission is directed to recommend who should get access to federal data and under what limits, which could shape future research access."
+  }
+ ],
+ "when_it_takes_effect": "Enacted March 30, 2016; the Commission terminates no later than 18 months after enactment, and it must report its findings to the President and Congress before it ends.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

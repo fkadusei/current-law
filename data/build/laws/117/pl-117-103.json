@@ -4369,5 +4369,48 @@
   "House": "D",
   "Senate": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "A large 2022 spending law that funds federal agencies for the rest of fiscal 2022, sends aid to Ukraine, and renews or changes many programs.",
+  "what_it_does": "The law bundles the 12 regular annual appropriations bills that fund federal agencies for the rest of fiscal year 2022. It also provides emergency money to help Ukraine respond to Russia's attack, including food aid, refugee assistance, defense equipment, economic aid, and sanctions enforcement. Many expiring programs are renewed, such as the National Flood Insurance Program, TANF, and Violence Against Women Act programs. It also adds smaller provisions on topics like Medicare and Medicaid, synthetic nicotine, LIBOR replacement, and credit unions.",
+  "who_it_affects": [
+   {
+    "group": "Federal agency employees and federal program recipients",
+    "how": "Agencies receive funding for the rest of fiscal 2022, which determines the programs and services they can run during that period."
+   },
+   {
+    "group": "Homeowners and communities in flood zones",
+    "how": "The National Flood Insurance Program is reauthorized so flood insurance coverage through the program can continue."
+   },
+   {
+    "group": "Low-income families receiving cash assistance",
+    "how": "The Temporary Assistance for Needy Families program is reauthorized, keeping it in place."
+   },
+   {
+    "group": "Survivors of domestic violence, sexual assault, dating violence, and stalking",
+    "how": "Violence Against Women Act programs that prevent and respond to these crimes are reauthorized."
+   },
+   {
+    "group": "Medicare and Medicaid enrollees and health care providers",
+    "how": "The law includes changes to Medicare, Medicaid, and other health programs."
+   },
+   {
+    "group": "Veterans and VA medical staff",
+    "how": "The law sets salaries for certain VA medical positions and provides VA cemetery grants."
+   },
+   {
+    "group": "Credit union members and credit unions",
+    "how": "The law changes rules on credit union governance."
+   },
+   {
+    "group": "Ukrainian civilians and refugees",
+    "how": "The law provides emergency food, refugee, and economic assistance funded by the Ukraine supplemental appropriations."
+   }
+  ],
+  "when_it_takes_effect": "Enacted March 15, 2022; spending and program provisions apply according to their own terms, many running through the rest of fiscal year 2022.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

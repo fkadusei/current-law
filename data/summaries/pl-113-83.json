@@ -1,0 +1,24 @@
+{
+ "headline": "This law temporarily suspends the federal debt limit until March 15, 2015, and then sets a new limit based on debt levels at that point.",
+ "what_it_does": "For a period starting on the day the law was signed and ending March 15, 2015, the government's borrowing limit is suspended, so the Treasury can borrow as needed. Starting March 16, 2015, the limit is raised to cover the total of public debt and certain government-guaranteed obligations outstanding that day, above the level on the law's enactment date. Obligations issued to pay for legal commitments due before March 16, 2015 are not counted toward that new limit. During the suspension, the Treasury cannot issue debt just to build up extra cash in anticipation of the limit returning.",
+ "who_it_affects": [
+  {
+   "group": "The U.S. Treasury Department",
+   "how": "It can borrow beyond the existing debt limit until March 15, 2015, and is barred from issuing extra debt to stockpile cash ahead of that date."
+  },
+  {
+   "group": "Holders of U.S. government debt, such as investors and institutions",
+   "how": "The law keeps the government able to meet its borrowing obligations during the suspension period, and sets a new borrowing ceiling that takes effect afterward."
+  },
+  {
+   "group": "Federal agencies and people who receive federal payments",
+   "how": "Because the government can keep borrowing during the suspension, payments that require borrowing are less likely to be delayed during that period."
+  }
+ ],
+ "when_it_takes_effect": "Enacted February 15, 2014; the suspension runs until March 15, 2015, and the revised debt limit applies starting March 16, 2015.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

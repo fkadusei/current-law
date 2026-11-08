@@ -1,0 +1,32 @@
+{
+ "headline": "This law extends US programs that support human rights and access to outside information for people in North Korea through fiscal year 2022.",
+ "what_it_does": "It lets the President fund devices and new methods that help North Koreans get outside information, and it allows the Broadcasting Board of Governors to include news, music, and movies in its broadcasts to North Korea. It also directs broadcasts in Korean about rights under the North Korean Constitution and human rights treaties. The law extends programs on human rights, democracy, and humanitarian aid for North Koreans outside the country, and it extends yearly government reports on these issues through 2022.",
+ "who_it_affects": [
+  {
+   "group": "North Koreans inside North Korea",
+   "how": "They could receive radios, drives, or other devices and broadcasts that provide outside news, music, and information about rights and laws."
+  },
+  {
+   "group": "North Koreans outside North Korea without government permission",
+   "how": "They remain eligible for US humanitarian assistance under programs extended through fiscal year 2022."
+  },
+  {
+   "group": "Broadcasting Board of Governors",
+   "how": "It may add news rebroadcasts and popular American, Korean, and Chinese culture to its North Korea programming and must air rights-related information in Korean."
+  },
+  {
+   "group": "Religious communities",
+   "how": "The law urges that information access efforts include them and be coordinated with the Office of International Religious Freedom."
+  },
+  {
+   "group": "Federal agencies running these programs",
+   "how": "They must keep operating the extended programs and submit reports on these topics through 2022."
+  }
+ ],
+ "when_it_takes_effect": "Enacted July 20, 2018; the extended programs and reporting requirements run through fiscal year 2022.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

@@ -36,5 +36,24 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law expands which schools and research institutions can receive research endowments from the National Institute on Minority Health and Health Disparities.",
+  "what_it_does": "The law changes who can get research endowments from the National Institute on Minority Health and Health Disparities. It adds former centers of excellence at health professional schools and at biomedical and behavioral research institutions. Those institutions must meet criteria related to including underrepresented minority individuals in their programs and activities.",
+  "who_it_affects": [
+   {
+    "group": "Health professional schools that were formerly designated centers of excellence",
+    "how": "They become eligible to apply for NIMHD research endowments under the expanded rules."
+   },
+   {
+    "group": "Biomedical and behavioral research institutions that were formerly centers of excellence",
+    "how": "They become eligible for NIMHD research endowments if they meet the law's criteria on including underrepresented minority individuals."
+   }
+  ],
+  "when_it_takes_effect": "Enacted March 18, 2022; the summary does not describe a separate effective date.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

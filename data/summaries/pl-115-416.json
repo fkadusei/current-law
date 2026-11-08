@@ -1,0 +1,28 @@
+{
+ "headline": "A 2019 law directs the Small Business Administration to manage access to surplus federal property for veteran-owned small businesses.",
+ "what_it_does": "The law amends the Small Business Act and tells the Small Business Administration to give veteran-owned and veteran-controlled small businesses access to U.S.-owned surplus property. The SBA must manage how that property is distributed under a memorandum of agreement with the General Services Administration and the head of each state's surplus property agency. The access also covers foreign excess property that has been returned to a state to be handled as surplus.",
+ "who_it_affects": [
+  {
+   "group": "Veteran-owned small businesses",
+   "how": "They can get access to U.S.-owned surplus property through the SBA's distribution process."
+  },
+  {
+   "group": "Small Business Administration",
+   "how": "It must manage how surplus property is distributed to veteran-owned small businesses under a written agreement."
+  },
+  {
+   "group": "General Services Administration",
+   "how": "It must take part in the memorandum of agreement that sets up the SBA's role in distributing surplus property."
+  },
+  {
+   "group": "State surplus property agencies",
+   "how": "Their heads must sign the agreement, and surplus property returned to a state, including foreign excess property, is covered by the new access rules."
+  }
+ ],
+ "when_it_takes_effect": "The law became effective on enactment, January 3, 2019, though the summary does not give separate start dates for its provisions.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

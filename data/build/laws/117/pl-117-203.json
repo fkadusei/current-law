@@ -3492,5 +3492,28 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "This law tells the Department of Transportation to set up a federal working group on advanced air mobility, such as electric passenger aircraft, and orders a GAO study of government roles.",
+  "what_it_does": "The law directs the Department of Transportation to create an interagency working group. The group plans and coordinates safety, infrastructure, security, cybersecurity, and federal investment for advanced air mobility, with a focus on passenger-carrying aircraft. Advanced air mobility means moving people and cargo using new aircraft designs that fit into existing airspace and operate in cities, suburbs, and rural areas. The Government Accountability Office must also study and report to Congress on the roles of federal, state, local, and tribal governments affected by these aircraft.",
+  "who_it_affects": [
+   {
+    "group": "Federal agencies involved in aviation, such as the Department of Transportation",
+    "how": "They must set up and take part in an interagency working group that plans for advanced air mobility."
+   },
+   {
+    "group": "State, local, and tribal governments",
+    "how": "The GAO study will look at their interests, roles, and responsibilities related to advanced air mobility aircraft and operations."
+   },
+   {
+    "group": "Companies developing advanced air mobility aircraft and operators",
+    "how": "The working group may shape future federal safety, infrastructure, and security planning for these aircraft, but the law does not itself set new rules for them."
+   }
+  ],
+  "when_it_takes_effect": "Enacted October 17, 2022; the law does not list specific deadlines in the summary provided.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

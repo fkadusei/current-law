@@ -1,0 +1,24 @@
+{
+ "headline": "This law extends federal Public Safety Officers' Benefits to cover certain stress-related mental health disorders that officers develop from on-the-job traumatic events.",
+ "what_it_does": "The Public Safety Officers' Benefits program pays death, disability, and education benefits when an officer is killed or permanently disabled by a line-of-duty injury. This act says that post-traumatic stress disorder, acute stress disorder, and similar trauma and stress-related disorders count as a line-of-duty injury if exposure to a traumatic event on duty was a substantial factor in the disorder. It also creates a presumption that an officer's death or permanent disability was caused by a line-of-duty injury in certain cases, such as when an officer took an action meant to cause their own death after a traumatic exposure, or acted within 45 days of an exposure in a way consistent with a psychiatric disorder. The Government Accountability Office must also report on benefits paid under the act and suggest program improvements.",
+ "who_it_affects": [
+  {
+   "group": "Public safety officers, such as police, firefighters, and emergency medical workers, who develop trauma-related mental health disorders on duty",
+   "how": "They may qualify for federal disability benefits if a stress-related disorder from a traumatic on-duty event is found to be a line-of-duty injury."
+  },
+  {
+   "group": "Survivors of public safety officers whose deaths are linked to trauma-related disorders",
+   "how": "Surviving family members may be eligible for federal death benefits when the presumption in the act applies."
+  },
+  {
+   "group": "Federal agencies that administer the PSOB program, including the Department of Justice and the Government Accountability Office",
+   "how": "They must apply the new eligibility rules and the GAO must report on benefits issued under the act."
+  }
+ ],
+ "when_it_takes_effect": "The act was enacted on August 16, 2022, and the summary does not state a separate effective date for each provision.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

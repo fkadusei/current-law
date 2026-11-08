@@ -36,5 +36,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2022 law temporarily waives import duties on certain infant formula base powder used to make formula in the United States, through the end of 2022.",
+  "what_it_does": "The law provides duty-free treatment for certain infant formula base powder used to manufacture infant formula in the United States, through December 31, 2022, subject to quantity limits. Base powder is a dry mix of protein, fat, and carbohydrates that needs only vitamins and minerals added to meet the legal definition of infant formula. During this period, this base powder is also exempt from any additional safeguard duties under subchapter IV of chapter 99 of the Harmonized Tariff Schedule.",
+  "who_it_affects": [
+   {
+    "group": "U.S. infant formula manufacturers",
+    "how": "Companies that make formula in the United States may pay lower import duties on the qualifying base powder they bring in, subject to quantity limits."
+   },
+   {
+    "group": "Importers of infant formula base powder",
+    "how": "Businesses that bring this base powder into the country do not owe the covered duties or safeguard duties through December 31, 2022, up to the quantity limits."
+   },
+   {
+    "group": "Parents and caregivers who buy infant formula",
+    "how": "The law aims to help formula reach store shelves, but the summary does not say how much it would change formula prices or supply."
+   }
+  ],
+  "when_it_takes_effect": "Enacted October 10, 2022; the duty-free treatment runs through December 31, 2022.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -3529,5 +3529,36 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "This 2018 law changes how federal fisheries are managed for recreational anglers, charter boats, and commercial fishers, mainly through studies, reports, and data programs.",
+  "what_it_does": "The law defines a \"mixed-use fishery\" as a federal fishery where two or more of recreational, charter, or commercial fishing occur. It lets regional fishery councils use management measures when planning rules for the recreational part of these fisheries. It requires several studies and reports, including a Government Accountability Office report on mixed-use fisheries in the South Atlantic and Gulf of Mexico and a National Academies study on limited access privilege programs. It also directs the Department of Commerce to improve recreational fishing data by using state and nongovernmental sources and by making grants to states.",
+  "who_it_affects": [
+   {
+    "group": "Recreational anglers",
+    "how": "Their fishing rules in mixed-use federal fisheries may be shaped by new management measures that councils can now use for the recreational part of these fisheries."
+   },
+   {
+    "group": "Charter fishing operators",
+    "how": "They are named in the definition of mixed-use fisheries, and a National Academies study will assess how limited access programs affect them."
+   },
+   {
+    "group": "Commercial fishing businesses",
+    "how": "They fall under the mixed-use fishery definition, and a National Academies study will assess how limited access programs affect them and their communities."
+   },
+   {
+    "group": "Coastal communities",
+    "how": "The required studies will assess the social and economic effects of fishing access programs on these communities."
+   },
+   {
+    "group": "State fish and wildlife agencies",
+    "how": "Commerce must form partnerships with states and may fund grants to improve recreational fishing data they collect."
+   }
+  ],
+  "when_it_takes_effect": "Enacted December 31, 2018; the bill does not state specific compliance dates in the provided summary.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -3523,5 +3523,32 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "Extends through fiscal 2022 several volunteer, partnership, and education programs at national wildlife refuges, and the authority to accept gifts of property for the Fish and Wildlife Service.",
+  "what_it_does": "This law amends the Fish and Wildlife Act of 1956 to keep certain programs of the National Wildlife Refuge System authorized through fiscal year 2022. The covered programs are volunteer services, community partnerships, and refuge education. It also extends rules that let the Department of the Interior accept gifts, devises, or bequests of real and personal property to help the U.S. Fish and Wildlife Service carry out its work.",
+  "who_it_affects": [
+   {
+    "group": "Volunteers who work at national wildlife refuges",
+    "how": "The volunteer services program that supports their work is authorized to continue through fiscal year 2022."
+   },
+   {
+    "group": "Community groups and partner organizations",
+    "how": "Partnership programs with the refuge system are authorized to continue through fiscal year 2022."
+   },
+   {
+    "group": "Students and educators in refuge education programs",
+    "how": "Refuge education programs are authorized to continue through fiscal year 2022."
+   },
+   {
+    "group": "People who donate property to the Fish and Wildlife Service",
+    "how": "The department's authority to accept gifts, devises, or bequests of real and personal property for the agency is extended through fiscal year 2022."
+   }
+  ],
+  "when_it_takes_effect": "The law took effect when it was signed on April 23, 2018, and the program authorizations run through fiscal year 2022.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

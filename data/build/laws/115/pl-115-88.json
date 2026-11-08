@@ -3538,5 +3538,32 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "This law makes permanent several federal technology oversight rules and extends a federal data center consolidation program through fiscal year 2020.",
+  "what_it_does": "It removes the expiration date from parts of a 2014 defense law that govern how federal agencies manage their computer and technology spending. OMB must keep a public list of major technology investments with cost, schedule, and performance data. Agency chief information officers and program managers must review investments that have carried a high risk rating for four quarters in a row. The law also extends the Federal Data Center Consolidation Initiative, which aims to reduce the number of federal data centers, through fiscal year 2020.",
+  "who_it_affects": [
+   {
+    "group": "Federal agencies that buy or run information technology",
+    "how": "They must keep their major technology investments reported publicly and run risk reviews on investments that stay at high risk for four quarters."
+   },
+   {
+    "group": "Agency chief information officers and program managers",
+    "how": "They are responsible for carrying out the risk management reviews of high-risk technology investments."
+   },
+   {
+    "group": "Federal data center operators and staff",
+    "how": "The data center consolidation effort continues through fiscal year 2020, so agencies keep working to combine or close data centers."
+   },
+   {
+    "group": "Members of the public who track federal spending",
+    "how": "They can view a public list of major federal technology investments with cost, schedule, and performance information."
+   }
+  ],
+  "when_it_takes_effect": "Enacted November 21, 2017; the removal of the expiration dates and the data center extension apply from that date, with the data center initiative running through fiscal year 2020.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

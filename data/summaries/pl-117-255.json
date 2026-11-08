@@ -1,0 +1,28 @@
+{
+ "headline": "This law requires the President to keep public natural hazard risk maps and to name community disaster resilience zones that can receive federal help.",
+ "what_it_does": "The law requires the President to keep a natural hazard assessment program that publishes information about disaster risks across the United States, including ratings for loss exposure, social vulnerability, and community resilience. The President must review the methods behind these risk assessments, take public input on them, and update them at least every five years. Using those assessments, the President must periodically designate community disaster resilience zones: the 50 census tracts with the highest hazard risk ratings, plus at least 1% of high-risk census tracts in each state, with attention to geographic balance. The President may give financial, technical, or other help to states, tribal governments, and local governments that plan resilience or mitigation projects in those zones.",
+ "who_it_affects": [
+  {
+   "group": "Residents of census tracts designated as community disaster resilience zones",
+   "how": "Their area may become eligible for federal financial or technical help for disaster resilience or mitigation projects."
+  },
+  {
+   "group": "State, tribal, and local governments",
+   "how": "They may apply for federal assistance to plan or carry out resilience or mitigation projects in or benefiting designated zones."
+  },
+  {
+   "group": "Emergency management agencies and planners",
+   "how": "They gain access to publicly available federal natural hazard risk data and designations to guide planning."
+  },
+  {
+   "group": "Researchers and the general public",
+   "how": "They can view and comment on the methods and data used in federal natural hazard risk products."
+  }
+ ],
+ "when_it_takes_effect": "The act was enacted on December 20, 2022, and its requirements apply from that date, with reviews and updates required at least every five years.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

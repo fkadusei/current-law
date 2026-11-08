@@ -3548,5 +3548,15 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2013 law renamed the air route traffic control center in Nashua, New Hampshire, after Patricia Clark Boston.",
+  "what_it_does": "This law gives a new official name to the air route traffic control center in Nashua, New Hampshire. The center is now called the Patricia Clark Boston Air Route Traffic Control Center. It changes only the name and does not change the center's duties or operations.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law took effect when it was enacted on August 9, 2013.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

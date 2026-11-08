@@ -45,5 +45,40 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Reauthorizes and reestablishes the federal program that sets security rules for certain chemical facilities to guard against terrorist attacks, for four years.",
+  "what_it_does": "The law brings back the Chemical Facility Anti-Terrorism Standards program at the Department of Homeland Security and authorizes it for four years. DHS identifies chemical facilities that hold certain chemicals above set amounts, ranks them by risk, and requires higher-risk facilities to submit security assessments and site security plans for DHS approval. The law also sets up a Personnel Surety Program to check workers with facility access against the terrorist screening database, allows expedited approval for lower-risk tiers, gives DHS inspection and enforcement powers, and creates a way for employees to report violations without being fired for it.",
+  "who_it_affects": [
+   {
+    "group": "Owners and operators of covered chemical facilities",
+    "how": "They must complete security vulnerability assessments, write and carry out DHS-approved site security plans, and allow DHS audits and inspections."
+   },
+   {
+    "group": "Chemical facilities in lower-risk tiers 3 and 4",
+    "how": "They may certify their own security plans on an expedited basis, but must meet DHS guidance and can have that certification suspended or revoked."
+   },
+   {
+    "group": "Employees and contractors at chemical facilities",
+    "how": "They can report security violations confidentially and are protected from firing or discrimination for doing so, except for reports containing fraudulent statements."
+   },
+   {
+    "group": "Workers and others with access to covered chemical facilities",
+    "how": "Facilities may vet them against the terrorist screening database through the Personnel Surety Program, and individuals can seek correction of inaccurate personal information."
+   },
+   {
+    "group": "Small chemical facilities with fewer than 100 employees owned by small businesses",
+    "how": "DHS may provide free guidance, tools, and software to help them meet physical security, cybersecurity, recordkeeping, and reporting requirements."
+   },
+   {
+    "group": "State and local first responders and fusion centers",
+    "how": "They may receive DHS information needed to prepare for and respond to security incidents at covered chemical facilities, after obtaining needed clearances."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on December 18, 2014, and the program authorization runs for four years from that date; some reporting deadlines run 18 months after enactment.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

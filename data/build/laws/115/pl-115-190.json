@@ -3533,5 +3533,28 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2018 law swaps administrative control of two small federal land parcels between the Interior Department and the Transportation Department near the George Washington Memorial Parkway.",
+  "what_it_does": "The law moves control of about 0.342 acres inside the George Washington Memorial Parkway from the Interior Department to the Transportation Department. It also moves about 0.479 acres at the Turner-Fairbank Highway Research Center from the Transportation Department to the Interior Department. The Interior Department must also block storage, construction, or installation of items that could interfere with the research center's access to certain land inside the parkway.",
+  "who_it_affects": [
+   {
+    "group": "Federal Highway Administration staff at the Turner-Fairbank Highway Research Center",
+    "how": "They gain administrative control of a small parcel next to the parkway and keep access to nearby land within the parkway boundary."
+   },
+   {
+    "group": "National Park Service and the Interior Department",
+    "how": "They give up administrative control of a small parcel in the parkway and must prevent items that could block the research center's access."
+   },
+   {
+    "group": "Visitors to the George Washington Memorial Parkway",
+    "how": "Land within the parkway is managed by a different agency for a small area, and certain items may not be stored or placed in access routes used by the research center."
+   }
+  ],
+  "when_it_takes_effect": "The summary does not state a specific effective date; the law was enacted June 22, 2018.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

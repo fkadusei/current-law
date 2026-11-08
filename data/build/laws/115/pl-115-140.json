@@ -39,5 +39,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Names a Bakersfield, California post office building after the singer Merle Haggard.",
+  "what_it_does": "This law renames a specific U.S. Postal Service facility at 1730 18th Street in Bakersfield, California, as the Merle Haggard Post Office Building. It does not change how the post office operates or what services it provides. It is a symbolic honor.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law took effect when it was enacted on March 20, 2018.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

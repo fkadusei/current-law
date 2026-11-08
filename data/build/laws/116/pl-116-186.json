@@ -39,5 +39,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law expands a federal grant program to fight nutria, an invasive rodent, so states beyond Maryland and Louisiana, including California, can apply for help.",
+  "what_it_does": "The law changes the Nutria Eradication and Control Act of 2003, which had provided grants only to Maryland and Louisiana. It allows grants to any state that shows a need for nutria control. It also allows grants to restore wetlands or farmland damaged by nutria. The program is reauthorized through fiscal year 2025.",
+  "who_it_affects": [
+   {
+    "group": "State governments with nutria problems, including California",
+    "how": "They can now apply for federal grants to eradicate or control nutria if they can show a need."
+   },
+   {
+    "group": "Maryland and Louisiana",
+    "how": "Their existing nutria grant program is revised and continued under the updated rules."
+   },
+   {
+    "group": "Landowners and farmers with wetlands or cropland damaged by nutria",
+    "how": "They may benefit from grants that fund restoration of the damaged land, depending on how states use the funds."
+   }
+  ],
+  "when_it_takes_effect": "The law took effect when it was signed on October 30, 2020, and the program is authorized through fiscal year 2025.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

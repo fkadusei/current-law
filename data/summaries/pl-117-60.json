@@ -1,0 +1,28 @@
+{
+ "headline": "A 2021 law sets confidentiality rules for peer support counseling given to law enforcement officers and directs the Justice Department to create best practices for these programs.",
+ "what_it_does": "The law covers counseling programs that police and other law enforcement agencies provide, in which a peer support specialist counsels an officer in the agency. It generally bars disclosing the contents of a peer support communication. It also requires the Department of Justice to develop best practices and professional standards for these programs.",
+ "who_it_affects": [
+  {
+   "group": "Law enforcement officers",
+   "how": "Communications with a peer support specialist are generally protected from disclosure under the law."
+  },
+  {
+   "group": "Law enforcement agencies that run peer support counseling programs",
+   "how": "They must follow confidentiality rules for these programs and may use the Justice Department's future best practices and standards."
+  },
+  {
+   "group": "Peer support specialists",
+   "how": "They are subject to the law's confidentiality requirements when counseling officers."
+  },
+  {
+   "group": "U.S. Department of Justice",
+   "how": "It must develop best practices and professional standards for peer support counseling programs."
+  }
+ ],
+ "when_it_takes_effect": "Enacted November 18, 2021; the summary does not state a separate effective date.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

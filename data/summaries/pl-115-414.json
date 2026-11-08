@@ -1,0 +1,28 @@
+{
+ "headline": "This law requires federal agencies to report on unresolved recommendations from the GAO and their inspectors general in their yearly budget requests.",
+ "what_it_does": "Each federal agency, including legislative branch agencies, must list in its annual budget justification any public GAO recommendation that has been marked \"open\" or \"closed, unimplemented\" for at least one year. The agency must also list inspector general recommendations published at least a year earlier with no final action, and state the status of each one. Agencies must send a copy of this information to their inspector general and to the GAO.",
+ "who_it_affects": [
+  {
+   "group": "Federal agencies and their budget offices",
+   "how": "They must add a report on overdue GAO and inspector general recommendations to each annual budget justification."
+  },
+  {
+   "group": "Inspectors general",
+   "how": "They receive a copy of their agency's report on recommendations and status information."
+  },
+  {
+   "group": "Government Accountability Office",
+   "how": "It receives a copy of each agency's report on the status of its recommendations."
+  },
+  {
+   "group": "Congress",
+   "how": "Lawmakers receive these status reports in agency budget justifications, and the law extends the deadline for agency statements sent to Congress."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted January 3, 2019, and applies to agency budget justifications submitted after that date.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

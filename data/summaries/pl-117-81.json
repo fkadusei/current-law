@@ -1,0 +1,36 @@
+{
+ "headline": "This 2021 law sets Defense Department spending authority and policy rules for fiscal year 2022, along with many smaller military, cybersecurity, and foreign affairs provisions.",
+ "what_it_does": "The law authorizes Department of Defense activities and programs for fiscal year 2022 and covers many other defense-related topics. It gives the military authority to buy certain helicopters and ships, and it places cost and operational limits on the F-35 fighter program. It also creates or extends several pilot programs, including private-sector technology partnerships, 5G wireless service on military bases, and regional cybersecurity training for Army National Guard members. In addition, it extends authorities tied to Syria, Iraq, and the Indo-Pacific, sets up a cybersecurity monitoring program for critical infrastructure, and limits certain embassy designs at the State Department.",
+ "who_it_affects": [
+  {
+   "group": "Members of the Army National Guard",
+   "how": "A regional cybersecurity training pilot program for Guard members is extended."
+  },
+  {
+   "group": "Defense Department personnel at science and technology laboratories",
+   "how": "Laboratories can directly hire people who hold advanced degrees, which changes how those positions are filled."
+  },
+  {
+   "group": "Operators of critical infrastructure such as utilities and communications networks",
+   "how": "The Cybersecurity and Infrastructure Security Agency gets a program to continuously monitor cybersecurity risks to entities that support national critical functions."
+  },
+  {
+   "group": "Private companies that work with the military",
+   "how": "New pilot programs create private-sector partnerships for technology transition and for digitally optimizing military maintenance and repair operations."
+  },
+  {
+   "group": "Residents of military installations and nearby communities",
+   "how": "The law authorizes pilot programs to deploy fifth-generation wireless telecommunications services on military bases."
+  },
+  {
+   "group": "State Department staff who design and build embassies and consulates",
+   "how": "The law limits when a nonstandard building design may be used for an embassy or consulate compound."
+  }
+ ],
+ "when_it_takes_effect": "Signed into law on December 27, 2021; many provisions apply to fiscal year 2022, and some pilot programs and authorities run for set periods.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

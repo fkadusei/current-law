@@ -1,0 +1,24 @@
+{
+ "headline": "A 2019 law requires the State Department to report on anti-Semitic threats and attacks in European countries as part of its annual religious freedom report.",
+ "what_it_does": "The law adds a section to the State Department's Annual Report on International Religious Freedom. For each European country with particularly significant threats or attacks against Jewish people or institutions, the report must describe the security needs of local Jewish communities. It must also cover U.S. efforts to work with European police and civil society groups, European public awareness programs promoting tolerance, and whether European governments have adopted and applied a working definition of anti-Semitism.",
+ "who_it_affects": [
+  {
+   "group": "Jewish communities and institutions in European countries",
+   "how": "The report is meant to document threats against them and the security needs they face."
+  },
+  {
+   "group": "State Department officials who prepare the annual religious freedom report",
+   "how": "They must add these required topics and country details to the report each year."
+  },
+  {
+   "group": "European governments and law enforcement agencies",
+   "how": "Their efforts to address anti-Semitism, including any adoption of a working definition, are subject to description in the U.S. report."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on January 14, 2019, and applies to the annual reports the State Department prepares after that date.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

@@ -39,5 +39,40 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2014 law reauthorizes federal funding for child abuse prosecution and victim programs and adds audit, grant-eligibility, conference-spending, and Crime Victims Fund rules.",
+  "what_it_does": "The law extends federal funding authority for fiscal years 2014 through 2018 for children's advocacy centers, multidisciplinary child abuse investigation and prosecution programs, and training and technical help for prosecutors and others who handle child abuse cases. It directs the Justice Department's Inspector General to audit grant recipients and bars a grantee with an unresolved audit finding from receiving grant funds for the next two fiscal years, while giving priority to applicants without such findings. It also limits Justice Department conference spending above $20,000 without prior written approval, requires nonprofit grantees' executive pay processes to be disclosed, and restricts how Crime Victims Fund surplus money can be used.",
+  "who_it_affects": [
+   {
+    "group": "Children's advocacy centers and child abuse prosecution programs",
+    "how": "They can receive federal funding authorized through fiscal year 2018, but only if they have no unresolved audit findings."
+   },
+   {
+    "group": "Nonprofit organizations receiving Justice Department grants",
+    "how": "They must disclose how they set officer and key employee pay and must not hold money offshore to avoid tax on unrelated business income."
+   },
+   {
+    "group": "Grant recipients with unresolved audit findings",
+    "how": "They become ineligible for new grant funds for two fiscal years, and improperly awarded funds must be repaid to the Treasury."
+   },
+   {
+    "group": "Prosecutors and others who handle child abuse cases",
+    "how": "They may receive federal training and technical assistance paid for under the law."
+   },
+   {
+    "group": "Crime victims in the federal justice system",
+    "how": "Crime Victims Fund surplus money may be used for a Victim Notification System and for victim coordinators, specialists, and advocates at U.S. Attorneys Offices and the FBI."
+   },
+   {
+    "group": "Justice Department staff and grantees holding conferences",
+    "how": "Conference spending over $20,000 in Justice Department funds requires prior written approval, and the Deputy Attorney General must report approved expenditures annually to the House and Senate Judiciary Committees."
+   }
+  ],
+  "when_it_takes_effect": "Enacted August 8, 2014; the summary does not list separate effective dates for each provision, and funding authorizations run for fiscal years 2014 through 2018.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

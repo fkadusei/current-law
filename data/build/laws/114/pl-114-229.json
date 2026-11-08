@@ -39,5 +39,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law changes the rare pediatric disease priority review voucher program, which lets drug makers speed up FDA review of certain drugs for serious childhood diseases.",
+  "what_it_does": "The law amends the Federal Food, Drug, and Cosmetic Act to revise a program that gives a transferable voucher to drug sponsors who develop treatments for rare pediatric diseases. A voucher lets its holder have a new drug application reviewed by the FDA within six months. Sponsors must tell the FDA when they submit an application that they plan to request a voucher, starting 90 days after enactment. The law also limits eligibility, bars a second voucher for the same medication, and directs the Government Accountability Office to study whether the program works as intended.",
+  "who_it_affects": [
+   {
+    "group": "Drug companies developing treatments for rare pediatric diseases",
+    "how": "They must notify the FDA when submitting an application if they plan to request a priority review voucher, and applications filed before October 7, 2012 are not eligible."
+   },
+   {
+    "group": "Families of children with rare serious diseases",
+    "how": "The program is limited to treatments for serious diseases, and it is set to end at the end of 2016 under the summary provided."
+   },
+   {
+    "group": "Food and Drug Administration",
+    "how": "The agency must receive voucher notices from sponsors and cannot issue a voucher for a product that already received one under another program."
+   }
+  ],
+  "when_it_takes_effect": "The notification requirement starts 90 days after enactment on September 30, 2016, and the bill applies to pending unapproved applications.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

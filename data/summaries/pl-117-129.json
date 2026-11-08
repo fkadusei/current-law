@@ -1,0 +1,28 @@
+{
+ "headline": "This law lets the Department of Agriculture adjust WIC rules during formula shortages, emergencies, and recalls, and requires coordination with health officials.",
+ "what_it_does": "The law gives the USDA authority to take steps when there are emergencies, disasters, or supply chain problems, especially the infant formula shortage, that affect people in the Special Supplemental Nutrition Program for Women, Infants, and Children (WIC). USDA can waive or change certain WIC administrative requirements for state agencies when those rules cannot be met during a disruption and the change still provides help without substantially weakening the nutritional quality of foods. For example, USDA may waive the monthly limit on infant formula. The law also requires infant formula cost containment contracts to include plans for recalls, requires USDA to set up a coordination agreement with the Department of Health and Human Services within 30 days, and sets notification requirements for USDA and state agencies.",
+ "who_it_affects": [
+  {
+   "group": "WIC participants, especially families with infants",
+   "how": "They may get more flexibility in how and where they obtain formula when shortages or recalls happen."
+  },
+  {
+   "group": "State WIC agencies",
+   "how": "They may be allowed to skip or modify certain administrative requirements during emergencies and must follow new notification rules about supply chain disruptions."
+  },
+  {
+   "group": "Infant formula manufacturers with WIC cost containment contracts",
+   "how": "Their contracts must include recall-related remedies and plans for protecting WIC participants' access in each state."
+  },
+  {
+   "group": "USDA and HHS",
+   "how": "They must coordinate procedures and share information about supply chain disruptions, including food recalls."
+  }
+ ],
+ "when_it_takes_effect": "The law took effect when it was enacted on May 21, 2022, though the 30-day coordination agreement deadline ran from that date.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

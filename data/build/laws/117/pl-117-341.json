@@ -3509,5 +3509,28 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "This law requires Medicare's agency to publish and update every two years a list of rehabilitation centers that meet federal criteria for brain and spinal cord injury care.",
+  "what_it_does": "The law directs the Centers for Medicare & Medicaid Services (CMS) to publish a list of all rehabilitation innovation centers and update it every two years. It defines these centers as rehabilitation facilities that hold certain federal research or training designations for traumatic brain injury or spinal cord injury, and that serve at least a set number of Medicare patients. CMS may waive these criteria if it decides a waiver is appropriate. The summary does not give the specific number of Medicare patients required.",
+  "who_it_affects": [
+   {
+    "group": "Rehabilitation facilities with federal traumatic brain injury or spinal cord injury research or training designations",
+    "how": "They may be included on the CMS list if they also serve at least the required number of Medicare patients."
+   },
+   {
+    "group": "Medicare patients with traumatic brain injuries or spinal cord injuries",
+    "how": "They can use the published list to find rehabilitation centers that meet the law's criteria."
+   },
+   {
+    "group": "Centers for Medicare & Medicaid Services",
+    "how": "The agency must create, publish, and update the list every two years and decide whether to waive any criteria."
+   }
+  ],
+  "when_it_takes_effect": "The summary does not state an effective date. The law was enacted on January 5, 2023.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

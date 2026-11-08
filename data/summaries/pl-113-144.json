@@ -1,0 +1,32 @@
+{
+ "headline": "This law makes it legal for owners of used wireless phones to unlock them so they can connect to a different carrier's network, as long as the carrier allows it.",
+ "what_it_does": "It overturns a Library of Congress rule that had removed the legal permission to unlock phones. It restores that permission, so owners of wireless phones can use software to connect their phone to a different wireless network when the network operator authorizes the connection. The law also lets someone unlock a device at the owner's direction, or a carrier do it for the owner, so that the owner or a family member can connect to a network. It directs the Librarian of Congress to consider whether to extend the same permission to other wireless devices, such as tablets. It does not change any party's rights under existing law beyond these points.",
+ "who_it_affects": [
+  {
+   "group": "Owners of wireless phones",
+   "how": "They can legally unlock their phones with software so the phones work on a different carrier's network when that network agrees to connect them."
+  },
+  {
+   "group": "Owners of used wireless phones",
+   "how": "The unlocking permission covers used handsets, so buyers of secondhand phones can connect them to a new network."
+  },
+  {
+   "group": "Family members of device owners",
+   "how": "An owner can have a phone unlocked so that a family member can connect it to an authorized wireless network."
+  },
+  {
+   "group": "Wireless carriers and mobile service providers",
+   "how": "They may unlock devices at the owner's request, but only when the network operator authorizes the connection."
+  },
+  {
+   "group": "Owners of tablets and other mobile broadband devices",
+   "how": "The Librarian of Congress may later decide whether the same unlocking permission should apply to these devices."
+  }
+ ],
+ "when_it_takes_effect": "Enacted August 1, 2014, and effective on that date.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

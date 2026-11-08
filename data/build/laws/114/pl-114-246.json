@@ -876,5 +876,24 @@
  "control": {
   "Senate": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "This law requires the veterans oral history program to also collect recorded life histories from immediate family members of service members who were missing in action or died from wartime service.",
+  "what_it_does": "It amends the Veterans' Oral History Project Act. The change adds a requirement that the program collect video and audio recordings of biographical histories told by immediate family members. The recordings are for service members who became missing in action or died as a result of their wartime service.",
+  "who_it_affects": [
+   {
+    "group": "Immediate family members of service members who were missing in action or died from wartime service",
+    "how": "They can take part in the oral history program by recording the biographical histories of their loved ones, and the program must collect these recordings."
+   },
+   {
+    "group": "Families of missing or fallen service members",
+    "how": "Their loved ones' life stories can now be preserved in the program's recorded collection alongside those of other veterans."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

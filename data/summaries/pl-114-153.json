@@ -1,0 +1,28 @@
+{
+ "headline": "Gives businesses a federal lawsuit option against people who steal trade secrets, and raises criminal fines for that theft.",
+ "what_it_does": "The law lets trade secret owners sue in federal court for misappropriation tied to products or services in interstate or foreign commerce. Courts can order injunctions, compensatory damages, and attorney's fees, and the lawsuit must be filed within three years of discovering the theft. In rare cases, a court can order seizure of property to stop a trade secret from spreading, but only after specific findings and with a hearing within seven days. The law also raises the maximum criminal fine for trade secret theft to the greater of $5 million or three times the stolen secret's value, and adds economic espionage and trade secret theft to the list of offenses that can count as racketeering.",
+ "who_it_affects": [
+  {
+   "group": "Businesses that own trade secrets",
+   "how": "They can file federal civil lawsuits for theft and seek damages, injunctions, and attorney's fees."
+  },
+  {
+   "group": "People accused of stealing trade secrets",
+   "how": "They face possible civil damages and higher criminal fines, and their property may be seized in rare cases before a hearing."
+  },
+  {
+   "group": "Employees and whistleblowers who share trade secret information",
+   "how": "They are protected from civil and criminal liability when they disclose a secret confidentially to a government official or attorney to report a legal violation, or in a sealed court filing."
+  },
+  {
+   "group": "Third parties holding seized materials",
+   "how": "Their seized property must be held by the court and kept secure, and they may ask for encryption of seized material."
+  }
+ ],
+ "when_it_takes_effect": "Enacted May 11, 2016, and the civil cause of action applies to misappropriation covered by the law's terms.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

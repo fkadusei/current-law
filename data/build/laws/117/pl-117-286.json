@@ -3539,5 +3539,28 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "A technical update to federal law in Title 5 of the U.S. Code that restates existing rules on advisory committees, inspectors general, financial disclosure, and outside income for federal personnel.",
+  "what_it_does": "This law rewrites parts of Title 5 of the U.S. Code to keep the text current and fix technical errors. According to the official summary, it restates existing law on federal advisory committees, Offices of Inspector General, and financial disclosure requirements for federal officials. It also restates existing limits on outside earned income and outside employment for federal personnel.",
+  "who_it_affects": [
+   {
+    "group": "Federal executive branch officers and employees",
+    "how": "They are subject to the same restated rules on financial disclosure and limits on outside earned income and employment."
+   },
+   {
+    "group": "The President and Vice President",
+    "how": "The restated financial disclosure requirements cover them, according to the official summary."
+   },
+   {
+    "group": "Members of federal advisory committees and staff of Offices of Inspector General",
+    "how": "The restated rules on these bodies are carried into the updated code text."
+   }
+  ],
+  "when_it_takes_effect": "Enacted December 27, 2022; the summary does not list a separate effective date for the restated provisions.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

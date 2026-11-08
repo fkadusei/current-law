@@ -4329,5 +4329,48 @@
   "House": "R",
   "Senate": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "A large 2018 federal law that expands opioid and substance-use treatment, tightens prescription and drug-import rules, and adds many programs across Medicare, Medicaid, the FDA, and other agencies.",
+  "what_it_does": "The law is a broad package aimed at the opioid crisis. It changes Medicaid and Medicare coverage for addiction treatment, requires safety checks and electronic prescribing for some opioids, and adds new rules for drug makers, pharmacies, and importers. It also sets up many grants, reports, and pilot programs run by agencies such as HHS, the CDC, the DEA, and the VA.",
+  "who_it_affects": [
+   {
+    "group": "Medicaid enrollees with substance-use disorders",
+    "how": "They may get coverage for certain addiction treatment, including medication-assisted treatment, and some residential treatment stays under temporary rules."
+   },
+   {
+    "group": "Medicare beneficiaries",
+    "how": "They may get substance-use screening at their first visit and annual wellness visits, telehealth access for addiction services, and educational materials on opioid use and non-opioid pain options."
+   },
+   {
+    "group": "Prescribers and pharmacies",
+    "how": "Doctors and pharmacies face new rules, such as checking prescription monitoring databases and sending controlled-substance prescriptions electronically in Medicare."
+   },
+   {
+    "group": "Drug manufacturers, distributors, and importers",
+    "how": "They face new FDA authority over recalls, packaging, disposal measures, and import restrictions for certain drugs."
+   },
+   {
+    "group": "Veterans",
+    "how": "The VA must emphasize recruiting peer-support counselors, including for women veterans."
+   },
+   {
+    "group": "Pregnant and postpartum women with substance-use disorders",
+    "how": "They may receive Medicaid payment for certain services, and states may run family-focused residential treatment programs."
+   },
+   {
+    "group": "Children's Health Insurance Program (CHIP) enrollees",
+    "how": "CHIP plans must cover mental health and substance-use disorder services on terms no less favorable than other medical care."
+   },
+   {
+    "group": "People leaving jail or prison",
+    "how": "Juveniles in public institutions cannot lose Medicaid eligibility, and federal workgroups are set up to help released inmates keep health coverage."
+   }
+  ],
+  "when_it_takes_effect": "Many provisions took effect on enactment on October 24, 2018, but most have their own start dates, phase-in periods, or agency deadlines that vary by section.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -1,0 +1,24 @@
+{
+ "headline": "A 2019 law directs the EPA to revise diesel engine particulate emission rules for remote Alaska and to report on ways to help those areas meet energy needs.",
+ "what_it_does": "The law tells the Environmental Protection Agency to revise certain rules on particulate matter, a type of air pollution, from nonemergency stationary diesel engines in remote parts of Alaska. It also requires the EPA to report on methods for helping those remote areas meet their energy needs. The official summary does not spell out the specific rule changes or set a deadline for them.",
+ "who_it_affects": [
+  {
+   "group": "Residents of remote Alaska communities that rely on diesel generators for power",
+   "how": "Changes to the emission rules for diesel engines could affect the electricity supply in these areas, though the summary does not say how."
+  },
+  {
+   "group": "Owners and operators of nonemergency stationary diesel engines in remote Alaska",
+   "how": "They would be subject to whatever revised particulate matter standards the EPA adopts for these engines."
+  },
+  {
+   "group": "Environmental Protection Agency",
+   "how": "The agency must revise the specified regulations and prepare a report on ways to help remote Alaska areas meet energy needs."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on October 4, 2019, but the official summary does not give a deadline for the EPA's rule revisions or report.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

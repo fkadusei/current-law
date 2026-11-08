@@ -1,0 +1,24 @@
+{
+ "headline": "A new law gives federal prosecutors 10 years to bring charges for fraud involving certain COVID-19 disaster loans to small businesses.",
+ "what_it_does": "The law sets a 10-year deadline, called a statute of limitations, for bringing criminal charges against a borrower who commits fraud on certain COVID-19 Economic Injury Disaster Loan programs. It also applies the same 10-year deadline to civil enforcement actions against those borrowers. A statute of limitations is the time limit for starting a legal case after an offense happens.",
+ "who_it_affects": [
+  {
+   "group": "Borrowers who took COVID-19 Economic Injury Disaster Loans",
+   "how": "People or businesses who committed fraud in obtaining or using these loans may face criminal charges or civil action for a longer period of time, up to 10 years."
+  },
+  {
+   "group": "Federal prosecutors and enforcement agencies",
+   "how": "They have a longer window to investigate and bring cases involving fraud in these COVID-19 loan programs."
+  },
+  {
+   "group": "Small businesses that received COVID-19 EIDL loans honestly",
+   "how": "The law targets fraud, so businesses that followed program rules are not directly changed by it, though they may be affected by related enforcement activity."
+  }
+ ],
+ "when_it_takes_effect": "Enacted August 5, 2022, and applies to the statute of limitations for these offenses.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

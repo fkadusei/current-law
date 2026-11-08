@@ -39,5 +39,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law changes the loan amount above which a real estate appraisal is required for certain small business loans backed by commercial property.",
+  "what_it_does": "It amends the Small Business Act, which governs SBA 7(a) loans. Before this law, an appraisal was required for a loan over $250,000 secured by commercial real property. The law instead ties that cutoff to the appraisal threshold set by federal banking regulators. The summary does not state the new dollar amount.",
+  "who_it_affects": [
+   {
+    "group": "Small businesses borrowing SBA 7(a) loans secured by commercial real estate",
+    "how": "The point at which their loan needs a professional property appraisal now follows the federal banking regulators' threshold instead of the fixed $250,000 figure."
+   },
+   {
+    "group": "Lenders that make SBA 7(a) loans",
+    "how": "They must follow the new appraisal threshold when deciding whether a commercial property securing a loan needs an appraisal."
+   },
+   {
+    "group": "Real estate appraisers",
+    "how": "The number of SBA 7(a) loans that require an appraisal may change, which could affect the appraisal work they are hired to do."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

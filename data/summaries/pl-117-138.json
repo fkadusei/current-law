@@ -1,0 +1,24 @@
+{
+ "headline": "This law stops the VA from charging veterans' retraining benefits when their school or program closes or is disapproved before they finish.",
+ "what_it_does": "It applies to the Veterans Rapid Retraining Assistance Program. If a veteran cannot finish a course because the school closed, or because the state approving agency or the VA disapproved the program, the VA cannot count that time against the veteran's retraining entitlement. The amount of entitlement not charged equals the full retraining assistance provided for that program. The school cannot receive further program payments, and any money already paid for that enrollment becomes an overpayment that the school owes to the United States.",
+ "who_it_affects": [
+  {
+   "group": "Veterans enrolled in the Veterans Rapid Retraining Assistance Program",
+   "how": "If their school closes or their program is disapproved before they finish, their retraining benefit entitlement is not reduced for that enrollment."
+  },
+  {
+   "group": "Schools and training providers offering programs under the Veterans Rapid Retraining Assistance Program",
+   "how": "They stop receiving payments for affected programs, and any amounts already paid for those enrollments become debts they owe to the federal government."
+  },
+  {
+   "group": "State approving agencies and the VA",
+   "how": "Their disapproval of a program triggers the same protections for enrolled veterans and the same payment consequences for the school."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

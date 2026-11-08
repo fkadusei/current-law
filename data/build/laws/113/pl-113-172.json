@@ -3529,5 +3529,28 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "Extends the Defense Production Act through September 30, 2019, and changes how its planning committee and contract rules work.",
+  "what_it_does": "The law renews federal authority to use domestic industry for national defense, military conflicts, disasters, and terrorism response through September 30, 2019. It restores presidential power to arrange loans and loan guarantees to businesses for defense-related work, but only in amounts Congress has funded in advance. It also changes the Defense Production Act Committee so it coordinates and plans instead of only advising, is chaired by the agency head with primary government-wide responsibility, and has a coordinator appointed by the chair. Finally, it bars delegating certain contract decisions, requires congressional approval for shortfall actions that would total more than $50 million, and requires agencies to review their defense production rules each year.",
+  "who_it_affects": [
+   {
+    "group": "Defense contractors and suppliers of materials or critical technology",
+    "how": "They may receive federal loans or loan guarantees for essential defense work, but only as Congress has funded them, and federal contracts for these goods must meet cost, speed, and practicality tests."
+   },
+   {
+    "group": "Operators of critical infrastructure",
+    "how": "They are among the groups that may be eligible for federal loans or loan guarantees for services or deliveries essential to national defense."
+   },
+   {
+    "group": "Federal agencies with defense production authority",
+    "how": "They must review their defense production rules every year and update them when appropriate, and the committee's annual report to Congress must cover their contingency planning."
+   }
+  ],
+  "when_it_takes_effect": "The law took effect when it was enacted on September 26, 2014, and the reauthorized authorities run through September 30, 2019.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

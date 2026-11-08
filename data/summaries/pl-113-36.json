@@ -1,0 +1,24 @@
+{
+ "headline": "This law expands the Minuteman Missile National Historic Site in South Dakota by moving about 28.65 acres of land from USDA to the Interior Department.",
+ "what_it_does": "It changes the boundary of the Minuteman Missile National Historic Site to add a visitor facility and administrative site. The added land includes about 25 acres of the Buffalo Gap National Grassland in Jackson County and about 3.65 acres at the Delta 1 Launch Control Facility. The land will be used for a parking lot and other administrative purposes. Management responsibility for this land moves from the Secretary of Agriculture to the Secretary of the Interior, and the Buffalo Gap National Grassland boundary is adjusted to exclude it.",
+ "who_it_affects": [
+  {
+   "group": "Visitors to the Minuteman Missile National Historic Site",
+   "how": "The site's boundary now includes a visitor facility area and a parking lot built on the transferred land."
+  },
+  {
+   "group": "National Park Service (under the Department of the Interior)",
+   "how": "The agency takes on administrative jurisdiction over the transferred acreage within the historic site."
+  },
+  {
+   "group": "U.S. Forest Service (under the Department of Agriculture)",
+   "how": "The agency no longer manages the roughly 28.65 acres removed from the Buffalo Gap National Grassland."
+  }
+ ],
+ "when_it_takes_effect": "Upon enactment on September 18, 2013; the summary does not list a separate later start date.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

@@ -1,0 +1,28 @@
+{
+ "headline": "A 2022 law directs the Justice Department to build crisis training tools for first responders on brain injuries and PTSD, and asks the CDC to study concussions among first responders.",
+ "what_it_does": "The law requires the Bureau of Justice Assistance to work with other federal agencies to create crisis intervention training tools for first responders who encounter people with traumatic brain injuries, acquired brain injuries, or post-traumatic stress disorder. The Bureau must make sure at least one police department designated as a Law Enforcement Mental Health Learning Site uses these tools, and that the tools are included in the Police-Mental Health Collaboration Toolkit. It also requires the Centers for Disease Control and Prevention to study how common concussions are among first responders and to report its findings.",
+ "who_it_affects": [
+  {
+   "group": "Police officers and other first responders",
+   "how": "They may receive crisis intervention training tools designed to help them respond to people with brain injuries or PTSD."
+  },
+  {
+   "group": "Law enforcement agencies, especially designated Law Enforcement Mental Health Learning Sites",
+   "how": "At least one designated site is required to use the new training tools, and the tools are added to a national toolkit that agencies can draw on."
+  },
+  {
+   "group": "People with traumatic brain injuries, acquired brain injuries, or PTSD who have contact with police",
+   "how": "Officers may be trained to recognize these conditions and respond to them during crisis situations."
+  },
+  {
+   "group": "Firefighters, EMTs, and other first responders",
+   "how": "The CDC is required to study how often concussions occur in this group, which could inform future health policy for them."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

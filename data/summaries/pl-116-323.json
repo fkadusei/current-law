@@ -1,0 +1,32 @@
+{
+ "headline": "This law directs the U.S. Geological Survey to run a national program on landslide hazards and to build related mapping, data, and emergency response tools.",
+ "what_it_does": "The law creates a National Landslide Hazards Reduction Program within the U.S. Geological Survey (USGS). The USGS must publish a national landslide strategy, maintain a public database of landslide hazards and risks, expand an early warning system for debris flows, and set up procedures to quickly send federal scientists and equipment to places hit by major landslides. The law also lets the USGS and the National Science Foundation give grants for landslide research and mapping, and it sets up work on land subsidence, groundwater tracking, and a 3D elevation data program.",
+ "who_it_affects": [
+  {
+   "group": "Communities in areas at risk of landslides",
+   "how": "They can use the public national hazard and risk database and early warning system that the USGS must build and expand."
+  },
+  {
+   "group": "Residents of areas affected by drought or land subsidence",
+   "how": "The USGS must study and map subsidence and track groundwater resources in these areas."
+  },
+  {
+   "group": "State, local, and territorial emergency managers",
+   "how": "They may receive federal scientists, equipment, and services after a significant landslide, under the new response procedures."
+  },
+  {
+   "group": "Researchers and universities",
+   "how": "They may apply for USGS or National Science Foundation grants to study landslide hazards and collect data."
+  },
+  {
+   "group": "Surveyors, mapmakers, and mapping users",
+   "how": "The USGS may fund nationwide 3D elevation data coverage through grants and cooperative agreements."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

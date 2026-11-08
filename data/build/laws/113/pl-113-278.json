@@ -36,5 +36,36 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Directs the President to sanction Venezuelan officials and others responsible for violence or rights abuses against anti-government protesters, and states related U.S. policy goals.",
+  "what_it_does": "The law states several sense-of-Congress views and U.S. policy goals about Venezuela, including support for democracy, human rights, and peaceful resolution of protests. It directs the President to impose asset blocking and visa exclusion sanctions on people who commit or direct serious violence or abuses against protesters, order arrests for peaceful expression, or knowingly provide material support for such acts. The President may waive these sanctions for national security reasons with notice to Congress, and the sanction requirement ends on December 31, 2016. It also requires the Broadcasting Board of Governors to report on information access obstacles in Venezuela and a strategy to expand broadcasting and circumvention technology efforts there.",
+  "who_it_affects": [
+   {
+    "group": "Current and former Venezuelan government and security officials",
+    "how": "Those found responsible for or complicit in violence or abuses against protesters could have their U.S. assets blocked and be denied entry into the United States."
+   },
+   {
+    "group": "Anyone acting on behalf of the Venezuelan government who meets the law's criteria",
+    "how": "They could face the same asset blocking and visa exclusion sanctions if they directed or materially assisted such acts."
+   },
+   {
+    "group": "Venezuelan protesters and people who speak out against the government",
+    "how": "The law states U.S. policy to support their right to peaceful assembly and expression and calls for accountability for force used against them."
+   },
+   {
+    "group": "Venezuelans seeking accurate news and information",
+    "how": "The Broadcasting Board of Governors must study obstacles they face and report a strategy for expanding broadcasting and circumvention technology efforts."
+   },
+   {
+    "group": "U.S. persons and businesses holding assets linked to sanctioned individuals",
+    "how": "Assets of sanctioned people within U.S. jurisdiction must be blocked, and dealings with them are restricted, though the law bars sanctions on imported goods."
+   }
+  ],
+  "when_it_takes_effect": "Enacted December 18, 2014; the sanction requirement terminates on December 31, 2016.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

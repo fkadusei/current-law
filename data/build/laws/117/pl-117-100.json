@@ -36,5 +36,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "The STANDUP Act of 2021 tells HHS to favor school agencies that plan evidence-based suicide awareness and prevention training when awarding certain mental-health grants.",
+  "what_it_does": "The law requires the Department of Health and Human Services to give preference to state, tribal, and local educational agencies that plan to adopt evidence-based suicide awareness and prevention training policies when it awards certain priority mental-health grants. HHS may also consider suicide rates in the area and other factors. HHS must work with the Department of Education and the Department of the Interior to share best practices for these training policies with educational agencies.",
+  "who_it_affects": [
+   {
+    "group": "State, tribal, and local educational agencies",
+    "how": "Those that plan to put evidence-based suicide awareness and prevention training policies in place may get preference when applying for certain HHS mental-health grants."
+   },
+   {
+    "group": "HHS grant applicants in mental health",
+    "how": "Applicants for certain priority mental-health grants are judged partly on whether they plan to adopt these training policies."
+   },
+   {
+    "group": "Educational agencies receiving federal best-practice guidance",
+    "how": "HHS, Education, and Interior must share best practices for suicide awareness and prevention training policies with these agencies."
+   }
+  ],
+  "when_it_takes_effect": "The law became effective when it was enacted on March 15, 2022; the summary does not list any later deadlines.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

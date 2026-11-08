@@ -1,0 +1,28 @@
+{
+ "headline": "A 2017 law that asks the President and federal agencies to promote women's roles in peace and security work abroad, mostly through strategies, training, and reports.",
+ "what_it_does": "The law states several sense-of-Congress views about women's role in conflict prevention and stability. It requires the President to create a Women, Peace, and Security Strategy within one year and again four years later, with an implementation plan from each relevant agency and evaluation goals. It directs the State Department and Defense Department to include training on women's participation, human rights, and protecting civilians for certain personnel. It also requires reports to Congress on the strategy and its results.",
+ "who_it_affects": [
+  {
+   "group": "State Department and USAID personnel",
+   "how": "Staff deploying to conflict-prone countries must receive training that focuses on women's participation, and overseas staff must set up guidelines to consult stakeholders on conflict efforts."
+  },
+  {
+   "group": "Department of Defense personnel",
+   "how": "Relevant military personnel must receive training on peace processes, gender considerations, and protecting civilians."
+  },
+  {
+   "group": "Women in conflict-affected and fragile countries",
+   "how": "The law urges U.S. programs to support women's participation in peace talks, security efforts, and local peacebuilding groups."
+  },
+  {
+   "group": "Women's peacebuilding organizations and other local groups",
+   "how": "The law calls for U.S. support to appropriate local organizations, especially women's peacebuilding groups, in conflict-related programs."
+  }
+ ],
+ "when_it_takes_effect": "The first strategy is due within one year of enactment on October 6, 2017, with a second strategy due four years later.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

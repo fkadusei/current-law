@@ -1,0 +1,24 @@
+{
+ "headline": "This law sets up federal coordination and forecasting work on space weather, such as solar storms that can affect power grids, satellites, and radio signals.",
+ "what_it_does": "The law gives legal backing to a federal working group that coordinates space weather efforts across the executive branch. It directs several agencies, including NOAA, NASA, the National Science Foundation, the Air Force, the Navy, and the U.S. Geological Survey, to carry out specified space weather research and forecasting activities. It lets NOAA start a pilot program to buy space weather data from private companies that meet set standards. It also requires the working group to review and update a 2018 set of space weather benchmarks over time.",
+ "who_it_affects": [
+  {
+   "group": "Commercial space weather companies",
+   "how": "They may be able to sell space weather data to NOAA under a pilot program if their data meets required standards."
+  },
+  {
+   "group": "Operators of power grids, satellites, and communications systems",
+   "how": "The law aims to improve federal forecasts of space weather events that can affect these systems, though it does not set direct duties for them."
+  },
+  {
+   "group": "Federal agencies such as NOAA, NASA, and the Air Force",
+   "how": "They are directed to carry out specified space weather activities and coordinate through the working group."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on October 21, 2020, and the summary does not list separate effective dates for its provisions.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

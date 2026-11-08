@@ -36,5 +36,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law makes it illegal to knowingly help sellers who break labeling rules for imitation coins and political items, and it gives certification services more trademark protection.",
+  "what_it_does": "It changes the Hobby Protection Act, which requires certain fake coins and political items to be clearly marked as imitations. Under the change, a person can violate the law by giving substantial help or support to a maker, importer, or seller who breaks these labeling rules, if that person knew or should have known about the violation. If the violation also involves using registered trademarks owned by a collectibles certification service without permission, the trademark owner gets the same rights under the Trademark Act of 1946.",
+  "who_it_affects": [
+   {
+    "group": "Makers, importers, and sellers of imitation coins and other collectible numismatic items",
+    "how": "They must clearly identify imitation coins and related items, and they can face liability if they break those rules."
+   },
+   {
+    "group": "Businesses that provide support services to sellers of collectible coins and imitation political items",
+    "how": "They can violate the law if they knowingly or carelessly give substantial help to a seller who breaks the labeling rules."
+   },
+   {
+    "group": "Collectibles certification services",
+    "how": "If someone uses their registered trademarks without permission in a labeling violation, they can use the trademark protections in the Trademark Act of 1946."
+   },
+   {
+    "group": "Collectors who buy coins and numismatic items",
+    "how": "The labeling rules are meant to help buyers tell imitation items from genuine ones."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

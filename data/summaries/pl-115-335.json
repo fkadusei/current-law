@@ -1,0 +1,28 @@
+{
+ "headline": "This law sets up sanctions and reporting requirements aimed at people and institutions tied to human rights abuses and corruption in Nicaragua.",
+ "what_it_does": "The law tells the Treasury Department to limit international lending institutions, including World Bank Group and Inter-American Development Bank affiliates, from giving financial or technical help to Nicaragua's government. It requires the President to sanction foreign people found responsible for corruption, serious human rights violations, or violence against protesters in Nicaragua. Sanctions can include freezing their assets and banning them from entering the United States. The State Department must also report to Congress on Nicaragua's rule of law, anti-corruption, and human rights efforts, and it must create a plan for working with Nicaraguan civil society.",
+ "who_it_affects": [
+  {
+   "group": "Foreign individuals and officials identified as responsible for corruption or human rights abuses in Nicaragua",
+   "how": "They can have their U.S.-linked assets blocked and be barred from entering the United States."
+  },
+  {
+   "group": "Nicaragua's government",
+   "how": "International development lenders may limit financial and technical assistance to it under this law."
+  },
+  {
+   "group": "Nicaraguan civil society and protesters",
+   "how": "The State Department must develop a strategy to engage civil society groups on human rights and anti-corruption efforts."
+  },
+  {
+   "group": "Businesses and banks that deal with sanctioned persons",
+   "how": "They must avoid transactions involving blocked assets of people sanctioned under this law."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on December 20, 2018, and the sanctions and reporting duties apply after that date, though the summary does not list specific deadlines.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

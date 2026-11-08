@@ -1,0 +1,24 @@
+{
+ "headline": "A 2015 law lets people who gave cash to the families of two slain New York police detectives claim a 2014 tax deduction, and eases record-keeping and tax-exempt payment rules for those families.",
+ "what_it_does": "The law allows a charitable deduction for cash gifts made for the relief of the families of NYPD Detectives Wenjian Liu and Rafael Ramos, even if the gifts went only to those families. Donors could claim the deduction on their 2014 returns for gifts made between January 1 and April 15, 2015. A telephone bill showing the charity's name, the date, and the amount can serve as proof of the gift. It also treats certain payments by tax-exempt groups to the detectives' spouses and dependents, made from December 20, 2014 through October 15, 2015, as related to the group's exempt purpose, as long as they follow a reasonable, consistently applied formula.",
+ "who_it_affects": [
+  {
+   "group": "People who gave cash to the families of Detectives Liu and Ramos between January 1 and April 15, 2015",
+   "how": "They may deduct those gifts on their 2014 federal income tax returns, and a phone bill can serve as record-keeping proof."
+  },
+  {
+   "group": "Tax-exempt charities that paid money to the spouses or dependents of Detectives Liu and Ramos",
+   "how": "Those payments from December 20, 2014 through October 15, 2015 are not treated as benefiting a private individual, if they followed a good-faith, consistently applied formula."
+  },
+  {
+   "group": "Spouses and dependents of Detectives Wenjian Liu and Rafael Ramos",
+   "how": "They are the people the donations and charitable payments were meant to help, and the law makes those gifts easier to deduct and to pay out."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted April 1, 2015, and its deduction and payment rules apply to the specific date ranges described above.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

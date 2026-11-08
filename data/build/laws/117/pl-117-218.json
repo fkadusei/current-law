@@ -36,5 +36,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Congress named a post office in Baraga, Michigan after Cora Reynolds Anderson.",
+  "what_it_does": "This law renames the U.S. Postal Service facility at 404 U.S. Highway 41 North in Baraga, Michigan, as the Cora Reynolds Anderson Post Office. It changes only the official name of the building. It does not change postal services, mail delivery, or staffing.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law was enacted on December 2, 2022.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

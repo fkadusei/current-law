@@ -36,5 +36,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A federal law that bans software tricks used to get around online ticket purchase limits and order rules for large public events.",
+  "what_it_does": "The law makes it illegal to bypass security tools or access controls on a ticket seller's website that enforce purchase limits or order rules for events with more than 200 people. It also bans selling or offering to sell tickets obtained that way in interstate commerce, if the seller took part in the bypass, could control it, or should have known about it. Certain security research and investigation work is exempt. Violations are treated as unfair or deceptive practices under the Federal Trade Commission Act, and the FTC and states can enforce the law.",
+  "who_it_affects": [
+   {
+    "group": "People who buy tickets online for large public events",
+    "how": "Ticket buyers are protected by limits on bots and software that bypass purchase caps, which may help them compete fairly for tickets."
+   },
+   {
+    "group": "Ticket resellers and brokers",
+    "how": "Those who use or sell tickets obtained by bypassing online purchase limits can face liability under federal law."
+   },
+   {
+    "group": "Ticket issuers and event venues",
+    "how": "Online ticket sellers gain a federal prohibition against circumventing their purchase limits and order rules, enforceable by the FTC and states."
+   },
+   {
+    "group": "Computer security researchers",
+    "how": "Researchers who identify flaws in security measures to advance computer security knowledge are expressly exempted from the ban."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

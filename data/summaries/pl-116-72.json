@@ -1,0 +1,32 @@
+{
+ "headline": "A 2019 federal law makes intentional animal crushing a federal crime and expands the rules on crush videos, with some exceptions.",
+ "what_it_does": "The law keeps the existing federal ban on knowingly creating or distributing animal crush videos through interstate commerce. It adds a new offense for intentionally crushing an animal. A person who violates it can be fined, sentenced to up to seven years in prison, or both. The law also lists exceptions for conduct or videos tied to medical or scientific research, protecting a person's life or property, euthanizing an animal, or accidental harm.",
+ "who_it_affects": [
+  {
+   "group": "People who intentionally crush animals",
+   "how": "They can face federal fines and up to seven years in prison under the new offense."
+  },
+  {
+   "group": "People who create or share animal crush videos",
+   "how": "The existing federal ban on making or distributing these videos across state lines or through interstate commerce still applies."
+  },
+  {
+   "group": "Medical and scientific researchers",
+   "how": "Their research-related conduct, and videos of it, are excluded from the crushing offenses under the law's exceptions."
+  },
+  {
+   "group": "People who euthanize animals, such as veterinarians and shelter workers",
+   "how": "Conduct that is part of euthanizing an animal is excluded from the offenses."
+  },
+  {
+   "group": "People acting to protect life or property",
+   "how": "Conduct needed to protect a person's life or property is excluded from the offenses."
+  }
+ ],
+ "when_it_takes_effect": "The summary does not state an effective date. The law was enacted on November 25, 2019.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

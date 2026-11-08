@@ -1,0 +1,24 @@
+{
+ "headline": "A 2018 law requires the federal health agency HRSA to identify and track areas with too few maternity care workers.",
+ "what_it_does": "The law amends the Public Health Service Act. It directs the Health Resources and Services Administration (HRSA) to identify \"maternity care health professional target areas,\" which are places inside existing health professional shortage areas that lack enough maternity care providers. HRSA must also collect and publish data comparing how much maternity care is available with how much is needed in those shortage areas. The summary does not describe specific funding amounts or penalties.",
+ "who_it_affects": [
+  {
+   "group": "Pregnant people and new mothers in shortage areas",
+   "how": "The law requires federal data on where maternity care is hard to find, which may inform where providers are assigned."
+  },
+  {
+   "group": "Maternity care health professionals such as obstetricians and midwives",
+   "how": "The law may affect where providers are assigned to work, since HRSA uses the target area identification for that purpose."
+  },
+  {
+   "group": "Rural and underserved communities",
+   "how": "Areas with shortages of maternity providers are to be publicly identified and measured through published federal data."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

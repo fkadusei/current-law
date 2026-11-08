@@ -42,5 +42,24 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This 2018 law officially names the veterans museum being built in Columbus, Ohio, the National Veterans Memorial and Museum, and requires reports to Congress.",
+  "what_it_does": "The law gives the Columbus, Ohio veterans memorial and museum the official name National Veterans Memorial and Museum. Congress could withdraw this designation if it finds the museum's progress or operation unsatisfactory, but not until at least five years after the museum opens to the public. As a condition of the designation, the museum's director must report to Congress on a projected five-year budget, outreach to veterans about the design and contents, the exhibit decision-making process, the organizational structure, bylaws and rules, and the organizations that have accredited the museum.",
+  "who_it_affects": [
+   {
+    "group": "Veterans",
+    "how": "The museum's director must seek their input on the museum's design and contents, as described in the required report to Congress."
+   },
+   {
+    "group": "Museum director and museum organization",
+    "how": "They must submit reports to Congress covering the budget, exhibit decisions, organization, bylaws, and accreditation, and the designation can be withdrawn after five years of operation if Congress is dissatisfied."
+   }
+  ],
+  "when_it_takes_effect": "The designation took effect when the law was enacted on June 21, 2018. Withdrawal of the designation cannot happen earlier than five years after the museum opens, and the summary does not give an opening date.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

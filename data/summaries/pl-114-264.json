@@ -1,0 +1,32 @@
+{
+ "headline": "This law makes the White House budget office responsible for government-wide rules on managing federal programs and projects, and creates new roles and career tracks for federal program managers.",
+ "what_it_does": "The law gives the Office of Management and Budget (OMB) new duties to set standards for how federal agencies plan and run programs and projects, and to review programs at least once a year. It creates a Program Management Policy Council inside OMB to coordinate agency practices. Each agency that has a Chief Financial Officer must name a Program Management Improvement Officer to carry out these rules, and the Office of Personnel Management must write rules for program manager skills, job series, and a career path. The Department of Defense is largely exempt where its own rules are substantially similar.",
+ "who_it_affects": [
+  {
+   "group": "Federal program and project managers",
+   "how": "The Office of Personnel Management must define the skills they need and set up a job series and career path for them."
+  },
+  {
+   "group": "Federal agencies with a Chief Financial Officer",
+   "how": "Each must designate a Program Management Improvement Officer and work with OMB on a strategy to strengthen the program manager role."
+  },
+  {
+   "group": "Office of Management and Budget",
+   "how": "It takes on new duties to set government-wide program management standards, chair the new policy council, and conduct annual portfolio reviews."
+  },
+  {
+   "group": "Department of Defense",
+   "how": "It is partly exempt from these requirements where its own acquisition workforce or program management rules are substantially similar, and its Under Secretary for Acquisition, Technology, and Logistics serves as its improvement officer."
+  },
+  {
+   "group": "Government Accountability Office",
+   "how": "It must report within three years on whether the new standards, strategic plan, officers, and policy council are improving federal program management."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on December 14, 2016. OMB must submit its agency strategy report within one year of enactment, and GAO must report within three years of enactment.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

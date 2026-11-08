@@ -1,0 +1,20 @@
+{
+ "headline": "This law lets the Smithsonian plan and build a central parking facility at the National Zoological Park in Washington, DC, paid for with non-federal-appropriated funds.",
+ "what_it_does": "The law authorizes the Smithsonian Institution's Board of Regents to plan, design, and build a central parking facility on National Zoological Park property in Washington, DC. The stated goal is to improve visitor experience and access to the park by car and by other transportation methods. The facility must be paid for with nonappropriated funds, meaning money that does not come from annual congressional appropriations.",
+ "who_it_affects": [
+  {
+   "group": "Visitors to the National Zoological Park",
+   "how": "If the facility is built, people who drive to the zoo could have a new central place to park, and the law aims to improve access by other transportation options too."
+  },
+  {
+   "group": "Visitors who walk, bike, or use transit to reach the zoo",
+   "how": "The stated goal of multi-modal access means changes to how people get to the park may be part of the project, though the summary does not give specifics."
+  }
+ ],
+ "when_it_takes_effect": "The law took effect when it was enacted on June 1, 2018. The summary does not give a construction schedule or deadline.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

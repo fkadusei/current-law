@@ -42,5 +42,24 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2018 federal law lets seven named Oregon tribes lease, sell, or transfer their non-trust real property.",
+  "what_it_does": "The law applies to seven Oregon tribes, including the Grand Ronde, Siletz, Warm Springs, and Klamath Tribes. It allows each of them to lease, sell, convey, warrant, or transfer real property they own that is not held in trust by the United States. The official summary does not describe any conditions, limits, or procedures beyond this authority.",
+  "who_it_affects": [
+   {
+    "group": "The seven named Oregon tribes: Confederated Tribes of Coos, Lower Umpqua, and Siuslaw Indians; Confederated Tribes of Grand Ronde; Confederated Tribes of Siletz; Confederated Tribes of Warm Springs; Cow Creek Band of Umpqua Tribe; Klamath Tribes; and Burns Paiute Tribes",
+    "how": "Each tribe gains the federal authority to lease, sell, or transfer its non-trust real property."
+   },
+   {
+    "group": "People and businesses that might lease or buy non-trust land from these tribes",
+    "how": "They may have new options to acquire or lease that land from the tribes, since the tribes can now do so under this law."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

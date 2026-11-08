@@ -33,5 +33,24 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2019 law lets Government Publishing Office staff hold certain diversified mutual funds, trusts, and retirement plans that include printing-related investments.",
+  "what_it_does": "Before this law, people working at the Government Publishing Office could not have any financial interest in printing-related businesses. The law adds an exception for certain widely held investments, including diversified mutual funds, diversified unit investment trusts, employee benefit plans, and retirement plans, even when those investments hold some printing-related companies. The exception covers only these listed types of holdings.",
+  "who_it_affects": [
+   {
+    "group": "Government Publishing Office personnel",
+    "how": "Staff at the agency may hold certain diversified mutual funds, unit investment trusts, and retirement or benefit plans that include printing-related holdings without breaking conflict-of-interest rules."
+   },
+   {
+    "group": "Investors in diversified mutual funds and retirement plans",
+    "how": "Investors whose funds include printing-related companies are not affected by the rule itself, but the exception allows GPO staff to hold these same types of funds."
+   }
+  ],
+  "when_it_takes_effect": "The summary does not state an effective date; the law was enacted on December 5, 2019.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

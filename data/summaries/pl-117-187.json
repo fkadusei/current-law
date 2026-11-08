@@ -1,0 +1,24 @@
+{
+ "headline": "This law directs the Federal Trade Commission to study how it can better work with state attorneys general to fight fraud and scams.",
+ "what_it_does": "The FTC must study its current efforts to work with state attorneys general on fraud and scams. The study must look at procedures that could make this teamwork easier, including accountability mechanisms. The FTC must consult outside organizations and allow public comment during the process. After the study, the FTC must send Congress legislative recommendations based on what it found.",
+ "who_it_affects": [
+  {
+   "group": "Federal Trade Commission",
+   "how": "The agency must complete a study, gather input from outside groups and the public, and send Congress recommendations."
+  },
+  {
+   "group": "State attorneys general",
+   "how": "Their working relationship with the FTC on fraud and scam cases is the subject of the study, which may lead to later changes in how they cooperate."
+  },
+  {
+   "group": "Consumers who may be targeted by scams",
+   "how": "The law does not change their rights directly, but any future changes based on the study could affect how fraud cases are handled."
+  }
+ ],
+ "when_it_takes_effect": "The law took effect when it was enacted on October 10, 2022, but its main results will come later through the FTC study and any resulting recommendations to Congress.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

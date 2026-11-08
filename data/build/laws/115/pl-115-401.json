@@ -3531,5 +3531,28 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2018 federal law directs the Justice Department to build a national network for alerting the public when adults go missing.",
+  "what_it_does": "The law tells the Department of Justice to set up a national communications network called the Ashanti Alert network to help local and regional groups search for missing adults. This network must be connected to the Blue Alert network, which is used to search for violent offenders who hurt or threaten law enforcement officers. The law authorizes funding for the network for fiscal years 2019 through 2022. It also ends the Justice Department's authority to give out grants under the Emergency Federal Law Enforcement Assistance Program after fiscal year 2022.",
+  "who_it_affects": [
+   {
+    "group": "Families and friends of missing adults",
+    "how": "They may get a faster, wider public alert system to help search for a missing adult."
+   },
+   {
+    "group": "Local and state law enforcement agencies",
+    "how": "They can use a national alert network to help search for missing adults in their areas."
+   },
+   {
+    "group": "Organizations that received Emergency Federal Law Enforcement Assistance Program grants",
+    "how": "They will no longer be able to receive new grants from that program after fiscal year 2022."
+   }
+  ],
+  "when_it_takes_effect": "Enacted December 31, 2018; the network funding authorization covers fiscal years 2019 through 2022, and the grant authority ends after fiscal year 2022.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

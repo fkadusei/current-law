@@ -36,5 +36,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2018 law renamed NASA's Independent Verification and Validation Facility in Fairmont, West Virginia, after Katherine Johnson.",
+  "what_it_does": "The law changes the official name of a NASA facility in Fairmont, West Virginia, to the Katherine Johnson Independent Verification and Validation Facility. It does not change the facility's work, staffing, or funding. The summary provided describes only this renaming.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law was enacted on December 11, 2018, and the renaming took effect on that date.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

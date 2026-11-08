@@ -39,5 +39,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law lets the Interior Department accept about 40 acres of private land as a donation and add it to Rocky Mountain National Park in Colorado.",
+  "what_it_does": "The Department of the Interior is allowed to acquire roughly 40 acres of specified nonfederal land by donation. Once it does, the department must change the park's boundary to include that land. The department must then manage the land as part of the park.",
+  "who_it_affects": [
+   {
+    "group": "The owner of the specified land, if they choose to donate it",
+    "how": "They could give the roughly 40 acres to the federal government instead of selling or keeping it."
+   },
+   {
+    "group": "Visitors to Rocky Mountain National Park",
+    "how": "The park's official boundary and land area would grow if the donation goes through, and the added land would be managed under park rules."
+   },
+   {
+    "group": "National Park Service and Interior Department staff",
+    "how": "They must take on the boundary change and the management of the added acreage."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on January 5, 2021. The summary does not give a separate effective date or deadline for the donation.",
+  "ceremonial": false,
+  "confidence": "low",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

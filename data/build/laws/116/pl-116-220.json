@@ -36,5 +36,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2020 law renamed the Thomasville, Alabama post office at 115 Nicol Avenue in honor of former postmaster Robert Ingram.",
+  "what_it_does": "The law officially names the United States Postal Service facility at 115 Nicol Avenue in Thomasville, Alabama, the \"Postmaster Robert Ingram Post Office.\" It is a naming measure only. It does not change mail service, postal rules, or the building's operations.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law was enacted on December 17, 2020, and the new name applies from that date.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -4363,5 +4363,40 @@
   "House": "R",
   "Senate": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "This 2013 law changes how the federal government stores, sells, and manages helium, and it also makes several smaller changes to federal land, mining, and biofuel programs.",
+  "what_it_does": "The law sets up a Helium Production Fund and requires the Interior Department to charge fees that cover the full cost of storing, withdrawing, or transporting helium. It sets a four-phase plan for selling helium from the federal reserve, including annual auctions to qualified bidders that grow until they cover all available helium from fiscal year 2020 on, and a phase that disposes of federal helium system assets by September 30, 2022. It also orders research on helium recovery, public reporting on helium prices and supply, and several one-time funding changes for schools, parks, abandoned wells, and mine cleanup.",
+  "who_it_affects": [
+   {
+    "group": "Federal agencies that use helium",
+    "how": "They get priority pipeline access and in-kind purchase options, and the Interior Department must prepare a long-term plan for securing their helium supply."
+   },
+   {
+    "group": "Companies and qualified bidders that buy crude helium",
+    "how": "They can buy helium at auction and store it in the federal reserve, and they pay the fees that the Interior Department sets."
+   },
+   {
+    "group": "Helium refiners",
+    "how": "As a condition of buying crude helium, they must make excess refining capacity available to specified persons at commercially reasonable rates."
+   },
+   {
+    "group": "Counties and schools near federal land",
+    "how": "Certain federal payments for schools and roads, and related county fund authority, are extended through fiscal year 2013."
+   },
+   {
+    "group": "Oil and gas operators on National Petroleum Reserve land",
+    "how": "The Energy Department receives funds to clean up and close abandoned wells on that land."
+   },
+   {
+    "group": "States and tribes with coal mine reclamation programs",
+    "how": "Their fiscal year 2014 payments from the Abandoned Mine Reclamation Fund are capped at 75 million dollars each."
+   }
+  ],
+  "when_it_takes_effect": "Most provisions took effect on October 2, 2013, the date of enactment, with the auction and sale phases and the asset disposal phase running on the schedules set out in the law.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

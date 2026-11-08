@@ -1,0 +1,20 @@
+{
+ "headline": "This law gives certain long-term legal residents of the Northern Mariana Islands a special CNMI Resident status that allows work and travel documents in the islands.",
+ "what_it_does": "The law creates CNMI Resident status for certain non-citizens who have lived lawfully and continuously in the Commonwealth of the Northern Mariana Islands since November 28, 2009. People with this status may work in the CNMI and receive travel documents. They cannot enter the United States at ports of entry outside the CNMI, except in certain cases involving Guam.",
+ "who_it_affects": [
+  {
+   "group": "Non-citizens who have lived lawfully in the CNMI since November 28, 2009",
+   "how": "They may qualify for CNMI Resident status if they meet the law's residence and lawful-presence requirements, which allows them to work in the CNMI and receive travel documents."
+  },
+  {
+   "group": "Non-citizens who qualify for CNMI Resident status and travel outside the islands",
+   "how": "They are barred from entering the United States at ports of entry outside the CNMI, with an exception for Guam in certain instances."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted June 25, 2019, and the qualification rules refer to that date; the summary does not describe a separate effective date.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

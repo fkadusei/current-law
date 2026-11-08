@@ -36,5 +36,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law lets the Treasury Department mint commemorative coins honoring the 100th anniversary of the Negro National League, with sale surcharges going to the Negro Leagues Baseball Museum.",
+  "what_it_does": "The law directs the Treasury Department to mint and issue up to 50,000 five-dollar gold coins, 400,000 one-dollar silver coins, and 400,000 half-dollar clad coins. The coins mark the 100th anniversary of the Negro National League, a professional baseball league formed after Black players were barred from the major leagues. Treasury may issue them only during a one-year period starting January 1, 2022, and all surcharges from sales go to the Negro Leagues Baseball Museum for education and exhibits. Treasury must also run a program to promote coin collecting.",
+  "who_it_affects": [
+   {
+    "group": "Coin collectors",
+    "how": "People can buy these limited-edition coins during the one-year sales window, at prices that include a surcharge."
+   },
+   {
+    "group": "Negro Leagues Baseball Museum",
+    "how": "The museum receives the surcharges from coin sales to fund its educational programs, outreach, and exhibits."
+   },
+   {
+    "group": "U.S. Mint and Treasury Department",
+    "how": "Treasury must produce the coins within the set limits and run a marketing and educational program to promote them."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted December 4, 2020, and Treasury may issue the coins only during the one-year period beginning January 1, 2022.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

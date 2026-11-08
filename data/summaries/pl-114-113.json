@@ -1,0 +1,68 @@
+{
+ "headline": "A massive year-end spending and tax package that funds the federal government for fiscal year 2016 and changes many unrelated laws, from taxes and health care to oil exports and visa rules.",
+ "what_it_does": "This law is a combined package of twelve annual spending bills plus many separate policy changes. It provides money for federal agencies through the end of fiscal year 2016 and sets limits and rules on how that money can be used. It also extends or makes permanent many expiring tax breaks and adds rules on topics such as crude oil exports, cybersecurity information sharing, visa waiver travel, Medicare payments, and the Land and Water Conservation Fund.",
+ "who_it_affects": [
+  {
+   "group": "Federal employees and federal agencies",
+   "how": "Agencies in every department receive FY2016 funding with spending limits, reporting duties, and restrictions on travel, contracts, and transfers of money."
+  },
+  {
+   "group": "Members of Congress",
+   "how": "Their cost-of-living adjustments are prohibited for FY2016, and their office expenses and mailings are limited."
+  },
+  {
+   "group": "Taxpayers claiming certain tax credits and deductions",
+   "how": "Several tax breaks, such as the American Opportunity tax credit, the child tax credit, and the mortgage insurance premium deduction, are extended or made permanent, while others get new rules for claiming them."
+  },
+  {
+   "group": "Employers offering high-cost health plans and health insurance providers",
+   "how": "The excise tax on high-cost employer health plans is delayed until 2020, and the annual fee on health insurance providers is delayed until 2018."
+  },
+  {
+   "group": "Crude oil producers and exporters",
+   "how": "The long-standing ban on U.S. crude oil exports is ended, though the President keeps limited authority to restrict exports in certain situations."
+  },
+  {
+   "group": "Travelers from visa waiver countries",
+   "how": "New passport and screening requirements apply, and people who recently visited certain countries such as Iraq or Syria become ineligible for the program unless a waiver is granted."
+  },
+  {
+   "group": "Medicare hospitals in Puerto Rico and Medicare patients using digital radiography or durable medical equipment",
+   "how": "Puerto Rico hospitals get higher Medicare inpatient payment rates and eligibility for electronic health record incentive payments, while certain x-ray and Medicaid equipment payments are reduced or limited."
+  },
+  {
+   "group": "Farmers, ranchers, and food producers",
+   "how": "The law sets many USDA rules, including limits on certain grants, the repeal of country-of-origin labeling for beef and pork, and a restored commodity certificate program."
+  },
+  {
+   "group": "Students and schools receiving federal school meal funds",
+   "how": "Schools can get exemptions from certain whole grain requirements, and funding for school meal equipment and summer food programs is provided."
+  },
+  {
+   "group": "9/11 first responders and survivors",
+   "how": "Health and compensation programs for 9/11 responders are reauthorized, and new claims can be filed for a set period."
+  },
+  {
+   "group": "Homeowners and Fannie Mae and Freddie Mac",
+   "how": "The Treasury Department is barred from selling its Fannie Mae and Freddie Mac preferred stock until at least January 1, 2018, unless new law allows it."
+  },
+  {
+   "group": "Veterans and military families",
+   "how": "Veterans health and benefits programs receive FY2016 funds, and military construction and housing funds are provided with new limits and reporting rules."
+  },
+  {
+   "group": "Businesses and workers using cybersecurity information sharing",
+   "how": "Private companies get liability protections for sharing cyber threat information with the government through a Department of Homeland Security process."
+  },
+  {
+   "group": "Iraq",
+   "how": "The U.S. may make up to $2.7 billion in direct loans to Iraq for defense articles and services."
+  }
+ ],
+ "when_it_takes_effect": "Enacted December 18, 2015; most spending applies to fiscal year 2016 (October 1, 2015 through September 30, 2016), and many tax, visa, and program changes have their own start and end dates.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

@@ -1,0 +1,36 @@
+{
+ "headline": "A 2017 law that funds the VA Choice Program, adds hiring and staffing rules for the Department of Veterans Affairs, approves some facility leases, and extends several veterans' benefit provisions.",
+ "what_it_does": "The law provides money for the Veterans Choice Program, which pays for some veterans to get health care from non-VA providers. It sets new rules to help the VA hire, keep, and manage its workforce, including fellowships, promotion tracks, and a database of hard-to-fill jobs. It also lets the VA carry out certain major medical facility leases and extends several existing veterans' benefit limits and fee authorities through fiscal year 2027.",
+ "who_it_affects": [
+  {
+   "group": "Veterans who use VA health care or the Veterans Choice Program",
+   "how": "They can receive care through the Veterans Choice Program, which the law provides funding for."
+  },
+  {
+   "group": "Veterans in nursing homes whose care is paid through Medicaid",
+   "how": "The $90 monthly limit on their VA pension is extended through fiscal year 2027."
+  },
+  {
+   "group": "Veterans applying for VA-backed housing loans",
+   "how": "The VA's authority to collect certain loan fees at current levels is extended through fiscal year 2027."
+  },
+  {
+   "group": "VA employees, including physician assistants and human resources staff",
+   "how": "New training, pay-comparison, promotion, and career-path rules apply to them."
+  },
+  {
+   "group": "Recent graduates, students, and service members with medical training",
+   "how": "The law creates appointment and recruitment programs that let them seek VA jobs."
+  },
+  {
+   "group": "Veterans seeking VA benefits who need income checks",
+   "how": "The VA's authority to get income verification from the Social Security Administration or Treasury is extended through fiscal year 2027."
+  }
+ ],
+ "when_it_takes_effect": "Enacted August 12, 2017; several provisions run through fiscal year 2027, and other sections set their own timelines.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

@@ -36,5 +36,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law lets the President make direct loans, with possibly lower rates and added fees, to NATO members that joined after 1999 to buy U.S. defense equipment.",
+  "what_it_does": "It allows the President to make direct loans to countries that joined NATO after March 1, 1999, so they can buy U.S. defense articles. The President may set interest rates lower than the statute otherwise requires and may charge fees on these loans. Before any loan is made, the State Department must certify to Congress that the country is making demonstrable progress toward its NATO defense-spending obligations and is respecting its constitution and upholding democratic values.",
+  "who_it_affects": [
+   {
+    "group": "Countries that joined NATO after March 1, 1999",
+    "how": "They may be eligible for U.S. direct loans to buy American defense equipment, with terms that can differ from the usual statutory rates and may include fees."
+   },
+   {
+    "group": "The Department of State",
+    "how": "It must review each country and certify to Congress that the defense-spending and democratic-values conditions are met before a loan is made."
+   },
+   {
+    "group": "Congress",
+    "how": "It receives the State Department certification required before any covered loan can proceed."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

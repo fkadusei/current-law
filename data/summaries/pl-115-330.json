@@ -1,0 +1,24 @@
+{
+ "headline": "This law requires yearly State Department reports on U.S. access to Tibetan areas of China and allows entry bans on certain Chinese officials tied to those access limits.",
+ "what_it_does": "The State Department must report to Congress each year on how much access Chinese authorities give U.S. diplomats, journalists, and tourists to Tibetan areas, comparing it with other parts of China and with the prior year. The report must also describe measures that limit travel in Tibetan areas. The law lets the U.S. refuse entry to officials substantially involved in restricting foreign access to the Tibet Autonomous Region, if the permit rule stays in place or is replaced by a similar rule that treats foreigners more strictly than other provinces, and travel limits in Tibetan areas of Sichuan, Qinghai, Yunnan, and Gansu are greater than elsewhere. The State Department must also name blocked individuals and list the Chinese officials involved each year.",
+ "who_it_affects": [
+  {
+   "group": "Chinese officials involved in setting or carrying out policies that limit foreign access to Tibetan areas",
+   "how": "They may be barred from entering the United States if the access conditions in the law are met, and they are named in annual State Department reports."
+  },
+  {
+   "group": "U.S. diplomats, journalists, and citizens who travel to Tibetan areas of China",
+   "how": "The State Department must track and report on the travel limits they face, though the law does not directly change their own travel rules."
+  },
+  {
+   "group": "Foreign tourists seeking to visit the Tibet Autonomous Region",
+   "how": "The annual reports compare their access to that of other parts of China, but the law does not itself change permit requirements."
+  }
+ ],
+ "when_it_takes_effect": "Enacted December 19, 2018; the annual reporting and entry-ban provisions apply from that date, with reports due each year afterward.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

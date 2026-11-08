@@ -36,5 +36,24 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2019 law sets the pay and grade of VA podiatrists to match the schedule used for VA physicians and dentists.",
+  "what_it_does": "This law amends title 38 of the U.S. Code, which governs veterans' affairs. It states that podiatrists who work for the Department of Veterans Affairs are placed on the same pay and grade schedule as VA physicians and dentists. The summary does not describe specific pay amounts or changes to individual salaries.",
+  "who_it_affects": [
+   {
+    "group": "Podiatrists employed by the Department of Veterans Affairs",
+    "how": "Their grade and pay are set on the same schedule used for VA physicians and dentists."
+   },
+   {
+    "group": "Veterans who receive foot and ankle care at VA facilities",
+    "how": "The law addresses how VA podiatrists are paid and graded, but the summary does not say it changes the care veterans receive."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on April 8, 2019, and the summary does not list a separate effective date.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

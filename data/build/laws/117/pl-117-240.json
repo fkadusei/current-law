@@ -33,5 +33,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Names a federal courthouse in Jackson, Tennessee, after former federal judge James D. Todd.",
+  "what_it_does": "This law renames the United States courthouse at 111 South Highland Avenue in Jackson, Tennessee, as the James D. Todd United States Courthouse. It does not change how the court operates or what cases it hears. The official summary describes only this designation.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law was enacted on December 20, 2022, and the designation took effect on that date.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

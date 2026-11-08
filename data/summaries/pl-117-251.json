@@ -1,0 +1,28 @@
+{
+ "headline": "This 2022 law directs FEMA and other agencies to study wildfire response, report to Congress, and improve disaster aid and counseling training.",
+ "what_it_does": "The law requires FEMA to report to Congress on using relocation assistance for wildfire risk. FEMA, working with the National Weather Service, must study how forecasts and alerts like Red Flag Warnings could help take steps before a wildfire to reduce its impact. The Government Accountability Office must report to Congress on wildfires and the effectiveness of FEMA programs. The law also requires training for crisis counselors on disadvantaged communities, orders a FEMA study on housing for households with multiple families, and lets Indian tribal governments apply for emergency operations center grants.",
+ "who_it_affects": [
+  {
+   "group": "Wildfire-prone communities and residents",
+   "how": "They could see future federal plans that use weather forecasts and alerts to act before a fire, though the law itself mainly requires studies and reports."
+  },
+  {
+   "group": "Disaster survivors who share housing with multiple families",
+   "how": "FEMA must study and plan for housing assistance that better fits households with more than one family."
+  },
+  {
+   "group": "Crisis counselors and case managers serving major disaster victims",
+   "how": "Providers must make sure staff are trained to address community impacts and the needs of socioeconomically disadvantaged individuals."
+  },
+  {
+   "group": "Indian tribal governments",
+   "how": "They may apply for grants to equip, upgrade, and build state and local emergency operations centers."
+  }
+ ],
+ "when_it_takes_effect": "Enacted December 20, 2022; the summary does not list specific deadlines for each provision.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

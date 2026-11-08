@@ -1,0 +1,24 @@
+{
+ "headline": "This law updates the federal list of biological agents and toxins covered by the ban on shipping, possessing, or receiving them when a restricted person is involved.",
+ "what_it_does": "Federal law already makes it a crime for certain restricted people to ship, transport, possess, or receive biological agents or toxins. This bill changes the references to the official lists of agents and toxins that the prohibition covers. The summary does not describe any other changes.",
+ "who_it_affects": [
+  {
+   "group": "People barred by federal law from possessing biological agents or toxins",
+   "how": "The updated lists determine which agents and toxins fall under the prohibition that applies to them."
+  },
+  {
+   "group": "Researchers and laboratory workers who handle listed agents or toxins",
+   "how": "The lists that define which materials are regulated are updated, so their handling of certain materials may be affected."
+  },
+  {
+   "group": "Federal prosecutors",
+   "how": "They use the updated lists when bringing cases under this prohibition."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

@@ -3535,5 +3535,15 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "Congress directs that a Congressional Gold Medal be awarded to the First Special Service Force, a World War II unit, to honor its service.",
+  "what_it_does": "The law asks the leaders of the House and Senate to arrange an award of one gold medal, given to the unit as a group, for its World War II service. The medal goes to the First Special Service Force Association in Helena, Montana, for display there and at other places. The Treasury Secretary may also make and sell bronze copies, with the money going to the U.S. Mint's Public Enterprise Fund. The medal is also treated as a national medal under certain coin and currency rules.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law took effect when it was enacted on July 12, 2013.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

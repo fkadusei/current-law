@@ -39,5 +39,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law lowers the minimum credit hours a degree program must require for veterans and eligible people to qualify for the VA's Edith Nourse Rogers STEM Scholarship.",
+  "what_it_does": "The Edith Nourse Rogers STEM Scholarship is a Department of Veterans Affairs program that pays for science, technology, engineering, and math education. Before this law, an eligible student had to be in a program requiring more than 128 semester credit hours (or 192 quarter hours). The law changes that threshold to at least 120 semester hours (or 180 quarter hours), which is the standard amount for many bachelor's degrees.",
+  "who_it_affects": [
+   {
+    "group": "Veterans and eligible family members who want STEM scholarship benefits",
+    "how": "More students in degree programs requiring 120 semester hours can now qualify, where before they needed programs requiring more than 128 semester hours."
+   },
+   {
+    "group": "Students enrolled in STEM programs with 120 to 128 semester credit hours",
+    "how": "These students may become eligible for the scholarship because the minimum credit requirement is lower."
+   },
+   {
+    "group": "Department of Veterans Affairs",
+    "how": "The agency must apply the revised credit hour requirement when it determines who qualifies for the scholarship."
+   }
+  ],
+  "when_it_takes_effect": "The summary does not state a specific effective date, so the change takes effect on the date the law was enacted, July 31, 2019, unless the text says otherwise.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

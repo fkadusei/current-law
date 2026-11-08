@@ -1,0 +1,28 @@
+{
+ "headline": "This 2018 law requires the President to sanction people and groups that financially or materially support Hezbollah and to report to Congress on the group's finances and activities.",
+ "what_it_does": "The law directs the President to impose sanctions on foreign individuals and entities that knowingly give significant financial, material, or technological support to Hezbollah-affiliated groups, or that take part in Hezbollah fundraising or recruitment. Sanctions can include blocking property and transactions, barring entry into the United States, and revoking visas. The President may waive these sanctions if it is in the U.S. national interest, and the law also asks the State Department to help foreign governments prevent Hezbollah-linked activity and to authorize U.S. banks to apply enhanced due diligence to certain foreign bank accounts. It adds several reporting requirements to Congress about Hezbollah's finances, operations, and members.",
+ "who_it_affects": [
+  {
+   "group": "Foreign individuals and entities that support or fundraise for Hezbollah",
+   "how": "They can have property blocked, be barred from entering the United States, and have visas revoked if they meet the law's conditions."
+  },
+  {
+   "group": "Foreign governments and state agencies that knowingly support Hezbollah combat or provide arms or significant funding",
+   "how": "They can face property-blocking sanctions under the law."
+  },
+  {
+   "group": "U.S. financial institutions",
+   "how": "They may be required to set up enhanced due diligence policies for correspondent and payable-through accounts held by foreign banks."
+  },
+  {
+   "group": "Members of the Lebanese Parliament who identify as Hezbollah members",
+   "how": "They are subject to congressional reporting on their conduct."
+  }
+ ],
+ "when_it_takes_effect": "Enacted October 25, 2018; the sanctions and reporting requirements apply on the timelines set in the law's text, which the summary does not detail.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

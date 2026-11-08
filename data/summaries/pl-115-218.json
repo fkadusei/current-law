@@ -1,0 +1,32 @@
+{
+ "headline": "Extends and revises the immigration transition program for the Northern Mariana Islands through 2029, with new rules for worker permits, wages, and labor checks.",
+ "what_it_does": "The law extends the Commonwealth of the Northern Mariana Islands immigration transition program by 10 years, through 2029. It limits Commonwealth Only Transitional Worker permits to one year at most, requires employers to pay a fraud prevention fee, and requires them to get a labor certification from the Department of Labor showing that enough qualified U.S. workers are not available and that wages and conditions for U.S. workers will not be harmed. It also sets a yearly cap on permits that gets lower each year, and requires workers under permits to be paid the highest of the CNMI minimum wage, federal minimum wage, or the prevailing wage for their job.",
+ "who_it_affects": [
+  {
+   "group": "Employers in the Northern Mariana Islands who want to hire transitional workers",
+   "how": "They must pay a fraud prevention fee, obtain a Department of Labor labor certification before a permit petition can be approved, and follow the wage rules."
+  },
+  {
+   "group": "Transitional foreign workers holding Commonwealth Only Transitional Worker permits",
+   "how": "Their permits last one year at most, and they must be paid at least the highest of the CNMI minimum wage, federal minimum wage, or prevailing wage for their occupation."
+  },
+  {
+   "group": "U.S. workers in the Northern Mariana Islands",
+   "how": "Employers must show there are not enough available qualified U.S. workers before hiring under these permits, and the Labor Department must confirm that wages and working conditions for similar U.S. workers will not be harmed."
+  },
+  {
+   "group": "The Commonwealth government of the Northern Mariana Islands",
+   "how": "The Governor must submit a plan to the Labor Department for using fees collected for vocational education, and the Labor Department must approve it."
+  },
+  {
+   "group": "Asylum seekers in the Northern Mariana Islands",
+   "how": "The Labor Department must report on the expected number of asylum seekers at the end of the transition program and on its preparations for them."
+  }
+ ],
+ "when_it_takes_effect": "Enacted July 24, 2018; the program extension runs through 2029.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

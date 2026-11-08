@@ -1,0 +1,28 @@
+{
+ "headline": "This law raises the federal duck stamp price from $15 to $25, directs the extra money to a bird habitat fund, and exempts rural Alaska subsistence hunters from the stamp requirement.",
+ "what_it_does": "Hunters who take migratory waterfowl must buy a federal duck stamp, and this law raises its price from $15 to $25. Money from each stamp above $15 goes to a new subaccount in the Migratory Bird Conservation Fund, which the Interior Department can use to buy easements that protect migratory bird habitat. The Interior Department may lower the price for a hunting year if the increase causes a drop in fund revenue. The law also requires an annual report on wetlands projects and refuge hunting and fishing access, and it lets rural Alaska residents hunt waterfowl for subsistence without a stamp.",
+ "who_it_affects": [
+  {
+   "group": "Duck hunters who buy federal waterfowl stamps",
+   "how": "They must pay $25 for a duck stamp instead of $15, unless the Interior Department lowers the price for a given hunting year."
+  },
+  {
+   "group": "Rural Alaska residents who hunt waterfowl for subsistence",
+   "how": "They can take migratory waterfowl for subsistence uses without buying a duck stamp."
+  },
+  {
+   "group": "Department of the Interior and the Migratory Bird Conservation Commission",
+   "how": "They must set up the new subaccount, use it to acquire conservation easements, and include wetlands and refuge access details in an annual report."
+  },
+  {
+   "group": "Hunters and anglers who use national wildlife refuges",
+   "how": "The annual report must state whether refuge lands are opened or closed for hunting and fishing, which makes that information public."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on December 18, 2014. The summary does not give a separate start date for the higher stamp price or the other provisions.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

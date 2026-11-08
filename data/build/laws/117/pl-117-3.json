@@ -33,5 +33,24 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law removes the five-month SSDI waiting period for certain people with ALS who applied for benefits in the months before the 2019 ALS act took effect.",
+  "what_it_does": "Social Security Disability Insurance usually makes beneficiaries wait five months after becoming disabled before payments start. A 2019 law removed that wait for people with ALS, but only for those who applied on or after December 20, 2020. This bill applies the same removal backward, so people with ALS who applied in the five months before that date no longer have to serve the waiting period. The change is retroactive.",
+  "who_it_affects": [
+   {
+    "group": "People with ALS who applied for SSDI in the five months before December 20, 2020",
+    "how": "They no longer have to wait five months before their disability benefit payments begin."
+   },
+   {
+    "group": "Social Security Administration",
+    "how": "The agency must recalculate and pay benefits for eligible applicants who were previously subject to the waiting period."
+   }
+  ],
+  "when_it_takes_effect": "Signed into law on March 23, 2021, with the change applying retroactively to the December 20, 2020 effective date of the 2019 ALS act.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -1,0 +1,32 @@
+{
+ "headline": "This law extends federal efforts to investigate old civil rights crimes involving deaths, moving the cutoff year from before 1970 to before 1980.",
+ "what_it_does": "It renews the Emmett Till Unsolved Civil Rights Crime Act of 2007 and widens the period covered so the Justice Department and FBI can investigate and prosecute federal civil rights crimes that resulted in a death and happened before 1980, instead of before 1970. It also states Congress's wish that agencies meet regularly with civil rights groups, colleges, and local police, keep families informed, and respond to Freedom of Information Act requests, with documents placed in one public repository. The Justice Department must report to Congress each year on referred cases, charges filed, cases it declined, and reopened cases.",
+ "who_it_affects": [
+  {
+   "group": "Families of victims of unsolved civil rights-era deaths",
+   "how": "They may see federal investigations reach cases from the 1970s that were previously outside the law's time limit, and they are meant to receive regular updates on case status."
+  },
+  {
+   "group": "Justice Department and FBI investigators",
+   "how": "They gain authority to investigate and prosecute qualifying civil rights deaths from 1970 through 1979 and may reopen closed cases without a prior in-person investigation."
+  },
+  {
+   "group": "Civil rights organizations and colleges that research civil rights-era crimes",
+   "how": "They are encouraged to coordinate with the Justice Department, may refer cases to it, and are included in its regular meetings."
+  },
+  {
+   "group": "State and local law enforcement agencies",
+   "how": "They may refer cases to the Justice Department and are invited to meetings about the department's work on these cases."
+  },
+  {
+   "group": "Community Relations Service staff and local communities",
+   "how": "The service is directed to provide technical help bringing police and communities together to address tensions raised by civil rights-era crimes."
+  }
+ ],
+ "when_it_takes_effect": "Enacted December 16, 2016; the text does not state a separate effective date, and the Justice Department's annual reporting duties follow from the act.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

@@ -4350,5 +4350,68 @@
   "House": "D",
   "Senate": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "The Inflation Reduction Act of 2022 sets new federal taxes, drug pricing rules, health coverage changes, and large energy, climate, and environmental spending programs.",
+  "what_it_does": "The law creates a 15% minimum tax on very large corporations and a 1% excise tax on certain stock buybacks. It lets Medicare negotiate prices for some expensive brand-name drugs starting in 2026, caps Medicare out-of-pocket drug costs at $2,000 starting in 2025, and caps insulin copays for Medicare enrollees at $35 a month. It also extends and changes many tax credits for clean energy, electric vehicles, energy-efficient homes, and biofuels, and it provides funding across many agencies for energy, conservation, forestry, climate, and environmental programs.",
+  "who_it_affects": [
+   {
+    "group": "Large domestic corporations",
+    "how": "Corporations with more than $1 billion in average annual adjusted financial statement income may owe a 15% minimum tax starting in tax years after 2022."
+   },
+   {
+    "group": "Publicly traded corporations",
+    "how": "Companies that buy back their own stock after 2022 generally owe a 1% excise tax on the value of the repurchased stock, with several exceptions."
+   },
+   {
+    "group": "Medicare beneficiaries",
+    "how": "Out-of-pocket drug spending is capped at $2,000 a year starting in 2025, and insulin copays are capped at $35 a month."
+   },
+   {
+    "group": "Drug manufacturers of selected brand-name drugs",
+    "how": "They must negotiate Medicare prices for selected high-spending drugs starting in 2026 and pay inflation rebates on certain drugs whose prices rise faster than inflation."
+   },
+   {
+    "group": "Medicaid and CHIP enrollees",
+    "how": "Adult vaccines recommended by the Advisory Committee on Immunization Practices must be covered without cost-sharing."
+   },
+   {
+    "group": "People who buy health insurance on their own",
+    "how": "Premium tax credits are extended through 2025, including for taxpayers with income above 400% of the federal poverty line."
+   },
+   {
+    "group": "Homeowners and renters",
+    "how": "Tax credits for energy-efficient home improvements, residential clean energy, and new energy-efficient homes are extended, and home energy audits may qualify for a credit."
+   },
+   {
+    "group": "Buyers of new and used electric vehicles",
+    "how": "Income limits, price caps, and battery and manufacturing requirements apply to new plug-in vehicle credits, and a new credit covers certain used clean vehicles."
+   },
+   {
+    "group": "Low- and moderate-income households",
+    "how": "State-run rebate programs provide money for whole-house energy retrofits and electrification projects."
+   },
+   {
+    "group": "Farmers, ranchers, and rural small businesses",
+    "how": "USDA programs provide funding for renewable energy systems, energy efficiency projects, and financial help for farms at financial risk."
+   },
+   {
+    "group": "Oil, gas, and mining companies operating on federal land",
+    "how": "Royalty rates, rental rates, bidding standards, and a methane charge are increased or added for federal leases and facilities."
+   },
+   {
+    "group": "Owners of facilities emitting more than 25,000 metric tons of greenhouse gases a year",
+    "how": "They must pay a methane emissions charge if their facility is in a covered petroleum or natural gas industry segment."
+   },
+   {
+    "group": "Federal retirees, veterans, and other federal employees",
+    "how": "No specific provision in the summary directly changes their benefits, so this group is not directly affected by the summarized measures."
+   }
+  ],
+  "when_it_takes_effect": "Effective dates vary by provision: the corporate minimum tax applies to tax years beginning after December 31, 2022, the stock buyback tax applies to repurchases after 2022, the Medicare drug negotiation begins in 2026, the out-of-pocket cap begins in 2025, and many energy tax credits run through 2024 to 2034.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -3524,5 +3524,24 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "This law extends NASA's authority to lease its unused property for one more year, through 2019.",
+  "what_it_does": "NASA can lease out land and buildings it owns that it no longer needs for its own work, and the related equipment that goes with them. This law keeps that leasing power in place through the end of 2019. The summary does not describe any other changes to the leasing rules.",
+  "who_it_affects": [
+   {
+    "group": "NASA",
+    "how": "The agency keeps its authority to lease non-excess real property and related personal property through 2019."
+   },
+   {
+    "group": "Businesses and organizations that might lease NASA property",
+    "how": "They can continue to enter into lease arrangements for NASA property during the extended period."
+   }
+  ],
+  "when_it_takes_effect": "Enacted December 31, 2018, and the extension runs through 2019.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

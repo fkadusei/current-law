@@ -1,0 +1,24 @@
+{
+ "headline": "This law requires federal agencies to post their budget justification materials online in searchable, downloadable form within two weeks of sending them to Congress.",
+ "what_it_does": "Federal agencies must publish the budget justification documents they send to Congress on a single searchable government website, such as USAspending.gov, and on their own agency websites. The materials must be in an open format that lets people download individual reports, download all reports in bulk, or download the results of a search. Posting is due no later than two weeks after the materials are first submitted to Congress. The Office of Management and Budget must also run a public website listing which agencies submit these materials, the dates they were sent to Congress and posted online, and links to the documents.",
+ "who_it_affects": [
+  {
+   "group": "Federal agencies that submit budget justification materials to Congress",
+   "how": "They must post these materials online in an open, searchable format within two weeks of sending them to Congress."
+  },
+  {
+   "group": "The Office of Management and Budget",
+   "how": "It must maintain a public website that tracks the agency submissions, submission and posting dates, and links to the materials."
+  },
+  {
+   "group": "Members of the public, journalists, and researchers",
+   "how": "They can find and download federal budget justification materials online, individually or in bulk, instead of requesting them separately."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on September 24, 2021; the summary does not give a separate effective date, and posting is due within two weeks after each submission to Congress.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

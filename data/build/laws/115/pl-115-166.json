@@ -42,5 +42,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law makes Indian tribes eligible for AMBER Alert grants and helps link tribal alert systems with state systems.",
+  "what_it_does": "It amends the PROTECT Act to renew the AMBER Alert grant program for fiscal year 2019. It adds linking tribal AMBER Alert systems with state systems as a new purpose for the grants. Tribes can now apply for these grants, and grant money can be used to connect state or regional alert plans with a tribe. The Justice Department must also report to Congress on the readiness, training, technology, and other obstacles tribes face in joining these systems.",
+  "who_it_affects": [
+   {
+    "group": "Federally recognized Indian tribes",
+    "how": "Tribes become eligible to receive AMBER Alert grants and may use them to connect with state or regional alert plans."
+   },
+   {
+    "group": "State and regional AMBER Alert programs",
+    "how": "They can use grant funds to coordinate communication plans with neighboring tribes."
+   },
+   {
+    "group": "Families of missing children on tribal lands",
+    "how": "Alerts may reach tribal communities more directly once tribal systems are linked to state systems."
+   },
+   {
+    "group": "Department of Justice",
+    "how": "It must study and report to Congress on the challenges tribes face in joining state alert systems."
+   }
+  ],
+  "when_it_takes_effect": "Enacted April 13, 2018; the grant program reauthorization applies to fiscal year 2019.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

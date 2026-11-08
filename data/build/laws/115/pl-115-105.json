@@ -3519,5 +3519,28 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "This 2018 law changes who can give medical exams to veterans who drive commercial vehicles and lets service members with military driving experience seek exemptions from some federal driving tests.",
+  "what_it_does": "The law amends the FAST Act so that the medical professional who examines and certifies a veteran for operating a commercial motor vehicle must be employed by the Department of Veterans Affairs and licensed, certified, or registered in a state to perform physical exams. It extends commercial driver's license standards that apply to former military members to people who are currently serving in the Armed Forces or reserves. It also lets current service members and reservists who have driven vehicles similar to commercial motor vehicles apply for an exemption from all or part of the federal commercial driving test requirements.",
+  "who_it_affects": [
+   {
+    "group": "Veterans who operate commercial motor vehicles",
+    "how": "They must have their medical certificate issued by a qualified VA medical professional who is also state-licensed for physical exams."
+   },
+   {
+    "group": "Department of Veterans Affairs medical professionals",
+    "how": "They are the professionals who may perform these commercial motor vehicle medical examinations and issue certificates under the law."
+   },
+   {
+    "group": "Current members of the Armed Forces and reserves who drive commercial-type vehicles",
+    "how": "They can apply for commercial driver's license standards that were previously available only to former military members, and they can request an exemption from all or part of the federal driving test requirements based on their military driving experience."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

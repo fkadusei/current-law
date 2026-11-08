@@ -33,5 +33,24 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A new law sets a fixed 10-year term for the head of the Government Publishing Office.",
+  "what_it_does": "The law changes federal code section 44 U.S.C. 301 so that the Director of the Government Publishing Office serves a 10-year term. Before this change, the statute did not set a fixed term for this position. The summary does not describe any other duties, funding, or rules.",
+  "who_it_affects": [
+   {
+    "group": "The Director of the Government Publishing Office",
+    "how": "The person in this job now has a set 10-year term of office."
+   },
+   {
+    "group": "The Government Publishing Office and its staff",
+    "how": "The agency's leadership will be set on a 10-year term instead of an open-ended one."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

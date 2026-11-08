@@ -1,0 +1,36 @@
+{
+ "headline": "The Respect for Marriage Act, signed into law in December 2022, requires the federal government to recognize marriages that are valid under state law, including same-sex and interracial marriages.",
+ "what_it_does": "The law replaces older federal definitions that described marriage as only between a man and a woman. It now recognizes any marriage that is valid under the laws of the state or country where it took place. It also bars denying full faith and credit, or any right or claim tied to an out-of-state marriage, based on sex, race, ethnicity, or national origin. The Justice Department can sue to enforce these rules, and people can also bring their own lawsuits for violations. The law does not change religious liberty or conscience protections, does not require religious groups to provide services for a marriage, and does not recognize marriages with more than two people.",
+ "who_it_affects": [
+  {
+   "group": "Same-sex married couples",
+   "how": "Their marriages are recognized under federal law, which affects federal benefits and rights that depend on marital status."
+  },
+  {
+   "group": "Interracial married couples",
+   "how": "Their marriages are protected under federal law, and states cannot deny recognition of out-of-state marriages based on race."
+  },
+  {
+   "group": "People who married in another state or country",
+   "how": "Their out-of-state marriages must be respected by federal law and cannot be denied recognition based on sex, race, ethnicity, or national origin."
+  },
+  {
+   "group": "State governments and state officials",
+   "how": "They cannot refuse to recognize valid out-of-state marriages on the basis of sex, race, ethnicity, or national origin."
+  },
+  {
+   "group": "Religious organizations",
+   "how": "Their existing religious liberty and conscience protections are not changed, and they are not required to provide goods or services to celebrate a marriage."
+  },
+  {
+   "group": "Federal agencies and the Department of Justice",
+   "how": "They must apply the law's marriage definition in federal programs and may file civil suits to enforce its rules."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on December 13, 2022. The summary does not list a separate later effective date.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

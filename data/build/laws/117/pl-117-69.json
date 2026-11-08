@@ -3533,5 +3533,28 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2021 law requires the VA to train outside maternity doctors on the needs of pregnant and postpartum veterans and orders a federal report on veterans' maternal health.",
+  "what_it_does": "The law directs the Department of Veterans Affairs to set up a maternity care coordination program. Under it, the VA must give training and support to non-VA maternity care providers about the special needs of pregnant and postpartum veterans, especially mental and behavioral health conditions linked to their military service. It also requires the Government Accountability Office to report on maternal deaths and serious pregnancy-related complications among veterans, including differences by race and ethnicity.",
+  "who_it_affects": [
+   {
+    "group": "Pregnant and postpartum veterans",
+    "how": "The VA must help community providers who care for them understand their needs, especially mental and behavioral health needs tied to their service."
+   },
+   {
+    "group": "Community maternity care providers outside the VA",
+    "how": "They can receive training and support from the VA about caring for pregnant and postpartum veterans."
+   },
+   {
+    "group": "Congress and the public",
+    "how": "The GAO report will give data on maternal deaths and severe complications among veterans, broken out by racial and ethnic group."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

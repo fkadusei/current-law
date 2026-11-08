@@ -3535,5 +3535,72 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "A broad 2016 law that changes how the VA handles veterans' benefits claims, appeals, education programs, health care, homelessness services, and construction oversight.",
+  "what_it_does": "This law makes many changes to veterans' programs across several areas. It lets the VA pay certain benefits to survivors of veterans who never filed a claim, if the existing records prove eligibility. It adds reporting requirements, extends the temporary expansion of the Court of Appeals for Veterans Claims to January 1, 2021, and changes education, health care, and homelessness rules. It also requires audits and quarterly reports on large VA construction projects.",
+  "who_it_affects": [
+   {
+    "group": "Survivors of veterans with pending or unfiled VA benefit claims",
+    "how": "They may receive burial, accrued, dependency, or pension benefits without filing a formal claim if the VA records are sufficient."
+   },
+   {
+    "group": "Veterans appealing VA decisions",
+    "how": "The Board of Veterans' Appeals must consider video or in-person hearing options and may let appellants request a different location or hearing type."
+   },
+   {
+    "group": "Surviving spouses of service members who died between September 11, 2001 and December 31, 2005",
+    "how": "They may be treated as if the service member died on January 1, 2006 for Marine Gunnery Sergeant John David Fry scholarship eligibility, and they may revoke a prior irrevocable education benefit election."
+   },
+   {
+    "group": "Post-9/11 GI Bill education applicants and users",
+    "how": "Eligible veterans from older education programs may convert to the Post-9/11 program, and the VA may make an alternative election if an individual's choice is against their interests."
+   },
+   {
+    "group": "Educational institutions that enroll veterans using VA education benefits",
+    "how": "They face annual compliance surveys when at least 20 veterans are enrolled, and they must report academic progress for Post-9/11 beneficiaries."
+   },
+   {
+    "group": "Service-disabled veterans' surviving spouses who take over a small business",
+    "how": "They may count as the veteran for VA service-disabled small business contracting preferences for 3 or 10 years, depending on the veteran's disability and cause of death."
+   },
+   {
+    "group": "VA employees placed on administrative leave",
+    "how": "The VA generally may not place an employee on paid non-duty status for more than 14 days in any 365-day period unless it explains the reasons to Congress."
+   },
+   {
+    "group": "Medal of Honor recipients",
+    "how": "They move to first priority for VA health care enrollment and gain eligibility for certain hospital, nursing home, extended care, and medication services without copayments."
+   },
+   {
+    "group": "Veterans seeking VA hospital care",
+    "how": "They must provide information about other health plan coverage, but the VA may not deny services solely because they do not provide it."
+   },
+   {
+    "group": "Veterans experiencing homelessness or at risk of it",
+    "how": "Veterans or family members fleeing domestic violence or dangerous housing may qualify as homeless veterans, and some discharge and service-length requirements for homeless veterans' benefits are relaxed."
+   },
+   {
+    "group": "Veterans in transitional housing programs",
+    "how": "Per diem payments for certain transitional housing may increase to up to 150% of the state domiciliary care rate."
+   },
+   {
+    "group": "Veterans who may be buried in national or private cemeteries",
+    "how": "They or their families may receive a medallion attached to a private headstone to show veteran status, and Medal of Honor recipients may receive a headstone or replacement that shows that status."
+   },
+   {
+    "group": "VA physicians",
+    "how": "Full-time physicians with irregular schedules may have hours modified upon written request, and the market-pay compensation panels are eliminated."
+   },
+   {
+    "group": "VA medical facility construction contractors and projects over $100 million",
+    "how": "Projects that exceed their initial budget by more than 25%, and the Aurora, Colorado project, must undergo forensic audits, and the VA must send Congress quarterly reports on large projects."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted December 16, 2016. Some provisions have specific dates, such as the Court of Appeals expansion through January 1, 2021, the chief judge changes on or after January 20, 2020, and the education rule changes after January 1, 2017. Other sections take effect on their own terms.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

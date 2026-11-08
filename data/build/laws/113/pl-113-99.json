@@ -36,5 +36,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2014 law protects Green Mountain Lookout in Washington's Glacier Peak Wilderness and orders approval of one Alaska Native veteran's land allotment.",
+  "what_it_does": "The law allows the Forest Service to operate and maintain the Green Mountain Lookout, a fire lookout building in Washington's Glacier Peak Wilderness. The Forest Service may move the lookout only if it finds the move is needed to preserve the building or to keep people safe, and any move must go to a site outside the wilderness area. The law also directs the Interior Department to approve Alaska Native Veteran Allotment application AA-084021-B and issue a patent for 80 acres, granting surface rights only, subject to existing rights and to federal reservation of oil, gas, and coal deposits.",
+  "who_it_affects": [
+   {
+    "group": "Hikers and visitors to the Glacier Peak Wilderness",
+    "how": "The Green Mountain Lookout is protected from being moved unless specific safety or preservation conditions are met."
+   },
+   {
+    "group": "U.S. Forest Service",
+    "how": "The agency must keep the lookout in place unless it makes the required finding, and it is specifically permitted to operate and maintain the structure."
+   },
+   {
+    "group": "The Alaska Native veteran named in application AA-084021-B",
+    "how": "The applicant is directed to receive a patent for 80 acres of federal land in Lot 2, but only for the surface, with the federal government keeping mineral rights."
+   },
+   {
+    "group": "Mineral and energy developers",
+    "how": "The federal government keeps the right to explore and remove oil, gas, and coal on parts of the land that are valuable for development, even after the patent is issued."
+   }
+  ],
+  "when_it_takes_effect": "The law took effect when it was enacted on April 15, 2014. The summary does not list any later start dates.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

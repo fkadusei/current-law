@@ -4376,5 +4376,44 @@
   "House": "R",
   "Senate": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2017 funding law that keeps federal agencies open, sends disaster aid, pauses the debt limit, and sets rules for foreign education aid.",
+  "what_it_does": "Division D is a continuing resolution that funds federal agencies at last year's levels, reduced by 0.6791 percent, through December 8, 2017, so a shutdown does not start October 1. Division B provides $15.25 billion in emergency money to FEMA, the Small Business Administration, and HUD for recovery from Hurricanes Harvey and Irma. Division C suspends the federal debt limit until December 9, 2017, when it rises to cover obligations made during the pause. Division A sets U.S. policy and a five-year strategy for basic education aid in other countries and creates a senior coordinator position at USAID.",
+  "who_it_affects": [
+   {
+    "group": "Federal agencies and their employees",
+    "how": "Agencies get funding at 2017 levels minus 0.6791 percent and may not start new programs that were not funded in 2017 until full spending bills pass."
+   },
+   {
+    "group": "People affected by Hurricanes Harvey and Irma",
+    "how": "Disaster money goes to FEMA's Disaster Relief Fund and HUD's Community Development Block Grant program for response and recovery."
+   },
+   {
+    "group": "Small businesses and homeowners with disaster losses",
+    "how": "The Small Business Administration's Disaster Loans Program receives $450 million."
+   },
+   {
+    "group": "Children and families in developing countries",
+    "how": "Foreign basic education programs must focus on literacy, safe schools, and parent involvement, with extra attention to girls and marginalized groups."
+   },
+   {
+    "group": "Visitors to federal recreation lands",
+    "how": "Federal agencies may keep charging and collecting recreation fees through September 30, 2019."
+   },
+   {
+    "group": "Households with federal flood insurance",
+    "how": "The National Flood Insurance Program authorization is extended."
+   },
+   {
+    "group": "Medicaid-linked children's health coverage enrollees and state CHIP programs",
+    "how": "A funding limit for the State Children's Health Insurance Program's Child Enrollment Contingency Fund is modified, and a rescission from CHIP is made."
+   }
+  ],
+  "when_it_takes_effect": "Signed into law September 8, 2017; the funding continuation and debt limit suspension run through December 8, 2017, and the debt limit increases on December 9, 2017.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

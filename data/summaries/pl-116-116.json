@@ -1,0 +1,32 @@
+{
+ "headline": "This 2020 law requires DHS to set up a strategy, training, performance metrics, and information-sharing rules for its work with state and local fusion centers.",
+ "what_it_does": "The law requires DHS to create a strategy for working with fusion centers, which are collaborations of two or more government agencies that share resources and information to detect and respond to criminal or terrorist activity, and to update that strategy at least every five years. DHS's Office of Intelligence and Analysis must provide staff and support to fusion centers, publish performance metrics for DHS personnel assigned there, and develop training for fusion center staff. DHS intelligence and information offices must also set policies and metrics for the unclassified Homeland Security Information Sharing Network and assess ways to improve it.",
+ "who_it_affects": [
+  {
+   "group": "Fusion center personnel",
+   "how": "They must receive training developed and carried out under the law."
+  },
+  {
+   "group": "DHS personnel assigned to fusion centers",
+   "how": "Their performance will be measured against metrics that DHS must publish."
+  },
+  {
+   "group": "DHS Office of Intelligence and Analysis",
+   "how": "It must provide personnel, support, training, and performance metrics for fusion centers."
+  },
+  {
+   "group": "State, local, and tribal agencies that take part in fusion centers",
+   "how": "They work with DHS under the new strategy, training, and information-sharing rules, though the summary does not describe specific new duties for them."
+  },
+  {
+   "group": "Users of the Homeland Security Information Sharing Network",
+   "how": "DHS must set policies and metrics for the network and assess improvements to it."
+  }
+ ],
+ "when_it_takes_effect": "The law took effect when it was enacted on March 2, 2020, but the summary does not list specific deadlines for the strategy, metrics, or training beyond the five-year update cycle.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

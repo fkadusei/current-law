@@ -3539,5 +3539,44 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2016 law sets security, staffing, reporting, and oversight rules for the State Department and its overseas posts for fiscal year 2017 and beyond.",
+  "what_it_does": "This law covers many State Department topics, including embassy security, staff training, the inspector general's oversight, United Nations peacekeeping policy, Foreign Service personnel rules, consular matters, and some broadcasting and exchange programs. Most sections require the department to write reports, submit plans, or meet specific procedures, and many others state what Congress believes or what U.S. policy is. The law says it does not authorize any new funds to carry it out.",
+  "who_it_affects": [
+   {
+    "group": "Foreign Service officers and other State Department employees",
+    "how": "They face new rules on pay goals, promotion to the Senior Foreign Service, suspension without pay, assignment appeals, and eligibility for retention and relocation bonuses."
+   },
+   {
+    "group": "Staff and families at high risk, high threat posts",
+    "how": "They must receive specified security training, and key personnel must be stationed there for sustained periods."
+   },
+   {
+    "group": "Former Special Inspector General for Iraq Reconstruction employees",
+    "how": "Qualified former employees who were not fired for cause can gain competitive service status for certain federal jobs."
+   },
+   {
+    "group": "Fishermen with U.S.-flagged vessels",
+    "how": "The State Department can reimburse fines and costs from illegal foreign seizure of their boats through October 1, 2018."
+   },
+   {
+    "group": "Applicants to the Charles B. Rangel, Thomas R. Pickering, and Donald M. Payne fellowship programs",
+    "how": "The number of fellows selected for these programs increases beginning in fiscal year 2017."
+   },
+   {
+    "group": "Noncareer Foreign Service employees on limited appointments",
+    "how": "Their appointments can be extended only in certain cases, and reappointment after five years requires at least a one-year break unless waived."
+   },
+   {
+    "group": "Foreign Service employees and contractors who report misconduct or handle security issues",
+    "how": "Certain allegations must be reported to the inspector general within five business days."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on December 16, 2016, and many sections take effect at that time, while others apply starting in fiscal year 2017, on January 1, 2017, or on set later dates such as October 1, 2018 or 2020.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

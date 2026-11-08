@@ -3509,5 +3509,32 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2023 law extends a federal commission on violent crime against American Indians by 18 months and lets it accept outside gifts and donations.",
+  "what_it_does": "The law extends the Joint Commission on Reducing Violent Crime Against Indians, which the Departments of the Interior and Justice run to coordinate efforts against violent crime on Indian lands and against Indians, for 18 more months. It moves the deadline for the commission to publicly release and submit its recommendations from 18 months to 36 months. It also allows the commission to accept and use donated services or property from Indian tribes, tribal entities, academic institutions, and other nonprofit organizations.",
+  "who_it_affects": [
+   {
+    "group": "American Indians and residents of Indian lands",
+    "how": "The commission's work on violent crime in these areas continues for longer, and its recommendations are due later."
+   },
+   {
+    "group": "Indian tribes and tribal entities",
+    "how": "They are allowed to give services or property to the commission."
+   },
+   {
+    "group": "Academic institutions and nonprofit organizations",
+    "how": "They are allowed to give services or property to the commission."
+   },
+   {
+    "group": "Departments of the Interior and Justice",
+    "how": "They receive the commission's recommendations on a 36-month timeline and oversee its continued work."
+   }
+  ],
+  "when_it_takes_effect": "Enacted January 5, 2023; the official summary does not describe a separate effective date.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

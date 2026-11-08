@@ -4331,5 +4331,28 @@
   "House": "D",
   "Senate": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "This law extends the Paycheck Protection Program for small businesses through June 30, 2021, with limits on new applications during the final month.",
+  "what_it_does": "The Paycheck Protection Program, created to help small businesses during the COVID-19 pandemic, was set to end on March 31, 2021. This law pushes the end date to June 30, 2021. During the final 30 days, from June 1 to June 30, the Small Business Administration may only process applications submitted before June 1 and may not accept new loan applications. The law also keeps its budget effects out of certain federal spending-scorecard rules.",
+  "who_it_affects": [
+   {
+    "group": "Small businesses seeking pandemic relief loans",
+    "how": "They can apply for Paycheck Protection Program loans until the program closes, but applications submitted on or after June 1, 2021 will not be accepted."
+   },
+   {
+    "group": "Small Business Administration staff",
+    "how": "They must keep processing already-submitted applications through June 30 but cannot take in new loan applications during June."
+   },
+   {
+    "group": "Lenders participating in the Paycheck Protection Program",
+    "how": "They can continue making program loans through June 30, with the June 1 cutoff for new applications applying to them as well."
+   }
+  ],
+  "when_it_takes_effect": "Upon enactment on March 30, 2021; the extended program runs through June 30, 2021.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

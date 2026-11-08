@@ -3538,5 +3538,32 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "This law directs the VA to issue photo identification cards to eligible veterans who request one, confirming their military service.",
+  "what_it_does": "The Department of Veterans Affairs must issue a veteran's identification card to any requesting veteran who does not receive military retired pay and is not enrolled in the VA health care enrollment system. The card shows the veteran's name and photo and proves that the veteran has a DD-214 or other official record of military service. The VA must charge a fee for the card. The card does not prove a person is entitled to any benefits.",
+  "who_it_affects": [
+   {
+    "group": "Veterans who are not receiving military retired pay",
+    "how": "They can request a VA photo identification card that shows their name and proves they have a military service record."
+   },
+   {
+    "group": "Veterans who are not enrolled in VA health care",
+    "how": "They are eligible to request the card, which is one of the groups the law covers."
+   },
+   {
+    "group": "Veterans who receive military retired pay or are enrolled in VA health care",
+    "how": "They are not covered by this card program, so it does not apply to them under this law."
+   },
+   {
+    "group": "Department of Veterans Affairs",
+    "how": "The agency must set up a process to issue these cards and charge a fee for them."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -4340,5 +4340,28 @@
   "House": "D",
   "Senate": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "Congress used a special review process to cancel a 2021 Equal Employment Opportunity Commission rule that changed how the agency settles discrimination cases with employers.",
+  "what_it_does": "The EEOC had issued a rule changing its conciliation process, the step where the agency tries to settle a discrimination case before going to court. The rule would have required the agency to give employers the factual and legal basis it relied on when it found reasonable cause to believe discrimination occurred. This joint resolution expresses disapproval of that rule under the Congressional Review Act, which stops it from taking effect.",
+  "who_it_affects": [
+   {
+    "group": "Employers facing EEOC discrimination charges",
+    "how": "The rule's requirement to share the agency's legal and factual basis during settlement talks was canceled before it could apply to them."
+   },
+   {
+    "group": "People who file discrimination charges with the EEOC",
+    "how": "The settlement process they rely on stays as it was before the rule, rather than changing under the canceled rule."
+   },
+   {
+    "group": "EEOC staff who handle conciliation",
+    "how": "They continue to follow the existing conciliation procedures instead of the rule that was canceled."
+   }
+  ],
+  "when_it_takes_effect": "The resolution took effect when it was signed into law on June 30, 2021.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

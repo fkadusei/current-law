@@ -1,0 +1,20 @@
+{
+ "headline": "This law changes the federal charter of the National FFA Organization by adding a purpose statement and removing the Secretary of Education as board chair.",
+ "what_it_does": "The National FFA Organization, formerly known as Future Farmers of America, is a group chartered by Congress. This law amends that charter in two ways. It adds a stated purpose for the group to be an integral component of agricultural education. It also removes the Secretary of Education as the chair of the National FFA Board of Directors.",
+ "who_it_affects": [
+  {
+   "group": "National FFA Organization board of directors",
+   "how": "The Secretary of Education no longer serves as the board's chair, so the board sets its own leadership under its charter."
+  },
+  {
+   "group": "Students and teachers in agricultural education programs",
+   "how": "The organization's federal charter now lists its role in agricultural education as a core purpose, though the summary does not describe any day-to-day change."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

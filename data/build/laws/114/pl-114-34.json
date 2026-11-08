@@ -39,5 +39,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2015 law renames the Mulberry, Florida, post office at 2000 Mulford Road after Sergeant First Class Daniel M. Ferguson.",
+  "what_it_does": "This law names a specific United States Postal Service facility in Mulberry, Florida, the Sergeant First Class Daniel M. Ferguson Post Office. It changes only the official name of the building. It does not change how mail is handled, what services the office offers, or who works there.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law took effect when it was enacted on July 20, 2015.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

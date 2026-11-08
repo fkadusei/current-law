@@ -1,0 +1,20 @@
+{
+ "headline": "This law extends for four more years a bankruptcy exemption for National Guard and reserve members who were called to extended active duty after September 11, 2001.",
+ "what_it_does": "It changes the 2008 National Guard and Reservists Debt Relief Act by adding a new four-year period during which qualifying service members are exempt from the means-test presumption of abuse in Chapter 7 bankruptcy. The means test is a formula that can presume a person's Chapter 7 filing is abusive based on income. Eligibility covers members called to active duty or homeland defense activity for at least 90 days, and who remain eligible during the 540 days after that service ends.",
+ "who_it_affects": [
+  {
+   "group": "National Guard members and reservists called to active duty after September 11, 2001",
+   "how": "They may be exempt from the Chapter 7 means test for a longer period, making it easier to file for liquidation bankruptcy under the Bankruptcy Code's standard rules."
+  },
+  {
+   "group": "Bankruptcy courts and Chapter 7 filers",
+   "how": "Courts apply the means-test presumption differently for the eligible service members during the extended period."
+  }
+ ],
+ "when_it_takes_effect": "Enacted December 18, 2015, and applies for an additional four-year period as described in the bill.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

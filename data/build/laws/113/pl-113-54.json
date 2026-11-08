@@ -36,5 +36,40 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2013 federal law that tightens rules on compounded drugs and creates a system to trace prescription drugs through the supply chain.",
+  "what_it_does": "The law sets new federal oversight for compounding pharmacies and outsourcing facilities that make custom drugs. Registered outsourcing facilities must report what they make, submit adverse event reports, face risk-based inspections, and pay fees. Separately, it requires drug makers, wholesalers, dispensers, and repackagers to pass along transaction records and mark packages so prescription drugs can be traced, with package-level tracing starting ten years after enactment. It also sets federal licensing standards for wholesalers and third-party logistics providers and overrides certain state and local rules on those topics.",
+  "who_it_affects": [
+   {
+    "group": "Compounding pharmacies and outsourcing facilities",
+    "how": "They must register annually, report compounded drugs and adverse events, accept inspections, and pay establishment and reinspection fees if they operate as registered outsourcing facilities."
+   },
+   {
+    "group": "Drug manufacturers",
+    "how": "They must affix product identifiers to packages and provide transaction history at each change of ownership."
+   },
+   {
+    "group": "Wholesale drug distributors and third-party logistics providers",
+    "how": "They must verify trading partners, investigate suspect products, handle illegitimate products, and meet new federal licensing standards."
+   },
+   {
+    "group": "Pharmacies and dispensers",
+    "how": "They must keep transaction information and, once package-level tracing begins, meet additional tracing requirements, with a possible exemption route for dispensers with 25 or fewer full-time employees."
+   },
+   {
+    "group": "Patients who receive compounded or prescription drugs",
+    "how": "Compounded drugs must meet new safety and labeling rules, and the law aims to make it easier to trace and recall tainted or counterfeit medicines."
+   },
+   {
+    "group": "State boards of pharmacy",
+    "how": "They must send the federal government reports on disciplinary actions, recalls, and concerns about compounding pharmacies."
+   }
+  ],
+  "when_it_takes_effect": "Enacted November 27, 2013; the compounding provisions and many supply chain provisions took effect on the timelines set in the law, and package-level tracing requirements take effect ten years after enactment, around November 2023.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

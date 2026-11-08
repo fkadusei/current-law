@@ -36,5 +36,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "The STORM Act lets FEMA fund state and tribal hazard mitigation loan funds that help local governments pay for disaster-risk reduction projects.",
+  "what_it_does": "The law allows FEMA to make capitalization grants to states and Indian tribal governments so they can set up hazard mitigation revolving loan funds. These funds provide money to local governments for projects that reduce disaster risks. The law also lets FEMA use waivers and a pilot program until it finishes final rules, and it limits FEMA's liability for certain discretionary decisions. GAO must later report to Congress on how the program is run and whether it works.",
+  "who_it_affects": [
+   {
+    "group": "State and tribal governments",
+    "how": "They may enter agreements with FEMA to receive capitalization grants for setting up hazard mitigation revolving loan funds."
+   },
+   {
+    "group": "Local governments",
+    "how": "They may be able to borrow from these state or tribal loan funds to carry out projects that reduce disaster risks."
+   },
+   {
+    "group": "Homeowners, businesses, and nonprofit organizations",
+    "how": "They may benefit indirectly if local mitigation projects that reduce disaster risk are funded in their communities."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on January 1, 2021, but the summary does not give a specific start date for the loan fund program itself; it says FEMA may run a pilot program until final regulations are issued.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

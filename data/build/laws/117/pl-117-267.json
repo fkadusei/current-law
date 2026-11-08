@@ -36,5 +36,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2022 law directs the Interior Department to hold about 55 acres in Arizona in trust for the Gila River Indian Community, adding it to the reservation.",
+  "what_it_does": "The law tells the Department of the Interior to take roughly 55.3 acres of land at the Blackwater Trading Post in Pinal County, Arizona, into trust. This happens only if the Gila River Indian Community first transfers all of its ownership interest in the land to Interior. Once in trust, the land becomes part of the community's reservation. The law also bars gaming, such as casino-style gambling, on the land.",
+  "who_it_affects": [
+   {
+    "group": "Gila River Indian Community",
+    "how": "The community gains the land as part of its reservation after it transfers its ownership interest to the federal government."
+   },
+   {
+    "group": "Department of the Interior",
+    "how": "The department must take the land into trust for the community if the transfer condition is met."
+   },
+   {
+    "group": "Residents and businesses near the Blackwater Trading Post",
+    "how": "The land's status changes from community-owned to federal trust land within the reservation, and gaming there is not allowed."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on December 27, 2022, and the land transfer takes place once the community conveys its interest in the land to Interior.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

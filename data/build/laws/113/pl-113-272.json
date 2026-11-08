@@ -33,5 +33,40 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2014 federal law that sets out U.S. policy on Ukraine, authorizes sanctions on certain Russian and foreign actors, and authorizes aid, broadcasting, and energy programs.",
+  "what_it_does": "The law states that it is U.S. policy to help Ukraine restore its sovereignty and territorial integrity. It requires the President to impose at least three sanctions on certain Russian defense firms, including Rosoboronexport, and on people who support them, and it allows sanctions on investors in certain Russian oil projects and on foreign banks that knowingly help sanctioned Russian parties. It also authorizes military training and defense articles for Ukraine, energy and democracy assistance, and Russian-language broadcasting, and it says the law does not authorize the use of military force.",
+  "who_it_affects": [
+   {
+    "group": "Russian defense companies such as Rosoboronexport and firms that do business with them",
+    "how": "They face required U.S. sanctions if they transfer or sell defense articles to Syria or into certain countries without consent."
+   },
+   {
+    "group": "Foreign banks and financial institutions",
+    "how": "They can lose the ability to open or keep U.S. correspondent or payable-through accounts if they knowingly handle significant transactions for sanctioned persons."
+   },
+   {
+    "group": "Investors in certain Russian crude oil projects",
+    "how": "The President may impose sanctions on people who knowingly make significant investments in special Russian crude oil projects."
+   },
+   {
+    "group": "Ukraine's government and defense sector",
+    "how": "The law authorizes U.S. defense equipment, services, and training, and directs help with energy security and anti-corruption efforts."
+   },
+   {
+    "group": "Internally displaced people in Ukraine",
+    "how": "The Secretary of State must submit a plan to Congress to protect and assist them."
+   },
+   {
+    "group": "Russian-speaking audiences in former Soviet countries",
+    "how": "The Broadcasting Board of Governors must plan to increase Russian-language broadcasts, prioritizing Ukraine, Georgia, and Moldova."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on December 18, 2014. Many sanctions end if the President certifies to Congress that Russia has stopped directing or supporting significant acts that undermine Ukraine's peace, sovereignty, or territorial integrity. Appropriations authority runs for specific fiscal years, mainly FY2015 through FY2018.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -36,5 +36,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2016 law asks the President each year to call on Americans to observe two minutes of silence on Veterans Day to honor veterans.",
+  "what_it_does": "The law directs the President to issue a yearly proclamation calling on people in the United States to observe two minutes of silence on Veterans Day. The silence begins at 3:11 p.m. Atlantic standard time. The purpose is to honor the service and sacrifice of veterans throughout the nation's history.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law was enacted on October 7, 2016, and the yearly proclamation applies on each Veterans Day after that.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

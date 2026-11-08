@@ -1,0 +1,32 @@
+{
+ "headline": "This 2016 law reaffirms the federal government's trust duty to tribes and changes how the Interior Department manages Indian trust assets and related offices.",
+ "what_it_does": "The law lets tribes propose their own plans for managing trust assets through a demonstration project run by the Interior Department. Approved plans can let a tribe approve some land leases and forest management activities without Interior's sign-off, and the United States is not liable for losses from those activities. The law also lets Interior create an Under Secretary for Indian Affairs, requires a plan to wind down the Office of the Special Trustee for American Indians, and sets one administrative entity and minimum qualifications for trust property appraisals.",
+ "who_it_affects": [
+  {
+   "group": "Federally recognized tribes",
+   "how": "Tribes may propose their own trust asset management plans and, if approved, carry out certain leases and forest management work without first getting Interior's approval."
+  },
+  {
+   "group": "Individuals who own land held in trust by the federal government",
+   "how": "Management of their trust land may change under tribal plans and the new appraisal rules, and the United States is not liable for certain losses from approved activities."
+  },
+  {
+   "group": "Businesses that lease tribal or trust land",
+   "how": "Surface leases made under an approved tribal plan may be signed without Interior's approval, which could change how these leases are arranged."
+  },
+  {
+   "group": "Staff of the Office of the Special Trustee for American Indians",
+   "how": "Their office's functions are to be moved to another Interior agency under a transition plan and timetable that Interior must prepare."
+  },
+  {
+   "group": "Appraisers and valuation professionals",
+   "how": "Anyone who prepares appraisals of Indian trust property must meet minimum qualifications set by Interior, and a qualified appraisal is treated as final without Interior review."
+  }
+ ],
+ "when_it_takes_effect": "The summary does not give specific effective dates for most provisions. The law was enacted on June 22, 2016, and Interior must carry out several steps, such as setting up the demonstration project and preparing a transition plan, on timelines set in the law's text.",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

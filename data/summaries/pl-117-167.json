@@ -1,0 +1,40 @@
+{
+ "headline": "The CHIPS and Science Act of 2022 provides funding to boost U.S. computer chip manufacturing and authorizes spending and programs at federal science agencies.",
+ "what_it_does": "The law creates several funds to support semiconductor (computer chip) production in the United States, including grants for building and equipping chip factories and a 25% tax credit for certain advanced manufacturing facilities. It also authorizes research, workforce, and facility programs at the Department of Energy, the National Institute of Standards and Technology, NASA, and the National Science Foundation. Many provisions direct these agencies to create new programs, studies, or reports on topics such as quantum computing, microelectronics, clean energy, biotechnology, and research security. Division C provides supplemental funding for Supreme Court security.",
+ "who_it_affects": [
+  {
+   "group": "Semiconductor and equipment manufacturers",
+   "how": "Companies that build, equip, or package chips in the United States may be eligible for federal grants and a 25% investment tax credit for qualifying facilities."
+  },
+  {
+   "group": "Researchers and graduate students in science and engineering",
+   "how": "Federal science agencies are directed to fund research, fellowships, traineeships, and training programs, and graduate students may receive a higher cost-of-education allowance under the NSF fellowship program."
+  },
+  {
+   "group": "Small, minority-owned, women-owned, and veteran-owned businesses",
+   "how": "Commerce must set up activities in its chip incentive program to include these businesses, and NIST and NSF programs are directed to support small manufacturers and small business participation in standards work."
+  },
+  {
+   "group": "Community college and minority-serving institution students and faculty",
+   "how": "Several NSF and NIST programs are directed to fund or recruit at community colleges, Historically Black Colleges and Universities, Tribal Colleges and Universities, and other minority-serving institutions."
+  },
+  {
+   "group": "Universities and nonprofit research institutions receiving federal research funds",
+   "how": "New rules require research security training, foreign talent recruitment certifications, and disclosure of certain foreign funding of $50,000 or more, and NSF applicants must include data management and ethics plans."
+  },
+  {
+   "group": "Companies and entities of concern tied to certain foreign countries",
+   "how": "Entities of concern are barred from receiving or performing work under many covered federal research and support programs, subject to a national-interest waiver by the Department of Energy."
+  },
+  {
+   "group": "Rural communities and rural schools",
+   "how": "Federal STEM education, broadband prize, and research programs are directed to focus on rural students, teachers, and institutions."
+  }
+ ],
+ "when_it_takes_effect": "Most provisions took effect on the date of enactment, August 9, 2022, but many programs have their own start dates, funding periods, and reporting deadlines set out in the text.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

@@ -39,5 +39,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Names a Bronx, New York Postal Service building after former Congressman Herman Badillo.",
+  "what_it_does": "This law renames the Postal Service facility at 442 East 167th Street in the Bronx as the \"Herman Badillo Post Office Building.\" It is an honorary designation and does not change how the post office operates. Mail service, staffing, and hours are not changed by this law.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law took effect when it was enacted on July 20, 2015.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

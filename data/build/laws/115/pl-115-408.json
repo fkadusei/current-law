@@ -3531,5 +3531,28 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "This law extends and revises a federal grant program for state offices of rural health through fiscal year 2022.",
+  "what_it_does": "It amends the Public Health Service Act to reauthorize the grant program for state offices of rural health through fiscal year 2022. It changes the program so that HHS must make these grants, instead of merely being allowed to. It also changes the matching fund requirements, though the summary does not give the details.",
+  "who_it_affects": [
+   {
+    "group": "State offices of rural health",
+    "how": "These offices can keep receiving federal grants under a program that is now extended through fiscal year 2022 and made mandatory for HHS to fund."
+   },
+   {
+    "group": "Department of Health and Human Services",
+    "how": "HHS must now make these grants rather than having discretion over whether to make them."
+   },
+   {
+    "group": "Residents of rural areas",
+    "how": "They may be affected indirectly through the state rural health offices that receive these grants, but the summary does not describe specific services or benefits."
+   }
+  ],
+  "when_it_takes_effect": "Enacted December 31, 2018; the grant program is reauthorized through fiscal year 2022.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

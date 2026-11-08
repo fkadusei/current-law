@@ -39,5 +39,36 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This 2016 law removes or changes several reporting and review duties that Congress had assigned to the Government Accountability Office (GAO).",
+  "what_it_does": "The law ends some GAO review and report requirements, including reviews of certain audit bills, a Medicare supplemental premium study, a FEMA disaster dispute pilot report, and a transportation intelligence survey. It changes how often GAO must report on the Troubled Asset Relief Program and adds reports in 2022 and 2024 on conflict mineral disclosures. It also moves a duty to assist a review panel on health care dispute grants from GAO to the Department of Health and Human Services.",
+  "who_it_affects": [
+   {
+    "group": "Government Accountability Office",
+    "how": "GAO no longer has to complete several reviews and reports it was previously required to produce, and it has new reporting deadlines in some areas."
+   },
+   {
+    "group": "Department of Health and Human Services",
+    "how": "HHS takes over the job of providing information, staff, and administrative help to a review panel on state grants for alternatives to malpractice lawsuits."
+   },
+   {
+    "group": "Medicare beneficiaries who buy supplemental policies",
+    "how": "A required GAO study on how Medicare supplemental premiums relate to hospital outpatient coinsurance changes is eliminated."
+   },
+   {
+    "group": "Entities that receive federal disaster or transportation security funds",
+    "how": "A required GAO report on a FEMA alternative dispute pilot for disputes of $1 million or more and a biennial survey of transportation intelligence report recipients are eliminated."
+   },
+   {
+    "group": "Companies and people affected by conflict mineral rules",
+    "how": "GAO's annual reporting on Dodd-Frank conflict mineral disclosures ends after 2020, replaced by reports due in 2022 and 2024."
+   }
+  ],
+  "when_it_takes_effect": "The law took effect when it was signed on December 16, 2016, though some changes set their own later dates, such as the 2022 and 2024 reports and the December 31, 2023 deadline.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

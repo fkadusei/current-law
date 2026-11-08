@@ -1,0 +1,56 @@
+{
+ "headline": "Congress funded much of the federal government for fiscal year 2020 and extended many expiring programs, tax breaks, and rules in one large bill.",
+ "what_it_does": "This law provides fiscal year 2020 funding for eight of the twelve regular federal spending bills, covering agencies such as Labor, HHS, Education, Agriculture, FDA, Energy, Interior, EPA, Legislative Branch, Veterans Affairs, State, and Transportation and HUD. It also includes many separate divisions that extend expiring programs, change tobacco sales rules, adjust retirement plan rules, and extend certain tax provisions. The summary provided covers the bill at a high level, so many details in each division are not described here.",
+ "who_it_affects": [
+  {
+   "group": "Federal employees and agencies in the covered departments",
+   "how": "Their agencies receive fiscal year 2020 funding under the eight included appropriations acts."
+  },
+  {
+   "group": "Veterans",
+   "how": "The Department of Veterans Affairs receives funding, and a division requires a VA report on whether to add diseases to the herbicide exposure presumption list."
+  },
+  {
+   "group": "Young people who buy tobacco",
+   "how": "The minimum age to buy tobacco products rises from 18 to 21, and the FDA must issue updated rules within 180 days."
+  },
+  {
+   "group": "Workers and retirement plan savers",
+   "how": "Changes raise the automatic contribution cap to 15%, move required distributions to age 72, and allow some penalty-free withdrawals for births or adoptions."
+  },
+  {
+   "group": "Families of children with taxable unearned income",
+   "how": "Unearned income of children is taxed at the parents' marginal rate rather than at trust and estate rates."
+  },
+  {
+   "group": "Coal miners and their retirees",
+   "how": "Treasury must transfer funds to pension and health plans, and the annual transfer limit rises from $490 million to $750 million."
+  },
+  {
+   "group": "Homeowners with mortgage debt or mortgage insurance",
+   "how": "Certain tax treatments for mortgage debt relief and mortgage insurance premiums are extended through 2020."
+  },
+  {
+   "group": "Flood insurance policyholders",
+   "how": "The National Flood Insurance Program is extended through September 30, 2020."
+  },
+  {
+   "group": "Students and families in the D.C. Opportunity Scholarship Program",
+   "how": "The program is reauthorized through FY2023 to provide scholarships for low-income students."
+  },
+  {
+   "group": "Cable and satellite TV subscribers",
+   "how": "Rules on broadcast retransmission, billing transparency, and equipment charges are set or changed."
+  },
+  {
+   "group": "Small businesses that export",
+   "how": "The Export-Import Bank is reauthorized through 2026, with a required share of its support directed to small businesses."
+  }
+ ],
+ "when_it_takes_effect": "Most provisions took effect upon enactment on December 20, 2019, with many dates set in fiscal year 2020 or later and some tax provisions running through 2020 or beyond.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

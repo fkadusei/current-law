@@ -3533,5 +3533,28 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2020 law lets the Department of Veterans Affairs run grants for cemetery research and educational materials tied to the Veterans Legacy Program.",
+  "what_it_does": "The law allows the VA to set up a grant program that funds research about veterans buried in national, state, or tribal veterans' cemeteries. The grants also pay for educational materials. The goal named in the summary is to give the public ways to learn about and engage with these veterans. The VA must also report to Congress on how well the grant program works.",
+  "who_it_affects": [
+   {
+    "group": "Veterans and their families",
+    "how": "The program focuses on veterans buried in national, state, and tribal cemeteries, and their stories may be shared through research and educational materials."
+   },
+   {
+    "group": "Museums, universities, and nonprofit organizations",
+    "how": "These groups could apply for VA grants to conduct cemetery research or produce educational materials."
+   },
+   {
+    "group": "The general public",
+    "how": "People may gain access to educational materials and engagement opportunities about veterans interred in these cemeteries."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on January 17, 2020. The summary does not give a specific effective date for the grant program.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -1,0 +1,28 @@
+{
+ "headline": "This law overhauls how veterans appeal VA disability claim decisions, creating three review options and new notice and evidence rules.",
+ "what_it_does": "The law changes the process veterans use to challenge Department of Veterans Affairs disability claim decisions. Veterans can now pick one of three paths within one year: a higher-level review of the same evidence, a supplemental claim where they can add new evidence and get a hearing, or a direct appeal to the Board of Veterans' Appeals with different evidence and hearing options. The VA must also send clearer decision notices that explain the laws used and how to get the evidence, and it must report to Congress and publish updates on how existing and new appeals are handled.",
+ "who_it_affects": [
+  {
+   "group": "Veterans filing VA disability claims",
+   "how": "They must choose among three appeal options within one year of a decision, each with different rules on new evidence and hearings."
+  },
+  {
+   "group": "Veterans who appeal VA decisions",
+   "how": "They may hire attorneys and accredited agents who charge fees once the VA issues the original decision notice."
+  },
+  {
+   "group": "Veterans with pending appeals",
+   "how": "Their cases may be handled under the old or the updated system, depending on VA's transition plan and dockets."
+  },
+  {
+   "group": "Department of Veterans Affairs and Board of Veterans' Appeals",
+   "how": "They must issue new decision notices, follow new evidence and docket rules, certify resources to Congress, and publish appeal processing information."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on August 23, 2017, but the updated appeals system takes effect only after the VA certifies to Congress that it has enough resources and staff, so the start date depends on that certification.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

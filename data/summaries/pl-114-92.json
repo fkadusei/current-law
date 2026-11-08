@@ -1,0 +1,40 @@
+{
+ "headline": "The FY2016 NDAA sets defense spending authorizations, troop levels, pay and health policies, acquisition rules, and military construction plans for the 2016 fiscal year.",
+ "what_it_does": "This law authorizes money the Defense Department and Energy Department's nuclear security programs may spend in fiscal year 2016, but it does not appropriate the money itself. It sets active-duty and reserve troop strength limits, changes military pay, bonuses, retirement, and health care rules, and adds many rules on weapons buying, contracting, and oversight. It also authorizes military construction projects and bars an additional base closure round.",
+ "who_it_affects": [
+  {
+   "group": "Active-duty and reserve service members",
+   "how": "The law sets their authorized force sizes, changes basic housing allowance rules, and creates new options for a blended retirement system starting in 2018 for those who opt in or join later."
+  },
+  {
+   "group": "Military retirees and survivors",
+   "how": "The law changes retired pay and survivor benefit rules, including lump-sum payment options and a new spouse beneficiary election under the Survivor Benefit Plan."
+  },
+  {
+   "group": "TRICARE beneficiaries",
+   "how": "The law changes some TRICARE rules, such as pharmacy cost-sharing, access standards, and a pilot program for urgent care without pre-authorization."
+  },
+  {
+   "group": "Sexual assault victims in the military",
+   "how": "The law expands Special Victims' Counsel services, including to some civilian DOD employees, and adds notice and privacy protections for victims."
+  },
+  {
+   "group": "Defense contractors and small businesses",
+   "how": "The law changes acquisition rules, contract thresholds, commercial item rules, and small business contracting programs that these firms must follow."
+  },
+  {
+   "group": "Guantanamo Bay detainees and their families",
+   "how": "The law bars the use of defense funds to transfer or release detainees to the United States or to certain countries, and to close the facility."
+  },
+  {
+   "group": "Communities near military installations and construction contractors",
+   "how": "The law authorizes specified military construction and land projects, and changes several local land and facility transfer rules."
+  }
+ ],
+ "when_it_takes_effect": "Most provisions took effect upon enactment on November 25, 2015, with fiscal year 2016 funding rules applying through September 30, 2016, and some changes set for later dates such as January 1, 2018.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

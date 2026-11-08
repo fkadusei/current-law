@@ -1,0 +1,24 @@
+{
+ "headline": "This law sets rules for who temporarily runs the District of Columbia's Office of Chief Financial Officer when that position is empty.",
+ "what_it_does": "When the D.C. Chief Financial Officer dies, resigns, or cannot do the job, the D.C. Treasurer, who is a Deputy CFO, must step in as acting CFO. The Mayor may instead choose another Deputy CFO to serve as acting CFO. An acting CFO can serve no more than 210 days after the vacancy starts, and a person must have served as Treasurer or Deputy CFO for at least 90 days in the year before the vacancy to be eligible.",
+ "who_it_affects": [
+  {
+   "group": "District of Columbia residents",
+   "how": "They are affected indirectly because the rules decide who leads the office that manages the District's finances during a vacancy."
+  },
+  {
+   "group": "The D.C. Treasurer and other Deputy CFOs",
+   "how": "The Treasurer is named as the default acting CFO, and other Deputy CFOs may be chosen by the Mayor and must meet the 90-day service requirement."
+  },
+  {
+   "group": "The D.C. Mayor",
+   "how": "The Mayor may choose another Deputy CFO to serve as acting CFO instead of the Treasurer."
+  }
+ ],
+ "when_it_takes_effect": "Enacted May 1, 2013; the summary does not state a separate effective date.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

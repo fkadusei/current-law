@@ -1,0 +1,28 @@
+{
+ "headline": "This law extends and expands the federal earthquake hazards reduction program through fiscal year 2023 and adds new mapping, resilience, and early-warning work.",
+ "what_it_does": "The law reauthorizes the National Earthquake Hazards Reduction Program through fiscal year 2023 and widens its scope. It asks agencies to collect information on how communities prepare for and recover from earthquakes, publish detailed hazard maps, and keep developing the Advanced National Seismic System, including earthquake early warning. It also updates the program's findings to name Puerto Rico, Oregon, and Tennessee as areas with seismic risk, revises duties for NIST, FEMA, USGS, and the National Science Foundation, and requires a GAO review, an expert committee on seismic safety standards, and a USGS five-year management plan for the seismic system.",
+ "who_it_affects": [
+  {
+   "group": "Residents of earthquake-prone areas, including Puerto Rico, Oregon, and Tennessee",
+   "how": "Federal earthquake hazard maps and early warning work are expected to expand, and these areas are now named in the law as facing seismic risk."
+  },
+  {
+   "group": "Local emergency managers and community planners",
+   "how": "FEMA and other agencies are directed to gather information on community resilience that may inform local preparedness and recovery planning."
+  },
+  {
+   "group": "Engineers, builders, and building code officials",
+   "how": "A federal expert committee will assess and recommend options for improving seismic safety standards."
+  },
+  {
+   "group": "Federal agencies such as NIST, FEMA, USGS, and the National Science Foundation",
+   "how": "Each agency has revised or added earthquake-related duties under the program."
+  }
+ ],
+ "when_it_takes_effect": "Enacted December 11, 2018; the program authorization runs through fiscal year 2023.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

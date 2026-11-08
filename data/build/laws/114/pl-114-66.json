@@ -39,5 +39,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Names a New Jersey post office in Waldwick after Staff Sergeant Joseph D'Augustine.",
+  "what_it_does": "This law renames the U.S. Postal Service facility at 1 Walter Hammond Place in Waldwick, New Jersey. The building will be officially called the \"Staff Sergeant Joseph D'Augustine Post Office Building.\" It is a ceremonial change that honors the named person and does not change how the post office operates.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law was enacted on October 7, 2015, and the name change took effect on that date.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -1,0 +1,20 @@
+{
+ "headline": "Requires the FDA to promote education for health care providers about biological products and biosimilars, including continuing education programs.",
+ "what_it_does": "This law directs the Food and Drug Administration to work on educating health care providers about biological products, which are medicines made from living sources. It specifically calls for continuing education programs on how to prescribe biological products and biosimilars. A biosimilar is a biological product that is highly similar to an FDA-approved reference product, with no clinically meaningful differences. The FDA may also run a website with educational materials on these products.",
+ "who_it_affects": [
+  {
+   "group": "Health care providers such as doctors, nurses, and pharmacists",
+   "how": "They may have access to FDA-supported continuing education programs about prescribing biological products and biosimilars."
+  },
+  {
+   "group": "Patients who take biological medicines",
+   "how": "Their providers may receive more information about biological products and biosimilars, though the law does not directly change their coverage or costs."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

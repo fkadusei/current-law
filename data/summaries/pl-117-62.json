@@ -1,0 +1,28 @@
+{
+ "headline": "A 2021 law requires the Department of Veterans Affairs to translate its fact sheets into more languages, post them on a central website, and report to Congress on their use.",
+ "what_it_does": "The VA must make all of its fact sheets available in English, Spanish, Tagalog, and the 10 most commonly spoken languages not already listed. The VA must also create a public website with links to all of its fact sheets. Finally, the VA must report to Congress on how the fact sheets are used and on the details of its Language Access Plan.",
+ "who_it_affects": [
+  {
+   "group": "Veterans and family members who read languages other than English",
+   "how": "They can get VA fact sheets in Spanish, Tagalog, and ten other common languages and find them through a public website."
+  },
+  {
+   "group": "Veterans and family members who need VA information online",
+   "how": "They can find links to all VA fact sheets in one publicly available place."
+  },
+  {
+   "group": "Department of Veterans Affairs staff",
+   "how": "The agency must translate its fact sheets, build and maintain the website, and prepare reports for Congress."
+  },
+  {
+   "group": "Members of Congress and congressional committees",
+   "how": "They will receive VA reports on fact sheet use and the Language Access Plan."
+  }
+ ],
+ "when_it_takes_effect": "Signed into law on November 22, 2021; the official summary does not list specific compliance deadlines.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

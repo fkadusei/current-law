@@ -1,0 +1,48 @@
+{
+ "headline": "Public Law 115-97, the Tax Cuts and Jobs Act, changes federal income, business, estate, and exempt-organization tax rules, mostly starting with tax year 2018.",
+ "what_it_does": "The law replaces the seven individual income tax brackets with four, raises the standard deduction, and ends the personal exemption. It increases the child tax credit, caps the mortgage interest and state and local tax deductions, and repeals several other deductions and credits. It also lowers the corporate tax rate to a flat 20%, repeals the alternative minimum tax, and doubles the estate and gift tax exemption to $10 million. The official summary describes the earlier House-passed version of the bill, so some final details may differ.",
+ "who_it_affects": [
+  {
+   "group": "Taxpayers who itemize deductions",
+   "how": "Their deductions for state and local property taxes, medical expenses, and home equity loan interest are limited or repealed, while the standard deduction is larger."
+  },
+  {
+   "group": "Families with children under age 17",
+   "how": "The child tax credit rises to $1,600 per child, with a phase-out at higher incomes and a refundable portion limited to $1,000 per child."
+  },
+  {
+   "group": "Homeowners with new mortgages",
+   "how": "Interest on new mortgage debt is deductible only up to $500,000 for a principal residence, and interest on home equity loans is no longer deductible."
+  },
+  {
+   "group": "Owners of pass-through businesses such as sole proprietorships, partnerships, and S corporations",
+   "how": "Qualified business income may be taxed at a maximum rate of 25%, with reduced rates and thresholds for certain small businesses."
+  },
+  {
+   "group": "C corporations",
+   "how": "The corporate income tax rate drops to a flat 20%, and changes apply to tax years beginning after 2017."
+  },
+  {
+   "group": "Businesses with significant interest expenses",
+   "how": "Their deduction for business interest is generally limited to business interest income plus 30% of adjusted taxable income, with exceptions for certain small businesses."
+  },
+  {
+   "group": "Estates of very large size and people making large gifts",
+   "how": "The estate and gift tax exemption doubles to $10 million, and the estate and generation-skipping transfer taxes are repealed for deaths after December 31, 2024."
+  },
+  {
+   "group": "Students and parents paying college costs",
+   "how": "The Lifetime Learning credit and several education deductions are repealed, and the American Opportunity credit can be claimed for five years."
+  },
+  {
+   "group": "Taxpayers with alternative minimum tax liability",
+   "how": "The individual and corporate alternative minimum taxes are repealed."
+  }
+ ],
+ "when_it_takes_effect": "Many individual changes apply starting with tax year 2018, and most business changes apply to tax years beginning after 2017. Some provisions have their own dates, such as the $300 family credit expiring after 2022 and the estate tax repeal for deaths after December 31, 2024.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

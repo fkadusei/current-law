@@ -3532,5 +3532,28 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2018 law directs U.S. Customs and Border Protection to add chemical screening devices and staff to detect illegal opioids and other drugs entering the country.",
+  "what_it_does": "The law requires Customs and Border Protection to increase the number of chemical screening devices its officers can use to find fentanyl, other synthetic opioids, and other narcotics. The screening covers drugs brought in through the mail and through express delivery carriers. The agency must also assign enough staff, including scientists, to interpret the data from these devices during all hours of operation. The law authorizes funding for these resources.",
+  "who_it_affects": [
+   {
+    "group": "Customs and Border Protection officers",
+    "how": "They are to receive more chemical screening devices and scientific support to help them identify illegal drugs."
+   },
+   {
+    "group": "Mail and express shipping companies",
+    "how": "Packages entering the country through these carriers may be subject to more chemical screening."
+   },
+   {
+    "group": "People receiving mail or express shipments from abroad",
+    "how": "Packages they receive from overseas may be more likely to be screened for illegal drugs."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on January 10, 2018, and the summary does not list a separate effective date or deadline.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

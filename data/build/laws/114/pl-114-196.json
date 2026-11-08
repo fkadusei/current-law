@@ -36,5 +36,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law creates a federal commission to plan and coordinate commemorations leading up to the 250th anniversary of the United States in 2026.",
+  "what_it_does": "It sets up the United States Semiquincentennial Commission to plan and coordinate events and observances about U.S. history ahead of the 250th anniversary of the nation's founding. The Commission must prepare an overall commemoration program and favor events held at places of historical significance. The Department of the Interior must study how to preserve and develop historic sites and battlefields so they can host observances, and other federal cultural agencies must cooperate. The Commission ends on December 31, 2027.",
+  "who_it_affects": [
+   {
+    "group": "Members of the public interested in U.S. history",
+    "how": "They may see commemorative events, exhibits, and observances planned by the Commission at historic locations."
+   },
+   {
+    "group": "Operators and managers of historic sites and battlefields",
+    "how": "The Interior Department must study what preservation and development steps could help these sites host observances during the celebration."
+   },
+   {
+    "group": "Foreign nations",
+    "how": "The Secretary of State coordinates how foreign countries take part in the celebration."
+   },
+   {
+    "group": "Nonprofit organizations",
+    "how": "Interior must seek, through a competitive process, a nonprofit to serve as the Commission's secretariat, handling its offices, funds, and administrative services."
+   }
+  ],
+  "when_it_takes_effect": "Enacted July 22, 2016; the Commission terminates on December 31, 2027.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

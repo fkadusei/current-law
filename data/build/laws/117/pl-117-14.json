@@ -36,5 +36,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2021 law temporarily lets certain foreign-owned cruise ships carry passengers between Washington and Alaska without stopping in Canada, and requires defibrillators on passenger vessels.",
+  "what_it_does": "For a short window, specific foreign-owned and foreign-flagged cruise ships may carry passengers between Washington and Alaska ports without a stop in a foreign country. The trip counts as a foreign voyage only if the operator emails U.S. Customs and Border Protection and Canada Border Services Agency the names of alien crew members holding nonimmigrant work visas, the voyage starts by February 28, 2022, and the operator holds a CDC COVID-19 Conditional Sailing Certificate and follows its rules. The authority ends March 31, 2022, or earlier if Canada lifts its COVID-related restrictions, and no voyages may run while the CDC suspends cruise operations. The bill also directs the Department of Transportation to write rules requiring automated external defibrillators on passenger vessels, including cruise ships.",
+  "who_it_affects": [
+   {
+    "group": "Foreign-owned and foreign-flagged cruise ship operators",
+    "how": "Eligible operators may run Washington-to-Alaska trips without a Canadian stop if they meet the email, certificate, and CDC rules, and only until the set deadlines."
+   },
+   {
+    "group": "Alien crew members holding nonimmigrant work visas",
+    "how": "Their names must be sent to U.S. Customs and Border Protection and Canada Border Services Agency during each eligible voyage."
+   },
+   {
+    "group": "Passengers on Washington-to-Alaska cruises",
+    "how": "Eligible sailings could run directly between the two states during the temporary window, without a stop in Canada."
+   },
+   {
+    "group": "Operators of passenger vessels, including cruise ships",
+    "how": "Future Department of Transportation rules would require automated external defibrillators aboard their vessels."
+   }
+  ],
+  "when_it_takes_effect": "Enacted May 24, 2021. Eligible voyages must begin by February 28, 2022, and the voyage authority ends March 31, 2022, or sooner if Canada lifts its COVID restrictions. The summary does not give a date for the defibrillator requirement, which depends on future Department of Transportation rules.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

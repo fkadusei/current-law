@@ -1,0 +1,40 @@
+{
+ "headline": "A 2013 law extends several expiring veterans programs, including housing, homeless services, Paralympic support, and VA copayment rules, for a short period.",
+ "what_it_does": "This law keeps several Department of Veterans Affairs and related programs running past their scheduled end dates. It extends the veterans copayment charges for hospital and nursing home care, certain homeless veteran programs, and specially adapted housing assistance. It also pays a monthly allowance to some disabled veterans training for the Paralympic Team and extends grants for adaptive sports programs. It also temporarily lets the VA use National Directory of New Hires data to check some benefit applicants' employment income.",
+ "who_it_affects": [
+  {
+   "group": "Veterans who receive hospital or nursing home care from the VA",
+   "how": "Their copayment rules continue, so they may owe $10 per day for hospital care and $5 per day for nursing home care through FY2014."
+  },
+  {
+   "group": "Disabled veterans training for or selected to the Paralympic Team",
+   "how": "They may receive a monthly assistance allowance during months they train or compete in USOC-sanctioned events or live at a USOC training center."
+  },
+  {
+   "group": "Homeless veterans and veterans at risk of homelessness",
+   "how": "Federal reintegration, counseling, supportive housing, and special-needs grant programs continue with funding through the extended dates."
+  },
+  {
+   "group": "Disabled veterans who need specially adapted housing",
+   "how": "Their eligibility for this housing assistance continues through FY2014, with a cap of 30 approvals in FY2014 for veterans who served on or after September 11, 2001."
+  },
+  {
+   "group": "Veterans with guaranteed housing or small business loans in default",
+   "how": "The VA can keep using its method for calculating the net value of property securing the defaulted loan through FY2014."
+  },
+  {
+   "group": "Veterans pension and certain VA benefit applicants and recipients under age 65",
+   "how": "For 180 days, the VA may use federal new-hire employment data to deny, reduce, or end certain benefits, but only after independently verifying employment and income information."
+  },
+  {
+   "group": "US Olympic and territorial Olympic committees, including those for American Samoa, Guam, Puerto Rico, the Northern Mariana Islands, and the US Virgin Islands",
+   "how": "They remain eligible for grants to run integrated adaptive sports programs for disabled veterans and disabled service members through the extended period."
+  }
+ ],
+ "when_it_takes_effect": "Effective October 1, 2013, except the Paralympic allowance provision, which took effect September 30, 2013.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

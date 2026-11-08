@@ -36,5 +36,40 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law officially creates a Department of Homeland Security program called the Blue Campaign to coordinate the agency's work against human trafficking.",
+  "what_it_does": "The law adds the Blue Campaign to the Homeland Security Act of 2002 and names it as the department's effort to unify and coordinate work on human trafficking. The campaign director must issue department-wide guidance, build training, and make sure trafficking victims can quickly reach support services. The law also requires DHS to link its information technology systems that track people suspected or convicted of trafficking, and to report to Congress on the campaign's status and effectiveness.",
+  "who_it_affects": [
+   {
+    "group": "Human trafficking victims",
+    "how": "The campaign is meant to give victims prompt access to support service providers and help with immediate and long-term needs, using trauma-informed practices."
+   },
+   {
+    "group": "DHS employees and officials",
+    "how": "They must receive guidance and training on spotting trafficking, collecting and recording information, and sharing it with other agencies."
+   },
+   {
+    "group": "Transportation Security Administration employees",
+    "how": "TSA workers are to be trained to identify suspected trafficking victims and serve as a resource for aviation workers and the traveling public."
+   },
+   {
+    "group": "Border and airport security personnel",
+    "how": "They are to receive techniques for identifying suspected victims at the U.S. border and at airport security checkpoints."
+   },
+   {
+    "group": "Federal, state, tribal, and local law enforcement agencies",
+    "how": "They may receive guidance and training and take part in routine information sharing with DHS about suspected traffickers and trafficking patterns."
+   },
+   {
+    "group": "Aviation workers and private sector partners",
+    "how": "The campaign is to work with state, local, nonprofit, and private organizations on training and public awareness efforts."
+   }
+  ],
+  "when_it_takes_effect": "The law took effect when it was enacted on February 14, 2018.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -4362,5 +4362,20 @@
   "House": "D",
   "Senate": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "Despite its title, this law raises the federal government's borrowing limit by $480 billion, signed October 14, 2021.",
+  "what_it_does": "The law increases the statutory debt limit, which is the maximum amount the federal government can borrow. It does not, by itself, spend money or create new programs. The official summary is brief, so details beyond the debt limit increase are not described here.",
+  "who_it_affects": [
+   {
+    "group": "Holders of federal debt, such as investors who buy Treasury securities",
+    "how": "A higher debt limit allows the Treasury to issue more federal debt to cover obligations Congress has already approved."
+   }
+  ],
+  "when_it_takes_effect": "On enactment, October 14, 2021.",
+  "ceremonial": false,
+  "confidence": "low",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

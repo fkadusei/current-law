@@ -1,0 +1,20 @@
+{
+ "headline": "A 2016 law lets the U.S. prosecute certain federal employees and contractors stationed in Canada for conduct that would be a federal crime in the United States.",
+ "what_it_does": "The law changes the federal criminal code so that certain U.S. personnel working in Canada can be charged in the United States. The conduct must be something that would be a federal crime if it happened in the U.S. The law covers Department of Homeland Security and Department of Justice employees, contractors, and contractor employees who are stationed in Canada under a border security initiative. The summary does not describe any other changes.",
+ "who_it_affects": [
+  {
+   "group": "Department of Homeland Security and Department of Justice employees stationed in Canada under a border security initiative",
+   "how": "They can be prosecuted in the United States for conduct in Canada that would be a federal crime if committed in the U.S."
+  },
+  {
+   "group": "Contractors and contractor employees stationed in Canada under a border security initiative",
+   "how": "They can be prosecuted in the United States for conduct in Canada that would be a federal crime if committed in the U.S."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on December 16, 2016. The official summary does not describe a separate later start date.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

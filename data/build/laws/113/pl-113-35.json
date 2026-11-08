@@ -3534,5 +3534,28 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "This 2013 law directs the Interior Department to transfer about 67 acres of federal land to Mississippi and adjusts the Natchez Trace Parkway boundary.",
+  "what_it_does": "The Secretary of the Interior must give Mississippi all federal interest in two parcels totaling about 67 acres, by quitclaim deed and at no cost. The deed for the bean field property, southeast of U.S. Route 61/84, must keep an easement that limits its use to uses compatible with the Parkway. The Parkway boundary is redrawn to leave out the transferred land and to add about 10 acres identified as a proposed addition.",
+  "who_it_affects": [
+   {
+    "group": "State of Mississippi",
+    "how": "The state receives about 67 acres of federal land at no charge, with the bean field property subject to a use-restriction easement."
+   },
+   {
+    "group": "Visitors to the Natchez Trace Parkway",
+    "how": "The Parkway's boundary changes, removing the conveyed land and adding about 10 acres."
+   },
+   {
+    "group": "National Park Service and the Department of the Interior",
+    "how": "The department must carry out the land conveyance and update the Parkway's boundary."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

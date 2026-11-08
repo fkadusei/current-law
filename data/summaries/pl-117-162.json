@@ -1,0 +1,24 @@
+{
+ "headline": "Directs the Treasury to mint commemorative coins honoring the National World War II Memorial, with sale surcharges going to a support group for the memorial.",
+ "what_it_does": "The law tells the Department of the Treasury to produce up to 50,000 $5 coins, 400,000 $1 silver coins, and 750,000 half-dollar clad coins. The coin designs are to reflect the memorial and the service and sacrifice of American soldiers and civilians in World War II. All surcharges from coin sales are paid to the Friends of the National World War II Memorial, which uses them to support National Park Service upkeep and repairs of the memorial and for educational and commemorative programs.",
+ "who_it_affects": [
+  {
+   "group": "People who buy the commemorative coins",
+   "how": "They can purchase these special-design coins, and the surcharge added to their price goes to the memorial's support group."
+  },
+  {
+   "group": "The Friends of the National World War II Memorial",
+   "how": "It receives the surcharges collected from coin sales to fund memorial programs."
+  },
+  {
+   "group": "Visitors to the National World War II Memorial in Washington, D.C.",
+   "how": "Surcharge money may help pay for the memorial's maintenance, repairs, and educational programs."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

@@ -1,0 +1,28 @@
+{
+ "headline": "Creates the Amache National Historic Site in Colorado to preserve the story of Japanese American incarceration and military service during World War II.",
+ "what_it_does": "The law establishes Amache, also called the Granada Relocation Center, as a unit of the National Park System in Colorado. The site will protect resources tied to the incarceration of Japanese American civilians there and the military service of people held at the camp. The site does not officially exist until the Department of the Interior determines it has enough land to manage, and then it must publish notice in the Federal Register. Interior may acquire land within the Camp Amache National Historic Landmark only by donation, and must write a general management plan and may work with other groups on facilities and water infrastructure for the town of Granada.",
+ "who_it_affects": [
+  {
+   "group": "Town of Granada, Colorado",
+   "how": "The town keeps access to areas needed to run and maintain its water infrastructure, and may be allowed to build or install new water systems in limited areas, and may donate unused water systems and water rights to the site."
+  },
+  {
+   "group": "Former incarcerees and their descendants",
+   "how": "The site is designed to preserve and interpret the history of people held at the camp and their military service."
+  },
+  {
+   "group": "Landowners within the Camp Amache National Historic Landmark",
+   "how": "Interior may only obtain land from them through donation, not purchase or condemnation, and any land it does receive becomes part of the historic site."
+  },
+  {
+   "group": "National Park Service and Department of the Interior",
+   "how": "The department must establish the site once enough land is acquired, prepare a general management plan, and may enter agreements with public or private partners for facilities and services."
+  }
+ ],
+ "when_it_takes_effect": "The law took effect on enactment, March 18, 2022, but the historic site is not officially established until Interior determines enough land has been acquired and publishes notice in the Federal Register.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

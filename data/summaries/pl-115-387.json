@@ -1,0 +1,24 @@
+{
+ "headline": "This law creates a new Countering Weapons of Mass Destruction Office inside the Department of Homeland Security and moves some existing offices into it.",
+ "what_it_does": "The law amends the Homeland Security Act of 2002 to set up a Countering Weapons of Mass Destruction Office at DHS, led by an Assistant Secretary who advises the department on weapons of mass destruction issues. The office coordinates DHS plans to prevent, detect, and protect against unauthorized chemical, biological, radiological, or nuclear materials and devices. It requires a Securing the Cities program to detect nuclear or radiological threats in high-risk urban areas, and it creates a Chief Medical Officer to advise DHS on medical and public health matters. DHS must also transfer the personnel, budget, and assets of the Domestic Nuclear Detection Office and the Office of Health Affairs to the new office.",
+ "who_it_affects": [
+  {
+   "group": "Employees of the Domestic Nuclear Detection Office and the Office of Health Affairs",
+   "how": "Their positions, budgets, and assets are moved into the new Countering Weapons of Mass Destruction Office."
+  },
+  {
+   "group": "High-risk urban areas",
+   "how": "They become the focus of the Securing the Cities program, which is designed to detect nuclear or radiological threats."
+  },
+  {
+   "group": "Department of Homeland Security",
+   "how": "It must set up the new office, appoint an Assistant Secretary and a Chief Medical Officer, and coordinate weapons of mass destruction strategy through the office."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on December 21, 2018; the summary does not give a separate effective date for the office's creation or the transfers.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

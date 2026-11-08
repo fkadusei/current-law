@@ -36,5 +36,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Congress reappointed David M. Rubenstein to serve again as a citizen regent on the Smithsonian Institution's Board of Regents.",
+  "what_it_does": "This joint resolution renews the appointment of David M. Rubenstein as one of the citizen regents who help govern the Smithsonian Institution. The Smithsonian's Board of Regents includes members of Congress, the Vice President, the Chief Justice, and private citizens chosen by Congress. The measure is a personnel action and does not change any laws or spending rules.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law took effect when it was enacted on April 7, 2015.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

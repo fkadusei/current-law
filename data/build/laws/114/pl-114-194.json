@@ -39,5 +39,20 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law extends, through December 31, 2019, the requirement that the President sanction individuals in Venezuela who are responsible for human rights violations.",
+  "what_it_does": "The law amends the Venezuela Defense of Human Rights and Civil Society Act of 2014. It keeps in place the rules that require the President to impose sanctions on people in Venezuela who are responsible for human rights violations. The extension runs through December 31, 2019. The official summary does not list the specific sanctions or the names of targeted people.",
+  "who_it_affects": [
+   {
+    "group": "Individuals in Venezuela found responsible for human rights violations",
+    "how": "They remain subject to required U.S. sanctions until the extended authority expires on December 31, 2019."
+   }
+  ],
+  "when_it_takes_effect": "Enacted July 15, 2016; the extended sanctions requirement runs through December 31, 2019.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

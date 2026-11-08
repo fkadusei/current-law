@@ -1,0 +1,28 @@
+{
+ "headline": "This law requires the VA to test an online and app-based appointment scheduling system for veterans and to confirm that scheduling systems meet set standards.",
+ "what_it_does": "The VA must run an 18-month pilot in at least three VISNs (regional VA health networks) where veterans can book, change, and confirm VA medical appointments online or by mobile app. The VA must pick a contractor through competitive bidding for a commercially available scheduling system with features such as real-time availability, reuse of canceled slots, reminders, 24/7 access, and support for telehealth. An outside nonprofit with health IT expertise must help verify that these systems have the required features, the GAO must review those checks, and the VA must certify compliance by December 31, 2017.",
+ "who_it_affects": [
+  {
+   "group": "Veterans who use VA health care",
+   "how": "They may be able to schedule, change, and cancel VA appointments online or through a mobile app during the pilot in participating regions."
+  },
+  {
+   "group": "VA medical facilities and staff in the pilot regions",
+   "how": "They must take part in a new online scheduling system and help run the pilot."
+  },
+  {
+   "group": "Commercial companies that sell online patient scheduling software",
+   "how": "They may compete for the VA contract if their off-the-shelf system has the required features."
+  },
+  {
+   "group": "Nonprofit health information technology organizations",
+   "how": "They may be hired by the VA to independently check and verify that scheduling systems meet the law's requirements."
+  }
+ ],
+ "when_it_takes_effect": "The VA must begin the 18-month pilot program after enactment on December 16, 2016, and must certify its scheduling systems by December 31, 2017.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

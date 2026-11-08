@@ -39,5 +39,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This 2018 law sets U.S. strategy for the Indo-Pacific region and authorizes about $1.5 billion a year in funding through 2023 for security, economic, and democracy programs.",
+  "what_it_does": "The law lays out U.S. goals for the Indo-Pacific region, which stretches from India's west coast to the U.S. West Coast. It names China's actions in the South China Sea, North Korea's nuclear program, and terrorist groups in Southeast Asia as main concerns. It authorizes funding for the State Department, the U.S. Agency for International Development, and the Defense Department, along with separate amounts for cybersecurity, economic engagement, and democracy programs. Some funds are barred from being used for military training in Burma (Myanmar).",
+  "who_it_affects": [
+   {
+    "group": "Partner nations in the Indo-Pacific region",
+    "how": "They may receive U.S. funding for defense, counterterrorism, cybersecurity, economic, and governance programs, with some restrictions such as no military training for Burma's armed forces."
+   },
+   {
+    "group": "Members of the Association of Southeast Asian Nations",
+    "how": "The law directs work toward a broader U.S. economic engagement framework with this regional group."
+   },
+   {
+    "group": "Democracy and civil society groups in the region, including in China and Tibet",
+    "how": "The law authorizes money to promote democracy, human rights, and rule of law, and says funds should support efforts in China and cultural preservation in Tibet."
+   },
+   {
+    "group": "Staff at the State Department, USAID, and Defense Department",
+    "how": "These agencies are authorized to receive and spend the appropriated funds on the listed goals."
+   }
+  ],
+  "when_it_takes_effect": "Funding authorizations apply to each fiscal year from 2019 through 2023.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

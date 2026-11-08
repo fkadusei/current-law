@@ -1,0 +1,28 @@
+{
+ "headline": "A 2014 law that requires federal spending data to be published online in standard, searchable formats and sets rules for how agencies report that data.",
+ "what_it_does": "The law expands the 2006 federal spending transparency law so that federal spending information is posted on USASpending.gov in a searchable, downloadable form, with monthly updates when practicable and at least quarterly after that. The Treasury Department and the Office of Management and Budget must set government-wide financial data standards, and the OMB must review reporting requirements for grant and contract recipients to find duplication and reduce paperwork. The law also directs inspectors general and the GAO to check the accuracy of agency data, and it requires agencies to refer overdue non-tax debts of more than 120 days to Treasury for collection offset.",
+ "who_it_affects": [
+  {
+   "group": "Federal agencies",
+   "how": "They must submit spending data that meets the new government-wide standards and must have their inspectors general sample and report on the completeness and accuracy of that data."
+  },
+  {
+   "group": "Recipients of federal contracts, grants, and loans",
+   "how": "The OMB must study their reporting requirements and run a two-year pilot aimed at standardizing reports and cutting duplicate paperwork and compliance costs."
+  },
+  {
+   "group": "Taxpayers and the public",
+   "how": "They can look up federal spending details on USASpending.gov in a searchable, downloadable format."
+  },
+  {
+   "group": "People and businesses owing non-tax federal debts",
+   "how": "Debts more than 120 days past due must be referred to the Treasury Department so it can offset them, such as against other federal payments."
+  }
+ ],
+ "when_it_takes_effect": "Enacted May 9, 2014; the Treasury data posting requirement applies within three years of enactment, and the pilot program runs for two years after it is set up.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

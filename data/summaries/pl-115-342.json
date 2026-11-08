@@ -1,0 +1,28 @@
+{
+ "headline": "This law replaces a heart-defect tracking program with a federal duty to expand research, data collection, and public awareness on congenital heart disease.",
+ "what_it_does": "The law changes the Public Health Service Act so that HHS must enhance and expand research, surveillance, and awareness of congenital heart disease, which is a heart defect present at birth. HHS must give grants to nonprofit groups to study the condition across all ages, including how common it is, how often people use health care for it, and demographic factors. The information collected must be made available to the public, and HHS must report on the research and other activities it conducts on the condition.",
+ "who_it_affects": [
+  {
+   "group": "People born with congenital heart disease",
+   "how": "They may benefit indirectly from expanded research and public data on how the condition affects people across all ages."
+  },
+  {
+   "group": "Families and caregivers of people with congenital heart disease",
+   "how": "They gain access to publicly available information the federal studies collect about the condition."
+  },
+  {
+   "group": "Nonprofit organizations",
+   "how": "Nonprofit entities can apply for HHS grants to conduct the required studies of congenital heart disease."
+  },
+  {
+   "group": "Department of Health and Human Services",
+   "how": "HHS must award the grants, make the collected information public, and submit reports on its congenital heart disease activities."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

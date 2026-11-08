@@ -1,0 +1,32 @@
+{
+ "headline": "This law bars federal money from buying telecom gear from companies deemed national security risks and sets up a fund to help small carriers replace that equipment.",
+ "what_it_does": "The law creates a way to block communications equipment or services that pose a national security risk from entering U.S. networks. The Federal Communications Commission must publish and keep updated a list of those prohibited items. It also bans the use of certain federal funds to buy such equipment or services, and requires each communications provider to report yearly to the FCC on whether it has obtained any listed equipment, with a detailed justification if so. A reimbursement program helps small providers, those with 2 million or fewer customers, cover the cost of removing prohibited equipment and replacing it.",
+ "who_it_affects": [
+  {
+   "group": "Small communications providers with 2 million or fewer customers",
+   "how": "They can apply for federal funds to offset the cost of removing prohibited equipment and installing more secure replacements."
+  },
+  {
+   "group": "All communications providers",
+   "how": "They must submit an annual report to the FCC saying whether they bought, rented, leased, or otherwise obtained any prohibited equipment or services, and explain why if they did."
+  },
+  {
+   "group": "Companies that make or supply communications equipment or services",
+   "how": "Products from companies found to pose national security risks can be placed on the FCC list and cannot be bought with certain federal funds."
+  },
+  {
+   "group": "Federal agencies and grant recipients using federal funds",
+   "how": "They are barred from using certain federal funds to obtain equipment or services from companies that pose national security risks."
+  },
+  {
+   "group": "Trusted communications providers and suppliers",
+   "how": "They can take part in a National Telecommunications and Information Administration program that shares information about supply chain security risks."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on March 12, 2020; the summary does not give specific deadlines for the FCC list or the first annual reports.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

@@ -1,0 +1,28 @@
+{
+ "headline": "This 2019 law requires yearly U.S. reports on Hong Kong's autonomy and export-control compliance, and it lets the government sanction officials tied to human rights abuses there.",
+ "what_it_does": "The law asks the State Department each year to decide whether Hong Kong is autonomous enough from China to keep its special treatment under U.S. law, and to explain issues such as elections, extradition, judicial independence, and civil liberties. The Commerce Department must report on whether China uses Hong Kong to get around U.S. export controls and sanctions. The President must list people responsible for human rights abuses in Hong Kong, who are then barred from entering the United States and face sanctions. The law also bars the State Department from denying work or student visas to qualified Hong Kong residents because of politically motivated actions against them by the Hong Kong government.",
+ "who_it_affects": [
+  {
+   "group": "Hong Kong residents seeking U.S. work or student visas",
+   "how": "The State Department may not deny an otherwise qualified applicant a visa solely because the Hong Kong government took politically motivated action against them."
+  },
+  {
+   "group": "Current and former Hong Kong and Chinese officials named as responsible for human rights abuses",
+   "how": "They are barred from entering the United States and are subject to U.S. sanctions if placed on the list."
+  },
+  {
+   "group": "Exporters and businesses dealing in dual-use or controlled items",
+   "how": "Commerce Department reporting on re-exports and transshipment through Hong Kong may lead to closer scrutiny of trade routes."
+  },
+  {
+   "group": "U.S. citizens and businesses in Hong Kong",
+   "how": "If Hong Kong enacts laws risking extradition to mainland China, the President must report on a strategy to protect them."
+  }
+ ],
+ "when_it_takes_effect": "Enacted November 27, 2019; the reporting requirements apply on an annual basis after enactment.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

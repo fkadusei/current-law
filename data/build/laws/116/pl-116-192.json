@@ -33,5 +33,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law lets older Revolving Loan Fund grant recipients ask the Economic Development Administration to drop federal reporting strings after seven years instead of twenty.",
+  "what_it_does": "Revolving Loan Fund grants give money to groups that lend to businesses that cannot get regular bank loans. Before this law, the federal government kept an interest in those grants and the grantee had to keep reporting for up to 20 years. Under this law, a qualifying grantee can request release of the federal interest once at least seven years have passed since the final grant payment, and the Economic Development Administration must grant that request.",
+  "who_it_affects": [
+   {
+    "group": "Organizations that received Revolving Loan Fund grants from the Economic Development Administration",
+    "how": "They can ask to be released from federal reporting requirements seven years after their final grant payment instead of waiting 20 years after the award."
+   },
+   {
+    "group": "Businesses that cannot get traditional bank financing",
+    "how": "Their access to loans from Revolving Loan Fund lenders may be affected indirectly if grantees choose to end federal oversight and change how they run their lending programs."
+   },
+   {
+    "group": "Economic Development Administration",
+    "how": "The agency must release its federal interest in qualifying grants when a grantee makes a timely request."
+   }
+  ],
+  "when_it_takes_effect": "Upon enactment on October 30, 2020, with release available for requests made at least seven years after a grant's final disbursement.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

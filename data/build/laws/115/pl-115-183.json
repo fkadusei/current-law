@@ -36,5 +36,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Renames the VA medical center in Huntington, West Virginia, after Medal of Honor recipient Hershel \"Woody\" Williams.",
+  "what_it_does": "This law changes the official name of the Department of Veterans Affairs medical center in Huntington, West Virginia, to the Hershel \"Woody\" Williams VA Medical Center. It honors Hershel Williams, a Marine who received the Medal of Honor for his service in World War II. The law does not change the center's services, staffing, or budget.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "Upon enactment on June 15, 2018.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

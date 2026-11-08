@@ -42,5 +42,40 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law renews and expands federal efforts to fight human trafficking, including victim funding, law enforcement training, data collection, and tougher penalties.",
+  "what_it_does": "The law reauthorizes the Domestic Trafficking Victims' Fund and a court assessment on certain convicted offenders, and it requires mandatory restitution for transportation for illegal sexual activity. It directs the Department of Homeland Security and the Department of Justice to issue guidance and training on investigating trafficking, including treating commercial sex with a minor as a trafficking offense and limiting arrests of victims for crimes they were forced to commit. It also raises maximum prison terms for some trafficking-related offenses, adds a 10-year enhanced sentence for gang members who commit them, and expands wiretap authority in these cases. Finally, it sets up Human Trafficking Coordinators, adds data reporting requirements, and creates statutory authority for the HERO Child-Rescue Corps program, which trains wounded or injured veterans to fight child exploitation.",
+  "who_it_affects": [
+   {
+    "group": "Victims of human trafficking",
+    "how": "They may receive federal grant-funded services, and the law directs officials to limit arresting or prosecuting trafficking victims for crimes committed because of their victimization."
+   },
+   {
+    "group": "People convicted of human trafficking, sexual exploitation, or related offenses",
+    "how": "They face possible mandatory restitution, court assessments, longer maximum prison terms, and a 10-year enhanced sentence if they are gang members."
+   },
+   {
+    "group": "Law enforcement officers and prosecutors",
+    "how": "They must receive training and follow new federal guidance and screening protocols when investigating trafficking cases."
+   },
+   {
+    "group": "Wounded, ill, and injured veterans and other military members",
+    "how": "The HERO Child-Rescue Corps program authorizes them to be recruited, trained, and employed to combat child exploitation."
+   },
+   {
+    "group": "Organizations that provide adult entertainment and profit from the commercial sex trade",
+    "how": "Federal funds cannot be used for any program that funds or supports them."
+   },
+   {
+    "group": "Federal judicial districts and federal agencies",
+    "how": "Each district must designate at least one Human Trafficking Coordinator, and agencies must report hotline referrals."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on December 21, 2018. Some provisions have their own deadlines or funding periods, such as reauthorizations through fiscal years 2021 and 2023, and the summary does not give a single effective date for all sections.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

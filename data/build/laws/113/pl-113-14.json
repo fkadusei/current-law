@@ -3533,5 +3533,28 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "Extends the FDA's authority to collect fees from makers of animal drugs and generic animal drugs through fiscal year 2018.",
+  "what_it_does": "The law lets the Food and Drug Administration keep collecting user fees tied to reviewing and approving animal drugs and generic animal drugs for fiscal years 2014 through 2018. It sets how much money these fees can raise, what share comes from each fee type, and when annual payments are due, which is the later of January 31 or the first business day after a spending bill for that year is enacted. It also adds a 50% fee rule for certain generic combination products and requires the FDA to keep reporting to Congress on its review goals. The fee authority ends October 1, 2018.",
+  "who_it_affects": [
+   {
+    "group": "Companies that sponsor or seek approval for new animal drugs",
+    "how": "They continue to pay FDA application, product, establishment, and sponsor fees under the set revenue limits and payment schedule."
+   },
+   {
+    "group": "Companies that make or seek approval for generic animal drugs",
+    "how": "They continue to pay generic application, product, and sponsor fees, and combination generic drugs made from separately approved ingredients may pay half the normal application fee."
+   },
+   {
+    "group": "Livestock owners, veterinarians, and pet owners who use animal drugs",
+    "how": "The fee system funds FDA review of the animal drugs they rely on, and the law requires FDA reports to Congress on review performance."
+   }
+  ],
+  "when_it_takes_effect": "The fee authority covers fiscal years 2014 through 2018 and ends October 1, 2018.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

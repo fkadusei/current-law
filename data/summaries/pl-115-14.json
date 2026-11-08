@@ -1,0 +1,20 @@
+{
+ "headline": "Congress used a disapproval resolution in 2017 to cancel a 2016 Education Department rule on how teacher preparation programs are assessed.",
+ "what_it_does": "This joint resolution overturns a rule the Department of Education finalized on October 31, 2016, called \"Teacher Preparation Issues.\" The rule set requirements for judging the quality of teacher preparation programs under Title II of the Higher Education Act of 1965. Because of this resolution, the rule does not take effect.",
+ "who_it_affects": [
+  {
+   "group": "Teacher preparation programs at colleges and universities",
+   "how": "The federal quality-assessment requirements in the canceled rule no longer apply to them."
+  },
+  {
+   "group": "State education agencies",
+   "how": "They do not have to carry out the assessment requirements that the canceled rule would have set."
+  }
+ ],
+ "when_it_takes_effect": "The resolution took effect when it was signed into law on March 27, 2017.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

@@ -3530,5 +3530,32 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "This law requires hospitals to tell Medicare patients in observation status, in writing and in plain language, what that status means for their costs and nursing home coverage.",
+  "what_it_does": "The law amends Medicare rules for hospitals and critical access hospitals that have agreements with the federal government. If a patient gets observation services as an outpatient for more than 24 hours, the hospital must give them a notice within 36 hours after observation begins. The notice must explain that the patient is an outpatient, not an inpatient, and why. It must also explain how that status affects costs, including cost-sharing, and whether later skilled nursing facility care will be covered. The notice must be plain language, available in appropriate languages, and signed by the patient or their representative, or by hospital staff if the patient refuses to sign.",
+  "who_it_affects": [
+   {
+    "group": "Medicare patients receiving observation services at hospitals",
+    "how": "They must receive a written notice explaining their outpatient status and what it means for their costs and future nursing home coverage."
+   },
+   {
+    "group": "Hospitals and critical access hospitals with Medicare agreements",
+    "how": "They must provide the required notice within 36 hours and have a staff member or the patient or representative sign it."
+   },
+   {
+    "group": "Family members or representatives acting for patients",
+    "how": "They may be asked to sign the notice on the patient's behalf to confirm receipt."
+   },
+   {
+    "group": "Skilled nursing facilities",
+    "how": "Patients who receive the notice may better understand how observation status affects whether Medicare covers their later nursing facility stays."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

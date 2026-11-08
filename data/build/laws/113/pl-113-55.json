@@ -42,5 +42,40 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law renews and updates federal programs on premature births, creates a pediatric research network, and changes how the government cares for chimpanzees used in NIH research.",
+  "what_it_does": "Title I reauthorizes federal research and education on preterm births, directs CDC to study and track them, gives telehealth grant preference for prenatal care for high-risk pregnancies, and replaces an older interagency council with a possible advisory committee. Title II lets NIH fund pediatric research consortia that share findings and run multisite trials, especially for rare pediatric and birth-defect conditions. Title III revises the sanctuary system for chimpanzees owned by NIH, sets declining funding amounts for FY2014 through FY2018, and requires GAO and NIH reports on costs and chimpanzee status.",
+  "who_it_affects": [
+   {
+    "group": "Pregnant people with high-risk pregnancies",
+    "how": "Telehealth grant programs are directed to favor projects that build networks providing prenatal care for them."
+   },
+   {
+    "group": "Families of premature infants in neonatal intensive care units",
+    "how": "Federal demonstration projects may fund education on infant treatment outcomes and informational needs during NICU stays."
+   },
+   {
+    "group": "Health care providers",
+    "how": "Federally supported programs may give them information on preterm labor risk factors and evidence-based birth injury prevention."
+   },
+   {
+    "group": "Pediatric researchers and academic institutions",
+    "how": "Groups of cooperating institutions may apply for NIH funding for five-year pediatric research consortia."
+   },
+   {
+    "group": "Families affected by pediatric rare diseases or birth defects",
+    "how": "NIH must ensure some consortium awards go to work on these conditions, including multisite clinical trials."
+   },
+   {
+    "group": "Chimpanzees owned or controlled by NIH and their sanctuary operators",
+    "how": "Funding for their lifetime care is set to decline over FY2014 to FY2018, and the Secretary decides which other facilities receive funds."
+   }
+  ],
+  "when_it_takes_effect": "Upon enactment on November 27, 2013, with some funding and reporting provisions running through fiscal years 2014 to 2018.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

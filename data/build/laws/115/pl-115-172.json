@@ -4326,5 +4326,28 @@
   "House": "R",
   "Senate": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "Congress passed a resolution on May 21, 2018, to cancel a 2017 Consumer Financial Protection Bureau rule on fair lending for car loans arranged through dealers.",
+  "what_it_does": "This resolution uses the Congressional Review Act to overturn a rule from the Consumer Financial Protection Bureau about indirect auto lending. Indirect auto lending is when a car dealer arranges a loan from a third-party lender. The rule gave guidance on following the Equal Credit Opportunity Act, which bars lenders from discriminating in credit decisions. With this resolution, the rule no longer applies.",
+  "who_it_affects": [
+   {
+    "group": "Third-party auto lenders that buy car loans from dealers",
+    "how": "They no longer have to follow the Bureau's 2017 guidance on fair lending compliance for indirect auto loans."
+   },
+   {
+    "group": "Car dealers that arrange financing for buyers",
+    "how": "They are no longer subject to the Bureau's 2017 guidance when they arrange loans for customers through outside lenders."
+   },
+   {
+    "group": "People who finance a car through a dealer",
+    "how": "The rule that would have set fair lending guidance for their loans is no longer in effect."
+   }
+  ],
+  "when_it_takes_effect": "The resolution was enacted on May 21, 2018, and took effect that day.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

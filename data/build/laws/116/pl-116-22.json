@@ -33,5 +33,44 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This 2019 law renews and updates federal programs that prepare the country for public health emergencies like pandemics and disasters.",
+  "what_it_does": "The law reauthorizes and revises many federal public health preparedness programs, mostly through fiscal year 2023. It sets new rules and reporting duties for the CDC, HHS, the ASPR, BARDA, and the Strategic National Stockpile. It also creates or expands grants, advisory committees, workforce programs, and studies on medical countermeasures like vaccines and treatments.",
+  "who_it_affects": [
+   {
+    "group": "Hospitals and trauma centers",
+    "how": "Hospitals must meet new federal response guidelines and can apply for grants to train military trauma care providers at eligible trauma centers."
+   },
+   {
+    "group": "Volunteer health professionals",
+    "how": "Licensing waivers during emergencies are addressed, and liability for certain health professionals is limited to the state law where the alleged act occurred."
+   },
+   {
+    "group": "Children, seniors, and people with disabilities",
+    "how": "Separate federal advisory committees are set up or expanded to advise on emergency planning for each group."
+   },
+   {
+    "group": "Members of the National Disaster Medical System",
+    "how": "Specified death benefits apply to people who die while performing official duties during a public health emergency or other hazardous activity."
+   },
+   {
+    "group": "Epidemic Intelligence Service fellows",
+    "how": "The required term of service in the fellowship program is reduced from three years to two."
+   },
+   {
+    "group": "Vaccine and countermeasure developers",
+    "how": "Administrative procedures, BARDA contracting authority, and FDA disclosure duties are changed for medical countermeasure development."
+   },
+   {
+    "group": "Families separated at the U.S.-Mexico border",
+    "how": "HHS must develop a strategy and report on efforts to reunify children in HHS custody with their parents."
+   }
+  ],
+  "when_it_takes_effect": "Enacted June 24, 2019; many programs are authorized through fiscal year 2023, and the BioShield Special Reserve Fund through fiscal year 2028.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

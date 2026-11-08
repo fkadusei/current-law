@@ -1,0 +1,36 @@
+{
+ "headline": "This law requires adults who work with young amateur athletes to report suspected abuse, creates a federal Center for Safe Sport, and extends time limits for some abuse victims to sue.",
+ "what_it_does": "It makes adults who are authorized to interact with minor or amateur athletes at certain sports facilities or sanctioned events report suspected child abuse, including sexual abuse, within 24 hours or face criminal penalties. It sets up the United States Center for Safe Sport as an independent group with authority over the U.S. Olympic Committee, national governing bodies, and Paralympic sports organizations on protecting amateur athletes from abuse. It also changes federal civil rules so that the 10-year deadline to sue for human trafficking or federal sex offenses runs from when the victim reasonably discovers the harm, and gives minor victims 10 years after turning 18 to file.",
+ "who_it_affects": [
+  {
+   "group": "Adults authorized to work with minor or amateur athletes at covered sports facilities or events",
+   "how": "They must report suspected child abuse within 24 hours or they can face criminal penalties."
+  },
+  {
+   "group": "Amateur athletes, especially minors",
+   "how": "They gain access to abuse-prevention policies and reporting through the Center for Safe Sport, and minor victims of trafficking or federal sex offenses have longer to file civil suits."
+  },
+  {
+   "group": "U.S. Olympic Committee, national governing bodies, and Paralympic sports organizations",
+   "how": "They must follow the Center for Safe Sport's abuse-prevention training, policies, and procedures."
+  },
+  {
+   "group": "Amateur sports organization that host or sponsor international competitions",
+   "how": "They must adopt and follow the abuse-prevention policies if they seek sanction to host or send athletes to international amateur events."
+  },
+  {
+   "group": "Other amateur sports organizations not covered by the Center's policies",
+   "how": "They must follow general rules, including reporting suspected child abuse and limiting one-on-one contact between adults and minor athletes."
+  },
+  {
+   "group": "Victims of human trafficking and federal sex offenses",
+   "how": "They have a longer window to bring civil lawsuits, measured from when they discover the harm, or from age 18 for minors."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

@@ -4372,5 +4372,40 @@
   "House": "R",
   "Senate": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "Provides $36.5 billion in emergency disaster aid for hurricanes and wildfires and renews temporary bankruptcy judgeships and some bankruptcy fee and claim rules.",
+  "what_it_does": "Division A gives about $36.5 billion in fiscal year 2018 emergency funds to FEMA, the Department of Agriculture, and the Interior Department for hurricane and wildfire recovery, including money for disaster relief, Community Disaster Loans for local governments, wildfire suppression, and nutrition aid for Puerto Rico. Division B renews 14 temporary bankruptcy judgeships, adds four more, and raises the quarterly fee on large chapter 11 debtors when the U.S. Trustee System Fund balance is below $200 million. It also treats certain government claims from sales of farm property in chapter 12 family farmer or fisherman bankruptcies as ordinary, dischargeable claims without priority.",
+  "who_it_affects": [
+   {
+    "group": "People affected by Hurricanes Harvey, Irma, and Maria and by the listed wildfires",
+    "how": "Federal disaster relief and recovery money is directed to the areas hit by these storms and fires."
+   },
+   {
+    "group": "Local governments in hurricane-affected areas",
+    "how": "They may borrow through FEMA's Community Disaster Loans Program to keep essential services running."
+   },
+   {
+    "group": "Residents of Puerto Rico who need food help after the disasters",
+    "how": "USDA may use up to $1.27 billion from the SNAP contingency reserve to provide disaster nutrition assistance grants to Puerto Rico."
+   },
+   {
+    "group": "Large chapter 11 bankruptcy debtors",
+    "how": "Debtors with at least $1 million in quarterly disbursements face a higher quarterly fee when the U.S. Trustee System Fund balance is under $200 million."
+   },
+   {
+    "group": "Family farmers and fishermen in chapter 12 bankruptcy",
+    "how": "Government claims arising from sales of farm property are treated as ordinary, dischargeable claims without priority status."
+   },
+   {
+    "group": "Bankruptcy courts and judges in Delaware, Florida, Puerto Rico, Maryland, Michigan, Virginia, Nevada, and North Carolina",
+    "how": "Temporary bankruptcy judgeships are reauthorized, and four more are authorized in Delaware, Florida, and Michigan."
+   }
+  ],
+  "when_it_takes_effect": "Enacted October 26, 2017; the appropriated disaster funds are for fiscal year 2018 (October 2017 through September 2018) and generally cannot be spent after that year unless the law says otherwise.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

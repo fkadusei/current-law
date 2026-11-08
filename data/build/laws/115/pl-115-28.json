@@ -36,5 +36,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Congress approved appointing Michael Govan as a citizen regent of the Smithsonian Institution's Board of Regents.",
+  "what_it_does": "This joint resolution names Michael Govan to serve as a citizen regent on the Board of Regents, which oversees the Smithsonian Institution. Citizen regents are private individuals chosen to help guide the Smithsonian, rather than government officials. The summary provided does not describe any terms, duties beyond board service, or funding changes.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law was enacted on April 19, 2017.",
+  "ceremonial": true,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

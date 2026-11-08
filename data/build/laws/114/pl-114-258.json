@@ -39,5 +39,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Makes certain form contract terms that block or penalize online consumer reviews void, and bars companies from using them.",
+  "what_it_does": "The law says a contract term is void from the start if it stops a consumer from posting reviews or similar assessments of a company, charges fees or penalties for doing so, or takes the rights to the review content (except a nonexclusive license to use it). It applies to form contracts, which are standardized agreements that a seller or lessor uses and that a buyer cannot meaningfully negotiate. Companies may not offer form contracts with these void terms. The Federal Trade Commission and states can enforce the law, and the FTC must issue nonbinding best practices for compliance.",
+  "who_it_affects": [
+   {
+    "group": "Consumers who sign form contracts for goods, services, or leases",
+    "how": "They keep the right to post reviews and similar assessments without facing penalties or giving up rights to their review content."
+   },
+   {
+    "group": "Businesses that sell or lease goods or services using standardized contracts",
+    "how": "They may not use form contract terms that restrict reviews, impose penalties for reviews, or take ownership of review content, and they must check their contracts against these limits."
+   },
+   {
+    "group": "Websites and businesses that host online reviews or comments",
+    "how": "They can still remove or refuse to display certain content, such as personal information, libelous or harassing material, content unrelated to the goods or services, clearly false content, trade secrets, and computer viruses."
+   },
+   {
+    "group": "The Federal Trade Commission and state attorneys general",
+    "how": "They have authority to enforce the law against companies that use void form contract terms."
+   }
+  ],
+  "when_it_takes_effect": "The summary does not list a separate start date. The law was enacted on December 14, 2016.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

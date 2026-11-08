@@ -3543,5 +3543,36 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "This law directs the Department of Homeland Security to create a working group that studies and advises on using social media during disasters and emergencies.",
+  "what_it_does": "The law amends the Homeland Security Act of 2002 to require DHS to set up a social media working group. The group is tasked with identifying social media tools useful before, during, and after natural disasters, terrorist acts, or other man-made disasters, and sharing guidance and best practices with emergency preparedness and response workers. The group must send an annual report covering how DHS uses these tools, lessons learned, ways to improve public awareness and access to disaster information, training for government officials, and coordination with private companies on legal, privacy, and security concerns. The group ends five years after enactment unless the chairperson certifies it is still needed, and it can be renewed for additional five-year periods.",
+  "who_it_affects": [
+   {
+    "group": "Emergency management and first responder agencies",
+    "how": "They may receive guidance and best practices on using social media before, during, and after emergencies."
+   },
+   {
+    "group": "Department of Homeland Security staff",
+    "how": "They must help form and support the working group and consider its annual reports on social media use."
+   },
+   {
+    "group": "Members of the public",
+    "how": "The group's recommendations may lead to better information about what kinds of disaster updates are shared on social media and how to find them during a disaster."
+   },
+   {
+    "group": "Government officials who respond to disasters",
+    "how": "The group must review available training on social media use during disasters, which may inform future training."
+   },
+   {
+    "group": "Social media and technology companies",
+    "how": "The group must review coordination with the private sector on legal, operational, technical, privacy, and security concerns."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on November 5, 2015, and the working group's five-year term runs from that date unless renewed.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

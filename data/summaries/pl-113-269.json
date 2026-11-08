@@ -1,0 +1,28 @@
+{
+ "headline": "A 2014 law directs a propane research council to create training on handling future propane price spikes and changes how a Commerce Department price report measures propane costs.",
+ "what_it_does": "The law amends the Propane Education and Research Act of 1996. It directs the Propane Education and Research Council to develop training programs on strategies for reducing the negative effects of future propane price spikes. It also tells the Commerce Secretary to use the refiner price to end users of consumer-grade propane, as published by the Energy Information Administration, when preparing the annual analysis of propane prices compared with other energy sources.",
+ "who_it_affects": [
+  {
+   "group": "Propane distributors",
+   "how": "They are the audience for the council's new training programs on handling future propane price spikes."
+  },
+  {
+   "group": "Propane consumers",
+   "how": "They are the other audience for the council's training programs, which cover strategies for dealing with price spikes."
+  },
+  {
+   "group": "Propane Education and Research Council",
+   "how": "It must develop the training programs the law describes."
+  },
+  {
+   "group": "Department of Commerce",
+   "how": "Its annual propane price analysis must use the refiner price to end users of consumer-grade propane as its data source."
+  }
+ ],
+ "when_it_takes_effect": "Enacted December 18, 2014; the summary does not list a separate effective date.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

@@ -4353,5 +4353,28 @@
   "House": "R",
   "Senate": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "This 2014 law shields older military retirees who joined before 2014 from a reduced yearly cost-of-living raise, and its summary also describes some Medicare and budget provisions.",
+  "what_it_does": "It says the lower cost-of-living adjustment in the Bipartisan Budget Act of 2013 will not apply to military retirees under age 62 who first joined the armed forces before January 1, 2014. That 2013 law had cut the raise from the full CPI to CPI minus 1 percent. The official summary also describes a Medicare fund for physician payments under Part B, with $2.3 billion set aside, and a rule about when a budget sequestration for fiscal year 2024 must be ordered. Those extra provisions are not named in the official title, so the summary is less clear on how they fit into the enacted text.",
+  "who_it_affects": [
+   {
+    "group": "Military retirees under age 62 who first became members before January 1, 2014",
+    "how": "They keep the full cost-of-living adjustment to their retired pay instead of the reduced CPI-minus-1-percent amount."
+   },
+   {
+    "group": "Military retirees under age 62 who first joined on or after January 1, 2014",
+    "how": "The law does not change the reduced cost-of-living adjustment for them, so it still applies."
+   },
+   {
+    "group": "Physicians who are paid under Medicare Part B",
+    "how": "The summary describes a fund that could add money to their payment rate in 2017 if that year's rate falls below the 2013 rate."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted February 15, 2014. The summary does not give a separate effective date for the military retiree provision or the other provisions.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

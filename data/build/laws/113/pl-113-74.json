@@ -33,5 +33,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law requires certain federal citizenship documents for adopted children to match the name and birth date on their state adoption or vital records.",
+  "what_it_does": "It changes the Immigration and Nationality Act so that a certificate of citizenship or other federal document must show the child's name and date of birth as they appear on a state court order, birth certificate, or similar state vital records document. The state record must be issued by the child's U.S. state of residence after the child was adopted or readopted in that state. The same rule applies when someone asks to have a federal document amended.",
+  "who_it_affects": [
+   {
+    "group": "Children adopted from abroad who are U.S. citizens or seeking citizenship documents",
+    "how": "Their federal citizenship certificates should list the name and birth date shown on their state adoption or vital records documents."
+   },
+   {
+    "group": "Adoptive parents of internationally adopted children",
+    "how": "They can ask that existing federal documents be amended so they match the state-issued name and birth date."
+   },
+   {
+    "group": "State courts and state vital records offices",
+    "how": "Their adoption orders and birth records become the reference documents that federal agencies use for these certificates."
+   }
+  ],
+  "when_it_takes_effect": "Enacted January 16, 2014; the official summary does not describe a separate effective date.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

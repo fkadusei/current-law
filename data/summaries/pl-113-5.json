@@ -1,0 +1,40 @@
+{
+ "headline": "This law renews and updates federal programs for preparing for and responding to public health emergencies, such as pandemics, disasters, and bioterror threats, through 2018.",
+ "what_it_does": "The law reauthorizes many HHS programs for public health emergencies through fiscal year 2018, including the Strategic National Stockpile, the National Disaster Medical System, the Medical Reserve Corps, and state and local preparedness grants. It gives the Assistant Secretary for Preparedness and Response more central authority over emergency planning and BARDA, and it sets new requirements for planning for people with disabilities and other at-risk individuals. It also changes FDA and HHS rules so that unapproved medical products can be authorized for emergency use more easily, and it extends some contract and data-protection rules for countermeasure development.",
+ "who_it_affects": [
+  {
+   "group": "State and local public health departments",
+   "how": "They can have personnel temporarily reassigned during emergencies, and they can receive preparedness grants that carry unspent funds into the next year if they meet benchmarks and submit a pandemic influenza plan."
+  },
+  {
+   "group": "Medical manufacturers and drug and device sponsors developing countermeasures",
+   "how": "They may get regulatory management plans, animal-model meetings with FDA, and emergency-use authorizations for unapproved products, and their emergency-use products may have certain rules waived."
+  },
+  {
+   "group": "Veterans and VA medical centers",
+   "how": "A VA public health emergency readiness program is reauthorized through FY2018."
+  },
+  {
+   "group": "People with disabilities and other at-risk individuals",
+   "how": "HHS must consider their needs in emergency plans, outreach, and public health communications."
+  },
+  {
+   "group": "Children",
+   "how": "Planning must address pediatric needs, and a National Advisory Committee on Children and Disasters is created through 2018."
+  },
+  {
+   "group": "Community health centers, dental facilities, and poison control centers",
+   "how": "They can be included in preparedness grants, surveillance networks, and emergency planning."
+  },
+  {
+   "group": "Health professionals who volunteer in emergencies",
+   "how": "Their credentials are verified through the ESAR-VHP network, and the Medical Reserve Corps is reauthorized."
+  }
+ ],
+ "when_it_takes_effect": "Upon enactment on March 13, 2013, with many programs authorized for fiscal years 2014 through 2018 and some provisions ending on September 30, 2018.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

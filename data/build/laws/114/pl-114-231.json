@@ -42,5 +42,36 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This 2016 law sets U.S. policy against wildlife trafficking abroad and creates reporting, task force, and aid rules that mostly run for five years.",
+  "what_it_does": "The law states that the United States will act to stop the illegal global wildlife trade and related crime, and it requires the State Department to report each year on countries that are major sources, transit points, or buyers of trafficked wildlife products. It sets up coordination rules for the Presidential Task Force on Wildlife Trafficking, which ends five years after enactment unless the President ends it sooner. It lets the State Department and USAID give aid to these countries for wildlife law enforcement, customs and border work, and community conservation programs. It also applies federal money laundering laws to certain wildlife trafficking violations involving more than $10,000 in protected species or products.",
+  "who_it_affects": [
+   {
+    "group": "Foreign countries identified as major wildlife trafficking sources, transit points, or buyers",
+    "how": "They may be listed in annual State Department reports and may receive U.S. aid for wildlife law enforcement and border security."
+   },
+   {
+    "group": "Wildlife rangers, customs officers, and border security officers in focus countries",
+    "how": "They may receive U.S.-funded training and capacity-building support if their countries take part in these programs."
+   },
+   {
+    "group": "Rural communities near wildlife areas in focus countries",
+    "how": "They may be supported by State Department programs for community wildlife conservancies and conservation projects."
+   },
+   {
+    "group": "People and businesses involved in trafficking protected wildlife",
+    "how": "Money laundering laws can be applied to violations of the Endangered Species Act, the African Elephant Conservation Act, and the Rhinoceros and Tiger Conservation Act when the total value is over $10,000."
+   },
+   {
+    "group": "Importers and exporters of wildlife products",
+    "how": "Under the Pelly Amendment, the President may embargo wildlife products from countries certified as undermining international conservation agreements."
+   }
+  ],
+  "when_it_takes_effect": "Took effect on enactment, October 7, 2016; the annual reports and task force run for five years, and chiefs of mission must begin implementing task force recommendations within two years.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

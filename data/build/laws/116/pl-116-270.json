@@ -3510,5 +3510,28 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2020 law requires certain federal agencies to create yearly plans to help historically Black colleges and universities compete for federal grants and contracts.",
+  "what_it_does": "The law asks certain federal agencies to submit annual plans showing how they will build the ability of HBCUs to take part in federal programs. The plans must explain how each agency will help these schools compete for grants, contracts, and cooperative agreements. Agencies must also give technical assistance and information to the White House Initiative on HBCUs so schools get clearer communication about programs and application steps. The law also gives the President's Board of Advisors on HBCUs a basis in statute.",
+  "who_it_affects": [
+   {
+    "group": "Historically Black colleges and universities (HBCUs)",
+    "how": "They may receive more agency outreach, technical assistance, and information about federal grants, contracts, and cooperative agreements."
+   },
+   {
+    "group": "Federal agencies covered by the law",
+    "how": "They must write and submit annual plans describing how they will increase HBCU capacity to compete for federal funding."
+   },
+   {
+    "group": "Students and staff at HBCUs",
+    "how": "Their schools may gain more help applying for federal programs, though the summary does not say how this would change their own costs or services."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

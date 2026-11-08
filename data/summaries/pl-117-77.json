@@ -1,0 +1,32 @@
+{
+ "headline": "This law lets the U.S. Capitol Police chief request emergency help from federal departments and changes how special police are approved and overseen.",
+ "what_it_does": "The chief of the U.S. Capitol Police can ask executive departments and agencies for emergency assistance to prevent major disruption of government work and public order at the Capitol. The law removes the statutory qualification and approval requirements for law enforcement and uniformed service personnel appointed as special police officers, including during emergencies the chief starts. Special police regulations now need approval from the Speaker of the House and the Senate majority leader instead of the Speaker and the President pro tempore of the Senate. The Senate Rules and Administration Committee and the House Administration Committee must also hold at least one joint oversight hearing on the Capitol Police Board each Congress.",
+ "who_it_affects": [
+  {
+   "group": "U.S. Capitol Police",
+   "how": "The chief can request emergency help from other federal agencies when needed to keep order at the Capitol."
+  },
+  {
+   "group": "Federal executive departments and agencies",
+   "how": "They may be asked to provide emergency assistance to the Capitol Police during a declared emergency."
+  },
+  {
+   "group": "Law enforcement and uniformed service personnel appointed as special police officers",
+   "how": "They no longer have to meet the statutory qualification and approval requirements that previously applied to their appointment."
+  },
+  {
+   "group": "Members of Congress and congressional staff",
+   "how": "Changes to special police regulation approval now run through the House Speaker and the Senate majority leader."
+  },
+  {
+   "group": "Senate Rules and Administration Committee and House Administration Committee",
+   "how": "They must jointly hold at least one oversight hearing on the Capitol Police Board in each Congress."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

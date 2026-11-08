@@ -3546,5 +3546,32 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "This law repeals a 1918 act that set up a townsite on the Fort Hall Indian Reservation in Idaho and gives the Shoshone-Bannock Tribes new rights over land there.",
+  "what_it_does": "It cancels the May 31, 1918 law that authorized a town site on the Fort Hall Reservation. It gives the Shoshone-Bannock Tribes the first chance to buy any land offered for sale inside the Fort Hall Townsite, at fair market value. It also requires the United States to hold in trust any townsite land that the Tribes or their members own or acquire, whether before or after the law was passed.",
+  "who_it_affects": [
+   {
+    "group": "The Shoshone-Bannock Tribes of the Fort Hall Reservation",
+    "how": "The Tribes get an exclusive right of first refusal to buy land offered for sale in the Fort Hall Townsite at fair market value."
+   },
+   {
+    "group": "Members of the Shoshone-Bannock Tribes who own or acquire land in the Fort Hall Townsite",
+    "how": "Their townsite land is to be held in trust by the United States for their benefit."
+   },
+   {
+    "group": "Owners who want to sell land in the Fort Hall Townsite",
+    "how": "They must offer the Tribes the chance to buy the land first before selling to others."
+   },
+   {
+    "group": "Non-tribal buyers interested in land in the Fort Hall Townsite",
+    "how": "They may be outbid or blocked by the Tribes' right to buy first when land is offered for sale."
+   }
+  ],
+  "when_it_takes_effect": "The law took effect when it was enacted on December 18, 2014.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

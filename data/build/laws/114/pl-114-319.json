@@ -33,5 +33,36 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law gives foreign governments court immunity for certain art loans to U.S. museums and schools, while keeping claims over Nazi-era and certain other seized works open.",
+  "what_it_does": "The law protects a foreign government, and certain carriers, from U.S. federal or state lawsuits over activity linked to a temporary art or cultural display. The display must come from a formal agreement with the U.S. or a U.S. cultural or educational institution, and the President must find the object culturally significant and the display in the national interest. The law also says immunity does not apply to claims that a work was taken by Germany or its allies between 1933 and 1945, or taken after 1900 in a systematic campaign against a targeted and vulnerable group. The State Department must notify foreign states that apply for this immunity of these changes.",
+  "who_it_affects": [
+   {
+    "group": "Foreign governments that lend art or cultural objects to the United States",
+    "how": "They can receive court immunity from U.S. lawsuits tied to a temporary exhibition if the display meets the law's requirements."
+   },
+   {
+    "group": "U.S. museums and educational institutions that host temporary foreign exhibitions",
+    "how": "They can borrow works under these protections, but the exhibition must meet the agreement and presidential determination requirements."
+   },
+   {
+    "group": "Carriers that transport exhibited works",
+    "how": "Certain carriers may receive the same immunity from lawsuits tied to a qualifying exhibition."
+   },
+   {
+    "group": "People or heirs who claim a work was wrongfully taken, including Nazi-era or systematic-persecution claimants",
+    "how": "Their claims are not blocked by this immunity when they fall within the law's listed categories, and courts must decide whether the exhibition activity is commercial."
+   },
+   {
+    "group": "State Department officials",
+    "how": "They must notify foreign states that apply for this immunity about the law's amendments."
+   }
+  ],
+  "when_it_takes_effect": "The summary does not state a specific effective date. The law was enacted on December 16, 2016.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

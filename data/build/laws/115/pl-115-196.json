@@ -42,5 +42,24 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Creates a three-year federal advisory council to share information and resources with grandparents and other older relatives who are raising grandchildren.",
+  "what_it_does": "The law sets up an Advisory Council to Support Grandparents Raising Grandchildren. The council's job is to find, promote, and coordinate useful information and resources for older relatives who care for children. It must share these resources publicly and write a report on them. The council ends automatically after three years.",
+  "who_it_affects": [
+   {
+    "group": "Grandparents and other older relatives raising grandchildren",
+    "how": "They can access a federal council's public information and resources on caring for children and on their own health and emotional well-being."
+   },
+   {
+    "group": "Grandchildren in relative care",
+    "how": "Their caregivers may get better information and support, though the law does not directly change their benefits or rights."
+   }
+  ],
+  "when_it_takes_effect": "Enacted July 7, 2018; the council terminates three years after its establishment.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

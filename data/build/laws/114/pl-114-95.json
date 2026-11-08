@@ -4364,5 +4364,56 @@
   "House": "R",
   "Senate": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "The Every Student Succeeds Act reauthorizes and rewrites federal K-12 education law, shifting school accountability and testing rules from federal control toward states.",
+  "what_it_does": "This law amends the Elementary and Secondary Education Act and reauthorizes many K-12 programs through fiscal year 2020. It replaces the old Adequate Yearly Progress system with state-designed accountability systems that use multiple indicators, including graduation rates and school growth measures. It also lets states set their own academic standards and long-term goals, limits federal control over curriculum, and consolidates many smaller grant programs into larger formula grants.",
+  "who_it_affects": [
+   {
+    "group": "Public elementary and secondary school students, especially low-income students and English learners",
+    "how": "Their schools must be rated under new state accountability systems, and schools with consistently underperforming groups must create targeted improvement plans."
+   },
+   {
+    "group": "State education agencies",
+    "how": "States must write new state plans, set their own standards and goals, identify lowest-performing schools, and publish annual report cards."
+   },
+   {
+    "group": "Local school districts",
+    "how": "Districts must follow revised poverty-based funding rules, parent involvement requirements, and improvement plan rules for identified schools."
+   },
+   {
+    "group": "Students in juvenile justice or foster care systems",
+    "how": "States must help them re-enroll in school and offer credit-bearing coursework, and the definition of at-risk now covers students with prior child welfare contact."
+   },
+   {
+    "group": "Teachers and school leaders",
+    "how": "The federal highly qualified teacher requirement is replaced by state certification and licensure rules, and states must report on teacher effectiveness criteria."
+   },
+   {
+    "group": "Parents and families of public school students",
+    "how": "Districts must notify parents about assessment policies, teacher qualification requests, and English learner services, and outreach now includes extended family members."
+   },
+   {
+    "group": "Students with significant cognitive disabilities",
+    "how": "States may use alternative academic standards and alternative assessments for them, with extra oversight if more than 1 percent of an district's students take them."
+   },
+   {
+    "group": "Charter school developers and authorizers",
+    "how": "A new competitive grant program funds opening and expanding high-quality charter schools, and states may receive more than one facilities aid grant."
+   },
+   {
+    "group": "Impact Aid districts near federal lands or bases",
+    "how": "Payment formulas, eligibility rules, and property valuation methods were changed, and the Coast Guard was added to the definition of Armed Forces."
+   },
+   {
+    "group": "Homeless children and youths",
+    "how": "The Education for Homeless Children and Youths program was reauthorized, and the definition now excludes children awaiting foster care placement."
+   }
+  ],
+  "when_it_takes_effect": "Enacted December 10, 2015; most provisions apply to school years beginning after that date, with some phase-ins and programs authorized through fiscal year 2020.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

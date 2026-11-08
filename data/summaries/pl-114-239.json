@@ -1,0 +1,20 @@
+{
+ "headline": "This law lets Olympic and Paralympic athletes leave the value of their medals and U.S. Olympic Committee prize money out of their federal taxable income.",
+ "what_it_does": "The law changes the federal tax code so that the value of a medal won at the Olympic or Paralympic Games is not counted as income. Prize money paid by the U.S. Olympic Committee for competing in those games is also excluded. The exclusion does not apply in any year when a taxpayer's adjusted gross income is more than $1 million, or more than $500,000 for a married person filing separately.",
+ "who_it_affects": [
+  {
+   "group": "U.S. Olympic and Paralympic athletes who win medals",
+   "how": "Their medal value and U.S. Olympic Committee prize money are excluded from federal taxable income, unless their adjusted gross income is over the income limit."
+  },
+  {
+   "group": "High-income athletes with adjusted gross income over $1 million",
+   "how": "The exclusion does not apply to them in any year their adjusted gross income exceeds the limit, so they must count medal value and prize money as income."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on October 7, 2016, and the summary does not state a separate effective date.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

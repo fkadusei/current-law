@@ -1,0 +1,28 @@
+{
+ "headline": "A 2014 law requires the TSA to plan its security technology purchases more carefully, report large contracts to Congress, and get outside reviews of its acquisitions.",
+ "what_it_does": "The law directs the Transportation Security Administration to write a five-year technology investment plan, updated every two years, and to publish an unclassified version. Before buying security technology, TSA must analyze whether the purchase is justified and set performance baselines. For contracts over $30 million, TSA must notify Congress 30 days in advance and certify that the security benefits justify the cost. The law also asks the Government Accountability Office to review TSA's progress and testing, and states that it does not authorize any new appropriations.",
+ "who_it_affects": [
+  {
+   "group": "TSA employees who handle technology acquisitions",
+   "how": "They must complete written justification analyses, set performance baselines, and report results to Congress before and after buying security technology."
+  },
+  {
+   "group": "Companies that sell security technology to TSA",
+   "how": "Contracts over $30 million face a 30-day congressional notice and certification step, and TSA must first consider reusing existing equipment in its inventory."
+  },
+  {
+   "group": "Small businesses seeking TSA contracts",
+   "how": "TSA must report each year to Congress on how well it meets its goals for contracting with small businesses."
+  },
+  {
+   "group": "Air travelers",
+   "how": "The law aims to shape which screening technologies TSA buys and how it tests them, but it does not change any passenger rules directly."
+  }
+ ],
+ "when_it_takes_effect": "The law took effect when it was enacted on December 18, 2014, with reporting and planning deadlines set by its sections.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

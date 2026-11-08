@@ -1,0 +1,28 @@
+{
+ "headline": "This 2014 law adds 1,000 Afghan special immigrant visas for fiscal year 2014, sets a December 31, 2014 deadline for applying, and temporarily raises a $1 visa processing fee.",
+ "what_it_does": "The law amends the Afghan Allies Protection Act of 2009 to make 1,000 more Afghan special immigrant visas available in fiscal year 2014. It requires that the work period an applicant must have completed end by December 31, 2014, and that principal applicants apply to the Chief of Mission by that same date. The authority to grant these visas ends on December 31, 2014. The law also directs the Secretary of State to temporarily raise the processing fee or surcharge by $1 for certain nonimmigrant visas and border crossing cards, starting by January 1, 2015.",
+ "who_it_affects": [
+  {
+   "group": "Afghan nationals who worked for the U.S. government or its partners",
+   "how": "They can receive 1,000 additional special immigrant visas, but they must meet the work requirement and apply by December 31, 2014."
+  },
+  {
+   "group": "Principal applicants seeking Afghan special immigrant status",
+   "how": "They must submit their applications to the Chief of Mission by December 31, 2014, or lose the chance to apply under this authority."
+  },
+  {
+   "group": "People applying for machine-readable nonimmigrant visas or combined border crossing identification cards",
+   "how": "They will pay a temporary $1 increase in the processing fee or surcharge."
+  },
+  {
+   "group": "U.S. Department of State",
+   "how": "The Secretary of State must carry out the visa allocation changes and set the temporary fee increase by January 1, 2015."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on August 8, 2014. The application and work-period deadlines and the end of visa authority are December 31, 2014, and the temporary fee increase must be in place by January 1, 2015.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

@@ -1,0 +1,44 @@
+{
+ "headline": "The Taxpayer First Act of 2019 changes how the IRS is organized, how it serves taxpayers, how it protects data, and how it handles tax filing rules.",
+ "what_it_does": "The law creates an independent IRS Office of Appeals to settle tax disputes without going to court. It requires the IRS to build customer service and employee training plans, and to give public notice before closing taxpayer assistance centers. It adds cybersecurity and identity theft protections, including notice to taxpayers when identity theft is suspected, and requires a Chief Information Officer to plan IRS technology needs. It also expands electronic filing, sets new rules for tax-exempt groups, and raises penalties for failing to file returns.",
+ "who_it_affects": [
+  {
+   "group": "Taxpayers in tax disputes with the IRS",
+   "how": "They can have certain disagreements heard by the new independent Office of Appeals instead of going straight to court."
+  },
+  {
+   "group": "Low-income taxpayers who offer to settle a tax debt",
+   "how": "Certain low-income people are exempt from the fee normally required to submit an offer-in-compromise."
+  },
+  {
+   "group": "Possible identity theft victims",
+   "how": "The IRS must notify taxpayers when it suspects their identity has been stolen."
+  },
+  {
+   "group": "Tax-exempt organizations",
+   "how": "They must file electronically and receive notice before losing tax-exempt status for failing to file."
+  },
+  {
+   "group": "People who fail to file tax returns",
+   "how": "Penalties for not filing on time are increased."
+  },
+  {
+   "group": "Volunteer tax preparation programs",
+   "how": "A matching grant program is created to support Community Volunteer Income Tax Assistance programs."
+  },
+  {
+   "group": "IRS employees and former employees",
+   "how": "Certain employees removed for misconduct cannot be rehired, and the IRS must train staff and plan customer service."
+  },
+  {
+   "group": "Tax return preparers and businesses that file information returns",
+   "how": "The IRS must offer an online platform for Form 1099 filings and accept electronic signatures under uniform standards."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

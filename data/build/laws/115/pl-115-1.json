@@ -3544,5 +3544,28 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "This law makes the Presidential Innovation Fellows Program permanent by writing it into statute, letting the General Services Administration keep bringing outside experts into federal agencies for short-term jobs.",
+  "what_it_does": "The law codifies the Presidential Innovation Fellows Program, which was first created by an executive order. The General Services Administration must continue the program, which places people with proven track records in entrepreneurship, leadership, or innovation into time-limited jobs in executive agencies. A Director runs the program and picks the fellows, and an advisory board recommends priorities and helps find projects.",
+  "who_it_affects": [
+   {
+    "group": "Successful entrepreneurs, executives, and innovators",
+    "how": "They can apply to serve time-limited appointments inside federal agencies on projects that use innovative techniques or technology."
+   },
+   {
+    "group": "Federal executive agencies",
+    "how": "They can take on fellows to work on specific projects that could improve how government serves the public."
+   },
+   {
+    "group": "General Services Administration",
+    "how": "The agency must continue running the program, appointing a Director, and maintaining an advisory board."
+   }
+  ],
+  "when_it_takes_effect": "Upon enactment on January 20, 2017.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

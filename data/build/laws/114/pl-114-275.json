@@ -36,5 +36,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2016 law bars the Forest Service from approving planned controlled burns on its land when fire danger is rated extreme in that county or a neighboring county, unless it coordinates with state and local officials.",
+  "what_it_does": "The law stops the Forest Service from authorizing a prescribed burn, which is a planned fire set on purpose, on Forest Service land when the national fire danger rating system shows an extreme danger level for that county or a contiguous county. The agency may still approve a burn under those conditions if it coordinates with the applicable state government and local fire officials. The summary does not describe other requirements or procedures.",
+  "who_it_affects": [
+   {
+    "group": "The U.S. Forest Service",
+    "how": "It cannot approve prescribed burns on its land during extreme fire danger unless it first coordinates with state and local officials."
+   },
+   {
+    "group": "State governments and local fire officials",
+    "how": "They become part of the required coordination when the Forest Service wants to approve a burn during extreme fire danger."
+   },
+   {
+    "group": "People living near Forest Service land in counties with extreme fire danger ratings",
+    "how": "Planned burns on nearby federal land are restricted during those conditions unless officials coordinate on the decision."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on December 14, 2016, and the official summary does not state a separate effective date.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

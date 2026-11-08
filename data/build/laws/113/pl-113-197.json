@@ -36,5 +36,24 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law directs the FCC to let makers of certain radio devices with screens show required labels electronically instead of printing physical labels on the device.",
+  "what_it_does": "The law amends the Communications Act of 1934 and requires the Federal Communications Commission to create rules, or take other appropriate action, that allow manufacturers to use electronic labeling. Covered products are radiofrequency devices that need FCC authorization before they can be sold in the United States and that can digitally display required labeling and regulatory information. Under the law, manufacturers may use this electronic option in place of attaching a physical label to the equipment.",
+  "who_it_affects": [
+   {
+    "group": "Manufacturers of radio devices that have screens",
+    "how": "They gain the option to show required FCC labeling electronically on the device instead of attaching a physical label."
+   },
+   {
+    "group": "Consumers who buy covered radio devices",
+    "how": "Required regulatory information may appear on the device's screen rather than on a physical sticker or plate."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -3531,5 +3531,32 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2013 law moves the job of processing certain wage claims for workers on federal public works projects from the GAO to the Department of Labor.",
+  "what_it_does": "The law transfers authority to handle claims for unpaid wages owed to laborers and mechanics hired by federal contractors on public works projects. Before this law, the Government Accountability Office handled these claims. After it, the Department of Labor handles them instead. The official summary does not describe any other changes.",
+  "who_it_affects": [
+   {
+    "group": "Laborers and mechanics employed by federal contractors on public works projects",
+    "how": "People who believe they are owed wages on these projects now file wage claims with the Department of Labor instead of the Government Accountability Office."
+   },
+   {
+    "group": "Federal contractors that perform public works projects",
+    "how": "Wage claims from their workers are now processed by the Department of Labor rather than the Government Accountability Office."
+   },
+   {
+    "group": "Department of Labor",
+    "how": "The department takes on the work of processing these wage claims."
+   },
+   {
+    "group": "Government Accountability Office",
+    "how": "The agency gives up authority to process these wage claims to the Department of Labor."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

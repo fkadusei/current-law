@@ -1,0 +1,24 @@
+{
+ "headline": "This law lets HHS waive some PACE program rules for CMS Innovation Center demonstration projects, while keeping certain core protections in place.",
+ "what_it_does": "The law amends the Social Security Act to let the Department of Health and Human Services waive some general and Medicaid rules for the Program of All-Inclusive Care for the Elderly (PACE). The waivers are for demonstration projects run through the CMS Innovation Center. HHS cannot waive the requirement that Medicare items and services be offered without limitations, or certain rules about enrolling in and leaving PACE. The law also states the Senate's view that HHS should use this authority to give PACE programs more operational flexibility, in a budget-neutral and expeditious way.",
+ "who_it_affects": [
+  {
+   "group": "Older adults enrolled in or eligible for PACE",
+   "how": "Certain enrollment and disenrollment rules and Medicare service requirements are kept in place, even if other PACE rules are waived in demonstrations."
+  },
+  {
+   "group": "PACE program organizations",
+   "how": "HHS may waive some general and Medicaid rules for them in CMS Innovation Center demonstration projects, which could change how they operate."
+  },
+  {
+   "group": "Medicare and Medicaid beneficiaries in PACE demonstration areas",
+   "how": "Their services could be affected by any demonstration project that uses the new waiver authority."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on November 5, 2015, and took effect on that date.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

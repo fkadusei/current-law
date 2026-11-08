@@ -4376,5 +4376,52 @@
   "House": "D",
   "Senate": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2019 law keeps the federal government funded at fiscal 2019 levels through November 21, 2019, avoiding a shutdown, and extends several expiring health and other programs.",
+  "what_it_does": "The law is a continuing resolution, a temporary funding bill that lets federal agencies keep operating at last year's spending levels when full-year spending bills have not passed by the October 1 start of the fiscal year. It includes many specific exceptions, such as added money for small business loans, disaster relief, the 2020 Census, and Ukraine security assistance, and it limits some new starts and production increases. Division B extends expiring health programs such as community health centers, the Special Diabetes Program, Medicaid and Medicare extenders, and TANF grants, and it changes some Medicaid drug rebate rules.",
+  "who_it_affects": [
+   {
+    "group": "Federal agency employees and federal contractors",
+    "how": "Agencies can keep paying staff and carrying out programs at FY2019 funding levels, but cannot start new projects that were not funded in FY2019."
+   },
+   {
+    "group": "Small businesses seeking federal-backed loans",
+    "how": "The law adds money to the Small Business Administration's 7(a) loan guaranty program and its disaster loan program."
+   },
+   {
+    "group": "Community health center patients and National Health Service Corps participants",
+    "how": "The Community Health Center Fund and related National Health Service Corps funding are extended so services can continue."
+   },
+   {
+    "group": "Families with school-aged children who receive low-income food benefits",
+    "how": "Summer Electronic Benefit Transfer demonstration projects are funded so they can be operating by May 2020."
+   },
+   {
+    "group": "Medicare beneficiaries using state health insurance counseling and aging services",
+    "how": "State health insurance programs, area agencies on aging, and aging and disability resource centers receive continued funding."
+   },
+   {
+    "group": "Medicaid enrollees and state Medicaid programs",
+    "how": "Certified community behavioral health clinic demonstrations are extended, and drug rebate calculation rules are changed."
+   },
+   {
+    "group": "Farmers and sugar beet processors",
+    "how": "Some farmers hit by retaliatory tariffs can continue to receive payments, and sugar beet losses become eligible for disaster-related payments."
+   },
+   {
+    "group": "Veterans",
+    "how": "The Department of Veterans Affairs can use funds at a higher rate to support projects created by the Blue Water Navy Vietnam Veterans Act of 2019."
+   },
+   {
+    "group": "Federal student aid applicants and higher education institutions",
+    "how": "The National Advisory Committee on Institutional Quality and Integrity, which oversees accreditation, is extended."
+   }
+  ],
+  "when_it_takes_effect": "Enacted September 27, 2019; the funding runs through November 21, 2019, or until the applicable full-year appropriations bill becomes law, whichever comes first. Some health and other extenders run for a set period beyond that date.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

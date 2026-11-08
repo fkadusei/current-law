@@ -36,5 +36,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law requires certain phone-call middlemen to register with the FCC and meet service quality standards the FCC will set.",
+  "what_it_does": "It amends the Communications Act so that intermediate providers, companies that carry or route voice calls for others and charge for it, must register with the Federal Communications Commission. The FCC must also set service quality standards these providers must follow. Long-distance carriers may not use an unregistered intermediate provider to carry calls. The FCC must keep a public registry of these providers on its website.",
+  "who_it_affects": [
+   {
+    "group": "Intermediate providers that carry or route voice calls for a fee",
+    "how": "They must register with the FCC and follow the service quality standards the FCC establishes."
+   },
+   {
+    "group": "Long-distance and other voice service providers, including phone companies and VoIP services",
+    "how": "They may not use an intermediate provider to carry calls unless that provider is registered, though some that monitor or avoid intermediate providers may be exempt from the quality standards."
+   },
+   {
+    "group": "Rural and other phone customers",
+    "how": "The FCC must work to keep call delivery reliable and prevent unjust discrimination in call delivery among areas of the country."
+   },
+   {
+    "group": "State utility regulators",
+    "how": "The law does not take away or expand their power to collect data or enforce state rules on completing intrastate calls."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

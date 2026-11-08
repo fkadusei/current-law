@@ -1,0 +1,24 @@
+{
+ "headline": "A 2020 law requires the federal General Services Administration to clarify that agencies can use charge cards to pay for charging federal electric vehicles at commercial stations.",
+ "what_it_does": "The law directs the General Services Administration to issue guidance confirming that federal agencies may use a charge card to pay for charging their electric motor vehicles at commercial charging stations. It also requires the agency to provide each federal agency a charge card for these payments, for each of the agency's electric vehicles.",
+ "who_it_affects": [
+  {
+   "group": "Federal agencies that operate electric motor vehicles",
+   "how": "They are told they may use a charge card to pay for charging their electric vehicles at commercial stations, and each agency gets a card for each of its electric vehicles."
+  },
+  {
+   "group": "General Services Administration",
+   "how": "It must issue the guidance and provide the charge cards to agencies."
+  },
+  {
+   "group": "Operators of commercial electric vehicle charging stations",
+   "how": "Federal agencies may pay for charging with government charge cards, which could change how federal vehicle charging transactions are processed."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on October 1, 2020, and the summary does not list a separate effective date or deadlines.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

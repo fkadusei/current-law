@@ -1,0 +1,28 @@
+{
+ "headline": "A 2018 federal law that funds childhood cancer research, improves cancer tracking, and supports care and survivor programs for young cancer patients.",
+ "what_it_does": "The law lets the National Institutes of Health help collect medical samples and information from children, teens, and young adults with certain cancers that have the least effective treatments. It renews the national childhood cancer registry through 2023 and lets the CDC give grants to state cancer registries to better track these cancers. It also requires a pediatric cancer expert on the National Cancer Advisory Board and allows HHS to fund pilot programs and best-practice work on lifelong survivor care.",
+ "who_it_affects": [
+  {
+   "group": "Children, adolescents, and young adults with certain cancers",
+   "how": "Research programs may collect their medical samples and information to study their cancers and how treatments work."
+  },
+  {
+   "group": "Childhood cancer survivors",
+   "how": "HHS and NIH may fund pilot programs and research on monitoring and caring for survivors over their lifetimes, including those in minority or medically underserved communities."
+  },
+  {
+   "group": "State cancer registries",
+   "how": "They may receive CDC grants to improve how childhood cancers are tracked."
+  },
+  {
+   "group": "Health care providers who treat pediatric cancer patients",
+   "how": "HHS must review its workforce development activities related to pediatric cancer care."
+  }
+ ],
+ "when_it_takes_effect": "Enacted June 5, 2018; the registry reauthorization runs through fiscal year 2023, and most provisions authorize future support rather than set fixed dates.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

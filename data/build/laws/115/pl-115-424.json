@@ -3528,5 +3528,36 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "Renews federal grant funding for children's advocacy centers that help abuse victims, with added rules on state networks and a new liability shield for good-faith reporters.",
+  "what_it_does": "The law extends federal grants for local and regional children's advocacy centers, which coordinate responses to child abuse, for fiscal years 2019 through 2023. It also funds technical help and training for these centers. The law adds state chapters of advocacy center networks to the program, requiring a share of local grants to go to them and giving them an oversight and training role. Grants can now also support direct services for human trafficking victims, not only child pornography victims. Separately, it gives people who make good-faith reports of child abuse or neglect, or who provide related information or help, immunity from civil and criminal liability under federal, state, and local law. The Justice Department must also report each year on how regional centers are monitored and how well urban and rural areas are served.",
+  "who_it_affects": [
+   {
+    "group": "Local and regional children's advocacy centers",
+    "how": "They can receive renewed federal grant funding through 2023 and must meet new program goals, such as working with state chapters and helping local teams."
+   },
+   {
+    "group": "State chapters of advocacy center networks",
+    "how": "They become eligible for a required portion of local center grants and take on oversight and training responsibilities."
+   },
+   {
+    "group": "Child abuse and human trafficking victims",
+    "how": "Grant-funded direct services can now reach trafficking victims as well as child pornography victims."
+   },
+   {
+    "group": "People who report suspected child abuse or neglect in good faith",
+    "how": "They receive legal immunity from civil and criminal liability under federal, state, and local law for their reports or related help."
+   },
+   {
+    "group": "Rural and urban communities",
+    "how": "The Justice Department must report annually on how well both are served by the regional center program."
+   }
+  ],
+  "when_it_takes_effect": "Enacted January 7, 2019; grant authorizations run for fiscal years 2019 through 2023.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

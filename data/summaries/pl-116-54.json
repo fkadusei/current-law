@@ -1,0 +1,32 @@
+{
+ "headline": "This law creates a faster, cheaper bankruptcy reorganization path for small businesses under Chapter 11 and changes some related court rules.",
+ "what_it_does": "The law sets up new Chapter 11 procedures for small businesses. A court-appointed trustee helps the business build a repayment plan, tracks its property, and makes sure it makes required payments. Only the business owner or debtor can file a reorganization plan under these procedures, and a court can approve a plan over creditor objections if it is fair and equitable and does not discriminate unfairly. The law also raises the dollar threshold for certain debt-collection lawsuits against noninsiders from $13,650 to $25,000, and it limits when a trustee can cancel certain pre-bankruptcy payments.",
+ "who_it_affects": [
+  {
+   "group": "Small businesses filing for Chapter 11 bankruptcy reorganization",
+   "how": "They can use new procedures with a trustee, reduced disclosure requirements, and a plan that the court may approve even if creditors object."
+  },
+  {
+   "group": "Creditors of small businesses in Chapter 11",
+   "how": "They can no longer submit their own reorganization plans under these procedures and may have a plan approved over their objection if it meets the law's fairness standards."
+  },
+  {
+   "group": "Debtors who must pay under a reorganization plan",
+   "how": "They must commit projected disposable income for three to five years toward plan payments and submit future income to the trustee as needed."
+  },
+  {
+   "group": "Creditors who received payments from a debtor before bankruptcy",
+   "how": "A trustee must use reasonable due diligence and consider known defenses before voiding those payments as preferential transfers."
+  },
+  {
+   "group": "Parties sued to recover small debts connected to a Chapter 11 case",
+   "how": "Lawsuits to recover debts under $25,000 from noninsiders must be filed in the court where the defendant lives, up from the previous $13,650 limit."
+  }
+ ],
+ "when_it_takes_effect": "180 days after enactment, which was August 23, 2019.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

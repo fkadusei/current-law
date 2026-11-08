@@ -1,0 +1,44 @@
+{
+ "headline": "A 2021 law expands and changes federal death, disability, and education benefits for public safety officers and their families.",
+ "what_it_does": "The law changes the Public Safety Officers' Benefits (PSOB) program, which pays benefits when officers are killed or permanently disabled in the line of duty. It adds some firefighters and officer cadets to those covered and extends coverage to certain officers responding outside their home jurisdiction. It raises the interim death benefit, adds yearly inflation adjustments to it, and increases payments on claims pending more than 365 days. It also lets the Justice Department use subpoenas and other tools to speed up claims, adds neurocognitive disorders as a qualifying catastrophic injury, allows retroactive education benefits, and extends COVID-19 and World Trade Center claim provisions.",
+ "who_it_affects": [
+  {
+   "group": "Firefighters whose main job during an emergency is securing the scene or directing traffic",
+   "how": "They become eligible for PSOB death and disability benefits under the expanded definition of public safety officer."
+  },
+  {
+   "group": "Cadets and trainees in candidate-officer training",
+   "how": "They can now qualify for PSOB coverage while in training."
+  },
+  {
+   "group": "Public safety officers who respond outside their own jurisdiction",
+   "how": "Certain officers in this situation are now covered by PSOB benefits."
+  },
+  {
+   "group": "Surviving family members of officers who died in the line of duty",
+   "how": "The interim death benefit is larger and rises each year with inflation, and some pending claims may receive higher payments."
+  },
+  {
+   "group": "Officers disabled by neurocognitive disorders and their families",
+   "how": "An injury from a neurocognitive disorder can now count as a catastrophic injury for disability benefits."
+  },
+  {
+   "group": "Children and spouses of eligible officers seeking education benefits",
+   "how": "The Justice Department must provide retroactive education benefits to qualifying children and spouses."
+  },
+  {
+   "group": "Responders to the World Trade Center and their surviving families",
+   "how": "In certain cases they can file new claims for death or disability benefits."
+  },
+  {
+   "group": "Public safety officers who died or were injured from COVID-19 and their families",
+   "how": "The period during which they can receive benefits has been extended."
+  }
+ ],
+ "when_it_takes_effect": "Enacted November 18, 2021; the official summary does not list separate effective dates for each change.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

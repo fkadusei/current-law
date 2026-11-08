@@ -3528,5 +3528,24 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2022 law lets FEMA civilian reservists keep job protections when they deploy to disasters, even if they did not give their employer notice.",
+  "what_it_does": "The law applies the job protections of USERRA, the federal law that protects military service members' jobs, to FEMA reservists who are sent to major disasters and emergencies. Under the law, these reservists can claim those protections even if they did not notify their employer before leaving work for the deployment. The summary does not describe any new payments or other benefits.",
+  "who_it_affects": [
+   {
+    "group": "FEMA civilian reservists",
+    "how": "They can use USERRA job protections when deploying to major disaster and emergency sites, even without giving their employer advance notice."
+   },
+   {
+    "group": "Employers of FEMA reservists",
+    "how": "They must follow USERRA job protection rules when a reservist employee is absent for a FEMA deployment, even if no notice was given."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

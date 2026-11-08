@@ -39,5 +39,36 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law lets trucks hauling home heating fuel skip federal trucking safety rules during governor-declared fuel shortage emergencies, and tracks regional fuel supplies.",
+  "what_it_does": "During a state emergency declared by a governor over a shortage of home heating fuel, federal motor carrier safety rules would not apply to trucks and drivers delivering heating oil, natural gas, or propane in the affected area. The exemption covers one 30-day emergency period plus up to two more 30-day extensions. The Energy Information Administration must warn a state's governor when a regional fuel supply stays below its five-year average for more than three weeks in a row. The Department of Transportation must also study the safety effects of these exemptions.",
+  "who_it_affects": [
+   {
+    "group": "Truck drivers delivering home heating fuel",
+    "how": "During a qualifying governor-declared emergency, they would not have to follow federal motor carrier safety regulations while making deliveries in the affected area."
+   },
+   {
+    "group": "Motor carriers that haul heating oil, natural gas, or propane",
+    "how": "Their trucks would be exempt from federal motor carrier safety rules in the emergency area during a qualifying emergency period."
+   },
+   {
+    "group": "Households that heat their homes with oil, natural gas, or propane",
+    "how": "Fuel deliveries could move faster into areas facing shortages during a declared emergency, and state officials would get early warning when regional supplies run low."
+   },
+   {
+    "group": "State governors",
+    "how": "They would receive notice from the federal government when their region's heating fuel supply is below the five-year average for an extended period, and they control whether an emergency is declared."
+   },
+   {
+    "group": "Federal Motor Carrier Safety Administration and Department of Transportation",
+    "how": "The agency must recognize these emergency exemptions, and the department must study their effect on safety."
+   }
+  ],
+  "when_it_takes_effect": "The official summary does not state an effective date; the law was enacted on June 30, 2014.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -42,5 +42,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This 2022 law removes old federal rules affecting Native Americans, including ones on alcohol, work, truancy, and sending youth to reform schools without parental consent.",
+  "what_it_does": "The law repeals, or cancels, several older federal provisions about how the government treated American Indians. The repealed items include rules about 'hostile tribes,' alcohol, work requirements, penalties for truancy, and placing young people in reform school without a parent's or guardian's consent. The official summary does not describe what replaces them, so this explanation covers only the repeals.",
+  "who_it_affects": [
+   {
+    "group": "American Indian and Alaska Native people",
+    "how": "Older federal rules that singled them out on alcohol, work, and related matters no longer remain on the books."
+   },
+   {
+    "group": "Native American children and teenagers",
+    "how": "Federal rules that allowed their placement in reform school without a parent's or guardian's consent are repealed."
+   },
+   {
+    "group": "Parents and guardians of Native youth",
+    "how": "The repealed rules had allowed placing a child in reform school without the parent's or guardian's consent, and that authority is removed."
+   }
+  ],
+  "when_it_takes_effect": "The law became effective when it was signed into law on December 27, 2022.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

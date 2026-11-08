@@ -873,5 +873,20 @@
  "control": {
   "Senate": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "A short 2014 law that extends temporary federal funding for fiscal year 2014 through January 18, 2014.",
+  "what_it_does": "This law changes an earlier temporary funding law, the Continuing Appropriations Act, 2014 (P.L. 113-46). It keeps certain federal spending authority in place for fiscal year 2014 until January 18, 2014. The official summary does not list the specific agencies or programs covered.",
+  "who_it_affects": [
+   {
+    "group": "Federal agencies and programs covered by the continuing appropriations",
+    "how": "They can keep operating at existing funding levels through January 18, 2014, while the longer-term spending bills are still pending."
+   }
+  ],
+  "when_it_takes_effect": "Enacted January 15, 2014, and the extended funding runs through January 18, 2014.",
+  "ceremonial": false,
+  "confidence": "low",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

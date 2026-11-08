@@ -1,0 +1,28 @@
+{
+ "headline": "The source text describes a veterans burial measure, but the title given is a child nutrition act, so the match is unclear.",
+ "what_it_does": "The summary provided describes a bill that bars the Department of Veterans Affairs from setting grant conditions that stop states from burying certain National Guard and Reserve members, and some of their family members, in state veterans' cemeteries just because they cannot be buried in a national cemetery. It also bars the VA from denying a grant only because a state might use the funds to expand or run a cemetery that allows these burials, and from enforcing some conditions on older state cemetery grants. The bill adds plot allowances for burials at cemeteries that accept these individuals, including on tribal trust land. The title given, Keep Kids Fed Act of 2022, does not match this summary, so the summary may belong to a different bill and this explanation should be checked against the official text.",
+ "who_it_affects": [
+  {
+   "group": "National Guard and reserve members discharged under conditions other than dishonorable",
+   "how": "They could be buried in state-owned veterans' cemeteries even if they are not eligible for a national cemetery."
+  },
+  {
+   "group": "Spouses, minor children, and unmarried adult children of covered guard and reserve members",
+   "how": "They could be interred alongside eligible members at state veterans' cemeteries under the same rules."
+  },
+  {
+   "group": "State governments that run veterans' cemeteries",
+   "how": "The VA cannot use grant conditions to block them from allowing these burials or deny grants only because of expansion plans."
+  },
+  {
+   "group": "Tribal organizations with trust land",
+   "how": "Veterans' cemeteries on trust land that accept these individuals may qualify for plot allowances."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

@@ -39,5 +39,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2019 law renamed a Lake Havasu City, Arizona post office building to honor combat veterans.",
+  "what_it_does": "This law officially names the U.S. Postal Service facility at 1750 McCulloch Boulevard North in Lake Havasu City, Arizona, the Lake Havasu City Combat Veterans Memorial Post Office Building. It is a naming measure only and does not change postal services, hours, or rules. The name is used in official records and signage for the building.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law took effect when it was enacted on December 13, 2019.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

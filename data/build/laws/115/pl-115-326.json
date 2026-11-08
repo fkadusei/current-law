@@ -3534,5 +3534,24 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2018 law directs HHS to transfer specified property in Sitka, Alaska, to the Southeast Alaska Regional Health Consortium at no cost.",
+  "what_it_does": "The law requires the Department of Health and Human Services to convey specified property in Sitka, Alaska, to the Southeast Alaska Regional Health Consortium. The consortium does not have to pay for the property, and it does not take on any obligation, term, or condition as part of the transfer. The federal government also keeps no right to take the property back. The consortium is not responsible for environmental contamination that happened before the transfer.",
+  "who_it_affects": [
+   {
+    "group": "Southeast Alaska Regional Health Consortium",
+    "how": "It receives the specified Sitka property without paying for it, with no attached conditions or federal right to reclaim it, and it is not liable for pre-transfer contamination."
+   },
+   {
+    "group": "Department of Health and Human Services",
+    "how": "It must carry out the conveyance of the specified Sitka property to the consortium."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on December 18, 2018, and the official summary does not list a separate later effective date.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

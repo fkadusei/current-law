@@ -39,5 +39,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Congress named the post office at 108 West D Street in Alpha, Illinois, after Captain Joshua E. Steele.",
+  "what_it_does": "This law renames a U.S. Postal Service facility in Alpha, Illinois, as the Captain Joshua E. Steele Post Office. It changes only the official name of the building. It does not change postal services, mail delivery, or staffing.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law took effect when it was enacted on December 6, 2018.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

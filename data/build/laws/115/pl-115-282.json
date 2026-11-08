@@ -4360,5 +4360,40 @@
   "House": "R",
   "Senate": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "This law reauthorizes and adjusts Coast Guard funding, personnel limits, and rules, plus changes to maritime safety, shipping competition, and vessel pollution standards.",
+  "what_it_does": "The law sets Coast Guard personnel levels and extends several Coast Guard programs and funding through fiscal years 2018 and 2019. It authorizes specific spending of up to $167.5 million for three Fast Response Cutters and the same amount for shoreside facilities. It also changes many smaller rules on vessel safety, recreational boating equipment, and fishing vessels, and extends the Federal Maritime Commission through FY2019 with new limits on shipping carriers negotiating as a group. Title IX creates national standards for ballast water and other vessel discharges, and Title X reauthorizes hydrographic services through FY2023.",
+  "who_it_affects": [
+   {
+    "group": "Coast Guard members",
+    "how": "Active duty end-of-year strength is set at 43,000 for FY2018 and 44,500 for FY2019, and officers and enlisted members get leave tied to the birth or adoption of a child."
+   },
+   {
+    "group": "Recreational boat owners",
+    "how": "Boats under 26 feet must have an engine cut-off switch, recreational endorsements last five years, and the Coast Guard may charge a fee for recreational vessel certificates."
+   },
+   {
+    "group": "Commercial fishing vessel operators",
+    "how": "Some fishing vessels are exempt from carrying an extra survival craft, owners may request a dockside exam every two years, and certain named vessels receive fishery endorsements and harvesting limits."
+   },
+   {
+    "group": "Ocean common carriers and marine terminal operators",
+    "how": "Carriers may not negotiate as a group for certain port services such as berthing, cargo handling, buoy work, and towing, and the Federal Maritime Commission gets added reporting and oversight tools."
+   },
+   {
+    "group": "Vessel owners subject to ballast water and discharge rules",
+    "how": "NOAA must set uniform national standards for vessel discharges and ballast water, with exemptions for certain vessel types such as military vessels and some recreational boats."
+   },
+   {
+    "group": "Whitewater rafting companies",
+    "how": "A marine throw bag may count as lifesaving equipment, and rafts 16 feet or longer may skip carrying an extra throwable flotation device when such a bag is onboard."
+   }
+  ],
+  "when_it_takes_effect": "Enacted December 4, 2018; most authorizations run through FY2018 or FY2019, with some provisions having later dates such as the Ship Shoal Lighthouse repeal on January 1, 2021 and the fire retardant exemption extended through December 1, 2028.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

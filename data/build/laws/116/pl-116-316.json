@@ -36,5 +36,24 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A new law lets winners of the Patents for Humanity award pass their acceleration certificate to another party.",
+  "what_it_does": "The Patents for Humanity program honors patent owners, applicants, and licensees who use their inventions to meet humanitarian needs. Winners receive a certificate that can speed up certain U.S. Patent and Trademark Office proceedings, such as a patent application. This law allows the holder of that certificate to transfer it to someone else.",
+  "who_it_affects": [
+   {
+    "group": "Patents for Humanity award winners",
+    "how": "They can now transfer their acceleration certificate to another party instead of keeping it themselves."
+   },
+   {
+    "group": "Organizations or individuals who might receive a transferred certificate",
+    "how": "They may be able to use a certificate that someone else earned to speed up certain Patent Office proceedings."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on January 5, 2021. The summary does not state a separate effective date.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -1,0 +1,20 @@
+{
+ "headline": "This law keeps federal agencies funded for one extra day, through December 21, 2020, so a government shutdown does not start on December 21.",
+ "what_it_does": "It is a continuing resolution, a temporary funding measure that keeps federal agencies running when the full FY2021 spending bills are not yet done. It provides FY2021 money to federal agencies through December 21, 2020. Without it, the earlier temporary funding would have expired on December 20, 2020, and agencies could have lost their money.",
+ "who_it_affects": [
+  {
+   "group": "Federal agencies",
+   "how": "They can keep spending money on their operations for another day while Congress finishes the full FY2021 spending bills."
+  },
+  {
+   "group": "Federal employees",
+   "how": "Their agencies stay open and funded, so a shutdown that could have interrupted their paychecks and work does not happen on December 21, 2020."
+  }
+ ],
+ "when_it_takes_effect": "Enacted December 20, 2020, with funding available through December 21, 2020.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

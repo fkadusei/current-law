@@ -45,5 +45,40 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Extends several expiring USDA livestock price reporting, forest foundation, and grain inspection programs through 2018 or 2020, with new rules for grain inspectors and lamb reporting.",
+  "what_it_does": "The law keeps USDA's mandatory livestock price reporting program running through FY2020 and adds new swine and lamb reporting rules. It lets USDA keep matching funds for the National Forest Foundation for FY2016 through FY2018. It also renews the U.S. Grain Standards Act through FY2020, changes how grain inspection and weighing are delegated to state agencies, and requires reports to Congress on a 2014 Port of Vancouver inspection disruption and on foreign barriers to U.S. grain.",
+  "who_it_affects": [
+   {
+    "group": "Livestock producers and meatpackers",
+    "how": "Mandatory price reporting for livestock continues through FY2020, and certain swine and lamb sales must be reported under revised definitions of packers and importers."
+   },
+   {
+    "group": "Lamb importers",
+    "how": "Only importers that brought in an average of at least 1,000 metric tons of lamb meat per year over the prior four years, or that USDA otherwise designates, must report under the lamb rules."
+   },
+   {
+    "group": "Grain exporters and export elevator operators",
+    "how": "Grain moved into an export elevator by any transport method no longer needs an official weighing, and USDA must act quickly to restore services if inspection or weighing is interrupted."
+   },
+   {
+    "group": "State agencies that perform official grain inspection",
+    "how": "Their permanent federal delegation ends, and they must be recertified every five years through a process that includes public comment and advance notice before any temporary shutdown."
+   },
+   {
+    "group": "Licensed grain inspectors",
+    "how": "Inspector licenses now last five years instead of three."
+   },
+   {
+    "group": "National Forest Foundation",
+    "how": "USDA may provide matching funds for certain administrative and project costs for FY2016 through FY2018."
+   }
+  ],
+  "when_it_takes_effect": "Signed into law on September 30, 2015; the livestock reporting extension was set to run out at the end of FY2015, and the grain and forest provisions run through FY2016 to FY2020 depending on the section.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

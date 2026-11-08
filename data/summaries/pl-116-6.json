@@ -1,0 +1,44 @@
+{
+ "headline": "A large spending law that funds seven federal departments and agencies for fiscal year 2019 and makes many smaller rule changes and program extensions.",
+ "what_it_does": "This law provides fiscal year 2019 money for seven of the twelve regular federal spending bills, covering agencies such as Homeland Security, Agriculture and the FDA, Commerce and Justice, Financial Services, Interior and Environment, State and Foreign Operations, and Transportation and Housing. It sets many conditions on how that money can be spent, such as limits on overtime, reporting duties for agencies, and bans on certain uses of funds. It also extends several expiring immigration programs, including E-Verify and the H-2B visa cap authority, and makes technical changes to existing law.",
+ "who_it_affects": [
+  {
+   "group": "Employees of U.S. Customs and Border Protection, ICE, and the Secret Service",
+   "how": "Their overtime pay is limited except in cases DHS determines are necessary for national security, to prevent excessive costs, or in immigration emergencies."
+  },
+  {
+   "group": "Businesses that use E-Verify and employers who hire H-2B seasonal workers",
+   "how": "The E-Verify program authorization is extended through FY2019, and the H-2B worker visa limit authority is extended as well."
+  },
+  {
+   "group": "Foreign doctors on J-1 visas and their medically underserved community employers",
+   "how": "The Conrad 30 waiver program is extended through FY2019, allowing eligible doctors to waive the home-country residency requirement."
+  },
+  {
+   "group": "Recipients of USDA rural housing, broadband, and water loans and grants",
+   "how": "Specific appropriations are provided and rules are set for programs such as the broadband pilot, rural water projects, and rural housing loans."
+  },
+  {
+   "group": "Participants in SNAP and WIC food programs",
+   "how": "The law provides funding for these programs and rescinds some unused WIC balances, while also adding restrictions on certain SNAP retailer rules."
+  },
+  {
+   "group": "Federal employees and federal contractors",
+   "how": "The law sets a government-wide pay increase for federal employees, limits some contractor award fees, and restricts some uses of funds for contractor and employee matters."
+  },
+  {
+   "group": "Sponsors of unaccompanied children",
+   "how": "DHS may not use funds to detain or remove sponsors or household members based on certain information from HHS, except when a background check shows specified information."
+  },
+  {
+   "group": "Taxpayers who deal with the IRS",
+   "how": "The law requires IRS training on taxpayers' rights, identity theft protections, and help line improvements, and limits certain IRS transfers and uses of funds."
+  }
+ ],
+ "when_it_takes_effect": "Enacted February 15, 2019, with the appropriations generally available for fiscal year 2019, which runs from October 1, 2018 through September 30, 2019, though some provisions have different dates.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

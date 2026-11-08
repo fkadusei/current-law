@@ -1,0 +1,20 @@
+{
+ "headline": "A 2020 law creates a federal commission inside the U.S. Commission on Civil Rights to study conditions affecting Black men and boys.",
+ "what_it_does": "The law sets up the Commission on the Social Status of Black Men and Boys. It places the commission within the Office of the Staff Director of the U.S. Commission on Civil Rights. Its job is to carry out a systematic study of the conditions that affect Black men and boys.",
+ "who_it_affects": [
+  {
+   "group": "Black men and boys",
+   "how": "They are the subject of the commission's study, which is meant to examine the conditions that affect them, but the law does not by itself change their legal rights or services."
+  },
+  {
+   "group": "U.S. Commission on Civil Rights",
+   "how": "The commission is housed within its Office of the Staff Director, so it will be connected to that agency's administration."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

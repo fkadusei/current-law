@@ -1,0 +1,28 @@
+{
+ "headline": "This law widens the federal definition of anabolic steroids to cover new designer substances and adds labeling rules for steroid products.",
+ "what_it_does": "It changes the Controlled Substances Act so that some unlisted drugs count as anabolic steroids if they are chemically similar to listed steroids and are made or sold to mimic testosterone effects. It excludes most herbs, botanicals, and dietary ingredients that are not anabolic, and places the burden on the person claiming an exception to prove it. It lets the Attorney General add substances to the list after finding that doing so helps prevent abuse. It also requires steroid products to carry labels using the chemical naming standard from the International Union of Pure and Applied Chemistry, with an exemption for products labeled under the Food, Drug, and Cosmetic Act, and lets the Attorney General collect data and publish a list of improperly labeled products.",
+ "who_it_affects": [
+  {
+   "group": "Manufacturers and sellers of dietary supplements and performance products",
+   "how": "Products that are chemically similar to listed steroids or marketed to mimic testosterone may now be treated as controlled anabolic steroids, and they must use the required chemical labeling unless an exemption applies."
+  },
+  {
+   "group": "Companies that make or import anabolic steroid products",
+   "how": "They must label steroid products with IUPAC chemical names, and violations can bring federal penalties."
+  },
+  {
+   "group": "People who claim an exception for herbal or dietary products",
+   "how": "They must provide evidence that their product qualifies for the botanical or dietary ingredient exclusion."
+  },
+  {
+   "group": "Consumers who buy performance-enhancing or muscle-building products",
+   "how": "Some products sold as alternatives to steroids may be restricted or labeled differently, and the Attorney General may publish lists of improperly labeled products."
+  }
+ ],
+ "when_it_takes_effect": "Took effect on enactment, December 18, 2014, with the Attorney General's new authority to add substances to the list available from that date.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

@@ -36,5 +36,24 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This resolution appoints John Fahey as a citizen regent on the Smithsonian Institution's Board of Regents.",
+  "what_it_does": "Public Law 113-84 is a joint resolution that names John Fahey as a citizen regent of the Board of Regents of the Smithsonian Institution. The Smithsonian is a federal museum and research group, and its Board of Regents oversees it. The official summary does not describe any other duties, rules, or funding changes.",
+  "who_it_affects": [
+   {
+    "group": "John Fahey",
+    "how": "He is named to serve as a citizen regent on the Smithsonian's Board of Regents."
+   },
+   {
+    "group": "The Smithsonian Institution's Board of Regents",
+    "how": "The board gains one citizen member through this appointment."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on February 21, 2014. The official summary does not give a separate effective date.",
+  "ceremonial": false,
+  "confidence": "low",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

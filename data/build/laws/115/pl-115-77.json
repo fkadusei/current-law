@@ -39,5 +39,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Creates a federal commission to plan and carry out programs honoring abolitionist Frederick Douglass on the bicentennial of his birth.",
+  "what_it_does": "The law sets up the Frederick Douglass Bicentennial Commission. The commission will plan and carry out programs and activities to honor Douglass and will recommend which federal government entities should carry them out. It must recommend activities to Congress by August 1, 2018, and submit a final report on its activities and spending by June 1, 2019.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law was enacted on November 2, 2017. Its reporting deadlines are August 1, 2018, and June 1, 2019.",
+  "ceremonial": true,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

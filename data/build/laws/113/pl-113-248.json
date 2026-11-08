@@ -39,5 +39,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2014 law approves transferring federally owned Yellow Creek Port property in Iuka, Mississippi, from the Tennessee Valley Authority to the state of Mississippi.",
+  "what_it_does": "The law approves the Tennessee Valley Authority giving the federally owned Yellow Creek Port properties at Iuka, Mississippi, to the state of Mississippi. The TVA had been holding these properties. Under the transfer, the state takes ownership. The summary does not describe any conditions, payments, or later steps.",
+  "who_it_affects": [
+   {
+    "group": "State of Mississippi",
+    "how": "The state receives ownership of the Yellow Creek Port properties in Iuka."
+   },
+   {
+    "group": "Tennessee Valley Authority",
+    "how": "The TVA no longer holds custody of the Yellow Creek Port properties once the transfer is carried out."
+   },
+   {
+    "group": "People who use or live near Yellow Creek Port",
+    "how": "The summary does not say whether port operations or access will change, so any day-to-day effect is unclear."
+   }
+  ],
+  "when_it_takes_effect": "The law took effect when it was signed on December 18, 2014. The summary does not list a later deadline for completing the transfer.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

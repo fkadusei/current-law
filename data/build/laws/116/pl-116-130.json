@@ -39,5 +39,36 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Congress required the FCC to overhaul how it collects, checks, and publishes data on where broadband internet service is available.",
+  "what_it_does": "The law tells the Federal Communications Commission to collect detailed information on broadband availability from internet providers using wired, fixed wireless, satellite, and mobile connections. The FCC must build a national database of geocoded broadband service locations, called the Broadband Serviceable Location Fabric, and use it to create broadband availability maps. The law also requires a process for members of the public and governments to challenge map accuracy, regular FCC audits of provider data, and help with data submission for tribes, small providers, consumers, and state, local, and tribal governments. The Government Accountability Office must also report on locations where fixed broadband could be installed.",
+  "who_it_affects": [
+   {
+    "group": "Broadband internet providers",
+    "how": "Wired, fixed wireless, satellite, and mobile providers must report granular service availability data that the FCC will audit."
+   },
+   {
+    "group": "Small broadband providers",
+    "how": "They are eligible for FCC help with collecting and submitting availability data."
+   },
+   {
+    "group": "Indian tribes",
+    "how": "They are eligible for FCC help with collecting and submitting broadband data."
+   },
+   {
+    "group": "State, local, and tribal governments",
+    "how": "They can receive FCC assistance and use the challenge process to submit data that disputes FCC broadband maps."
+   },
+   {
+    "group": "Consumers and members of the public",
+    "how": "They can submit information to challenge or supplement provider data and help verify broadband availability maps."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

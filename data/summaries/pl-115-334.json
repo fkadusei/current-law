@@ -1,0 +1,36 @@
+{
+ "headline": "The 2018 farm bill renews and updates USDA programs covering farm support, food aid, nutrition, conservation, rural areas, and more through fiscal year 2023.",
+ "what_it_does": "This law is commonly called the farm bill. It reauthorizes and changes Department of Agriculture programs across many areas, including commodity support, conservation, trade and food aid, nutrition assistance, farm credit, and rural development. It also covers research, forestry, energy, horticulture, crop insurance, livestock, food defense, and programs for historically underserved producers. The official summary does not give the specific rule changes, so details are in the Congressional Research Service report R45525.",
+ "who_it_affects": [
+  {
+   "group": "Farmers and ranchers who grow crops or raise livestock",
+   "how": "The law sets the rules for commodity support, crop insurance, and livestock programs they may use."
+  },
+  {
+   "group": "People who receive SNAP food benefits",
+   "how": "The law changes nutrition assistance programs that provide food aid to low-income households."
+  },
+  {
+   "group": "Landowners who take part in conservation programs",
+   "how": "The law modifies conservation programs that pay or assist landowners for conservation practices."
+  },
+  {
+   "group": "Historically underserved producers",
+   "how": "The law includes programs aimed specifically at farmers and ranchers from groups that have been underserved by USDA programs."
+  },
+  {
+   "group": "Rural residents and rural businesses",
+   "how": "The law changes rural development and farm credit programs that support rural communities and borrowers."
+  },
+  {
+   "group": "Forest landowners and forestry businesses",
+   "how": "The law modifies forestry programs that affect how forest land is managed and supported."
+  }
+ ],
+ "when_it_takes_effect": "Enacted December 20, 2018, with programs authorized through fiscal year 2023; start dates for individual provisions vary and are not listed in the summary.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

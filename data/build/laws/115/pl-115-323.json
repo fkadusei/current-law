@@ -39,5 +39,24 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law lets citizens of three Pacific island nations admitted under a Compact of Free Association apply for a full driver's license or ID card, not just a temporary one.",
+  "what_it_does": "The law changes the REAL ID Act of 2005. Before this change, citizens of the Marshall Islands, the Federated States of Micronesia, and Palau who entered the United States under a Compact of Free Association could get only a temporary driver's license or ID card. Under the new rule, they can be eligible for a regular driver's license or personal identification card.",
+  "who_it_affects": [
+   {
+    "group": "Citizens of the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau who were admitted to the U.S. under a Compact of Free Association",
+    "how": "They may now qualify for a standard driver's license or personal ID card instead of only a temporary one."
+   },
+   {
+    "group": "State motor vehicle agencies that issue driver's licenses and ID cards",
+    "how": "They must be able to issue standard licenses and ID cards to these eligible people under the federal REAL ID framework."
+   }
+  ],
+  "when_it_takes_effect": "The official summary does not give a separate start date. The law was enacted on December 17, 2018.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

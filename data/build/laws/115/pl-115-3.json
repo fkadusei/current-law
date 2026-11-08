@@ -873,5 +873,32 @@
  "control": {
   "Senate": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "This law lets the Government Accountability Office sue federal agencies to get records it needs for its audits and investigations.",
+  "what_it_does": "The law gives the Government Accountability Office (GAO), Congress's audit agency, the power to obtain federal agency records it needs to do its work. If an agency refuses, GAO can bring a civil lawsuit to force it to hand over the record. The law also says that nothing in the Social Security Act limits GAO's access to agency information. Agencies must send their statements about actions taken or planned in response to GAO recommendations to the relevant congressional committees and to GAO.",
+  "who_it_affects": [
+   {
+    "group": "Federal agencies",
+    "how": "They must provide records GAO requires for its audit, evaluation, and investigative duties, and GAO can sue them if they refuse."
+   },
+   {
+    "group": "Government Accountability Office",
+    "how": "It gains explicit authority to bring civil actions to obtain agency records it needs."
+   },
+   {
+    "group": "Congressional committees with jurisdiction over federal programs",
+    "how": "They receive agency statements on actions taken or planned in response to GAO recommendations."
+   },
+   {
+    "group": "Social Security Administration and Social Security program staff",
+    "how": "The law states that Social Security Act provisions cannot be read to limit GAO's access to records."
+   }
+  ],
+  "when_it_takes_effect": "The law took effect when it was enacted on January 31, 2017.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

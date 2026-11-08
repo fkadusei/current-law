@@ -3541,5 +3541,28 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "This law tells the FAA to rewrite its safety certification rules for small airplanes so they focus on performance goals rather than detailed fixed requirements.",
+  "what_it_does": "The law directs the Federal Aviation Administration to issue a final rule that reorganizes the certification rules for small airplanes, which are covered by a part of the federal aviation rules called Part 23. The new rule must follow industry consensus standards and goals set by an FAA advisory committee. It would replace many detailed, prescriptive requirements with broader performance-based goals and allow accepted consensus standards to show how those goals can be met. The stated aim is to make it easier to approve new safety technologies for small planes.",
+  "who_it_affects": [
+   {
+    "group": "Small airplane manufacturers",
+    "how": "They would need to meet the revised certification framework, which is designed to make approval of new safety designs and technologies easier to pursue."
+   },
+   {
+    "group": "FAA aviation safety staff",
+    "how": "They would be responsible for writing and issuing the final rule within the framework the law describes."
+   },
+   {
+    "group": "Small airplane owners and pilots",
+    "how": "Over time, the aircraft they fly could be built under the revised certification rules, which may change which safety designs and technologies are approved."
+   }
+  ],
+  "when_it_takes_effect": "The law requires the FAA to issue the final rule, but the summary does not give a specific deadline or effective date for that rule.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

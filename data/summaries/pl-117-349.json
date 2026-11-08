@@ -1,0 +1,28 @@
+{
+ "headline": "Congress approved and funded a water rights settlement with the Hualapai Tribe in Arizona, adding land to its reservation and setting up water projects and trust funds.",
+ "what_it_does": "The law approves a settlement agreement between the Hualapai Tribe, the federal government, Arizona, and others that resolves the tribe's claims to groundwater and surface water in Arizona. It directs the Interior Department to give the tribe 4,000 acre-feet of Central Arizona Project agricultural water and to sign a water delivery contract with the tribe. It creates trust fund accounts to pay for a water project that would bring Colorado River water to the reservation, and for groundwater monitoring in the Truxton Basin. It also adds some Arizona land to the reservation and limits future off-reservation land transfers into trust to acts of Congress.",
+ "who_it_affects": [
+  {
+   "group": "Hualapai Tribe members",
+   "how": "The tribe gains recognized water rights, a water supply project, trust fund money, and added reservation land, and it gives up certain water claims under the settlement."
+  },
+  {
+   "group": "Farmers and water users in the Central Arizona Project system",
+   "how": "Water that had been set aside for nontribal agricultural users is reallocated to the tribe instead."
+  },
+  {
+   "group": "Residents and water users in the Truxton Basin area",
+   "how": "Groundwater monitoring and withdrawal estimates are funded to track water use outside the reservation."
+  },
+  {
+   "group": "Land owners near the reservation seeking land taken into trust",
+   "how": "Future off-reservation land can only be placed into trust for the tribe through a new act of Congress."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on January 5, 2023. The settlement agreement is repealed, except for land provisions, if Interior does not publish a statement by April 15, 2029, confirming that required conditions, including the water delivery contract, have been met.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

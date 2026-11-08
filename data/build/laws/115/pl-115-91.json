@@ -4376,5 +4376,40 @@
   "House": "R",
   "Senate": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "The FY2018 defense authorization law sets spending levels, personnel numbers, and many rules for the military, the Energy Department's nuclear programs, and military construction.",
+  "what_it_does": "This law authorizes money for the Department of Defense and the nuclear security programs of the Department of Energy for fiscal year 2018, but it does not provide the actual appropriations, which come later in separate spending bills. It sets active-duty and reserve troop strength levels and changes many policies on pay, housing, health care, acquisition contracts, and military justice. It also authorizes military construction projects and tells the military to complete many reports, studies, and certifications for Congress.",
+  "who_it_affects": [
+   {
+    "group": "Active-duty service members and their families",
+    "how": "The law sets end strengths, changes pay and housing rules, expands some TRICARE health care coverage, and adds childcare and spouse support measures."
+   },
+   {
+    "group": "Reserve and National Guard members",
+    "how": "The law expands when reservists can get health care after being ordered to active duty and extends certain bonus and special pay authorities."
+   },
+   {
+    "group": "Veterans and former service members",
+    "how": "The law requires notice about veterans' benefit petitions for certain discharges, changes discharge review board procedures, and extends some VA examination authority."
+   },
+   {
+    "group": "Defense contractors and small businesses",
+    "how": "The law raises the simplified acquisition threshold to $250,000 and the micro-purchase threshold to $10,000, and changes many contracting and audit rules."
+   },
+   {
+    "group": "Workers at Department of Defense and Energy facilities",
+    "how": "The law extends several civilian personnel authorities, including direct hire and overtime pay rules, and changes some hiring and training requirements."
+   },
+   {
+    "group": "Residents near military installations and Guantanamo Bay detainees",
+    "how": "The law bars the use of funds to transfer Guantanamo detainees into the United States and changes rules on energy siting and property conveyances near bases."
+   }
+  ],
+  "when_it_takes_effect": "Most provisions took effect when the law was signed on December 12, 2017, while others apply on October 1, 2017, or later dates set in the text, and many reports are due on set deadlines.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

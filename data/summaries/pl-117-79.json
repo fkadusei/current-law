@@ -1,0 +1,28 @@
+{
+ "headline": "A 2021 federal law creates grant programs and a public-private partnership to speed research and drug development for ALS and other rare neurodegenerative diseases.",
+ "what_it_does": "The law directs HHS to fund research using data from expanded access programs, which give investigational ALS treatments to patients who cannot join clinical trials. It directs the FDA to award grants covering costs of developing drugs that diagnose or treat ALS and other rare neurodegenerative diseases. It also sets up a Public-Private Partnership for Neurodegenerative Diseases among NIH, the FDA, and eligible institutions or nonprofits, and requires the FDA to publish a five-year action plan and GAO to report to Congress on the grants.",
+ "who_it_affects": [
+  {
+   "group": "People living with ALS and other rare neurodegenerative diseases",
+   "how": "They could benefit from new research and treatments that the grants and partnership are meant to support, though the law does not guarantee any specific drug."
+  },
+  {
+   "group": "Patients who cannot join clinical trials",
+   "how": "They may gain access to investigational ALS treatments through expanded access data research funded under the law."
+  },
+  {
+   "group": "Universities and nonprofit organizations",
+   "how": "They can apply for federal grants and serve as partners in the new public-private partnership."
+  },
+  {
+   "group": "Drug developers, including private companies",
+   "how": "They can receive FDA grants to help cover research and development costs for ALS and rare neurodegenerative disease drugs."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on December 23, 2021, and its programs take effect as agencies carry out the grants, partnership, and reports it requires; the summary does not list specific start dates.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

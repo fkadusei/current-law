@@ -1,0 +1,28 @@
+{
+ "headline": "A 2018 federal law changes how courts set restitution for victims of child pornography and creates a new fund that pays some victims.",
+ "what_it_does": "When someone is convicted of trafficking in child pornography, the court must order restitution of at least $3,000, based on the defendant's share of the victim's losses, including losses from all trafficking offenses involving the same victim. A victim may choose a one-time payment of $35,000, adjusted for inflation, from a new Child Pornography Victims Reserve, subject to limits the summary does not describe. The reserve is part of the Crime Victims Fund and is paid for by extra assessments that courts must impose on people convicted of child pornography offenses. The law also gives victims reasonable access to the material depicting them for inspection by the victim, their attorney, and potential expert witnesses during a criminal case.",
+ "who_it_affects": [
+  {
+   "group": "Victims of child pornography offenses",
+   "how": "They may seek mandatory restitution and may elect a one-time $35,000 payment from the reserve, subject to limits."
+  },
+  {
+   "group": "People convicted of trafficking in child pornography",
+   "how": "Courts must order them to pay restitution of at least $3,000 and must impose extra assessments that fund the reserve."
+  },
+  {
+   "group": "Federal criminal courts",
+   "how": "Judges must follow the new rules for setting the restitution amount and imposing the additional assessments."
+  },
+  {
+   "group": "Victims' attorneys and potential expert witnesses",
+   "how": "They are allowed reasonable access to the depicting material for inspection, viewing, and examination during a criminal case."
+  }
+ ],
+ "when_it_takes_effect": "The summary does not state an effective date for these provisions. The bill was enacted on December 7, 2018.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

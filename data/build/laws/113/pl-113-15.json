@@ -36,5 +36,24 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This 2013 law adds seasonal flu vaccines to the federal excise tax list that already covers certain other vaccines.",
+  "what_it_does": "The law amends the Internal Revenue Code to add vaccines against seasonal influenza to the list of taxable vaccines. That list is the set of vaccines subject to the federal excise tax. The summary does not state the tax rate, so this explanation does not give an amount.",
+  "who_it_affects": [
+   {
+    "group": "Vaccine manufacturers and sellers of seasonal flu vaccine",
+    "how": "Sales of seasonal flu vaccines become subject to the federal excise tax on taxable vaccines, which the seller or manufacturer is generally responsible for under the tax code."
+   },
+   {
+    "group": "People who buy flu vaccines, including through clinics and pharmacies",
+    "how": "Because the excise tax may be built into vaccine prices, the cost of flu shots could be affected, though the summary does not say how much."
+   }
+  ],
+  "when_it_takes_effect": "The change applies to sales and uses of flu vaccines on or after the later of two dates: the first day of the first month that begins more than four weeks after enactment on June 25, 2013, or the date the Secretary of Health and Human Services lists a seasonal flu vaccine for compensation through the Vaccine Injury Compensation Trust Fund. The summary does not state the actual date that applies.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -33,5 +33,24 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A short extension that keeps smaller boats and fishing vessels exempt from a federal pollution discharge permit requirement until January 19, 2018.",
+  "what_it_does": "Under the Clean Water Act's NPDES permit system, certain discharges from vessels normally need a federal permit. This law extends an existing exemption for vessels shorter than 79 feet and for all fishing vessels. The exemption covers engine effluent from properly functioning marine engines, laundry, shower, and galley sink wastes, and other discharges incidental to normal vessel operation. The extension runs through January 19, 2018.",
+  "who_it_affects": [
+   {
+    "group": "Owners and operators of fishing vessels",
+    "how": "They do not need an NPDES permit for the covered discharges through January 19, 2018."
+   },
+   {
+    "group": "Owners and operators of recreational and commercial vessels shorter than 79 feet",
+    "how": "They do not need an NPDES permit for the covered discharges through January 19, 2018."
+   }
+  ],
+  "when_it_takes_effect": "The extension applies upon enactment on January 3, 2018, and the exemption period ends January 19, 2018.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

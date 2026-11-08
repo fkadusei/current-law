@@ -1,0 +1,24 @@
+{
+ "headline": "A 2019 law confirms that certain donations and payments made for the families of the Virginia Beach shooting victims get specific tax treatment.",
+ "what_it_does": "The law says cash gifts made on or after May 31, 2019, for the families of people killed or wounded in the Virginia Beach mass shooting count as tax-deductible contributions. It also says that certain payments by tax-exempt organizations to the spouses or dependents of those victims, made from May 31, 2019 through June 1, 2021, count as related to the organization's tax-exempt purpose. This applies only if the payments were made in good faith, used a reasonable and objective formula, and were applied consistently to the victims.",
+ "who_it_affects": [
+  {
+   "group": "Families of people killed or wounded in the May 31, 2019 Virginia Beach mass shooting",
+   "how": "Their spouses and dependents may receive cash support from donors and tax-exempt organizations that the law treats as tax-favored."
+  },
+  {
+   "group": "People who gave cash to help the families of the Virginia Beach shooting victims",
+   "how": "Cash gifts made on or after May 31, 2019, for those families are treated as tax-deductible contributions."
+  },
+  {
+   "group": "Tax-exempt organizations that paid victims' spouses or dependents",
+   "how": "Qualifying payments made from May 31, 2019 through June 1, 2021, are treated as related to their tax-exempt purpose rather than as benefits to private individuals."
+  }
+ ],
+ "when_it_takes_effect": "Signed into law December 20, 2019, with the tax treatment applying retroactively to gifts and payments made starting May 31, 2019; the organization payment rule covers payments made through June 1, 2021.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

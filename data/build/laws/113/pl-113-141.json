@@ -42,5 +42,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2014 law directs the Forest Service to transfer about 40 acres of national forest land in Summit County, Colorado, to the county.",
+  "what_it_does": "The law tells the Secretary of Agriculture to give Summit County all of the federal government's interest in roughly 40 acres of National Forest System land called the Lake Hill Administrative Site. Summit County must pay the costs of processing and completing the direct sale. The money from the sale must go to capital improvement and maintenance of Forest Service facilities in Region 2. The official summary does not say how the county must use the land, though the title refers to affordable housing.",
+  "who_it_affects": [
+   {
+    "group": "Summit County, Colorado, government",
+    "how": "The county receives the land and must cover the processing and transaction costs of the sale."
+   },
+   {
+    "group": "Forest Service Region 2 facilities and the people who use them",
+    "how": "Sale proceeds are directed to capital improvements and maintenance of Forest Service facilities in the region."
+   },
+   {
+    "group": "Residents of Summit County seeking housing",
+    "how": "The land transfer could affect what the county is able to build or plan on the site, though the summary sets no housing requirement."
+   }
+  ],
+  "when_it_takes_effect": "The law took effect when it was enacted on July 25, 2014, but the summary does not set a deadline for completing the land transfer.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

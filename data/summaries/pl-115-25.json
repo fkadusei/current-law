@@ -1,0 +1,32 @@
+{
+ "headline": "This 2017 law directs NOAA to improve weather research, forecasting, warnings, and tsunami programs, with several new reports and programs.",
+ "what_it_does": "The law tells the National Oceanic and Atmospheric Administration (NOAA) to prioritize weather research aimed at better forecasts and warnings for high-impact events like tornadoes and hurricanes. It sets up programs for tornado and hurricane forecasting, subseasonal and seasonal forecasts, satellite data purchases, and staff coordination between research and the National Weather Service. It also merges the Pacific, Arctic, and Atlantic tsunami warning systems into one system and updates tsunami hazard mitigation and research programs.",
+ "who_it_affects": [
+  {
+   "group": "People living in tornado-, hurricane-, and tsunami-prone areas",
+   "how": "They may see improved forecasts, warnings, and tsunami preparedness assistance as NOAA carries out these programs."
+  },
+  {
+   "group": "Nonfederal weather researchers and universities",
+   "how": "They may compete for NOAA grants, contracts, and cooperative agreements to fund weather research."
+  },
+  {
+   "group": "Commercial weather data providers",
+   "how": "The federal government may buy weather data from them under contracts, and NOAA must avoid duplicating private data sources."
+  },
+  {
+   "group": "Coastal ports and harbors",
+   "how": "They may receive federal preparedness activities and assistance aimed at tsunami risk."
+  },
+  {
+   "group": "Communities with limited Next Generation Weather Radar coverage",
+   "how": "The Department of Commerce must study coverage gaps and recommend ways to improve hazardous weather detection in those areas."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on April 18, 2017, and many provisions take effect then, though several require reports or programs on later timelines; some authorizations run through fiscal year 2018 and the tsunami provisions through fiscal year 2021.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

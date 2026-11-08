@@ -1,0 +1,20 @@
+{
+ "headline": "A 2022 law changes the wording of a federal threats statute so it uses gender-neutral terms like spouse instead of wife and widow when protecting former presidents' families.",
+ "what_it_does": "The law updates a federal criminal offense involving threats to kill, kidnap, or harm a former President or a member of a former President's immediate family. It replaces the gender-specific words wife and widow with the gender-neutral terms spouse and surviving spouse. The summary describes this as a wording change and does not describe any other change to the offense.",
+ "who_it_affects": [
+  {
+   "group": "Spouses and surviving spouses of former Presidents",
+   "how": "The statute now covers them using gender-neutral language, so a former President's husband or widower is clearly included in the protected immediate family."
+  },
+  {
+   "group": "Former Presidents",
+   "how": "Their immediate family members are protected under the same threat offense, now worded in gender-neutral terms."
+  }
+ ],
+ "when_it_takes_effect": "The summary does not state a separate effective date; the law was enacted on December 27, 2022.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

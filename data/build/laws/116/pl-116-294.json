@@ -3510,5 +3510,20 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "This law extends the Great Lakes Restoration Initiative, a federal environmental cleanup program, through fiscal year 2026.",
+  "what_it_does": "The law reauthorizes the Great Lakes Restoration Initiative, which means the program's authority to operate continues through fiscal year 2026. A reauthorization sets how long a program can run but does not by itself set the amount of money it receives. The official summary provided is short and does not list specific projects, funding levels, or new requirements.",
+  "who_it_affects": [
+   {
+    "group": "People and communities in the Great Lakes region",
+    "how": "The cleanup and restoration program that works in the Great Lakes area can continue operating through fiscal year 2026."
+   }
+  ],
+  "when_it_takes_effect": "Became law on January 5, 2021, and the program's authorization runs through fiscal year 2026, which ends September 30, 2026.",
+  "ceremonial": false,
+  "confidence": "low",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -36,5 +36,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Creates a federal commission to commemorate the 100th anniversary of U.S. Route 66, set to end on December 31, 2026.",
+  "what_it_does": "The law sets up the Route 66 Centennial Commission to honor U.S. Route 66 as it marks its 100th anniversary. It describes the commission's duties, how its members are chosen, what powers it has, and what it must report. The commission ends on December 31, 2026.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "Enacted December 23, 2020; the commission terminates December 31, 2026.",
+  "ceremonial": true,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

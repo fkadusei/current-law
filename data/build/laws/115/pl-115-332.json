@@ -39,5 +39,24 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2018 law lets federal courts send a wrongly filed tax case to the U.S. Tax Court instead of dismissing it.",
+  "what_it_does": "The law changes the federal judicial code. It lets a U.S. district court, a U.S. court of appeals, the U.S. Court of Federal Claims, or the Court of International Trade transfer a case to the U.S. Tax Court when the case was filed in the wrong court but belongs in the Tax Court. The summary provided does not describe other changes in detail.",
+  "who_it_affects": [
+   {
+    "group": "Taxpayers who file a tax case in the wrong federal court",
+    "how": "Their case can be moved to the Tax Court rather than being thrown out, which may help them avoid losing time or missing deadlines."
+   },
+   {
+    "group": "Federal courts and the U.S. Tax Court",
+    "how": "These courts now have authority to transfer misfiled tax cases between them."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

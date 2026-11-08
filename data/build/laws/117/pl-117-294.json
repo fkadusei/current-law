@@ -36,5 +36,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Congress named a post office in Suffern, New York, after Sergeant Gerald T. \"Jerry\" Donnellan.",
+  "what_it_does": "This law renames the U.S. Postal Service facility at 15 Chestnut Street in Suffern, New York. The building will now be called the Sergeant Gerald T. \"Jerry\" Donnellan Post Office. It does not change how mail is delivered or what services the office offers.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law was enacted on December 27, 2022.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

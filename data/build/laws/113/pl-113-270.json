@@ -3543,5 +3543,32 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "This law stops Social Security and SSI benefits for people whose U.S. citizenship was revoked over Nazi persecution conduct, or who gave up citizenship after admitting such conduct.",
+  "what_it_does": "It treats certain people as removed from the country under immigration law. This happens when a court order granting citizenship is revoked and set aside because of conduct tied to Nazi persecution, hiding a key fact about that conduct, or lying about it. It also covers people who admitted such conduct under a settlement with the Attorney General and gave up U.S. nationality. Those people lose Social Security retirement, disability, and survivor benefits, including benefits based on another worker's record, and they also lose SSI. The Attorney General or Homeland Security must notify the Social Security Commissioner when these citizenship actions happen.",
+  "who_it_affects": [
+   {
+    "group": "Former U.S. citizens whose naturalization was revoked over Nazi persecution conduct",
+    "how": "Their Social Security and SSI benefits end because they are treated as removed under immigration law as of the date of the revocation."
+   },
+   {
+    "group": "People who admitted Nazi persecution conduct in a settlement with the Attorney General and gave up U.S. nationality",
+    "how": "They lose eligibility for Social Security and SSI benefits as of the date they renounced citizenship."
+   },
+   {
+    "group": "Family members who receive benefits based on the record of a covered person",
+    "how": "They can no longer receive Social Security benefits that are based on the wages or self-employment income of a covered person."
+   },
+   {
+    "group": "Social Security Administration",
+    "how": "It must stop payments to covered people once notified by the Attorney General or Homeland Security."
+   }
+  ],
+  "when_it_takes_effect": "Upon enactment on December 18, 2014, based on the summary provided; the summary does not state a separate effective date.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

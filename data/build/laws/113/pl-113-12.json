@@ -3539,5 +3539,20 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "The Stolen Valor Act of 2013 makes it a federal crime to falsely claim to have received certain military medals or badges in order to get money, property, or another tangible benefit.",
+  "what_it_does": "The law rewrites federal criminal code rules about false claims of military service. It applies when someone, intending to gain money, property, or another tangible benefit, falsely says they received one of the listed honors. The listed honors include the Medal of Honor, the Silver Star, the Purple Heart, the Navy Cross, the Air Force Cross, several combat badges and ribbons, and replacement or duplicate copies of those medals. A person convicted can face a fine, up to one year in prison, or both.",
+  "who_it_affects": [
+   {
+    "group": "People who falsely claim to have received listed military medals or badges to obtain money, property, or other tangible benefits",
+    "how": "They can be fined, sentenced to up to one year in prison, or both if convicted under the law."
+   }
+  ],
+  "when_it_takes_effect": "The law took effect when it was enacted on June 3, 2013, since the official summary does not list a later start date.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

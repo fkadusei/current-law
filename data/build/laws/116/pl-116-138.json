@@ -36,5 +36,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Congress approved a resolution appointing Denise O'Leary as a citizen regent on the Smithsonian Institution's Board of Regents.",
+  "what_it_does": "This joint resolution names Denise O'Leary to serve as a citizen regent on the Board of Regents of the Smithsonian Institution. The Board of Regents oversees the Smithsonian, which is a group of museums, research centers, and the National Zoo. The summary does not describe any other changes, funding, or new rules.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law was enacted on April 10, 2020.",
+  "ceremonial": true,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

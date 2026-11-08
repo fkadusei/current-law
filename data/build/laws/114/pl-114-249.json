@@ -36,5 +36,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law directs the Commerce Department to study how much outdoor recreation contributes to the U.S. economy, using existing funds.",
+  "what_it_does": "The law requires the Department of Commerce to work with the Departments of Agriculture and the Interior to assess the outdoor recreation economy. The Bureau of Economic Analysis will lead the work and may look at jobs, sales, and travel and tourism spending tied to outdoor activities. Commerce must consult federal agency heads and businesses, including small businesses, in the outdoor recreation field. No new money is provided, so the work must be paid for from funds already authorized.",
+  "who_it_affects": [
+   {
+    "group": "Outdoor recreation businesses, including small businesses",
+    "how": "They must be consulted during the study and may have input into how the economic picture is measured."
+   },
+   {
+    "group": "Federal agencies in Commerce, Agriculture, and the Interior",
+    "how": "They must coordinate on the joint memorandum and carry out the assessment using existing budgets."
+   },
+   {
+    "group": "Workers and visitors in outdoor recreation industries",
+    "how": "The study may produce data on jobs and spending in this sector, but the law itself does not change their pay, rights, or services."
+   }
+  ],
+  "when_it_takes_effect": "The law took effect when it was enacted on December 8, 2016, and the summary does not give a specific deadline for the assessment.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

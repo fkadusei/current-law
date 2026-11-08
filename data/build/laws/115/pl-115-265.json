@@ -33,5 +33,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2018 federal law that addresses ocean trash cleanup, boat and ship safety rules, and a Coast Guard technology center.",
+  "what_it_does": "The law reauthorizes and revises the federal Marine Debris Program through fiscal year 2022 and directs NOAA to respond to severe marine debris events. It also expresses support for a Great Lakes land-based marine debris plan. It sets marine safety requirements covering vessel inspections, safety management plans, safety equipment, voyage data recorders, rescue technology, oversight of groups that inspect ships for the Coast Guard, and timely weather and hazard alerts. It lets the Coast Guard create a Blue Technology Center of Expertise to promote technologies that support its missions.",
+  "who_it_affects": [
+   {
+    "group": "Commercial vessel operators and owners",
+    "how": "They must meet new inspection, safety management, safety equipment, and data recorder requirements for their ships."
+   },
+   {
+    "group": "Recognized organizations that inspect vessels for the Coast Guard",
+    "how": "They face added federal oversight of the work they do on the Coast Guard's behalf."
+   },
+   {
+    "group": "Mariners and passengers on U.S. vessels",
+    "how": "They may benefit from updated safety equipment, rescue technology, and timely weather and hazard advisories."
+   },
+   {
+    "group": "Coastal communities and groups that clean up marine debris",
+    "how": "NOAA's Marine Debris Program is reauthorized and must respond to severe debris events."
+   }
+  ],
+  "when_it_takes_effect": "Enacted October 11, 2018; the Marine Debris Program reauthorization runs through fiscal year 2022, and other provisions follow timelines set in the bill text.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -36,5 +36,24 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law directs the federal government to offer a roughly nine-acre Anchorage, Alaska property held by the National Archives to the city.",
+  "what_it_does": "The General Services Administration must offer to transfer a parcel of about nine acres with buildings at 400 East Fortieth Avenue in Anchorage to the city. The city must sell it for at least fair market value and pay for the survey, appraisal, and other transfer costs. Any money the federal government receives from the sale goes to the Treasury to reduce the deficit.",
+  "who_it_affects": [
+   {
+    "group": "Municipality of Anchorage, Alaska",
+    "how": "The city gets the chance to acquire the federal property but must pay fair market value and cover the survey, appraisal, and other transfer costs."
+   },
+   {
+    "group": "National Archives and Records Administration",
+    "how": "The agency currently administers the property, and the law sends its sale proceeds to the Treasury rather than back to the agency."
+   }
+  ],
+  "when_it_takes_effect": "The law took effect when it was enacted on May 20, 2016. The official summary does not give a deadline for the offer or the transfer.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

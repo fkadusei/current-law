@@ -3516,5 +3516,28 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "Extends the Supreme Court Marshal and Supreme Court Police's authority to protect court officials outside the Court's grounds, in any state, through December 29, 2019.",
+  "what_it_does": "The law extends the authority of the Marshal of the Supreme Court and the Supreme Court Police to provide protection in any state, not just on Supreme Court grounds. The protection covers Justices, official guests of the Court, and Court officers or employees while they are doing official work. The extension runs through December 29, 2019.",
+  "who_it_affects": [
+   {
+    "group": "Justices of the Supreme Court",
+    "how": "They keep protection from the Marshal and Supreme Court Police when they travel outside the Court's grounds in any state."
+   },
+   {
+    "group": "Official guests of the Supreme Court",
+    "how": "Guests the Court officially invites are covered by the same protection while they are in any state."
+   },
+   {
+    "group": "Supreme Court officers and employees",
+    "how": "Staff who are performing official duties away from the Court's grounds remain under this protection."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on December 20, 2013, and the extended authority lasts through December 29, 2019.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -3525,5 +3525,24 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "This law extends the Chesapeake and Ohio Canal National Historical Park Commission for ten years after it was enacted on September 26, 2014.",
+  "what_it_does": "The law reauthorizes the Chesapeake and Ohio Canal National Historical Park Commission. It sets the commission's term at ten years from the date of enactment. The official summary does not describe any other changes to the commission's duties, funding, or rules.",
+  "who_it_affects": [
+   {
+    "group": "The Chesapeake and Ohio Canal National Historical Park Commission",
+    "how": "The commission continues to exist for a ten-year term after enactment instead of ending on its earlier schedule."
+   },
+   {
+    "group": "People who visit or use the Chesapeake and Ohio Canal National Historical Park",
+    "how": "The summary does not describe any change to park access, fees, or rules, so the law's direct effect on visitors is not stated."
+   }
+  ],
+  "when_it_takes_effect": "On enactment, September 26, 2014, with the ten-year term running from that date.",
+  "ceremonial": false,
+  "confidence": "low",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

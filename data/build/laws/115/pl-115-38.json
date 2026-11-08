@@ -42,5 +42,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law gives the Department of Homeland Security's top management official more control over the department's vehicle fleets, with penalties for officials who don't follow fleet rules.",
+  "what_it_does": "The law makes the DHS Under Secretary for Management responsible for overseeing vehicle fleets across the department and approving leases, purchases, and replacements. Each DHS component must submit a yearly vehicle allocation plan and fleet management plan, and the Under Secretary reviews them to keep fleets at an optimal, cost-effective size. The Inspector General must also review how these rules worked in fiscal year 2019 and report on their effects.",
+  "who_it_affects": [
+   {
+    "group": "DHS component agencies and their heads",
+    "how": "They must create yearly vehicle allocation tools and fleet management plans and send them to the Under Secretary for review."
+   },
+   {
+    "group": "DHS officials who manage vehicle fleets",
+    "how": "They can lose annual performance pay if they do not follow the vehicle allocation and fleet management requirements in the prior fiscal year."
+   },
+   {
+    "group": "Senior Executive Service officials whose offices have vehicles",
+    "how": "They can lose access to a car service if they do not follow the vehicle allocation and fleet management requirements in the prior fiscal year."
+   },
+   {
+    "group": "DHS employees who use government vehicles for home-to-work travel",
+    "how": "The department must ensure its components follow federal and DHS rules on taking vehicles from home to work, which may affect how those vehicles are assigned and used."
+   }
+  ],
+  "when_it_takes_effect": "The penalty provisions on leases, acquisitions, pay, and car service apply beginning with fiscal year 2019, and the Inspector General review covers fiscal year 2019.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

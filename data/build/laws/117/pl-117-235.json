@@ -36,5 +36,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Congress renamed a VA outpatient clinic in French Camp, California, after Richard A. Pittman.",
+  "what_it_does": "This law names the Department of Veterans Affairs community-based outpatient clinic in French Camp, California, the Richard A. Pittman VA Clinic. It is a naming change only. It does not change the clinic's services, staffing, or funding.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law was enacted on December 20, 2022, and the renaming took effect on that date.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

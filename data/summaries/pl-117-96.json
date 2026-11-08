@@ -1,0 +1,20 @@
+{
+ "headline": "A 2022 law changes how Department of Veterans Affairs podiatrists are paid and graded and renames their top leadership job.",
+ "what_it_does": "The law puts VA podiatrists on the same pay and grade footing as physicians within the Veterans Health Administration. It also replaces the Director of Podiatric Service position with a Podiatric Medical Director. That director must be a qualified doctor of podiatric medicine and is responsible for running the VA's podiatry service.",
+ "who_it_affects": [
+  {
+   "group": "Doctors of podiatric medicine (podiatrists) working for the VA",
+   "how": "They are placed on the same pay and grade basis as VA physicians."
+  },
+  {
+   "group": "Veterans who receive foot and ankle care through the VA",
+   "how": "The VA's podiatry service is now run by a podiatric medical director who must be a podiatrist."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

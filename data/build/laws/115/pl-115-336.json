@@ -39,5 +39,36 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law sets design and accessibility rules for federal government websites and digital services and asks agencies to move paper-based services online while keeping non-digital options available.",
+  "what_it_does": "Federal agencies that build or redesign public websites or digital services must make them accessible to people with disabilities, consistent in appearance, searchable, secure, designed around user needs, and usable on phones. Agencies must report on these sites to Congress and to the Office of Management and Budget each year, and must identify paper or in-person services that could move online. Agencies must still offer a way to use their services without digital tools, and must submit plans to expand electronic signatures.",
+  "who_it_affects": [
+   {
+    "group": "People with disabilities",
+    "how": "Public federal websites and digital services they use must be designed to be accessible to them."
+   },
+   {
+    "group": "People who cannot use digital services",
+    "how": "Agencies must keep paper, in-person, or other non-digital ways to complete services so these people are not shut out."
+   },
+   {
+    "group": "Members of the public who use federal online services",
+    "how": "Federal websites and digital tools must include search, secure connections, and mobile-friendly design."
+   },
+   {
+    "group": "Federal agencies and their chief information officers",
+    "how": "Agencies must follow these standards, report costs and progress, create e-signature plans, and coordinate their digital service work."
+   },
+   {
+    "group": "General Services Administration and Office of Management and Budget",
+    "how": "GSA must offer approved systems and services through a federal supply schedule, and OMB must issue guidance to agencies."
+   }
+  ],
+  "when_it_takes_effect": "The law took effect when it was enacted on December 20, 2018, though the specific deadlines for reports and plans are set within the bill's sections and the source summary does not list exact dates.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

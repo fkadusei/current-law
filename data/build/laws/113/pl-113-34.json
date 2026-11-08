@@ -3530,5 +3530,32 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "This law transfers seafloor land to the Northern Mariana Islands government, lets the President set up military sea areas there, and freezes the local minimum wage for 2013 and 2015.",
+  "what_it_does": "It conveys to the Commonwealth of the Northern Mariana Islands (CNMI) government the submerged lands around the islands, reaching three geographic miles out from the coastline. It adds the CNMI to the islands where the President may set up naval defensive sea areas and airspace reservations when needed for national defense. It also changes the Fair Minimum Wage Act so the CNMI minimum wage does not increase in 2013 or 2015.",
+  "who_it_affects": [
+   {
+    "group": "The CNMI government",
+    "how": "It receives ownership of the submerged lands within three geographic miles of the islands' coastlines."
+   },
+   {
+    "group": "Workers paid the minimum wage in the CNMI",
+    "how": "Their minimum wage stays at its current level in 2013 and 2015 instead of rising on the scheduled increases."
+   },
+   {
+    "group": "Employers in the CNMI",
+    "how": "They do not have to pay higher minimum wages in 2013 and 2015 under the federal minimum wage rules."
+   },
+   {
+    "group": "People who fish, boat, or travel near the CNMI",
+    "how": "The President may set up naval defensive sea areas and airspace reservations there, which could limit access to those waters or airspace."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on September 18, 2013; the summary does not give separate effective dates for each provision.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

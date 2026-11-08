@@ -4321,5 +4321,36 @@
   "House": "R",
   "Senate": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2018 law reorganizes how the VA pays for veterans to get health care from private doctors and hospitals, and adds changes to VA staffing, facilities, and caregiver support.",
+  "what_it_does": "The law creates the Veterans Community Care Program, which lets eligible veterans get hospital, medical, and extended care from non-VA providers when the VA cannot offer the care, lacks a full-service facility in the veteran's state, or when the veteran met older Veterans Choice criteria. It requires the VA to set scheduling and quality standards, pay community providers on set timelines, and educate veterans about their options. It also expands the VA family caregiver program, sets up a commission to review VA facilities, and creates scholarship, loan repayment, and recruitment programs for VA health workers.",
+  "who_it_affects": [
+   {
+    "group": "Eligible veterans",
+    "how": "They may receive VA-paid care from non-VA doctors and hospitals under the new community care program and must be told about their options and how to file complaints."
+   },
+   {
+    "group": "Community health care providers",
+    "how": "They can be paid for veterans' care under VA agreements and must submit claims within set deadlines and meet VA standards."
+   },
+   {
+    "group": "Veterans living near VA facilities being reviewed",
+    "how": "Their local VA hospitals or clinics could be modernized, realigned, or closed after the review commission's recommendations are approved."
+   },
+   {
+    "group": "VA health care workers and applicants",
+    "how": "They may be eligible for scholarships, student loan repayment, debt reduction, and recruitment or retention bonuses."
+   },
+   {
+    "group": "Family caregivers of veterans",
+    "how": "Caregivers of some pre-9/11 veterans can now get the VA's caregiver support, including financial and legal planning help."
+   }
+  ],
+  "when_it_takes_effect": "Enacted June 6, 2018; several provisions have specific dates, such as the VA ban on new Veterans Choice care starting June 6, 2019, and the review commission ending December 31, 2023.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

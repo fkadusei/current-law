@@ -39,5 +39,36 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2016 law requires the TSA to tell airlines and screeners about rules that let travelers with baby formula, breast milk, infant water, and juice bring those liquids through security.",
+  "what_it_does": "The law directs the Transportation Security Administration to notify air carriers and both TSA and private security screeners about its guidelines exempting baby formula, breast milk, purified deionized water for infants, and juice from the usual 3-1-1 liquids limits. It also requires that screener training cover all special screening procedures for these items.",
+  "who_it_affects": [
+   {
+    "group": "Parents and caregivers traveling with infants or young children",
+    "how": "They are meant to have clearer, more consistent guidance on bringing baby formula, breast milk, infant water, and juice through airport security."
+   },
+   {
+    "group": "Breastfeeding travelers",
+    "how": "The law supports screening procedures that cover breast milk and breastfeeding equipment during airport checkpoint screening."
+   },
+   {
+    "group": "TSA security screening personnel",
+    "how": "They must receive training on the special screening procedures for these liquids and items."
+   },
+   {
+    "group": "Private security screening personnel",
+    "how": "They must receive training on the same special screening procedures used for these liquids and items."
+   },
+   {
+    "group": "Air carriers",
+    "how": "They must be notified of the TSA's exemption guidelines for these liquids and items."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

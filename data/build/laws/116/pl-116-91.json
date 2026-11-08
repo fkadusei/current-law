@@ -3515,5 +3515,36 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "The FUTURE Act permanently funds minority-serving colleges, raises Pell Grant spending authority, and lets the IRS share tax data with the Education Department for student aid and loan decisions.",
+  "what_it_does": "The law permanently authorizes funding for minority-serving institutions of higher education and increases the authorized amount for Pell Grants. It directs the IRS, when the Department of Education asks in writing, to share tax return information to check eligibility for income-based student loan repayment recertification, disability-based loan discharges, and the amount of federal student aid. The IRS must set up procedures for income recertification and for these data requests, and the Education Department and IRS must issue joint reports to Congress on how the process is working.",
+  "who_it_affects": [
+   {
+    "group": "Students who apply for federal financial aid",
+    "how": "The Education Department can use IRS income data to determine the amount of their federal student aid."
+   },
+   {
+    "group": "Federal student loan borrowers on income-driven repayment plans",
+    "how": "Their income can be verified directly with IRS records when they recertify, instead of only through their own paperwork."
+   },
+   {
+    "group": "Borrowers seeking total and permanent disability discharges",
+    "how": "The Education Department can use IRS data to check income-related eligibility for loan discharges."
+   },
+   {
+    "group": "Minority-serving institutions of higher education",
+    "how": "Their federal funding is made permanent rather than needing periodic renewal."
+   },
+   {
+    "group": "Pell Grant recipients",
+    "how": "Authorized funding for Pell Grants is increased, which sets a higher ceiling on program spending."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

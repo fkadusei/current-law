@@ -1,0 +1,24 @@
+{
+ "headline": "This law removes a blood quantum requirement so certain inherited Five Tribes land in Oklahoma can keep its restricted status.",
+ "what_it_does": "The Stigler Act of 1947 governs some land allotted to members of the Five Civilized Tribes in Oklahoma. Restricted land is not subject to taxes and cannot be sold or transferred without permission from the Department of the Interior. Before this law, inherited land kept that status only if the owner had at least 50% Indian blood from one of the Five Tribes. Under this law, the status continues for lineal descendants of an original enrollee listed on the tribes' membership rolls.",
+ "who_it_affects": [
+  {
+   "group": "Heirs of Five Tribes allotment land in Oklahoma who have less than 50% blood quantum",
+   "how": "Their inherited land can keep restricted status, which means it stays free from property taxes and needs Interior Department approval to sell or transfer."
+  },
+  {
+   "group": "Lineal descendants of original enrollees on the Choctaw, Chickasaw, Creek, Cherokee, and Seminole membership rolls",
+   "how": "They qualify to keep restricted land status based on their descent from an enrolled ancestor, not on their blood quantum."
+  },
+  {
+   "group": "Department of the Interior",
+   "how": "It must apply the new descent-based standard when deciding whether inherited land stays in restricted status and when approving sales or transfers of that land."
+  }
+ ],
+ "when_it_takes_effect": "The summary does not give a separate effective date. The law was enacted on December 31, 2018.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

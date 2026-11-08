@@ -36,5 +36,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law keeps the U.S. Parole Commission operating for five more years and requires it to publish detailed reports on its work and finances.",
+  "what_it_does": "It extends the life of the United States Parole Commission for five years. It requires the Commission to report data on its hearings, decisions, appeals, and spending for fiscal years 2012 and 2013, and then yearly for fiscal years 2014 through 2018. It also requires a report on the District of Columbia parole failure rate, the causes of that rate, and possible ways to lower it.",
+  "who_it_affects": [
+   {
+    "group": "Federal offenders on parole or supervised release under the Commission's jurisdiction",
+    "how": "They remain under the Commission's authority, since the agency that makes parole and revocation decisions for them keeps operating."
+   },
+   {
+    "group": "People in D.C. Code parole and revocation cases",
+    "how": "The Commission must report on the D.C. parole failure rate and on decisions in D.C. Code revocation hearings."
+   },
+   {
+    "group": "Members and staff of the U.S. Parole Commission",
+    "how": "They must compile and submit the required statistics and expenditure reports within set deadlines."
+   },
+   {
+    "group": "Congress",
+    "how": "It receives the Commission's required reports on caseloads, decision patterns, projected caseload, and spending."
+   }
+  ],
+  "when_it_takes_effect": "Effective on enactment, October 31, 2013; the first reports are due within 180 days after that date, and yearly reports are due within 90 days after each fiscal year ends through FY2018.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

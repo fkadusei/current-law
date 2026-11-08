@@ -881,5 +881,56 @@
  "control": {
   "Senate": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "A very large multi-part law that reauthorizes FAA programs through 2023 and also covers sports medicine, disaster recovery, drones, airline passenger rules, transportation security, and more.",
+  "what_it_does": "This law is a set of many separate bills combined into one. Division A lets licensed medical professionals keep their liability coverage when they treat athletes or teams in another state under a written agreement. Division B, the main part, renews Federal Aviation Administration (FAA) funding through 2023 and sets many rules on airports, air traffic safety, drones, airline customer service, and air service to small communities. Other divisions cover the National Transportation Safety Board, disaster recovery under the Stafford Act, a concrete masonry promotion program, the BUILD Act for international development finance, a Syria study group, maritime security, and Transportation Security Administration rules. The summary provided is long and covers many topics, so this explanation shows only the main points.",
+  "who_it_affects": [
+   {
+    "group": "Airports and airport sponsors",
+    "how": "They face new grant conditions, such as keeping lactation areas and baby changing tables in terminals and meeting rules on how federal funds and passenger facility charges can be used."
+   },
+   {
+    "group": "Airline passengers",
+    "how": "Airlines must follow new rules, including a ban on bumping passengers who have already checked in, a ban on mobile phone voice calls by non-flight crew, a ban on electronic cigarettes on flights, and required refunds for unused ancillary fees."
+   },
+   {
+    "group": "People with disabilities who fly",
+    "how": "DOT must review and revise rules on wheelchair assistance, service animals, and staff training, and must create an airline passengers with disabilities bill of rights."
+   },
+   {
+    "group": "Drone operators",
+    "how": "The law sets rules for drone safety standards, registration, privacy policies, operations in restricted areas, and criminal penalties for unsafe use near airports."
+   },
+   {
+    "group": "Pilots and airline workers",
+    "how": "The FAA must review or revise rules on pilot rest, flight attendant duty limits, and aviation safety reporting, and the law sets training requirements for airline staff on human trafficking."
+   },
+   {
+    "group": "Small communities with commercial air service",
+    "how": "The Essential Air Service program is reauthorized through 2023, which keeps subsidized flights to eligible small communities going."
+   },
+   {
+    "group": "Athletes, teams, and sports medicine professionals",
+    "how": "Licensed medical providers who treat athletes or teams in another state under a written agreement keep their home-state liability coverage, after telling their insurer the nature of the services."
+   },
+   {
+    "group": "Communities and households affected by disasters",
+    "how": "The Stafford Act changes adjust federal disaster aid rules, including housing assistance, hazard mitigation, unemployment aid for certain Puerto Rico and Virgin Islands residents, and public posting of FEMA contract information."
+   },
+   {
+    "group": "Concrete masonry manufacturers",
+    "how": "A new national promotion program allows Commerce to issue an order that requires manufacturers to pay a per-unit assessment starting at one cent, subject to a referendum."
+   },
+   {
+    "group": "Air and maritime security workers and travelers",
+    "how": "TSA has new program requirements, including PreCheck changes, screening partnership program rules, and new cargo screening programs, and DHS and DOJ gain authority to counter threatening drones."
+   }
+  ],
+  "when_it_takes_effect": "The effective dates vary by division and section. Many FAA authorizations run through fiscal year 2023, and some deadlines are set at 60 days, 90 days, 180 days, or one year after enactment on October 5, 2018.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

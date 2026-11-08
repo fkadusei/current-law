@@ -36,5 +36,36 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2021 law that changes VA job-retraining, school-information, and school-oversight rules for veterans and service members.",
+  "what_it_does": "The law changes several Department of Veterans Affairs education and training programs. It sets up a joint VA and Labor Department list of high-demand jobs for the VA's retraining program, and it excludes mostly-online part-time programs from the retraining housing stipend. It requires the VA to tell veterans about job placement help, to seek agreements with nonprofit groups that help veterans find work, and to give veterans information about certain schools, such as religious affiliation, minority-serving status, and whether a school is gender-specific. It also requires disciplinary action against schools whose recruiting partners engage in certain prohibited conduct, such as paying recruiters incentive payments.",
+  "who_it_affects": [
+   {
+    "group": "Veterans and members of the Armed Forces using VA rapid retraining assistance",
+    "how": "They get a job-occupation list shaped with the Department of Labor, a stipend rule that excludes mostly-online part-time programs, and notices about job placement services."
+   },
+   {
+    "group": "Veterans and service members choosing a college or training program",
+    "how": "The VA must give them searchable information about schools, including religious affiliation, minority-serving status, and gender-specific status."
+   },
+   {
+    "group": "Postsecondary schools that use outside marketing or recruiting partners",
+    "how": "The VA must take disciplinary action, which can include suspending or revoking approval of their courses and programs, if a partner engages in prohibited recruiting conduct."
+   },
+   {
+    "group": "Former for-profit schools that became public institutions",
+    "how": "They are included in the annual risk-based survey that state approving agencies must conduct."
+   },
+   {
+    "group": "Nonprofit organizations that help veterans find jobs",
+    "how": "The VA must seek memoranda of understanding with one or more qualified nonprofits to help veterans who take part in the retraining program find jobs."
+   }
+  ],
+  "when_it_takes_effect": "Enacted June 8, 2021; the summary does not list separate effective dates for each provision.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

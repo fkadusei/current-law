@@ -36,5 +36,40 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law makes the Surface Transportation Board an independent agency, expands its membership, and sets new rules for how it handles rail rate and service disputes.",
+  "what_it_does": "The law takes the Surface Transportation Board out of the Department of Transportation and makes it an independent federal agency, and it increases the Board from three to five members. It sets time limits for reviewing rail rate reasonableness cases, allows the Board to start investigations on its own, and creates a voluntary binding arbitration process for rail rate and practice disputes. It also requires the Board to publish rail service complaints and quarterly rate case reports, and it reauthorizes the Board's funding for fiscal years 2016 through 2020.",
+  "who_it_affects": [
+   {
+    "group": "Railroads (rail carriers)",
+    "how": "Rail carriers face new time limits for rate cases, can use a voluntary arbitration process to resolve disputes, and may have their agents located outside Washington, DC."
+   },
+   {
+    "group": "Shippers who ship goods by rail, including agricultural shippers",
+    "how": "They can challenge rail rates through faster, simplified methods and within set timelines, and some older limits on rail service contracts for agricultural commodities are removed."
+   },
+   {
+    "group": "People who file rail service complaints",
+    "how": "The Board must keep a database of rail service complaints and post them on its website."
+   },
+   {
+    "group": "Members of the Surface Transportation Board",
+    "how": "The Board grows from three to five members, with minimum numbers required for members with transportation experience and private-sector experience, including agriculture."
+   },
+   {
+    "group": "Pipeline carriers",
+    "how": "The Board may investigate pipeline carrier violations on its own initiative, not only after a complaint is filed."
+   },
+   {
+    "group": "Members of the public interested in Board meetings",
+    "how": "The Board may hold closed meetings to discuss official business under set conditions, and must disclose the topics and participants within two business days after each closed meeting, with exceptions for pending proceedings."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on December 18, 2015, and it took effect on that date unless specific sections set other timing; the authorization of appropriations covers fiscal years 2016 through 2020.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

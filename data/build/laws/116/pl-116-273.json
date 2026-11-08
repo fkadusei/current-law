@@ -39,5 +39,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2020 federal law lets HHS run and continue programs on sudden unexpected infant and childhood deaths, including data systems and review grants.",
+  "what_it_does": "The law gives the Department of Health and Human Services authority to develop and keep up programs that address sudden unexpected infant death and sudden unexpected death in childhood. It allows the department to support data systems that track these deaths. It also lets HHS award grants to support review programs that look into these deaths.",
+  "who_it_affects": [
+   {
+    "group": "Families who have lost an infant or child to a sudden unexpected death",
+    "how": "The law supports federal programs and data efforts that may help families get information about and understanding of these deaths."
+   },
+   {
+    "group": "State and local death review teams",
+    "how": "The law allows federal grants that can help fund programs that review sudden unexpected deaths of infants and children."
+   },
+   {
+    "group": "Health and public health officials",
+    "how": "The law lets HHS collect and support data on these deaths, which may inform prevention and response work."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on December 31, 2020, and the summary does not give a separate effective date for specific programs.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

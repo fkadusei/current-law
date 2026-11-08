@@ -1,0 +1,44 @@
+{
+ "headline": "This law extends federal surface transportation programs through November 20, 2015, and pushes back a railroad train-safety system deadline to December 31, 2018.",
+ "what_it_does": "It keeps highway, transit, highway safety, trucking safety, and hazardous materials programs funded and authorized for a short extension period that ends November 20, 2015, instead of letting them lapse. It also sets how highway funds are distributed during that period and ties some amounts to earlier funding levels. Separately, it moves the deadline for railroads to submit revised positive train control plans from December 31, 2015, to December 31, 2018, and lets railroads use alternative implementation schedules subject to Department of Transportation review. It also extends the related Highway Trust Fund and Leaking Underground Storage Tank Trust Fund spending authority through the same date.",
+ "who_it_affects": [
+  {
+   "group": "State departments of transportation and local governments that receive federal highway funds",
+   "how": "They keep receiving federal highway money under the same rules for the extension period, with a set cap on highway and safety construction obligations."
+  },
+  {
+   "group": "Public transit agencies and transit riders",
+   "how": "Federal transit formula grants, capital investment grants, and related programs continue to be authorized through November 20, 2015."
+  },
+  {
+   "group": "Class I railroad carriers and commuter and intercity passenger rail operators",
+   "how": "They have until December 31, 2018, to submit revised positive train control implementation plans and may use an alternative schedule if the Department of Transportation approves it, and they must report progress each year."
+  },
+  {
+   "group": "Class II and Class III railroads operating in positive train control territory",
+   "how": "Their deadlines for equipping locomotives under federal rules are extended by three years."
+  },
+  {
+   "group": "Commercial motor carriers and commercial driver's license holders",
+   "how": "Federal motor carrier safety grant programs and related commercial vehicle programs continue to be authorized through the extension period."
+  },
+  {
+   "group": "State highway safety offices and law enforcement agencies",
+   "how": "Highway safety grants and the High Visibility Enforcement Program, including traffic enforcement campaigns, continue through the extension period."
+  },
+  {
+   "group": "Federally recognized tribes receiving transit and highway funds",
+   "how": "Tribal transit and Tribal High Priority Projects funding continue for the extension period, with the Tribal High Priority Projects program receiving general Treasury funds."
+  },
+  {
+   "group": "Recreational boaters, anglers, and state boating agencies",
+   "how": "Sport fish and boating trust fund distributions for boating safety, boating infrastructure, and related programs continue through the extension period."
+  }
+ ],
+ "when_it_takes_effect": "Enacted October 29, 2015. Most program extensions run from October 1, 2015, through November 20, 2015, and the positive train control plan deadline change takes effect immediately, moving to December 31, 2018.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

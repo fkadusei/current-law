@@ -33,5 +33,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law directs the FBI to create a program that collects data on suicides and suicide attempts among law enforcement officers.",
+  "what_it_does": "The law requires the Federal Bureau of Investigation to set up a new program called the Law Enforcement Officers Suicide Data Collection Program. Federal, state, local, and tribal law enforcement agencies may send the FBI data about suicides and attempted suicides of current and former officers. The FBI must then publish reports based on this data, with the goal of preventing and understanding these deaths.",
+  "who_it_affects": [
+   {
+    "group": "Current and former law enforcement officers",
+    "how": "Their agencies may report data about suicides and suicide attempts among officers to the FBI, and the FBI will publish reports based on that data."
+   },
+   {
+    "group": "Federal, state, local, and tribal law enforcement agencies",
+    "how": "They may choose to submit suicide and suicide attempt data to the FBI for the new program."
+   },
+   {
+    "group": "Researchers and policymakers",
+    "how": "They can use the FBI's reports to better understand law enforcement suicides."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

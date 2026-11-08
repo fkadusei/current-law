@@ -39,5 +39,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A law that names a Cedar Rapids, Iowa post office building after Sgt. 1st Class Terryl L. Pasker.",
+  "what_it_does": "The law renames a United States Postal Service facility at 615 6th Avenue SE in Cedar Rapids, Iowa. The building will be officially called the \"Sgt. 1st Class Terryl L. Pasker Post Office Building.\" It does not change how the post office operates or what services it offers.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law was enacted on June 13, 2016, and the designation took effect on that date.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -3535,5 +3535,15 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2017 law renamed a VA community living center in Butler Township, Pennsylvania, after Sergeant Joseph George Kusick.",
+  "what_it_does": "The law officially designates the Department of Veterans Affairs community living center in Butler Township, Butler County, Pennsylvania, as the Sergeant Joseph George Kusick VA Community Living Center. It changes only the facility's name and does not add or remove any services, benefits, or rules.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law took effect when it was enacted on August 16, 2017.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

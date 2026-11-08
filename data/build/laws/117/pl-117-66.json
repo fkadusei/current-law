@@ -33,5 +33,24 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Requires the GAO to study whether race and ethnicity create unequal outcomes in certain VA benefits and claims.",
+  "what_it_does": "The law directs the Government Accountability Office, a federal watchdog agency, to study whether there are differences tied to race or ethnicity in VA compensation benefits, VA disability ratings, and the rejection of fully developed claims. The GAO must also recommend ways to collect better data on these differences. It must brief Congress on early results within one year and then submit a final report.",
+  "who_it_affects": [
+   {
+    "group": "Veterans who apply for VA compensation or disability benefits",
+    "how": "The study examines whether their race or ethnicity is linked to differences in benefits, ratings, or claim rejections, but the law itself does not change their benefits."
+   },
+   {
+    "group": "Congress and the Department of Veterans Affairs",
+    "how": "They will receive the GAO's briefing and final report and may use its findings and data recommendations in future decisions."
+   }
+  ],
+  "when_it_takes_effect": "Upon enactment on November 30, 2021, with the initial briefing due within one year and a final report due after that.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

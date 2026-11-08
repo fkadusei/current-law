@@ -36,5 +36,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Names a post office in Lake City, South Carolina, after former postmaster Frazier B. Baker.",
+  "what_it_does": "This law renames the U.S. Postal Service facility at 226 West Main Street in Lake City, South Carolina, as the \"Postmaster Frazier B. Baker Post Office.\" It is an honorary designation and does not change how the post office operates. Mail service and postal rules stay the same.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law was enacted on December 21, 2018, and the name took effect on that date.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

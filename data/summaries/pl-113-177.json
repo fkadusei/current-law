@@ -1,0 +1,20 @@
+{
+ "headline": "This law lets federal energy regulators reinstate and extend a deadline for building a hydroelectric project at the American Falls Reservoir in Idaho.",
+ "what_it_does": "The law directs the Federal Energy Regulatory Commission (FERC) to reinstate the license for hydroelectric project number 12423 at American Falls Reservoir in Idaho, if the licensee asks. It gives the licensee three more years, counted from when the law was enacted, to begin construction of the project works. The summary does not describe the project's size, cost, or design.",
+ "who_it_affects": [
+  {
+   "group": "The licensee for hydroelectric project 12423 at American Falls Reservoir",
+   "how": "The licensee can ask FERC to restore its license and gets three additional years to start building the project."
+  },
+  {
+   "group": "FERC",
+   "how": "The agency must reinstate the license and apply the three-year extension when the licensee requests it."
+  }
+ ],
+ "when_it_takes_effect": "The law took effect on enactment, September 26, 2014, and the three-year construction period runs from that date.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

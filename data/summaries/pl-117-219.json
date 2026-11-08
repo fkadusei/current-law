@@ -1,0 +1,28 @@
+{
+ "headline": "This law limits automatic use of changes to how the government defines metro and micro areas when those definitions are used to decide federal program benefits.",
+ "what_it_does": "The government uses core-based statistical areas (CBSAs) to group counties into metropolitan and micropolitan areas for statistics. This law says that when those standards change, the change does not automatically apply to federal assistance programs that use the areas for non-statistical purposes. A federal agency must first decide the change supports its program and is in the public interest, and it must adopt the change through rulemaking. The Office of Management and Budget must also publish a public report explaining any change, and it must collect information on how assistance programs use these area definitions. The Government Accountability Office must then report on that information.",
+ "who_it_affects": [
+  {
+   "group": "People living in areas whose metro or micro classification could change",
+   "how": "Changes to area definitions will not automatically change their eligibility or funding under federal assistance programs."
+  },
+  {
+   "group": "State and local governments that receive federal assistance",
+   "how": "Federal programs that use these area definitions must go through a formal rulemaking process before adopting new definitions, which can give local governments notice and a chance to comment."
+  },
+  {
+   "group": "Federal agencies that run domestic assistance programs",
+   "how": "Agencies must decide whether a change supports their program and serves the public interest before using a new definition for non-statistical purposes."
+  },
+  {
+   "group": "Office of Management and Budget",
+   "how": "OMB must publish explanatory reports for changes to the standards and collect data on how assistance programs use CBSA delineations."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on December 5, 2022. The summary does not give separate effective dates for each provision.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

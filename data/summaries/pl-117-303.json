@@ -1,0 +1,24 @@
+{
+ "headline": "This law requires the VA's benefits and health offices to share information and offer support resources to veterans who file military sexual trauma compensation claims.",
+ "what_it_does": "The law changes how the Department of Veterans Affairs handles disability compensation claims tied to military sexual trauma (MST). Veterans who choose to receive them get outreach letters, Veterans Crisis Line information, instructions for scheduling a mental health appointment, and other MST resources. These materials must be provided during or right after a claim-related exam or hearing, and again with the VA's decision on the claim. For veterans enrolled in VA health care who agree to the notification system, the benefits office must alert the health office before certain claim steps.",
+ "who_it_affects": [
+  {
+   "group": "Veterans who file compensation claims based on military sexual trauma",
+   "how": "They can choose to receive outreach letters, crisis line information, and mental health appointment instructions during the claims process and with the VA's decision."
+  },
+  {
+   "group": "Veterans enrolled in VA health care who consent to the notification system",
+   "how": "The VA benefits office must notify the VA health office before they attend a claim-related exam or hearing or receive a claim decision, so health staff can follow up."
+  },
+  {
+   "group": "VA benefits and health staff",
+   "how": "They must coordinate with each other to provide MST resources and send notifications as the law describes."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

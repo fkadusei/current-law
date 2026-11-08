@@ -3528,5 +3528,15 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "Directs Congress's leaders to arrange a Congressional Gold Medal award to Stephen Michael Gleason.",
+  "what_it_does": "The law tells the Speaker of the House and the President pro tempore of the Senate to arrange for a Congressional Gold Medal to be given to Stephen Michael Gleason. A Congressional Gold Medal is an honor Congress gives to individuals or groups for notable achievements or service. The summary does not describe what Gleason did to earn the medal or any money or other benefits that come with it.",
+  "who_it_affects": [],
+  "when_it_takes_effect": null,
+  "ceremonial": true,
+  "confidence": "low",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

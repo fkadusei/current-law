@@ -1,0 +1,44 @@
+{
+ "headline": "A 2015 law that ends the old formula for Medicare doctor payments, starts a performance-based payment system, and extends many health programs through 2017.",
+ "what_it_does": "The law removes the sustainable growth rate formula that had set yearly Medicare payment changes for doctors and replaces it with fixed yearly rate updates. It creates a Merit-based Incentive Payment System that raises or lowers certain clinicians' Medicare pay based on how they perform on set measures. It also extends many existing health programs, such as community health centers, the Children's Health Insurance Program, and rural Medicare payment boosts, mostly through 2017, and makes several changes to Medicare rules and costs.",
+ "who_it_affects": [
+  {
+   "group": "Physicians, physician assistants, nurse practitioners, clinical nurse specialists, and certified registered nurse anesthetists who bill Medicare",
+   "how": "Their Medicare payments will follow set yearly rate updates and may rise or fall based on performance scores under the new incentive system."
+  },
+  {
+   "group": "Doctors and practices in alternative payment models (APMs)",
+   "how": "Starting in 2026, qualifying APM participants get a separate payment rate that is set higher than the rate for other clinicians."
+  },
+  {
+   "group": "People who enroll in Medigap plans that cover Part B deductibles",
+   "how": "Beginning with people newly eligible for Medicare on or after January 1, 2020, these Medigap policies can no longer cover the Part B deductible."
+  },
+  {
+   "group": "Higher-income Medicare beneficiaries",
+   "how": "Income thresholds used to set Part B premium amounts are adjusted beginning in 2018."
+  },
+  {
+   "group": "Community health centers and their patients",
+   "how": "Federal funding for these centers is extended through fiscal year 2017."
+  },
+  {
+   "group": "Children and families enrolled in CHIP",
+   "how": "The CHIP program is extended through fiscal year 2017, with revised funding rules."
+  },
+  {
+   "group": "Home health agencies",
+   "how": "Medicare-certified home health agencies must post a surety bond of at least $50,000 or an amount based on their payment volume."
+  },
+  {
+   "group": "Ambulance providers and rural hospitals",
+   "how": "Temporary payment increases for ground ambulances and certain low-volume and rural hospitals are extended through 2017 or 2016."
+  }
+ ],
+ "when_it_takes_effect": "The law took effect on April 16, 2015. Physician payment updates began in 2015, most program extensions run through 2017, and the split physician payment rates begin in 2026.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

@@ -1,0 +1,32 @@
+{
+ "headline": "This law extends and adjusts the fees EPA collects from pesticide makers and sets rules for how that money is spent on pesticide reviews and safety programs.",
+ "what_it_does": "The law extends EPA's authority to collect yearly maintenance fees and registration service fees for pesticides through fiscal years 2023 to 2025. It raises the total maintenance fee cap from $27.8 million to $31 million per year for fiscal years 2019 through 2023, and it raises individual annual maintenance fees, including for small businesses. It also increases some application fees by 5% in 2020 and 2021 and by an additional 5% after that, and it lets fee money pay for certain Endangered Species Act reviews tied to pesticide registration. Finally, it directs EPA to put two specific 2015 and 2017 pesticide worker and applicator rules into effect by the end of fiscal year 2021 without changes.",
+ "who_it_affects": [
+  {
+   "group": "Pesticide manufacturers and registrants",
+   "how": "They pay EPA higher maintenance fees and, for covered applications, higher application fees under the new schedule."
+  },
+  {
+   "group": "Small pesticide businesses",
+   "how": "They are included in the increased annual maintenance fees."
+  },
+  {
+   "group": "Farmworkers and field workers",
+   "how": "Worker protection funding is directed to emphasize field workers, and a 2015 worker protection rule must be implemented by the end of fiscal year 2021."
+  },
+  {
+   "group": "Commercial and certified pesticide applicators",
+   "how": "A 2017 rule on certification of pesticide applicators must be implemented by the end of fiscal year 2021."
+  },
+  {
+   "group": "Employers who use pesticides",
+   "how": "The Government Accountability Office will review how well workplace requirements for giving employees pesticide safety information are working."
+  }
+ ],
+ "when_it_takes_effect": "Enacted March 8, 2019; fee increases apply to fiscal years 2019 through 2023 and the fee authorities run through fiscal years 2023 to 2025, with the application fee increases starting in fiscal year 2020 and the rule implementation deadline set at the end of fiscal year 2021.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

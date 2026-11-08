@@ -3503,5 +3503,24 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "This 2022 law asks the State Department to add more detail about Taiwan's observer status at the World Health Assembly to its annual reports.",
+  "what_it_does": "The law directs the Department of State to include more information in its yearly reports about Taiwan's participation at the World Health Organization's World Health Assembly as an observer. The reports must describe changes and improvements to State's plan to support Taiwan's observer status, especially after meetings where Taiwan did not take part as an observer. China has opposed Taiwan's participation in the Assembly. The official summary is brief, so it does not describe the strategy in more detail.",
+  "who_it_affects": [
+   {
+    "group": "State Department officials who prepare the annual reports",
+    "how": "They must add information about Taiwan's observer status and changes to the department's plan to their yearly reports."
+   },
+   {
+    "group": "Members of Congress who receive these reports",
+    "how": "They will receive annual reports that include this added information about Taiwan's participation at the World Health Assembly."
+   }
+  ],
+  "when_it_takes_effect": "Enacted May 13, 2022; the official summary does not state a separate effective date or report deadlines.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

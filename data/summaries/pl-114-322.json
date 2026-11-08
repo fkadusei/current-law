@@ -1,0 +1,44 @@
+{
+ "headline": "The WIIN Act is a large 2016 law that sets many rules and programs for Army Corps of Engineers water projects, drinking water safety, and some natural resources and Indian water settlements.",
+ "what_it_does": "Public Law 114-322 is a broad omnibus law with several titles covering the Army Corps of Engineers, drinking water, and natural resources. Its Corps provisions cover harbor maintenance funding, navigation safety, dredging, permits, flood control, dam safety, and project study authorizations. Other parts address lead in drinking water and lead notification, coal ash permits, Indian dams and irrigation, several tribal water rights settlements, Lake Tahoe, the Great Lakes, and California water operations. Many sections set deadlines for reports or studies, and some authorize but do not require specific actions.",
+ "who_it_affects": [
+  {
+   "group": "Ports and harbor users that pay or receive Harbor Maintenance Trust Fund money",
+   "how": "The law changes how donor ports, medium-sized donor ports, and energy transfer ports qualify for and receive payments, and it limits importer payments to top importers at electing ports."
+  },
+  {
+   "group": "Commercial shippers and importers",
+   "how": "Shippers can no longer receive certain port payments, and importer payments are now calculated and limited under new rules."
+  },
+  {
+   "group": "Local governments and nonfederal sponsors of Corps projects",
+   "how": "Cost-share rules change for some deep harbor projects, flood projects, and dam rehabilitation, and sponsors may be allowed to do certain maintenance work themselves with reimbursement."
+  },
+  {
+   "group": "Federally recognized Indian tribes",
+   "how": "Tribes may receive cost-share waivers, tribal partnership program funding, and new water supply and settlement provisions, and some sections transfer land or set trust terms for specific tribes."
+  },
+  {
+   "group": "Homeowners and residents served by public water systems",
+   "how": "Water systems must notify customers when lead action levels are exceeded in more than 10% of sampled taps, and EPA must set up lead-related grant programs."
+  },
+  {
+   "group": "Recreational boaters, marina operators, and floating cabin owners on Corps, TVA, or Cumberland River waters",
+   "how": "Specific rules apply to floating cabins, marina-adjacent navigation safety measures, and some fee and permit processes."
+  },
+  {
+   "group": "Owners of certain nonfederal high hazard dams",
+   "how": "FEMA may provide rehabilitation grants with at least a 35% nonfederal cost share for eligible dams."
+  },
+  {
+   "group": "Coal power plant operators and states managing coal ash",
+   "how": "A federal permit program for coal combustion residuals is set up, and states may elect to run it after EPA approval."
+  }
+ ],
+ "when_it_takes_effect": "Enacted December 16, 2016, with many provisions effective on enactment and others phased in on specific dates or fiscal years, some running through 2020 to 2025.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

@@ -1,0 +1,32 @@
+{
+ "headline": "A 2018 law lets federal health officials fund sickle cell and other blood disorder programs and extends one grant program through fiscal year 2023.",
+ "what_it_does": "The law allows the Department of Health and Human Services to give grants to government, school, and nonprofit groups. The grants support collecting data and carrying out public health work on inherited blood disorders, including sickle cell disease. It also renews a sickle cell grant program through fiscal year 2023 and changes how that program works for certain health care providers.",
+ "who_it_affects": [
+  {
+   "group": "People with sickle cell disease and other inherited blood disorders",
+   "how": "The law funds data collection and public health work meant to address these conditions."
+  },
+  {
+   "group": "Federally qualified health centers",
+   "how": "They can apply for the sickle cell disease grant program, which the law renews and revises."
+  },
+  {
+   "group": "Nonprofit hospitals and clinics",
+   "how": "They are eligible for the revised sickle cell disease grant program."
+  },
+  {
+   "group": "University health centers",
+   "how": "They are eligible for the revised sickle cell disease grant program."
+  },
+  {
+   "group": "Government, educational, and nonprofit entities",
+   "how": "They can receive HHS grants to collect data and carry out public health activities on heritable blood disorders."
+  }
+ ],
+ "when_it_takes_effect": "The law was signed on December 18, 2018, and the grant program authority runs through fiscal year 2023.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

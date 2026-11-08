@@ -36,5 +36,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2016 law renamed a VA outpatient clinic in Sevierville, Tennessee, after Dannie A. Carr.",
+  "what_it_does": "This law gives a name to an existing Department of Veterans Affairs community-based outpatient clinic at 1124 Blanton Drive in Sevierville, Tennessee. The clinic will be called the Dannie A. Carr Veterans Outpatient Clinic. The law does not change the clinic's services, staff, or funding.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law took effect when it was enacted on June 3, 2016.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

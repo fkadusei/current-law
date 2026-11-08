@@ -3535,5 +3535,24 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2016 law directs the State Department to develop a strategy to seek observer status for Taiwan in INTERPOL and to report its plan to Congress.",
+  "what_it_does": "The law tells the Department of State to build a plan for getting Taiwan observer status in INTERPOL, the international police organization, and at related meetings and groups. It also instructs the U.S. mission to INTERPOL to request that status and to urge INTERPOL members to support Taiwan's observer role. The State Department must then report its strategy to Congress.",
+  "who_it_affects": [
+   {
+    "group": "Department of State",
+    "how": "It must develop the strategy, instruct the U.S. INTERPOL office, and report the plan to Congress."
+   },
+   {
+    "group": "Members of Congress",
+    "how": "They receive the State Department's report on the strategy for Taiwan's observer status."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

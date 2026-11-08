@@ -1,0 +1,24 @@
+{
+ "headline": "This law requires the Department of Veterans Affairs to give preference to certain nonprofit firms that employ blind or significantly disabled workers when buying products and services on a specific federal list.",
+ "what_it_does": "The VA must favor nonprofit firms that employ people who are blind or have significant disabilities when it buys covered products and services. Those items must be on the procurement list kept by the U.S. AbilityOne Commission, which creates jobs for these workers. The law also has an exception for certain contracts that were awarded after December 22, 2006 and were still in effect the day before the law was enacted. It also covers replacement products that are essentially the same as listed items and meet VA quality standards and delivery schedules.",
+ "who_it_affects": [
+  {
+   "group": "Nonprofit firms that employ blind or significantly disabled workers",
+   "how": "These firms get preference when they compete for VA contracts for items on the AbilityOne procurement list."
+  },
+  {
+   "group": "Blind and significantly disabled workers",
+   "how": "The law is intended to support job opportunities for these workers through VA purchasing of listed products and services."
+  },
+  {
+   "group": "Other vendors that sell to the VA",
+   "how": "Vendors selling items on the AbilityOne procurement list may face more competition from qualifying nonprofits when the VA buys those items."
+  }
+ ],
+ "when_it_takes_effect": "Enacted August 8, 2020; the summary does not give a separate effective date.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

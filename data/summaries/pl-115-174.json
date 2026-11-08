@@ -1,0 +1,60 @@
+{
+ "headline": "A 2018 federal law that loosens or adjusts many financial rules for smaller banks, mortgage lenders, veterans, consumers, and some securities issuers.",
+ "what_it_does": "This law, also called the Economic Growth, Regulatory Relief, and Consumer Protection Act, changes many financial rules across six titles. It eases some mortgage and bank requirements for smaller institutions, adds consumer protections for credit reports, veterans' medical debt, and student loan cosigners, and adjusts capital, reporting, and securities rules. Many provisions raise asset thresholds so fewer institutions must meet certain standards, and many others direct agencies to write rules or issue reports.",
+ "who_it_affects": [
+  {
+   "group": "Banks and credit unions with assets under $10 billion",
+   "how": "Many of them can skip certain mortgage ability-to-pay, escrow, appraisal, and disclosure rules, and some face lighter capital, Volcker Rule, and reporting requirements."
+  },
+  {
+   "group": "Large bank holding companies",
+   "how": "The asset level at which enhanced prudential standards, company-run stress tests, and mandatory risk committees apply is raised."
+  },
+  {
+   "group": "Homebuyers with mortgages",
+   "how": "Some lenders can offer loans without the usual ability-to-pay checks, and a waiting period is removed when a lender offers a lower rate in a second offer."
+  },
+  {
+   "group": "Veterans",
+   "how": "Veterans' medical debt in credit reports is limited and gets a dispute process, and VA refinanced loans must meet new waiting-period and fee rules."
+  },
+  {
+   "group": "Consumers with credit reports",
+   "how": "Fraud alerts last longer, free credit freezes are required, and minors' credit records get new protections."
+  },
+  {
+   "group": "Private student loan borrowers and their cosigners",
+   "how": "Cosigners are protected from default based only on the borrower's death or bankruptcy, and defaults can be removed from credit reports after a loan rehabilitation program."
+  },
+  {
+   "group": "Public housing residents and agencies",
+   "how": "The Family Self-Sufficiency program is combined into one program and opened to some tenants of privately owned subsidized properties, and smaller rural housing agencies have lighter inspection and environmental-review duties."
+  },
+  {
+   "group": "Mortgage loan originators and manufactured housing retailers",
+   "how": "Loan originators can keep working after moving between states or from banks to nonbank lenders for a temporary period, and certain manufactured housing retailers are not treated as mortgage originators."
+  },
+  {
+   "group": "Securities issuers and investment funds",
+   "how": "Some venture capital funds, Regulation A+ issuers, and exchange-listed securities face different registration, disclosure, and fee rules."
+  },
+  {
+   "group": "Residents of Puerto Rico, the U.S. Virgin Islands, Guam, American Samoa, and the Northern Mariana Islands",
+   "how": "Certain securities investment company rules and deposit hold rules now apply to them."
+  },
+  {
+   "group": "Senior citizens and financial institution employees",
+   "how": "Employees who report suspected elder financial exploitation in good faith get liability protection, and optional training on this topic is allowed."
+  },
+  {
+   "group": "Renters in foreclosed properties",
+   "how": "Notice and eviction protections for renters in foreclosed homes are restored permanently."
+  }
+ ],
+ "when_it_takes_effect": "The law took effect on its enactment date of May 24, 2018, though many individual provisions set their own timelines for agency rules, reports, or program changes.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

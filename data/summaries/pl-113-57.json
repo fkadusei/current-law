@@ -1,0 +1,20 @@
+{
+ "headline": "Congress extended the Undetectable Firearms Act of 1988 for 10 more years, keeping its ban on guns that airport X-ray machines cannot detect.",
+ "what_it_does": "The law extends the Undetectable Firearms Act of 1988 for 10 years. That act makes it illegal to make or possess a firearm that cannot be detected by the types of X-ray machines commonly used at airports. This measure does not change the ban itself, only how long it stays in effect.",
+ "who_it_affects": [
+  {
+   "group": "People who make firearms",
+   "how": "They remain barred from manufacturing firearms that airport-type X-ray machines cannot detect."
+  },
+  {
+   "group": "People who own or possess firearms",
+   "how": "They remain barred from possessing firearms that airport-type X-ray machines cannot detect."
+  }
+ ],
+ "when_it_takes_effect": "Took effect when enacted on December 9, 2013. The summary does not state the exact new expiration date.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

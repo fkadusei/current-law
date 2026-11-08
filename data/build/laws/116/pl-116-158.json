@@ -33,5 +33,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This 2020 law lets servicemembers end a lease early without an early termination fee if they receive a stop movement order because of an emergency.",
+  "what_it_does": "The law applies to service members who signed a lease after receiving certain military orders, such as a permanent change of station, a deployment, or individual support of military operations. If a stop movement order for at least 30 days or an indefinite period is later issued because of a local, national, or global emergency, the service member may terminate a lease for housing or a motor vehicle. No early termination fee may be charged. For a housing lease, the stop movement order must keep the service member or their dependents from living in the home.",
+  "who_it_affects": [
+   {
+    "group": "Active-duty servicemembers who sign housing or vehicle leases after receiving permanent change of station, deployment, or support orders",
+    "how": "They may end the lease early and avoid an early termination fee if an emergency stop movement order blocks their move."
+   },
+   {
+    "group": "Dependents of servicemembers who live in leased housing",
+    "how": "For a housing lease, the stop movement order must prevent them from occupying the home for the law to apply."
+   },
+   {
+    "group": "Landlords and vehicle lessors who rent to servicemembers",
+    "how": "They cannot collect an early termination fee when a covered servicemember ends a lease under this law."
+   }
+  ],
+  "when_it_takes_effect": "Enacted August 14, 2020; the official summary does not state a separate effective date.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

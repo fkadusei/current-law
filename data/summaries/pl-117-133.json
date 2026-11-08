@@ -1,0 +1,24 @@
+{
+ "headline": "This law expands VA mammography screening eligibility to certain veterans who served in specified locations where they may have been exposed to toxic substances such as burn pit smoke.",
+ "what_it_does": "The law lets veterans who served in listed locations and time periods get mammography screenings at VA facilities. The listed places include Iraq, several Persian Gulf countries, and several countries in the Middle East and North Africa, with time periods that start on specific dates and end when burn pits are no longer used there. The Airborne Hazards and Open Burn Pit Registry can add other locations and time periods. The law does not cover nearby bodies of water or the airspace above these places.",
+ "who_it_affects": [
+  {
+   "group": "Female veterans who served in Iraq, Southwest Asia, Afghanistan, Djibouti, Syria, Jordan, Egypt, Lebanon, or Yemen during the listed periods",
+   "how": "They become eligible for mammography screenings through the Veterans Health Administration."
+  },
+  {
+   "group": "Veterans exposed to toxic substances such as burn pit smoke at listed locations",
+   "how": "Their eligibility for VA mammography screening is expanded based on where and when they served."
+  },
+  {
+   "group": "The Airborne Hazards and Open Burn Pit Registry",
+   "how": "It can determine additional locations and time periods that qualify veterans for screening."
+  }
+ ],
+ "when_it_takes_effect": "The summary does not state a specific effective date; it was enacted June 7, 2022.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

@@ -1,0 +1,32 @@
+{
+ "headline": "This law requires tribal child welfare agencies to run criminal background and abuse registry checks on people in foster homes before a foster placement or license is approved.",
+ "what_it_does": "It amends the Indian Child Protection and Family Violence Prevention Act. Before a foster care placement or license is finalized, the tribal social services agency must complete criminal records checks, including fingerprint-based checks, on each adult in the home or employed at the facility, plus any others the tribe covers. Those people must also meet tribal standards, and placements are barred if a covered person has certain felony convictions, such as for child abuse, violence, or drugs. Emergency placements are exempt, and tribes must set up procedures to recertify homes and facilities.",
+ "who_it_affects": [
+  {
+   "group": "Tribal social services agencies",
+   "how": "They must run fingerprint-based and registry checks and set standards for foster homes and facilities before approving placements or licenses."
+  },
+  {
+   "group": "Foster care families and adults living in or working at foster care facilities",
+   "how": "Adults in the household or employed at the facility must pass background checks and tribal standards before a placement can be approved."
+  },
+  {
+   "group": "Children placed in tribal foster care",
+   "how": "Placements are only finalized in homes and facilities that have passed the required checks, except in emergencies."
+  },
+  {
+   "group": "Indian tribes",
+   "how": "They must create standards, recertification procedures, and check processes that meet the act's minimum requirements."
+  },
+  {
+   "group": "Department of the Interior",
+   "how": "It must issue guidance on background checks after placement, self-reporting, emergency placements, and certifying compliance."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

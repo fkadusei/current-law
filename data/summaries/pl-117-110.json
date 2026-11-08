@@ -1,0 +1,28 @@
+{
+ "headline": "A 2022 law lets the President raise tariffs on Russian and Belarusian goods by suspending normal trade relations with both countries.",
+ "what_it_does": "The law suspends normal trade relations with Russia and Belarus. It allows the President to proclaim higher tariff rates on products from both countries, and the President may restore normal trade relations subject to congressional disapproval. It also directs the U.S. Trade Representative to condemn the aggression in Ukraine and to urge other World Trade Organization members to suspend trade concessions to Russia and Belarus. The law permanently authorizes visa and property blocking sanctions tied to human rights violations.",
+ "who_it_affects": [
+  {
+   "group": "Importers of goods from Russia and Belarus",
+   "how": "Goods from these countries may be subject to higher tariff rates if the President proclaims them."
+  },
+  {
+   "group": "U.S. businesses that buy from or sell to Russia and Belarus",
+   "how": "Trade with these countries could become more costly or restricted if higher tariffs are imposed."
+  },
+  {
+   "group": "Russian and Belarusian exporters",
+   "how": "Their products could face higher U.S. duties than normal trade relations would allow."
+  },
+  {
+   "group": "Individuals and entities that could be targeted for human rights violations",
+   "how": "The President may block their visas and property under the law's permanent sanctions authority."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted April 8, 2022, and the President's authority to raise tariff rates ends January 1, 2024.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

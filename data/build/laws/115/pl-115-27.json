@@ -36,5 +36,20 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This resolution reappoints Steve Case to another term as a citizen regent on the Smithsonian Institution's Board of Regents.",
+  "what_it_does": "The Smithsonian Institution is run by a Board of Regents that includes citizen members chosen outside the government. This joint resolution gives Steve Case a new term as one of those citizen regents. The official summary does not describe any other changes to the Smithsonian or its rules.",
+  "who_it_affects": [
+   {
+    "group": "Steve Case",
+    "how": "He continues serving as a citizen regent of the Smithsonian's Board of Regents for another term."
+   }
+  ],
+  "when_it_takes_effect": "The summary does not give a separate effective date; it was enacted on April 19, 2017.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

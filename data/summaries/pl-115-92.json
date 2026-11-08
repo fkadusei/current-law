@@ -1,0 +1,28 @@
+{
+ "headline": "This law lets the FDA authorize unapproved medical products for emergency military use when the Department of Defense declares a military emergency involving a dangerous agent of war.",
+ "what_it_does": "The law amends the Federal Food, Drug, and Cosmetic Act to let the Food and Drug Administration authorize emergency use of a medical product that is not yet approved, if the Department of Defense determines a military emergency exists involving an agent that could cause life-threatening harm to U.S. forces. The Department of Defense can ask the FDA to speed up its approval steps for products likely to diagnose, prevent, treat, or lessen that risk, and the FDA must take set actions to help. The law also repeals parts of the 2018 National Defense Authorization Act that had let the Department of Defense, instead of the FDA, authorize such emergency uses. It requires the FDA and Department of Defense to meet twice a year to review medical products in the Department's portfolio and every quarter to discuss regenerative medicine, blood, and vaccine products, unless the Department decides those meetings are unnecessary.",
+ "who_it_affects": [
+  {
+   "group": "U.S. military service members",
+   "how": "They could receive unapproved medical products under FDA emergency authorization when a military emergency involving a dangerous agent of war is declared."
+  },
+  {
+   "group": "Department of Defense",
+   "how": "It gains a formal process to request expedited FDA review and emergency authorization of medical products, replacing its earlier authority under the 2018 defense authorization act."
+  },
+  {
+   "group": "Food and Drug Administration",
+   "how": "It must take specified steps to help expedite products the Department of Defense requests and must meet with the Department on a set schedule."
+  },
+  {
+   "group": "Medical product developers and manufacturers working on countermeasures for military threats",
+   "how": "Products they develop for these threats may be considered for expedited FDA review and emergency authorization under the new process."
+  }
+ ],
+ "when_it_takes_effect": "Enacted December 12, 2017; the summary does not list separate effective dates for specific provisions.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

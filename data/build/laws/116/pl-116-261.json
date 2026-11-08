@@ -45,5 +45,36 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2020 law that asks several federal agencies to support economic development in Native American communities, mainly through an Commerce Department office, a government study, and priority grants.",
+  "what_it_does": "The law gives the Office of Native American Business Development at the Department of Commerce duties to advise the department on U.S.-tribal relations and to serve as a point of contact for tribes, tribal organizations, and tribal members on economic development and doing business on Indian lands. It requires Commerce, Interior, and Treasury to coordinate efforts to support economic development in Native American communities. It also removes the matching-funds requirement for certain Community Development Financial Institutions Fund assistance that benefits Native American institutions, and it directs the Government Accountability Office to study existing Native American business programs, loan, bond, and tax incentive assistance, and alternative incentives for tribal governments to invest in community development funds or banks. Separately, it asks HHS to use Native American labor and buy Native American products unless Interior or HHS finds that doing so is impracticable and unreasonable, and it lets the Administration for Native Americans give financial help to Native American community development financial institutions, with priority for certain tribal economic development projects.",
+  "who_it_affects": [
+   {
+    "group": "Federally recognized tribes and tribal organizations",
+    "how": "They can contact the Office of Native American Business Development for help with economic development and doing business on Indian lands."
+   },
+   {
+    "group": "Members of tribes starting or running businesses",
+    "how": "They can seek guidance from the Commerce Department office on economic development and doing business on Indian lands."
+   },
+   {
+    "group": "Native American community development financial institutions",
+    "how": "They may get no-match assistance from the CDFI Fund and may receive financial help from the Administration for Native Americans, with priority for certain applicants."
+   },
+   {
+    "group": "Tribal applicants seeking ANA funding for tribal codes, courts, business structures, or master plans",
+    "how": "Their applications for projects in these areas get priority for ANA financial assistance."
+   },
+   {
+    "group": "Native American workers and Native American-made product suppliers",
+    "how": "HHS must use Native American labor and buy Native American products unless Interior or HHS finds this impracticable and unreasonable."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

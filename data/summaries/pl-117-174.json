@@ -1,0 +1,24 @@
+{
+ "headline": "This law changes how the VA applies the 85/15 Rule, which limits GI Bill enrollment at schools where too many students have their costs paid by the school or the VA.",
+ "what_it_does": "The 85/15 Rule generally stops the VA from approving a veteran's enrollment at a school where more than 85% of students have tuition or charges paid by the school or the VA. This law adds an exception for payment plans that a school has a history of offering and that are paid off within 180 days after the term ends. It also requires the VA to set up a way for schools to ask for a review when they are found to be over the 85% limit. The law also changes the existing 35% exemption and exempts programs with fewer than 10 students that have costs paid by the school or the VA.",
+ "who_it_affects": [
+  {
+   "group": "Veterans and eligible GI Bill beneficiaries",
+   "how": "Some veterans may be able to use GI Bill benefits at schools that might previously have been blocked under the 85/15 Rule."
+  },
+  {
+   "group": "Schools that enroll veterans and GI Bill beneficiaries",
+   "how": "Schools with certain payment plans or small programs may now fall outside the 85/15 Rule, and schools gain a formal way to request review of VA determinations."
+  },
+  {
+   "group": "Department of Veterans Affairs",
+   "how": "The VA must create a process for schools to request review of 85/15 determinations."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

@@ -3488,5 +3488,32 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2018 law expands DNA grant money so prosecutors can work on backlogged violent crime cases where DNA has identified a suspect.",
+  "what_it_does": "The law amends the DNA Analysis Backlog Elimination Act of 2000 to add prosecutors' capacity to the purposes covered by the Debbie Smith DNA Backlog Grant Program. The Department of Justice must set aside a specified share of those grant funds for this purpose, subject to limits in the law. For funds available from fiscal years 2019 through 2022 for DNA analysis and other forensic activities, the Justice Department must also spend at least 5% on grants to prosecute cold violent crime cases where DNA evidence identified a suspect.",
+  "who_it_affects": [
+   {
+    "group": "State and local prosecutors' offices",
+    "how": "They can apply for federal grant money to help them handle backlogged violent crime cases that involve DNA-identified suspects."
+   },
+   {
+    "group": "Crime labs and other forensic programs",
+    "how": "Their federal funding pool for DNA analysis and forensic work now includes a required share for prosecution grants."
+   },
+   {
+    "group": "Victims and families in cold violent crime cases",
+    "how": "Cases involving a DNA-identified suspect may receive prosecution resources that were previously limited."
+   },
+   {
+    "group": "People identified as suspects through DNA evidence in violent crime cases",
+    "how": "Cases tied to DNA matches may move forward in court more quickly as prosecutors receive added resources."
+   }
+  ],
+  "when_it_takes_effect": "Enacted October 9, 2018; the 5% grant requirement applies to funds made available for fiscal years 2019 through 2022.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

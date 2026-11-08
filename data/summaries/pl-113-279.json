@@ -1,0 +1,28 @@
+{
+ "headline": "This law tells the Federal Reserve not to apply certain bank-style capital rules to insurance companies regulated by states, and lets some insurance-focused holding companies use state accounting rules.",
+ "what_it_does": "It amends the Dodd-Frank Act so that federal banking agencies do not have to apply minimum leverage and risk-based capital requirements, on a consolidated basis, to people or companies acting as state-regulated insurers or to regulated foreign insurance subsidiaries. It also says that a Federal Reserve-supervised holding company in the insurance business, regulated by a state insurance regulator or the NAIC, can file its financial statements under Statutory Accounting Principles instead of GAAP. The law states that the Federal Reserve keeps its full power to supervise and collect information, and that its examination duties remain unchanged.",
+ "who_it_affects": [
+  {
+   "group": "Insurance companies regulated by state insurance regulators",
+   "how": "They are not required to meet the federal bank-style minimum capital requirements on a consolidated basis for their insurance activities."
+  },
+  {
+   "group": "Foreign insurance subsidiaries of covered holding companies",
+   "how": "Regulated foreign subsidiaries engaged in insurance, and their regulated foreign affiliates, are likewise exempt from those consolidated capital requirements."
+  },
+  {
+   "group": "Depository institution holding companies and nonbank financial companies supervised by the Federal Reserve that are in the insurance business",
+   "how": "They may file holding company financial statements under state Statutory Accounting Principles rather than GAAP, though the Federal Reserve can still collect information on a group-wide basis."
+  },
+  {
+   "group": "Federal Reserve and other federal banking agencies",
+   "how": "They do not have to apply these consolidated capital requirements to the covered insurance entities, but they keep their supervisory and examination authority."
+  }
+ ],
+ "when_it_takes_effect": "Signed into law on December 18, 2014, with no separate delayed effective date stated in the summary.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

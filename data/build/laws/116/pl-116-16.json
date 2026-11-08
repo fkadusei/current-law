@@ -36,5 +36,40 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This 2019 law makes several changes to Medicaid, including temporary extensions, a new state option for children with complex medical needs, more funding for moving people from institutions to home care, and new drug-reporting rules for manufacturers.",
+  "what_it_does": "It temporarily extends Medicaid spousal impoverishment protections for people getting home- and community-based services. It lets states cover coordinated care through a health home for children with medically complex conditions, with payments that temporarily get a higher federal matching rate. It also temporarily extends a Medicaid demonstration program for certified community behavioral health clinics and adds funding to the Money Follows the Person program, which helps people move from institutional care to home and community care. Drug manufacturers with Medicaid rebate agreements must also disclose drug product information, face civil penalties for knowingly misclassifying drugs, and repay underpaid rebates caused by misclassification.",
+  "who_it_affects": [
+   {
+    "group": "People receiving Medicaid home- and community-based services and their spouses",
+    "how": "Spousal impoverishment rules that limit how a spouse's income and assets are counted are temporarily extended for these recipients."
+   },
+   {
+    "group": "Children with medically complex conditions and their families",
+    "how": "States gain an option to cover coordinated care through a designated health home for these children."
+   },
+   {
+    "group": "State Medicaid programs",
+    "how": "States may choose the new health home option and must set payment methods that meet the law's requirements."
+   },
+   {
+    "group": "Certified community behavioral health clinics",
+    "how": "Their Medicaid demonstration program is temporarily extended."
+   },
+   {
+    "group": "People in long-term care who could move from institutions to home or community care",
+    "how": "More federal grant funding is available to states through the Money Follows the Person program to support these transitions."
+   },
+   {
+    "group": "Drug manufacturers with Medicaid rebate agreements",
+    "how": "They must disclose drug product information, face civil penalties for knowingly misclassifying drugs, and must pay back rebates that were underpaid due to misclassification, whether or not it was intentional."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on April 18, 2019, and the summary does not give specific effective dates or end dates for the temporary extensions.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

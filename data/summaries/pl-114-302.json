@@ -1,0 +1,24 @@
+{
+ "headline": "A 2016 law protects FBI employees and job applicants from retaliation when they report suspected wrongdoing to certain officials.",
+ "what_it_does": "The law bars the FBI from demoting, firing, or otherwise taking or refusing to take a personnel action against an employee or applicant because they made a protected disclosure. A protected disclosure is a report of information the person reasonably believes shows a violation of a law, rule, or regulation, or waste, fraud, or abuse. The law also adds more officials who can receive these reports, including a supervisor in the employee's direct chain of command.",
+ "who_it_affects": [
+  {
+   "group": "FBI employees",
+   "how": "They gain protection against retaliation, such as demotion, when they report suspected wrongdoing to an appropriate official."
+  },
+  {
+   "group": "FBI job applicants",
+   "how": "They are protected from having a hiring or other personnel decision made against them because of a protected disclosure."
+  },
+  {
+   "group": "Supervisors in FBI employees' direct chain of command",
+   "how": "They are now listed as officials who can receive protected disclosures from FBI employees."
+  }
+ ],
+ "when_it_takes_effect": "Enacted December 16, 2016. The summary does not describe any separate later effective date.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

@@ -3500,5 +3500,15 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2022 law renames a Los Angeles post office after Marine Corps Reserve Private Jacob Cruz.",
+  "what_it_does": "This act designates the Postal Service facility at 2016 East 1st Street in Los Angeles, California, as the Marine Corps Reserve PVT Jacob Cruz Post Office. It changes only the official name of the building. It does not change how the post office operates, its services, or its staff.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law was enacted on December 27, 2022, and the designation took effect on that date.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

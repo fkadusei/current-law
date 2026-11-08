@@ -33,5 +33,44 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2014 law that sets Coast Guard and maritime rules, funding limits, and related policies for 2015 and beyond, with many small provisions.",
+  "what_it_does": "This law authorizes money for Coast Guard operations, equipment, and personnel for fiscal year 2015, and sets an end-of-year active duty strength of 43,000. It makes many changes to Coast Guard rules, including family support, child care center standards, lighthouse lease revenue, and reporting duties. It also covers shipping, merchant mariner matters, Arctic operations, the Federal Maritime Commission, and several small land and vessel exemptions.",
+  "who_it_affects": [
+   {
+    "group": "Coast Guard members and their families",
+    "how": "The law adds family support offices, spouse tuition help, and child development center standards and parent boards, and it sets the active duty strength and promotion list size."
+   },
+   {
+    "group": "Parents using Coast Guard child development centers",
+    "how": "Each center must meet health, safety, and staff training standards and may have a parent board."
+   },
+   {
+    "group": "Merchant mariners and veterans with sea service",
+    "how": "DHS must provide veterans documentation of their sea service, and an advisory committee on merchant mariner personnel is created through 2020."
+   },
+   {
+    "group": "Commercial fishing and passenger vessel operators",
+    "how": "The law changes some manning, licensing, and vessel rules, and it extends a three-year Clean Water Act permit exemption for small vessels and fishing vessels."
+   },
+   {
+    "group": "Federal Maritime Commission commissioners and parties in shipping disputes",
+    "how": "Commissioner term limits and conflict-of-interest rules are set, and attorney fees may be awarded in certain ocean shipping cases."
+   },
+   {
+    "group": "Residents and businesses in Arctic coastal areas and Alaska",
+    "how": "The law directs planning for Arctic navigation, icebreaking, and Air Station Kodiak facilities, and it changes oil spill advisory funding for Cook Inlet."
+   },
+   {
+    "group": "State and tribal governments",
+    "how": "They receive notice of major marine casualties within 24 hours and may join oil spill planning committees, and states must be notified 90 days before certain waterway jurisdiction decisions."
+   }
+  ],
+  "when_it_takes_effect": "Most provisions took effect on enactment on December 18, 2014, while some have specific dates such as January 1, 2016, or run through fiscal years 2017 or 2020.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -36,5 +36,24 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This 2014 law extends funding authorization for the U.S. Anti-Doping Agency through 2020, confirms its role as the nation's anti-doping organization, and shifts its focus on banned methods to those it adopts.",
+  "what_it_does": "The law changes the 2006 Office of National Drug Control Policy Reauthorization Act to allow appropriations for the U.S. Anti-Doping Agency for fiscal years 2014 through 2020. It requires that the Agency be recognized worldwide as the independent national anti-doping organization for the United States. It also replaces the Agency's duty to prevent gene doping by amateur athletes with a duty to prevent prohibited performance-enhancing methods that the Agency itself adopts.",
+  "who_it_affects": [
+   {
+    "group": "U.S. amateur athletes",
+    "how": "They are covered by the Agency's anti-doping rules, and the methods they must avoid now include those the Agency adopts, instead of a focus on gene doping."
+   },
+   {
+    "group": "U.S. Anti-Doping Agency",
+    "how": "It can receive federal funding authorized for fiscal years 2014 through 2020 and is recognized as the official U.S. anti-doping organization worldwide."
+   }
+  ],
+  "when_it_takes_effect": "Enacted December 18, 2014; the summary does not list separate effective dates for each provision.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

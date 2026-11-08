@@ -1,0 +1,32 @@
+{
+ "headline": "A 2014 federal law extends rules for satellite TV companies carrying distant and local TV station signals, and revises several related broadcast and cable rules.",
+ "what_it_does": "The law extends for several years the rules that let satellite TV companies carry distant network station signals to certain households that cannot get those stations locally. It also extends bans on exclusive retransmission deals and a requirement that stations and TV providers negotiate in good faith. It lets the FCC add or remove communities from a station's local market after a written request, and it delays new rules on joint sales agreements between stations. The law also ends a ban on combining security and other functions in one cable set-top box, and it requires several reports to Congress and the FCC.",
+ "who_it_affects": [
+  {
+   "group": "Satellite TV subscribers in unserved households",
+   "how": "They can keep receiving distant network station signals under the extended legal authority through the end of 2019."
+  },
+  {
+   "group": "Satellite TV companies",
+   "how": "They keep their legal authority to carry distant signals and must file annual reports to the FCC on local market carriage for a limited number of years."
+  },
+  {
+   "group": "Local TV broadcast stations",
+   "how": "Their local market boundaries can be changed by FCC decision, and they face limits on jointly negotiating retransmission consent with other stations in the same market."
+  },
+  {
+   "group": "Cable and TV device makers and cable subscribers",
+   "how": "The set-top box integration ban ends one year after enactment, and the FCC must set up a working group on standards for downloadable security systems."
+  },
+  {
+   "group": "Small cable operators, especially in rural areas",
+   "how": "The FCC must create a streamlined process for filing effective competition petitions."
+  }
+ ],
+ "when_it_takes_effect": "Upon enactment on December 4, 2014, with several provisions running through December 31, 2019 or January 1, 2020, and the set-top box ban ending one year after enactment.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

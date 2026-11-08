@@ -4388,5 +4388,48 @@
   "House": "R",
   "Senate": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2015 budget law that changes federal spending limits, debt collection, Medicare premiums, pensions, Social Security disability rules, and tax audits for large partnerships.",
+  "what_it_does": "The law raises federal discretionary spending limits for fiscal years 2016 and 2017 and changes how automatic spending cuts apply. It also suspends the federal debt limit until March 15, 2017, and makes many smaller changes across agriculture, energy, pensions, health care, Social Security, telecommunications, and tax rules. Some provisions set specific dollar amounts, while others require agencies to study issues or issue new rules.",
+  "who_it_affects": [
+   {
+    "group": "Federal crop insurance companies and farmers with federal crop insurance",
+    "how": "The Department of Agriculture must renegotiate its agreement with private insurers and caps their overall rate of return at 8.9%, down from about 14.5%."
+   },
+   {
+    "group": "People with cell phones who owe debts to the federal government",
+    "how": "Federal agencies may use automated calls to cell phones to collect those debts, with the FCC setting limits on how often and how long calls can be."
+   },
+   {
+    "group": "Single-employer pension plan sponsors",
+    "how": "Annual federal insurance premiums per plan rise, and new mortality table and interest rate rules change how minimum pension funding amounts are calculated."
+   },
+   {
+    "group": "Medicare Part B enrollees",
+    "how": "Their 2016 premium and deductible increases are reduced, and the rule may apply again in 2017 under the same conditions."
+   },
+   {
+    "group": "Generic drug manufacturers",
+    "how": "They must pay rebates to state Medicaid programs when their drug prices rise faster than inflation, as brand-name manufacturers already do."
+   },
+   {
+    "group": "Large employers with more than 200 full-time employees",
+    "how": "They are no longer required to automatically enroll full-time employees in health benefit plans."
+   },
+   {
+    "group": "Large partnerships with more than 100 partners",
+    "how": "Their IRS audits are handled at the partnership level under new rules, and partnerships with fewer than 100 partners may opt out."
+   },
+   {
+    "group": "Social Security disability applicants and beneficiaries",
+    "how": "The law expands fraud investigation units, tightens rules on evidence and earnings reporting, and sets up pilot programs that change how earnings affect benefits."
+   }
+  ],
+  "when_it_takes_effect": "Several provisions took effect on enactment on November 2, 2015, while others apply starting in 2016, 2017, or later, with some running through 2025.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

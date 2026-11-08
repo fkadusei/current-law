@@ -42,5 +42,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law updates how the US government tracks, reports on, and responds to severe violations of religious freedom abroad, mostly through reporting duties and new lists.",
+  "what_it_does": "The law changes the deadline for the State Department's annual international religious freedom report from September 1 to May 1 and expands what the report must cover, including online censorship and persecution of human rights advocates. It requires the President to name non-state groups that severely violate religious freedom as entities of particular concern and publish those designations in the Federal Register. It also requires the State Department to create a Designated Persons List of foreign individuals sanctioned for directing severe religious freedom violations, and to train Foreign Service officers on religious freedom. Many other parts are statements of congressional opinion that do not create binding duties.",
+  "who_it_affects": [
+   {
+    "group": "Foreign Service officers and outgoing ambassadors and deputy chiefs of mission",
+    "how": "They must complete training on religious freedom at the George P. Shultz National Foreign Affairs Training Center."
+   },
+   {
+    "group": "Members of the Armed Forces and other federal agencies with overseas staff",
+    "how": "They may receive the religious freedom training materials that the State Department shares with them."
+   },
+   {
+    "group": "Foreign individuals and non-state groups accused of severe religious freedom violations",
+    "how": "They can be named publicly, placed on the Designated Persons List, and face visa denials, financial sanctions, or other measures."
+   },
+   {
+    "group": "U.S. colleges and universities with campuses or agreements abroad",
+    "how": "Congress expresses a hope that they adopt a voluntary code protecting religious freedom for employees and students, but the code is not required."
+   }
+  ],
+  "when_it_takes_effect": "Most provisions took effect on enactment on December 16, 2016, with specific deadlines such as the State Department's initial Designated Persons List and training plan due within 180 days, and list updates every 180 days after that.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -39,5 +39,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2015 law requires the Department of Homeland Security to report on and plan for reducing duplicate computer systems.",
+  "what_it_does": "The law directs the Chief Information Officer of the Department of Homeland Security to count how many information technology systems the department runs. It requires a count of systems that overlap, meaning two or more systems that do similar work for similar users. The officer must also produce a plan to reduce that overlap, including an estimate of possible cost savings. The plan must include a method for deciding which overlapping system should be eliminated.",
+  "who_it_affects": [
+   {
+    "group": "Department of Homeland Security employees and its IT staff",
+    "how": "They must help gather system data and prepare the required report on duplicate systems."
+   },
+   {
+    "group": "Users of overlapping DHS computer systems",
+    "how": "Systems they use could be consolidated or retired if the department adopts the required reduction plan."
+   },
+   {
+    "group": "Taxpayers",
+    "how": "The law requires the department to estimate potential cost savings from reducing duplicate systems, but the summary does not say whether any savings will be realized."
+   }
+  ],
+  "when_it_takes_effect": "Enacted August 6, 2015. The summary does not list specific reporting deadlines or implementation dates.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

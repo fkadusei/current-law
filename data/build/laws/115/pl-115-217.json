@@ -39,5 +39,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Names a post office building in Oviedo, Florida, after Sergeant First Class Alwyn Crendall Cashe.",
+  "what_it_does": "This law renames the U.S. Postal Service facility at 567 East Franklin Street in Oviedo, Florida. The building is now officially called the Sergeant First Class Alwyn Crendall Cashe Post Office Building. It does not change how the post office operates, its services, or its staff.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law took effect when it was enacted on July 24, 2018.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

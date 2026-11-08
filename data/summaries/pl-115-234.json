@@ -1,0 +1,28 @@
+{
+ "headline": "Reauthorizes FDA fees paid by animal drug makers for brand-name and generic animal drugs through 2023, and adds several new process rules for animal drug approvals.",
+ "what_it_does": "The law lets the Food and Drug Administration keep collecting user fees from companies that seek approval for brand-name and generic animal drugs, through fiscal year 2023. It limits some fees, such as for applications that only add an application number to a label, and for certain applications for genetically engineered animals intended to produce human medical products. It also requires electronic submission of most animal drug applications starting in fiscal 2019, bans selling brand-name animal drugs without an FDA application number, and creates a conditional approval path for some drugs through 2028.",
+ "who_it_affects": [
+  {
+   "group": "Companies that make brand-name and generic animal drugs",
+   "how": "They must keep paying FDA review fees under revised limits and submit most applications electronically starting in fiscal 2019."
+  },
+  {
+   "group": "Veterinarians and animal owners",
+   "how": "Brand-name animal drugs sold to them must include an FDA application number, and some new drugs for minor uses or species may be approved conditionally."
+  },
+  {
+   "group": "Farmers and livestock producers",
+   "how": "Certain drugs for minor uses in major species, such as cattle, pigs, and chickens, may become available under the new labeling and conditional approval rules."
+  },
+  {
+   "group": "Food additive petitioners for animal food",
+   "how": "The FDA must consider investigations conducted in foreign countries when reviewing their petitions and must issue guidance on voluntary pre-petition consultations."
+  }
+ ],
+ "when_it_takes_effect": "Most provisions took effect upon enactment on August 14, 2018. Electronic submission requirements begin in fiscal year 2019, and the fee authority ends October 1, 2023, unless renewed. The conditional approval authority ends October 1, 2028.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

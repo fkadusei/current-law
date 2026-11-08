@@ -1,0 +1,48 @@
+{
+ "headline": "This law gives fiscal year 2020 funding to Commerce, Justice, science, and several related federal agencies.",
+ "what_it_does": "It sets how much money specific federal agencies can spend in fiscal year 2020, which runs through September 30, 2020. The official summary covers only the Commerce, Justice, Science, and related agencies portion of the law, not the health extender provisions named in its title. It also sets certain requirements and limits on how those funds may be used.",
+ "who_it_affects": [
+  {
+   "group": "Businesses that export goods or work on international trade",
+   "how": "The International Trade Administration and Bureau of Industry and Security receive funding that supports their trade work."
+  },
+  {
+   "group": "Minority-owned businesses",
+   "how": "The Minority Business Development Agency receives funding for its programs."
+  },
+  {
+   "group": "Patent and trademark applicants",
+   "how": "The U.S. Patent and Trademark Office receives funding to carry out its work."
+  },
+  {
+   "group": "Local police departments",
+   "how": "Community Oriented Policing Services and other DOJ law enforcement grant programs receive funding."
+  },
+  {
+   "group": "Crime victims and people affected by domestic or sexual violence",
+   "how": "The Office on Violence Against Women and the Office of Justice Programs receive funding."
+  },
+  {
+   "group": "People in federal prisons and their families",
+   "how": "The Federal Prison System receives funding for its operations."
+  },
+  {
+   "group": "People seeking free civil legal help",
+   "how": "The Legal Services Corporation receives funding to support its work."
+  },
+  {
+   "group": "People filing workplace discrimination complaints",
+   "how": "The Equal Employment Opportunity Commission receives funding to carry out its work."
+  },
+  {
+   "group": "Students and researchers in science fields",
+   "how": "The National Science Foundation, NASA, and the Office of Science and Technology Policy receive funding for science programs."
+  }
+ ],
+ "when_it_takes_effect": "Funding applies to fiscal year 2020, which ends September 30, 2020. The law was enacted November 21, 2019.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

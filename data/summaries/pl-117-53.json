@@ -1,0 +1,24 @@
+{
+ "headline": "This law gives legal backing to federal rules on how DEA registrations for controlled drugs can be changed, transferred, or ended.",
+ "what_it_does": "Businesses and people who are registered with the federal government to make, sell, or hand out controlled substances need that registration to operate. The law sets out when a registration ends, including when the holder dies, stops existing as a legal entity, closes the business, or gives it up. It also sets notification requirements and conditions for transferring or assigning a registration to someone else.",
+ "who_it_affects": [
+  {
+   "group": "Pharmacies, doctors' offices, and other dispensers with federal controlled-substance registrations",
+   "how": "They must follow the rules for changing, transferring, or giving up their registration, including any notice requirements."
+  },
+  {
+   "group": "Drug manufacturers and distributors registered with the Drug Enforcement Administration",
+   "how": "Their registrations end automatically in listed situations such as closing the business or ceasing legal existence, and transfers are allowed only under set conditions."
+  },
+  {
+   "group": "Estates and heirs of registered individuals",
+   "how": "A registration ends when the registered person dies, so the estate or family must handle notice and wind-down under the rules."
+  }
+ ],
+ "when_it_takes_effect": "Signed into law on November 10, 2021; the official summary does not list a separate effective date.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

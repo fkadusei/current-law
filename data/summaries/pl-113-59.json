@@ -1,0 +1,44 @@
+{
+ "headline": "Extends several expiring Department of Veterans Affairs programs and authorities, mostly through 2014 or 2015, and widens who can run adaptive sports grants.",
+ "what_it_does": "This law keeps several VA programs running that were set to expire. It extends money for a monthly allowance to disabled veterans and service members training for the U.S. Paralympic Team through fiscal year 2015. It lets groups other than the U.S. Olympic Committee, if they have large adaptive sports experience, get VA grants for adaptive sports for veterans and service members. It also extends through 2014 a set of VA authorities covering transportation, nursing home care, homeless and mental health services, advisory committees, contract medical exams, and loan default rules.",
+ "who_it_affects": [
+  {
+   "group": "Disabled veterans and service members training for or competing on the U.S. Paralympic Team",
+   "how": "They can keep receiving a monthly assistance allowance from the VA through fiscal year 2015."
+  },
+  {
+   "group": "Organizations running adaptive sports programs",
+   "how": "Groups with significant large-scale adaptive sports experience, not just the U.S. Olympic Committee, can apply for VA grants to run programs for veterans and service members."
+  },
+  {
+   "group": "Veterans who need transportation to VA facilities",
+   "how": "The VA can keep paying to transport them to and from VA facilities for rehabilitation, counseling, exams, treatment, or care through 2014."
+  },
+  {
+   "group": "Veterans with a service-connected disability rated at 70% or more who need nursing home care",
+   "how": "The VA's requirement to provide that nursing home care continues through 2014."
+  },
+  {
+   "group": "Seriously mentally ill and homeless veterans",
+   "how": "VA treatment, rehabilitation, housing assistance, and related services for these veterans continue through 2014."
+  },
+  {
+   "group": "Veterans seeking education or vocational rehabilitation help, and VA advisory committee members",
+   "how": "The Advisory Committee on Homeless Veterans and the Veterans' Advisory Commission on Education continue to operate through 2014."
+  },
+  {
+   "group": "Veterans in the Philippines",
+   "how": "The VA can keep operating its regional office in the Republic of the Philippines through 2014."
+  },
+  {
+   "group": "Veterans with VA-guaranteed home loans who default",
+   "how": "VA requirements that apply after a default on a VA-guaranteed loan are extended through fiscal year 2014."
+  }
+ ],
+ "when_it_takes_effect": "Enacted December 20, 2013. The extensions run through fiscal year 2014, calendar year 2014, or fiscal year 2015, depending on the program.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

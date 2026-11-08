@@ -1,0 +1,36 @@
+{
+ "headline": "A 2015 law that makes many changes to Small Business Administration disaster loans, support for small businesses, and federal contracting after declared major disasters.",
+ "what_it_does": "The law changes how the Small Business Administration (SBA) handles disaster help. It lets people hit by Superstorm Sandy in 2012 apply for SBA loans for repairs or business injury, lets SBA loans pay for storm shelters built to FEMA standards, and sets a $25,000 collateral threshold for three years. It also adds support for small business counseling after major disasters, gives federal contracting preferences to small businesses in disaster areas, and requires SBA to plan for surges in loan applications.",
+ "who_it_affects": [
+  {
+   "group": "Homeowners, renters, and nonprofits in areas hit by Superstorm Sandy",
+   "how": "They may apply for SBA loans to repair, rehabilitate, or replace storm-damaged property."
+  },
+  {
+   "group": "Small businesses in declared major disaster areas",
+   "how": "They may receive SBA loans, counseling from small business development centers, priority access to surplus federal property, and federal contracting preferences."
+  },
+  {
+   "group": "SBA disaster loan applicants",
+   "how": "They must be told to submit all needed paperwork with their application, and SBA must set written rules for checking whether applicants can repay."
+  },
+  {
+   "group": "Small business owners using a home as loan collateral",
+   "how": "For loans up to $200,000, SBA may not require the primary residence as collateral if the owner has other assets worth at least the loan amount."
+  },
+  {
+   "group": "Small business development centers, women's business centers, and SCORE",
+   "how": "They may receive federal funding, without matching requirements, to provide counseling after major disasters."
+  },
+  {
+   "group": "Federal contractors and contracting agencies",
+   "how": "Agencies must set contracting preferences for small businesses in disaster areas that will do the contract work."
+  }
+ ],
+ "when_it_takes_effect": "Most provisions took effect on enactment on November 25, 2015, with some time-limited parts running for set periods such as three years for the $25,000 collateral threshold, which then reverts to $14,000.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

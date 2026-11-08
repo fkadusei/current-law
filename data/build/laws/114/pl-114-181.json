@@ -39,5 +39,24 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law moves about 301 acres of federal land in Lassen County, California, into trust for the Susanville Indian Rancheria and bars certain gaming on that land.",
+  "what_it_does": "The law takes roughly 301 acres of land managed by the Bureau of Land Management in Lassen County, California, and places it in trust for the Susanville Indian Rancheria. Land held in trust is generally held by the federal government for a tribe's benefit rather than managed by the Bureau of Land Management. The law also prohibits certain gaming on these lands. The official summary does not describe any health provisions, even though the policy area listed for this law is Health.",
+  "who_it_affects": [
+   {
+    "group": "Susanville Indian Rancheria",
+    "how": "The tribe gains trust status over about 301 acres of federal land, but certain gaming on those lands is not allowed."
+   },
+   {
+    "group": "People who use these BLM lands in Lassen County",
+    "how": "The land moves out of Bureau of Land Management administration into trust, which changes who manages it. The summary does not say how public access or use will change."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on June 22, 2016. The official summary does not list a separate effective date.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

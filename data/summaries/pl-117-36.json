@@ -1,0 +1,20 @@
+{
+ "headline": "A 2021 law lets the Drug Enforcement Administration bar certain repeat-problem businesses from registering to handle controlled substances, either temporarily or permanently.",
+ "what_it_does": "The law gives the DEA authority to block an entity from registering to manufacture, distribute, or dispense controlled substances. This applies when the entity meets a condition that could justify suspending or revoking its registration and has a history of prior suspensions or revocations. The bar can be temporary or permanent.",
+ "who_it_affects": [
+  {
+   "group": "Businesses and other entities registered with the DEA to make, distribute, or dispense controlled substances",
+   "how": "Entities with a history of prior DEA suspensions or revocations could be denied or kept from getting a registration if they meet a suspension or revocation condition."
+  },
+  {
+   "group": "Entities seeking a new DEA registration to handle controlled substances",
+   "how": "Applicants with a prior suspension or revocation history may be barred from registering, either for a set period or permanently."
+  }
+ ],
+ "when_it_takes_effect": "The summary does not give a separate effective date. The law was enacted on August 6, 2021.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

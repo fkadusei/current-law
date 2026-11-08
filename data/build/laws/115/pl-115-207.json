@@ -39,5 +39,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2018 law names a Los Angeles Postal Service facility the Marvin Gaye Post Office, but its sources give two different street addresses.",
+  "what_it_does": "This law renames a U.S. Postal Service facility in Los Angeles, California, after the singer Marvin Gaye. The bill title gives the address as 3585 South Vermont Avenue, but the official summary gives it as 4040 West Washington Boulevard. The sources do not say which address is correct, so this summary cannot confirm which building is meant.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law was enacted on July 24, 2018.",
+  "ceremonial": true,
+  "confidence": "low",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

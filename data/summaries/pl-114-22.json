@@ -1,0 +1,60 @@
+{
+ "headline": "A 2015 federal law expanding anti-trafficking penalties, victim services, grants, and related rules across criminal justice, health, immigration enforcement, and child welfare.",
+ "what_it_does": "The law adds a $5,000 assessment on people and entities convicted of certain sex, slavery, trafficking, and smuggling crimes, with the money going to a Domestic Trafficking Victims' Fund that pays for anti-trafficking grants and victim services. It makes several changes to how trafficking victims get services, creates grant programs for states and localities, makes buyers of commercial sex subject to prosecution, and adds rules for missing children reports and crime victims' rights. It also creates a Cyber Crimes Center within Immigration and Customs Enforcement, expands sex offender registry reporting for military members, and sets up training requirements for federal workers, health care staff, and Homeland Security personnel.",
+ "who_it_affects": [
+  {
+   "group": "People convicted of trafficking, sexual abuse, child exploitation, or certain smuggling offenses",
+   "how": "They may owe an extra $5,000 assessment, payable only after other court-ordered fines, restitution, and victim compensation are paid."
+  },
+  {
+   "group": "Trafficking victims",
+   "how": "U.S. citizens and permanent residents who are victims of severe trafficking can get victim benefits without first getting HHS certification, and victims may receive restitution from forfeited property."
+  },
+  {
+   "group": "State and local governments and law enforcement",
+   "how": "They can apply for Justice Department grants for anti-trafficking training, task forces, and child trafficking programs, and they may get funding preferences if their state has certain laws in place."
+  },
+  {
+   "group": "People who buy commercial sex acts",
+   "how": "They can be prosecuted for patronizing or soliciting people for commercial sex acts in sex trafficking cases."
+  },
+  {
+   "group": "Runaway and homeless youth and their service providers",
+   "how": "Youth who have experienced trafficking are added as an eligibility factor for certain grants for runaway and homeless youth services."
+  },
+  {
+   "group": "Missing children's families and foster care agencies",
+   "how": "State missing-child reports must include a recent photo when available, and records must be verified within 30 days instead of 60."
+  },
+  {
+   "group": "Military members required to register as sex offenders",
+   "how": "The Defense Department must send registration information for certain released or sentenced service members to the national sex offender registry."
+  },
+  {
+   "group": "Health care professionals",
+   "how": "HHS funds training programs to help clinicians recognize and respond to trafficking victims."
+  },
+  {
+   "group": "Job Corps applicants",
+   "how": "Trafficking victims can join Job Corps without showing low-income eligibility."
+  },
+  {
+   "group": "Veterans and transitioning service members",
+   "how": "The HERO Child Rescue Corps program is set up to recruit and hire wounded, ill, or injured veterans for child exploitation investigation roles."
+  },
+  {
+   "group": "Crime victims",
+   "how": "They must be notified of plea bargains and deferred prosecution agreements in a timely way and given information on the DOJ Victims' Rights Ombudsman."
+  },
+  {
+   "group": "Grant recipients and nonprofit organizations receiving Justice Department grants",
+   "how": "They face annual Inspector General audits, a ban on certain offshore-account nonprofits, limits on conference spending, and a ban on lobbying DOJ or state and local officials about grant awards."
+  }
+ ],
+ "when_it_takes_effect": "Enacted May 29, 2015; several provisions apply starting with fiscal years 2015 through 2016, and some grant authorities and the $5,000 assessment run through fiscal year 2019 or 2020.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

@@ -1,0 +1,24 @@
+{
+ "headline": "This law lets the Department of Homeland Security work with Israel on joint security research, including cybersecurity, and changes some reporting rules for those programs.",
+ "what_it_does": "It changes two existing laws so DHS, working with the State Department, can run cooperative programs with Israel to improve cybersecurity capabilities. It also lets DHS's science office and its Homeland Security Advanced Research Projects Agency take part in these partnerships. A pilot-project label is removed from certain Israel research programs covering border, maritime, and aviation security, explosives detection, and emergency services. Finally, the office that tracks these international programs must report every five years on progress and on obstacles it has faced.",
+ "who_it_affects": [
+  {
+   "group": "Department of Homeland Security and its science and research offices",
+   "how": "They gain authority to form and run cybersecurity and security research programs with Israel and must include progress and obstacle updates in their five-year reports."
+  },
+  {
+   "group": "Department of State",
+   "how": "It coordinates with DHS on these cooperative programs with Israel."
+  },
+  {
+   "group": "Researchers and companies that work on border, maritime, aviation, explosives, or emergency services technology",
+   "how": "Israel-linked cooperative research in these areas is no longer treated as a pilot project, which may affect how such work is organized and funded."
+  }
+ ],
+ "when_it_takes_effect": "The law took effect when it was enacted on December 16, 2016.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

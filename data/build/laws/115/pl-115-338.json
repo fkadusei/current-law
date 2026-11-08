@@ -36,5 +36,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2018 law directs Congress to award a single gold medal to the crew of the USS Indianapolis and then give it to a museum in Indiana.",
+  "what_it_does": "The law asks the House and Senate to arrange a Congressional Gold Medal for the ship's crew, recognizing their perseverance, bravery, and service. After the award, the medal goes to the Indiana War Memorial Museum in Indianapolis to be displayed and made available for research. Congress also expresses its sense that the museum should lend the medal to other locations and events connected to the ship.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "On enactment, December 20, 2018.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

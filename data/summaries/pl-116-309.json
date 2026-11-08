@@ -1,0 +1,28 @@
+{
+ "headline": "This law rewrites the federal crime of female genital mutilation so it defines the practice, covers more conduct, and raises the maximum prison term to 10 years.",
+ "what_it_does": "The law adds a federal definition of female genital mutilation and states Congress's findings that the practice affects interstate commerce, which responds to a 2018 court ruling that struck down the older statute. It makes attempting or conspiring to perform the procedure, consenting to it as a parent, guardian, or caretaker, and transporting a minor for it into federal crimes. It raises the maximum prison term from 5 to 10 years and bars defendants from arguing that religion, custom, tradition, or ritual requires the practice. It also requires the Justice Department to report on the practice each year.",
+ "who_it_affects": [
+  {
+   "group": "Parents, guardians, and caretakers of girls",
+   "how": "They can now face federal charges for consenting to or helping arrange the procedure on a minor, or for taking a minor across state or national lines for it."
+  },
+  {
+   "group": "Medical providers and people who perform the procedure",
+   "how": "The maximum federal prison sentence for performing the procedure on a minor doubles from 5 years to 10 years."
+  },
+  {
+   "group": "Federal criminal defendants charged under this statute",
+   "how": "They cannot use religious, cultural, traditional, or ritual reasons as a legal defense to the charge."
+  },
+  {
+   "group": "Girls and women at risk of the procedure",
+   "how": "The Justice Department must report each year on the estimated number of those at risk or affected and on federal efforts to stop the practice."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on January 5, 2021, and its changes took effect on that date, based on the enactment date listed.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

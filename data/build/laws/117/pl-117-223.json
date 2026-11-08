@@ -39,5 +39,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law requires mobile phone companies to separate a survivor's line from an abuser's shared plan on request, and directs the FCC to expand phone and internet subsidies for survivors.",
+  "what_it_does": "At a survivor's request, a mobile provider must split the survivor's line, and any line under their care, off a shared contract with the abuser, unless that is not technically possible. The survivor must provide documents showing that a person on the contract committed or allegedly committed domestic violence, trafficking, or a related crime, and must take over payments for the separated lines. Providers must complete the separation within two business days, cannot charge fees for it, and are protected from liability for good-faith compliance. The Federal Communications Commission must write rules for these requests, expand subsidized communication service for survivors facing financial hardship, and consider keeping hotline calls and texts out of consumer-facing call logs.",
+  "who_it_affects": [
+   {
+    "group": "Survivors of domestic violence, human trafficking, and related crimes who share a mobile phone plan with the abuser",
+    "how": "They can ask their mobile provider to move their line and any lines in their care onto their own account, with no fee, if they provide documentation and take over the bills."
+   },
+   {
+    "group": "Mobile service providers",
+    "how": "They must separate eligible lines within two business days, make the request process available online, keep request information confidential, and follow new FCC rules."
+   },
+   {
+    "group": "Survivors facing financial hardship",
+    "how": "The FCC must expand access to federally subsidized phone and internet services for them."
+   },
+   {
+    "group": "People who call or text domestic violence and related hotlines",
+    "how": "The FCC must consider rules that would keep those contacts out of consumer-facing call and text logs while providers keep internal records."
+   }
+  ],
+  "when_it_takes_effect": "Not stated in the summary; the FCC must first adopt implementing rules, and the exact effective dates depend on those rules.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

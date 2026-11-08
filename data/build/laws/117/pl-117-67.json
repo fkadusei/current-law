@@ -36,5 +36,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2021 law requires the VA and Defense Department to help service members in health care jobs find VA employment as they leave the military.",
+  "what_it_does": "The VA must work with the Department of Defense to find members of the Armed Forces who have health care occupations and refer interested members for VA jobs during their separation from service. Referred members are sent to a recruiter who considers open positions matching their specialty and preferred location. Referrals cannot be made more than one year before a member's separation date.",
+  "who_it_affects": [
+   {
+    "group": "Members of the Armed Forces with health care occupations who are separating from military service",
+    "how": "They can be identified and referred to a VA recruiter for open positions in their specialty and preferred location, if they are interested."
+   },
+   {
+    "group": "Department of Veterans Affairs",
+    "how": "The VA must consult with the Department of Defense to identify candidates and must refer interested members to its recruiters."
+   },
+   {
+    "group": "Department of Defense",
+    "how": "It must consult with the VA to identify service members in health care occupations who may be referred for VA employment."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on November 30, 2021, and the summary does not list a separate start date.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -36,5 +36,24 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law extends temporary funding for federal agencies at last year's rate until December 13, 2014, or until full spending bills are enacted.",
+  "what_it_does": "The law amends an earlier continuing resolution for fiscal year 2015. It keeps federal agencies funded at their current annual rate instead of letting funding lapse. The funding lasts until December 13, 2014, or until specified full-year appropriations legislation becomes law.",
+  "who_it_affects": [
+   {
+    "group": "Federal agencies",
+    "how": "They can keep paying for operations at the current annual funding rate until the extension ends or full appropriations are enacted."
+   },
+   {
+    "group": "People who use federal agency services",
+    "how": "Services funded through these agencies can continue without a funding gap during the extension period."
+   }
+  ],
+  "when_it_takes_effect": "Enacted December 12, 2014; the extended funding runs until December 13, 2014, or until specified appropriations legislation is enacted.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

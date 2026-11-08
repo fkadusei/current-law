@@ -39,5 +39,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2019 law stops certain veterans' benefits, including disability pay, from counting as income when a person files for bankruptcy.",
+  "what_it_does": "Bankruptcy courts use a debtor's current monthly income to decide how much they can afford to repay. This law removes certain benefits paid by the Department of Veterans Affairs or the Department of Defense, including disability benefits, from that income calculation. As a result, those payments are not counted when the court looks at a debtor's monthly income.",
+  "who_it_affects": [
+   {
+    "group": "Veterans who receive VA or DoD disability benefits and file for bankruptcy",
+    "how": "Their disability benefits are excluded from the monthly income that courts use to assess their ability to repay debts."
+   },
+   {
+    "group": "Veterans who receive other VA or DoD benefits and file for bankruptcy",
+    "how": "Certain VA or DoD benefits are excluded from current monthly income in the same way."
+   },
+   {
+    "group": "Creditors of veterans in bankruptcy",
+    "how": "Because excluded benefits do not count as income, the amount a debtor is expected to repay may be lower than it would otherwise be."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on August 23, 2019. The official summary does not list a separate effective date.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

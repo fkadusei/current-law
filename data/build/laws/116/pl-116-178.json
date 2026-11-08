@@ -36,5 +36,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2020 law raised federal disability and survivor payments for veterans and their families by the same percentage as Social Security benefits, starting December 1, 2020.",
+  "what_it_does": "The law tells the Department of Veterans Affairs to increase several monthly benefit rates on December 1, 2020. The increases cover disability compensation, extra payments for dependents, the clothing allowance for certain disabled veterans, and survivor payments to spouses and children. The percentage raise matches the cost-of-living increase given to Social Security recipients. The summary does not give the exact dollar amounts.",
+  "who_it_affects": [
+   {
+    "group": "Veterans receiving VA disability compensation",
+    "how": "Their monthly disability payments went up starting December 1, 2020, by the same percentage as the Social Security cost-of-living increase."
+   },
+   {
+    "group": "Veterans with dependents receiving additional compensation",
+    "how": "The extra monthly payments they get for spouses, children, or other dependents also went up by the same percentage."
+   },
+   {
+    "group": "Disabled veterans eligible for the clothing allowance",
+    "how": "The yearly clothing allowance they receive for certain disabilities was increased by the same percentage."
+   },
+   {
+    "group": "Surviving spouses and children receiving dependency and indemnity compensation",
+    "how": "Their monthly survivor payments from the VA rose by the same percentage starting December 1, 2020."
+   }
+  ],
+  "when_it_takes_effect": "December 1, 2020",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

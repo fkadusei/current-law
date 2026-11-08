@@ -45,5 +45,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law directs TSA and DHS to tighten how workers with access to secure maritime areas are vetted and to assess whether the TWIC credential program works.",
+  "what_it_does": "The law tells the Transportation Security Administration to improve how it checks people who need access to secure areas of vessels and port facilities. TSA must analyze risks in its vetting process, add internal controls, improve fraud detection, and update guidance and a manual for staff who issue credentials and review decisions. DHS must also have an outside research group assess whether the Transportation Worker Identification Credential program effectively reduces security risks, and if problems are found, submit a corrective action plan to Congress that the DHS Inspector General reviews.",
+  "who_it_affects": [
+   {
+    "group": "Maritime workers who need unescorted access to secure port and vessel areas",
+    "how": "They must hold a TWIC credential, and the vetting process that decides whether they get one is being reviewed and tightened."
+   },
+   {
+    "group": "Port facility and vessel operators",
+    "how": "They rely on TWIC credentials to control who enters secure areas, so changes to the vetting and credential process may affect their operations."
+   },
+   {
+    "group": "TSA credentialing staff and adjudicators",
+    "how": "They must follow updated guidance, a finalized manual, and quality controls for reviewing vetting and adjudication decisions."
+   }
+  ],
+  "when_it_takes_effect": "The law does not list a single specific effective date in the summary; its actions are directed to TSA and DHS to begin and complete after enactment on December 16, 2016.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

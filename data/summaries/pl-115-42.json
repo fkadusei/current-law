@@ -1,0 +1,24 @@
+{
+ "headline": "This law lets a remaining member of the Merit Systems Protection Board extend certain personnel-action stays when the board lacks a quorum.",
+ "what_it_does": "The Merit Systems Protection Board hears appeals from federal employees about personnel actions such as firings or demotions. A stay pauses such an action while the case is reviewed. This law says that if the board does not have enough members to make a quorum, any remaining member may extend the length of a stay when the Special Counsel asks. The change applies only during the time the board lacks a quorum.",
+ "who_it_affects": [
+  {
+   "group": "Federal employees facing personnel actions such as removal or demotion",
+   "how": "A stay that pauses a contested personnel action can be extended while the board lacks enough members to act."
+  },
+  {
+   "group": "The Office of Special Counsel",
+   "how": "The Special Counsel can ask a remaining board member to extend a stay when the board has no quorum."
+  },
+  {
+   "group": "Federal agencies that take personnel actions",
+   "how": "Contested personnel actions may stay on hold for longer periods when the board cannot reach a quorum."
+  }
+ ],
+ "when_it_takes_effect": "Enacted June 27, 2017, and applies while the Merit Systems Protection Board lacks a quorum.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

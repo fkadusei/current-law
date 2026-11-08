@@ -36,5 +36,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law adds March 29, National Vietnam War Veterans Day, to the list of days when the American flag should especially be displayed.",
+  "what_it_does": "The law adds National Vietnam War Veterans Day, March 29, to the list of days when the flag should be displayed with special emphasis. It is a recognition measure and does not create new programs, payments, or required actions for individuals or agencies.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law took effect when it was signed on March 28, 2017.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -1,0 +1,40 @@
+{
+ "headline": "This 2021 law provides emergency funding for the Capitol response after January 6, aid for Afghan refugees and allies, and COVID-19 costs for Congress.",
+ "what_it_does": "The law gives federal agencies extra money for several purposes. It pays for National Guard support tied to the January 6, 2021 events at the U.S. Capitol, and for Capitol Police, the Senate, the House, and the Architect of the Capitol. It also funds refugee help for Afghans and changes the rules for special immigrant visas for certain Afghan and Iraqi nationals, including people who worked with the U.S. government or NATO. Finally, it adds money for state and local law enforcement costs tied to protecting the President-elect after the 2020 election, and it sets general rules on how the new funds can be spent and how long they last.",
+ "who_it_affects": [
+  {
+   "group": "Afghan nationals who worked for the U.S. government or a NATO mission in Afghanistan",
+   "how": "The law increases the number of special immigrant visas available, shortens the required work history to one year, extends the application deadline, and removes the requirement to show an ongoing serious threat."
+  },
+  {
+   "group": "Afghan and Iraqi special immigrant visa applicants and their surviving spouses and children",
+   "how": "Surviving family members may keep visa eligibility if the principal applicant died after applying, and visa applicants may postpone their medical exam, with the exam due within 30 days after arrival."
+  },
+  {
+   "group": "Iraqi translators who worked for the U.S. Armed Forces with approved petitions",
+   "how": "Their petitions may be converted to another special immigrant program if a visa is not immediately available and visas exist under that program."
+  },
+  {
+   "group": "U.S. Capitol Police and Capitol Police officers",
+   "how": "The law provides funding for the department and changes its 2021 salary cap, and it designates its wellness program as the Howard C. Liebengood Center for Wellness."
+  },
+  {
+   "group": "Members of Congress and families of deceased Members",
+   "how": "The law provides payments to the widow of Representative Ronald Wright and the heirs of Representative Alcee Hastings."
+  },
+  {
+   "group": "Residents near the U.S. Capitol Grounds",
+   "how": "Funds may not be used to install permanent, above-ground perimeter fencing around the Capitol Grounds, and the Architect of the Capitol may take emergency actions with congressional approval."
+  },
+  {
+   "group": "State and local law enforcement agencies",
+   "how": "They may receive funds to restore money spent on extraordinary costs of protecting the President-elect from November 4, 2020, until inauguration."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on July 30, 2021. Most funds may be used only during fiscal year 2021, which ends September 30, 2021, unless the law says otherwise.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

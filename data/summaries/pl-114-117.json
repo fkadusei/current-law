@@ -1,0 +1,28 @@
+{
+ "headline": "The GONE Act requires federal agencies to report on old grant awards that have not been closed out and to explain the delays.",
+ "what_it_does": "The law directs the Office of Management and Budget to have each federal agency report to Congress and the Department of Health and Human Services by December 31 of the first calendar year after enactment. The reports list open grant awards, count them by expiration date and balance status, and explain why the 30 oldest awards have not been closed. Agencies must then report within a year on which awards remain open, and Inspectors General of large grant-making agencies must run risk assessments that decide whether a closeout audit is needed. OMB must also recommend legislation to improve grant accountability.",
+ "who_it_affects": [
+  {
+   "group": "Federal agencies that issue grants",
+   "how": "They must compile lists of open grant awards, explain delays in closing them out, and submit follow-up notices on closeout status."
+  },
+  {
+   "group": "Grant recipients with expired, unclosed federal grants",
+   "how": "Their old awards may be reviewed as part of the reporting process, though the law does not change their individual obligations."
+  },
+  {
+   "group": "Inspectors General of agencies with more than $500 million in annual grant funding",
+   "how": "They must conduct risk assessments to decide whether an audit or review of the grant closeout process is warranted."
+  },
+  {
+   "group": "Office of Management and Budget and Department of Health and Human Services",
+   "how": "OMB must issue instructions and recommendations to Congress, and HHS must compile agency notices and report them to Congress."
+  }
+ ],
+ "when_it_takes_effect": "Agency reports are due by December 31 of the first calendar year beginning after enactment, which was January 28, 2016; later steps follow on set deadlines.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

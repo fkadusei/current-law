@@ -1,0 +1,28 @@
+{
+ "headline": "This law requires the Labor Department to add rules that make registered apprenticeship programs easier for veterans and their families to join and use their education benefits.",
+ "what_it_does": "The Department of Labor must update its registered apprenticeship program rules to help veterans, their survivors, and dependents get into these programs. Program sponsors must confirm they know about veterans' education benefits and will try in good faith to get those benefits approved for their program locations. Sponsors also cannot turn away a qualified applicant just to avoid seeking that approval. Sponsors must also set standards that can give credit for prior learning, with wages raised to match that credit, and send a copy of each program's registration certificate to the state approving agency.",
+ "who_it_affects": [
+  {
+   "group": "Veterans, their survivors, and their dependents",
+   "how": "They may get easier access to registered apprenticeship programs and have their education benefits applied to those programs."
+  },
+  {
+   "group": "Apprenticeship program sponsors",
+   "how": "They must confirm awareness of veterans' education benefits, make good-faith efforts to get those benefits approved, and offer credit or advanced standing with matching wage increases."
+  },
+  {
+   "group": "State approving agencies",
+   "how": "They receive a copy of each approved apprenticeship program's certificate of registration."
+  },
+  {
+   "group": "Department of Labor",
+   "how": "It must revise its registered apprenticeship rules and collect written assurances from program sponsors."
+  }
+ ],
+ "when_it_takes_effect": "Not specified in the summary; the law was enacted March 26, 2020, and the Department of Labor must then carry out the required revisions.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

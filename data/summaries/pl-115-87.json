@@ -1,0 +1,24 @@
+{
+ "headline": "This law directs FEMA to modernize its disaster aid grant systems so applicants can apply, track status, and share information more easily.",
+ "what_it_does": "The law tells the Federal Emergency Management Agency to make sure its ongoing modernization of disaster grant systems includes an online portal for applications, document uploads, and status checks. It also requires tools to prevent duplicate benefits and a way to share information among federal agencies and with state, local, and tribal governments, so people do not have to file multiple applications. FEMA must deliver these features in stages that applicants can use as they are finished.",
+ "who_it_affects": [
+  {
+   "group": "People applying for disaster assistance under the Stafford Act",
+   "how": "They would be able to apply, upload materials, and check application status online instead of relying only on paper or in-person processes."
+  },
+  {
+   "group": "State, local, and tribal governments",
+   "how": "They would be able to receive shared information from federal agencies so they do not require residents to file separate applications."
+  },
+  {
+   "group": "FEMA",
+   "how": "The agency must build the online system and deliver its parts in increments or iterations as the work is completed."
+  }
+ ],
+ "when_it_takes_effect": "The law took effect when it was enacted on November 21, 2017. The summary does not set a deadline for finishing the system.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

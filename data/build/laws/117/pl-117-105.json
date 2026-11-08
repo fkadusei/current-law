@@ -3539,5 +3539,32 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2022 federal law directs HHS to fund and study mental health support programs for health care workers.",
+  "what_it_does": "The law requires the Department of Health and Human Services to give grants to hospitals, medical professional groups, and other health care entities for programs that promote mental health and resiliency among health care providers. It allows HHS to fund training in mental and behavioral health for health care students, residents, and professionals. HHS must also run a campaign encouraging providers to seek help and share best practices for preventing suicide, and it must study barriers to care and develop policy recommendations. The Government Accountability Office must also report on how federal grant programs address mental health and substance use among providers.",
+  "who_it_affects": [
+   {
+    "group": "Doctors, nurses, and other health care providers",
+    "how": "They may benefit from grant-funded mental health and resiliency programs offered by their employers or professional groups."
+   },
+   {
+    "group": "Hospitals and health care entities",
+    "how": "They are eligible to apply for federal grants to run mental health and resiliency programs for their staff."
+   },
+   {
+    "group": "Medical professional associations",
+    "how": "They are eligible to apply for federal grants to support mental health programs for their members."
+   },
+   {
+    "group": "Health care students and residents",
+    "how": "They may be eligible for federally funded mental and behavioral health training."
+   }
+  ],
+  "when_it_takes_effect": "The law took effect on enactment, March 18, 2022, though grant awards and reports depend on later agency action and deadlines.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

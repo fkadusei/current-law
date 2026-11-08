@@ -4348,5 +4348,24 @@
   "House": "D",
   "Senate": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2021 law let the first Secretary of Defense appointed after January 20, 2021 be a recently retired regular-component officer, despite the usual seven-year wait.",
+  "what_it_does": "Current law bars anyone from being appointed Secretary of Defense within seven years after leaving active duty as a regular commissioned officer. This law creates a one-time exception for the first person nominated and appointed after 12 p.m. Eastern Standard Time on January 20, 2021. That person only needs to be at least four years past release from active duty on the date of appointment.",
+  "who_it_affects": [
+   {
+    "group": "Retired regular-component commissioned officers who want to be Secretary of Defense",
+    "how": "They could be considered for the top civilian Defense job after four years out of uniform, rather than seven, for the first appointment covered by the exception."
+   },
+   {
+    "group": "The Department of Defense",
+    "how": "Its leadership pool for the Secretary position is widened for that one appointment."
+   }
+  ],
+  "when_it_takes_effect": "The law took effect when it was enacted on January 22, 2021, and applies to the first qualifying appointment after noon EST on January 20, 2021.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

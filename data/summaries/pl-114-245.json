@@ -1,0 +1,28 @@
+{
+ "headline": "This law directs the Forest Service to boost volunteer and partner trail maintenance on national forests and creates related pilot and reporting programs.",
+ "what_it_does": "The Department of Agriculture must publish a national strategy to greatly increase volunteer and partner work on national forest trails, with a goal of doubling that work within five years, and study whether fire crews can help without harming firefighting, safety, or resource protection. The law also requires at least nine and no more than fifteen priority areas with serious trail backlogs, plans to improve them, and authority to sign cooperative agreements with state, tribal, local, and private groups. A pilot program on at least 20 administrative units lets outfitting and guiding permit holders offset part of their land use fee with trail work they perform, and the Volunteers in the National Forests Act is amended so that volunteers recruited by a cooperator under a mutual benefit agreement count as volunteers.",
+ "who_it_affects": [
+  {
+   "group": "Volunteers who maintain national forest trails",
+   "how": "They may work under a cooperator's supervision through a mutual benefit agreement, and the agency must set safety standards and protocols for their work."
+  },
+  {
+   "group": "Outfitters and guides with Forest Service permits",
+   "how": "Those selected for the pilot program can offset part of their land use fee with the value of trail construction or maintenance they perform."
+  },
+  {
+   "group": "Trail user groups, including motorized and non-motorized users",
+   "how": "The agency must consider their input and their range of uses when choosing priority areas for trail work."
+  },
+  {
+   "group": "State, tribal, local, and private partner organizations",
+   "how": "They can enter cooperative agreements with the Department of Agriculture to help maintain trails and carry out the strategy."
+  }
+ ],
+ "when_it_takes_effect": "The law took effect when enacted on November 28, 2016, though the strategy, priority areas, and pilot program each have their own deadlines set in the text, such as public input within three months and an approach within six months of selecting priority areas.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

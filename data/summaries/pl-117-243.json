@@ -1,0 +1,36 @@
+{
+ "headline": "A federal law that bans keeping or breeding big cats like tigers and lions as pets, with exceptions for existing owners and licensed exhibitors.",
+ "what_it_does": "The act expands the Lacey Act, a federal wildlife trade law, to make it illegal to possess or breed big cats such as lions, tigers, leopards, cheetahs, jaguars, and cougars, including hybrids. People who already owned a big cat born before the law was enacted may keep it but must register it with the U.S. Fish and Wildlife Service. Licensed exhibitors can still show big cats to the public if they do not let people have direct physical contact with them, with exceptions for trained professionals, veterinarians, and certain conservation programs. Violators can face a fine of up to $20,000, up to five years in prison, or both, and big cats kept illegally can be seized.",
+ "who_it_affects": [
+  {
+   "group": "Private owners of big cats",
+   "how": "Owners may keep cats born before the law took effect but must register them, and they cannot newly possess or breed big cats."
+  },
+  {
+   "group": "Licensed exhibitors such as zoos, circuses, and roadside attractions",
+   "how": "They can keep showing big cats only if they hold a valid Class C Animal Welfare Act license and do not allow public direct contact with the animals, except in limited cases."
+  },
+  {
+   "group": "Universities and wildlife sanctuaries",
+   "how": "They keep certain exemptions from the trade and possession rules, though the act changes the list of exempt entities."
+  },
+  {
+   "group": "Veterinarians and trained professionals",
+   "how": "They are allowed direct contact with big cats under the act's exceptions."
+  },
+  {
+   "group": "Conservation programs",
+   "how": "Those that do not involve commercial activity and meet the act's other conditions may have direct contact with big cats."
+  },
+  {
+   "group": "People who buy, sell, or transport big cats across state lines or the U.S. border",
+   "how": "The act adds possession and breeding to the list of banned trade activities, so these actions can now be violations."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

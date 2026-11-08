@@ -3535,5 +3535,24 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "This 2014 resolution adds emergency funding for the Defense Department to help Israel buy the Iron Dome rocket defense system.",
+  "what_it_does": "The resolution provides supplemental fiscal year 2014 funds to the Department of Defense to help the government of Israel buy the Iron Dome system, which counters short-range rocket threats. The funds are to be transferred right away through an exchange of letters to support emergency operations tied to Operation Protective Edge, and this step overrides the existing U.S.-Israel Iron Dome Procurement Agreement. The law also labels the money an emergency requirement under the Balanced Budget and Emergency Deficit Control Act of 1985. The summary describes the version passed by the Senate on August 1, 2014, and does not state a dollar amount.",
+  "who_it_affects": [
+   {
+    "group": "The Department of Defense",
+    "how": "It must handle the transfer of the supplemental funds to Israel for Iron Dome procurement, using the exchange-of-letters process instead of the standard procurement agreement."
+   },
+   {
+    "group": "The government of Israel",
+    "how": "It receives supplemental U.S. funds to procure Iron Dome rocket defense systems for use in emergency operations."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on August 4, 2014, and the summary says the funds are to be transferred immediately; no other effective date is listed.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

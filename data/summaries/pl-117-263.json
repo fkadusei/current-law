@@ -1,0 +1,48 @@
+{
+ "headline": "A large annual defense law for fiscal year 2023 that sets military personnel levels, authorizes weapons and construction, and includes many unrelated foreign affairs, veterans, water, ocean, and Coast Guard provisions.",
+ "what_it_does": "This law, the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023, sets authorized troop levels for each branch and approves defense spending on aircraft, ships, munitions, and military construction. It also covers many other topics, including ending the military COVID-19 vaccine mandate, restrictions on PFAS firefighting foam, and rules on rare earth magnets. Several divisions cover intelligence, homeland security, State Department operations, water projects, ocean and coral reef programs, and Coast Guard authorities. The summary describes many provisions, but it does not give full detail on each one.",
+ "who_it_affects": [
+  {
+   "group": "Active-duty and reserve service members",
+   "how": "The law sets authorized end strengths for each branch and extends several pay bonus authorities, and it ends the requirement that members be vaccinated against COVID-19."
+  },
+  {
+   "group": "Military veterans and their families",
+   "how": "The law requires a Vet Centers review, creates a pilot program for food insecurity grants, and allows a permanent opioid management program under TRICARE."
+  },
+  {
+   "group": "Defense contractors and suppliers",
+   "how": "Companies that supply rare earth magnets to DOD must disclose where the magnet came from or set up a supply tracking system, and firms must follow new rules for used and remanufactured parts."
+  },
+  {
+   "group": "Residents near Red Hill Bulk Fuel Storage Facility in Hawaii",
+   "how": "DOD must defuel the facility and brief Congress on related issues, including monitoring wells near the site."
+  },
+  {
+   "group": "Merchant Marine Academy cadets",
+   "how": "The academy must add protections against sexual harassment and assault during Sea Year and track sexual assault claims, and it may grant degrees to students with certain documented medical or psychological conditions."
+  },
+  {
+   "group": "Commercial ship owners and operators",
+   "how": "Owners must report harassment and assault complaints to the Coast Guard, and the maximum fine for failing to report rises from $5,000 to $50,000."
+  },
+  {
+   "group": "Nonprofit organizations near potential targets",
+   "how": "The Nonprofit Security Grant Program is extended through FY2028 and expanded to cover threats other than terrorist attacks."
+  },
+  {
+   "group": "Foreign-owned or foreign-linked vessels and companies",
+   "how": "Russian-owned vessels are barred from U.S. navigable waters while certain Russia sanctions remain in effect, and federal agencies may not buy semiconductors from specified foreign countries of concern."
+  },
+  {
+   "group": "Federal judges and their families",
+   "how": "Data brokers are barred from selling or trading certain personal information, such as home addresses, and limits apply to government disclosure of that information."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on December 23, 2022, and many provisions take effect on that date or on set later dates. Some provisions have specific deadlines, such as the PFAS firefighting equipment purchase ban starting in FY2027.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

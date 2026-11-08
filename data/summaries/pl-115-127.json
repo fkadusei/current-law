@@ -1,0 +1,24 @@
+{
+ "headline": "Kari's Law requires multi-line phone systems in the U.S. to let users dial 9-1-1 directly, without first dialing an outside-line code like 9.",
+ "what_it_does": "The law amends the Communications Act of 1934 to ban making, importing, selling, or leasing multi-line telephone systems in the United States unless they can dial 9-1-1 directly from any phone station. It also bars businesses from installing, managing, or operating such systems without that direct 9-1-1 setup. Where a system can be configured without hardware or software upgrades, it must send a notification to a central location at the facility or to another person or organization.",
+ "who_it_affects": [
+  {
+   "group": "Businesses that make, import, sell, or lease multi-line telephone systems",
+   "how": "They can only sell or lease systems that are pre-configured to allow direct 9-1-1 dialing."
+  },
+  {
+   "group": "Businesses and organizations that install, manage, or operate multi-line phone systems",
+   "how": "They must set up direct 9-1-1 dialing and, when possible without upgrades, send a notification to a central location or another person when 9-1-1 is called."
+  },
+  {
+   "group": "People who call 9-1-1 from workplaces, hotels, and other buildings with office phone systems",
+   "how": "They can reach 9-1-1 by dialing only 9-1-1 rather than adding an outside-line code first."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

@@ -4371,5 +4371,36 @@
   "House": "D",
   "Senate": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "A short-term spending bill that keeps the federal government funded through March 11, 2022, while extending several expiring programs and authorities.",
+  "what_it_does": "This continuing resolution gives federal agencies money for fiscal year 2022 until the earlier of March 11, 2022, or when a full appropriations bill is enacted, which prevents a shutdown when the prior stopgap expired on February 18, 2022. Most programs are funded at fiscal year 2021 levels, with specific exceptions for defense items, a Navy submarine program, drinking water cleanup near Red Hill in Hawaii, and Interior Department cybersecurity. The bill also extends several expiring authorities, including a fentanyl-related substance scheduling order, a victims of trafficking criminal assessment, a National Disaster Medical System appointment authority, and Medicaid matching rates for certain territories. It exempts the budget effects of these extensions from certain pay-as-you-go and scorekeeping rules.",
+  "who_it_affects": [
+   {
+    "group": "Federal employees and federal agencies",
+    "how": "Agencies can keep operating and paying their staff under fiscal year 2021 funding levels rather than shutting down while full 2022 appropriations are negotiated."
+   },
+   {
+    "group": "People convicted of certain sex abuse and trafficking offenses",
+    "how": "The special assessment under the Justice for Victims of Trafficking Act of 2015 continues to apply to nonindigent offenders."
+   },
+   {
+    "group": "Residents of U.S. territories receiving Medicaid",
+    "how": "The current federal Medicaid matching rate for certain territories stays in place for a longer period."
+   },
+   {
+    "group": "People who use or are affected by fentanyl-related substances",
+    "how": "The temporary federal scheduling order placing fentanyl-related substances in Schedule I of the Controlled Substances Act remains in effect."
+   },
+   {
+    "group": "Residents of Red Hill area in Hawaii",
+    "how": "The bill addresses Defense Department response to drinking water contamination near the Red Hill Bulk Fuel Storage Facility."
+   }
+  ],
+  "when_it_takes_effect": "Enacted February 18, 2022; funding runs through the earlier of March 11, 2022, or enactment of the applicable fiscal year 2022 appropriations act.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -36,5 +36,24 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law sets January 2016 as the general start date for pay rules for Border Patrol agents and lets the Office of Personnel Management prepare for them early.",
+  "what_it_does": "The law changes the effective date of the pay provisions in the Border Patrol Agent Pay Reform Act of 2014. Those provisions generally start on the first day of the first pay period on or after January 1, 2016. Certain rules about elections and advance assignments to a regular tour of duty can start earlier if the Office of Personnel Management decides it is needed. The Office of Personnel Management may also issue regulations before the main start date.",
+  "who_it_affects": [
+   {
+    "group": "Border Patrol agents",
+    "how": "Their pay under the 2014 Act was set to begin on the first pay period on or after January 1, 2016, and some scheduling rules could begin sooner if needed."
+   },
+   {
+    "group": "Office of Personnel Management",
+    "how": "The agency is allowed to apply certain rules early and to issue regulations before the pay provisions take effect."
+   }
+  ],
+  "when_it_takes_effect": "The general effective date is the first day of the first pay period beginning on or after January 1, 2016, with some election and tour-of-duty provisions allowed to apply earlier.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -36,5 +36,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2020 law requires the President to create a national strategy for securing 5G and future wireless networks.",
+  "what_it_does": "The law directs the President, working with relevant federal agencies, to develop a plan called the National Strategy to Secure 5G and Next Generation Wireless Communications. The plan must aim to keep 5G systems and infrastructure in the United States secure. It must also help allies and partner countries improve their own 5G security. Finally, it must consider protecting U.S. company competitiveness, consumer privacy, and the integrity of standards-setting bodies.",
+  "who_it_affects": [
+   {
+    "group": "Wireless carriers and companies that build 5G networks",
+    "how": "The national strategy they must work within is shaped by security goals set by the federal government."
+   },
+   {
+    "group": "U.S. consumers who use 5G phones and services",
+    "how": "The strategy is required to consider protecting consumer privacy on these networks."
+   },
+   {
+    "group": "U.S. technology companies that make wireless equipment or services",
+    "how": "The strategy is required to consider protecting their competitiveness."
+   },
+   {
+    "group": "Foreign governments and companies that are allies or partners of the United States",
+    "how": "The strategy is meant to help these countries improve the security of their own 5G systems."
+   }
+  ],
+  "when_it_takes_effect": "Enacted March 23, 2020; the summary does not list a specific deadline for the strategy in the text provided.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

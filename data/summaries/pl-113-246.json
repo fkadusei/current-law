@@ -1,0 +1,24 @@
+{
+ "headline": "This law requires the Department of Homeland Security to assess its cybersecurity workforce and create a plan to recruit, train, and keep cybersecurity staff.",
+ "what_it_does": "The Secretary of Homeland Security must complete an assessment of the department's cybersecurity workers within 180 days, and repeat it each year for three years. The assessment covers whether staff are ready, where cybersecurity jobs are, who fills them (employees, contractors, or other agency staff), which jobs are empty, and whether workers received needed training. The Secretary must also build a workforce strategy with a recruitment plan, a 5-year implementation plan, a 10-year staffing projection, and a plan to fill gaps. The department must send yearly updates to Congress and a report on whether a tuition-repayment fellowship for students who agree to work for DHS would be feasible, what it would cost, and what its benefits would be.",
+ "who_it_affects": [
+  {
+   "group": "Employees of the Department of Homeland Security",
+   "how": "Their cybersecurity roles, training records, and vacancies will be reviewed and reported to Congress."
+  },
+  {
+   "group": "Contractors and employees of other federal agencies who do cybersecurity work for DHS",
+   "how": "Their positions will be counted and described in the department's required assessment."
+  },
+  {
+   "group": "Students pursuing undergraduate or doctoral degrees in cybersecurity-related fields",
+   "how": "The law requires a study of a possible fellowship that would pay tuition in exchange for a work commitment to DHS, but it does not create the program."
+  }
+ ],
+ "when_it_takes_effect": "Upon enactment on December 18, 2014; the first assessment is due within 180 days, with annual updates for three years after.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

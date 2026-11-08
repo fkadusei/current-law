@@ -3529,5 +3529,40 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "This law updates federal rules for private commercial rocket launches, extends some liability protections, and sets up rights for U.S. citizens to recover space resources.",
+  "what_it_does": "It changes how the Department of Transportation handles licenses and experimental permits for commercial rockets and reentry vehicles, including reusable suborbital vehicles. It extends certain liability insurance and claim-waiver rules for space flight participants through FY2025 and gives federal courts exclusive jurisdiction over certain third-party claims from licensed launches. It also directs agencies to study space traffic management, space situational awareness data, and a possible future safety framework, and it creates a framework for U.S. citizens to commercially explore and recover space resources.",
+  "who_it_affects": [
+   {
+    "group": "Commercial space launch and reentry companies",
+    "how": "They face changed licensing and experimental permit rules, liability insurance and financial responsibility requirements, and possible future safety standards."
+   },
+   {
+    "group": "Space flight participants",
+    "how": "Their liability insurance coverage and reciprocal waiver of claims rules are extended through FY2025."
+   },
+   {
+    "group": "Government astronauts, including NASA designees and international partner astronauts",
+    "how": "Certain commercial space launch requirements now apply to them when they are carried on a launch or reentry vehicle."
+   },
+   {
+    "group": "U.S. citizens pursuing space resource recovery",
+    "how": "They are entitled to possess, own, transport, use, and sell asteroid or space resources they lawfully recover, subject to federal authorization and supervision."
+   },
+   {
+    "group": "State and municipal launch facilities",
+    "how": "Congress expresses that they should protect themselves from potential liability and compensate third parties, and GAO must report on including their property in federal indemnification."
+   },
+   {
+    "group": "Operators of the International Space Station",
+    "how": "NASA must keep the ISS viable and available for U.S. use through at least FY2024."
+   }
+  ],
+  "when_it_takes_effect": "Enacted November 25, 2015; several provisions run through FY2025 or FY2024, and many reporting and study deadlines apply afterward.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -1,0 +1,24 @@
+{
+ "headline": "This law makes certain death and disability benefits paid to families of injured or killed public safety officers exempt from federal income tax.",
+ "what_it_does": "The law changes the Internal Revenue Code so that some payments are not counted as taxable income. Covered payments include federal survivor and disability benefits from the Bureau of Justice Assistance and certain state compensation programs for families of public safety officers who died from a line-of-duty injury. The exclusion does not apply to amounts that would have been paid if the officer's death was not caused by a line-of-duty injury.",
+ "who_it_affects": [
+  {
+   "group": "Surviving family members of public safety officers killed in the line of duty",
+   "how": "Federal survivor benefits and qualifying state compensation they receive are not counted as taxable income."
+  },
+  {
+   "group": "Public safety officers who become disabled in the line of duty",
+   "how": "Federal disability benefits paid to them under the covered program are not counted as taxable income."
+  },
+  {
+   "group": "State governments running line-of-duty compensation programs",
+   "how": "Their qualifying survivor compensation payments are excluded from federal income tax."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

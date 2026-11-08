@@ -3527,5 +3527,24 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "Requires the Department of Homeland Security to run an exercise on detecting and preventing terrorist and foreign fighter travel, and to add emerging threats to a national preparedness test program.",
+  "what_it_does": "The law directs the Department of Homeland Security to create and carry out a practice exercise focused on spotting and stopping terrorists and foreign fighters who travel between countries. It also requires the national exercise program, which tests national emergency preparedness plans, to include emerging threats. The summary does not specify the exercise's schedule, participants, or outcomes.",
+  "who_it_affects": [
+   {
+    "group": "Department of Homeland Security",
+    "how": "The department must design and run an exercise on terrorist and foreign fighter travel and include emerging threats in the national exercise program."
+   },
+   {
+    "group": "State, local, and federal agencies that take part in national preparedness exercises",
+    "how": "They may be involved in or tested by exercises that now cover emerging threats, though the summary does not list specific participants."
+   }
+  ],
+  "when_it_takes_effect": "Enacted October 9, 2019; the summary does not state specific deadlines for the exercise.",
+  "ceremonial": false,
+  "confidence": "low",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

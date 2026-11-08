@@ -3495,5 +3495,40 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "This law directs the VA to expand and improve breast cancer screening, imaging, genetic testing, and treatment access for veterans.",
+  "what_it_does": "The law requires the Department of Veterans Affairs to write a strategic plan for breast imaging and to run a three-year pilot offering telescreening mammograms to veterans who live far from VA breast imaging sites. It requires VA mammography equipment to be upgraded to three-dimensional imaging, and it orders studies and policy updates on genetic testing, molecular testing, genetic counseling, and accessibility for veterans with disabilities. It also requires VA partnerships with National Cancer Institute cancer centers in each Veterans Integrated Service Network, with telehealth options for rural veterans and those in states without a partner center.",
+  "who_it_affects": [
+   {
+    "group": "Women veterans",
+    "how": "They may get better access to breast cancer screening, imaging, genetic counseling, and specialized cancer care through VA partnerships and telehealth."
+   },
+   {
+    "group": "Veterans who live far from VA facilities",
+    "how": "A three-year pilot program may bring telescreening mammography closer to where they live."
+   },
+   {
+    "group": "Veterans with paralysis, spinal cord injury, or other disabilities",
+    "how": "The VA must study accessibility of breast imaging sites and confirm accessibility before referring them to non-VA providers."
+   },
+   {
+    "group": "Veterans diagnosed with breast cancer",
+    "how": "VA guidelines must be updated to expand molecular testing and genetic counseling, and the VA must study access to breast cancer gene testing."
+   },
+   {
+    "group": "Department of Veterans Affairs and its Inspector General",
+    "how": "The VA must write new plans, upgrade equipment, enter partnerships, and collaborate with the Department of Defense, while the Inspector General must report on VA mammography services."
+   },
+   {
+    "group": "Members of the Armed Forces with breast cancer",
+    "how": "The VA must report on current research and health care collaborations with the Department of Defense that cover treatment for them."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on June 7, 2022, but the summary does not list specific deadlines for each requirement, so timing for individual provisions is not stated here.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

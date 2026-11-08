@@ -1,0 +1,24 @@
+{
+ "headline": "Creates a temporary commission to commemorate the 100th anniversary of the U.S. Virgin Islands becoming a U.S. territory, with reporting and audit rules and no federal funding.",
+ "what_it_does": "The law sets up the Virgin Islands of the United States Centennial Commission to plan and carry out activities marking the 100th anniversary of the territory's status as an unincorporated U.S. territory. The Commission must report each year to the President and Congress on its money, including any gift, bequest, or devise worth more than $250 and the donor's identity. The Interior Department's Inspector General may audit the Commission and make the results public. The Commission ends on September 30, 2018, or earlier if it files its final report sooner, and no federal funds are authorized for it.",
+ "who_it_affects": [
+  {
+   "group": "Residents of the U.S. Virgin Islands",
+   "how": "The Commission plans events and activities that mark the territory's centennial anniversary."
+  },
+  {
+   "group": "Donors who give more than $250 to the Commission",
+   "how": "Their gifts must be listed in the Commission's annual reports to the President and Congress, along with the donor's identity."
+  },
+  {
+   "group": "Members of the Centennial Commission",
+   "how": "They must file annual financial reports and may be subject to an Interior Department Inspector General audit while the Commission operates."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on September 29, 2016. The summary does not list a separate effective date. The Commission terminates on September 30, 2018, or earlier if it files its final report sooner.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

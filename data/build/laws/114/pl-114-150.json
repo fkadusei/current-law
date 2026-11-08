@@ -36,5 +36,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law requires the Department of Homeland Security to report to Congress on plans for consolidating its Washington, D.C.-area headquarters and leased offices.",
+  "what_it_does": "The law directs the Department of Homeland Security, working with the General Services Administration, to send Congress detailed information about its headquarters consolidation project in the National Capital Region. The reports must cover which offices will move to the St. Elizabeths campus, how many employees will work there, estimated costs and schedules, and plans for leased space that will not move. The Government Accountability Office must then review how reliable those cost and schedule estimates are and report its findings.",
+  "who_it_affects": [
+   {
+    "group": "Department of Homeland Security employees in the Washington, D.C. area",
+    "how": "Their offices and work locations may be affected by the planned move and leasing decisions that the required reports describe."
+   },
+   {
+    "group": "Federal employees and contractors working on federal buildings and leases",
+    "how": "The reports cover building plans, lease terms, and staffing numbers that could shape future workplace changes and contracts."
+   },
+   {
+    "group": "Taxpayers",
+    "how": "The law requires cost estimates and comparisons between leasing and building, which relate to how federal money is spent on office space."
+   }
+  ],
+  "when_it_takes_effect": "The law took effect when it was enacted on April 29, 2016, but the summary does not list specific reporting deadlines.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

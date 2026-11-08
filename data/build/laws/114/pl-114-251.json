@@ -3523,5 +3523,24 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2016 law lets certain retired air traffic controllers keep their full retirement supplement while working full time as FAA-contracted instructors.",
+  "what_it_does": "Normally, a federal retiree's annuity supplement is reduced when they earn money from work after leaving federal service. This law says that reduction does not apply to retired air traffic controllers while they work full time as air traffic control instructors under a contract with the Federal Aviation Administration. The change covers only those periods of full-time contract instruction.",
+  "who_it_affects": [
+   {
+    "group": "Retired air traffic controllers who are covered by the Federal Employees Retirement System",
+    "how": "They can keep their full annuity supplement while working full time as FAA contract instructors instead of having it reduced by their earnings."
+   },
+   {
+    "group": "The Federal Aviation Administration",
+    "how": "It can hire retired controllers as full-time contract instructors without those hires reducing the retirees' supplements."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on December 8, 2016.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

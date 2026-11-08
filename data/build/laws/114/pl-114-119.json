@@ -45,5 +45,40 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2016 federal law requires registered sex offenders to report planned international travel, creates a notification center, and adds passport markings and a new federal crime for failing to report.",
+  "what_it_does": "The law creates the Angel Watch Center within U.S. Immigration and Customs Enforcement to identify registered sex offenders who traveled abroad without giving advance notice and to share travel information with the Marshals Service, other agencies, and in some cases foreign destination countries. It amends the Sex Offender Registration and Notification Act so registered sex offenders must report intended international travel, and it makes knowingly failing to report a federal crime punishable by a fine, up to 10 years in prison, or both. It bars the State Department from issuing a passport to a sex offender unless the passport has a visible sex offender designation, and it authorizes funding for fiscal years 2017 and 2018.",
+  "who_it_affects": [
+   {
+    "group": "Registered sex offenders who plan to travel internationally",
+    "how": "They must report intended international travel to their registry, and knowingly failing to do so is a federal crime."
+   },
+   {
+    "group": "Registered sex offenders who hold U.S. passports",
+    "how": "The State Department cannot issue them a passport unless it carries a visible sex offender designation."
+   },
+   {
+    "group": "U.S. Immigration and Customs Enforcement and the Department of Homeland Security",
+    "how": "They must set up the Angel Watch Center, which reviews travel records, identifies unreported travelers, and handles complaints about erroneous notifications."
+   },
+   {
+    "group": "U.S. Marshals Service",
+    "how": "It must investigate offenders flagged for failing to give advance notice, send consistent travel notices to destination countries, and set up a process for complaints about erroneous notifications."
+   },
+   {
+    "group": "State Department",
+    "how": "It must help foreign authorities take part in the notification program and negotiate reciprocal international agreements, and it must follow the passport designation rule."
+   },
+   {
+    "group": "Foreign governments receiving notices",
+    "how": "They may receive advance notice of registered sex offenders' travel to their countries."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on February 8, 2016, but the summary does not list separate effective dates for each provision.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

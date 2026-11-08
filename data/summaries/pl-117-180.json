@@ -1,0 +1,52 @@
+{
+ "headline": "A December 2022 funding law that keeps the federal government running on temporary terms, sends aid to Ukraine, extends many expiring programs, and creates a compensation program for New Mexico fire victims.",
+ "what_it_does": "This law is a large package with several parts. Its main division is a continuing resolution that funds federal agencies at prior-year levels through December 16, 2022, which prevents a shutdown at the start of fiscal year 2023. It also adds money for military and economic aid to Ukraine, and it extends many programs that were set to expire, including veterans' health and housing programs, FDA user fee authority, and the National Flood Insurance Program. Division G creates a process for people injured by the Hermit's Peak Fire in New Mexico to seek monetary compensation from FEMA, with court review available within 60 days of a final FEMA decision.",
+ "who_it_affects": [
+  {
+   "group": "Federal agencies and their employees",
+   "how": "They must keep operating at prior-year funding levels until the regular fiscal year 2023 spending bills are enacted or the continuing funding ends."
+  },
+  {
+   "group": "Veterans using VA health care and housing programs",
+   "how": "Several VA copayment, nursing home, homeless veteran, and housing programs are extended to dates in 2023 through 2026."
+  },
+  {
+   "group": "People injured by the Hermit's Peak Fire in New Mexico",
+   "how": "They may file claims with FEMA's new Office of Hermit's Peak Fire Claims for personal, property, business, or financial losses."
+  },
+  {
+   "group": "Drug and medical device companies",
+   "how": "They must keep paying FDA user fees, which the law reauthorizes through fiscal year 2027 with changes to how the fees are calculated."
+  },
+  {
+   "group": "Small businesses seeking federal contracts as service-disabled veteran-owned businesses",
+   "how": "The law funds the Small Business Administration to set up a government-wide certification program for these businesses."
+  },
+  {
+   "group": "Homeowners and communities in flood-prone areas",
+   "how": "The National Flood Insurance Program authorization is extended."
+  },
+  {
+   "group": "Medicare hospitals and Medicaid programs in U.S. territories",
+   "how": "Certain low-volume hospital payment adjustments, Medicare-dependent hospital payments, and an increased Medicaid federal matching rate for territories are extended."
+  },
+  {
+   "group": "Low-income households needing heating or cooling help",
+   "how": "The law adds funding to the Low Income Home Energy Assistance Program."
+  },
+  {
+   "group": "People seeking 988 crisis line and behavioral health services",
+   "how": "The law adds funding for the 988 Suicide and Crisis Lifeline and related crisis services."
+  },
+  {
+   "group": "Ukraine and its government",
+   "how": "The law provides defense, economic, and direct financial support, including cash transfers with reporting and oversight requirements."
+  }
+ ],
+ "when_it_takes_effect": "Enacted September 30, 2022. The continuing funding runs through December 16, 2022, or until the applicable fiscal year 2023 appropriations act is enacted, and many extensions run through dates in 2023 to 2027.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

@@ -1,0 +1,24 @@
+{
+ "headline": "Sami's Law directs the Government Accountability Office to report to Congress every two years on safety for ride-sharing passengers and drivers.",
+ "what_it_does": "The law requires the Government Accountability Office to study and report on physical and sexual assaults involving ride-sharing drivers and passengers. The report must also cover the background checks ride-sharing companies run on prospective drivers. It must further describe the safety steps those companies have taken for riders and drivers. The summary describes a reporting requirement and does not list new rules that companies or riders must follow.",
+ "who_it_affects": [
+  {
+   "group": "Ride-sharing passengers and drivers",
+   "how": "Their assault and safety experiences are the subject of a federal study, but the summary does not show any new rights or rules for them."
+  },
+  {
+   "group": "Ride-sharing companies such as Uber and Lyft",
+   "how": "Their background check practices and safety steps are reviewed in the report, though the summary does not list new duties for them."
+  },
+  {
+   "group": "Members of Congress",
+   "how": "They receive a biennial report with findings on assaults, background checks, and company safety steps."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on January 5, 2023, and the reports are due every two years; the summary does not give a specific first due date.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

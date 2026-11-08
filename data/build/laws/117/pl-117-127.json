@@ -36,5 +36,24 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2022 law directs the Postal Service to keep selling the Multinational Species Conservation Fund semipostal stamp until every copy is sold, then notify Congress.",
+  "what_it_does": "The law tells the U.S. Postal Service to sell each copy of the Multinational Species Conservation Fund Semipostal Stamp. Once all copies have been sold, the Postal Service must notify Congress. A semipostal stamp costs more than a regular stamp, and the extra money goes to a conservation fund. The official summary does not describe the amount of the extra charge or how the money is distributed.",
+  "who_it_affects": [
+   {
+    "group": "People who buy postage stamps",
+    "how": "The law directs the Postal Service to sell the semipostal stamp until all copies are gone, so buyers can keep purchasing it while supplies last."
+   },
+   {
+    "group": "Postal Service",
+    "how": "The agency must sell every copy of the stamp and tell Congress when the supply runs out."
+   }
+  ],
+  "when_it_takes_effect": "The summary does not give a separate effective date, so the law appears to have taken effect when it was enacted on May 16, 2022.",
+  "ceremonial": false,
+  "confidence": "low",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

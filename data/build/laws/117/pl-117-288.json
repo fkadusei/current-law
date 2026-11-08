@@ -36,5 +36,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Renames a Postal Service building in Hilton Head Island, South Carolina, after Caesar H. Wright Jr.",
+  "what_it_does": "This law names the U.S. Postal Service facility at 213 William Hilton Parkway in Hilton Head Island, South Carolina, the Caesar H. Wright Jr. Post Office Building. It is a naming measure only and does not change how the post office operates or what services it offers.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law was enacted on December 27, 2022, and the designation applies from that date.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

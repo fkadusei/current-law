@@ -1,0 +1,20 @@
+{
+ "headline": "This law extends for one year a higher loan-amount threshold below which the Small Business Administration cannot require collateral on disaster loans.",
+ "what_it_does": "The SBA makes low-interest loans to businesses and homeowners harmed by major disasters. The RISE After Disaster Act of 2015 raised the minimum loan amount above which the SBA may require collateral, and that higher threshold was set to expire. This bill keeps it in place for one more year.",
+ "who_it_affects": [
+  {
+   "group": "Small businesses in areas hit by major disasters",
+   "how": "They may be able to borrow SBA disaster loans under the higher collateral threshold for one additional year."
+  },
+  {
+   "group": "Homeowners and renters in areas hit by major disasters",
+   "how": "Those who apply for SBA disaster loans may face the same collateral rules for one additional year."
+  }
+ ],
+ "when_it_takes_effect": "The bill was enacted on November 29, 2018, and the summary does not give the exact new expiration date.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

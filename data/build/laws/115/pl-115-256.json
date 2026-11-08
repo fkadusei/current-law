@@ -36,5 +36,40 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2018 law that changes how the Peace Corps handles volunteer health care, safety information, sexual assault response, oversight, and staff hiring.",
+  "what_it_does": "The law requires the Peace Corps to have medical services matched to the size of each overseas post, set hiring criteria for medical staff, and review medical staff in each country. It requires malaria medication training for medical officers and consultation with CDC experts. It requires applicants to get country-specific information about crimes, health risks, early terminations, and sexual harassment before they are invited to serve, and lets them ask for a different country. It also adds sexual assault victim support staff at each post, permanently authorizes the Office of Victim Advocacy, and extends the Sexual Assault Advisory Council to October 1, 2023. It also lets the Peace Corps give some medical benefits for 120 days after service ends, allows certain management positions up to five-year appointments, requires 15 days' notice to Congress before closing or reducing an office, and requires a presidential briefing to the Inspector General after a volunteer dies.",
+  "who_it_affects": [
+   {
+    "group": "Peace Corps volunteers",
+    "how": "They may receive medical benefits for up to 120 days after service ends if an injury from their service caused the problem, and they get more safety information before accepting an invitation."
+   },
+   {
+    "group": "Prospective Peace Corps applicants",
+    "how": "They receive country-specific information about crimes, health risks, early terminations, and harassment reports, and can request a different country."
+   },
+   {
+    "group": "Victims of sexual assault in the Peace Corps",
+    "how": "Each overseas post must have designated staff to help them, and the Office of Victim Advocacy is permanently authorized to assist them."
+   },
+   {
+    "group": "Peace Corps medical staff",
+    "how": "Medical officers and support staff must meet new hiring criteria, be reviewed in each country, and receive continuing medical education and malaria medication side-effect training."
+   },
+   {
+    "group": "Peace Corps management and specialized technical staff",
+    "how": "Certain critical management or management support positions may be filled with appointments of up to five years."
+   },
+   {
+    "group": "Families and communities in countries where Peace Corps offices operate",
+    "how": "The Peace Corps must notify Congress at least 15 days before opening, closing, significantly reducing, or suspending an office, unless needed to address a substantial security risk."
+   }
+  ],
+  "when_it_takes_effect": "Enacted October 9, 2018; the bill sets various reporting and implementation deadlines, and the Sexual Assault Advisory Council extension runs to October 1, 2023.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

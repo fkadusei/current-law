@@ -36,5 +36,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Directs Congress to posthumously award Congressional Gold Medals to four Americans killed in the 2012 Benghazi consulate attack, and then give the medal to the CIA Museum.",
+  "what_it_does": "This law directs the House Speaker and the Senate President pro tempore to arrange a posthumous Congressional Gold Medal honoring Glen Doherty, Tyrone Woods, J. Christopher Stevens, and Sean Smith. The four men died in the September 11, 2012, attack on the U.S. consulate in Benghazi, Libya. Stevens was the U.S. Ambassador to Libya, Smith was a Foreign Service officer, and Doherty and Woods were government contractors and former Navy SEALs. After the medal is awarded, it goes to the Central Intelligence Agency Museum.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "Enacted December 21, 2022; the summary does not list a separate effective date.",
+  "ceremonial": true,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

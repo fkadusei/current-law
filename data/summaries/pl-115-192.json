@@ -1,0 +1,24 @@
+{
+ "headline": "This law makes permanent a federal watchdog role that helps government workers learn their anti-retaliation rights, and renames that role the Whistleblower Protection Coordinator.",
+ "what_it_does": "Inspectors general, who oversee federal agencies, must keep a designated whistleblower coordinator to teach employees about protections against retaliation for reporting problems. The coordinator's duties are expanded to include explaining how to seek review of a retaliation claim and helping the inspector general handle disclosures and retaliation complaints on time. The Council on the Inspectors General on Integrity and Efficiency must also help these coordinators and develop best practices. Inspectors general must now report in their semiannual reports what discipline was actually imposed on officials found to have retaliated, and whether a settlement was reached with them.",
+ "who_it_affects": [
+  {
+   "group": "Federal employees who report waste, fraud, or abuse",
+   "how": "They keep access to a designated coordinator who explains their rights and the steps to challenge retaliation."
+  },
+  {
+   "group": "Offices of inspectors general",
+   "how": "They must keep a whistleblower coordinator with direct access to the inspector general and must add retaliation discipline and settlement details to their semiannual reports."
+  },
+  {
+   "group": "Federal officials accused of whistleblower retaliation",
+   "how": "Their discipline and any settlement agreements must be disclosed in inspector general semiannual reports."
+  }
+ ],
+ "when_it_takes_effect": "Upon enactment on June 25, 2018, with the requirement made permanent.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

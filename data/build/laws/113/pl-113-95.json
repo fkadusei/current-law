@@ -3524,5 +3524,48 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2014 law that sets U.S. support for Ukraine, including aid, anti-corruption help, asset recovery, and sanctions on people tied to violence or corruption in Ukraine and Russia.",
+  "what_it_does": "The law lets certain already-approved State Department and foreign operations funds be used for loan guarantees to Ukraine, and says those amounts do not count as assistance under the law that limits aid to Ukraine. It directs the Secretary of State to help Ukraine recover assets tied to corruption by former president Viktor Yanukovych and his associates, and to support democracy, anti-corruption, media, and women's empowerment programs in Ukraine. It requires the President to block assets and bar entry into the U.S. for people responsible for violence against protesters, undermining Ukraine's sovereignty, or significant corruption in Ukraine, and allows (but does not require) similar sanctions for Russian officials involved in corruption. It also asks the Defense Department to report yearly through 2020 on Russia's military developments.",
+  "who_it_affects": [
+   {
+    "group": "Government of Ukraine",
+    "how": "It may receive loan guarantees, help recovering corrupt assets, and State Department support for reform, democracy, and security programs."
+   },
+   {
+    "group": "Viktor Yanukovych, his family, and other current or former Ukrainian officials",
+    "how": "Their assets may be recovered and they may face U.S. asset blocks and entry bans if they are responsible for violence or corruption."
+   },
+   {
+    "group": "Russian government officials and their close associates or family members",
+    "how": "They may face U.S. asset blocks and entry bans if found responsible for or complicit in significant corruption in Ukraine or Russia."
+   },
+   {
+    "group": "Individuals and organizations that support sanctioned persons",
+    "how": "Anyone who materially assists or financially or technologically supports sanctioned activity may face the same asset blocks and entry bans."
+   },
+   {
+    "group": "Journalists and civil society activists in Ukraine",
+    "how": "State Department programs are directed to expand free media access and help protect them."
+   },
+   {
+    "group": "Women and girls in Ukraine",
+    "how": "State Department programs are directed to boost their economic and political role and address violence against them."
+   },
+   {
+    "group": "Department of State, Treasury, and Department of Justice",
+    "how": "They must carry out asset recovery, anti-corruption, and sanctions tasks, including work by the Kleptocracy Asset Recovery Initiative and the Financial Crimes Enforcement Network."
+   },
+   {
+    "group": "Department of Defense",
+    "how": "It must report to Congress each year through 2020 on Russian military technology, strategy, and operational concepts, and carry out expanded security cooperation with Central and Eastern European countries."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

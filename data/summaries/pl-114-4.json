@@ -1,0 +1,44 @@
+{
+ "headline": "Provides fiscal year 2015 funding for the Department of Homeland Security and sets spending rules for its agencies, including Customs and Border Protection, the Coast Guard, and FEMA.",
+ "what_it_does": "This law gives the Department of Homeland Security its yearly budget for fiscal year 2015, which ran from October 2014 through September 2015. It sets amounts for agencies such as Customs and Border Protection, ICE, TSA, the Coast Guard, FEMA, and the Secret Service. It also includes many general rules on how the money can be spent, reported, and moved between accounts, and it rescinds some older unspent funds.",
+ "who_it_affects": [
+  {
+   "group": "Travelers going through airport security",
+   "how": "TSA funding is reduced below the prior year's level, and the law requires TSA to report on passenger screening technology and expedited screening options."
+  },
+  {
+   "group": "People who need disaster aid",
+   "how": "FEMA receives funding for disaster relief, flood mapping, and the National Flood Insurance Fund, and it must post certain damage assessment reports online."
+  },
+  {
+   "group": "Canadian prescription drug importers",
+   "how": "CBP may not use these funds to stop individuals from bringing personal-use quantities of certain prescription drugs from Canada."
+  },
+  {
+   "group": "Federal contractors and grant recipients",
+   "how": "DHS must notify Congress before many awards are made, and contracts must follow specified competition and fee rules."
+  },
+  {
+   "group": "Immigrants applying for immigration benefits",
+   "how": "USCIS may not grant benefits unless required background checks are complete, and funds are allotted for an immigrant integration grant program."
+  },
+  {
+   "group": "Employers hiring workers",
+   "how": "Funds may not be used to employ workers who are unauthorized aliens."
+  },
+  {
+   "group": "Registered Traveler program participants",
+   "how": "Companies that collect their personal information must safeguard and dispose of it under specified standards."
+  },
+  {
+   "group": "Coast Guard personnel and vessel operators",
+   "how": "Coast Guard funding is reduced below the prior year, and some Coast Guard programs and facilities are protected from cuts or competition."
+  }
+ ],
+ "when_it_takes_effect": "The appropriations apply to fiscal year 2015, which covers October 1, 2014 through September 30, 2015, and the law was enacted on March 4, 2015. Some provisions run through fiscal year 2016 or until a later act is passed.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

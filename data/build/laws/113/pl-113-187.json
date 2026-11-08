@@ -3536,5 +3536,36 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "This law updates federal rules on presidential and federal records, including how they are released, how classified materials are handled at the National Archives, and how officials must handle email.",
+  "what_it_does": "It sets a 60-day deadline for the National Archivist to release presidential records once a decision is made to make them public, with exceptions for claims of constitutional privilege. It requires the President, Vice President, and their senior staff, as well as federal executive employees, to copy an official email account or forward a full copy of any work message sent from a personal account within 20 days. It directs the Archivist to set security rules for reviewing classified records, such as limits on personal devices and searches of belongings. It also moves records management responsibility from the General Services Administration to the National Archives and repeals a study commission on federal records.",
+  "who_it_affects": [
+   {
+    "group": "Former and sitting Presidents and Vice Presidents",
+    "how": "Their presidential records can be released only after notice and a 60-day window, and privilege claims can delay release."
+   },
+   {
+    "group": "White House and Vice President's senior staff",
+    "how": "They must copy an official account or forward a complete copy of any work message sent from a non-official email account within 20 days."
+   },
+   {
+    "group": "Federal executive branch employees",
+    "how": "They face the same 20-day copying rule for work messages sent from personal accounts, and intentional violations can lead to discipline."
+   },
+   {
+    "group": "Researchers and people who review classified records at the National Archives",
+    "how": "They must follow new rules that limit personal devices, require supervised access in some cases, consent to searches of belongings, and leave their notes at the archives until cleared."
+   },
+   {
+    "group": "Federal agencies",
+    "how": "They must transfer records that have historical value to the National Archives within 30 years, and must send digital records electronically where possible."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

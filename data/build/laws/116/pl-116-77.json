@@ -3519,5 +3519,24 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "Public Law 116-77 bars the U.S. from licensing exports of certain crowd-control and police items to Hong Kong's police forces for one year, with a presidential waiver.",
+  "what_it_does": "The law directs the President to stop issuing licenses to export listed munitions items to the Hong Kong Police Force and the Hong Kong Auxiliary Police Force. The listed items include tear gas, rubber bullets, and handcuffs. The President may make an exception if he certifies to Congress that the exports serve U.S. national interests and foreign policy goals. The prohibition expires one year after enactment.",
+  "who_it_affects": [
+   {
+    "group": "U.S. companies that export tear gas, rubber bullets, or handcuffs",
+    "how": "They cannot receive export licenses to sell these covered items to the Hong Kong Police Force or the Hong Kong Auxiliary Police Force unless the President grants an exception."
+   },
+   {
+    "group": "Hong Kong Police Force and Hong Kong Auxiliary Police Force",
+    "how": "They are barred from receiving licensed U.S. exports of the listed munitions items during the prohibition period."
+   }
+  ],
+  "when_it_takes_effect": "Took effect on enactment, November 27, 2019, and expires one year later, around November 27, 2020.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

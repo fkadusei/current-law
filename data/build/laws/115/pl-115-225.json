@@ -4324,5 +4324,24 @@
   "House": "R",
   "Senate": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "This law extends the National Flood Insurance Program's authority through November 30, 2018.",
+  "what_it_does": "The National Flood Insurance Program lets property owners buy federally backed flood insurance. Without a new law, the program's legal authority would have run out, so this act reauthorizes it. The extension runs only through November 30, 2018, which makes it a short-term fix rather than a long-term change. The summary does not describe any other changes to coverage, premiums, or rules.",
+  "who_it_affects": [
+   {
+    "group": "Property owners in flood-prone areas who hold or buy flood insurance through the program",
+    "how": "Their ability to buy or renew federally backed flood coverage continues without a lapse while the extension is in effect."
+   },
+   {
+    "group": "Lenders and communities that participate in the National Flood Insurance Program",
+    "how": "Mortgage and floodplain rules tied to the program remain in place through the extended deadline."
+   }
+  ],
+  "when_it_takes_effect": "The extension took effect when the act was enacted on July 31, 2018, and runs through November 30, 2018.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

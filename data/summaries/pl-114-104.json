@@ -1,0 +1,28 @@
+{
+ "headline": "This 2015 law extends two federal programs that match patients needing transplants with bone marrow and cord blood donors, through fiscal year 2020.",
+ "what_it_does": "The law extends the C.W. Bill Young Cell Transplantation Program and the National Cord Blood Inventory through fiscal year 2020. It requires the Department of Health and Human Services to review the science on using adult stem cells and birthing tissues for new therapies and to consider adding those therapies to the transplant program. It also revises the rules for HHS contracts under the 2005 stem cell law and requires HHS to decide whether peripheral blood stem cells and umbilical cord blood count as a human organ. The official summary describes the version reported to the Senate in December 2015, so the enacted text may differ in details.",
+ "who_it_affects": [
+  {
+   "group": "Patients who need a bone marrow or cord blood transplant",
+   "how": "The extended programs keep working to find matching unrelated donors for them."
+  },
+  {
+   "group": "Unrelated bone marrow and cord blood donors",
+   "how": "The programs that register and match them continue for another several years."
+  },
+  {
+   "group": "Hospitals and blood banks that collect or store cord blood",
+   "how": "HHS must decide whether cord blood falls under the legal definition of a human organ, which could affect how it is handled."
+  },
+  {
+   "group": "Researchers and companies developing adult stem cell or birthing tissue therapies",
+   "how": "HHS must review the science in this area and consider adding new therapies to the transplant program, and contract rules for HHS work are revised."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on December 18, 2015, and the program extensions run through fiscal year 2020; the summary does not give separate dates for each section.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

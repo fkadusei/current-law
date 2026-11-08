@@ -1,0 +1,28 @@
+{
+ "headline": "A 2022 law requires federal judges to report certain securities trades within 45 days and requires their financial disclosure reports to be posted in a searchable online database.",
+ "what_it_does": "The law requires federal judicial officers, bankruptcy judges, and magistrate judges to file periodic transaction reports within 45 days of buying, selling, or exchanging securities worth more than $1,000. It directs the Administrative Office of the U.S. Courts to build a searchable internet database of judicial financial disclosure reports. Reports must be posted within 90 days of their filing deadline in a searchable, sortable, and downloadable format. The Judicial Conference can withhold immediate public release of a report if it finds that revealing sensitive personal information could endanger the filer or a family member.",
+ "who_it_affects": [
+  {
+   "group": "Federal judicial officers, bankruptcy judges, and magistrate judges",
+   "how": "They must file transaction reports within 45 days after certain securities trades over $1,000 and must have their financial disclosure reports posted publicly."
+  },
+  {
+   "group": "Administrative Office of the U.S. Courts",
+   "how": "It must create and maintain a searchable online database of judicial financial disclosure reports and post reports on the required schedule."
+  },
+  {
+   "group": "Judicial officers and employees who face safety concerns",
+   "how": "The Judicial Conference can delay public release of their reports if it finds that sensitive personal information could put them or a family member at risk."
+  },
+  {
+   "group": "Members of the public, journalists, and watchdog groups",
+   "how": "They can search, sort, and download judges' financial disclosure reports online instead of requesting paper copies."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on May 13, 2022, but the summary does not list a separate effective date for the reporting and database requirements.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

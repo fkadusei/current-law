@@ -36,5 +36,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Congress approved appointing Roger W. Ferguson as a citizen regent on the Smithsonian Institution's Board of Regents.",
+  "what_it_does": "This joint resolution names Roger W. Ferguson as a citizen regent of the Board of Regents of the Smithsonian Institution. The Board of Regents oversees the Smithsonian, a group of museums, research centers, and the National Zoo. The resolution is a single appointment and does not change any other law.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The resolution was enacted on April 19, 2017.",
+  "ceremonial": true,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -1,0 +1,24 @@
+{
+ "headline": "This law starts a five-year pilot letting the VA accept up to five property or facility donations from outside groups for VA building projects.",
+ "what_it_does": "The Department of Veterans Affairs may run a five-year pilot program and accept up to five donations from non-federal entities. A donation can be land with a building on it, land where a facility will be built, or a facility built by the outside group on VA land. Donors must sign a formal agreement, meet environmental, historic preservation, zoning, permit, and VA construction standards, and cover costs so the federal government pays nothing extra. The VA cannot pay rent or usage fees for donated property, and the Government Accountability Office must report to Congress every two years.",
+ "who_it_affects": [
+  {
+   "group": "Veterans who use VA health care facilities",
+   "how": "Donated buildings or land could be used to add or replace VA facilities, including health care sites, in places the VA has identified as needing them."
+  },
+  {
+   "group": "Non-federal entities such as nonprofits, local governments, or companies that want to donate property",
+   "how": "They may apply to donate property or build a facility for the VA, but they must meet all construction, permitting, and funding requirements and pay costs beyond what the VA provides."
+  },
+  {
+   "group": "Taxpayers and federal budget planners",
+   "how": "The VA must report donated property and project status in its annual budget to Congress, and the GAO must review the pilot every two years."
+  }
+ ],
+ "when_it_takes_effect": "Enacted December 16, 2016; the pilot runs for five years under the donation agreements made during that period.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

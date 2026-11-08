@@ -39,5 +39,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law raises the total debt limit that a family farmer can have and still file for bankruptcy under Chapter 12.",
+  "what_it_does": "It changes the rules for Chapter 12, the bankruptcy process for family farmers and fishermen who need to reorganize their debts. The law increases the aggregate debt limit, which is the maximum total amount of debt a family farmer can owe and still qualify to use that process. The official summary does not state the new dollar amount, so this explanation does not give one.",
+  "who_it_affects": [
+   {
+    "group": "Family farmers who may file for bankruptcy under Chapter 12",
+    "how": "Farmers with more total debt than the old limit allowed may now be able to use Chapter 12 to reorganize their debts."
+   },
+   {
+    "group": "Family fishermen who may file for bankruptcy under Chapter 12",
+    "how": "Fishermen who qualify as family fishermen can use the same Chapter 12 process, so the higher debt limit applies to them as well."
+   },
+   {
+    "group": "Creditors who lend money to family farmers",
+    "how": "Lenders may face Chapter 12 repayment plans for farm debtors who now fall under the higher limit."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on August 23, 2019. The official summary does not describe a separate effective date.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

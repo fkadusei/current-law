@@ -33,5 +33,24 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2015 law requires the housing regulator to freeze pay for the heads of Fannie Mae and Freddie Mac at their January 1, 2015 levels, under certain conservatorship conditions.",
+  "what_it_does": "The law tells the Director of the Federal Housing Finance Agency to suspend the 2015 pay packages for the chief executives of Fannie Mae and Freddie Mac and their affiliates. Their pay and benefits are instead set at the levels they had on January 1, 2015, and they cannot be raised after that. The freeze applies only if the company is in conservatorship or receivership as a critically undercapitalized regulated entity. The law also says these chief executives are not considered federal employees.",
+  "who_it_affects": [
+   {
+    "group": "Chief executive officers of Fannie Mae and Freddie Mac and their affiliates",
+    "how": "Their pay and benefits are frozen at January 1, 2015 levels, but only if the company is in conservatorship or receivership as a critically undercapitalized entity."
+   },
+   {
+    "group": "The Director of the Federal Housing Finance Agency",
+    "how": "The Director must carry out the pay suspension and set the frozen compensation levels."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on November 25, 2015. The summary does not list a separate start date for the pay provisions.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

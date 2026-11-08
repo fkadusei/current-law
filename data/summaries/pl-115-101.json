@@ -1,0 +1,32 @@
+{
+ "headline": "This law changes rules for commercial trucks and vehicles using Highway 209 in the Delaware Water Gap National Recreation Area in Pennsylvania.",
+ "what_it_does": "It allows smaller commercial vehicles tied to local businesses and residents to use Highway 209 until September 30, 2021. It also directs the Department of the Interior to create a permit and fee program, with an annual fee of up to $200 per vehicle, and to keep those fees in a special account for running the program. School buses, emergency vehicles, and certain commercial vehicles on specified road segments can use the highway without a fee or permit.",
+ "who_it_affects": [
+  {
+   "group": "Businesses and commercial vehicle owners in the recreation area or nine named nearby Pennsylvania municipalities",
+   "how": "Vehicles with four or fewer axles that they own or operate may use Highway 209 under the local business exception until its September 30, 2021 end date."
+  },
+  {
+   "group": "Commercial vehicle operators who use Highway 209 outside the local business exception",
+   "how": "They may need a permit and must pay a fee of up to $200 per year for each vehicle under the new Interior Department program."
+  },
+  {
+   "group": "Local school districts and school bus operators",
+   "how": "Local school buses may use Highway 209 without a fee or permit."
+  },
+  {
+   "group": "Fire, ambulance, and other emergency service providers",
+   "how": "Their safety and emergency vehicles may use Highway 209 without a fee or permit."
+  },
+  {
+   "group": "Residents of Delaware Township, Dingman Township, Lehman Township, Matamoras Borough, Middle Smithfield Township, Milford Borough, Milford Township, Smithfield Township, and Westfall Township",
+   "how": "Commercial vehicles serving residents and businesses in these areas gained a route to use Highway 209 under the local exception."
+  }
+ ],
+ "when_it_takes_effect": "Took effect on enactment on January 8, 2018; the local business exception was set to run only until September 30, 2021.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

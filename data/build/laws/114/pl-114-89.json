@@ -42,5 +42,36 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law sets deadlines for the Justice Department to set controls on new drugs that the FDA says could be abused, and changes rules on approvals, patent extensions, clinical trial registration, and exports.",
+  "what_it_does": "The law delays FDA approval of certain drugs, biological products, and animal drugs that the FDA recommends placing under the Controlled Substances Act until the Justice Department issues a final interim rule for them. The Justice Department must issue that rule within 90 days after it gets the FDA's recommendation or the FDA approves the drug, and the rule takes effect immediately. The law also treats these drugs as approved for patent-extension purposes on the later of the FDA approval date or the interim rule date, and it sets timelines for the Justice Department to register clinical trial manufacturers or issue an order to show cause. Finally, it lets controlled substances that were exported be re-exported within the European Economic Area.",
+  "who_it_affects": [
+   {
+    "group": "Drug and biological product manufacturers seeking FDA approval for drugs the FDA may recommend for controls",
+    "how": "Their FDA approval can be delayed until the Justice Department finishes its interim rule, which must come within 90 days."
+   },
+   {
+    "group": "Animal drug makers",
+    "how": "Approval, conditional approval, and indexing of their drugs can be delayed under the same process when controls are recommended."
+   },
+   {
+    "group": "Companies seeking patent extensions for controlled-substance drugs",
+    "how": "The date used for their patent-extension applications is the later of FDA approval or the interim rule date."
+   },
+   {
+    "group": "Applicants to manufacture controlled substances for clinical trials",
+    "how": "The Justice Department must either register them or serve an order to show cause within set timelines."
+   },
+   {
+    "group": "Companies that export controlled substances to Europe",
+    "how": "They may re-export those substances within the European Economic Area under the amended import and export law."
+   }
+  ],
+  "when_it_takes_effect": "Signed into law on November 25, 2015; the summary does not list separate effective dates for each section.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

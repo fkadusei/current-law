@@ -3542,5 +3542,36 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "This law writes into statute the Federal Law Enforcement Training Center's place within the Department of Homeland Security and sets out how it trains federal, state, and local officers.",
+  "what_it_does": "The law puts the Federal Law Enforcement Training Center (FLETC) into the Homeland Security Act of 2002, so its existence and structure are set by statute. A director who reports to the DHS Secretary runs the center, sets training goals and curricula, and manages facilities and acquisitions. The center may train federal employees in homeland security and law enforcement, and it may partner with state, local, and private groups, sometimes charging fees for non-federal training. The law also keeps several existing spending and housing powers and lets the center honor graduates who died in the line of duty.",
+  "who_it_affects": [
+   {
+    "group": "Federal law enforcement and homeland security employees",
+    "how": "They receive training through FLETC, and attendees are expected to live in FLETC housing when practical."
+   },
+   {
+    "group": "State and local law enforcement agencies",
+    "how": "They may take part in FLETC training through strategic partnerships, and the center may charge them fees for certain trainings."
+   },
+   {
+    "group": "Federal agencies that send staff to FLETC",
+    "how": "Partner agencies under a memorandum of understanding must pay for and assign non-reimbursable detailed instructors to support training programs."
+   },
+   {
+    "group": "Retired federal employees with training experience",
+    "how": "The center may hire them to help with training work."
+   },
+   {
+    "group": "Families of fallen FLETC graduates",
+    "how": "The center may spend funds to honor and memorialize graduates who died in the line of duty."
+   }
+  ],
+  "when_it_takes_effect": "The summary does not state a specific effective date; the law was enacted on December 16, 2016.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

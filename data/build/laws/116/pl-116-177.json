@@ -39,5 +39,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law requires the Government Accountability Office to report on VA agreements with outside groups about suicide prevention and mental health care.",
+  "what_it_does": "The Government Accountability Office, which is Congress's audit agency, must review and report on written agreements the Department of Veterans Affairs has signed with non-VA organizations. The agreements cover suicide prevention and providing or coordinating mental health services. The summary describes a reporting requirement and does not change how these agreements work.",
+  "who_it_affects": [
+   {
+    "group": "Veterans who use VA mental health or suicide prevention services",
+    "how": "The law adds a government review of the outside partnerships that may help deliver their care, but it does not change their benefits or eligibility."
+   },
+   {
+    "group": "The Department of Veterans Affairs",
+    "how": "The department must make its agreements with non-VA entities on these topics available for the Government Accountability Office to report on."
+   },
+   {
+    "group": "Non-VA organizations that sign agreements with the VA on mental health or suicide prevention",
+    "how": "Their agreements with the VA on these topics may be included in the government report."
+   }
+  ],
+  "when_it_takes_effect": "The law took effect when it was signed on October 20, 2020. The summary does not give a due date for the Government Accountability Office report.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

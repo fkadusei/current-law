@@ -36,5 +36,36 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law extends several oversight, reporting, funding, and spending rules for U.S. global HIV/AIDS programs, mostly through fiscal year 2018 or 2019.",
+  "what_it_does": "It extends existing requirements that inspectors general from the State Department, HHS, and USAID write joint oversight plans for global HIV/AIDS programs. It extends the annual Global AIDS Coordinator study of treatment providers through 2019 and adds cost and expenditure analysis by partner country. It extends limits on U.S. contributions to the Global Fund to Fight AIDS, Tuberculosis and Malaria, and requires annual HIV/AIDS reports to list completed program evaluations and whether they were published online. It also extends set-asides for orphans and vulnerable children and spending requirements for treatment and care.",
+  "who_it_affects": [
+   {
+    "group": "People living with HIV/AIDS in partner countries",
+    "how": "The law keeps in place requirements that more than half of bilateral HIV/AIDS funds go to treatment, monitoring, related infections, nutrition, and other medical care."
+   },
+   {
+    "group": "Orphans and vulnerable children affected by HIV/AIDS",
+    "how": "The law extends a 10% funding set-aside for them through fiscal year 2018."
+   },
+   {
+    "group": "Countries receiving U.S. HIV/AIDS assistance (partner countries)",
+    "how": "The law defines a partner country as one that received at least $5 million in U.S. HIV/AIDS investment in the prior fiscal year, and it requires cost and spending analyses for each one."
+   },
+   {
+    "group": "State Department, HHS, and USAID inspectors general and the Global AIDS Coordinator",
+    "how": "They must keep producing joint oversight plans, annual treatment provider studies, and HIV/AIDS reports that include evaluation details."
+   },
+   {
+    "group": "The Global Fund to Fight AIDS, Tuberculosis and Malaria",
+    "how": "U.S. contributions stay capped at 33%, and some funds can be withheld unless the Fund meets transparency rules or if support for international terrorism is involved."
+   }
+  ],
+  "when_it_takes_effect": "Most extensions run through fiscal year 2018 (September 30, 2018), and the treatment provider study runs through September 30, 2019; the evaluation standards were due for publication by February 1, 2014.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

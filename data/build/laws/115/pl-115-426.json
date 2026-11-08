@@ -3528,5 +3528,32 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2018 law requires the National Archives to collect and publish civil rights cold case records and creates an independent board to review requests to keep parts of them secret.",
+  "what_it_does": "The law directs the National Archives and Records Administration to build a public collection of civil rights cold case records and publish a guidebook and index for it. Records sent to the Archives for public release are made available for inspection and copying and are prioritized for digitization. Records can be withheld or delayed for reasons such as national security, personal privacy, or interference with ongoing law enforcement, and those decisions are reviewed annually by a new independent Civil Rights Cold Case Records Review Board.",
+  "who_it_affects": [
+   {
+    "group": "The general public",
+    "how": "Members of the public can inspect and copy civil rights cold case records that are released to the National Archives."
+   },
+   {
+    "group": "Historians, researchers, and journalists",
+    "how": "They gain access to a central collection and index of civil rights cold case records, with priority given to digitizing them."
+   },
+   {
+    "group": "Federal agencies holding civil rights cold case records",
+    "how": "They must transmit eligible records to the National Archives and may seek postponement of disclosure on the listed grounds, which the review board decides."
+   },
+   {
+    "group": "Individuals whose privacy may be affected by released records",
+    "how": "Records that would invade personal privacy can have their disclosure postponed, and those postponements are reviewed each year."
+   }
+  ],
+  "when_it_takes_effect": "Became law on January 8, 2019; the summary does not list other specific deadlines.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

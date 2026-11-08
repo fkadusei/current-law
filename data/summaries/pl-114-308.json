@@ -1,0 +1,24 @@
+{
+ "headline": "This law gives people more time to sue to recover art and property taken by Nazis between 1933 and 1945, measured from when they discover the item and their claim to it.",
+ "what_it_does": "The law sets a six-year deadline for filing a civil lawsuit to recover artwork or other property lost because of Nazi persecution between January 1, 1933, and December 31, 1945. The six years start when the owner actually discovers where the item is and has a claim to it. This deadline overrides other time limits or defenses based on how much time has passed. The law also covers older claims that were already known before it was enacted, and it applies to cases pending on the enactment date or filed before 2027, with an exception for certain claims that had already expired.",
+ "who_it_affects": [
+  {
+   "group": "Heirs and original owners of artwork or property seized during Nazi persecution",
+   "how": "They get a longer window, measured from discovery, to file lawsuits seeking the return of their property."
+  },
+  {
+   "group": "Museums, galleries, and private holders of possibly looted art",
+   "how": "They may face lawsuits over works with Nazi-era ownership gaps that might previously have been protected by old filing deadlines."
+  },
+  {
+   "group": "Courts handling these claims",
+   "how": "They must apply the six-year discovery-based deadline in place of other time limits for qualifying cases."
+  }
+ ],
+ "when_it_takes_effect": "Enacted December 16, 2016; the law applies to qualifying claims pending on that date or filed before 2027.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

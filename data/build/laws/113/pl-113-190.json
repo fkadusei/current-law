@@ -36,5 +36,24 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law directs the federal government to offer to transfer certain federal land in Albuquerque, New Mexico, to the Amy Biehl High School Foundation.",
+  "what_it_does": "The General Services Administration must offer to convey specified federal lands in Albuquerque to the Amy Biehl High School Foundation. The transfer must follow a fair market value appraisal that the Administrator finds acceptable. The Foundation pays the costs of the transfer, and the conveyance must happen within three years of enactment.",
+  "who_it_affects": [
+   {
+    "group": "Amy Biehl High School Foundation",
+    "how": "The Foundation would receive an offer of federal land in Albuquerque and must pay the costs related to the transfer."
+   },
+   {
+    "group": "General Services Administration",
+    "how": "The agency must make the offer, work from a fair market value appraisal, and complete the conveyance within three years."
+   }
+  ],
+  "when_it_takes_effect": "The law took effect on November 26, 2014, and the conveyance must occur within three years of that date, by about November 26, 2017.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

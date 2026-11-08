@@ -33,5 +33,36 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law lets the VA pay certain burial allowances for veterans buried on tribal trust land, allows green burial sections, expands land for national cemeteries, and bars some people convicted of certain crimes from burial there.",
+  "what_it_does": "The law requires the Department of Veterans Affairs to pay a plot or interment allowance for veterans buried before March 15, 2022, in cemeteries on tribal trust land, if the tribal organization that runs the cemetery applies and no allowance was already paid. It lets the VA set up green burial sections in national cemeteries, where bodies are not embalmed with chemicals and are placed in natural or biodegradable containers. It also allows land transfers to expand Fort Bliss National Cemetery and to create a new national cemetery. Finally, it bars people who committed certain crimes from being buried or memorialized in VA national cemeteries or Arlington National Cemetery.",
+  "who_it_affects": [
+   {
+    "group": "Veterans buried on tribal trust land before March 15, 2022",
+    "how": "Their burial costs may be covered by a VA plot or interment allowance if the tribal organization applies and no allowance was paid before."
+   },
+   {
+    "group": "Tribal organizations that maintain cemeteries on tribal trust land",
+    "how": "They can apply to the VA for a plot or interment allowance for eligible veterans buried in their cemeteries."
+   },
+   {
+    "group": "Families of veterans who choose burial in national cemeteries",
+    "how": "The VA may offer green burial sections that use no embalming chemicals and natural or biodegradable containers."
+   },
+   {
+    "group": "Certain people convicted of specified crimes",
+    "how": "They cannot be buried or memorialized in VA national cemeteries or Arlington National Cemetery."
+   },
+   {
+    "group": "Residents near Fort Bliss and the VA national cemetery system",
+    "how": "Land from the Army and Interior Department may be transferred to the VA to expand Fort Bliss National Cemetery and to create a new national cemetery."
+   }
+  ],
+  "when_it_takes_effect": "Enacted January 5, 2023; the summary does not list other specific effective dates.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

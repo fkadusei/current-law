@@ -1,0 +1,44 @@
+{
+ "headline": "Public Law 113-146 lets some veterans get care from outside VA facilities and changes VA staffing, scheduling, training, and oversight rules.",
+ "what_it_does": "The law creates a program that lets veterans get hospital and medical care from participating non-VA providers when they cannot get a VA appointment within VA wait-time goals or when they live far from a VA facility. Care is arranged through agreements with Medicare providers, federally qualified health centers, the Department of Defense, and the Indian Health Service, and eligible veterans receive a Veterans Choice Card to use. The law also creates a Veterans Choice Fund, requires public reporting of VA wait times and quality data, adds residency positions and higher education debt payments for hard-to-fill VA health jobs, and extends several existing programs. The non-VA care requirement ends when the Veterans Choice Fund is used up or three years after enactment, whichever comes first.",
+ "who_it_affects": [
+  {
+   "group": "Veterans who cannot get a timely VA appointment or who live far from a VA facility",
+   "how": "They may choose to receive covered care from participating non-VA providers, and VA information about this option is required at enrollment and when scheduling fails."
+  },
+  {
+   "group": "Non-VA health care providers that treat veterans under this program",
+   "how": "They must maintain credentials and licenses at least similar to those required of VA providers and submit license verification at least once a year."
+  },
+  {
+   "group": "VA medical center directors, VISN leaders, and other VA leaders",
+   "how": "Their performance plans must be based on quality of care, and wait-time and scheduling goals cannot be used to judge their performance."
+  },
+  {
+   "group": "Health professionals who are hard to recruit or retain at the VA",
+   "how": "The yearly limit on VA education debt reduction payments rises from $12,000 to $24,000, and the lifetime limit rises from $60,000 to $120,000."
+  },
+  {
+   "group": "Active-duty service members and veterans who experienced military sexual trauma",
+   "how": "Eligibility for VA counseling and treatment is expanded, including for active-duty members who do not need a referral."
+  },
+  {
+   "group": "Surviving spouses of service members who died in the line of duty on or after September 11, 2001",
+   "how": "They may receive the Marine Gunnery Sergeant John David Fry Scholarship, which ends 15 years after the service member's death or upon remarriage."
+  },
+  {
+   "group": "Out-of-state veterans attending public colleges that charge them higher tuition than in-state residents",
+   "how": "VA may disapprove those courses for GI Bill purposes for courses starting on or after July 1, 2015, unless the school bases in-state rates on the veteran's residency requirements."
+  },
+  {
+   "group": "Indian tribes, tribal organizations, and Indian Health Service facilities",
+   "how": "VA must conduct outreach about possible reimbursement agreements for veterans' care at these facilities."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on August 7, 2014. The non-VA care requirement ends when the Veterans Choice Fund is exhausted or three years after enactment, whichever is earlier. Some provisions have their own dates, such as the July 1, 2015 start for the tuition rule.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

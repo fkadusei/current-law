@@ -3531,5 +3531,32 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "This 2014 law extends federal support for the national poison control phone line, public poison-prevention advertising, and grants to poison control centers through fiscal year 2019.",
+  "what_it_does": "The law reauthorizes, or renews, federal authority through fiscal year 2019 for a nationwide toll-free poison control phone number. It also renews a national media campaign that teaches the public and health care providers about poison prevention and where to find local poison control resources. It renews and revises a grant program for poison control centers, and it lets grant money be used to upgrade their communications and data systems. The summary changes the word \"certified\" to \"accredited\" for the centers that qualify for grants.",
+  "who_it_affects": [
+   {
+    "group": "People who need poison control help",
+    "how": "They can keep using a single toll-free national number to reach a poison control center, with federal support continuing through fiscal year 2019."
+   },
+   {
+    "group": "Poison control centers",
+    "how": "They can apply for federal grants, which may now be used to modernize communications and data systems, and they must be accredited to qualify."
+   },
+   {
+    "group": "Health care providers",
+    "how": "They are a target audience for federal education materials about poison prevention and local poison control resources."
+   },
+   {
+    "group": "The general public",
+    "how": "They are a target audience for national advertising about poison prevention and the toll-free poison control number."
+   }
+  ],
+  "when_it_takes_effect": "Enacted January 24, 2014; the reauthorized programs run through fiscal year 2019.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

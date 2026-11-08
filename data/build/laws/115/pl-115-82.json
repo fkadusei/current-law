@@ -3543,5 +3543,24 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "This law extends a federal program to prevent and investigate child sexual exploitation online through fiscal year 2022.",
+  "what_it_does": "It amends the PROTECT Our Children Act of 2008 to reauthorize the National Strategy for Child Exploitation Prevention and Interdiction. A reauthorization keeps an existing program running for a set period. This law sets that period through fiscal year 2022. The official summary does not describe the program's specific activities or funding amounts.",
+  "who_it_affects": [
+   {
+    "group": "Federal, state, and local law enforcement agencies that investigate child exploitation",
+    "how": "The program they work under is kept in place through fiscal year 2022."
+   },
+   {
+    "group": "Children and families",
+    "how": "The federal strategy aimed at preventing and investigating child exploitation continues during the extension period."
+   }
+  ],
+  "when_it_takes_effect": "Took effect when it was signed into law on November 2, 2017.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

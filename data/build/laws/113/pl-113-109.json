@@ -3525,5 +3525,24 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2014 law removed the federal requirement that car dealers give new-vehicle buyers a written emissions-compliance certification and warranty notice.",
+  "what_it_does": "The law amends the Clean Air Act to remove a requirement that dealers of new light-duty motor vehicles give the buyer a certification that the vehicle meets emission standards. The dropped requirement also covered a notice of warranty rights if the vehicle failed to meet those standards. The official summary does not describe any replacement requirement.",
+  "who_it_affects": [
+   {
+    "group": "Dealers of new light-duty motor vehicles",
+    "how": "They no longer have to provide buyers with the federal emissions-conformity certification and warranty notice under the Clean Air Act."
+   },
+   {
+    "group": "People who buy new cars, light trucks, and similar vehicles from dealers",
+    "how": "They will no longer receive this federally required emissions certification and warranty-rights notice at the time of sale."
+   }
+  ],
+  "when_it_takes_effect": "Enacted June 9, 2014; the official summary does not list a separate effective date.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

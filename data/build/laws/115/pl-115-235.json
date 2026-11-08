@@ -36,5 +36,24 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law gives federal agencies more time to propose and finalize rules for the tribal transportation self-governance program.",
+  "what_it_does": "The program lets Indian tribes manage certain federal transportation projects and funds themselves. Before this law, the deadline to publish proposed rules for the program was 21 months after December 4, 2015, and the deadline to issue final rules was 30 months after that date. This law pushes those deadlines to 42 months for proposed rules and 48 months for final rules.",
+  "who_it_affects": [
+   {
+    "group": "Federally recognized tribes that take part in the tribal transportation self-governance program",
+    "how": "The rules that govern their participation in the program were given more time to be written, so the final rules were expected later than originally planned."
+   },
+   {
+    "group": "Federal transportation officials who write the program rules",
+    "how": "They received extra months to publish proposed rules and final rules for the program."
+   }
+  ],
+  "when_it_takes_effect": "The law took effect on enactment, August 14, 2018, and the new deadlines fall in June 2019 for proposed rules and December 2019 for final rules.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

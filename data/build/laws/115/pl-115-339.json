@@ -39,5 +39,24 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Federal law that requires the VA to run a one-year pilot program offering a specific magnetic resonance therapy to a limited group of veterans with certain conditions.",
+  "what_it_does": "The law directs the Department of Veterans Affairs to run a one-year pilot program offering magnetic resonance therapy guided by EEG and EKG readings. The program is limited to up to two VA facilities and no more than 50 veterans. The therapy is aimed at veterans with post-traumatic stress disorder, traumatic brain injury, military sexual trauma, chronic pain, or opiate addiction.",
+  "who_it_affects": [
+   {
+    "group": "Veterans with post-traumatic stress disorder, traumatic brain injury, military sexual trauma, chronic pain, or opiate addiction",
+    "how": "Up to 50 of them may be able to receive this therapy through the pilot program at participating VA facilities."
+   },
+   {
+    "group": "Department of Veterans Affairs facilities",
+    "how": "Up to two VA facilities are chosen to run the one-year pilot and provide the therapy."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on December 21, 2018, but the summary does not state a start date or end date for the pilot program itself.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

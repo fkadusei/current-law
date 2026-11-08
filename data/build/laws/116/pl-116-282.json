@@ -36,5 +36,24 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2020 law changes how the U.S. Semiquincentennial Commission is set up, when it reports, and who may use its official logos.",
+  "what_it_does": "The law updates rules for the commission that plans commemorations of the nation's 250th anniversary. It changes the commission's membership requirements. It moves the date for the commission's recommendations to the President to March 31, 2020. It also gives the commission the exclusive right to use its official marks, imprimaturs, and logos, and to permit others to use them.",
+  "who_it_affects": [
+   {
+    "group": "Members of the U.S. Semiquincentennial Commission",
+    "how": "Their membership requirements are changed by the law."
+   },
+   {
+    "group": "Businesses and organizations that want to use the commission's official logos or marks",
+    "how": "They need the commission's permission to use its official marks, imprimaturs, and logos."
+   }
+  ],
+  "when_it_takes_effect": "Enacted December 31, 2020. The summary does not list a separate effective date.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

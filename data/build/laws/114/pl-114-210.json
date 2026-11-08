@@ -3538,5 +3538,32 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2016 law requires federal agencies to inventory, track, and manage their software licenses and report savings to the White House budget office.",
+  "what_it_does": "The law directs the Office of Management and Budget to require each federal agency's Chief Information Officer to create a software licensing policy. That policy must include a full inventory of software licenses, tracking and maintenance of those licenses, and analysis of how the software is used so agencies can make cost-effective choices. Agency CIOs must also provide license management training, set goals for their programs, and report savings from better license management to OMB each year for six fiscal years, starting with the first fiscal year after enactment.",
+  "who_it_affects": [
+   {
+    "group": "Federal executive agencies",
+    "how": "Each agency must build a software license inventory and management policy and report its savings to OMB annually for five years after the first fiscal year following enactment."
+   },
+   {
+    "group": "Agency Chief Information Officers",
+    "how": "CIOs must develop the licensing policies, run the inventories and training, and prepare the yearly savings reports."
+   },
+   {
+    "group": "Federal employees who manage or use agency software",
+    "how": "They may receive license management training and may see changes in which software tools their agency tracks, buys, or keeps."
+   },
+   {
+    "group": "Software vendors selling licenses to the federal government",
+    "how": "Agencies will be reviewing license usage more closely, which may affect how many licenses they buy and renew."
+   }
+  ],
+  "when_it_takes_effect": "The reporting requirement starts in the first fiscal year after enactment on July 29, 2016, and continues for five more fiscal years; the policy requirements apply once OMB issues its directive.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

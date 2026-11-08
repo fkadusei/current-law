@@ -1,0 +1,44 @@
+{
+ "headline": "The First Step Act of 2018 changes federal prison programs, sentencing rules for some drug and gun crimes, and reentry services for people leaving prison.",
+ "what_it_does": "The law sets up a system for the Department of Justice and the Bureau of Prisons to assess how likely each federal prisoner is to commit another crime, and uses the results to guide housing and program assignments. It lets prisoners earn more good time credit and rewards participation in programs that reduce repeat offenses. It also lowers some mandatory minimum prison terms for certain repeat drug and gun offenders and makes the 2010 Fair Sentencing Act retroactive so some older crack cocaine sentences can be reviewed. It also covers many smaller matters, such as limits on restraints for pregnant prisoners, free menstrual products in federal prisons, and help getting identification before release.",
+ "who_it_affects": [
+  {
+   "group": "Federal prisoners",
+   "how": "They may earn more good time credit, can join recidivism reduction programs, may be placed in facilities closer to home, and may be eligible for home confinement or early release in some cases."
+  },
+  {
+   "group": "People sentenced under certain federal drug and gun laws",
+   "how": "Some mandatory minimum prison terms are shorter, and courts may sentence some nonviolent drug defendants below the mandatory minimum under a broader safety valve."
+  },
+  {
+   "group": "People convicted of crack cocaine offenses before August 3, 2010",
+   "how": "They may ask a federal court to resentence them under the Fair Sentencing Act."
+  },
+  {
+   "group": "Federal correctional officers",
+   "how": "They may securely store and carry concealed firearms on Bureau of Prisons premises outside the prison security perimeter."
+  },
+  {
+   "group": "Pregnant or postpartum federal prisoners",
+   "how": "Restraints on them are limited under the law."
+  },
+  {
+   "group": "Juveniles held in federal custody",
+   "how": "Solitary confinement is prohibited except as a short response to behavior posing serious and immediate risk of harm."
+  },
+  {
+   "group": "Nonprofit, faith-based, and community organizations that serve reentering people",
+   "how": "They may partner with prisons on recidivism reduction and may compete for federal reentry grants, and faith-based groups cannot be discriminated against for being faith-based."
+  },
+  {
+   "group": "Formerly incarcerated people",
+   "how": "Federal prisons must help them get identification such as a Social Security card, driver's license, and birth certificate before release."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on December 21, 2018. Many provisions set their own timelines, including funding for fiscal years 2019 through 2023 and reporting deadlines, and the source summary does not list a single general effective date.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

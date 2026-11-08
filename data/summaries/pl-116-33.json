@@ -1,0 +1,20 @@
+{
+ "headline": "A 2019 law changes when the VA can guarantee a refinanced home loan, tying the waiting period to consecutive monthly payments and due dates.",
+ "what_it_does": "Before this law, the VA could not guarantee a refinanced home loan until the later of two dates: the sixth monthly payment or 210 days after the first payment. The law changes the first test to six consecutive monthly payments made by the borrower. It also changes the second test to 210 days after the first payment is due, rather than after it is made.",
+ "who_it_affects": [
+  {
+   "group": "Veterans with VA-backed home loans who want to refinance",
+   "how": "The timing rules for when the VA can guarantee a refinanced loan are changed, so eligibility depends on consecutive on-time payments and the due date of the first payment."
+  },
+  {
+   "group": "Lenders and loan servicers that handle VA refinance loans",
+   "how": "They must apply the new seasoning timing (six consecutive monthly payments and 210 days after the first payment is due) when processing VA refinances."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

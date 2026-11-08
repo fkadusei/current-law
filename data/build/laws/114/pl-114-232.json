@@ -39,5 +39,48 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2016 law has the federal government hold about 71,000 acres of federal land in trust for six Nevada tribes and makes those lands part of their reservations, with gaming banned there.",
+  "what_it_does": "The law requires the United States to hold specific parcels of Bureau of Land Management and Forest Service land in trust for six Nevada tribes. The listed acreage totals about 71,000 acres across the Fort McDermitt, Duck Valley, Summit Lake, Reno-Sparks, Pyramid Lake, and Duckwater tribes. The land held for each tribe becomes part of that tribe's reservation. Gaming is prohibited on these lands.",
+  "who_it_affects": [
+   {
+    "group": "The Fort McDermitt Paiute and Shoshone Tribe",
+    "how": "The tribe gains 19,094 acres of BLM land held in trust as part of its reservation."
+   },
+   {
+    "group": "The Shoshone-Paiute Tribes of the Duck Valley Indian Reservation",
+    "how": "The tribes gain 82 acres of Forest Service land held in trust as part of their reservation."
+   },
+   {
+    "group": "The Summit Lake Paiute Tribe",
+    "how": "The tribe gains 941 acres of BLM land held in trust as part of its reservation."
+   },
+   {
+    "group": "The Reno-Sparks Indian Colony",
+    "how": "The colony gains 13,434 acres of BLM land held in trust as part of its reservation."
+   },
+   {
+    "group": "The Pyramid Lake Paiute Tribe",
+    "how": "The tribe gains 6,357 acres of BLM land held in trust as part of its reservation."
+   },
+   {
+    "group": "The Duckwater Shoshone Tribe",
+    "how": "The tribe gains 31,269 acres of BLM land held in trust as part of its reservation."
+   },
+   {
+    "group": "The Bureau of Land Management and the Forest Service",
+    "how": "These agencies no longer manage the listed parcels as federal public land because the United States holds them in trust for the tribes."
+   },
+   {
+    "group": "Businesses and people who want to run or use gaming on these lands",
+    "how": "Gaming is not allowed on any of the listed lands."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on October 7, 2016. The summary does not list a separate effective date for the land transfers.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

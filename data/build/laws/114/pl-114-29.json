@@ -3541,5 +3541,28 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "This law gives DHS's Under Secretary for Management responsibility for making the department's communications systems work together and requires strategy and progress reports to Congress.",
+  "what_it_does": "The law amends the Homeland Security Act of 2002 so the Under Secretary for Management is in charge of policies that help DHS components communicate with each other. The Under Secretary must send Congress a strategy that assesses radio communication gaps, lists past and planned efforts and spending since November 1, 2012, and sets target dates for voice, data, and video interoperability. Every two years for six years, the Under Secretary must also report on progress toward that strategy and on any extra resources or authorities needed.",
+  "who_it_affects": [
+   {
+    "group": "Department of Homeland Security components and their employees",
+    "how": "Components must follow interoperable communications policies and directives issued by the Under Secretary for Management and are named in reports on compliance."
+   },
+   {
+    "group": "Congressional homeland security committees",
+    "how": "They receive the initial strategy and the recurring progress reports on DHS communications efforts."
+   },
+   {
+    "group": "Emergency responders who work with DHS",
+    "how": "DHS planning aims to make its radio, data, and video systems work together for daily operations, planned events, and emergencies, which could affect coordination with them."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted July 6, 2015; the strategy and reports follow later deadlines set in the law, including a report due within 100 days after the strategy and reports every two years for six years.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

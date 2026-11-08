@@ -1,0 +1,24 @@
+{
+ "headline": "A 2020 law requires FEMA to report to Congress on contracts it sets up before disasters to supply essential goods and services quickly.",
+ "what_it_does": "The law directs the Federal Emergency Management Agency to report to Congress on advance contracts, which are agreements made before a disaster to provide life-sustaining goods and services right after it happens. The report must include an updated strategy covering the goals of these contracts, how they support disaster response, how to award more of them to small businesses, and whether they should get priority over new contracts awarded after a disaster. FEMA must also update its internal guidance on acquisition planning timelines and share information about a master acquisition planning schedule.",
+ "who_it_affects": [
+  {
+   "group": "Small businesses that could bid for FEMA advance contracts",
+   "how": "The law asks FEMA to explain how it could award more of these contracts to small businesses."
+  },
+  {
+   "group": "FEMA program and acquisition staff",
+   "how": "They must update and follow guidance on planning timelines for buying goods and services ahead of disasters."
+  },
+  {
+   "group": "Congressional committees overseeing disaster response",
+   "how": "They receive a report with a strategy on advance contracts and their role in disaster response."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on December 31, 2020, but the summary does not list specific deadlines for the report or guidance updates.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

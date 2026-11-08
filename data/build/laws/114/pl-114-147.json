@@ -39,5 +39,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2016 law directs the Architect of the Capitol to place a chair honoring prisoners of war and missing service members in the Capitol, paid for with private donations.",
+  "what_it_does": "The law tells the Architect of the Capitol to obtain a chair that bears the logo of the National League of POW/MIA Families and to put it in a suitable permanent spot in the U.S. Capitol within two years. The Architect may work with tax-exempt charities to collect private donations for this purpose and may accept donated money, property, or services. All costs must be covered by those private donations.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The chair was to be placed within two years after the law was enacted on April 29, 2016.",
+  "ceremonial": true,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

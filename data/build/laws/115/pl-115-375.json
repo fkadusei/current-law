@@ -36,5 +36,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Names a post office in Athens, Alabama, after the late Judge James E. Horton, Jr.",
+  "what_it_does": "This law renames the U.S. Postal Service facility at 1110 West Market Street in Athens, Alabama, as the \"Judge James E. Horton, Jr. Post Office Building.\" It is an honorary naming and does not change how the post office operates or what services it provides.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law was enacted on December 21, 2018, and the new name applies from that date.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

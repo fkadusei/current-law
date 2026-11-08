@@ -42,5 +42,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law moves about 40 acres of federal land in El Dorado County, California, into trust for the Shingle Springs Band of Miwok Indians.",
+  "what_it_does": "The law takes specified federal land managed by the Bureau of Land Management and places it into trust for the Shingle Springs Band of Miwok Indians. The land covers roughly 40.852 acres, as shown on a map dated June 7, 2012, and includes its improvements and related rights. The law also bars class II and class III gaming, which are types of tribal gambling, on that land.",
+  "who_it_affects": [
+   {
+    "group": "The Shingle Springs Band of Miwok Indians",
+    "how": "The tribe gains trust status over about 40 acres of land that was previously federal land managed by the Bureau of Land Management."
+   },
+   {
+    "group": "Residents and landowners near the parcel in El Dorado County",
+    "how": "The land moves out of federal management and into tribal trust, which changes which government holds and manages it."
+   },
+   {
+    "group": "Visitors and businesses seeking tribal gaming in the area",
+    "how": "Class II and class III gaming are not allowed on the transferred land."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

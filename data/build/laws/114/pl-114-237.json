@@ -39,5 +39,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law updates the Packers and Stockyards Act so online and electronic livestock sales are clearly covered as marketing agency activity, with a $250,000 annual threshold, and allows electronic payment methods for prompt payment.",
+  "what_it_does": "The law changes the definition of \"marketing agency\" in the Packers and Stockyards Act of 1921 to include anyone who buys or sells livestock for a commission or fee using online, video, or other electronic methods. It exempts anyone whose average yearly electronic livestock sales on a commission or fee basis are under $250,000. It also allows the Department of Agriculture to accept electronic funds transfers and other quick payment methods as ways to meet the prompt payment rules for livestock purchases.",
+  "who_it_affects": [
+   {
+    "group": "Livestock marketing agencies that sell animals online or by video on a commission or fee basis",
+    "how": "They are treated as covered marketing agencies under the Packers and Stockyards Act if their average annual electronic sales exceed $250,000."
+   },
+   {
+    "group": "Small electronic livestock sellers with average annual electronic sales under $250,000",
+    "how": "They are not counted as marketing agencies under this definition, so they fall outside this part of the Act."
+   },
+   {
+    "group": "Livestock buyers and sellers who use electronic payment systems",
+    "how": "Electronic funds transfers and other fast payment methods approved by the Department of Agriculture can be used to meet prompt payment requirements for livestock purchases."
+   }
+  ],
+  "when_it_takes_effect": "The law took effect when it was enacted on October 7, 2016, though the Department of Agriculture's decisions about which payment methods count are made separately.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

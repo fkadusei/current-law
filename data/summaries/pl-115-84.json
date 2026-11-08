@@ -1,0 +1,24 @@
+{
+ "headline": "A 2017 law changes how federal employees and Members of Congress can take money out of their Thrift Savings Plan accounts.",
+ "what_it_does": "Before this law, people with Thrift Savings Plan accounts could make only one partial withdrawal after reaching age 59 and a half while still working, or one withdrawal after retiring. The law allows an unlimited number of these withdrawals. It also removes the automatic annuity that applied when a participant did not choose an annuity, and it removes the limit on age-based withdrawals while still employed.",
+ "who_it_affects": [
+  {
+   "group": "Current and former federal employees with Thrift Savings Plan accounts",
+   "how": "They can take more than one withdrawal under the age-based and post-retirement rules instead of only one."
+  },
+  {
+   "group": "Members of Congress with Thrift Savings Plan accounts",
+   "how": "They can take an unlimited number of withdrawals under the same rules instead of only one."
+  },
+  {
+   "group": "Participants who do not make an annuity election",
+   "how": "They no longer receive an automatic annuity as the default outcome if they do not choose one."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

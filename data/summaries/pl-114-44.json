@@ -1,0 +1,24 @@
+{
+ "headline": "This law extends a limited antitrust exemption for colleges that admit students without regard to ability to pay, and it removes one way those colleges could share financial data.",
+ "what_it_does": "Colleges that admit all students on a need-blind basis can make agreements with each other about how they give need-based financial aid without breaking antitrust law. The extension runs through fiscal year 2022. The law also ends a permission that let these colleges share, through an independent third party, financial data a student or family submitted before aid was awarded. That sharing was allowed only if each college could get the data just once for each student.",
+ "who_it_affects": [
+  {
+   "group": "Colleges and universities that admit all students on a need-blind basis",
+   "how": "They keep an antitrust exemption that lets them coordinate how they administer need-based aid, but they can no longer share applicant financial data through an independent third party in the same way."
+  },
+  {
+   "group": "Students and families applying for need-based financial aid",
+   "how": "Financial information they submit may be shared among colleges through a different route than before, or not at all, depending on how each school handles aid data."
+  },
+  {
+   "group": "Financial institutions that submit financial data on behalf of families",
+   "how": "They are no longer covered by the permitted third-party data exchange that applied to data they submitted for aid applicants."
+  }
+ ],
+ "when_it_takes_effect": "The law took effect when it was enacted on August 6, 2015. The antitrust exemption it extends lasts through fiscal year 2022.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

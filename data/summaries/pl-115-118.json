@@ -1,0 +1,28 @@
+{
+ "headline": "This law reauthorizes a major foreign intelligence surveillance authority until 2023 and adds new limits, reporting duties, and oversight rules.",
+ "what_it_does": "The law extends Section 702 of FISA, which lets the government collect communications of non-U.S. persons located outside the United States, until December 31, 2023. It requires the Justice Department to set querying rules that must keep a record of each query term used to search for information about U.S. persons, and it limits how the FBI can review query results in some criminal cases without a court order. It also adds new reporting, oversight, whistle-blower protections for contractors, and a higher penalty for taking classified documents without authorization.",
+ "who_it_affects": [
+  {
+   "group": "U.S. persons whose communications may be swept into foreign intelligence collection",
+   "how": "Searches of collected data using their identifying information must be recorded and are subject to new querying rules and limits on use in criminal cases."
+  },
+  {
+   "group": "FBI agents and Justice Department attorneys",
+   "how": "They must follow new querying procedures, keep records of U.S. person query terms, and get a court order in certain criminal investigations before reviewing some query results."
+  },
+  {
+   "group": "Intelligence community contractors",
+   "how": "Contractor employees of the intelligence community and the FBI now have whistle-blower protections."
+  },
+  {
+   "group": "People who take or keep classified documents without authorization",
+   "how": "The maximum prison penalty for this offense increased from one year to five years."
+  }
+ ],
+ "when_it_takes_effect": "Signed into law on January 19, 2018, with the surveillance authority extended through December 31, 2023.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

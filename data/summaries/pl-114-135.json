@@ -1,0 +1,20 @@
+{
+ "headline": "This law updates the federal charter of the Disabled American Veterans group, clarifying its charitable purposes and where its leftover assets go if it dissolves.",
+ "what_it_does": "The law amends the federal charter for Disabled American Veterans, a nonprofit corporation. It says the group exists for charitable and educational purposes, including teaching the public about the sacrifices and needs of disabled veterans and teaching disabled veterans about benefits and resources available to them. It also says that if the group dissolves, any leftover assets after paying all debts go to the Department of Veterans Affairs to care for disabled veterans.",
+ "who_it_affects": [
+  {
+   "group": "Disabled American Veterans members",
+   "how": "The charter now spells out the group's educational and charitable purposes, including informing disabled veterans about available benefits and resources."
+  },
+  {
+   "group": "Disabled veterans",
+   "how": "If the organization dissolves, its remaining assets must go to the Department of Veterans Affairs for veterans' care."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on March 18, 2016, and the summary does not give a separate effective date.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

@@ -3509,5 +3509,28 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2023 law requires the FBI to use a team approach for child abuse cases and renews federal grants for children's advocacy centers.",
+  "what_it_does": "The law requires the Federal Bureau of Investigation to use a multidisciplinary team when it investigates child abuse and related crimes. A multidisciplinary team brings together people from different fields to work on a case. The law also reauthorizes grants for children's advocacy centers, which coordinate how child abuse cases are investigated, treated, and prosecuted.",
+  "who_it_affects": [
+   {
+    "group": "Children who have been abused and their families",
+    "how": "FBI child abuse investigations must use a team approach that includes multiple professional fields."
+   },
+   {
+    "group": "Children's advocacy centers",
+    "how": "These centers can receive renewed federal grant funding under the law."
+   },
+   {
+    "group": "FBI agents and staff who investigate child abuse and related crimes",
+    "how": "They must work with a multidisciplinary team when handling these cases."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on January 5, 2023; the official summary does not list any later effective dates.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

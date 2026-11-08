@@ -1,0 +1,28 @@
+{
+ "headline": "A 2020 law changes how the VA runs its caregiver programs for veterans, including notices, a possible 90-day benefit extension, and a study on recognizing caregivers in health records.",
+ "what_it_does": "The law requires the Department of Veterans Affairs to study whether it is feasible and advisable to formally identify caregivers in a veteran's electronic health record, and to put that recognition in place if the VA finds it workable. It requires the VA to use standardized letters when it makes certain decisions about help under the Program of Comprehensive Assistance for Family Caregivers. It also lets the VA keep paying benefits, including the monthly caregiver stipend, for 90 days when a veteran no longer qualifies only because their condition improved, and it sets discharge dates no earlier than 60 days after notice.",
+ "who_it_affects": [
+  {
+   "group": "Veterans enrolled in the VA Program of Comprehensive Assistance for Family Caregivers",
+   "how": "They may receive standardized written notices about decisions affecting their care assistance and could receive up to 90 more days of benefits, including the monthly stipend, if they lose eligibility only because their condition improved."
+  },
+  {
+   "group": "Family caregivers approved under the Program of Comprehensive Assistance for Family Caregivers",
+   "how": "They may be identified in the veteran's electronic health record if the VA decides that recognition is feasible and advisable, and they will get standardized notices about program decisions."
+  },
+  {
+   "group": "Caregivers participating in the Program of General Caregiver Support Services",
+   "how": "They may be formally recognized in the veteran's electronic health record if the VA determines that recognition is feasible and advisable."
+  },
+  {
+   "group": "Applicants to the VA caregiver program",
+   "how": "They will receive standardized letters explaining decisions about their applications with specified details."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on December 31, 2020; the VA's feasibility report and any later recognition rollout follow timelines set in the law, and discharge from the program cannot take effect earlier than 60 days after notice of lost eligibility.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

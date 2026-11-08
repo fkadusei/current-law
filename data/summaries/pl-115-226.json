@@ -1,0 +1,20 @@
+{
+ "headline": "A 2018 law that lets New Zealand citizens apply to enter the United States as traders or investors, if New Zealand gives the same access to Americans.",
+ "what_it_does": "The law makes New Zealand nationals eligible for nonimmigrant trader and investor status under the Immigration and Nationality Act. That status lets foreign citizens enter the U.S. to run trade or invest in a business. The eligibility depends on New Zealand providing reciprocal treatment to U.S. nationals.",
+ "who_it_affects": [
+  {
+   "group": "New Zealand nationals who want to trade or invest in the United States",
+   "how": "They become eligible to apply for trader or investor status to enter the U.S. once the reciprocity condition is met."
+  },
+  {
+   "group": "U.S. nationals who want to trade or invest in New Zealand",
+   "how": "The law's reciprocity condition means they may receive matching treatment from New Zealand, though the summary does not describe what that treatment would be."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on August 1, 2018, but New Zealand nationals only become eligible once New Zealand provides reciprocal treatment to U.S. nationals.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

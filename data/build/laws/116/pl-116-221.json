@@ -39,5 +39,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law reauthorizes the National Sea Grant College Program through fiscal year 2024 and makes several changes to how NOAA funds university coastal and ocean research.",
+  "what_it_does": "The law extends the National Sea Grant College Program, which NOAA uses to fund university-based work on coastal and ocean resources, through fiscal year 2024. It requires NOAA to award Dean John A. Knauss Marine Policy Fellowships, which were previously up to NOAA's discretion, and these place graduate students in federal executive and congressional offices. It also renews grants for research on invasive aquatic species, oyster diseases and restoration, and harmful algal blooms, plus fishery extension work. Finally, it authorizes grants for sustainable aquaculture research and for priority issues in the program's strategic plan.",
+  "who_it_affects": [
+   {
+    "group": "Graduate students in ocean, coastal, and Great Lakes fields",
+    "how": "They become eligible for Knauss fellowships that place them in executive or legislative branch offices, since NOAA must now award these fellowships."
+   },
+   {
+    "group": "University researchers in marine and coastal sciences",
+    "how": "They can seek reauthorized grants for work on nonnative species, oysters, harmful algal blooms, fisheries, and aquaculture."
+   },
+   {
+    "group": "Commercial fishers and aquaculture operators",
+    "how": "They may benefit from fishery extension activities and sustainable aquaculture research funded through sea grant programs."
+   },
+   {
+    "group": "Coastal communities",
+    "how": "They may see research and outreach funded through sea grant colleges on oysters, algal blooms, and invasive species."
+   }
+  ],
+  "when_it_takes_effect": "Enacted December 18, 2020, with the program authorized through fiscal year 2024.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

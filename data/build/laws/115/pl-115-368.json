@@ -3534,5 +3534,32 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "This law sets up a national plan and coordinated federal research effort to speed up the development of quantum information science and technology.",
+  "what_it_does": "The law directs the President to run a National Quantum Initiative Program with a 10-year plan for quantum information science, which uses the rules of quantum physics to store, send, handle, and measure information. It creates a federal subcommittee to guide the work and a national advisory committee to give advice on the program. It assigns specific research and standards tasks to the National Institute of Standards and Technology, the National Science Foundation, and the Department of Energy, including funding basic research programs and research centers.",
+  "who_it_affects": [
+   {
+    "group": "Researchers and universities working in quantum science",
+    "how": "They may be able to apply for federal grants for basic research and for multidisciplinary quantum research centers run by the National Science Foundation."
+   },
+   {
+    "group": "Department of Energy national laboratories and scientists",
+    "how": "The Department of Energy must run a basic research program and set up National Quantum Information Science Research Centers."
+   },
+   {
+    "group": "Companies in the quantum technology industry",
+    "how": "The National Institute of Standards and Technology must work with industry to identify future measurement, standards, and cybersecurity needs for the field."
+   },
+   {
+    "group": "Federal agencies such as NIST, NASA, NSF, and DOE",
+    "how": "They must carry out specified quantum activities and coordinate through a new federal subcommittee."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -39,5 +39,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law tells the Treasury Department to create new quarter, half dollar, and dollar coins with designs honoring women, American youth sports, Paralympic sports, and the 250th anniversary of the nation.",
+  "what_it_does": "The law directs the Treasury Department to issue quarters honoring up to five prominent American women each year, starting in 2022. Starting in 2026, Treasury may issue quarters and dollar coins themed on the semiquincentennial, which is the 250th anniversary of the nation, and one quarter design must recognize women's contributions to American history. Starting in 2027, Treasury must issue quarters showing youth sports and half dollars showing Paralympic sports, and it may make related medals, including ones for the 2028 Olympic and Paralympic Games in Los Angeles. The law also allows bullion versions of these coins, sets rules against certain portraits on coin reverses, and bars any coin or medal from being sold at a price that would cost the government money overall.",
+  "who_it_affects": [
+   {
+    "group": "coin collectors",
+    "how": "They would have new commemorative quarters, half dollars, and dollar coins to collect, along with optional medals and bullion versions."
+   },
+   {
+    "group": "Treasury Department and U.S. Mint",
+    "how": "They must design, mint, and issue the new coins on the schedules set in the law and may run a promotional program for them."
+   },
+   {
+    "group": "U.S. Olympic & Paralympic Committee",
+    "how": "Treasury may provide the 2028 Paralympic medals to the committee for the Los Angeles Games."
+   },
+   {
+    "group": "women profiled on commemorative coins",
+    "how": "Up to five prominent American women each year could be honored on quarters beginning in 2022."
+   }
+  ],
+  "when_it_takes_effect": "Coin issuance begins January 1, 2022, with additional coin programs starting January 1, 2026, and January 1, 2027.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

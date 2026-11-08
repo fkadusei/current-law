@@ -1,0 +1,28 @@
+{
+ "headline": "A 2015 law requiring the VA to evaluate and report on its mental health and suicide prevention programs, and to launch several pilot programs aimed at veterans' mental health care.",
+ "what_it_does": "The law requires the Department of Veterans Affairs to arrange independent evaluations of its mental health and suicide prevention programs and report the results to Congress. It also sets up a central website with mental health care information for veterans, updated at least every 90 days. Three-year pilot programs cover loan repayment for VA psychiatrists, peer support and community outreach at selected VA regions, and partnerships with nonprofit mental health groups. The law also extends by one year a VA health care eligibility window for certain combat veterans discharged between 2009 and 2011, and it bars any new appropriations for these provisions.",
+ "who_it_affects": [
+  {
+   "group": "Veterans who use VA mental health care",
+   "how": "They gain a central website with VA mental health information and new peer support and community outreach programs in selected VA regions."
+  },
+  {
+   "group": "Psychiatrists and psychiatry residents interested in VA careers",
+   "how": "They may qualify for loan repayment of up to $30,000 per year of obligated VA service under a three-year pilot program."
+  },
+  {
+   "group": "Combat veterans discharged from active duty between January 2009 and January 2011",
+   "how": "They could keep eligibility for VA hospital, medical, and nursing home care for illnesses not proven to be service-connected for one additional year, if they did not enroll during their five-year eligibility period."
+  },
+  {
+   "group": "Nonprofit mental health organizations",
+   "how": "They may be selected by the VA to collaborate on veteran suicide prevention, including exchanging training and best practices."
+  }
+ ],
+ "when_it_takes_effect": "The law took effect on enactment, February 12, 2015, with reporting and evaluation deadlines running from 2016 through 2018 and beyond.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

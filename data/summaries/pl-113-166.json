@@ -1,0 +1,28 @@
+{
+ "headline": "A 2014 federal law updates NIH muscular dystrophy research programs, data sharing, and coordination among federal agencies.",
+ "what_it_does": "The law changes the federal muscular dystrophy research program run by the National Institutes of Health. It widens the forms of muscular dystrophy covered and requires research centers to study heart and lung function. It also adds the Social Security Administration and the Administration for Community Living to the federal coordinating committee, which must meet at least twice a year. Finally, it asks HHS to share epidemiological data more widely and lets HHS work with patient groups on care guidelines for children and adults.",
+ "who_it_affects": [
+  {
+   "group": "People with muscular dystrophy",
+   "how": "The research and care guidance changes are meant to cover more forms of the disease, including heart, lung, and adult health needs."
+  },
+  {
+   "group": "Researchers at NIH-funded muscular dystrophy cooperative research centers",
+   "how": "They must include cardiac and pulmonary function research and share data with other centers as directed by the NIH Director."
+  },
+  {
+   "group": "Federal agencies on the Muscular Dystrophy Coordinating Committee",
+   "how": "The Social Security Administration and the Administration for Community Living are added to the committee, which must meet at least twice yearly."
+  },
+  {
+   "group": "Health care providers treating patients with muscular dystrophy",
+   "how": "HHS may work with professional groups to issue care considerations for pediatric and adult patients, including acute care guidance."
+  }
+ ],
+ "when_it_takes_effect": "The law took effect when it was enacted on September 26, 2014, though the summary does not set specific deadlines for most provisions.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

@@ -36,5 +36,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law directs the VA to set up three new mental health centers for rural veterans and asks the GAO to study whether the VA has enough resources for them.",
+  "what_it_does": "The law requires the Department of Veterans Affairs to create and keep three new centers of the RANGE Program during fiscal year 2022. RANGE stands for Rural Access Network for Growth Enhancement, and it serves rural veterans who have mental illness. The centers are to be placed in areas where there is interest from personnel and a need for more mental health care. The law also requires the Government Accountability Office to study and report on whether the VA has enough resources to serve rural veterans who need more intensive mental health care than regular outpatient therapy.",
+  "who_it_affects": [
+   {
+    "group": "Rural veterans with mental illness",
+    "how": "They may get access to RANGE Program mental health services at three new centers in their areas."
+   },
+   {
+    "group": "Department of Veterans Affairs",
+    "how": "The VA must set up and maintain three new RANGE centers during fiscal year 2022."
+   },
+   {
+    "group": "Government Accountability Office",
+    "how": "The GAO must study whether the VA has enough resources for rural veterans needing more intensive mental health care and report its findings."
+   }
+  ],
+  "when_it_takes_effect": "The center requirement applies during fiscal year 2022, which ran from October 2021 to September 2022. The law was enacted June 30, 2021.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -3527,5 +3527,32 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2017 law lets the VA hire outside accreditation groups to inspect VA medical centers and report facility problems.",
+  "what_it_does": "The law allows the Department of Veterans Affairs to contract with a nonprofit organization that accredits health care programs to investigate a VA medical center and report deficiencies in its facilities. The VA must give this authority to the regional Veterans Integrated Service Network (VISN) that oversees the center, or to the center's director. Before signing such a contract, the VISN or center director must notify the VA, the VA Inspector General, and the Government Accountability Office so that the investigation can be coordinated with any other ongoing reviews. The summary covers only Section 2 of the law, so other parts may not be described here.",
+  "who_it_affects": [
+   {
+    "group": "Veterans who receive care at VA medical centers",
+    "how": "Their facilities may be inspected by outside accreditation organizations, and the findings could lead to repairs or other changes at their local center."
+   },
+   {
+    "group": "VA medical center directors and VISN directors",
+    "how": "They gain the authority to hire an outside accreditation nonprofit to investigate their centers, and they must notify the VA, the VA Inspector General, and the GAO before signing a contract."
+   },
+   {
+    "group": "VA Inspector General and Government Accountability Office",
+    "how": "They must be notified before a contracted investigation starts so that it can be coordinated with their other ongoing reviews."
+   },
+   {
+    "group": "Nonprofit health care accreditation organizations",
+    "how": "They can contract with the VA to investigate VA medical centers and report facility deficiencies."
+   }
+  ],
+  "when_it_takes_effect": "The summary does not state a specific effective date. The law was enacted on December 20, 2017.",
+  "ceremonial": false,
+  "confidence": "low",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

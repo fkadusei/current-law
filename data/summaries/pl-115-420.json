@@ -1,0 +1,32 @@
+{
+ "headline": "A 2019 law moves some Department of Transportation reports online, ends several DOT advisory groups, and adds a few reporting duties for rail and maritime programs.",
+ "what_it_does": "The law makes certain DOT reports available on the department's website instead of only sending them to Congress. It ends specified DOT advisory councils and committees, including the National Rail Cooperative Research Program advisory board, which was terminated effective January 1, 2019. The Northeast Corridor Safety Committee will end once positive train control, an automated rail safety system, is fully installed on the Northeast rail corridor. It also requires Amtrak to report on Northeast Corridor safety and security efforts as part of its grant requests, and requires changes to U.S. Merchant Marine Academy charges and fees to be posted online.",
+ "who_it_affects": [
+  {
+   "group": "Amtrak passengers and rail workers on the Northeast Corridor",
+   "how": "The Northeast Corridor Safety Committee will end after positive train control is fully in place, and Amtrak must report on its safety and security progress when requesting federal grants."
+  },
+  {
+   "group": "Members of the ended DOT advisory boards and committees",
+   "how": "Their advisory roles are eliminated, including the National Rail Cooperative Research Program advisory board."
+  },
+  {
+   "group": "U.S. Merchant Marine Academy cadets and their families",
+   "how": "Changes to the academy's charges and fees must now be posted publicly online."
+  },
+  {
+   "group": "State highway safety agencies",
+   "how": "DOT must publish each state's highway safety performance online, and the Government Accountability Office must report on state highway safety programs."
+  },
+  {
+   "group": "Members of the public who follow transportation policy",
+   "how": "Biennial reports on federal environmental review coordination for transportation projects and state highway safety performance are now posted on DOT's website."
+  }
+ ],
+ "when_it_takes_effect": "Enacted January 3, 2019; the advisory board termination for the National Rail Cooperative Research Program is effective January 1, 2019, and the Northeast Corridor committee ends when positive train control is fully implemented.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

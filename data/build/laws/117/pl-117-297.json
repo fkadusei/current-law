@@ -3496,5 +3496,32 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2022 law changes how VA education benefits are handled for veterans who transfer fewer than 12 credits from a school that closed or lost approval.",
+  "what_it_does": "Veterans who move fewer than 12 credits from a closed or disapproved school can now certify that in writing, and the VA must accept that certification as proof. The VA must give these veterans a certificate of eligibility showing their full education benefit and must tell eligible people they can make this certification. If a veteran later transfers 12 or more credits, the VA must take back that certificate and the veteran cannot be treated as if they never received those credits. The law also drops a rule that required Post-9/11 GI Bill transferors to list a specific time period for each dependent receiving the transfer.",
+  "who_it_affects": [
+   {
+    "group": "Veterans using VA education benefits who were enrolled in a program that closed or lost VA approval",
+    "how": "They can certify in writing that they transferred fewer than 12 credits and keep their full benefit entitlement instead of losing that time."
+   },
+   {
+    "group": "Veterans who transfer 12 or more credits from a closed or disapproved program",
+    "how": "The VA must cancel the certificate of eligibility they received, and they cannot be treated as if they did not receive those credits."
+   },
+   {
+    "group": "Service members and veterans who transfer Post-9/11 GI Bill benefits to dependents",
+    "how": "They no longer have to specify the length of the transfer period for each dependent designated to receive the benefit."
+   },
+   {
+    "group": "Department of Veterans Affairs staff who process education benefits",
+    "how": "They must collect written certifications, issue certificates of eligibility, rescind certificates when required, and notify eligible veterans."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on December 27, 2022, and the summary does not list a separate effective date.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

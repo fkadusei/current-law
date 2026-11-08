@@ -3514,5 +3514,28 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "This law lets injured federal first responders keep their early-retirement benefits even after moving to a regular civil service job.",
+  "what_it_does": "Federal first responders such as law enforcement officers, customs and border protection officers, and firefighters usually must retire at age 57 and pay a higher share of salary toward retirement. This law lets a disabled first responder keep these benefits as if they had not been disabled. If an injured first responder is moved to a civil service job outside the first responder system after returning from a work injury or illness, they can stay in that system. If they leave federal service before they can collect an annuity, they may get a refund of their higher retirement contributions.",
+  "who_it_affects": [
+   {
+    "group": "Federal law enforcement officers",
+    "how": "Officers who are disabled by a work-related injury or illness can keep their early-retirement benefits and the accelerated retirement system if they return to a different civil service job."
+   },
+   {
+    "group": "Federal firefighters",
+    "how": "Firefighters who are disabled on the job can keep their accelerated retirement benefits and may get a refund of extra contributions if they leave service before receiving an annuity."
+   },
+   {
+    "group": "Customs and border protection officers",
+    "how": "Officers injured on the job can stay in the accelerated retirement system after moving to a non-first-responder federal job, and may get a refund of extra contributions if they leave before receiving an annuity."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on December 9, 2022. The official summary does not list any later effective dates.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

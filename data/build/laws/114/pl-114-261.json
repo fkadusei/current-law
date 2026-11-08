@@ -39,5 +39,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law expands whistleblower protections for employees of certain federal contractors and grantees, and makes a civilian pilot program permanent.",
+  "what_it_does": "The law extends existing whistleblower protections to employees of personal services contractors working on defense contracts and on federal civilian contracts. It also extends those protections to subgrantees on civilian contracts. A pilot program that protected civilian contractor employees is made permanent. The law also extends a rule barring reimbursement of legal fees that companies spend defending against whistleblower reprisal claims to defense and civilian subcontractors and personal services contractors.",
+  "who_it_affects": [
+   {
+    "group": "Employees of personal services contractors working on defense contracts",
+    "how": "They gain the same whistleblower protections that employees of defense contractors, subcontractors, grantees, and subgrantees already had."
+   },
+   {
+    "group": "Employees of personal services contractors and subgrantees working on federal civilian contracts",
+    "how": "They gain whistleblower protections that previously applied to employees of civilian contractors, subcontractors, and grantees."
+   },
+   {
+    "group": "Employees of civilian contractors",
+    "how": "Their whistleblower protections were a temporary pilot program, and the law makes those protections permanent."
+   },
+   {
+    "group": "Defense and civilian subcontractors and personal services contractors",
+    "how": "They are barred from being reimbursed by the government for legal fees spent defending against whistleblower reprisal claims, the same limit that already applied to other contractors."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -39,5 +39,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law creates a new SEC office to help small businesses and small investors raise money and deal with securities regulators.",
+  "what_it_does": "The law creates an Office of the Advocate for Small Business Capital Formation inside the Securities and Exchange Commission. The Advocate helps small businesses and small investors solve problems with the SEC or self-regulatory groups, reviews how SEC rules affect them, and proposes changes. The law also creates a Small Business Capital Formation Advisory Committee that gives the SEC advice, and it requires the SEC to say what it plans to do about that advice.",
+  "who_it_affects": [
+   {
+    "group": "Small businesses seeking to raise money",
+    "how": "They can get help from the new Advocate when they have trouble getting access to capital or dealing with SEC rules."
+   },
+   {
+    "group": "Minority-owned and women-owned small businesses",
+    "how": "The Advocate must look at the extra obstacles these businesses face when trying to get funding."
+   },
+   {
+    "group": "Small investors",
+    "how": "They can ask the Advocate for help with problems involving the SEC or self-regulatory organizations."
+   },
+   {
+    "group": "Publicly traded companies with less than $250 million in public market value",
+    "how": "The advisory committee gives the SEC advice on rules for offerings, trading, and reporting that affect them."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

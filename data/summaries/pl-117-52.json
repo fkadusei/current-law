@@ -1,0 +1,28 @@
+{
+ "headline": "A short-term law that keeps current federal highway, transit, and safety funding levels in place through early December 2021.",
+ "what_it_does": "The law extends fiscal year 2021 funding levels for federal highway, public transit, and highway safety programs through December 3, 2021. It also extends spending authority through December 4, 2021 for three trust funds: the Highway Trust Fund, the Sport Fish Restoration and Boating Trust Fund, and the Leaking Underground Storage Tank Trust Fund. The bill is a stopgap that keeps these programs running while Congress works on longer-term legislation.",
+ "who_it_affects": [
+  {
+   "group": "State departments of transportation",
+   "how": "They can keep receiving federal highway funds at the prior year's levels through December 3, 2021."
+  },
+  {
+   "group": "Public transit agencies and their riders",
+   "how": "Transit systems can keep receiving federal transit funding at the prior year's levels through December 3, 2021."
+  },
+  {
+   "group": "Boaters and anglers",
+   "how": "The Sport Fish Restoration and Boating Trust Fund, which supports boating and fishing programs, can keep spending through December 4, 2021."
+  },
+  {
+   "group": "Owners and operators of underground fuel storage tanks",
+   "how": "The Leaking Underground Storage Tank Trust Fund, which pays for cleanup of leaks from these tanks, can keep spending through December 4, 2021."
+  }
+ ],
+ "when_it_takes_effect": "Enacted October 31, 2021. Highway, transit, and safety funding runs through December 3, 2021, and trust fund spending authority runs through December 4, 2021.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

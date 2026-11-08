@@ -33,5 +33,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2022 law labels methamphetamine an emerging drug threat and directs the White House drug policy office to create a response plan.",
+  "what_it_does": "The law designates methamphetamine as an emerging drug threat, meaning a new and growing trend in the use of an illicit drug. It directs the Office of National Drug Control Policy to put a methamphetamine response plan into effect. The official summary does not list specific penalties, funding amounts, or new rules for individuals.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "Enacted March 14, 2022. The summary does not mention a separate effective date.",
+  "ceremonial": false,
+  "confidence": "low",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -39,5 +39,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law changes how the Small Business Administration measures whether a business counts as small, using a longer five-year average of its receipts.",
+  "what_it_does": "The law amends the Small Business Act, which governs how the federal government defines a small business. It changes the rules for setting size standards so they use average annual gross receipts over at least the previous five years. The current rule uses three years. The official summary does not describe any other changes.",
+  "who_it_affects": [
+   {
+    "group": "Small businesses that seek to qualify as small under federal size standards",
+    "how": "Their eligibility may be judged using a five-year average of gross receipts instead of a three-year average."
+   },
+   {
+    "group": "Businesses that bid on or hold federal contracts set aside for small businesses",
+    "how": "Whether they meet small business size limits for those contracts may depend on the longer averaging period."
+   },
+   {
+    "group": "Federal agencies and the Small Business Administration",
+    "how": "They must calculate size standards using the five-year receipts period when they set or revise those standards."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

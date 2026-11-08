@@ -3528,5 +3528,32 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2018 law renews and updates federal grant programs that fund Alzheimer's and dementia work through the Department of Health and Human Services.",
+  "what_it_does": "The law reauthorizes, or extends, federal grant programs for Alzheimer's disease and related dementias through fiscal year 2024. It directs HHS to support regional centers that address these conditions, including through public awareness campaigns. It also requires HHS to collect data on how many people have these conditions and how often new cases occur. Finally, it directs HHS to award cooperative agreements to state and local health departments to reduce cognitive decline and help caregivers.",
+  "who_it_affects": [
+   {
+    "group": "People living with Alzheimer's disease or other dementias",
+    "how": "Programs funded under the law may offer public awareness, support, and efforts aimed at slowing cognitive decline."
+   },
+   {
+    "group": "Family members and other unpaid caregivers",
+    "how": "Health department grants under the law are meant to help caregivers, though the summary does not describe specific services."
+   },
+   {
+    "group": "State and local health departments",
+    "how": "They may apply for or receive cooperative agreement funding from HHS to address Alzheimer's and dementia."
+   },
+   {
+    "group": "Public health researchers and data users",
+    "how": "HHS is directed to collect data on the incidence and prevalence of these conditions, which may become available for study."
+   }
+  ],
+  "when_it_takes_effect": "Enacted December 31, 2018; the grant authorizations run through fiscal year 2024.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

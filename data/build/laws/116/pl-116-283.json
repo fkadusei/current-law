@@ -4349,5 +4349,40 @@
   "House": "D",
   "Senate": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "The FY2021 National Defense Authorization Act sets policy and authorizes spending limits for the Department of Defense and related national security programs for fiscal year 2021.",
+  "what_it_does": "This law authorizes money the Department of Defense and related agencies may spend in fiscal year 2021, but it does not provide the actual funds, which come later through separate appropriations bills. It also sets rules and policies on military personnel, health care, pay and benefits, acquisition, COVID-19 matters, cyber and space activities, and intelligence. The law further covers the Coast Guard, anti-money laundering and terrorist financing measures, artificial intelligence research through a National Artificial Intelligence Initiative, and several other federal topics.",
+  "who_it_affects": [
+   {
+    "group": "Active duty and reserve members of the Armed Forces",
+    "how": "The law sets authorized personnel strengths and policies on military pay, benefits, and health care for these service members."
+   },
+   {
+    "group": "Veterans",
+    "how": "The law includes provisions on veterans affairs matters, though the summary does not give specific details."
+   },
+   {
+    "group": "Coast Guard personnel",
+    "how": "The law reauthorizes the Coast Guard and includes measures about its personnel and organization."
+   },
+   {
+    "group": "Defense contractors and shipbuilders",
+    "how": "The law authorizes funding for procurement of aircraft, weapons, combat vehicles, ships, and missiles, and sets acquisition policy that affects how these are bought."
+   },
+   {
+    "group": "Banks and financial institutions",
+    "how": "The law expands information sharing requirements among agencies working on anti-money laundering and countering terrorist financing, and authorizes related training and technical assistance."
+   },
+   {
+    "group": "National Guard and Reserve members",
+    "how": "The law sets policies on National Guard and Reserve facilities and related personnel matters."
+   }
+  ],
+  "when_it_takes_effect": "Enacted January 1, 2021, with authorized spending applying to fiscal year 2021; specific provisions may have their own effective dates that the summary does not list.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

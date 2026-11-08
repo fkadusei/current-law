@@ -39,5 +39,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2015 federal law defines remanufactured vehicle parts and directs federal agencies to use them for government vehicles when they cut costs without lowering quality.",
+  "what_it_does": "The law defines a remanufactured vehicle component as a part, such as an engine, transmission, alternator, starter, turbocharger, or steering or suspension component, that is restored to same-as-new or better condition through a standardized industrial process with set engineering, quality, and testing standards. It directs the head of each federal agency to encourage using these parts to maintain federal vehicles when doing so lowers maintenance costs while keeping quality. It also directs agencies not to encourage them when they do not lower costs, reduce vehicle performance quality, or delay getting a vehicle back into service.",
+  "who_it_affects": [
+   {
+    "group": "Federal agencies",
+    "how": "Agency heads must encourage the use of remanufactured parts for their vehicles when the parts lower maintenance costs without reducing quality."
+   },
+   {
+    "group": "Federal vehicle maintenance staff and fleet managers",
+    "how": "People who repair and maintain government vehicles may be asked to consider remanufactured parts when they meet the cost, quality, and speed conditions in the law."
+   },
+   {
+    "group": "Companies that remanufacture vehicle parts",
+    "how": "The law sets a standard definition for remanufactured parts that could affect federal purchasing decisions, though the summary does not describe any direct requirement for these companies."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

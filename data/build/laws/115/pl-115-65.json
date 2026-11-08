@@ -36,5 +36,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Congress directed the Treasury to mint commemorative coins honoring the American Legion's 100th anniversary, with sales surcharges going to the Legion.",
+  "what_it_does": "The law requires the Treasury Department to make and issue gold, silver, and half-dollar clad commemorative coins marking the 100th anniversary of the American Legion. Treasury may issue these coins only during a one-year period starting January 1, 2019. Every sale of these coins includes a surcharge: $35 per gold coin, $10 per silver coin, and $5 per half-dollar coin. The surcharge money is paid to the American Legion to support caring for people who have served or are serving in the armed forces, and programs promoting patriotic values, strong families, and help for at-risk children.",
+  "who_it_affects": [
+   {
+    "group": "Coin buyers and collectors",
+    "how": "People who purchase these commemorative coins pay the face price plus the per-coin surcharge during the one-year sales window."
+   },
+   {
+    "group": "The American Legion",
+    "how": "The organization receives the surcharge money from coin sales to use for its veterans-care and family-support work."
+   },
+   {
+    "group": "Veterans and military service members",
+    "how": "Veterans and active-duty members may benefit indirectly through the Legion's programs funded by the surcharges."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on October 6, 2017, and coin issuance is limited to a one-year period beginning January 1, 2019.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

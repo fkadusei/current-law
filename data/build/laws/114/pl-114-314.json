@@ -36,5 +36,20 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2016 law changes the boundaries of certain Coastal Barrier Resources System units in Middlesex and Monmouth Counties, New Jersey.",
+  "what_it_does": "The law revises the mapped edges of some units in the John H. Chafee Coastal Barrier Resources System located in Middlesex and Monmouth Counties, New Jersey. The official summary does not say which specific areas were added or removed. It also does not describe the federal rules that would change for any property as a result.",
+  "who_it_affects": [
+   {
+    "group": "Owners of land inside the affected Coastal Barrier Resources System units in Middlesex and Monmouth Counties, New Jersey",
+    "how": "Their property may fall inside or outside the revised unit boundaries, but the summary does not say which properties changed."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on December 16, 2016, and the summary does not give a separate effective date.",
+  "ceremonial": false,
+  "confidence": "low",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

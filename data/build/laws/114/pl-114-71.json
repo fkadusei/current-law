@@ -33,5 +33,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Congress extended the U.S. Commission on International Religious Freedom for four more years, through September 30, 2019, and changed some of its internal planning rules.",
+  "what_it_does": "The law keeps the U.S. Commission on International Religious Freedom (USCIRF) running until September 30, 2019. It states that Congress wants the commission to independently assess threats to religious freedom worldwide and to make sure U.S. efforts abroad are timely, prudent, and effective. The commission's Chair and Vice Chair must complete a strategic review at least every two years and send a plan to Congress covering priorities, reports, staffing, and funding. The law also lets the commission carry out certain staffing and report changes from that plan even if they differ from its usual rules, and requires it to share information with Congress when asked.",
+  "who_it_affects": [
+   {
+    "group": "Members and staff of the U.S. Commission on International Religious Freedom",
+    "how": "The commission's existence is extended, and its leaders must produce strategic plans and follow new rules for approving certain staffing and report changes."
+   },
+   {
+    "group": "Members of Congress and their committees",
+    "how": "They can request testimony and information from the commission, and they receive the commission's strategic plans."
+   },
+   {
+    "group": "Religious communities and advocates abroad",
+    "how": "The commission continues its work assessing religious freedom conditions in other countries, which may inform U.S. policy."
+   }
+  ],
+  "when_it_takes_effect": "Enacted October 16, 2015; the commission's termination date is extended to September 30, 2019.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

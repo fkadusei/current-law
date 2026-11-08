@@ -1,0 +1,36 @@
+{
+ "headline": "This law creates a formal TSA advisory committee made up of aviation industry, labor, and advocacy groups to advise on airline security.",
+ "what_it_does": "The law directs the TSA to set up an aviation security advisory committee. The TSA must consult this committee on aviation security matters, and the committee can give recommendations when the TSA asks for them. Members can represent up to 34 organizations across the aviation field. The committee also has four subcommittees covering air cargo, general aviation, airport perimeter and access control, and security technology, and each must consider risk-based security approaches.",
+ "who_it_affects": [
+  {
+   "group": "Air carriers and all-cargo air transportation companies",
+   "how": "They can hold seats on the advisory committee and help shape recommendations on aviation security."
+  },
+  {
+   "group": "Airport operators and airport-based businesses",
+   "how": "They can be represented on the committee, and the airport perimeter and access control subcommittee will look at their security concerns."
+  },
+  {
+   "group": "Transportation security officers and other airline and airport workers",
+   "how": "Labor organizations representing these workers can have members on the committee."
+  },
+  {
+   "group": "General aviation operators",
+   "how": "They are represented on the committee and have their own subcommittee focused on their security issues."
+  },
+  {
+   "group": "Passengers and privacy and passenger advocacy groups",
+   "how": "Groups representing passengers and privacy interests can take part in advising the TSA."
+  },
+  {
+   "group": "Aviation security technology companies",
+   "how": "Firms in screening technology and biometrics can be represented, and a security technology subcommittee will review their area."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

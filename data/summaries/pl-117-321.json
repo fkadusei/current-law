@@ -1,0 +1,24 @@
+{
+ "headline": "This law requires the Bureau of Prisons to review and upgrade its security camera, radio, and public address systems in federal prisons.",
+ "what_it_does": "The law sets requirements for the cameras, radios, and public address systems used in federal prisons. The systems must be able to protect the health and safety of staff and inmates. They must also keep video evidence of misconduct, mistreatment, or crimes documented and easy to access. The Bureau of Prisons must check the systems it uses now, then make a plan to fix problems and upgrade them.",
+ "who_it_affects": [
+  {
+   "group": "People incarcerated in federal prisons",
+   "how": "Their facilities must have upgraded cameras and communication systems that help keep them safe and preserve video evidence of misconduct."
+  },
+  {
+   "group": "Federal Bureau of Prisons staff",
+   "how": "They must work with equipment that the agency reviews, repairs, or replaces under a required plan."
+  },
+  {
+   "group": "People involved in misconduct or maltreatment complaints inside federal prisons",
+   "how": "Video evidence from prison systems must be documented and accessible, which may affect how such complaints are investigated."
+  }
+ ],
+ "when_it_takes_effect": "The summary does not state a specific effective date or deadline for the Bureau of Prisons plan. The law was enacted on December 27, 2022.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

@@ -39,5 +39,20 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2022 law that changes the boundary of the Red River National Wildlife Refuge in Louisiana.",
+  "what_it_does": "The law changes the edges of the Red River National Wildlife Refuge in Louisiana. The official summary does not say which lands are added or removed, or what rules apply to them. Reading the full bill text would give those details.",
+  "who_it_affects": [
+   {
+    "group": "Landowners and land users near or inside the refuge",
+    "how": "People whose property sits in the area whose boundary changed may be affected, but the summary does not say how."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted December 27, 2022. The summary does not state a separate effective date.",
+  "ceremonial": false,
+  "confidence": "low",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

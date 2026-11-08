@@ -3534,5 +3534,28 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "Directs the Interior Department to give a Wyoming recreation district BLM land used as a shooting range, at no cost, with conditions attached.",
+  "what_it_does": "The Secretary of the Interior must convey, without payment, BLM land in the Wind River District known as the Powell Gun Club to the Powell Recreation District in Wyoming. The land must be used as a shooting range or for another public purpose allowed under the Recreation and Public Purposes Act. If the land stops serving a public purpose, the Secretary may require it to return to the United States. The district must pay survey and other administrative costs, including environmental, wildlife, cultural, and historical studies, and must release the United States from claims arising from past uses of the land.",
+  "who_it_affects": [
+   {
+    "group": "Powell Recreation District in Wyoming",
+    "how": "It receives the BLM land at no cost but must pay the survey, transfer, and study costs and agree in writing to release and indemnify the United States from claims tied to earlier uses."
+   },
+   {
+    "group": "People who use the Powell Gun Club shooting range",
+    "how": "The range is expected to continue as a shooting range or similar public use under the district's control, but the land could return to federal ownership if it stops serving a public purpose."
+   },
+   {
+    "group": "Bureau of Land Management in the Wind River District",
+    "how": "The agency must transfer title to this parcel and stop managing it as federal land once the conveyance is completed."
+   }
+  ],
+  "when_it_takes_effect": "The act took effect on enactment, September 18, 2013, but the summary does not give a set date for completing the land transfer.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -42,5 +42,24 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This 2020 law cancels an 1865 supplemental treaty between the United States and the Confederated Tribes and Bands of Indians of Middle Oregon.",
+  "what_it_does": "The law declares the 1865 supplemental treaty nullified, meaning it no longer has legal force. The treaty had limited tribal members' ability to leave the reservation and set other conditions. According to the Department of the Interior, the federal government and the state of Oregon never enforced the treaty.",
+  "who_it_affects": [
+   {
+    "group": "Members of the Confederated Tribes and Bands of Indians of Middle Oregon",
+    "how": "The 1865 treaty's restrictions on leaving the reservation and other conditions no longer apply to them."
+   },
+   {
+    "group": "The federal government and the state of Oregon",
+    "how": "They are no longer bound by the 1865 supplemental treaty's terms."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on October 20, 2020; the summary does not describe a separate effective date.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

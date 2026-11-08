@@ -1,0 +1,28 @@
+{
+ "headline": "This 2014 law excludes certain tribal general welfare benefits from federal income tax and directs the Treasury to set up an advisory committee and IRS training.",
+ "what_it_does": "The law changes the Internal Revenue Code so that the value of an Indian general welfare benefit is not counted as gross income for federal income tax. To qualify, the benefit must come from a tribal government program that is administered under set guidelines and does not favor the tribal governing body. The benefit must also be open to any tribal member, promote general welfare, be neither lavish nor extravagant, and not be pay for services. The Treasury Secretary must also create a Tribal Advisory Committee, require IRS field agents to receive training on federal Indian law and this Act, and suspend certain audits and waive related interest and penalties.",
+ "who_it_affects": [
+  {
+   "group": "Members of Indian tribes who receive tribal welfare benefits",
+   "how": "Qualifying benefits they receive from a tribal government program are excluded from their federal taxable income."
+  },
+  {
+   "group": "Indian tribal governments",
+   "how": "Their qualifying general welfare programs fall under the exclusion, and audits and examinations of tribal governments are suspended under the Act."
+  },
+  {
+   "group": "IRS field agents",
+   "how": "They must receive training on federal Indian law and on how this Act is carried out."
+  },
+  {
+   "group": "Members of the Tribal Advisory Committee",
+   "how": "The committee is created to advise the Treasury Secretary on how Indians are taxed."
+  }
+ ],
+ "when_it_takes_effect": "The summary does not give a specific effective date. The law was enacted on September 26, 2014.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

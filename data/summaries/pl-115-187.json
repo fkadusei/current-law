@@ -1,0 +1,20 @@
+{
+ "headline": "This law raises the maximum borrowing limit for licensed small business investment companies from $150 million to $175 million.",
+ "what_it_does": "Small business investment companies are private firms licensed by the federal government to invest in small businesses. This law amends the Small Business Investment Act of 1958 to let each licensed company borrow up to $175 million in outstanding federal leverage, up from $150 million. Leverage here means borrowing power backed by the government.",
+ "who_it_affects": [
+  {
+   "group": "Licensed small business investment companies",
+   "how": "Each one can carry up to $175 million in outstanding federal leverage instead of $150 million."
+  },
+  {
+   "group": "Small businesses seeking equity or loans",
+   "how": "Larger borrowing limits for investment firms may give them more capital available to invest in small companies, though the summary does not describe specific outcomes."
+  }
+ ],
+ "when_it_takes_effect": "The summary does not state an effective date beyond the enactment date of June 21, 2018.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

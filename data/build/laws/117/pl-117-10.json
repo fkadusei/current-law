@@ -33,5 +33,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2021 law lets Senate offices and committees share employees and sets rules for travel costs and pay when one person holds multiple qualifying jobs.",
+  "what_it_does": "The law allows Senators, Senate committees, leadership offices, and other Senate offices to share employees. It requires the office that approves an employee's official travel to pay for that travel. It also sets the basic pay rate for someone who serves in more than one qualifying position as the total basic pay that person receives from all of those positions.",
+  "who_it_affects": [
+   {
+    "group": "Senators and their offices",
+    "how": "They can share staff with other Senate offices under rules set by this law."
+   },
+   {
+    "group": "Senate committees and leadership offices",
+    "how": "They can share employees with other offices, and they must pay the travel costs for shared employees' official trips they authorize."
+   },
+   {
+    "group": "Senate employees who work in more than one qualifying position",
+    "how": "Their basic pay rate is set at the combined total of their basic pay from all of those positions."
+   }
+  ],
+  "when_it_takes_effect": "Became law on April 23, 2021; the official summary does not state a separate start date.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

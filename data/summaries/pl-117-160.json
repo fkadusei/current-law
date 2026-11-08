@@ -1,0 +1,24 @@
+{
+ "headline": "A 2022 law temporarily removed certain tariffs and import limits on infant formula through the end of 2022.",
+ "what_it_does": "The law says infant formula imports cannot be hit with safeguard duties, import quotas, tariff-rate quotas, or other extra duties, fees, or charges through December 31, 2022. It also requires importers to list the expected tariff classification for infant formula on customs entry forms. The measure is set to end on that date unless changed by later action.",
+ "who_it_affects": [
+  {
+   "group": "Importers of infant formula",
+   "how": "They pay no added duties, quotas, or fees on covered formula during 2022 and must list the expected tariff classification on customs entry documents."
+  },
+  {
+   "group": "Parents and caregivers who buy infant formula",
+   "how": "Lower import costs and fewer trade barriers on formula could make supply easier to bring into the country during 2022, though the summary does not state any price effect."
+  },
+  {
+   "group": "U.S. Customs and Border Protection",
+   "how": "Officials processing formula imports must check that entry documents include the expected tariff classification information."
+  }
+ ],
+ "when_it_takes_effect": "Enacted July 21, 2022, and applies through December 31, 2022.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

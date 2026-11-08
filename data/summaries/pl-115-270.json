@@ -1,0 +1,36 @@
+{
+ "headline": "A broad 2018 law that updates how the Army Corps of Engineers plans, funds, and runs water projects, and makes changes to drinking water, hydropower, and clean water programs.",
+ "what_it_does": "This law is a large package with many separate parts. It directs the Army Corps of Engineers to run studies, speed up certain reviews, change how some projects are contracted and paid for, and deauthorize some inactive projects. Title II updates EPA drinking water programs, including grants, lead testing at schools, and risk planning for natural hazards. Title III changes Federal Energy Regulatory Commission rules for hydropower licenses and construction deadlines, and Title IV covers clean water grants, a Long Island Sound program, and WaterSense labeling.",
+ "who_it_affects": [
+  {
+   "group": "Communities and tribes near Corps of Engineers projects",
+   "how": "They may get faster reviews, technical help, or study results on specific dams, levees, harbors, and reservoirs named in the law."
+  },
+  {
+   "group": "Local governments and other nonfederal sponsors who share costs on Corps projects",
+   "how": "Some cost-share rules change, including credit for certain work they perform and limits on fees for some stored water."
+  },
+  {
+   "group": "Public water systems and their customers",
+   "how": "EPA must run new grant programs, expand consumer confidence reports, and add natural hazard risk assessments for community water systems."
+  },
+  {
+   "group": "Schools and child care programs with drinking water",
+   "how": "EPA must provide grants to address lead contamination in their drinking water."
+  },
+  {
+   "group": "Hydropower developers and licensees",
+   "how": "FERC can give longer permit and construction deadlines, and small conduit hydropower facilities up to 40 megawatts may qualify without a license."
+  },
+  {
+   "group": "Recreational boaters and people who use Corps lakes and locks",
+   "how": "Some locks and harbor projects may get different funding or operating rules, and some public access restrictions are extended."
+  }
+ ],
+ "when_it_takes_effect": "Most provisions took effect on enactment on October 23, 2018, though many specific deadlines and authorizations run through dates such as FY2020, FY2021, FY2023, or FY2028.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

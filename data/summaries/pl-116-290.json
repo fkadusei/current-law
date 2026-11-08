@@ -1,0 +1,24 @@
+{
+ "headline": "This law changes how the FDA lists and publishes drug patent and exclusivity information in its Orange Book, and sets rules for removing patents that courts or the patent office invalidate.",
+ "what_it_does": "The FDA must include certain patent information on its Orange Book list and must state each drug exclusivity period that has not yet ended. The holder of an approved drug application must notify the FDA when a listed patent is invalidated by a court or by the Patent Trial and Appeal Board. The FDA must then remove the invalidated patent from its list, subject to the 180-day exclusivity period.",
+ "who_it_affects": [
+  {
+   "group": "Brand-name drug companies that hold approved drug applications",
+   "how": "They must notify the FDA when a patent listed for their drug is invalidated by a court or by the Patent Trial and Appeal Board."
+  },
+  {
+   "group": "Generic drug manufacturers",
+   "how": "They can see the FDA's listed patent and exclusivity information, which the law requires the FDA to include and publish more fully."
+  },
+  {
+   "group": "The Food and Drug Administration",
+   "how": "It must add certain patent information and exclusivity end dates to its list, and remove invalidated patents from the list."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on January 5, 2021, and the summary does not give separate effective dates for each requirement.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

@@ -1,0 +1,20 @@
+{
+ "headline": "This 2014 law sets up a funding method for the Office of Personnel Management's Inspector General to pay for its audits and oversight work.",
+ "what_it_does": "The law allows money from the OPM revolving fund to pay for audits, investigations, and other oversight by the Inspector General of the Office of Personnel Management. It also requires OPM's yearly budget request to include the Inspector General's estimate of what that oversight will cost for the revolving fund.",
+ "who_it_affects": [
+  {
+   "group": "The Office of Personnel Management (OPM)",
+   "how": "OPM must include the Inspector General's cost estimate for revolving fund oversight in its budget submission."
+  },
+  {
+   "group": "The OPM Inspector General's office",
+   "how": "The office can use revolving fund money to pay for its audits, investigations, and other oversight activities."
+  }
+ ],
+ "when_it_takes_effect": "The law took effect when it was enacted on February 12, 2014.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

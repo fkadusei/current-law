@@ -39,5 +39,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2018 federal law names a Columbus, Georgia post office after Richard W. Williams, Jr., and the Triple Nickles unit.",
+  "what_it_does": "This law renames the U.S. Postal Service facility at 120 12th Street Lobby in Columbus, Georgia. The new official name is the \"Richard W. Williams, Jr., Chapter of the Triple Nickles (555th P.I.A.) Post Office.\" It is a naming measure only and does not change postal services, rules, or staffing.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law was enacted on December 14, 2018.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

@@ -33,5 +33,24 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2016 law directs the VA to set up a voluntary dental insurance plan for enrolled veterans and certain survivors and dependents, with enrollees paying the full cost.",
+  "what_it_does": "The law requires the Department of Veterans Affairs to create and run a dental insurance plan through a contract with a dental insurer. Covered services include checkups and preventive care, root canals and other restorative work, surgery, and emergency care. Enrollment is voluntary, and the VA sets the minimum enrollment period, premiums, and rules for leaving the plan. The plan's provisions end on December 31, 2021.",
+  "who_it_affects": [
+   {
+    "group": "Enrolled veterans in the VA health care system",
+    "how": "They can choose to join a dental plan and must pay the full premium and any copayments."
+   },
+   {
+    "group": "Survivors and dependents eligible for VA medical care",
+    "how": "They can choose to join the same dental plan under the same payment terms."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted July 29, 2016, and its provisions terminate December 31, 2021.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

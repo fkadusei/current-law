@@ -1,0 +1,28 @@
+{
+ "headline": "This law requires federal agencies to refer contractors and grantees found to have engaged in human trafficking to the agency office that handles suspension and debarment.",
+ "what_it_does": "When an agency inspector general report confirms that a federal contract, grant, or cooperative agreement recipient, or one of its subgrantees, subcontractors, or agents, engaged in human trafficking, the agency must refer the matter to its suspension and debarment office. Before this law, agencies only had to consider such referrals as one possible remedial action. The law also requires the Office of Management and Budget to report to Congress on how these anti-trafficking contracting provisions are being carried out.",
+ "who_it_affects": [
+  {
+   "group": "Federal contractors and grantees",
+   "how": "Companies and organizations that hold federal contracts, grants, or cooperative agreements can be referred for suspension or debarment if an inspector general report substantiates human trafficking by them or their subcontractors, subgrantees, or agents."
+  },
+  {
+   "group": "Subcontractors, subgrantees, and agents of federal award recipients",
+   "how": "Those working under a federal award can trigger a referral for the prime recipient if an inspector general report substantiates that they engaged in human trafficking."
+  },
+  {
+   "group": "Federal agency suspension and debarment offices",
+   "how": "These offices must receive and act on referrals when inspector general reports substantiate human trafficking allegations."
+  },
+  {
+   "group": "Workers on federally funded contracts",
+   "how": "The law adds a required enforcement step aimed at ending human trafficking in work performed under federal awards."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on October 17, 2022; the summary does not state a separate effective date for each provision.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

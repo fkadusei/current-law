@@ -1,0 +1,36 @@
+{
+ "headline": "This law gives education relief to students and colleges affected by Hurricanes Harvey, Irma, and Maria in 2017.",
+ "what_it_does": "It lets the Department of Education waive matching fund requirements for two campus aid programs, the Federal Supplemental Educational Opportunity Grant and the Federal Work-Study Program, for colleges in disaster areas and colleges that enrolled students affected by the storms. It defines which students count as affected, including those enrolled in affected areas on August 25, 2017, dependent students whose parents lived or worked in affected areas, and students who suffered direct economic hardship from the storms. It also extends the deadline for the Department to obligate those funds to September 30, 2018, and requires certain unused funds to be reallocated to affected colleges. A separate section requires school violence-prevention grants under the Elementary and Secondary Education Act to be shared with private schools on an equitable basis.",
+ "who_it_affects": [
+  {
+   "group": "Colleges and universities located in areas declared disaster zones for the hurricanes",
+   "how": "They can have matching fund requirements for certain federal campus aid programs waived."
+  },
+  {
+   "group": "Colleges that enrolled students displaced by the storms",
+   "how": "The Department of Education may waive matching fund requirements for these schools too."
+  },
+  {
+   "group": "College students enrolled in affected areas on August 25, 2017",
+   "how": "They count as affected students who can receive relief under the law."
+  },
+  {
+   "group": "Dependent students whose parents lived or worked in affected areas",
+   "how": "They count as affected students even if their own college is outside the disaster zone."
+  },
+  {
+   "group": "Students and families who suffered direct economic hardship from the storms",
+   "how": "They can qualify as affected students for relief under the law."
+  },
+  {
+   "group": "Private schools eligible for school violence-prevention grants",
+   "how": "They must receive an equitable share of Project School Emergency Response to Violence grants."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on September 29, 2017; the waiver authority and fund deadlines run through September 30, 2018, when the waiver authority ends.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

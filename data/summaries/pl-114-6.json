@@ -1,0 +1,28 @@
+{
+ "headline": "This 2015 law makes technical changes to how the Congressional Accountability Act handles mediation, complaints, and Office of Compliance board terms.",
+ "what_it_does": "The law changes how mediators are chosen for disputes under the Congressional Accountability Act. The Executive Director must keep a master list of experienced people, such as state bar members and retired federal judges, and pick mediators from that list instead of relying on recommendations from outside organizations. After mediation ends, a covered legislative branch employee must choose within 30 to 90 days whether to file a complaint with the Office or sue in federal district court. The law also lets a current Board of Directors member, as of February 28, 2015, serve one more two-year term.",
+ "who_it_affects": [
+  {
+   "group": "Congressional employees covered by the Congressional Accountability Act",
+   "how": "They must choose between filing a complaint with the Office of Compliance or filing a lawsuit in federal district court within 30 to 90 days after mediation ends."
+  },
+  {
+   "group": "Lawyers and retired federal judges who may serve as mediators",
+   "how": "They can be placed on a master list and appointed to mediate workplace disputes covered by the Act."
+  },
+  {
+   "group": "Members of the Office of Compliance Board of Directors",
+   "how": "Those serving as of February 28, 2015 may be appointed to one additional two-year term."
+  },
+  {
+   "group": "People taking part in mediations, hearings, or deliberations",
+   "how": "They must be told about confidentiality rules and the penalties for breaking them."
+  }
+ ],
+ "when_it_takes_effect": "Enacted March 20, 2015; the official summary does not list separate effective dates for each change.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

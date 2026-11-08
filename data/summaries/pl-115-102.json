@@ -1,0 +1,28 @@
+{
+ "headline": "This law creates a temporary commission to plan and fund activities marking the 400th anniversary of Africans arriving in the English colonies in 1619.",
+ "what_it_does": "It sets up the 400 Years of African-American History Commission, which plans programs that acknowledge the impact of slavery and discriminatory laws on the United States. The commission can give grants to communities, nonprofits, and research groups, and it can offer technical help to states and localities. It must submit a strategic plan and a final report to Congress, and it ends July 1, 2020, with all spending coming only from donated funds.",
+ "who_it_affects": [
+  {
+   "group": "State and local governments",
+   "how": "They can receive technical assistance from the commission to help carry out commemoration activities."
+  },
+  {
+   "group": "Community groups and nonprofit organizations",
+   "how": "They can apply for commission grants to develop commemoration programs."
+  },
+  {
+   "group": "Research and scholarly organizations",
+   "how": "They can apply for commission grants to research, publish, or distribute information about the arrival of Africans in the United States."
+  },
+  {
+   "group": "Civic, educational, artistic, and religious organizations",
+   "how": "The commission is directed to encourage them to organize and take part in anniversary activities."
+  }
+ ],
+ "when_it_takes_effect": "The law took effect when it was enacted on January 8, 2018, and the commission terminates on July 1, 2020.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

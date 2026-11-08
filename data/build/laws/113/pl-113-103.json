@@ -3524,5 +3524,24 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2014 law clarifies that people may build and occupy a rooftop penthouse in Washington, D.C., if it rises one story of 20 feet or less above the roof.",
+  "what_it_does": "This law amends the D.C. Code, which limits how tall buildings in the District can be. It clarifies that a penthouse above the top story may be built or used for human occupancy if it is one story of 20 feet or less above the roof. The official summary does not describe any other conditions or limits.",
+  "who_it_affects": [
+   {
+    "group": "Owners and developers of buildings in Washington, D.C.",
+    "how": "They may build or use a rooftop penthouse for people to occupy if it stays within one story and 20 feet above the roof."
+   },
+   {
+    "group": "People who live or work in penthouses in D.C.",
+    "how": "Penthouses that meet the height rule may be used as living or working space under the clarified rules."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

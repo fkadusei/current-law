@@ -1,0 +1,48 @@
+{
+ "headline": "This 2017 law extends several expiring aviation, health, and tax programs and gives tax relief to people and businesses hurt by Hurricanes Harvey, Irma, and Maria.",
+ "what_it_does": "The law keeps many airport, air traffic, and aviation tax programs running through March 31, 2018, so they do not expire. It extends two health programs, the Teaching Health Center Graduate Medical Education Program and the Special Diabetes Program for Indians, and extends the Medicare IVIG demonstration project through 2020. Its hurricane title lets affected people take penalty-free retirement withdrawals, gives employers a payroll tax credit for keeping workers paid, and changes several deductions and credits for people in designated disaster areas.",
+ "who_it_affects": [
+  {
+   "group": "Airports and airline passengers",
+   "how": "Airport improvement grants, air traffic control contracts, and essential air service programs keep their funding and authority through March 31, 2018."
+  },
+  {
+   "group": "Airlines and people who buy plane tickets or ship cargo by air",
+   "how": "The federal excise taxes on air transportation and aviation fuel are extended through March 31, 2018."
+  },
+  {
+   "group": "Medical and dental residents in primary care training",
+   "how": "Payments to outpatient training sites under the Teaching Health Center program continue through the first quarter of fiscal 2018."
+  },
+  {
+   "group": "American Indians and Alaska Natives with diabetes",
+   "how": "The Special Diabetes Program for Indians keeps its grant funding for diabetes prevention and treatment through the first quarter of fiscal 2018."
+  },
+  {
+   "group": "Medicare beneficiaries who receive IVIG treatment at home",
+   "how": "The Medicare demonstration project that pays for in-home IVIG treatment for primary immune deficiency is extended through 2020."
+  },
+  {
+   "group": "Individuals in hurricane disaster areas with economic losses",
+   "how": "They may take retirement plan distributions of up to $100,000 without the 10% early withdrawal tax, repay them within three years, or spread the income over three years."
+  },
+  {
+   "group": "Employers in hurricane disaster zones",
+   "how": "They may claim a tax credit of 40% of qualified wages, up to $6,000 per employee, paid between August 23, 2017 and January 1, 2018 while their operations were disrupted."
+  },
+  {
+   "group": "Taxpayers in hurricane disaster areas with casualty losses or charitable gifts",
+   "how": "They can claim personal casualty losses without the 10% income threshold or itemizing, and charitable contribution limits are temporarily suspended for gifts made before December 31, 2017."
+  },
+  {
+   "group": "Residents of the U.S. Virgin Islands and Puerto Rico",
+   "how": "The Treasury Department must make payments to the Virgin Islands for lost revenue and to Puerto Rico for benefits its residents would have received under a mirror tax code."
+  }
+ ],
+ "when_it_takes_effect": "Signed into law September 29, 2017. Aviation and health extensions run through March 31, 2018, the IVIG project runs through 2020, and the hurricane tax provisions cover events starting August 23, 2017, with many deadlines set for 2018 or 2019.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

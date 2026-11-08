@@ -3527,5 +3527,15 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "Congress awarded a posthumous Congressional Gold Medal to four girls killed in the 1963 Birmingham church bombing, and the medal is to go to the Birmingham Civil Rights Institute.",
+  "what_it_does": "The law directs the House Speaker and the Senate President pro tempore to arrange presentation of a Congressional Gold Medal honoring Addie Mae Collins, Denise McNair, Carole Robertson, and Cynthia Wesley. The four girls died in the September 1963 bombing of the Sixteenth Street Baptist Church in Birmingham, Alabama, which the law describes as a catalyst for the civil rights movement. The medal is to be given to the Birmingham Civil Rights Institute, which may display it or lend it temporarily to other appropriate places. The Treasury Secretary may also strike and sell bronze duplicates, with proceeds going to the U.S. Mint Public Enterprise Fund.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "Took effect when enacted on May 24, 2013.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

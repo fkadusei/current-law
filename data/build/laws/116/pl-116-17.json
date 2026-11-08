@@ -36,5 +36,24 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This 2019 law lets states use certain federal grant funds to pay up to 90% of costs for building or expanding public target ranges, and keeps those funds available for five fiscal years.",
+  "what_it_does": "Under current law, states can use specified federal grant funds to cover 75% of the costs of building or expanding public target ranges. This law raises that share to up to 90%. It also extends the period that these funds stay available from two fiscal years to five.",
+  "who_it_affects": [
+   {
+    "group": "State governments that receive specified federal grant funds for public target ranges",
+    "how": "They may cover a larger share of construction and expansion costs, up to 90% instead of 75%, and have more time to use the money."
+   },
+   {
+    "group": "Public target range operators and the local communities that build or expand public shooting ranges",
+    "how": "Projects that receive these federal grant funds may be partly paid for by a larger federal share, which could affect how much a state or locality must contribute."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on May 10, 2019. The official summary does not list a separate effective date, so the provisions appear to apply from enactment.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

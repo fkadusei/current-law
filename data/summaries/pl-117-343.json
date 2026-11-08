@@ -1,0 +1,32 @@
+{
+ "headline": "This law lets the Colorado River Indian Tribes lease, exchange, store, or conserve part of their Colorado River water for use elsewhere in Arizona, subject to federal and state approval.",
+ "what_it_does": "The law allows the Colorado River Indian Tribes (the Mohave, Chemehuevi, Hopi, and Navajo tribes) to enter into agreements that transfer or store a portion of their Colorado River water allocation in other parts of Arizona. Eligible uses include leasing or exchanging water for off-reservation use, storing water in underground or groundwater savings facilities, and voluntarily leaving water in Lake Mead. Leases and conservation agreements can last up to 100 years, and the Interior Department must approve each agreement, make sure it complies with environmental laws, and confirm it does not permanently give away the tribes' water allocation. The tribes must first sign an agreement with the state of Arizona.",
+ "who_it_affects": [
+  {
+   "group": "Colorado River Indian Tribes (Mohave, Chemehuevi, Hopi, and Navajo)",
+   "how": "They gain authority to lease, exchange, store, or conserve part of their Colorado River water for use off the reservation, and they keep all payments from these agreements."
+  },
+  {
+   "group": "Water users and facilities in the Lower Basin of the Colorado River in Arizona, excluding Navajo, Apache, and Cochise counties",
+   "how": "They may be able to receive leased, exchanged, stored, or conserved tribal water under approved agreements."
+  },
+  {
+   "group": "Arizona Water Banking Authority and the state of Arizona",
+   "how": "They may take part in storage agreements and must sign an agreement with the tribes that sets notice, information-sharing, and collaboration rules."
+  },
+  {
+   "group": "Department of the Interior",
+   "how": "It must approve or disapprove each agreement, pay fair market value when it is a party to an agreement, and ensure compliance with environmental laws such as NEPA and the Endangered Species Act."
+  },
+  {
+   "group": "Tribal allottees on the reservation",
+   "how": "Their individual water rights are protected, so no agreement may interfere with them."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on January 5, 2023, and it applies to agreements the tribes make after that date, once the required approvals and state agreement are in place. The summary does not give a specific start date for any agreement.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

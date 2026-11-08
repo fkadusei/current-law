@@ -36,5 +36,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law extends an energy-efficiency exemption for power supplies used in security and life-safety devices, such as smoke alarms, and sets a 2021 deadline for federal energy rules on other external power supplies.",
+  "what_it_does": "It requires the Department of Energy to issue a rule by July 1, 2021, deciding whether energy conservation standards for external power supplies should be amended, and to include any amended standards in that rule. Those standards would apply to products made on or after July 1, 2023. Power supplies used in security or life-safety systems, such as smoke alarms, were previously exempt from these standards until July 1, 2017, and the bill extends that exemption until July 1, 2023.",
+  "who_it_affects": [
+   {
+    "group": "Manufacturers of external power supplies",
+    "how": "They must meet any new energy conservation standards the Department of Energy sets for products made on or after July 1, 2023."
+   },
+   {
+    "group": "Makers of security and life-safety devices, such as smoke alarms",
+    "how": "Their power supplies stay exempt from federal energy conservation standards until July 1, 2023."
+   },
+   {
+    "group": "Consumers who buy smoke alarms and other security or life-safety devices",
+    "how": "Power supplies in these devices are not subject to federal energy standards until July 1, 2023, so their efficiency rules are unchanged for now."
+   }
+  ],
+  "when_it_takes_effect": "Enacted November 2, 2017. The security and life-safety exemption now runs until July 1, 2023. The Department of Energy rule is due by July 1, 2021, and any new standards apply to products made on or after July 1, 2023.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

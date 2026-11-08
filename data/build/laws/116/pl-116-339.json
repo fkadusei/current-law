@@ -3513,5 +3513,28 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2021 law directs the National Science Foundation to fund university research on topics related to suicide, with extra encouragement for early career researchers.",
+  "what_it_does": "The law tells the National Science Foundation to award competitive, merit-reviewed grants for multidisciplinary, fundamental research with possible relevance to suicide, including prevention and treatment. Grants go to colleges and universities or groups of them. When choosing grantees, the agency must encourage applications from early career researchers, such as doctoral students and postdoctoral researchers.",
+  "who_it_affects": [
+   {
+    "group": "Colleges and universities (and consortia of them)",
+    "how": "They can apply for federal research grants on suicide-related topics through the National Science Foundation's competitive process."
+   },
+   {
+    "group": "Doctoral students and postdoctoral researchers",
+    "how": "Their applications are to be encouraged when the agency awards these grants, which can support their research development."
+   },
+   {
+    "group": "The National Science Foundation",
+    "how": "It must run a grant program for suicide-related research and consider its existing research priorities and strategic plans when doing so."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted January 13, 2021; the summary does not state a separate effective date.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

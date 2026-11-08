@@ -3519,5 +3519,24 @@
  "control": {
   "House": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "This law lets the FAA sign reimbursable agreements with state and local governments for certain airport construction projects that require FAA notice.",
+  "what_it_does": "The law allows the Federal Aviation Administration to enter into agreements in which a state or local government agency pays back the FAA for work on airport construction or alteration projects that must be reported to the FAA. An agreement can be used only if it includes cost-effective ways to finish the project and would not hurt the safety or efficiency of the national airspace system.",
+  "who_it_affects": [
+   {
+    "group": "State and local government agencies that own or run airports",
+    "how": "They may enter into reimbursable agreements with the FAA for qualifying airport construction or alteration projects."
+   },
+   {
+    "group": "The Federal Aviation Administration",
+    "how": "It gains authority to enter into these reimbursable agreements, provided each one meets the cost and safety or efficiency conditions."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted December 16, 2016. The official summary does not state a separate effective date.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

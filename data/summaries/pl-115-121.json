@@ -1,0 +1,28 @@
+{
+ "headline": "This law officially recognizes six Virginia tribes as federal Indian tribes, making their members eligible for federal tribal services and benefits.",
+ "what_it_does": "The law extends federal recognition to the Chickahominy Tribe, the Chickahominy Indian Tribe-Eastern Division, the Upper Mattaponi Tribe, the Rappahannock Tribe, the Monacan Indian Nation, and the Nansemond Indian Tribe. Each tribe and its members can receive the services and benefits the federal government provides to recognized tribes, even without a reservation. The Interior Department must take certain tribal land in Virginia into trust on a tribe's request, and those lands become part of its reservation, but the tribes may not run gaming activities. Eminent domain cannot be used to acquire land for these tribes, and the law does not change their hunting, fishing, trapping, gathering, or water rights.",
+ "who_it_affects": [
+  {
+   "group": "Members of the six recognized Virginia tribes",
+   "how": "They become eligible for federal services and benefits available to federally recognized tribes, and the law sets requirements for each tribe's membership roll, governing documents, and governing body."
+  },
+  {
+   "group": "The six Virginia tribes themselves",
+   "how": "Each tribe gains federal recognition and a defined service area, may ask the Interior Department to place tribal land into trust, and is barred from conducting gaming."
+  },
+  {
+   "group": "The U.S. Department of the Interior",
+   "how": "It must take certain tribal land in Virginia into trust when a tribe requests it."
+  },
+  {
+   "group": "Governments and others who might seek to take tribal land in Virginia",
+   "how": "They cannot use eminent domain to acquire land for these tribes."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted January 29, 2018, and the summary does not list a separate later effective date.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

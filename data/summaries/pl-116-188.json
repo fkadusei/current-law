@@ -1,0 +1,36 @@
+{
+ "headline": "A 2020 law that renews and creates many federal wildlife, wetland, and Chesapeake Bay conservation programs, with grants, permits, studies, and reporting rules.",
+ "what_it_does": "The law reauthorizes several existing conservation programs through fiscal year 2025, including the North American Wetlands Conservation Act, the National Fish and Wildlife Foundation, the Chesapeake Bay Program, and the Chesapeake Bay Gateways network. It creates a prize for nonlethal ways to reduce conflicts between people and predators, grant money for livestock producers to protect herds from protected species, and a national fish habitat board that recommends projects. It also orders studies of chronic wasting disease and of successful species conservation, and it sets up a task force on chronic wasting disease.",
+ "who_it_affects": [
+  {
+   "group": "Livestock producers",
+   "how": "They can receive federal grants for nonlethal protection and possibly compensation for losses to protected predators, and some may get permits to take black vultures or common ravens during calving or lambing season in affected areas."
+  },
+  {
+   "group": "Deer, elk, reindeer, and moose hunters and farmers",
+   "how": "A federal study and a new task force will examine and act on chronic wasting disease, which could lead to a shared interstate plan affecting how these animals are managed and moved."
+  },
+  {
+   "group": "States and Indian tribes",
+   "how": "They can apply for grants for livestock protection and must be consulted by Interior on fish habitat project activities within their boundaries."
+  },
+  {
+   "group": "Chesapeake Bay watershed communities",
+   "how": "The law funds restoration and protection projects and grants in the watershed through the Chesapeake Watershed Investments for Landscape Defense program."
+  },
+  {
+   "group": "Organizations that seek federal fish habitat funding",
+   "how": "Existing fish habitat partnerships must obtain congressional designation within five years to keep receiving federal funds, and projects must be approved by Interior within 90 days."
+  },
+  {
+   "group": "Sport fishing equipment makers",
+   "how": "The EPA is barred from regulating lead content in sport fishing equipment under the Toxic Substances Control Act."
+  }
+ ],
+ "when_it_takes_effect": "Enacted October 30, 2020; many programs run through fiscal year 2025, and the partnership designation requirement applies within five years.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

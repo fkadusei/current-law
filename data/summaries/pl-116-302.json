@@ -1,0 +1,24 @@
+{
+ "headline": "A 2021 law requires the Interior Department to swap specified federal land for a private owner's land near Rocky Mountain National Park if the owner offers.",
+ "what_it_does": "The law directs the Department of the Interior to convey specified federal land to the owner of specified nonfederal land, but only if that owner offers to exchange. The two parcels are treated as being of equal value. The nonfederal land Interior receives becomes part of Rocky Mountain National Park in Colorado.",
+ "who_it_affects": [
+  {
+   "group": "The owner of the specified nonfederal land in Colorado",
+   "how": "This owner may trade their land to the federal government in exchange for a specified federal parcel if they choose to offer the swap."
+  },
+  {
+   "group": "The Department of the Interior and the National Park Service",
+   "how": "The department must carry out the exchange if the landowner makes an offer and must manage the acquired land as part of Rocky Mountain National Park."
+  },
+  {
+   "group": "Visitors to Rocky Mountain National Park",
+   "how": "The park's boundaries and managed land would change to include the acquired parcel."
+  }
+ ],
+ "when_it_takes_effect": "The law took effect on its enactment date of January 5, 2021, but an exchange happens only if the nonfederal landowner makes an offer; the summary does not give a deadline.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

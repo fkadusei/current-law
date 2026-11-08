@@ -4361,5 +4361,48 @@
   "House": "R",
   "Senate": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "This law overhauls the federal job training, adult education, and vocational rehabilitation programs, replacing the Workforce Investment Act of 1998 with a new set of rules.",
+  "what_it_does": "The law amends and replaces the Workforce Investment Act of 1998 and sets new rules for job training systems, adult education, and programs that help people with disabilities find work. It requires states to submit four-year unified plans, creates regional planning, and sets performance measures for job training programs. It also changes Job Corps, adult literacy, Wagner-Peyser employment offices, and the Rehabilitation Act, and authorizes funding for fiscal years 2015 through 2020.",
+  "who_it_affects": [
+   {
+    "group": "Job seekers using public workforce centers",
+    "how": "One-stop centers must offer a broader set of partner services, and state and local boards must meet performance standards."
+   },
+   {
+    "group": "Adults without a high school diploma or with limited English skills",
+    "how": "Adult education programs now focus on English, math, and transition to college or jobs, and the definition of who is eligible has been updated."
+   },
+   {
+    "group": "Young people in the Job Corps program",
+    "how": "Job Corps adds English language, driver's education, and career training options, extends enrollment for some people with disabilities, and changes how graduates receive transition allowances."
+   },
+   {
+    "group": "Veterans",
+    "how": "Veterans who meet certain requirements can now qualify for Job Corps enrollment."
+   },
+   {
+    "group": "People with disabilities receiving vocational rehabilitation services",
+    "how": "Programs now aim for competitive integrated employment, pre-employment services for students start earlier, and some services for migrant farmworkers and recreational programs were eliminated."
+   },
+   {
+    "group": "Workers in certain disabled-worker wage arrangements",
+    "how": "Employers with special wage certificates generally cannot pay workers age 24 or younger less than the federal minimum wage unless specified conditions are met."
+   },
+   {
+    "group": "State and local workforce boards",
+    "how": "Boards must include at least 20 percent representatives of the local workforce and must complete regular labor market analyses."
+   },
+   {
+    "group": "Foster youth and people leaving the justice system",
+    "how": "Child welfare agencies are added to Job Corps recruiting, and reentry programs under the Second Chance Act are added to one-stop mandatory services."
+   }
+  ],
+  "when_it_takes_effect": "Enacted July 22, 2014; many provisions authorize funding for fiscal years 2015 through 2020, and some changes phase in over later program years.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

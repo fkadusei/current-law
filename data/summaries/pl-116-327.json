@@ -1,0 +1,32 @@
+{
+ "headline": "A 2021 law says federal antitrust laws apply to health and dental insurance businesses, even though an older insurance law generally limits that.",
+ "what_it_does": "The McCarran-Ferguson Act generally leaves insurance regulation to the states and keeps federal antitrust laws from overriding state rules for insurers. This law states that the McCarran-Ferguson Act does not block or override antitrust laws for health insurance, including dental insurance. It carves out four kinds of joint activity from that rule: collecting or sharing historical loss data, setting loss development factors, certain actuarial work that does not restrain trade, and creating standard policy forms that insurers are not required to use. The law also says the federal ban on unfair methods of competition applies to health insurance businesses whether or not they are for profit.",
+ "who_it_affects": [
+  {
+   "group": "Health insurance companies",
+   "how": "They must follow federal antitrust law in their business, and joint activity outside the four listed exceptions may be reviewed under those laws."
+  },
+  {
+   "group": "Dental insurance companies",
+   "how": "The same antitrust rules that apply to health insurers now apply to their business as well."
+  },
+  {
+   "group": "Nonprofit health insurers and plans",
+   "how": "The ban on unfair competition applies to them even though they do not seek profits."
+  },
+  {
+   "group": "Insurers that share claims or cost data with each other",
+   "how": "Sharing and compiling historical loss data and setting loss development factors are allowed under the law's exceptions."
+  },
+  {
+   "group": "People who buy health or dental insurance on their own",
+   "how": "The law is aimed at how insurers compete, but the summary does not describe any direct change to their premiums, coverage, or costs."
+  }
+ ],
+ "when_it_takes_effect": "Enacted January 13, 2021; the official summary does not describe a separate later effective date.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

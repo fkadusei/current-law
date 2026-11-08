@@ -33,5 +33,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This 2017 law removes the August 7, 2017 end date for the Veterans Choice Program and changes how the VA pays for some outside care.",
+  "what_it_does": "The law removes the August 7, 2017 deadline that would have ended the Veterans Choice Program, so the program can keep running until the money in the Veterans Choice Fund is used up. It makes the VA the primary payer for care tied to non-service-connected disabilities, where the VA had been the secondary payer. It also lets the VA share medical information with outside entities that provide authorized care to veterans, and those entities may not reuse the information for other purposes.",
+  "who_it_affects": [
+   {
+    "group": "Veterans who receive care through the Veterans Choice Program",
+    "how": "They can keep getting approved care from non-VA providers after the original August 2017 end date, as long as program funds last."
+   },
+   {
+    "group": "Veterans with non-service-connected disabilities",
+    "how": "The VA now pays first for their care related to those disabilities, before other insurers or payers."
+   },
+   {
+    "group": "Private health care providers and other non-VA entities that treat veterans",
+    "how": "They may receive VA medical information needed for authorized care, but they cannot use it for any other purpose or pass it on."
+   },
+   {
+    "group": "Third-party insurers and payers",
+    "how": "The VA can recover costs from them for certain care provided under the program."
+   }
+  ],
+  "when_it_takes_effect": "The summary does not give a separate effective date. The law was enacted on April 19, 2017, and it removes the August 7, 2017 sunset date.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

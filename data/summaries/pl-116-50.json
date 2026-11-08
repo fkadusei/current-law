@@ -1,0 +1,24 @@
+{
+ "headline": "This law requires federal agencies to accept electronic identity checks and electronic consent forms so people can access or authorize sharing of their records online.",
+ "what_it_does": "The law directs the Office of Management and Budget to require every federal agency to accept electronic identity verification and login processes. Under the Privacy Act, people can use these processes to access their own records or to give written consent for those records to be shared. OMB must also create a standard template for electronic consent and access forms, and agencies must accept those forms from anyone whose identity has been properly verified.",
+ "who_it_affects": [
+  {
+   "group": "Individuals who request their own federal records",
+   "how": "They can verify their identity electronically and submit access requests online instead of only on paper."
+  },
+  {
+   "group": "Individuals who consent to release of their federal records to others",
+   "how": "They can give written consent electronically using a standard OMB template instead of paper forms."
+  },
+  {
+   "group": "Federal agencies that hold personal records",
+   "how": "They must set up systems to accept electronic identity verification and electronic consent and access forms."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

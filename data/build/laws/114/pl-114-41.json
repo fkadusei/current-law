@@ -4366,5 +4366,68 @@
   "House": "R",
   "Senate": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "This law extends federal transportation and highway safety programs through October 2015 and makes tax and veterans health care changes.",
+  "what_it_does": "It keeps federal highway, transit, trucking safety, boating, and hazardous materials programs authorized through October 29, 2015, and extends Highway Trust Fund spending authority to October 30, 2015. It also makes several tax changes, including new reporting for mortgage interest, rules tying inherited property values to estate tax values, and changes to tax return due dates. Its veterans title lets the VA use Veterans Choice funds for non-VA care through the end of fiscal 2015, revises Choice Act rules, and bars the VA from expanding its dialysis pilot until an independent analysis is completed.",
+  "who_it_affects": [
+   {
+    "group": "State and local transportation agencies",
+    "how": "They keep receiving federal highway and transit funding under the extended programs through October 2015."
+   },
+   {
+    "group": "Commercial truck and bus companies and drivers",
+    "how": "Federal motor carrier safety grants and programs continue through October 29, 2015."
+   },
+   {
+    "group": "Public transit riders in urban and rural areas",
+    "how": "Transit formula grants and rural and tribal public transportation funding continue through the extension period."
+   },
+   {
+    "group": "Boaters, anglers, and coastal communities",
+    "how": "Recreational boating, coastal wetlands, and boating infrastructure funding continue through the extension period."
+   },
+   {
+    "group": "Hazardous materials shippers and emergency responders",
+    "how": "Federal hazmat safety projects and hazmat training grants continue through the extension period."
+   },
+   {
+    "group": "Homeowners and people who receive mortgage interest in a trade or business",
+    "how": "Lenders or businesses that receive mortgage interest must report the outstanding principal, origination date, and property address on tax information returns."
+   },
+   {
+    "group": "Estates, executors, and heirs",
+    "how": "Inherited property basis must match the value used for estate tax purposes, and executors must disclose each interest's value to the IRS and to people receiving interests."
+   },
+   {
+    "group": "Partnerships, S corporations, and C corporations",
+    "how": "Tax return due dates change, and the automatic extension for corporate income tax returns grows from three to six months."
+   },
+   {
+    "group": "Airline passengers",
+    "how": "Aviation security service passenger fee rules are revised, with set deposits to the Treasury for fiscal years 2024 and 2025."
+   },
+   {
+    "group": "Veterans who receive care at non-VA facilities",
+    "how": "The VA can use Veterans Choice fund transfers to pay for their non-VA care, including Hepatitis C drugs, through the end of fiscal 2015."
+   },
+   {
+    "group": "Veterans seeking follow-up care or enrolling in VA health care",
+    "how": "The 60-day follow-up care limit is repealed, the August 1, 2012 enrollment limit is repealed, and the 40-mile distance rule is measured from a VA medical facility."
+   },
+   {
+    "group": "Veterans with service-connected disabilities who have health savings accounts",
+    "how": "They are treated as still eligible to participate in or contribute to a tax-preferred health savings account while receiving VA hospital or medical services for that disability."
+   },
+   {
+    "group": "Employers with workers covered by TRICARE or VA care",
+    "how": "Those covered workers are excluded when deciding whether the employer is an applicable large employer under the health coverage mandate."
+   }
+  ],
+  "when_it_takes_effect": "Most provisions took effect upon enactment on July 31, 2015, with transportation extensions running through October 29, 2015, and some tax and veterans provisions having their own dates, including pension transfer authority through 2025 and temporary VA authority through the end of fiscal 2015.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

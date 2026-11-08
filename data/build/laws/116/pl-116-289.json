@@ -39,5 +39,28 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "This law creates a federal grant program through NOAA's National Sea Grant Office to fund training and support for young fishermen.",
+  "what_it_does": "The law directs the National Sea Grant Office in the National Oceanic and Atmospheric Administration to set up a Young Fishermen's Development Grant Program. The office gives competitive matching grants to local and regional efforts that teach young fishermen about seamanship, navigation, electronics, and safety, vessel and engine care and repair, and sustainable fishing practices. Grant recipients must be collaborative networks or partnerships of state, tribal, local, or regional public or private groups. The grants cannot be used to buy a fishing license, permit, quota, or other right to harvest fish.",
+  "who_it_affects": [
+   {
+    "group": "Young fishermen",
+    "how": "They may be able to attend workshops, training, and technical assistance funded by the grants."
+   },
+   {
+    "group": "Local and regional networks or partnerships of public or private groups",
+    "how": "They can apply for competitive matching grants to run training and outreach programs."
+   },
+   {
+    "group": "State, tribal, and local organizations involved in fishing communities",
+    "how": "They may take part in collaborative partnerships that qualify for the grants."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on January 5, 2021, and the grant program is set up under it; the summary does not list specific start or deadline dates.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

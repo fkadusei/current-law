@@ -39,5 +39,15 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "A 2016 law renamed a Stockton, California post office after the late W. Ronald Coale.",
+  "what_it_does": "This law gives a specific Postal Service facility at 1048 West Robinhood Drive in Stockton, California, a new official name: the \"W. Ronald Coale Memorial Post Office Building.\" It is a naming measure only. It does not change how the post office operates, its services, or its staff.",
+  "who_it_affects": [],
+  "when_it_takes_effect": "The law took effect when it was enacted on June 13, 2016.",
+  "ceremonial": true,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

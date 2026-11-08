@@ -1,0 +1,28 @@
+{
+ "headline": "This law changes how inspectors general, the internal watchdogs of federal agencies, handle records, investigations, and access to grand jury materials.",
+ "what_it_does": "It lets inspectors general skip some privacy and paperwork rules when they are doing an official audit, investigation, or review. It changes how the Council of the Inspectors General on Integrity and Efficiency handles disputes and wrongdoing complaints, including removing the FBI Director and the Special Counsel from its Integrity Committee. It lets inspectors general request federal grand jury materials, which the Justice Department must generally provide unless one of several listed exceptions applies. If access is denied, the Justice Department must explain the reason to Congress.",
+ "who_it_affects": [
+  {
+   "group": "Inspectors general and their staff",
+   "how": "They gain exemptions from certain privacy and paperwork rules during official work and a process to request grand jury materials."
+  },
+  {
+   "group": "Federal employees who are subjects of watchdog complaints",
+   "how": "Allegations against inspectors general or their staff are now referred under revised procedures and timelines to the Justice Department, the Special Counsel, or the Integrity Committee."
+  },
+  {
+   "group": "Federal agencies and their records systems",
+   "how": "Agencies must follow the new rules on grand jury access requests and may be affected by the exemptions from computer matching and paperwork requirements for inspector general work."
+  },
+  {
+   "group": "Justice Department",
+   "how": "It must decide grand jury access requests under the four listed exceptions and report any denial to Congress."
+  }
+ ],
+ "when_it_takes_effect": "The law was enacted on December 16, 2016, and the summary does not list a separate effective date for each provision.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

@@ -4362,5 +4362,40 @@
   "House": "D",
   "Senate": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2019 law gave emergency extra funding to several federal agencies to handle migrants arriving at the southern border.",
+  "what_it_does": "The law provides emergency supplemental money for FY2019 to respond to migrants trying to enter the United States at the southern border. The money is labeled emergency spending, so it does not count against the usual discretionary spending limits. It splits funds among the Justice Department, Defense Department, Health and Human Services, and several Homeland Security agencies. The law also sets rules and restrictions on how the money can be used.",
+  "who_it_affects": [
+   {
+    "group": "Migrants arriving at the southern border",
+    "how": "Federal agencies receive extra funds to process, house, and care for people crossing the southern border."
+   },
+   {
+    "group": "Children in federal care, through the Administration for Children and Families",
+    "how": "The Health and Human Services agency that cares for unaccompanied children receives funding under the law."
+   },
+   {
+    "group": "Members of the Army, Marine Corps, Air Force, and Army National Guard",
+    "how": "Their units receive operation and maintenance funding for border-related activity."
+   },
+   {
+    "group": "Staff at U.S. Customs and Border Protection and U.S. Immigration and Customs Enforcement",
+    "how": "These agencies receive emergency appropriations to support their border work."
+   },
+   {
+    "group": "Immigration judges and staff at the Executive Office for Immigration Review",
+    "how": "The Justice Department office that handles immigration court cases receives additional money."
+   },
+   {
+    "group": "Taxpayers",
+    "how": "The emergency spending is added to the federal budget without counting against the usual discretionary spending caps."
+   }
+  ],
+  "when_it_takes_effect": "The law took effect when it was enacted on July 1, 2019, and the funds apply to fiscal year 2019.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

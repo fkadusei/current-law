@@ -4357,5 +4357,28 @@
   "House": "R",
   "Senate": "R"
  },
- "summary": null
+ "summary": {
+  "headline": "This 2017 law cancels a federal rule that was meant to put a labor-law compliance requirement on federal contractors.",
+  "what_it_does": "Congress passed a joint resolution that nullifies a rule finalized in August 2016 by the Defense Department, the General Services Administration, and NASA. That rule changed the Federal Acquisition Regulation to carry out Executive Order 13673 on contractor compliance with labor laws. Because the resolution nullifies the rule, the rule does not stay in effect.",
+  "who_it_affects": [
+   {
+    "group": "Federal contractors",
+    "how": "Companies that sell goods or services to the federal government will not have to follow the 2016 rule's labor-law compliance changes."
+   },
+   {
+    "group": "Workers on federal contracts",
+    "how": "Employees of companies with federal contracts are affected because the labor-law compliance rule they would have been covered by no longer applies."
+   },
+   {
+    "group": "Federal contracting agencies",
+    "how": "The Defense Department, General Services Administration, and NASA cannot enforce the nullified rule in their contract purchasing."
+   }
+  ],
+  "when_it_takes_effect": "The resolution took effect when it was signed into law on March 27, 2017.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }

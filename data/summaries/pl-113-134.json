@@ -1,0 +1,24 @@
+{
+ "headline": "This 2014 law moves about 20 acres of federal land into trust for the Pascua Yaqui Tribe in Arizona, with conditions and restrictions on gaming and water rights.",
+ "what_it_does": "The law places about 10 acres of federal land known as parcel A and about 10 acres known as parcel B into trust for the Pascua Yaqui Tribe of Arizona, as shown on a map dated January 15, 2013. The transfer of parcel B does not take effect until the Tucson Unified School District gives up its interest in that land and the Secretary of the Interior approves and records a lease between the Tribe and the District. That lease covers a regional transportation facility on the Tribe's restricted land. The law bars gaming on the trust lands and prevents any water rights tied to those lands from being forfeited or abandoned.",
+ "who_it_affects": [
+  {
+   "group": "Pascua Yaqui Tribe of Arizona",
+   "how": "The Tribe receives about 20 acres of federal land held in trust and gains a lease arrangement tied to a regional transportation facility, while gaming is not allowed on these lands."
+  },
+  {
+   "group": "Tucson Unified School District",
+   "how": "The District must give up its interest in parcel B and enter a lease with the Tribe for a regional transportation facility before the parcel B transfer takes effect."
+  },
+  {
+   "group": "Owners of water rights tied to the trust lands",
+   "how": "Those water rights cannot be lost through forfeiture or abandonment."
+  }
+ ],
+ "when_it_takes_effect": "The conveyance takes effect the day after the Tucson Unified School District relinquishes its interest in parcel B and the Secretary of the Interior approves and records the Tribe-District lease; the summary does not give a separate date for parcel A.",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-08"
+}

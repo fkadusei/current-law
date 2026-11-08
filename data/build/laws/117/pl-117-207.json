@@ -3528,5 +3528,28 @@
  "control": {
   "House": "D"
  },
- "summary": null
+ "summary": {
+  "headline": "A 2022 law requires the White House budget office to set up AI training for federal employees who buy goods and services for executive agencies.",
+  "what_it_does": "The law directs the Office of Management and Budget (OMB) to create or provide an artificial intelligence training program for the acquisition workforce of executive agencies, such as people in program management or logistics. The goal is for these workers to understand what AI can do and what risks it carries. OMB must update the program at least every two years and set up ways to track workforce participation and collect feedback from participants. The summary notes some exceptions but does not list them.",
+  "who_it_affects": [
+   {
+    "group": "Federal acquisition workforce",
+    "how": "Employees in roles such as program management and logistics at executive agencies are the people the training is designed for."
+   },
+   {
+    "group": "Office of Management and Budget",
+    "how": "OMB must establish or provide the training program, update it at least every two years, and track participation and feedback."
+   },
+   {
+    "group": "Executive agencies",
+    "how": "Agencies with acquisition staff are covered by the program, subject to the exceptions the law lists."
+   }
+  ],
+  "when_it_takes_effect": "The law was enacted on October 17, 2022, and the summary does not give a separate start date or deadline for the training program.",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-08"
+ }
 }
