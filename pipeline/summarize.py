@@ -24,7 +24,8 @@ from anthropic.types.messages.batch_create_params import Request
 from common import BUILD, ROOT, write_json
 
 SUMMARIES = ROOT / "data" / "summaries"
-DEFAULT_MODEL = "claude-opus-5-5"
+# Model for new summaries. Change it here, or set CURRENT_LAW_SUMMARY_MODEL.
+DEFAULT_MODEL = os.environ.get("CURRENT_LAW_SUMMARY_MODEL", "claude-opus-5-5")
 # Ceremonial laws (post office names, commemorations) read the same on any
 # model, so they go to the cheaper one.
 CEREMONIAL_MODEL = "claude-haiku-5-5"

@@ -229,8 +229,13 @@ def build_executive_orders() -> None:
     path = RAW / "federal_register" / "executive_orders.json"
     if not path.exists():
         return
-    orders = []
+    orders, seen = [], set()
     for o in json.loads(path.read_text()):
+        number = o.get("executive_order_number")
+        # Skip corrections, republished copies and unnumbered documents.
+        if not number or number in seen or (o.get("title") or "").startswith("Correction"):
+            continue
+        seen.add(number)
         signed = o.get("signing_date") or o.get("publication_date")
         orders.append({
             "id": f"eo-{o.get('executive_order_number')}",
