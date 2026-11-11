@@ -1,0 +1,11 @@
+---
+import Base from "../layouts/Base.astro";
+---
+<Base title="You're offline">
+  <h1>You're offline</h1>
+  <p>This page hasn't been saved on this device yet. Pages you've already opened still work without a connection, so try going back.</p>
+  <p><button type="button" class="retry" onclick="location.reload()">Try again</button></p>
+</Base>
+<style>
+  .retry { font: inherit; font-weight: 600; padding: 10px 18px; border-radius: 999px; border: 0; background: var(--navy); color: #fff; cursor: pointer; }
+</style>

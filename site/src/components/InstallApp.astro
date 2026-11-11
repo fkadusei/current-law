@@ -1,0 +1,237 @@
+---
+// "Install the app" dialog. Any element with [data-install] opens it.
+// Where the browser offers its own install prompt (Chrome, Edge, Samsung Internet
+// on Android and desktop), the dialog shows a one-tap Install button. Everywhere
+// else it shows the steps for that device, with the other devices one tap away.
+const base = import.meta.env.BASE_URL.replace(/\/$/, "");
+const share = `<svg class="ico" viewBox="0 0 24 24" aria-label="Share"><path d="M12 3v12M7.5 7.5 12 3l4.5 4.5" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M8 10H6a1 1 0 0 0-1 1v9a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-9a1 1 0 0 0-1-1h-2" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>`;
+const dots = `<svg class="ico" viewBox="0 0 24 24" aria-label="menu"><g fill="currentColor"><circle cx="12" cy="5" r="2"/><circle cx="12" cy="12" r="2"/><circle cx="12" cy="19" r="2"/></g></svg>`;
+const plusBox = `<svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><rect x="4" y="4" width="16" height="16" rx="4" fill="none" stroke="currentColor" stroke-width="2"/><path d="M12 8.5v7M8.5 12h7" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>`;
+const monitor = `<svg class="ico" viewBox="0 0 24 24" aria-label="install icon"><rect x="3" y="4" width="18" height="12" rx="2" fill="none" stroke="currentColor" stroke-width="2"/><path d="M8 20h8" stroke="currentColor" stroke-width="2" stroke-linecap="round"/><path d="M12 7v5.5M9.5 10 12 12.5 14.5 10" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>`;
+---
+<dialog class="install-dlg" id="install-dlg" aria-labelledby="install-title">
+  <div class="install-head">
+    <img src={`${base}/icon-192.png`} alt="" width="56" height="56" />
+    <div>
+      <h2 id="install-title">Get the Current Law app</h2>
+      <p>Free, no app store needed. It opens full screen from your home screen or dock, and pages you've read stay available offline.</p>
+    </div>
+    <button type="button" class="install-x" data-install-close aria-label="Close">✕</button>
+  </div>
+
+  <div class="install-now" id="install-now" hidden>
+    <button type="button" class="install-go" id="install-go">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 4v11M7.5 10.5 12 15l4.5-4.5" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/><path d="M5 19h14" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></svg>
+      Install now
+    </button>
+    <p class="muted">Your browser will ask you to confirm. Prefer to do it by hand? The steps are below.</p>
+  </div>
+
+  <div class="install-done" id="install-done" hidden>
+    <p><strong>You're all set.</strong> Current Law is installed on this device. Look for its icon on your home screen, dock or app list.</p>
+  </div>
+
+  <div class="install-tabs" role="tablist" aria-label="Your device">
+    <button type="button" role="tab" id="itab-ios" aria-controls="ipanel-ios" data-dev="ios">iPhone / iPad</button>
+    <button type="button" role="tab" id="itab-android" aria-controls="ipanel-android" data-dev="android">Android</button>
+    <button type="button" role="tab" id="itab-desktop" aria-controls="ipanel-desktop" data-dev="desktop">Computer</button>
+  </div>
+
+  <section class="install-panel" role="tabpanel" id="ipanel-ios" aria-labelledby="itab-ios" data-dev="ios">
+    <div class="install-way" data-browser="safari">
+      <h3>In Safari</h3>
+      <ol>
+        <li>Tap the <b>Share</b> button <Fragment set:html={share} /> at the bottom of the screen (on iPad, it's at the top right). If you don't see it, tap <b>•••</b> first.</li>
+        <li>Scroll down the list and tap <b>Add to Home Screen</b> <Fragment set:html={plusBox} />.</li>
+        <li>Make sure <b>Open as Web App</b> is switched on if you see it, then tap <b>Add</b>.</li>
+      </ol>
+    </div>
+    <div class="install-way" data-browser="ios-other">
+      <h3>In Chrome, Edge or Firefox</h3>
+      <ol>
+        <li>Tap the <b>Share</b> button <Fragment set:html={share} /> in the address bar (in Firefox, open the <b>☰</b> menu and tap <b>Share</b>).</li>
+        <li>Tap <b>Add to Home Screen</b>, then <b>Add</b>.</li>
+      </ol>
+      <p class="install-tip">Don't see it? Open usacurrentlaw.org in Safari and follow the steps above.</p>
+    </div>
+  </section>
+
+  <section class="install-panel" role="tabpanel" id="ipanel-android" aria-labelledby="itab-android" data-dev="android">
+    <div class="install-way" data-browser="chrome">
+      <h3>In Chrome</h3>
+      <ol>
+        <li>Tap the menu button <Fragment set:html={dots} /> at the top right.</li>
+        <li>Tap <b>Add to Home screen</b> (it may say <b>Install app</b>).</li>
+        <li>Tap <b>Install</b>.</li>
+      </ol>
+    </div>
+    <div class="install-way" data-browser="samsung">
+      <h3>In Samsung Internet</h3>
+      <ol>
+        <li>Tap the menu button <b>☰</b> at the bottom right.</li>
+        <li>Tap <b>Add page to</b>, then <b>Home screen</b>.</li>
+      </ol>
+    </div>
+    <div class="install-way" data-browser="firefox">
+      <h3>In Firefox</h3>
+      <ol>
+        <li>Tap the menu button <Fragment set:html={dots} />.</li>
+        <li>Tap <b>Add app to Home screen</b> (or <b>Install</b>), then <b>Add</b>.</li>
+      </ol>
+    </div>
+  </section>
+
+  <section class="install-panel" role="tabpanel" id="ipanel-desktop" aria-labelledby="itab-desktop" data-dev="desktop">
+    <div class="install-way" data-browser="chrome">
+      <h3>In Chrome</h3>
+      <ol>
+        <li>Click the install icon <Fragment set:html={monitor} /> at the right end of the address bar.</li>
+        <li>Click <b>Install</b>.</li>
+      </ol>
+      <p class="install-tip">No icon? Open the <Fragment set:html={dots} /> menu, then <b>Cast, save and share</b> &rsaquo; <b>Install page as app</b>.</p>
+    </div>
+    <div class="install-way" data-browser="edge">
+      <h3>In Microsoft Edge</h3>
+      <ol>
+        <li>Click the app icon <Fragment set:html={monitor} /> in the address bar, or open the <b>…</b> menu &rsaquo; <b>Apps</b> &rsaquo; <b>Install this site as an app</b>.</li>
+        <li>Click <b>Install</b>.</li>
+      </ol>
+    </div>
+    <div class="install-way" data-browser="safari">
+      <h3>In Safari on a Mac</h3>
+      <ol>
+        <li>Click <b>File</b> in the menu bar (or the Share button <Fragment set:html={share} />).</li>
+        <li>Click <b>Add to Dock</b>, then <b>Add</b>.</li>
+      </ol>
+    </div>
+    <div class="install-way" data-browser="firefox">
+      <h3>In Firefox</h3>
+      <p>Firefox on a computer can't install sites as apps. Open usacurrentlaw.org in Chrome, Edge or Safari and follow the steps above, or press <kbd>Ctrl</kbd>/<kbd>⌘</kbd> + <kbd>D</kbd> to bookmark it.</p>
+    </div>
+  </section>
+</dialog>
+
+<script>
+  const dlg = document.getElementById("install-dlg") as HTMLDialogElement;
+  const now = document.getElementById("install-now");
+  const done = document.getElementById("install-done");
+  const go = document.getElementById("install-go");
+  const tabs = [...dlg.querySelectorAll<HTMLButtonElement>("[role=tab]")];
+  const panels = [...dlg.querySelectorAll<HTMLElement>("[role=tabpanel]")];
+  let deferred: any = null;
+
+  const ua = navigator.userAgent;
+  const ios = /iPhone|iPad|iPod/.test(ua) || (/Macintosh/.test(ua) && navigator.maxTouchPoints > 1);
+  const android = /Android/.test(ua);
+  const device = ios ? "ios" : android ? "android" : "desktop";
+  const browser = ios
+    ? (/CriOS|EdgiOS|FxiOS/.test(ua) ? "ios-other" : "safari")
+    : /SamsungBrowser/.test(ua) ? "samsung"
+    : /Edg\//.test(ua) ? "edge"
+    : /Firefox|FxiOS/.test(ua) ? "firefox"
+    : /Chrome|CriOS/.test(ua) ? "chrome"
+    : /Safari/.test(ua) ? "safari" : "";
+
+  const installed = () =>
+    matchMedia("(display-mode: standalone)").matches ||
+    matchMedia("(display-mode: minimal-ui)").matches ||
+    (navigator as any).standalone === true;
+
+  function show(dev: string) {
+    tabs.forEach((t) => {
+      const on = t.dataset.dev === dev;
+      t.setAttribute("aria-selected", String(on));
+      t.tabIndex = on ? 0 : -1;
+    });
+    panels.forEach((p) => {
+      p.hidden = p.dataset.dev !== dev;
+      // Put the reader's own browser first and mark it.
+      const mine = dev === device && browser ? p.querySelector<HTMLElement>(`[data-browser="${browser}"]`) : null;
+      p.querySelectorAll(".install-way").forEach((w) => w.classList.toggle("mine", w === mine));
+      if (mine) p.prepend(mine);
+    });
+  }
+  tabs.forEach((t, i) => {
+    t.addEventListener("click", () => show(t.dataset.dev!));
+    t.addEventListener("keydown", (e) => {
+      if (e.key !== "ArrowRight" && e.key !== "ArrowLeft") return;
+      const next = tabs[(i + (e.key === "ArrowRight" ? 1 : tabs.length - 1)) % tabs.length];
+      next.focus(); show(next.dataset.dev!);
+    });
+  });
+
+  function open() {
+    now!.hidden = !deferred;
+    done!.hidden = !installed();
+    show(device);
+    dlg.showModal();
+  }
+  document.addEventListener("click", (e) => {
+    const t = (e.target as Element).closest("[data-install]");
+    if (t) { e.preventDefault(); open(); }
+    if ((e.target as Element).closest("[data-install-close]")) dlg.close();
+  });
+  dlg.addEventListener("click", (e) => { if (e.target === dlg) dlg.close(); });
+
+  // Chrome, Edge and Samsung Internet hand us their install prompt to show on demand.
+  window.addEventListener("beforeinstallprompt", (e) => {
+    e.preventDefault();
+    deferred = e;
+    if (dlg.open) now!.hidden = false;
+  });
+  go!.addEventListener("click", async () => {
+    if (!deferred) return;
+    deferred.prompt();
+    const { outcome } = await deferred.userChoice;
+    deferred = null;
+    now!.hidden = true;
+    if (outcome === "accepted") done!.hidden = false;
+  });
+  window.addEventListener("appinstalled", () => {
+    deferred = null;
+    now!.hidden = true;
+    done!.hidden = false;
+    document.documentElement.classList.add("is-app");
+  });
+  if (installed()) document.documentElement.classList.add("is-app");
+
+  if ("serviceWorker" in navigator) {
+    window.addEventListener("load", () => navigator.serviceWorker.register("/sw.js").catch(() => {}));
+  }
+</script>
+
+<style is:global>
+  /* Already running as the installed app: no need to offer it. */
+  .is-app [data-install] { display: none !important; }
+  @media (display-mode: standalone) { [data-install] { display: none !important; } }
+
+  .install-dlg { width: min(560px, calc(100vw - 32px)); max-height: calc(100dvh - 32px); padding: 0; border: 1px solid var(--border); border-radius: 20px; background: var(--surface); color: var(--text); box-shadow: var(--shadow-lg); overflow: auto; }
+  .install-dlg::backdrop { background: rgb(8 18 31 / .55); backdrop-filter: blur(2px); }
+  .install-head { display: grid; grid-template-columns: auto 1fr auto; gap: 14px; align-items: start; padding: 22px 22px 16px; background: linear-gradient(180deg, var(--navy), var(--navy-2)); color: #fff; }
+  .install-head img { border-radius: 14px; box-shadow: 0 0 0 1px rgb(255 255 255 / .2); }
+  .install-head h2 { margin: 2px 0 6px; font-size: 1.35rem; color: #fff; }
+  .install-head p { margin: 0; font-size: .9rem; color: rgb(255 255 255 / .8); line-height: 1.45; }
+  .install-x { width: 32px; height: 32px; border-radius: 999px; border: 1px solid rgb(255 255 255 / .25); background: transparent; color: #fff; cursor: pointer; font-size: .9rem; }
+  .install-x:hover { background: rgb(255 255 255 / .12); }
+  .install-now, .install-done { padding: 18px 22px 0; }
+  .install-now p, .install-done p { margin: 8px 0 0; font-size: .86rem; }
+  .install-done p { margin: 0; padding: 12px 14px; border-radius: 12px; background: color-mix(in srgb, var(--yea) 14%, transparent); }
+  .install-go { display: inline-flex; align-items: center; gap: 8px; font: inherit; font-weight: 700; padding: 11px 20px; border-radius: 999px; border: 0; background: var(--gold); color: var(--navy); cursor: pointer; }
+  .install-go svg { width: 18px; height: 18px; }
+  .install-go:hover { filter: brightness(1.06); }
+  .install-tabs { display: flex; gap: 4px; margin: 18px 22px 0; padding: 4px; border-radius: 999px; background: var(--surface-2); }
+  .install-tabs button { flex: 1; font: inherit; font-size: .86rem; font-weight: 600; padding: 7px 8px; border: 0; border-radius: 999px; background: transparent; color: var(--muted); cursor: pointer; white-space: nowrap; }
+  .install-tabs button[aria-selected="true"] { background: var(--surface); color: var(--text); box-shadow: var(--shadow); }
+  .install-panel { padding: 6px 22px 22px; }
+  .install-way { margin-top: 14px; padding: 14px 16px; border: 1px solid var(--border); border-radius: 14px; }
+  .install-way.mine { border-color: color-mix(in srgb, var(--gold) 70%, var(--border)); box-shadow: inset 0 0 0 1px color-mix(in srgb, var(--gold) 50%, transparent); }
+  .install-way.mine h3::after { content: "Your browser"; margin-left: 8px; vertical-align: 2px; font: 700 .62rem var(--sans); letter-spacing: .08em; text-transform: uppercase; color: var(--navy); background: var(--gold); border-radius: 6px; padding: 2px 7px; }
+  .install-way h3 { font: 700 .98rem var(--sans); margin: 0 0 6px; letter-spacing: 0; }
+  .install-way ol { margin: 0; padding-left: 1.3rem; }
+  .install-way li { margin: 6px 0; line-height: 1.5; }
+  .install-way p { margin: 4px 0 0; font-size: .92rem; }
+  .install-way .install-tip { margin-top: 8px; font-size: .84rem; color: var(--muted); }
+  .install-way .ico { width: 1.15em; height: 1.15em; vertical-align: -0.22em; margin: 0 1px; color: var(--accent); }
+  .install-way kbd { font: 600 .78rem var(--sans); border: 1px solid var(--border); border-bottom-width: 2px; border-radius: 5px; padding: 0 5px; }
+  @media (max-width: 480px) { .install-head { padding: 18px 16px 14px; gap: 12px; } .install-head img { width: 44px; height: 44px; } .install-head h2 { font-size: 1.15rem; } .install-tabs { margin: 16px 16px 0; } .install-panel { padding: 4px 16px 18px; } .install-now, .install-done { padding: 16px 16px 0; } }
+</style>

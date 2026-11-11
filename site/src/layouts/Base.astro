@@ -1,5 +1,6 @@
 ---
 import ChatWidget from "../components/ChatWidget.astro";
+import InstallApp from "../components/InstallApp.astro";
 import { SUPPORT_URL } from "../lib/data.js";
 const { title, kind, description = "Every US federal law since 1973: what it does, who voted for it, and who signed it." } = Astro.props;
 const base = import.meta.env.BASE_URL.replace(/\/$/, "");
@@ -33,6 +34,10 @@ const nav = [
   <link rel="apple-touch-icon" href={`${base}/apple-touch-icon.png`} />
   <link rel="manifest" href={`${base}/site.webmanifest`} />
   <meta name="theme-color" content="#0b1d36" />
+  <meta name="mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-title" content="Current Law" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
   <meta property="og:title" content={title ? `${title} · Current Law` : "Current Law"} />
   <meta property="og:description" content={description} />
   <meta property="og:image" content={new URL(`${base}/icon-512.png`, Astro.site).href} />
@@ -60,6 +65,7 @@ const nav = [
           <a href={`${base}${href}`} aria-current={(href === "/" ? path === "/" || path.startsWith("/laws") : path.startsWith(href)) ? "page" : undefined}>{label}</a>
         ))}
       </nav>
+      <button type="button" class="get-app" data-install aria-haspopup="dialog" title="Install Current Law as an app"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3.5v11M7.5 10 12 14.5 16.5 10" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/><path d="M4.5 15.5v3a2 2 0 0 0 2 2h11a2 2 0 0 0 2-2v-3" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></svg><span>Get the app</span></button>
       <div class="theme" role="radiogroup" aria-label="Color theme">
         <button type="button" role="radio" data-t="light" title="Light" aria-label="Light"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="4.5" fill="currentColor"/><g stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M12 2v2.5M12 19.5V22M2 12h2.5M19.5 12H22M4.9 4.9l1.8 1.8M17.3 17.3l1.8 1.8M4.9 19.1l1.8-1.8M17.3 6.7l1.8-1.8"/></g></svg></button>
         <button type="button" role="radio" data-t="dark" title="Dark" aria-label="Dark"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 14.5A8 8 0 0 1 9.5 4a8 8 0 1 0 10.5 10.5z" fill="currentColor"/></svg></button>
@@ -83,6 +89,7 @@ const nav = [
     <slot />
   </main>
   <ChatWidget />
+  <InstallApp />
   <footer class="site-footer">
     <div class="wrap footer-inner">
       <div>
@@ -94,6 +101,7 @@ const nav = [
       <div>
         <p class="footer-h">Explore</p>
         {[...nav, ["/about/", "About"]].map(([href, label]) => <a href={`${base}${href}`}>{label}</a>)}
+        <a href="#" data-install>Get the app</a>
       </div>
       <div>
         <p class="footer-h">Sources</p>
@@ -284,6 +292,10 @@ const nav = [
   .brand-mark { display: grid; place-items: center; width: 38px; height: 38px; border-radius: 10px; font: 700 1.3rem var(--serif); background: linear-gradient(135deg, var(--dem), var(--rep)); color: #fff; box-shadow: inset 0 0 0 1px rgb(255 255 255 / .25); }
   .brand-mark.small { width: 26px; height: 26px; font-size: .95rem; border-radius: 7px; display: inline-grid; vertical-align: middle; }
   nav { display: flex; gap: 2px; flex-wrap: wrap; }
+  .get-app { display: inline-flex; align-items: center; gap: 7px; height: 36px; padding: 0 14px 0 11px; border-radius: 999px; border: 1px solid color-mix(in srgb, var(--gold) 70%, transparent); background: color-mix(in srgb, var(--gold) 16%, transparent); color: #fff; font: 600 .86rem var(--sans); cursor: pointer; white-space: nowrap; }
+  .get-app svg { width: 17px; height: 17px; color: var(--gold); }
+  .get-app:hover { background: var(--gold); color: var(--navy); }
+  .get-app:hover svg { color: var(--navy); }
   .theme { display: inline-flex; gap: 2px; padding: 3px; border-radius: 999px; background: rgb(255 255 255 / .08); border: 1px solid rgb(255 255 255 / .12); }
   .theme button { width: 30px; height: 30px; display: grid; place-items: center; border: 0; border-radius: 999px; background: transparent; color: rgb(255 255 255 / .7); cursor: pointer; }
   .theme button svg { width: 16px; height: 16px; }
@@ -344,8 +356,10 @@ const nav = [
   @media (prefers-reduced-motion: reduce) { * { transition: none !important; animation: none !important; } }
   .gs-toggle { display: none; }
   @media (max-width: 720px) {
-    .header-inner { display: grid; grid-template-columns: 1fr auto auto; grid-template-areas: "brand find theme" "nav nav nav" "search search search"; gap: 6px 10px; min-height: 0; padding-top: 8px; padding-bottom: 6px; }
+    .header-inner { display: grid; grid-template-columns: 1fr auto auto auto; grid-template-areas: "brand app find theme" "nav nav nav nav" "search search search search"; gap: 6px 10px; min-height: 0; padding-top: 8px; padding-bottom: 6px; }
     .brand { grid-area: brand; } .brand-logo { width: 32px; height: 32px; } .brand-text span { font-size: 1.15rem; } .brand-text small { display: none; }
+    .get-app { grid-area: app; width: 36px; height: 36px; padding: 0; justify-content: center; }
+    .get-app span { display: none; }
     .theme { grid-area: theme; } .theme button { width: 28px; height: 28px; }
     .gs-toggle { grid-area: find; display: grid; place-items: center; width: 36px; height: 36px; border-radius: 999px; border: 1px solid rgb(255 255 255 / .18); background: rgb(255 255 255 / .08); color: #fff; cursor: pointer; }
     .gs-toggle svg { width: 17px; height: 17px; }
