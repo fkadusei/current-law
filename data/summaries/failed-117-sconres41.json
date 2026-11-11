@@ -1,0 +1,32 @@
+{
+ "headline": "A Senate budget resolution for fiscal year 2023 that would have set federal spending, revenue, and debt targets through 2032 did not pass.",
+ "what_it_does": "If adopted, this concurrent resolution would have set the congressional budget for fiscal year 2023 and budget targets for fiscal years 2024 through 2032. It would have recommended levels for federal revenues, spending authority, outlays, deficits, and total and publicly held debt, along with major spending categories. It would also have created reserve funds that allow committee spending limits to be adjusted for certain savings proposals and for health savings account legislation, and it would have set budget enforcement rules for points of order, emergency spending, and Congressional Budget Office cost estimates.",
+ "who_it_affects": [
+  {
+   "group": "Members of Congress and congressional committees",
+   "how": "The resolution would have guided how committees set spending limits and how the Senate enforced budget rules during later debates on spending and tax bills."
+  },
+  {
+   "group": "People who receive Social Security benefits",
+   "how": "The resolution would have recommended levels for Social Security administrative expenses for budget enforcement purposes in the Senate."
+  },
+  {
+   "group": "Postal Service customers and employees",
+   "how": "The resolution would have recommended levels for Postal Service discretionary administrative expenses for budget enforcement purposes in the Senate."
+  },
+  {
+   "group": "People who buy health insurance or use health savings accounts",
+   "how": "The resolution would have created a reserve fund that could allow Congress to adjust budget limits for legislation relating to health savings accounts."
+  },
+  {
+   "group": "Federal agencies and programs",
+   "how": "The resolution would have set recommended funding levels for major federal spending categories over the ten-year period."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

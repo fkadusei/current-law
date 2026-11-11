@@ -1,0 +1,32 @@
+{
+ "headline": "S. 388 would have changed federal spending limits, farm programs, and taxes on high earners, but the Senate did not take it up.",
+ "what_it_does": "If adopted, the bill would have revised the Gramm-Rudman-Hollings spending caps and delayed certain automatic spending cuts (sequestration) for fiscal years 2013 and 2014. It would have required people with adjusted gross income over $1 million to pay a minimum tax of 30% of their income above a modified charitable deduction. It would also have changed farm disaster aid, crop insurance, and several USDA grant and energy programs. Finally, it would have denied tax deductions for costs of moving a U.S. business unit overseas and broadened the federal excise tax on crude oil.",
+ "who_it_affects": [
+  {
+   "group": "Farmers and ranchers",
+   "how": "They would have seen changes to direct and counter-cyclical payments for 2013 crops, crop insurance coverage and fees, and a 50% premium cut on additional coverage for limited resource, beginning, and socially disadvantaged farmers."
+  },
+  {
+   "group": "High-income individual taxpayers",
+   "how": "Those with adjusted gross income above $1 million would have owed a minimum tax of 30% of their income above a modified charitable deduction, with the $1 million threshold adjusted for inflation after 2013."
+  },
+  {
+   "group": "Businesses that move U.S. operations overseas",
+   "how": "They would have been unable to deduct expenses tied to closing a U.S. business unit and opening one outside the United States."
+  },
+  {
+   "group": "Oil and fuel producers and sellers",
+   "how": "They would have faced the federal crude oil excise tax on condensates, natural gasoline, and oil derived from bitumen, and domestic crude oil would have been defined by where it is produced in the United States."
+  },
+  {
+   "group": "Participants in SNAP employment and training programs",
+   "how": "Federal funding for SNAP employment and training would have increased for fiscal year 2013."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

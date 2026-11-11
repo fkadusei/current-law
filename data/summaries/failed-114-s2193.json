@@ -1,0 +1,24 @@
+{
+ "headline": "Kate's Law would have raised prison terms for certain immigrants who illegally reenter the United States after being removed or denied admission.",
+ "what_it_does": "The bill would have changed the Immigration and Nationality Act to raise the maximum prison term for an immigrant who reenters after being denied admission, excluded, deported, or removed from two years to five years. It would have set a 10-year maximum for those who reenter after three or more such prior occasions. It also would have required a minimum prison term of five years for those who reenter after a removal tied to an aggravated felony conviction or after two or more prior illegal reentry convictions.",
+ "who_it_affects": [
+  {
+   "group": "Immigrants who reenter the U.S. after being denied admission, excluded, deported, or removed",
+   "how": "They would have faced longer maximum prison terms, and some would have faced mandatory five-year minimum terms."
+  },
+  {
+   "group": "Immigrants with prior aggravated felony convictions or repeated illegal reentry convictions",
+   "how": "They would have been subject to the mandatory five-year minimum prison term if they reentered after removal."
+  },
+  {
+   "group": "Federal courts and federal prisons",
+   "how": "They would have handled longer sentences and more mandatory minimum sentences for this category of offense."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

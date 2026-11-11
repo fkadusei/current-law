@@ -1,0 +1,135 @@
+---
+import Base from "../../layouts/Base.astro";
+import VoteBreakdown from "../../components/VoteBreakdown.astro";
+import { allFailed, lawColor, failedLabel, supportLabel, failedPartyLine, yesMeant, formatDate, congressLabel, FAILED_KIND } from "../../lib/data.js";
+export function getStaticPaths() {
+  return allFailed().map((item) => ({ params: { id: item.id }, props: { item } }));
+}
+const { item } = Astro.props;
+const base = import.meta.env.BASE_URL.replace(/\/$/, "");
+const color = lawColor(item.support_color);
+const s = item.summary;
+const sc = item.support_color;
+const partyLine = failedPartyLine(item);
+const last = item.votes.at(-1);
+const officialText = (item.official_summary || "").replace(/<[^>]+>/g, " ").replace(/&nbsp;/g, " ").replace(/&quot;/g, '"').replace(/&#39;|&apos;/g, "'").replace(/&amp;/g, "&").replace(/\s+/g, " ").trim();
+const votes = [...item.votes].reverse(); // newest first
+---
+<Base title={item.title} kind="Didn't pass" description={s?.headline || item.title}>
+  <section slot="hero" class="law-hero" style={`--lc:${color.bg};--lf:${color.fg}`}>
+    <div class="wrap">
+      <p class="crumbs"><a href={`${base}/did-not-pass/`}>Didn't pass</a> › {congressLabel(item.congress)}</p>
+      <p class="eyebrow">{item.bill} · {FAILED_KIND[item.kind]} {formatDate(item.failed_on)}{item.policy_area ? ` · ${item.policy_area}` : ""}</p>
+      <h1>{item.title}</h1>
+      <div class="hero-tags">
+        <span class="failchip">✕ {failedLabel(item)}</span>
+        <span class="verdict">{supportLabel(item)}</span>
+        {partyLine && <span class="oneparty">⚠ {partyLine}</span>}
+        {Object.entries(item.control || {}).map(([ch, p]) => <span class={`ctl-chip p-${p}`}>{p === "R" ? "Republican" : "Democratic"} {ch}</span>)}
+        {item.later_became_law && <a class="lawchip" href={`${base}/laws/${item.later_became_law.id}/`}>✓ Later became Public Law {item.later_became_law.public_law} →</a>}
+      </div>
+      {sc && (
+        <>
+          <p class="ym-cap">Votes for it in the {last.chamber} on {formatDate(last.date)}{last.kind === "set_aside" ? " (members who voted to keep it alive)" : ""}:</p>
+          <div class="yes-meter" aria-label={`Votes for it: ${sc.d_support} Democratic, ${sc.r_support} Republican`}>
+            {sc.d_support > 0 && <span class="ym-d" style={`flex:${sc.d_support}`}>{sc.d_support / (sc.d_support + sc.r_support) > 0.12 ? `${sc.d_support} Democratic` : ""}</span>}
+            {sc.r_support > 0 && <span class="ym-r" style={`flex:${sc.r_support}`}>{sc.r_support / (sc.d_support + sc.r_support) > 0.12 ? `${sc.r_support} Republican` : ""}</span>}
+          </div>
+        </>
+      )}
+    </div>
+  </section>
+  <article>
+    {partyLine && (
+      <div class="alert-box" role="note"><strong>⚠ {partyLine}</strong> on the {last.chamber} vote that stopped it.</div>
+    )}
+    <div class="layout">
+      <div class="main-col">
+        <section class="card pad">
+          <h2>What it would have done</h2>
+          {s ? (
+            <>
+              <p class="headline">{s.headline}</p>
+              <p>{s.what_it_does}</p>
+              {s.who_it_affects?.length > 0 && (
+                <>
+                  <h3>Who it would have affected</h3>
+                  <ul class="affects">{s.who_it_affects.map((a) => <li><strong>{a.group}:</strong> {a.how}</li>)}</ul>
+                </>
+              )}
+              {s.confidence === "low" && <p class="small muted">Based on limited source material, so check the official text.</p>}
+            </>
+          ) : officialText ? (
+            <>
+              <p class="muted small">Official summary from the Congressional Research Service:</p>
+              {officialText.length > 900
+                ? <details class="official"><summary>{officialText.slice(0, 600)}… <span class="more">Read the full official summary</span></summary><p>{officialText}</p></details>
+                : <p>{officialText}</p>}
+            </>
+          ) : <p class="muted">No summary yet. See Congress.gov for the full text.</p>}
+        </section>
+
+        <h2>How Congress voted</h2>
+        <div class="grid">
+          {votes.map((v, i) => (
+            <div>
+              {yesMeant(v) && <p class="meant">{yesMeant(v)}</p>}
+              <VoteBreakdown vote={v} index={i} />
+            </div>
+          ))}
+        </div>
+      </div>
+
+      <aside class="side-col" data-pagefind-ignore>
+        <div class="card pad facts">
+          <h3>At a glance</h3>
+          <dl>
+            <dt>What happened</dt><dd>{failedLabel(item)}</dd>
+            {item.votes.length > 1 && <><dt>Failed votes</dt><dd>{item.votes.length} recorded votes, {formatDate(item.votes[0].date)} to {formatDate(last.date)}</dd></>}
+            {item.sponsor && <><dt>Sponsor</dt><dd>{item.sponsor}</dd></>}
+            {item.policy_area && <><dt>Topic</dt><dd>{item.policy_area}</dd></>}
+            {sc && <><dt>Votes for it, {last.chamber}</dt><dd><span class="party-D">{sc.d_support} Democratic</span> · <span class="party-R">{sc.r_support} Republican</span></dd></>}
+            {item.latest_action?.text && <><dt>Latest action</dt><dd>{item.latest_action.text} <span class="muted">({formatDate(item.latest_action.actionDate)})</span></dd></>}
+          </dl>
+          <h3>Official sources</h3>
+          <ul class="links"><li><a href={item.congress_gov_url} rel="noopener">Congress.gov page</a></li></ul>
+        </div>
+      </aside>
+    </div>
+  </article>
+</Base>
+<style>
+  .law-hero { color: #fff; padding: 36px 0 34px; background: radial-gradient(900px 300px at 100% 0%, color-mix(in srgb, var(--lc) 70%, transparent), transparent 70%), linear-gradient(180deg, var(--navy), var(--navy-2)); border-bottom: 6px solid var(--lc); }
+  .law-hero .crumbs { font-size: .85rem; margin: 0 0 18px; color: rgb(255 255 255 / .7); }
+  .law-hero .crumbs a { color: #fff; }
+  .law-hero h1 { color: #fff; max-width: 900px; overflow-wrap: anywhere; }
+  .eyebrow { font-size: .82rem; margin: 0 0 10px; color: var(--gold); font-weight: 600; letter-spacing: .02em; }
+  .hero-tags { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 16px; }
+  .verdict { background: var(--lc); color: var(--lf); font-weight: 700; padding: 6px 14px; border-radius: 999px; }
+  .failchip { background: #fff; color: #9b1c2a; font-weight: 700; padding: 6px 14px; border-radius: 999px; }
+  .lawchip { background: #1f8a4c; color: #fff; font-weight: 700; padding: 6px 14px; border-radius: 999px; text-decoration: none; }
+  .ctl-chip { padding: 6px 12px; border-radius: 999px; font-weight: 600; font-size: .9rem; border: 1px solid rgb(255 255 255 / .25); }
+  .ctl-chip::before { content: ""; display: inline-block; width: 9px; height: 9px; border-radius: 50%; margin-right: 7px; }
+  .ctl-chip.p-D::before { background: #6ea0ff; } .ctl-chip.p-R::before { background: #ff6b78; }
+  .oneparty { display: inline-flex; align-items: center; padding: 8px 14px; border-radius: 999px; font-weight: 700; font-size: .9rem; background: #fff3c4; color: #5a4300; box-shadow: 0 0 0 2px #e8b931; }
+  .ym-cap { margin: 22px 0 8px; font-size: .85rem; color: rgb(255 255 255 / .78); }
+  .yes-meter { display: flex; gap: 3px; max-width: 760px; height: 30px; border-radius: 10px; overflow: hidden; font-size: .8rem; font-weight: 700; }
+  .yes-meter span { display: flex; align-items: center; padding: 0 10px; white-space: nowrap; overflow: hidden; min-width: 0; }
+  .ym-d { background: var(--dem); } .ym-r { background: var(--rep); justify-content: flex-end; }
+  .alert-box { border: 2px solid var(--alert-border); background: var(--alert-bg); color: var(--alert-fg); border-radius: var(--radius); padding: 12px 16px; margin-bottom: 16px; }
+  .layout { display: grid; grid-template-columns: minmax(0, 1fr) 320px; gap: 20px; align-items: start; }
+  @media (max-width: 860px) { .layout { grid-template-columns: 1fr; } }
+  .official summary { cursor: pointer; list-style: none; }
+  .official[open] summary { display: none; }
+  .more { color: var(--accent); font-weight: 600; white-space: nowrap; }
+  .pad { padding: 18px; }
+  .main-col h2:first-child { margin-top: 0; }
+  .headline { font-size: 1.12rem; font-weight: 600; }
+  .affects { padding-left: 20px; }
+  .small { font-size: .85rem; }
+  .meant { margin: 0 0 8px; font-size: .9rem; padding: 8px 12px; border-radius: 10px; background: var(--surface-2); }
+  .facts dl { margin: 0 0 12px; }
+  .facts dt { font-size: .78rem; text-transform: uppercase; letter-spacing: .04em; color: var(--muted); margin-top: 10px; }
+  .facts dd { margin: 2px 0 0; }
+  .links { padding-left: 18px; margin: 0; }
+</style>

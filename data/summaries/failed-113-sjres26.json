@@ -1,0 +1,20 @@
+{
+ "headline": "A 2013 Senate resolution would have overturned the President's October 2013 suspension of the federal debt limit, but the Senate did not advance it.",
+ "what_it_does": "The resolution would have disapproved of the President's decision to suspend the federal debt limit, which he submitted on October 17, 2013, under a section of the Continuing Appropriations Act, 2014. Under that law, the debt limit suspension was an authority the President could use to let the government keep borrowing money. If adopted, this resolution would have rejected that use of the authority. The official summary is brief and does not describe further details.",
+ "who_it_affects": [
+  {
+   "group": "The Treasury Department and federal government",
+   "how": "It would have ended the President's authority to suspend the debt limit that had been exercised in October 2013, which affects how the government could borrow money to pay its bills."
+  },
+  {
+   "group": "Investors and holders of U.S. Treasury securities",
+   "how": "They would have faced possible uncertainty about whether the government could keep paying its debts on time, since the debt limit suspension was the tool being challenged."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

@@ -1,0 +1,28 @@
+{
+ "headline": "The Senate did not act on S.J.Res. 19, a proposed constitutional amendment that would have let Congress and the states limit money raised and spent to influence elections.",
+ "what_it_does": "If adopted, this proposed amendment would have allowed Congress and the states to regulate and set reasonable limits on how much money candidates and others raise and spend to influence elections. It would have let them treat corporations and other legal entities differently from people, including barring those entities from spending money to influence elections. It also said the amendment could not be used to limit freedom of the press.",
+ "who_it_affects": [
+  {
+   "group": "Candidates for public office",
+   "how": "They would have faced possible limits on how much money they could raise and spend in campaigns."
+  },
+  {
+   "group": "Corporations and other entities created by law",
+   "how": "They could have been barred from spending money to influence elections."
+  },
+  {
+   "group": "Political donors and groups that spend on elections",
+   "how": "Their contributions and independent spending could have been subject to new limits set by Congress or the states."
+  },
+  {
+   "group": "News organizations and the press",
+   "how": "The measure stated it would not allow limits on freedom of the press."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

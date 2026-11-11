@@ -1,0 +1,24 @@
+{
+ "headline": "H.J.Res. 88 would have nullified a Labor Department rule expanding which retirement investment advisers count as fiduciaries.",
+ "what_it_does": "If adopted, this joint resolution would have disapproved and nullified a Department of Labor rule published April 8, 2016, that defines who is a fiduciary for pension and retirement plans. The rule would have treated people who give investment advice to those plans for a fee or other pay as fiduciaries in a wider range of advice relationships. Under current law, such advisers must give advice in the sole interest of plan participants and beneficiaries. The resolution did not pass because Congress did not override the President's veto in the House on June 22, 2016.",
+ "who_it_affects": [
+  {
+   "group": "Retirement plan participants and beneficiaries",
+   "how": "Under the rule, they would have had fiduciary protections in more kinds of paid investment advice relationships, and nullifying the rule would have kept the narrower existing standard."
+  },
+  {
+   "group": "Financial advisers and brokers who give paid investment advice to retirement plans",
+   "how": "The rule would have made them fiduciaries in a wider set of advice situations, and the resolution would have blocked that change."
+  },
+  {
+   "group": "Pension and retirement plan sponsors",
+   "how": "Their advisers would have faced a broader fiduciary definition under the rule, which the resolution would have kept from taking effect."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

@@ -1,0 +1,24 @@
+{
+ "headline": "Failed Senate resolution would have canceled an EPA rule that let Indiana power plants release more nitrogen oxides in summer months.",
+ "what_it_does": "This resolution would have used the Congressional Review Act to cancel an EPA rule published on May 20, 2025. That rule raised the amount of nitrogen oxides (NOx) that Indiana power plants are allowed to release from May through September, starting with 2024 and continuing in later years. If the resolution had passed, the rule would have had no effect, and the earlier, lower limits would have applied. The Senate refused to take it up on September 16, 2025.",
+ "who_it_affects": [
+  {
+   "group": "Indiana electric power plants",
+   "how": "They would have lost the higher summer limits on nitrogen oxides emissions that the EPA rule allowed."
+  },
+  {
+   "group": "Environmental Protection Agency",
+   "how": "The agency's rule would have been canceled, and under the Congressional Review Act it could not issue a substantially similar rule without new approval from Congress."
+  },
+  {
+   "group": "People living in Indiana and downwind states",
+   "how": "The resolution would have kept summer limits on nitrogen oxides from Indiana power plants at the earlier, lower levels in the air they breathe."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-11"
+}

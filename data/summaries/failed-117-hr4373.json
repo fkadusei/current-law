@@ -1,0 +1,36 @@
+{
+ "headline": "A 2022 stopgap spending bill that would have kept federal agencies funded through December 30, 2022, and extended several expiring programs; the Senate did not take it up.",
+ "what_it_does": "The bill would have provided temporary funding for federal agencies for fiscal year 2023 at mostly fiscal year 2022 levels, until the earlier of December 30, 2022, or when full spending bills were enacted. It would have prevented a government shutdown that could start when the existing stopgap expired on December 23, 2022. It would also have extended several expiring programs and authorities through December 30, 2022, including Federal Communications Commission spectrum auction authority, a special assessment on certain offenders that funds human-trafficking survivor programs, the U.S. Parole Commission, the Commodity Futures Trading Commission Customer Protection Fund, and certain Indian Health Service funding limits.",
+ "who_it_affects": [
+  {
+   "group": "Federal agencies and their employees",
+   "how": "They would have received temporary funding at mostly prior-year levels, avoiding a lapse in appropriations."
+  },
+  {
+   "group": "Federal employees and contractors who depend on agency paychecks",
+   "how": "They would have continued to be paid without interruption if a shutdown had been avoided."
+  },
+  {
+   "group": "Human-trafficking survivors",
+   "how": "Programs funded by a special assessment on certain convicted offenders would have kept receiving money."
+  },
+  {
+   "group": "Alaska Native villages and corporations",
+   "how": "Restrictions on Indian Health Service disbursements to certain Alaska Native entities in areas served by regional health entities would have been extended."
+  },
+  {
+   "group": "Wireless carriers and businesses seeking spectrum licenses",
+   "how": "The FCC's authority to hold electromagnetic spectrum license auctions would have been extended."
+  },
+  {
+   "group": "Commodity futures customers",
+   "how": "The CFTC Customer Protection Fund expense account would have been extended."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

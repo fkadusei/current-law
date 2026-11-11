@@ -1,0 +1,24 @@
+{
+ "headline": "The Space Frontier Act of 2019 would have changed how commercial space launch licenses are handled and set rules for nongovernmental Earth observation and the International Space Station.",
+ "what_it_does": "The bill would have revised rules for commercial space launch license applications and experimental permits. The Department of Transportation would have combined the safety, property, national security, and foreign policy requirements of each federal agency into one application for commercial space vehicles. NASA would have been required to keep the International Space Station viable and productive for potential U.S. use through at least fiscal year 2030.",
+ "who_it_affects": [
+  {
+   "group": "Commercial space launch companies",
+   "how": "They would have filed a single combined application covering requirements from several federal agencies instead of separate applications."
+  },
+  {
+   "group": "Nongovernmental Earth observation operators",
+   "how": "The bill would have set new provisions governing their activities."
+  },
+  {
+   "group": "NASA and its International Space Station partners",
+   "how": "NASA would have had to keep the station operational and usable for U.S. activities through at least fiscal year 2030."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

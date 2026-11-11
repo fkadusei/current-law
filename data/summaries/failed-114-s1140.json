@@ -1,0 +1,32 @@
+{
+ "headline": "A 2015 Senate bill would have narrowed which waters federal agencies regulate under the Clean Water Act and added required consultation and reporting steps, but the Senate did not act on it.",
+ "what_it_does": "The bill would have set rules for how the Army Corps of Engineers and the EPA define \"waters of the United States,\" the term that decides which waters fall under federal Clean Water Act rules. It would have listed waters to include, such as traditional navigable waters, interstate waters, and certain streams and wetlands, and waters to exclude, such as isolated ponds, prior converted cropland, and stormwater and irrigation systems. It would also have required extra consultation with states, local governments, and farm agencies, cost and small-business reviews, and a Government Accountability Office report every three years. Under the bill, the 2015 rule and related guidance would have been blocked until the agencies followed these steps.",
+ "who_it_affects": [
+  {
+   "group": "Farmers and ranchers",
+   "how": "Under the bill, certain farm water systems and prior converted cropland would have been excluded from federal jurisdiction, and agricultural officials would have been consulted before any new rule was published."
+  },
+  {
+   "group": "Landowners with streams or wetlands on their property",
+   "how": "The bill would have changed which streams and wetlands need federal permits, so some landowners could have needed permits less often while others could have faced different requirements."
+  },
+  {
+   "group": "Small businesses and small entities",
+   "how": "The agencies would have had to gather small-entity comments and run regulatory flexibility analyses on any new definition, even if they found little direct impact."
+  },
+  {
+   "group": "State and local governments",
+   "how": "States, local governments, and state water and agriculture departments would have had to be consulted before a new definition was proposed, and the bill would have kept state authority over water under state law."
+  },
+  {
+   "group": "Companies and builders that need federal Clean Water Act permits",
+   "how": "The narrower definition would have changed which projects needed federal permits, and the GAO reports would have tracked how differently regional offices interpreted the rules."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

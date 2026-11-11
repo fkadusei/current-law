@@ -1,0 +1,32 @@
+{
+ "headline": "S. 953 would have extended current interest rates on certain federal student loans and changed several tax rules, but the Senate did not act on it in 2013.",
+ "what_it_does": "The bill would have kept current interest rates for undergraduate Direct Stafford Loans through June 30, 2015. It would have required most inherited tax-exempt pension funds to be paid out within five years of the owner's death, with exceptions for certain beneficiaries, including disabled or chronically ill people and surviving spouses. It would also have limited interest deductions for certain expatriated corporations, broadened the federal definition of crude oil for the petroleum excise tax, and made the Oil Spill Liability Trust Fund tax rate permanent.",
+ "who_it_affects": [
+  {
+   "group": "Undergraduate students with Federal Direct Stafford Loans",
+   "how": "Their interest rates on these loans would have stayed at existing levels through June 30, 2015."
+  },
+  {
+   "group": "People who inherit employer-sponsored tax-exempt pension accounts",
+   "how": "Most would have had to withdraw the full balance within five years of the original owner's death."
+  },
+  {
+   "group": "Disabled or chronically ill beneficiaries and surviving spouses",
+   "how": "They would have been exempt from the five-year payout rule and could have stretched withdrawals over a longer period."
+  },
+  {
+   "group": "Corporations that are considered expatriated entities",
+   "how": "They would have been limited in deducting interest payments made to related persons."
+  },
+  {
+   "group": "Companies that produce, import, or refine crude oil and related products",
+   "how": "They would have owed the petroleum excise tax on a wider range of products, and the tax would have applied to oil produced outside the United States."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

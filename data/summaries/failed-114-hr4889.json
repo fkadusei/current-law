@@ -1,0 +1,24 @@
+{
+ "headline": "A 2016 House bill that would have required phone and internet voice companies to share a device's location with police in certain emergencies, but it was voted down.",
+ "what_it_does": "If it had passed, the bill would have required mobile and internet voice providers to disclose a device's call location information when an investigator or law enforcement officer asked. This would apply to devices used to make a 911 call or believed to be held by someone in an emergency involving a risk of death or serious physical harm. The bill would also have protected providers from lawsuits or administrative proceedings for sharing this information in good faith.",
+ "who_it_affects": [
+  {
+   "group": "Mobile and internet voice service providers",
+   "how": "They would have had to disclose device location information to law enforcement on request in the covered emergency situations and would have been shielded from civil suits for good-faith disclosures."
+  },
+  {
+   "group": "Law enforcement and investigative officers",
+   "how": "They would have been able to request call location information from providers in 911 calls and certain emergencies involving risk of death or serious physical harm."
+  },
+  {
+   "group": "People who carry mobile phones or use internet voice calling",
+   "how": "Their device location could have been shared with police without their consent in the emergency situations described in the bill."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

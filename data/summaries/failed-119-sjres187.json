@@ -1,0 +1,20 @@
+{
+ "headline": "Failed Senate resolution would have canceled an EPA rule that changed when companies must start sending in required reports on PFAS chemicals.",
+ "what_it_does": "This resolution would have used the Congressional Review Act to overturn an EPA rule. That rule changed the date when the window opens for companies to submit required reports and keep records about PFAS, often called \"forever chemicals,\" under the Toxic Substances Control Act. If adopted, the EPA's change to the start of the reporting period would have had no legal effect. The EPA also could not have issued a substantially similar rule without new approval from Congress.",
+ "who_it_affects": [
+  {
+   "group": "Companies that have made or imported PFAS chemicals or products containing them",
+   "how": "The EPA's change to when they must begin submitting PFAS reports would have been canceled."
+  },
+  {
+   "group": "The Environmental Protection Agency",
+   "how": "The agency would have lost this rule change and been barred from issuing a substantially similar one without approval from Congress."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-11"
+}

@@ -1,0 +1,909 @@
+{
+ "id": "114-s764",
+ "congress": 114,
+ "bill": "S. 764",
+ "bill_type": "S",
+ "title": "National Sea Grant College Program Amendments Act of 2015",
+ "policy_area": "Agriculture and Food",
+ "sponsor": "Sen. Wicker, Roger F. [R-MS]",
+ "latest_action": {
+  "actionDate": "2016-07-29",
+  "text": "Became Public Law No: 114-216."
+ },
+ "official_summary": " <p>(This measure has not been amended since the Senate agreed to the House amendment with an amendment on July 7, 2016. The summary of that version is repeated here.)</p> <p>This bill amends the Agricultural Marketing Act of 1946 to establish a national mandatory bioengineered food disclosure standard. (Bioengineered food is commonly referred to as a genetically modified organism or GMO food.) </p> <p>(Sec. 1) Bioengineered food is food that that has been genetically modified in a way that could not be obtained through conventional breeding or found in nature. </p> <p>The standard applies to any claim in a disclosure a food bears indicating that the food is bioengineered and to any food subject to the labeling requirements under the Federal Food, Drug, and Cosmetic Act (FFDCA). </p> <p>It applies to foods subject to labeling requirements under the Federal Meat Inspection Act, the Poultry Products Inspection Act, or the Egg Products Inspection Act if: (1) the most predominant ingredient would independently be subject to the FFDCA labeling requirements; or (2) the most predominant ingredient is broth, stock, water, or a similar solution and the second-most predominant ingredient would independently be subject to the FFDCA labeling requirements. </p> <p>Within two years of enactment of this bill, USDA must establish: (1) a national mandatory bioengineered food disclosure standard for any bioengineered food and any food that may be bioengineered, and (2) requirements and procedures to carry out the standard. </p> <p>Regulations prescribing the labeling of bioengineered food must: </p> <ul> <li>prohibit a food derived from an animal from being considered bioengineered solely because the animal consumed feed produced from, containing, or consisting of a bioengineered substance; </li> <li>determine the amounts of a bioengineered substance that may be present for a food to be bioengineered; </li> <li>establish a process for requesting and granting a USDA determination regarding other factors and conditions under which a food is considered bioengineered; </li> <li>require the form of disclosure to be a text, symbol, or electronic or digital link (excluding Internet website Uniform Resource Locators not embedded in the link) with the disclosure option to be selected by the food manufacturer; and</li> <li>provide alternative reasonable disclosure options for food contained in small or very small packages. </li> </ul> <p>For small food manufacturers, the regulations must provide: (1) an implementation date that is no earlier than one year after the implementation date of the regulations; and (2) additional on-package disclosure options to be selected by the manufacturer that consist of: a telephone number with language indicating that it provides access to additional information, and an Internet website maintained by the manufacturer. </p> <p>The regulations must exclude: (1) food served in a restaurant or similar retail food establishment, and (2) very small food manufacturers. </p> <p>A bioengineered food that has successfully completed the pre-market federal regulatory review process shall not be treated as safer than, or not as safe as, a non-bioengineered counterpart solely because the food is bioengineered or produced or developed with bioengineering. </p> <p>USDA must: (1) conduct a study to identify potential technological challenges that may impact whether consumers would have access to the bioengineering disclosure through electronic or digital disclosure methods, and (2) provide additional disclosure options if it determines that consumers will not have sufficient access to disclosures through electronic or digital methods. </p> <p>USDA must ensure that specified on-package language accompanies electronic or digital link disclosures and telephone number disclosures. </p> <p>USDA must also ensure that an electronic or digital link disclosure: </p> <ul> <li>provides access to the disclosure located in a consistent and conspicuous manner on the first product information page that appears, excluding marketing and promotional information; </li> <li>may not collect, analyze, or sell personally identifiable information about consumers or their devices unless the information is necessary to carry out the bill and is deleted immediately after it is used;</li> <li>includes a telephone number that provides access to the disclosure; and</li> <li>is of sufficient size to be easily and effectively scanned or read by a digital device. </li> </ul> <p>The bill prohibits states or political subdivisions of states from establishing or continuing requirements for labeling or disclosure of bioengineered or genetically engineered food that are not identical to the mandatory disclosure standard established by this bill. </p> <p>This bill prohibits a person from knowingly failing to make a disclosure required by the standard. Each person subject to the mandatory disclosure requirement must maintain records necessary to establish compliance and provide the records to USDA upon request. USDA may conduct examinations and audits related to compliance, subject to requirements for notice, a public hearing, and the publication of the results. USDA may not recall any food on the basis of whether the food includes the disclosure. </p> <p>A food may not include claims related to the absence of bioengineering solely based on whether or not a disclosure is required by the standard. A certification under the national organic program is sufficient to make a claim regarding the absence of bioengineering in a food. </p>",
+ "congress_gov_url": "https://www.congress.gov/bill/114th-congress/senate-bill/764",
+ "failed_on": "2016-03-16",
+ "kind": "blocked",
+ "chamber": "Senate",
+ "later_became_law": {
+  "id": "pl-114-216",
+  "public_law": "114-216"
+ },
+ "votes": [
+  {
+   "chamber": "Senate",
+   "roll": 37,
+   "date": "2016-03-16",
+   "kind": "blocked",
+   "question": "On the Cloture Motion",
+   "result": "Cloture Motion Rejected",
+   "required": "3/5",
+   "yea": 48,
+   "nay": 49,
+   "support": "yea",
+   "by_party": {
+    "R": {
+     "yea": 45,
+     "nay": 7,
+     "not voting": 2
+    },
+    "D": {
+     "nay": 41,
+     "yea": 3
+    },
+    "I": {
+     "not voting": 1,
+     "nay": 1
+    }
+   },
+   "majority_party": "R",
+   "members": [
+    {
+     "icpsr": "14009",
+     "bioguide": "C000567",
+     "name": "COCHRAN, William Thad",
+     "party": "R",
+     "state": "MS",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "14226",
+     "bioguide": "G000386",
+     "name": "GRASSLEY, Charles Ernest",
+     "party": "R",
+     "state": "IA",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "14307",
+     "bioguide": "L000174",
+     "name": "LEAHY, Patrick Joseph",
+     "party": "D",
+     "state": "VT",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "14435",
+     "bioguide": "M000133",
+     "name": "MARKEY, Edward John",
+     "party": "D",
+     "state": "MA",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "14440",
+     "bioguide": "M000702",
+     "name": "MIKULSKI, Barbara Ann",
+     "party": "D",
+     "state": "MD",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "14503",
+     "bioguide": "H000338",
+     "name": "HATCH, Orrin Grant",
+     "party": "R",
+     "state": "UT",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "14651",
+     "bioguide": "N000032",
+     "name": "NELSON, Clarence William (Bill)",
+     "party": "D",
+     "state": "FL",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "14806",
+     "bioguide": "C000542",
+     "name": "COATS, Daniel Ray",
+     "party": "R",
+     "state": "IN",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "14852",
+     "bioguide": "R000307",
+     "name": "ROBERTS, Charles Patrick (Pat)",
+     "party": "R",
+     "state": "KS",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "14858",
+     "bioguide": "S000148",
+     "name": "SCHUMER, Charles Ellis (Chuck)",
+     "party": "D",
+     "state": "NY",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "14871",
+     "bioguide": "W000779",
+     "name": "WYDEN, Ronald Lee",
+     "party": "D",
+     "state": "OR",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "14921",
+     "bioguide": "M000355",
+     "name": "MCCONNELL, Addison Mitchell (Mitch)",
+     "party": "R",
+     "state": "KY",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "15011",
+     "bioguide": "B000711",
+     "name": "BOXER, Barbara",
+     "party": "D",
+     "state": "CA",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "15015",
+     "bioguide": "C000174",
+     "name": "CARPER, Thomas Richard",
+     "party": "D",
+     "state": "DE",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "15021",
+     "bioguide": "D000563",
+     "name": "DURBIN, Richard Joseph",
+     "party": "D",
+     "state": "IL",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "15039",
+     "bioguide": "M000303",
+     "name": "McCAIN, John Sidney, III",
+     "party": "R",
+     "state": "AZ",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "15054",
+     "bioguide": "R000146",
+     "name": "REID, Harry",
+     "party": "D",
+     "state": "NV",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "15408",
+     "bioguide": "C000141",
+     "name": "CARDIN, Benjamin Louis",
+     "party": "D",
+     "state": "MD",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "15424",
+     "bioguide": "I000024",
+     "name": "INHOFE, James Mountain",
+     "party": "R",
+     "state": "OK",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20100",
+     "bioguide": "F000444",
+     "name": "FLAKE, Jeff",
+     "party": "R",
+     "state": "AZ",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20101",
+     "bioguide": "B001236",
+     "name": "BOOZMAN, John",
+     "party": "R",
+     "state": "AR",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20115",
+     "bioguide": "K000360",
+     "name": "KIRK, Mark Steven",
+     "party": "R",
+     "state": "IL",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20146",
+     "bioguide": "C001047",
+     "name": "CAPITO, Shelley Moore",
+     "party": "R",
+     "state": "WV",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20707",
+     "bioguide": "M001169",
+     "name": "MURPHY, Christopher",
+     "party": "D",
+     "state": "CT",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "20713",
+     "bioguide": "H001042",
+     "name": "HIRONO, Mazie",
+     "party": "D",
+     "state": "HI",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "20717",
+     "bioguide": "D000607",
+     "name": "DONNELLY, Joe",
+     "party": "D",
+     "state": "IN",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20730",
+     "bioguide": "H001041",
+     "name": "HELLER, Dean",
+     "party": "R",
+     "state": "NV",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "20735",
+     "bioguide": "G000555",
+     "name": "GILLIBRAND, Kirsten",
+     "party": "D",
+     "state": "NY",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "20919",
+     "bioguide": "C001075",
+     "name": "CASSIDY, Bill",
+     "party": "R",
+     "state": "LA",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20923",
+     "bioguide": "P000595",
+     "name": "PETERS, Gary C.",
+     "party": "D",
+     "state": "MI",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "20930",
+     "bioguide": "H001046",
+     "name": "HEINRICH, Martin",
+     "party": "D",
+     "state": "NM",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "21112",
+     "bioguide": "G000562",
+     "name": "GARDNER, Cory",
+     "party": "R",
+     "state": "CO",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21166",
+     "bioguide": "L000575",
+     "name": "LANKFORD, James",
+     "party": "R",
+     "state": "OK",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21173",
+     "bioguide": "S001184",
+     "name": "SCOTT, Tim",
+     "party": "R",
+     "state": "SC",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21301",
+     "bioguide": "C001095",
+     "name": "COTTON, Thomas Bryant (Tom)",
+     "party": "R",
+     "state": "AR",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21338",
+     "bioguide": "D000618",
+     "name": "DAINES, Steve",
+     "party": "R",
+     "state": "MT",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29142",
+     "bioguide": "R000122",
+     "name": "REED, John F. (Jack)",
+     "party": "D",
+     "state": "RI",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "29147",
+     "bioguide": "S000033",
+     "name": "SANDERS, Bernard",
+     "party": "I",
+     "state": "VT",
+     "vote": "not voting"
+    },
+    {
+     "icpsr": "29345",
+     "bioguide": "C000880",
+     "name": "CRAPO, Michael Dean",
+     "party": "R",
+     "state": "ID",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29373",
+     "bioguide": "M000639",
+     "name": "MENENDEZ, Robert",
+     "party": "D",
+     "state": "NJ",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "29386",
+     "bioguide": "P000449",
+     "name": "PORTMAN, Robert Jones (Rob)",
+     "party": "R",
+     "state": "OH",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29389",
+     "bioguide": "B000944",
+     "name": "BROWN, Sherrod",
+     "party": "D",
+     "state": "OH",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "29534",
+     "bioguide": "W000437",
+     "name": "WICKER, Roger F.",
+     "party": "R",
+     "state": "MS",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29548",
+     "bioguide": "B001135",
+     "name": "BURR, Richard M.",
+     "party": "R",
+     "state": "NC",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29566",
+     "bioguide": "G000359",
+     "name": "GRAHAM, Lindsey O.",
+     "party": "R",
+     "state": "SC",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29722",
+     "bioguide": "M000934",
+     "name": "MORAN, Jerry",
+     "party": "R",
+     "state": "KS",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29732",
+     "bioguide": "S000770",
+     "name": "STABENOW, Deborah Ann",
+     "party": "D",
+     "state": "MI",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "29735",
+     "bioguide": "B000575",
+     "name": "BLUNT, Roy",
+     "party": "R",
+     "state": "MO",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29754",
+     "bioguide": "T000250",
+     "name": "THUNE, John",
+     "party": "R",
+     "state": "SD",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29909",
+     "bioguide": "I000055",
+     "name": "ISAKSON, Johnny",
+     "party": "R",
+     "state": "GA",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29918",
+     "bioguide": "V000127",
+     "name": "VITTER, David",
+     "party": "R",
+     "state": "LA",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29924",
+     "bioguide": "U000039",
+     "name": "UDALL, Thomas (Tom)",
+     "party": "D",
+     "state": "NM",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "29935",
+     "bioguide": "T000461",
+     "name": "TOOMEY, Patrick Joseph",
+     "party": "R",
+     "state": "PA",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29940",
+     "bioguide": "B001230",
+     "name": "BALDWIN, Tammy",
+     "party": "D",
+     "state": "WI",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "39310",
+     "bioguide": "C000127",
+     "name": "CANTWELL, Maria E.",
+     "party": "D",
+     "state": "WA",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "40300",
+     "bioguide": "M001153",
+     "name": "MURKOWSKI, Lisa",
+     "party": "R",
+     "state": "AK",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "40304",
+     "bioguide": "A000360",
+     "name": "ALEXANDER, Lamar",
+     "party": "R",
+     "state": "TN",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "40305",
+     "bioguide": "C001056",
+     "name": "CORNYN, John",
+     "party": "R",
+     "state": "TX",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "40700",
+     "bioguide": "K000367",
+     "name": "KLOBUCHAR, Amy",
+     "party": "D",
+     "state": "MN",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "40701",
+     "bioguide": "M001170",
+     "name": "McCASKILL, Claire",
+     "party": "D",
+     "state": "MO",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "40702",
+     "bioguide": "T000464",
+     "name": "TESTER, Jon",
+     "party": "D",
+     "state": "MT",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "40703",
+     "bioguide": "C001070",
+     "name": "CASEY, Robert (Bob), Jr.",
+     "party": "D",
+     "state": "PA",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "40704",
+     "bioguide": "W000802",
+     "name": "WHITEHOUSE, Sheldon",
+     "party": "D",
+     "state": "RI",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "40705",
+     "bioguide": "C001071",
+     "name": "CORKER, Robert (Bob)",
+     "party": "R",
+     "state": "TN",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "40707",
+     "bioguide": "B001261",
+     "name": "BARRASSO, John A.",
+     "party": "R",
+     "state": "WY",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "40902",
+     "bioguide": "R000584",
+     "name": "RISCH, James",
+     "party": "R",
+     "state": "ID",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "40904",
+     "bioguide": "F000457",
+     "name": "FRANKEN, Al",
+     "party": "D",
+     "state": "MN",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "40906",
+     "bioguide": "S001181",
+     "name": "SHAHEEN, Jeanne",
+     "party": "D",
+     "state": "NH",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "40908",
+     "bioguide": "M001176",
+     "name": "MERKLEY, Jeff",
+     "party": "D",
+     "state": "OR",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "40909",
+     "bioguide": "W000805",
+     "name": "WARNER, Mark R.",
+     "party": "D",
+     "state": "VA",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "40910",
+     "bioguide": "B001267",
+     "name": "BENNET, Michael F.",
+     "party": "D",
+     "state": "CO",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "40915",
+     "bioguide": "M001183",
+     "name": "MANCHIN, Joe, III",
+     "party": "D",
+     "state": "WV",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "40916",
+     "bioguide": "C001088",
+     "name": "COONS, Christopher A.",
+     "party": "D",
+     "state": "DE",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41101",
+     "bioguide": "B001277",
+     "name": "BLUMENTHAL, Richard",
+     "party": "D",
+     "state": "CT",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41102",
+     "bioguide": "R000595",
+     "name": "RUBIO, Marco",
+     "party": "R",
+     "state": "FL",
+     "vote": "not voting"
+    },
+    {
+     "icpsr": "41104",
+     "bioguide": "P000603",
+     "name": "PAUL, Rand",
+     "party": "R",
+     "state": "KY",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41106",
+     "bioguide": "A000368",
+     "name": "AYOTTE, Kelly",
+     "party": "R",
+     "state": "NH",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "41107",
+     "bioguide": "H001061",
+     "name": "HOEVEN, John",
+     "party": "R",
+     "state": "ND",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "41110",
+     "bioguide": "L000577",
+     "name": "LEE, Mike",
+     "party": "R",
+     "state": "UT",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41111",
+     "bioguide": "J000293",
+     "name": "JOHNSON, Ron",
+     "party": "R",
+     "state": "WI",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "41112",
+     "bioguide": "S001194",
+     "name": "SCHATZ, Brian Emanuel",
+     "party": "D",
+     "state": "HI",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41300",
+     "bioguide": "K000383",
+     "name": "KING, Angus Stanley, Jr.",
+     "party": "I",
+     "state": "ME",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41301",
+     "bioguide": "W000817",
+     "name": "WARREN, Elizabeth",
+     "party": "D",
+     "state": "MA",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41302",
+     "bioguide": "F000463",
+     "name": "FISCHER, Debra (Deb)",
+     "party": "R",
+     "state": "NE",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "41303",
+     "bioguide": "H001069",
+     "name": "HEITKAMP, Mary Kathryn (Heidi)",
+     "party": "D",
+     "state": "ND",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "41304",
+     "bioguide": "C001098",
+     "name": "CRUZ, Rafael Edward (Ted)",
+     "party": "R",
+     "state": "TX",
+     "vote": "not voting"
+    },
+    {
+     "icpsr": "41305",
+     "bioguide": "K000384",
+     "name": "KAINE, Timothy Michael (Tim)",
+     "party": "D",
+     "state": "VA",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41308",
+     "bioguide": "B001288",
+     "name": "BOOKER, Cory Anthony",
+     "party": "D",
+     "state": "NJ",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41500",
+     "bioguide": "S001198",
+     "name": "SULLIVAN, Daniel Scott",
+     "party": "R",
+     "state": "AK",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41501",
+     "bioguide": "P000612",
+     "name": "PERDUE, David Alfred, Jr.",
+     "party": "R",
+     "state": "GA",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "41502",
+     "bioguide": "E000295",
+     "name": "ERNST, Joni",
+     "party": "R",
+     "state": "IA",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "41503",
+     "bioguide": "S001197",
+     "name": "SASSE, Benjamin Eric",
+     "party": "R",
+     "state": "NE",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "41504",
+     "bioguide": "T000476",
+     "name": "TILLIS, Thomas Roland (Thom)",
+     "party": "R",
+     "state": "NC",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "41505",
+     "bioguide": "R000605",
+     "name": "ROUNDS, Marion Michael (Mike)",
+     "party": "R",
+     "state": "SD",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "49300",
+     "bioguide": "F000062",
+     "name": "FEINSTEIN, Dianne",
+     "party": "D",
+     "state": "CA",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "49308",
+     "bioguide": "M001111",
+     "name": "MURRAY, Patty",
+     "party": "D",
+     "state": "WA",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "49700",
+     "bioguide": "S001141",
+     "name": "SESSIONS, Jefferson Beauregard (Jeff), III",
+     "party": "R",
+     "state": "AL",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "49703",
+     "bioguide": "C001035",
+     "name": "COLLINS, Susan Margaret",
+     "party": "R",
+     "state": "ME",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "49706",
+     "bioguide": "E000285",
+     "name": "ENZI, Michael B.",
+     "party": "R",
+     "state": "WY",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "94659",
+     "bioguide": "S000320",
+     "name": "SHELBY, Richard C.",
+     "party": "R",
+     "state": "AL",
+     "vote": "yea"
+    }
+   ]
+  }
+ ],
+ "support_color": {
+  "side": "R",
+  "share": 0.938,
+  "r_support": 45,
+  "d_support": 3,
+  "shade": 0.875,
+  "party_line": null
+ },
+ "control": {
+  "Senate": "R"
+ },
+ "summary": {
+  "headline": "S. 764 would have required mandatory USDA disclosure for bioengineered (GMO) foods, but the Senate did not advance it in 2016.",
+  "what_it_does": "If adopted, it would have set a national mandatory disclosure standard for bioengineered food, which the bill defines as food modified in ways that could not be obtained through conventional breeding or found in nature. USDA would have had two years after enactment to write the standard and its rules. The disclosure could take the form of text, a symbol, or an electronic or digital link, and the manufacturer would choose the option. The bill would also have barred states from setting their own bioengineered food labeling rules that differ from the federal standard. Note: the official title refers to the National Sea Grant College Program, but the summary describes GMO food labeling, so the title and summary do not match.",
+  "who_it_affects": [
+   {
+    "group": "Food manufacturers",
+    "how": "Companies that make covered foods would have had to make the required bioengineered food disclosure and keep records showing compliance."
+   },
+   {
+    "group": "Small food manufacturers",
+    "how": "They would have received a later implementation date and extra on-package options, such as a phone number or a company website, in place of electronic links."
+   },
+   {
+    "group": "Very small food manufacturers",
+    "how": "They would have been excluded from the disclosure rules altogether."
+   },
+   {
+    "group": "Restaurants and similar retail food establishments",
+    "how": "Food served in these places would have been excluded from the disclosure rules."
+   },
+   {
+    "group": "Consumers who buy packaged food",
+    "how": "They would have seen bioengineered food disclosures on labels or through digital links and phone numbers."
+   },
+   {
+    "group": "State and local governments",
+    "how": "They would have been barred from requiring bioengineered food labeling that differs from the federal standard."
+   },
+   {
+    "group": "USDA",
+    "how": "The agency would have written the standard, studied consumer access to digital disclosures, and handled compliance audits and examinations."
+   },
+   {
+    "group": "Producers certified under the National Organic Program",
+    "how": "Their certification could have been used to make claims that a food is free of bioengineering."
+   }
+  ],
+  "when_it_takes_effect": "Did not take effect",
+  "ceremonial": false,
+  "confidence": "low",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-11"
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "headline": "Would have canceled an EPA rule setting stricter air pollution limits for new heavy-duty trucks and engines; it failed after a presidential veto.",
+ "what_it_does": "This resolution would have used the Congressional Review Act to cancel an Environmental Protection Agency rule published on January 24, 2023. That rule changes emission standards for new heavy-duty engines and vehicles to reduce air pollution, including ozone and particulate matter. Congress passed the resolution, but the President vetoed it, and the Senate failed to override the veto on June 21, 2023.",
+ "who_it_affects": [
+  {
+   "group": "Makers of heavy-duty trucks and engines",
+   "how": "They would not have had to meet the updated emission standards in the EPA rule."
+  },
+  {
+   "group": "Trucking companies and others who buy new heavy-duty vehicles",
+   "how": "The vehicles they buy would not have been built to the rule's updated pollution limits."
+  },
+  {
+   "group": "People living near highways, ports, and freight routes",
+   "how": "The rule's intended cuts in ozone and particulate pollution from heavy-duty vehicles would not have happened."
+  },
+  {
+   "group": "Environmental Protection Agency",
+   "how": "The agency's rule would have been canceled, and the Congressional Review Act would have limited its ability to issue a substantially similar rule."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-11"
+}

@@ -1,0 +1,28 @@
+{
+ "headline": "The House voted down H.J.Res. 2 in April 2018, which would have added a balanced budget requirement to the U.S. Constitution.",
+ "what_it_does": "If adopted, the amendment would have barred total federal spending in a fiscal year from exceeding total federal revenue, unless three-fifths of each chamber of Congress approved the excess by roll call vote. It would have excluded repayments of debt principal and money raised by borrowing from that limit. It would also have required a three-fifths roll call vote in each chamber to raise the public debt limit, a majority vote to raise revenue, and an annual balanced budget proposal from the President. Congress could have waived these rules during a declared war or a military conflict that poses an imminent and serious threat to national security.",
+ "who_it_affects": [
+  {
+   "group": "Members of Congress",
+   "how": "They would have needed three-fifths majorities to approve spending above revenue or to raise the debt limit, and a simple majority to raise revenue."
+  },
+  {
+   "group": "The President",
+   "how": "The President would have been required to submit a balanced federal budget to Congress each year."
+  },
+  {
+   "group": "People who receive federal benefits or services",
+   "how": "Federal spending on programs would have been limited to the amount of federal revenue unless Congress approved a larger amount by supermajority."
+  },
+  {
+   "group": "Federal taxpayers",
+   "how": "Changes in federal revenue and spending levels would have been tied to the balanced budget rule, with a majority vote needed for any revenue increase."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

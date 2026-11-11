@@ -1,0 +1,24 @@
+{
+ "headline": "Would have canceled IRS guidance that simplified how the corporate minimum tax applies to companies that invest in partnerships.",
+ "what_it_does": "This resolution would have used the Congressional Review Act to cancel an IRS rule called \"Interim Guidance Simplifying Application of the Corporate Alternative Minimum Tax to Partnerships.\" The corporate alternative minimum tax is a minimum tax on very large corporations. The guidance deals with how partnership income is counted for corporations that owe this tax. If adopted, the guidance would have had no legal effect, and the IRS could not issue a substantially similar rule without new approval from Congress.",
+ "who_it_affects": [
+  {
+   "group": "Large corporations subject to the corporate alternative minimum tax that own stakes in partnerships",
+   "how": "They would have lost the simplified rules in the IRS guidance for counting partnership income toward the minimum tax."
+  },
+  {
+   "group": "Partnerships with large corporate partners",
+   "how": "They might have faced different reporting or calculation rules if the simplified guidance were canceled."
+  },
+  {
+   "group": "Internal Revenue Service",
+   "how": "The agency would have been barred from enforcing this guidance or issuing a substantially similar rule unless Congress later allowed it."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-11"
+}

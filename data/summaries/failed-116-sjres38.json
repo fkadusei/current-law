@@ -1,0 +1,24 @@
+{
+ "headline": "Senate S.J.Res. 38 would have blocked a proposed arms sale to Saudi Arabia and the United Kingdom, but Congress did not override the President's veto on July 29, 2019.",
+ "what_it_does": "The resolution would have prohibited a proposed sale of certain defense articles and related support services to Saudi Arabia and the United Kingdom. The sale was described in an executive communication published in the Congressional Record on June 3, 2019. The summary does not list the specific equipment or services involved.",
+ "who_it_affects": [
+  {
+   "group": "Government of Saudi Arabia",
+   "how": "It would not have received the defense articles and support services covered by the proposed sale."
+  },
+  {
+   "group": "Government of the United Kingdom",
+   "how": "It would not have received the defense articles and support services covered by the proposed sale."
+  },
+  {
+   "group": "U.S. defense manufacturers and service providers named in the proposed sale",
+   "how": "They would not have been able to complete the covered sale to these two countries."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

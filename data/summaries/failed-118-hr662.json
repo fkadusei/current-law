@@ -1,0 +1,24 @@
+{
+ "headline": "Bill that would have let USDA send 2022 farm disaster aid to states and territories as block grants was voted down in the Senate.",
+ "what_it_does": "The bill would have allowed the Department of Agriculture to give certain disaster aid money to states and territories as block grants. The money was meant to help farmers and ranchers with losses from 2022 disasters such as droughts, wildfires, hurricanes, floods, extreme heat, tornadoes, winter storms, freezes, smoke, and too much moisture. The spending would have been labeled an emergency, so it would not have counted under federal pay-as-you-go budget rules.",
+ "who_it_affects": [
+  {
+   "group": "Farmers and ranchers hit by 2022 natural disasters",
+   "how": "They could have received disaster loss aid passed through their state or territory instead of directly from USDA."
+  },
+  {
+   "group": "State and territorial governments",
+   "how": "They would have received block grants of federal disaster aid to distribute to agricultural producers."
+  },
+  {
+   "group": "Department of Agriculture",
+   "how": "It would have been allowed to send certain disaster aid funds to states and territories as block grants."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-11"
+}

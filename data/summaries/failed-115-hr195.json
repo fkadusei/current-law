@@ -1,0 +1,44 @@
+{
+ "headline": "H.R. 195 would have funded federal agencies through February 8, 2018, ended a government shutdown, extended children's health insurance, and delayed several health-related taxes, but the Senate did not take it up.",
+ "what_it_does": "This bill would have combined four separate parts. Division A would have limited free printed copies of the Federal Register sent to Members of Congress and federal offices unless they requested them. Division B would have extended temporary federal spending authority through February 8, 2018, ended a government shutdown, and added funding flexibility for several agencies, along with pay for furloughed workers. Division C would have extended the Children's Health Insurance Program and related Medicaid and CHIP options through FY2023. Division D would have delayed the medical device excise tax moratorium, the Cadillac tax, and the health insurer fee for certain years.",
+ "who_it_affects": [
+  {
+   "group": "Federal employees furloughed during the lapse in appropriations",
+   "how": "They would have been compensated for pay lost during the shutdown that began around January 20, 2018."
+  },
+  {
+   "group": "Children enrolled in or eligible for CHIP and Medicaid",
+   "how": "Their state coverage programs would have had federal funding extended through FY2023."
+  },
+  {
+   "group": "Medical device manufacturers",
+   "how": "They would have avoided the 2.3% excise tax on medical device sales in 2018 and 2019."
+  },
+  {
+   "group": "Employers offering high-cost employer-sponsored health coverage",
+   "how": "The Cadillac tax would have taken effect in 2022 instead of 2020."
+  },
+  {
+   "group": "Health insurance providers",
+   "how": "They would not have owed the annual market-share-based fee for 2019."
+  },
+  {
+   "group": "Low-income families with children",
+   "how": "Demonstration projects providing summer meals would have received funding flexibility to be operational by May 2018."
+  },
+  {
+   "group": "Small businesses seeking general business loans",
+   "how": "The Small Business Administration would have gained funding flexibility to meet higher demand for section 7(a) loans."
+  },
+  {
+   "group": "Public housing agencies in areas with 2017 or 2018 presidential disaster declarations",
+   "how": "They would have received adjustments to Section 8 housing voucher renewal funding and administrative fee rules."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

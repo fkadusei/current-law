@@ -1,0 +1,20 @@
+{
+ "headline": "House resolution that would have expelled Representative George Santos was referred back to committee and did not pass.",
+ "what_it_does": "This resolution would have expelled Representative George Santos of New York from the House of Representatives. Expulsion would have removed him from his seat in Congress. On May 17, 2023, the House voted to send the resolution to committee instead of voting on it directly, so it did not take effect.",
+ "who_it_affects": [
+  {
+   "group": "Representative George Santos",
+   "how": "He would have lost his seat in the House of Representatives."
+  },
+  {
+   "group": "Voters in New York's 3rd Congressional District",
+   "how": "They would have been left without a House member until the seat was filled."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-11"
+}

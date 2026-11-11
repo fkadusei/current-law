@@ -1,0 +1,28 @@
+{
+ "headline": "Failed resolution would have directed the President to remove U.S. troops from hostilities with Iran unless Congress approved military action.",
+ "what_it_does": "This resolution would have directed the President to pull U.S. Armed Forces out of hostilities against Iran or any part of its government or military. The only exception would have been if Congress passed a declaration of war or a law authorizing military force against Iran. It would not have stopped the U.S. from defending itself, its troops, its embassies and other diplomatic sites, or allied countries from an imminent attack. It was voted down in the Senate on September 24, 2026.",
+ "who_it_affects": [
+  {
+   "group": "U.S. service members",
+   "how": "Troops involved in hostilities with Iran would have been withdrawn from that fighting unless Congress authorized it."
+  },
+  {
+   "group": "The President",
+   "how": "The President would have been required to end U.S. military involvement in hostilities with Iran without approval from Congress, except for defense against imminent attacks."
+  },
+  {
+   "group": "Congress",
+   "how": "Congress would have used the War Powers Resolution to require its own approval before U.S. forces could continue hostilities against Iran."
+  },
+  {
+   "group": "U.S. allies in the region",
+   "how": "The U.S. could still have defended allied countries from imminent attack, but other combat against Iran would have ended."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-11"
+}

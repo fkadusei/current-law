@@ -1,0 +1,40 @@
+{
+ "headline": "S. 1 would have approved the Keystone XL pipeline and set energy-efficiency rules, but the President vetoed it and Congress did not override.",
+ "what_it_does": "If enacted, the bill would have allowed TransCanada to build and operate the Keystone XL pipeline and cross-border facilities described in its 2012 application, and would have treated the State Department's 2014 environmental review as meeting federal environmental laws, including the Endangered Species Act. Lawsuits over the pipeline would have gone directly to the U.S. Court of Appeals for the D.C. Circuit, and existing federal permits would have stayed in effect. The bill also would have directed the Department of Energy to help schools use federal money for energy projects, required the General Services Administration to publish model leasing terms for energy and water savings, and changed rules on grid-enabled water heaters, commercial building data, and energy benchmarking. Two sense-of-the-Senate statements, on climate change and on an oil tax on bitumen, would not have had binding effect.",
+ "who_it_affects": [
+  {
+   "group": "TransCanada and its affiliates",
+   "how": "The bill would have given the company legal authority to build and operate the Keystone XL pipeline without further federal environmental review under the listed laws."
+  },
+  {
+   "group": "Private landowners along the pipeline route",
+   "how": "The bill would have kept existing state and local access processes in place and would have allowed land to be acquired only in a manner consistent with the Constitution."
+  },
+  {
+   "group": "Public schools and local educational agencies",
+   "how": "They would have received federal technical help and a single contact website for financing energy efficiency, renewable energy, and retrofit projects."
+  },
+  {
+   "group": "Federal agencies and their landlords and tenants",
+   "how": "They would have been encouraged to use model leasing provisions that promote energy and water efficiency investments in federal buildings."
+  },
+  {
+   "group": "Owners and tenants of commercial buildings",
+   "how": "Federal agency tenants would have been subject to benchmarking with public disclosure in non-Energy Star buildings, and the Energy Department would have built a public database of building energy information."
+  },
+  {
+   "group": "Manufacturers and utilities of grid-enabled water heaters",
+   "how": "They would have faced new annual reporting requirements, anti-diversion procedures, and unlawful-use penalties tied to demand response programs."
+  },
+  {
+   "group": "Indian nations",
+   "how": "The bill would have stated that it does not change the federal duty to consult with tribes under Executive Order 13175."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

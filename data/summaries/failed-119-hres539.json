@@ -1,0 +1,20 @@
+{
+ "headline": "House resolution to censure Rep. LaMonica McIver and remove her from the Homeland Security Committee was tabled and did not pass.",
+ "what_it_does": "This resolution would have formally censured Representative LaMonica McIver, which is an official statement of disapproval by the House. It would also have removed her from her seat on the House Committee on Homeland Security. On September 3, 2025, the House voted to table it, so it did not take effect.",
+ "who_it_affects": [
+  {
+   "group": "Representative LaMonica McIver",
+   "how": "She would have been formally censured by the House and lost her seat on the Committee on Homeland Security."
+  },
+  {
+   "group": "House Committee on Homeland Security",
+   "how": "The committee would have lost one of its members."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-11"
+}

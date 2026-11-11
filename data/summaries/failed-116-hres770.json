@@ -1,0 +1,24 @@
+{
+ "headline": "H.Res. 770 was a House resolution that would have formally disapproved how two committee chairs handled the 2019 impeachment inquiry into President Trump.",
+ "what_it_does": "If adopted, the resolution would have expressed the House's disapproval of Chairman Adam Schiff's conduct as head of the Intelligence Committee, which it described as an abuse of power. It would also have criticized Chairman Jerrold Nadler of the Judiciary Committee for not responding to the minority's request for an additional day of hearings on the impeachment. The resolution would have carried no direct legal penalty or change to federal law.",
+ "who_it_affects": [
+  {
+   "group": "Rep. Adam Schiff, Chairman of the House Permanent Select Committee on Intelligence",
+   "how": "The House would have formally condemned his handling of committee action during the impeachment inquiry."
+  },
+  {
+   "group": "Rep. Jerrold Nadler, Chairman of the House Judiciary Committee",
+   "how": "The House would have formally criticized him for not granting the minority's request for an extra day of impeachment hearings."
+  },
+  {
+   "group": "House minority members who requested the additional hearing day",
+   "how": "The resolution would have voiced House disapproval of the committee chairs' response to their request."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

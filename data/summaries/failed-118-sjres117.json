@@ -1,0 +1,20 @@
+{
+ "headline": "Failed Senate resolution would have rejected a President's report about money the government of Ukraine owes the United States.",
+ "what_it_does": "This joint resolution would have formally disapproved a report the President sent to Congress about the debt of Ukraine's government. The title does not say what the report proposed, and no official summary is available. Disapproving it would likely have blocked whatever action the report described regarding that debt. The Senate refused to take it up on November 20, 2024.",
+ "who_it_affects": [
+  {
+   "group": "The government of Ukraine",
+   "how": "It would have rejected the President's report on what Ukraine's government owes, which could have affected how that debt is handled."
+  },
+  {
+   "group": "The President and federal agencies handling foreign aid",
+   "how": "It would have blocked the action laid out in the President's report on Ukraine's debt."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-11"
+}

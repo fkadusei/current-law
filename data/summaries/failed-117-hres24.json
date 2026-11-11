@@ -1,0 +1,24 @@
+{
+ "headline": "If adopted, this resolution would have impeached President Donald Trump for inciting an insurrection related to the January 6, 2021 Capitol attack, but the Senate voted to acquit.",
+ "what_it_does": "The resolution would have set out one article of impeachment, stating that President Trump incited an insurrection against the U.S. government. It cites his false claims that the 2020 election was fraudulent, his statements to a crowd near the White House before the January 6 joint session, and an earlier phone call to Georgia's Secretary of State. If adopted, it would have called for a trial, removal from office, and disqualification from holding U.S. office.",
+ "who_it_affects": [
+  {
+   "group": "The sitting president",
+   "how": "If adopted, the resolution would have led to a Senate trial on whether he should be removed from office and barred from holding any future U.S. office."
+  },
+  {
+   "group": "U.S. Senators",
+   "how": "They would have served as jurors in the impeachment trial, which the Constitution requires the Senate to hold after the House impeaches."
+  },
+  {
+   "group": "People seeking federal office",
+   "how": "If the Senate had convicted, the president would have been disqualified from holding any federal office in the future."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

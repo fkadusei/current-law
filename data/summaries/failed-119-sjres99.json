@@ -1,0 +1,20 @@
+{
+ "headline": "Failed resolution would have canceled a USCIS rule ending the automatic extension of some immigrants' work permits while renewals are pending.",
+ "what_it_does": "This resolution would have used the Congressional Review Act to cancel a rule from U.S. Citizenship and Immigration Services (USCIS). Based on its title, that rule removes the automatic extension of Employment Authorization Documents, the work permits some immigrants need to work legally in the U.S. If the resolution had passed, the rule would have had no legal effect, and USCIS could not issue a substantially similar rule without new approval from Congress. There is no official summary, so details beyond the title are limited.",
+ "who_it_affects": [
+  {
+   "group": "Immigrants with work permits who apply to renew them",
+   "how": "They would have kept the automatic extension that lets them keep working while USCIS reviews their renewal, instead of possibly losing work permission during the wait."
+  },
+  {
+   "group": "Employers who hire workers with work permits",
+   "how": "They would have been able to keep employing these workers during the renewal period without a gap in work authorization."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-11"
+}

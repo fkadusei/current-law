@@ -1,0 +1,24 @@
+{
+ "headline": "A 2017 House resolution would have impeached President Donald Trump on two articles over his public statements.",
+ "what_it_does": "If adopted, H.Res. 646 would have impeached President Donald Trump for high misdemeanors. It would have set out two articles of impeachment based on his statements as President that allegedly caused harm to American society and manifest injury to the people of the United States. The House voted on December 6, 2017 to table the resolution, so it did not move forward.",
+ "who_it_affects": [
+  {
+   "group": "President Donald Trump",
+   "how": "He would have been formally impeached by the House, which would have started a process that could lead to a Senate trial on the charges."
+  },
+  {
+   "group": "The Senate",
+   "how": "It would have had to hold a trial on the articles of impeachment if the House had passed them."
+  },
+  {
+   "group": "The American public",
+   "how": "Voters would have seen the President formally charged with conduct the resolution described as harmful to the people of the United States."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

@@ -1,0 +1,24 @@
+{
+ "headline": "Senate resolution to cancel an HHS rule on child care funding flexibility did not advance and did not take effect.",
+ "what_it_does": "This resolution would have used the Congressional Review Act to cancel a Department of Health and Human Services rule titled \"Restoring Flexibility in the Child Care and Development Fund (CCDF).\" The CCDF is a federal program that gives money to states to help low-income families pay for child care. If adopted, the rule would have had no legal effect, and HHS could not have issued a substantially similar rule without new approval from Congress. No official summary was available, so the rule's specific changes are not described here.",
+ "who_it_affects": [
+  {
+   "group": "State agencies that run child care assistance programs",
+   "how": "They would have been unable to use whatever added flexibility the HHS rule gave them in running CCDF programs."
+  },
+  {
+   "group": "Low-income families who get help paying for child care through the CCDF",
+   "how": "The rules for their child care assistance would have stayed as they were before the HHS rule."
+  },
+  {
+   "group": "Child care providers who accept CCDF subsidies",
+   "how": "The program rules that affect how they work with the subsidy program would not have included the changes in the HHS rule."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-11"
+}

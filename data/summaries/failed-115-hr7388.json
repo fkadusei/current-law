@@ -1,0 +1,28 @@
+{
+ "headline": "The House voted this bill down in December 2018; it would have extended the National Flood Insurance Program to May 31, 2019 and let private insurers sell flood policies through FEMA's Write Your Own program.",
+ "what_it_does": "The bill would have reauthorized the National Flood Insurance Program through May 31, 2019, and it would have taken effect as if enacted on December 21, 2018. It would have required FEMA to let a Write Your Own company sell private flood insurance. Write Your Own companies write and service federal standard flood insurance policies in their own names.",
+ "who_it_affects": [
+  {
+   "group": "People who hold or buy federal flood insurance policies",
+   "how": "Their coverage would have continued under the program without a lapse through May 31, 2019."
+  },
+  {
+   "group": "Write Your Own insurance companies",
+   "how": "They would have been allowed to sell private flood insurance under the program."
+  },
+  {
+   "group": "Private flood insurers",
+   "how": "They would have gained the ability to sell flood coverage through the Write Your Own arrangement."
+  },
+  {
+   "group": "The Federal Emergency Management Agency (FEMA)",
+   "how": "It would have been required to allow Write Your Own companies to sell private flood insurance."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

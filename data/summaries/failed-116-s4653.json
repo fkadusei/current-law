@@ -1,0 +1,20 @@
+{
+ "headline": "A 2020 Senate bill that would have barred the Justice Department from asking courts to strike down parts of the Affordable Care Act; it did not pass.",
+ "what_it_does": "If adopted, the bill would prohibit the Department of Justice from arguing in court that any provision of the Patient Protection and Affordable Care Act should be invalidated. The official summary describes only this restriction, so details beyond it are not stated. The Senate refused to take up the bill or end debate on it on October 1, 2020, so it did not become law.",
+ "who_it_affects": [
+  {
+   "group": "People who get health insurance through the Affordable Care Act marketplaces or Medicaid expansion",
+   "how": "They would have been protected from a federal legal position that could otherwise have led courts to remove parts of the law that govern their coverage."
+  },
+  {
+   "group": "Department of Justice attorneys",
+   "how": "They would have been barred from advocating in court that any provision of the Affordable Care Act be struck down."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

@@ -1,0 +1,24 @@
+{
+ "headline": "Would have directed the President to remove U.S. forces from unauthorized hostilities in Yemen within 30 days; Congress failed to override the President's veto on May 2, 2019.",
+ "what_it_does": "If adopted, this resolution would have required the President to remove U.S. Armed Forces from hostilities in or affecting Yemen within 30 days, unless Congress set a later date, declared war, or specifically authorized the use of the forces. It would have barred U.S. in-flight refueling of non-U.S. aircraft flying missions in the Yemen conflict. It would not have affected military operations aimed at Al Qaeda. The President would also have had to report to Congress within 90 days on the risks of ending U.S. support for the Yemen conflict and of Saudi Arabia ending its Yemen-related intelligence sharing.",
+ "who_it_affects": [
+  {
+   "group": "U.S. military members serving in or near Yemen",
+   "how": "They would have been withdrawn from hostilities in Yemen within 30 days unless one of the listed exceptions applied."
+  },
+  {
+   "group": "U.S. aircrews who provide in-flight refueling",
+   "how": "They would have been prohibited from refueling non-U.S. aircraft conducting missions as part of the Yemen conflict."
+  },
+  {
+   "group": "Governments whose aircraft fly in the Yemen conflict, such as Saudi Arabia",
+   "how": "Their aircraft would have lost U.S. in-flight refueling support for Yemen missions, and U.S. reports would have assessed the effects of Saudi Arabia ending Yemen-related intelligence sharing."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

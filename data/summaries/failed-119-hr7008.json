@@ -1,0 +1,24 @@
+{
+ "headline": "Bill to ban members of Congress and their families from buying stocks and require public notice before selling did not pass the Senate.",
+ "what_it_does": "The bill would have barred members of Congress, their spouses, and their dependent children from buying stocks and similar investments in publicly traded companies. Before selling such investments, the member would have had to file a public notice 7 to 14 days ahead, which would be posted online. Violators would have paid a fee of at least $2,000 or 10% of the deal's value, whichever is greater, plus any profit made, and would have had to sell stock bought in violation. Widely held investment funds, certain trusts, and some transactions by spouses and children, such as stock received as pay from an employer, would have been exempt.",
+ "who_it_affects": [
+  {
+   "group": "Members of Congress",
+   "how": "They would have been barred from buying individual stocks, required to give public notice before selling, and charged fees for violations that could not be paid with campaign money or official allowances."
+  },
+  {
+   "group": "Spouses and dependent children of members of Congress",
+   "how": "They would have been barred from buying individual stocks, with some exceptions such as stock received as part of their own job pay."
+  },
+  {
+   "group": "Clerk of the House and Secretary of the Senate",
+   "how": "They would have received members' notices of planned stock sales and posted them online."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-11"
+}

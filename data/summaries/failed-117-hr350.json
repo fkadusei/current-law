@@ -1,0 +1,28 @@
+{
+ "headline": "H.R. 350 would have created domestic terrorism units and reporting requirements at DHS, DOJ, and the FBI, plus a task force on white supremacist infiltration of government agencies.",
+ "what_it_does": "The bill would have required DHS, DOJ, and the FBI to set up domestic terrorism components that monitor, analyze, investigate, and prosecute domestic terrorism. Those agencies would have had to issue joint reports on domestic terrorism, including incidents linked to white supremacy, and review their anti-terrorism training for local police. It would also have created an interagency task force on white supremacist and neo-Nazi infiltration of the military and federal law enforcement, and required an FBI agent or hate crimes liaison in each field office.",
+ "who_it_affects": [
+  {
+   "group": "Federal law enforcement agencies (DHS, DOJ, FBI)",
+   "how": "They would have had to create or authorize domestic terrorism units, file joint public reports, and review their training programs."
+  },
+  {
+   "group": "Federal prosecutors and assistant U.S. attorneys",
+   "how": "DOJ would have had to offer them training on prosecuting domestic terrorism cases."
+  },
+  {
+   "group": "State, local, and tribal law enforcement agencies",
+   "how": "They would have received reviewed anti-terrorism training and resource programs from federal agencies."
+  },
+  {
+   "group": "Members of the uniformed services and federal law enforcement employees",
+   "how": "An interagency task force would have examined whether white supremacist or neo-Nazi groups had infiltrated their ranks."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

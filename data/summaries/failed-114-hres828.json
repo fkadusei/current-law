@@ -1,0 +1,24 @@
+{
+ "headline": "The House voted in December 2016 to table or send back to committee a resolution that would have impeached IRS Commissioner John Koskinen.",
+ "what_it_does": "If adopted, the resolution would have impeached John Koskinen, then Commissioner of the Internal Revenue Service, for high crimes and misdemeanors and sent the articles of impeachment to the Senate. The articles cited failing to respond to congressional subpoenas, making false or misleading statements to Congress, acting in a way that undermined trust in his office, and failing to handle the investigation into IRS targeting of groups based on political affiliation with competence and candor. Because the House did not adopt it, none of this took effect.",
+ "who_it_affects": [
+  {
+   "group": "John Andrew Koskinen",
+   "how": "He would have been formally impeached and his conduct as IRS Commissioner would have been referred to the Senate for trial."
+  },
+  {
+   "group": "IRS employees and officials",
+   "how": "Their agency's leadership and handling of the targeting investigation would have been placed under formal congressional review through the impeachment process."
+  },
+  {
+   "group": "Taxpayers and groups that applied for tax-exempt status",
+   "how": "Their concerns about the IRS review of political-affiliation targeting would have been tied to the impeachment articles."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

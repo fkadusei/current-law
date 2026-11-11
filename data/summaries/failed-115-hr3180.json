@@ -1,0 +1,40 @@
+{
+ "headline": "The House voted down this 2018 intelligence funding bill, which would have authorized spending and made changes to intelligence agencies, reporting rules, and Foreign Service postings.",
+ "what_it_does": "If adopted, the bill would have authorized fiscal year 2018 funding for intelligence activities across about a dozen agencies, with the dollar amounts set in a classified schedule. It would also have changed rules on agency leadership, personnel, retirement annuities, and security clearance reviews, and it would have required several reports on Russian influence campaigns, election threats, and intelligence agency operations. It would have limited Foreign Service postings to six years and required some language-trained officers to serve three tours in roles where that language is needed.",
+ "who_it_affects": [
+  {
+   "group": "Intelligence community employees and contractors at agencies such as the CIA, NSA, DIA, NGA, and FBI",
+   "how": "They would have had their funding and personnel ceilings set for fiscal year 2018, and their security clearance processing would have been reported annually to Congress."
+  },
+  {
+   "group": "Foreign Service members",
+   "how": "Their postings would have been capped at six years, and those who received certain foreign language training would have had to serve three successive tours where that language is needed."
+  },
+  {
+   "group": "Former and current Office of the Director of National Intelligence personnel and their families",
+   "how": "Armed CIA personnel would have been allowed to protect them while they are in the United States."
+  },
+  {
+   "group": "Future NSA directors and the NSA itself",
+   "how": "The NSA director would have had to be a civilian not on active military duty, and the agency would have gained a General Counsel appointed by the President."
+  },
+  {
+   "group": "Journalists and federal employees who handle classified information",
+   "how": "Agency heads and inspectors general would have had to report semiannually on unauthorized disclosures of classified information to journalists, including investigations referred to the Justice Department."
+  },
+  {
+   "group": "Election officials and campaigns for federal office",
+   "how": "The Director of National Intelligence, with DHS and the FBI, would have had to publish online a report on foreign threats to federal elections and best practices for countering them."
+  },
+  {
+   "group": "Intelligence community whistle-blowers",
+   "how": "The Inspector General of the Intelligence Community would have reviewed how whistle-blower matters are reported and handled."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

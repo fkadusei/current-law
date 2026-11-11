@@ -1,0 +1,28 @@
+{
+ "headline": "The Senate voted down S. 3436, which would have required the President to impose sanctions tied to the Nord Stream 2 natural gas pipeline.",
+ "what_it_does": "If adopted, this bill would have required the President to block property of any entity set up for or responsible for planning, building, or operating the Nord Stream 2 pipeline. It would also have required visa bans on corporate officers of those entities. The bill would have required the President to report to Congress before waiving certain Russia-related sanctions, and if Congress passed a joint resolution of disapproval, the President could not waive them.",
+ "who_it_affects": [
+  {
+   "group": "Companies that plan, build, or operate the Nord Stream 2 pipeline",
+   "how": "They would have faced required property-blocking sanctions, which would have frozen their U.S.-based assets and barred U.S. dealings with them."
+  },
+  {
+   "group": "Corporate officers of Nord Stream 2 entities",
+   "how": "They would have faced required visa bans that would have blocked their entry into the United States."
+  },
+  {
+   "group": "The President and executive branch agencies",
+   "how": "They would have been required to impose these sanctions and to report to Congress before waiving certain Russia-related sanctions."
+  },
+  {
+   "group": "Members of Congress",
+   "how": "They would have gained the ability to pass a joint resolution of disapproval that would have blocked a presidential waiver of certain Russia-related sanctions."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

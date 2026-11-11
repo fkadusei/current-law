@@ -1,0 +1,889 @@
+{
+ "id": "114-s534",
+ "congress": 114,
+ "bill": "S. 534",
+ "bill_type": "S",
+ "title": "Immigration Rule of Law Act of 2015",
+ "policy_area": "Immigration",
+ "sponsor": "Sen. Collins, Susan M. [R-ME]",
+ "latest_action": {
+  "actionDate": "2015-02-27",
+  "text": "Motion by Senator McConnell to reconsider the vote by which cloture was not invoked on the motion to proceed to S. 534 (Record Vote. No. 63) entered in Senate."
+ },
+ "official_summary": " <p><strong>Immigration Rule of Law Act of 2015</strong></p> <p>This bill prohibits the use of any funds made available to the Secretary of Homeland Security (DHS) or to any other federal official, including deposits into the Immigration Examinations Fee Account, to carry out any of the policy changes set forth in the following memoranda dated either November 20 or November 21, 2014 (or any substantially similar policy changes issued or taken on or after January 9, 2015): </p> <ul> <li>Southern Border and Approaches Campaign; </li> <li>Policies for the Apprehension, Detention and Removal of Undocumented Immigrants; </li> <li>Secure Communities; </li> <li>Exercising Prosecutorial Discretion with Respect to Individuals Who Came to the United States as Children and with Respect to Certain Individuals Who Are the Parents of U.S. Citizens or Permanent Residents; </li> <li>Expansion of the Provisional Waiver Program; </li> <li>Policies Supporting U.S. High-Skilled Businesses and Workers; </li> <li> Families of U.S. Armed Forces Members and Enlistees; </li> <li>Directive to Provide Consistency Regarding Advance Parole; </li> <li>Policies to Promote and Increase Access to U.S. Citizenship; </li> <li>Modernizing and Streamlining the U.S. Immigrant Visa System for the 21st Century; and </li> <li>Creating Welcoming Communities and Fully Integrating Immigrants and Refugees.</li> </ul> <p>Such memoranda or substantially similar policy changes are declared to have no statutory or constitutional basis and therefore no legal effect.</p> <p>No funds or fees made available to the Secretary or to any federal official may be used to grant any federal benefit to any alien pursuant to any of such policy changes. </p> <p>No funds or fees made available to the Secretary may be used to carry out any policy relating to the apprehension, detention, or removal of aliens that does not treat any alien convicted of any offense involving domestic violence, sexual abuse, child molestation, or child exploitation as within the categories of aliens subject to the highest DHS civil immigration enforcement priorities.</p> <p>It is the sense of Congress that: </p> <ul> <li> disparate employer/employee health insurance requirements discourage the hiring of U.S. citizens and those in lawful immigration status; and </li> <li>the Executive Branch should refrain from pursuing policies such as granting to unlawfully present individuals any deferred action under the deferred action for childhood arrivals program and work authorization. </li> </ul> <p>It is the sense of Congress that U.S. Citizenship and Immigration Service should: </p> <ul> <li>stop putting the interests of aliens who are unlawfully present in the United States ahead of the interests of aliens who are following proper immigration laws and procedures by taking specified actions, and </li> <li>use the funds available under existing law to improve services and increase the efficiency of the immigration benefits application process for aliens abroad or who are lawfully present in the United States.</li> </ul>",
+ "congress_gov_url": "https://www.congress.gov/bill/114th-congress/senate-bill/534",
+ "failed_on": "2015-02-27",
+ "kind": "blocked",
+ "chamber": "Senate",
+ "later_became_law": null,
+ "votes": [
+  {
+   "chamber": "Senate",
+   "roll": 63,
+   "date": "2015-02-27",
+   "kind": "blocked",
+   "question": "On Cloture on the Motion to Proceed",
+   "result": "Cloture on the Motion to Proceed Rejected",
+   "required": "3/5",
+   "yea": 57,
+   "nay": 42,
+   "support": "yea",
+   "by_party": {
+    "R": {
+     "yea": 53,
+     "nay": 1
+    },
+    "D": {
+     "nay": 39,
+     "not voting": 1,
+     "yea": 4
+    },
+    "I": {
+     "nay": 2
+    }
+   },
+   "majority_party": "R",
+   "members": [
+    {
+     "icpsr": "14009",
+     "bioguide": "C000567",
+     "name": "COCHRAN, William Thad",
+     "party": "R",
+     "state": "MS",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "14226",
+     "bioguide": "G000386",
+     "name": "GRASSLEY, Charles Ernest",
+     "party": "R",
+     "state": "IA",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "14307",
+     "bioguide": "L000174",
+     "name": "LEAHY, Patrick Joseph",
+     "party": "D",
+     "state": "VT",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "14435",
+     "bioguide": "M000133",
+     "name": "MARKEY, Edward John",
+     "party": "D",
+     "state": "MA",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "14440",
+     "bioguide": "M000702",
+     "name": "MIKULSKI, Barbara Ann",
+     "party": "D",
+     "state": "MD",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "14503",
+     "bioguide": "H000338",
+     "name": "HATCH, Orrin Grant",
+     "party": "R",
+     "state": "UT",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "14651",
+     "bioguide": "N000032",
+     "name": "NELSON, Clarence William (Bill)",
+     "party": "D",
+     "state": "FL",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "14806",
+     "bioguide": "C000542",
+     "name": "COATS, Daniel Ray",
+     "party": "R",
+     "state": "IN",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "14852",
+     "bioguide": "R000307",
+     "name": "ROBERTS, Charles Patrick (Pat)",
+     "party": "R",
+     "state": "KS",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "14858",
+     "bioguide": "S000148",
+     "name": "SCHUMER, Charles Ellis (Chuck)",
+     "party": "D",
+     "state": "NY",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "14871",
+     "bioguide": "W000779",
+     "name": "WYDEN, Ronald Lee",
+     "party": "D",
+     "state": "OR",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "14921",
+     "bioguide": "M000355",
+     "name": "MCCONNELL, Addison Mitchell (Mitch)",
+     "party": "R",
+     "state": "KY",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "15011",
+     "bioguide": "B000711",
+     "name": "BOXER, Barbara",
+     "party": "D",
+     "state": "CA",
+     "vote": "not voting"
+    },
+    {
+     "icpsr": "15015",
+     "bioguide": "C000174",
+     "name": "CARPER, Thomas Richard",
+     "party": "D",
+     "state": "DE",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "15021",
+     "bioguide": "D000563",
+     "name": "DURBIN, Richard Joseph",
+     "party": "D",
+     "state": "IL",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "15039",
+     "bioguide": "M000303",
+     "name": "McCAIN, John Sidney, III",
+     "party": "R",
+     "state": "AZ",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "15054",
+     "bioguide": "R000146",
+     "name": "REID, Harry",
+     "party": "D",
+     "state": "NV",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "15408",
+     "bioguide": "C000141",
+     "name": "CARDIN, Benjamin Louis",
+     "party": "D",
+     "state": "MD",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "15424",
+     "bioguide": "I000024",
+     "name": "INHOFE, James Mountain",
+     "party": "R",
+     "state": "OK",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20100",
+     "bioguide": "F000444",
+     "name": "FLAKE, Jeff",
+     "party": "R",
+     "state": "AZ",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20101",
+     "bioguide": "B001236",
+     "name": "BOOZMAN, John",
+     "party": "R",
+     "state": "AR",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20115",
+     "bioguide": "K000360",
+     "name": "KIRK, Mark Steven",
+     "party": "R",
+     "state": "IL",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20146",
+     "bioguide": "C001047",
+     "name": "CAPITO, Shelley Moore",
+     "party": "R",
+     "state": "WV",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20707",
+     "bioguide": "M001169",
+     "name": "MURPHY, Christopher",
+     "party": "D",
+     "state": "CT",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "20713",
+     "bioguide": "H001042",
+     "name": "HIRONO, Mazie",
+     "party": "D",
+     "state": "HI",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "20717",
+     "bioguide": "D000607",
+     "name": "DONNELLY, Joe",
+     "party": "D",
+     "state": "IN",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20730",
+     "bioguide": "H001041",
+     "name": "HELLER, Dean",
+     "party": "R",
+     "state": "NV",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20735",
+     "bioguide": "G000555",
+     "name": "GILLIBRAND, Kirsten",
+     "party": "D",
+     "state": "NY",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "20919",
+     "bioguide": "C001075",
+     "name": "CASSIDY, Bill",
+     "party": "R",
+     "state": "LA",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20923",
+     "bioguide": "P000595",
+     "name": "PETERS, Gary C.",
+     "party": "D",
+     "state": "MI",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "20930",
+     "bioguide": "H001046",
+     "name": "HEINRICH, Martin",
+     "party": "D",
+     "state": "NM",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "21112",
+     "bioguide": "G000562",
+     "name": "GARDNER, Cory",
+     "party": "R",
+     "state": "CO",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21166",
+     "bioguide": "L000575",
+     "name": "LANKFORD, James",
+     "party": "R",
+     "state": "OK",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21173",
+     "bioguide": "S001184",
+     "name": "SCOTT, Tim",
+     "party": "R",
+     "state": "SC",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21301",
+     "bioguide": "C001095",
+     "name": "COTTON, Thomas Bryant (Tom)",
+     "party": "R",
+     "state": "AR",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21338",
+     "bioguide": "D000618",
+     "name": "DAINES, Steve",
+     "party": "R",
+     "state": "MT",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29142",
+     "bioguide": "R000122",
+     "name": "REED, John F. (Jack)",
+     "party": "D",
+     "state": "RI",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "29147",
+     "bioguide": "S000033",
+     "name": "SANDERS, Bernard",
+     "party": "I",
+     "state": "VT",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "29345",
+     "bioguide": "C000880",
+     "name": "CRAPO, Michael Dean",
+     "party": "R",
+     "state": "ID",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29373",
+     "bioguide": "M000639",
+     "name": "MENENDEZ, Robert",
+     "party": "D",
+     "state": "NJ",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "29386",
+     "bioguide": "P000449",
+     "name": "PORTMAN, Robert Jones (Rob)",
+     "party": "R",
+     "state": "OH",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29389",
+     "bioguide": "B000944",
+     "name": "BROWN, Sherrod",
+     "party": "D",
+     "state": "OH",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "29534",
+     "bioguide": "W000437",
+     "name": "WICKER, Roger F.",
+     "party": "R",
+     "state": "MS",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29548",
+     "bioguide": "B001135",
+     "name": "BURR, Richard M.",
+     "party": "R",
+     "state": "NC",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29566",
+     "bioguide": "G000359",
+     "name": "GRAHAM, Lindsey O.",
+     "party": "R",
+     "state": "SC",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29722",
+     "bioguide": "M000934",
+     "name": "MORAN, Jerry",
+     "party": "R",
+     "state": "KS",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29732",
+     "bioguide": "S000770",
+     "name": "STABENOW, Deborah Ann",
+     "party": "D",
+     "state": "MI",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "29735",
+     "bioguide": "B000575",
+     "name": "BLUNT, Roy",
+     "party": "R",
+     "state": "MO",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29754",
+     "bioguide": "T000250",
+     "name": "THUNE, John",
+     "party": "R",
+     "state": "SD",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29909",
+     "bioguide": "I000055",
+     "name": "ISAKSON, Johnny",
+     "party": "R",
+     "state": "GA",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29918",
+     "bioguide": "V000127",
+     "name": "VITTER, David",
+     "party": "R",
+     "state": "LA",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29924",
+     "bioguide": "U000039",
+     "name": "UDALL, Thomas (Tom)",
+     "party": "D",
+     "state": "NM",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "29935",
+     "bioguide": "T000461",
+     "name": "TOOMEY, Patrick Joseph",
+     "party": "R",
+     "state": "PA",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29940",
+     "bioguide": "B001230",
+     "name": "BALDWIN, Tammy",
+     "party": "D",
+     "state": "WI",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "39310",
+     "bioguide": "C000127",
+     "name": "CANTWELL, Maria E.",
+     "party": "D",
+     "state": "WA",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "40300",
+     "bioguide": "M001153",
+     "name": "MURKOWSKI, Lisa",
+     "party": "R",
+     "state": "AK",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "40304",
+     "bioguide": "A000360",
+     "name": "ALEXANDER, Lamar",
+     "party": "R",
+     "state": "TN",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "40305",
+     "bioguide": "C001056",
+     "name": "CORNYN, John",
+     "party": "R",
+     "state": "TX",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "40700",
+     "bioguide": "K000367",
+     "name": "KLOBUCHAR, Amy",
+     "party": "D",
+     "state": "MN",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "40701",
+     "bioguide": "M001170",
+     "name": "McCASKILL, Claire",
+     "party": "D",
+     "state": "MO",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "40702",
+     "bioguide": "T000464",
+     "name": "TESTER, Jon",
+     "party": "D",
+     "state": "MT",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "40703",
+     "bioguide": "C001070",
+     "name": "CASEY, Robert (Bob), Jr.",
+     "party": "D",
+     "state": "PA",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "40704",
+     "bioguide": "W000802",
+     "name": "WHITEHOUSE, Sheldon",
+     "party": "D",
+     "state": "RI",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "40705",
+     "bioguide": "C001071",
+     "name": "CORKER, Robert (Bob)",
+     "party": "R",
+     "state": "TN",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "40707",
+     "bioguide": "B001261",
+     "name": "BARRASSO, John A.",
+     "party": "R",
+     "state": "WY",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "40902",
+     "bioguide": "R000584",
+     "name": "RISCH, James",
+     "party": "R",
+     "state": "ID",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "40904",
+     "bioguide": "F000457",
+     "name": "FRANKEN, Al",
+     "party": "D",
+     "state": "MN",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "40906",
+     "bioguide": "S001181",
+     "name": "SHAHEEN, Jeanne",
+     "party": "D",
+     "state": "NH",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "40908",
+     "bioguide": "M001176",
+     "name": "MERKLEY, Jeff",
+     "party": "D",
+     "state": "OR",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "40909",
+     "bioguide": "W000805",
+     "name": "WARNER, Mark R.",
+     "party": "D",
+     "state": "VA",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "40910",
+     "bioguide": "B001267",
+     "name": "BENNET, Michael F.",
+     "party": "D",
+     "state": "CO",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "40915",
+     "bioguide": "M001183",
+     "name": "MANCHIN, Joe, III",
+     "party": "D",
+     "state": "WV",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "40916",
+     "bioguide": "C001088",
+     "name": "COONS, Christopher A.",
+     "party": "D",
+     "state": "DE",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41101",
+     "bioguide": "B001277",
+     "name": "BLUMENTHAL, Richard",
+     "party": "D",
+     "state": "CT",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41102",
+     "bioguide": "R000595",
+     "name": "RUBIO, Marco",
+     "party": "R",
+     "state": "FL",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "41104",
+     "bioguide": "P000603",
+     "name": "PAUL, Rand",
+     "party": "R",
+     "state": "KY",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "41106",
+     "bioguide": "A000368",
+     "name": "AYOTTE, Kelly",
+     "party": "R",
+     "state": "NH",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "41107",
+     "bioguide": "H001061",
+     "name": "HOEVEN, John",
+     "party": "R",
+     "state": "ND",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "41110",
+     "bioguide": "L000577",
+     "name": "LEE, Mike",
+     "party": "R",
+     "state": "UT",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "41111",
+     "bioguide": "J000293",
+     "name": "JOHNSON, Ron",
+     "party": "R",
+     "state": "WI",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "41112",
+     "bioguide": "S001194",
+     "name": "SCHATZ, Brian Emanuel",
+     "party": "D",
+     "state": "HI",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41300",
+     "bioguide": "K000383",
+     "name": "KING, Angus Stanley, Jr.",
+     "party": "I",
+     "state": "ME",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41301",
+     "bioguide": "W000817",
+     "name": "WARREN, Elizabeth",
+     "party": "D",
+     "state": "MA",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41302",
+     "bioguide": "F000463",
+     "name": "FISCHER, Debra (Deb)",
+     "party": "R",
+     "state": "NE",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "41303",
+     "bioguide": "H001069",
+     "name": "HEITKAMP, Mary Kathryn (Heidi)",
+     "party": "D",
+     "state": "ND",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "41304",
+     "bioguide": "C001098",
+     "name": "CRUZ, Rafael Edward (Ted)",
+     "party": "R",
+     "state": "TX",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "41305",
+     "bioguide": "K000384",
+     "name": "KAINE, Timothy Michael (Tim)",
+     "party": "D",
+     "state": "VA",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41308",
+     "bioguide": "B001288",
+     "name": "BOOKER, Cory Anthony",
+     "party": "D",
+     "state": "NJ",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41500",
+     "bioguide": "S001198",
+     "name": "SULLIVAN, Daniel Scott",
+     "party": "R",
+     "state": "AK",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "41501",
+     "bioguide": "P000612",
+     "name": "PERDUE, David Alfred, Jr.",
+     "party": "R",
+     "state": "GA",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "41502",
+     "bioguide": "E000295",
+     "name": "ERNST, Joni",
+     "party": "R",
+     "state": "IA",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "41503",
+     "bioguide": "S001197",
+     "name": "SASSE, Benjamin Eric",
+     "party": "R",
+     "state": "NE",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "41504",
+     "bioguide": "T000476",
+     "name": "TILLIS, Thomas Roland (Thom)",
+     "party": "R",
+     "state": "NC",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "41505",
+     "bioguide": "R000605",
+     "name": "ROUNDS, Marion Michael (Mike)",
+     "party": "R",
+     "state": "SD",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "49300",
+     "bioguide": "F000062",
+     "name": "FEINSTEIN, Dianne",
+     "party": "D",
+     "state": "CA",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "49308",
+     "bioguide": "M001111",
+     "name": "MURRAY, Patty",
+     "party": "D",
+     "state": "WA",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "49700",
+     "bioguide": "S001141",
+     "name": "SESSIONS, Jefferson Beauregard (Jeff), III",
+     "party": "R",
+     "state": "AL",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "49703",
+     "bioguide": "C001035",
+     "name": "COLLINS, Susan Margaret",
+     "party": "R",
+     "state": "ME",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "49706",
+     "bioguide": "E000285",
+     "name": "ENZI, Michael B.",
+     "party": "R",
+     "state": "WY",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "94659",
+     "bioguide": "S000320",
+     "name": "SHELBY, Richard C.",
+     "party": "R",
+     "state": "AL",
+     "vote": "yea"
+    }
+   ]
+  }
+ ],
+ "support_color": {
+  "side": "R",
+  "share": 0.93,
+  "r_support": 53,
+  "d_support": 4,
+  "shade": 0.86,
+  "party_line": null
+ },
+ "control": {
+  "Senate": "R"
+ },
+ "summary": {
+  "headline": "S. 534 would have blocked federal funds from carrying out a set of late-2014 executive immigration policies, but the Senate did not take it up and it never took effect.",
+  "what_it_does": "The bill would have barred federal money and immigration fees from being used to carry out ten named 2014 immigration memos, or any substantially similar policy changes made on or after January 9, 2015. It would have declared those policies to have no legal basis. It would also have barred funds for granting federal benefits under those policies and required DHS enforcement priorities to treat certain offenders, such as those convicted of domestic violence or child sexual abuse, as top priorities. The bill also included non-binding statements of congressional opinion about employer health insurance rules, deferred action, and USCIS processing.",
+  "who_it_affects": [
+   {
+    "group": "Immigrants who are unlawfully present in the United States and might have received deferred action or other benefits under the 2014 memos",
+    "how": "They would not have been able to receive federal benefits granted under the blocked policies."
+   },
+   {
+    "group": "Parents of U.S. citizens or permanent residents and people brought to the U.S. as children who were covered by the 2014 deferred action policies",
+    "how": "Their eligibility for relief under those specific policies would have been cut off by the funding ban."
+   },
+   {
+    "group": "Employees of the Department of Homeland Security and other federal immigration officials",
+    "how": "They would have been barred from using appropriated funds or fees to carry out the named policies."
+   },
+   {
+    "group": "Immigrants convicted of domestic violence, sexual abuse, child molestation, or child exploitation",
+    "how": "Under the bill, DHS would have been required to treat these convictions as placing a person in the highest civil immigration enforcement priority categories."
+   }
+  ],
+  "when_it_takes_effect": "Did not take effect",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-11"
+ }
+}

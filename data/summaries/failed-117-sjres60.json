@@ -1,0 +1,24 @@
+{
+ "headline": "S.J.Res. 60 would have canceled a 2022 Education Department rule setting priorities and rules for federal charter school grants, but the Senate voted it down on December 14, 2022.",
+ "what_it_does": "This resolution would have nullified a Department of Education rule published on July 6, 2022. That rule set final priorities, requirements, definitions, and selection criteria for the Charter Schools Program. If adopted, the rule would have been treated as having no legal effect, so the grant rules it created would not have applied.",
+ "who_it_affects": [
+  {
+   "group": "State entities that apply for charter school program grants",
+   "how": "They would have applied under the grant rules that were in place before the July 2022 rule, rather than under the new rule."
+  },
+  {
+   "group": "Charter management organizations seeking grants to replicate or expand high-quality charter schools",
+   "how": "Their grant applications would have been judged under the earlier rules instead of the new priorities and selection criteria."
+  },
+  {
+   "group": "Charter school developers seeking grants to open new charter schools",
+   "how": "Their grant applications would have been judged under the earlier rules instead of the new priorities and selection criteria."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

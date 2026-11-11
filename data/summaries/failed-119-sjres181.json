@@ -1,0 +1,24 @@
+{
+ "headline": "Failed Senate resolution would have required the President to remove U.S. troops from unauthorized hostilities with Iran.",
+ "what_it_does": "This resolution would have directed the President to remove U.S. Armed Forces from hostilities within or against Iran. The order would have applied unless Congress passed a declaration of war or a specific authorization to use military force against Iran. It would not have stopped the United States from defending itself, its personnel, or its facilities abroad from an attack. On July 30, 2026, the Senate refused to take it up or end debate on it, so it did not pass.",
+ "who_it_affects": [
+  {
+   "group": "U.S. military service members",
+   "how": "Troops involved in hostilities with Iran would have been withdrawn from that fighting unless Congress approved it."
+  },
+  {
+   "group": "The President",
+   "how": "The President would have needed approval from Congress to keep U.S. forces in hostilities against Iran, apart from self-defense."
+  },
+  {
+   "group": "Congress",
+   "how": "Congress would have needed to pass a declaration of war or a use-of-force authorization for those military actions to continue."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-11"
+}

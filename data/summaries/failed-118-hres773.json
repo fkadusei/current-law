@@ -1,0 +1,20 @@
+{
+ "headline": "Failed House resolution would have expelled Representative George Santos from the House of Representatives.",
+ "what_it_does": "This resolution would have removed Representative George Santos of New York from his seat in the House of Representatives. Expelling a member requires a two-thirds vote of the House. The House voted it down on November 1, 2023, so Santos kept his seat at that time.",
+ "who_it_affects": [
+  {
+   "group": "Representative George Santos",
+   "how": "He would have lost his seat and his role as a member of the House."
+  },
+  {
+   "group": "Residents of Santos's congressional district in New York",
+   "how": "They would have been left without a representative in the House until the seat was filled."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-11"
+}

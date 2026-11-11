@@ -1,0 +1,32 @@
+{
+ "headline": "The ROTOR Act would have required more aircraft to carry tracking equipment and tightened limits on military and government exceptions, but it failed.",
+ "what_it_does": "The bill would have required most aircraft to carry ADS-B In equipment, which shows pilots where other aircraft are and gives traffic alerts. It would have narrowed when government flights, such as training flights, could skip broadcasting their location with ADS-B Out, and added reporting rules for those exceptions. It would have repealed a 2025 law letting certain military helicopters skip ADS-B Out in the Washington, DC, area. It also would have ordered audits and reviews and required the FAA to set up an office to coordinate military use of airspace.",
+ "who_it_affects": [
+  {
+   "group": "Aircraft owners and operators",
+   "how": "They would generally have had to install and use ADS-B In equipment, which current law does not require."
+  },
+  {
+   "group": "Military and other government flight crews",
+   "how": "Fewer of their flights, such as training flights, could have qualified to skip location broadcasting, and using the exception would have required more reporting and notice."
+  },
+  {
+   "group": "Military helicopter units in the Washington, DC, area",
+   "how": "They would have lost a 2025 exemption from ADS-B Out rules in that region."
+  },
+  {
+   "group": "Federal Aviation Administration",
+   "how": "It would have had to create a military airspace coordination office, review flight routes around airports, and sign safety information-sharing agreements with military agencies."
+  },
+  {
+   "group": "Government auditors (GAO and the Transportation and Army inspectors general)",
+   "how": "They would have been required to review the exception's use, audit FAA oversight every year, and audit Army coordination with the FAA."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-11"
+}

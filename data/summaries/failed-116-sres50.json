@@ -1,0 +1,28 @@
+{
+ "headline": "A 2019 Senate resolution that would have shortened debate time on certain federal nominations, and it was not adopted.",
+ "what_it_does": "If adopted, this resolution would have limited Senate debate after a cloture vote to two hours for certain nominations. Those include nominees to U.S. district courts and the U.S. Court of Federal Claims, and executive branch posts below Executive Schedule level I. It would also have covered members of 14 named independent agencies, such as the SEC, FTC, FCC, and Federal Reserve Board. Post-cloture time for all nominations would have been split equally between the majority and minority leaders.",
+ "who_it_affects": [
+  {
+   "group": "Federal court nominees",
+   "how": "Nominees to U.S. district courts and the U.S. Court of Federal Claims would have faced a two-hour limit on post-cloture debate."
+  },
+  {
+   "group": "Members of named independent federal agencies",
+   "how": "Nominees to agencies such as the SEC, FTC, FCC, NLRB, and Federal Reserve Board would have been subject to the same two-hour limit."
+  },
+  {
+   "group": "Executive branch nominees below level I",
+   "how": "Nominees to executive branch positions that are not at Executive Schedule level I would have had the two-hour limit apply."
+  },
+  {
+   "group": "U.S. senators",
+   "how": "Senators would have had less floor debate time on covered nominations, with post-cloture time divided equally between the majority and minority leaders."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

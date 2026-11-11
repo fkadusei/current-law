@@ -1,0 +1,40 @@
+{
+ "headline": "The For the People Act of 2021 would have changed federal voting rules, election security, campaign money disclosure, and ethics rules, but the Senate did not take it up and it did not pass.",
+ "what_it_does": "The bill would have made it easier to register and vote, including automatic and same-day registration, vote-by-mail, and early voting, and would have limited removing people from voter rolls. It would have required states to create independent redistricting commissions for congressional districts. It would have added election security steps, such as sharing intelligence with state election officials and creating a National Commission to Protect United States Democratic Institutions. It would also have expanded campaign finance disclosure, widened the ban on foreign campaign spending, and set up ethics rules for all three branches of government.",
+ "who_it_affects": [
+  {
+   "group": "Voters",
+   "how": "They would have gained expanded options to register and vote, such as automatic registration, same-day registration, mail voting, and early voting."
+  },
+  {
+   "group": "State election officials",
+   "how": "They would have received federal intelligence sharing and support for securing election systems, and states would have had to set up independent congressional redistricting commissions."
+  },
+  {
+   "group": "Members of Congress",
+   "how": "House members would have been barred from serving on the board of a for-profit entity."
+  },
+  {
+   "group": "Supreme Court Justices",
+   "how": "They would have been required to follow a code of conduct."
+  },
+  {
+   "group": "The President, Vice President, and certain candidates for those offices",
+   "how": "They would have been required to disclose 10 years of tax returns."
+  },
+  {
+   "group": "Campaigns, political committees, and donors",
+   "how": "They would have faced more fundraising and spending disclosure rules, additional disclaimers on certain political ads, and a wider ban on spending by foreign nationals."
+  },
+  {
+   "group": "Federal employees and White House staff",
+   "how": "They would have been subject to additional conflict-of-interest and ethics provisions."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

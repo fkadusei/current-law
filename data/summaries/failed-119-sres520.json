@@ -1,0 +1,20 @@
+{
+ "headline": "Senate resolution that would have let senators consider a group of pending nominations together failed to advance.",
+ "what_it_does": "This resolution would have allowed the Senate to consider several nominations on its Executive Calendar as one group, called \"en bloc,\" instead of one at a time. The title does not say which nominations were included. On December 4, 2025, the Senate did not agree to move forward with it.",
+ "who_it_affects": [
+  {
+   "group": "People nominated by the President who were awaiting Senate confirmation",
+   "how": "Their nominations would have been considered together as a group rather than through separate votes."
+  },
+  {
+   "group": "U.S. senators",
+   "how": "It would have changed how the Senate handled these specific nominations, allowing them to be considered in one step."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-11"
+}

@@ -1,0 +1,24 @@
+{
+ "headline": "Senate resolution to overturn the federal rule setting 2027 Affordable Care Act marketplace and Basic Health Program rules did not advance.",
+ "what_it_does": "This resolution would have used the Congressional Review Act to cancel a rule from the Centers for Medicare & Medicaid Services. That rule sets yearly rules and payment details for Affordable Care Act health insurance marketplaces for 2027, along with rules for the Basic Health Program. If adopted, the rule would have had no legal effect, and the agency could not have issued a substantially similar rule without new approval from Congress. No official summary was available describing the specific details of the rule.",
+ "who_it_affects": [
+  {
+   "group": "People who buy health insurance through the Affordable Care Act marketplaces",
+   "how": "The rules for their 2027 marketplace coverage would have been thrown out, though the specific changes are not described in the available material."
+  },
+  {
+   "group": "Health insurance companies that sell marketplace plans",
+   "how": "They would have lost the federal rule that sets 2027 payment and operating requirements for their marketplace plans."
+  },
+  {
+   "group": "States that run a Basic Health Program",
+   "how": "The part of the rule covering their Basic Health Programs would have been canceled."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-11"
+}

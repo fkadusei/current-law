@@ -1,0 +1,24 @@
+{
+ "headline": "A 2015 Senate bill would have extended three expiring foreign intelligence surveillance powers until July 31, 2015, but the Senate did not act on it.",
+ "what_it_does": "The bill would have extended until July 31, 2015 three FISA authorities that were set to expire on June 1, 2015. These cover roving electronic surveillance orders, orders requiring production of business records and other tangible items in foreign intelligence and terrorism investigations, and surveillance of non-U.S. persons acting alone in international terrorism (the lone wolf provision). The Senate refused to take up the bill or end debate on it, so it was not adopted.",
+ "who_it_affects": [
+  {
+   "group": "Federal intelligence and law enforcement agencies",
+   "how": "The bill would have kept their authority to use these FISA surveillance tools for about two more months past the June 1, 2015 expiration date."
+  },
+  {
+   "group": "Businesses and organizations that hold records requested under FISA orders",
+   "how": "The bill would have kept the government's ability to require production of business records and tangible items under FISA court orders in place for the extension period."
+  },
+  {
+   "group": "Non-U.S. persons suspected of international terrorism acting alone",
+   "how": "The bill would have kept the lone wolf definition in effect, allowing FISA surveillance of such individuals during the extension period."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

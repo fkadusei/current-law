@@ -1,0 +1,889 @@
+{
+ "id": "115-sconres36",
+ "congress": 115,
+ "bill": "S.Con.Res. 36",
+ "bill_type": "SCONRES",
+ "title": "A concurrent resolution setting forth the congressional budget for the United States Government for fiscal year 2019 and setting forth the appropriate budgetary levels for fiscal years 2020 through 2028.",
+ "policy_area": "Economics and Public Finance",
+ "sponsor": "Sen. Paul, Rand [R-KY]",
+ "latest_action": {
+  "actionDate": "2018-05-17",
+  "text": "Motion to proceed to consideration of measure rejected in Senate by Yea-Nay Vote. 21 - 76. Record Vote Number: 99."
+ },
+ "official_summary": " <p>Establishes the congressional budget for the federal government for FY2019 and sets forth budgetary levels for FY2020-FY2028.</p> <p> Recommends levels and amounts for FY2019-FY2028 in both houses of Congress for: </p> <ul> <li> federal revenues, </li> <li> new budget authority, </li> <li> budget outlays, </li> <li> deficits, </li> <li> public debt, </li> <li> debt held by the public, and </li> <li> the major functional categories of spending. </li> </ul> <p>Recommends levels and amounts for FY2019-FY2028 in the Senate for Social Security and Postal Service discretionary administrative expenses. </p> <p>Includes reconciliation instructions directing: (1) several Senate authorizing committees to report and submit to the Senate Budget Committee legislation to reduce the deficit, and (2) the Senate Finance Committee to report and submit to the Senate Budget Committee legislation to reduce the deficit and legislation to reduce revenues. </p> <p>(Under the Congressional Budget Act of 1974, reconciliation bills are considered by Congress using expedited legislative procedures that prevent a filibuster and restrict amendments in the Senate.) </p> <p>Establishes reserve funds that provide flexibility in applying budget enforcement rules to legislation relating to efficiencies, consolidations, and other savings; or health savings accounts. </p> <p>Sets forth budget enforcement procedures for legislation considered in the Senate. </p>",
+ "congress_gov_url": "https://www.congress.gov/bill/115th-congress/senate-concurrent-resolution/36",
+ "failed_on": "2018-05-17",
+ "kind": "blocked",
+ "chamber": "Senate",
+ "later_became_law": null,
+ "votes": [
+  {
+   "chamber": "Senate",
+   "roll": 99,
+   "date": "2018-05-17",
+   "kind": "blocked",
+   "question": "On the Motion to Proceed",
+   "result": "Motion to Proceed Rejected",
+   "required": "1/2",
+   "yea": 21,
+   "nay": 76,
+   "support": "yea",
+   "by_party": {
+    "R": {
+     "yea": 21,
+     "nay": 29,
+     "not voting": 1
+    },
+    "D": {
+     "nay": 45,
+     "not voting": 2
+    },
+    "I": {
+     "nay": 2
+    }
+   },
+   "majority_party": "R",
+   "members": [
+    {
+     "icpsr": "14226",
+     "bioguide": "G000386",
+     "name": "GRASSLEY, Charles Ernest",
+     "party": "R",
+     "state": "IA",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "14307",
+     "bioguide": "L000174",
+     "name": "LEAHY, Patrick Joseph",
+     "party": "D",
+     "state": "VT",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "14435",
+     "bioguide": "M000133",
+     "name": "MARKEY, Edward John",
+     "party": "D",
+     "state": "MA",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "14503",
+     "bioguide": "H000338",
+     "name": "HATCH, Orrin Grant",
+     "party": "R",
+     "state": "UT",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "14651",
+     "bioguide": "N000032",
+     "name": "NELSON, Clarence William (Bill)",
+     "party": "D",
+     "state": "FL",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "14852",
+     "bioguide": "R000307",
+     "name": "ROBERTS, Charles Patrick (Pat)",
+     "party": "R",
+     "state": "KS",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "14858",
+     "bioguide": "S000148",
+     "name": "SCHUMER, Charles Ellis (Chuck)",
+     "party": "D",
+     "state": "NY",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "14871",
+     "bioguide": "W000779",
+     "name": "WYDEN, Ronald Lee",
+     "party": "D",
+     "state": "OR",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "14921",
+     "bioguide": "M000355",
+     "name": "MCCONNELL, Addison Mitchell (Mitch)",
+     "party": "R",
+     "state": "KY",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "15015",
+     "bioguide": "C000174",
+     "name": "CARPER, Thomas Richard",
+     "party": "D",
+     "state": "DE",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "15021",
+     "bioguide": "D000563",
+     "name": "DURBIN, Richard Joseph",
+     "party": "D",
+     "state": "IL",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "15039",
+     "bioguide": "M000303",
+     "name": "McCAIN, John Sidney, III",
+     "party": "R",
+     "state": "AZ",
+     "vote": "not voting"
+    },
+    {
+     "icpsr": "15408",
+     "bioguide": "C000141",
+     "name": "CARDIN, Benjamin Louis",
+     "party": "D",
+     "state": "MD",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "15424",
+     "bioguide": "I000024",
+     "name": "INHOFE, James Mountain",
+     "party": "R",
+     "state": "OK",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "20100",
+     "bioguide": "F000444",
+     "name": "FLAKE, Jeff",
+     "party": "R",
+     "state": "AZ",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20101",
+     "bioguide": "B001236",
+     "name": "BOOZMAN, John",
+     "party": "R",
+     "state": "AR",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "20146",
+     "bioguide": "C001047",
+     "name": "CAPITO, Shelley Moore",
+     "party": "R",
+     "state": "WV",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "20330",
+     "bioguide": "V000128",
+     "name": "VAN HOLLEN, Christopher",
+     "party": "D",
+     "state": "MD",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "20707",
+     "bioguide": "M001169",
+     "name": "MURPHY, Christopher",
+     "party": "D",
+     "state": "CT",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "20713",
+     "bioguide": "H001042",
+     "name": "HIRONO, Mazie",
+     "party": "D",
+     "state": "HI",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "20717",
+     "bioguide": "D000607",
+     "name": "DONNELLY, Joe",
+     "party": "D",
+     "state": "IN",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "20730",
+     "bioguide": "H001041",
+     "name": "HELLER, Dean",
+     "party": "R",
+     "state": "NV",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "20735",
+     "bioguide": "G000555",
+     "name": "GILLIBRAND, Kirsten",
+     "party": "D",
+     "state": "NY",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "20919",
+     "bioguide": "C001075",
+     "name": "CASSIDY, Bill",
+     "party": "R",
+     "state": "LA",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "20923",
+     "bioguide": "P000595",
+     "name": "PETERS, Gary C.",
+     "party": "D",
+     "state": "MI",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "20930",
+     "bioguide": "H001046",
+     "name": "HEINRICH, Martin",
+     "party": "D",
+     "state": "NM",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "21112",
+     "bioguide": "G000562",
+     "name": "GARDNER, Cory",
+     "party": "R",
+     "state": "CO",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "21133",
+     "bioguide": "Y000064",
+     "name": "YOUNG, Todd",
+     "party": "R",
+     "state": "IN",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "21166",
+     "bioguide": "L000575",
+     "name": "LANKFORD, James",
+     "party": "R",
+     "state": "OK",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21173",
+     "bioguide": "S001184",
+     "name": "SCOTT, Tim",
+     "party": "R",
+     "state": "SC",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21301",
+     "bioguide": "C001095",
+     "name": "COTTON, Thomas Bryant (Tom)",
+     "party": "R",
+     "state": "AR",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "21325",
+     "bioguide": "D000622",
+     "name": "DUCKWORTH, Tammy",
+     "party": "D",
+     "state": "IL",
+     "vote": "not voting"
+    },
+    {
+     "icpsr": "21338",
+     "bioguide": "D000618",
+     "name": "DAINES, Steve",
+     "party": "R",
+     "state": "MT",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29142",
+     "bioguide": "R000122",
+     "name": "REED, John F. (Jack)",
+     "party": "D",
+     "state": "RI",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "29147",
+     "bioguide": "S000033",
+     "name": "SANDERS, Bernard",
+     "party": "I",
+     "state": "VT",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "29345",
+     "bioguide": "C000880",
+     "name": "CRAPO, Michael Dean",
+     "party": "R",
+     "state": "ID",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29373",
+     "bioguide": "M000639",
+     "name": "MENENDEZ, Robert",
+     "party": "D",
+     "state": "NJ",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "29386",
+     "bioguide": "P000449",
+     "name": "PORTMAN, Robert Jones (Rob)",
+     "party": "R",
+     "state": "OH",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "29389",
+     "bioguide": "B000944",
+     "name": "BROWN, Sherrod",
+     "party": "D",
+     "state": "OH",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "29534",
+     "bioguide": "W000437",
+     "name": "WICKER, Roger F.",
+     "party": "R",
+     "state": "MS",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "29548",
+     "bioguide": "B001135",
+     "name": "BURR, Richard M.",
+     "party": "R",
+     "state": "NC",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "29566",
+     "bioguide": "G000359",
+     "name": "GRAHAM, Lindsey O.",
+     "party": "R",
+     "state": "SC",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "29722",
+     "bioguide": "M000934",
+     "name": "MORAN, Jerry",
+     "party": "R",
+     "state": "KS",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29732",
+     "bioguide": "S000770",
+     "name": "STABENOW, Deborah Ann",
+     "party": "D",
+     "state": "MI",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "29735",
+     "bioguide": "B000575",
+     "name": "BLUNT, Roy",
+     "party": "R",
+     "state": "MO",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "29754",
+     "bioguide": "T000250",
+     "name": "THUNE, John",
+     "party": "R",
+     "state": "SD",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "29909",
+     "bioguide": "I000055",
+     "name": "ISAKSON, Johnny",
+     "party": "R",
+     "state": "GA",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "29924",
+     "bioguide": "U000039",
+     "name": "UDALL, Thomas (Tom)",
+     "party": "D",
+     "state": "NM",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "29935",
+     "bioguide": "T000461",
+     "name": "TOOMEY, Patrick Joseph",
+     "party": "R",
+     "state": "PA",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29940",
+     "bioguide": "B001230",
+     "name": "BALDWIN, Tammy",
+     "party": "D",
+     "state": "WI",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "39310",
+     "bioguide": "C000127",
+     "name": "CANTWELL, Maria E.",
+     "party": "D",
+     "state": "WA",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "40300",
+     "bioguide": "M001153",
+     "name": "MURKOWSKI, Lisa",
+     "party": "R",
+     "state": "AK",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "40304",
+     "bioguide": "A000360",
+     "name": "ALEXANDER, Lamar",
+     "party": "R",
+     "state": "TN",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "40305",
+     "bioguide": "C001056",
+     "name": "CORNYN, John",
+     "party": "R",
+     "state": "TX",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "40700",
+     "bioguide": "K000367",
+     "name": "KLOBUCHAR, Amy",
+     "party": "D",
+     "state": "MN",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "40701",
+     "bioguide": "M001170",
+     "name": "McCASKILL, Claire",
+     "party": "D",
+     "state": "MO",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "40702",
+     "bioguide": "T000464",
+     "name": "TESTER, Jon",
+     "party": "D",
+     "state": "MT",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "40703",
+     "bioguide": "C001070",
+     "name": "CASEY, Robert (Bob), Jr.",
+     "party": "D",
+     "state": "PA",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "40704",
+     "bioguide": "W000802",
+     "name": "WHITEHOUSE, Sheldon",
+     "party": "D",
+     "state": "RI",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "40705",
+     "bioguide": "C001071",
+     "name": "CORKER, Robert (Bob)",
+     "party": "R",
+     "state": "TN",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "40707",
+     "bioguide": "B001261",
+     "name": "BARRASSO, John A.",
+     "party": "R",
+     "state": "WY",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "40902",
+     "bioguide": "R000584",
+     "name": "RISCH, James",
+     "party": "R",
+     "state": "ID",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "40906",
+     "bioguide": "S001181",
+     "name": "SHAHEEN, Jeanne",
+     "party": "D",
+     "state": "NH",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "40908",
+     "bioguide": "M001176",
+     "name": "MERKLEY, Jeff",
+     "party": "D",
+     "state": "OR",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "40909",
+     "bioguide": "W000805",
+     "name": "WARNER, Mark R.",
+     "party": "D",
+     "state": "VA",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "40910",
+     "bioguide": "B001267",
+     "name": "BENNET, Michael F.",
+     "party": "D",
+     "state": "CO",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "40915",
+     "bioguide": "M001183",
+     "name": "MANCHIN, Joe, III",
+     "party": "D",
+     "state": "WV",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "40916",
+     "bioguide": "C001088",
+     "name": "COONS, Christopher A.",
+     "party": "D",
+     "state": "DE",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41101",
+     "bioguide": "B001277",
+     "name": "BLUMENTHAL, Richard",
+     "party": "D",
+     "state": "CT",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41102",
+     "bioguide": "R000595",
+     "name": "RUBIO, Marco",
+     "party": "R",
+     "state": "FL",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "41104",
+     "bioguide": "P000603",
+     "name": "PAUL, Rand",
+     "party": "R",
+     "state": "KY",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "41107",
+     "bioguide": "H001061",
+     "name": "HOEVEN, John",
+     "party": "R",
+     "state": "ND",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41110",
+     "bioguide": "L000577",
+     "name": "LEE, Mike",
+     "party": "R",
+     "state": "UT",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "41111",
+     "bioguide": "J000293",
+     "name": "JOHNSON, Ron",
+     "party": "R",
+     "state": "WI",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "41112",
+     "bioguide": "S001194",
+     "name": "SCHATZ, Brian Emanuel",
+     "party": "D",
+     "state": "HI",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41300",
+     "bioguide": "K000383",
+     "name": "KING, Angus Stanley, Jr.",
+     "party": "I",
+     "state": "ME",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41301",
+     "bioguide": "W000817",
+     "name": "WARREN, Elizabeth",
+     "party": "D",
+     "state": "MA",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41302",
+     "bioguide": "F000463",
+     "name": "FISCHER, Debra (Deb)",
+     "party": "R",
+     "state": "NE",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "41303",
+     "bioguide": "H001069",
+     "name": "HEITKAMP, Mary Kathryn (Heidi)",
+     "party": "D",
+     "state": "ND",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41304",
+     "bioguide": "C001098",
+     "name": "CRUZ, Rafael Edward (Ted)",
+     "party": "R",
+     "state": "TX",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "41305",
+     "bioguide": "K000384",
+     "name": "KAINE, Timothy Michael (Tim)",
+     "party": "D",
+     "state": "VA",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41308",
+     "bioguide": "B001288",
+     "name": "BOOKER, Cory Anthony",
+     "party": "D",
+     "state": "NJ",
+     "vote": "not voting"
+    },
+    {
+     "icpsr": "41500",
+     "bioguide": "S001198",
+     "name": "SULLIVAN, Daniel Scott",
+     "party": "R",
+     "state": "AK",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41501",
+     "bioguide": "P000612",
+     "name": "PERDUE, David Alfred, Jr.",
+     "party": "R",
+     "state": "GA",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41502",
+     "bioguide": "E000295",
+     "name": "ERNST, Joni",
+     "party": "R",
+     "state": "IA",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "41503",
+     "bioguide": "S001197",
+     "name": "SASSE, Benjamin Eric",
+     "party": "R",
+     "state": "NE",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "41504",
+     "bioguide": "T000476",
+     "name": "TILLIS, Thomas Roland (Thom)",
+     "party": "R",
+     "state": "NC",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41505",
+     "bioguide": "R000605",
+     "name": "ROUNDS, Marion Michael (Mike)",
+     "party": "R",
+     "state": "SD",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41700",
+     "bioguide": "C001113",
+     "name": "CORTEZ MASTO, Catherine Marie",
+     "party": "D",
+     "state": "NV",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41701",
+     "bioguide": "H001075",
+     "name": "HARRIS, Kamala Devi",
+     "party": "D",
+     "state": "CA",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41702",
+     "bioguide": "H001076",
+     "name": "HASSAN, Margaret Wood (Maggie)",
+     "party": "D",
+     "state": "NH",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41703",
+     "bioguide": "K000393",
+     "name": "KENNEDY, John Neely",
+     "party": "R",
+     "state": "LA",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "41705",
+     "bioguide": "J000300",
+     "name": "JONES, Gordon Douglas (Doug)",
+     "party": "D",
+     "state": "AL",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41706",
+     "bioguide": "S001203",
+     "name": "SMITH, Tina",
+     "party": "D",
+     "state": "MN",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41707",
+     "bioguide": "H001079",
+     "name": "HYDE-SMITH, Cindy",
+     "party": "R",
+     "state": "MS",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "49300",
+     "bioguide": "F000062",
+     "name": "FEINSTEIN, Dianne",
+     "party": "D",
+     "state": "CA",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "49308",
+     "bioguide": "M001111",
+     "name": "MURRAY, Patty",
+     "party": "D",
+     "state": "WA",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "49703",
+     "bioguide": "C001035",
+     "name": "COLLINS, Susan Margaret",
+     "party": "R",
+     "state": "ME",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "49706",
+     "bioguide": "E000285",
+     "name": "ENZI, Michael B.",
+     "party": "R",
+     "state": "WY",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "94659",
+     "bioguide": "S000320",
+     "name": "SHELBY, Richard C.",
+     "party": "R",
+     "state": "AL",
+     "vote": "nay"
+    }
+   ]
+  }
+ ],
+ "support_color": {
+  "side": "R",
+  "share": 1.0,
+  "r_support": 21,
+  "d_support": 0,
+  "shade": 1.0,
+  "party_line": "R"
+ },
+ "control": {
+  "Senate": "R"
+ },
+ "summary": {
+  "headline": "A 2018 Senate budget resolution for fiscal year 2019 that was not taken up or debated, so it never became binding.",
+  "what_it_does": "If adopted, this concurrent resolution would have set spending, revenue, and deficit targets for the federal government for fiscal year 2019 and projected levels through 2028. It would have instructed several Senate committees to write bills cutting the deficit, and told the Senate Finance Committee to write both deficit-reduction and revenue-reduction bills. It would also have created reserve funds giving the Senate some room to apply budget rules to savings from efficiency and consolidation measures and to health savings accounts.",
+  "who_it_affects": [
+   {
+    "group": "Federal agencies and programs funded by annual appropriations",
+    "how": "They would have operated under the spending limits set by this budget plan for fiscal years 2019 through 2028."
+   },
+   {
+    "group": "Members of Congress and Senate committees",
+    "how": "Several Senate committees would have been directed to write deficit-reduction bills, and the Finance Committee would have been directed to write deficit-reduction and revenue-reduction bills under expedited procedures."
+   },
+   {
+    "group": "People who save in health savings accounts",
+    "how": "Reserve funds would have allowed the Senate more flexibility to consider legislation relating to these accounts without the usual budget limits applying."
+   },
+   {
+    "group": "Social Security beneficiaries and Postal Service customers",
+    "how": "The plan would have set specific budget levels for Social Security and Postal Service administrative expenses in the Senate."
+   }
+  ],
+  "when_it_takes_effect": "Did not take effect",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-11"
+ }
+}

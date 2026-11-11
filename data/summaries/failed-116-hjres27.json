@@ -1,0 +1,32 @@
+{
+ "headline": "H.J.Res. 27 would have funded several federal agencies temporarily through February 1, 2019, ending a partial government shutdown, but the House voted it down.",
+ "what_it_does": "The measure would have been a continuing resolution, a temporary funding law that keeps agencies running while full spending bills are still pending. It would have provided FY2019 funding to several federal agencies until February 1, 2019, or until the applicable full appropriations bills were enacted, whichever came first. It would also have extended several programs that earlier stopgap laws had extended, including the Violence Against Women Act, an EPA authority to collect and spend certain pesticide-related fees, the Temporary Assistance for Needy Families program, and several immigration-related authorities. It was meant to end a partial shutdown that began after the prior stopgap expired on December 21, 2018.",
+ "who_it_affects": [
+  {
+   "group": "Federal employees in agencies without full FY2019 funding",
+   "how": "They would have continued to be paid and to work while the partial shutdown ended, rather than being furloughed."
+  },
+  {
+   "group": "Recipients of Temporary Assistance for Needy Families benefits",
+   "how": "The program would have continued operating through February 1, 2019 under the extension."
+  },
+  {
+   "group": "Survivors of domestic violence and organizations that serve them",
+   "how": "Violence Against Women Act programs would have stayed authorized through February 1, 2019."
+  },
+  {
+   "group": "Pesticide manufacturers and users regulated by the EPA",
+   "how": "The EPA would have kept its authority to collect and spend certain pesticide-related fees through February 1, 2019."
+  },
+  {
+   "group": "Immigrants and agencies that handle immigration matters",
+   "how": "Several immigration-related authorities would have been extended through February 1, 2019."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

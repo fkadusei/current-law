@@ -1,0 +1,24 @@
+{
+ "headline": "A 2021 House bill would have limited FDA orphan drug market exclusivity to drugs whose sponsors could not expect to recover costs within 12 years of U.S. sales, but the House voted it down.",
+ "what_it_does": "The bill would have changed when the FDA could give a seven-year market exclusivity period to an orphan drug, which is a drug for a rare disease. Under the bill, a drug would get that period only if its sponsor showed it could not expect to recover development and distribution costs from U.S. sales within the first 12 years. The bill would have applied this rule to drugs already granted exclusivity before enactment. The FDA would also have counted sales of all drugs from the sponsor under the same orphan designation.",
+ "who_it_affects": [
+  {
+   "group": "Drug companies that sponsor orphan drugs",
+   "how": "They would have had to show they could not recover costs within 12 years to receive the seven-year exclusivity period, and existing exclusivity grants could have been affected."
+  },
+  {
+   "group": "Patients with rare diseases",
+   "how": "Access to new orphan drugs and the timing of competing versions could have been affected by changes to the incentives for developing these drugs."
+  },
+  {
+   "group": "Generic and competing drug makers",
+   "how": "They could have faced earlier opportunities to seek FDA approval for competing versions of certain orphan drugs."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

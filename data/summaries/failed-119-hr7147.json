@@ -1,0 +1,48 @@
+{
+ "headline": "Failed bill would have funded most of Homeland Security for 2026, except ICE and Border Patrol, and given back pay after the shutdown.",
+ "what_it_does": "This bill would have provided full-year 2026 funding for the Department of Homeland Security, including TSA, the Coast Guard, FEMA, the Secret Service, CISA, and USCIS, but not ICE or the Border Patrol. It would have ended the partial DHS shutdown that began February 14, 2026, and required back pay for affected federal workers. It also would have set many rules on how the money is spent, such as funding body cameras for immigration officers, limiting restraints on pregnant women in DHS custody, and guaranteeing Members of Congress access to immigration detention facilities. The Senate did not take it up, so none of this became law.",
+ "who_it_affects": [
+  {
+   "group": "DHS employees affected by the shutdown",
+   "how": "They would have received back pay for the time DHS funding lapsed starting February 14, 2026."
+  },
+  {
+   "group": "Air travelers",
+   "how": "TSA screening would have been funded, and Members of Congress and certain officials could not have been exempted from airport screening."
+  },
+  {
+   "group": "People in disaster areas",
+   "how": "FEMA would have been funded and required to post a public dashboard tracking disaster reimbursement requests, with penalties on DHS leadership funding if requests sat in final review too long."
+  },
+  {
+   "group": "People held in DHS custody",
+   "how": "The bill would have limited restraints on pregnant women, required health standards for pregnant and nursing people in CBP custody, and barred destroying records of abuse or deaths in custody."
+  },
+  {
+   "group": "Immigration enforcement officers",
+   "how": "Extra money would have paid for body-worn cameras for officers doing immigration enforcement."
+  },
+  {
+   "group": "Air traffic controllers",
+   "how": "The bill would have funded a 2026 pay raise for them through the FAA."
+  },
+  {
+   "group": "People importing prescription drugs from Canada",
+   "how": "CBP could not have used funds to stop individuals from bringing in personal-use amounts of certain prescription drugs from Canada."
+  },
+  {
+   "group": "Journalists and people with pending criminal cases",
+   "how": "DHS's intelligence office would have been barred from targeting journalists and from interviewing people with pending criminal cases without consent after they talked to a lawyer."
+  },
+  {
+   "group": "Coast Guard members and families",
+   "how": "The Coast Guard would have been funded, including its housing fund and new MQ-9 drones."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-11"
+}

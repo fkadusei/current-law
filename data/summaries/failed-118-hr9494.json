@@ -1,0 +1,44 @@
+{
+ "headline": "Failed House bill would have kept the federal government funded into March 2025 and required proof of citizenship to register to vote.",
+ "what_it_does": "This bill would have kept federal agencies funded, mostly at 2024 levels, until March 28, 2025, or until regular spending bills passed, avoiding a shutdown on October 1, 2024. It would have added emergency money for FEMA's Disaster Relief Fund and extra money for the Navy's Virginia Class submarine program. It would have extended several expiring programs, including the National Flood Insurance Program. It also would have barred states from accepting a voter registration application for federal elections unless the person showed documents proving U.S. citizenship.",
+ "who_it_affects": [
+  {
+   "group": "Federal employees and people who rely on federal services",
+   "how": "Agencies would have stayed open and funded through March 28, 2025, instead of facing a possible shutdown on October 1, 2024."
+  },
+  {
+   "group": "People seeking to register to vote in federal elections",
+   "how": "They would have had to show documents proving U.S. citizenship before a state could accept and process their application."
+  },
+  {
+   "group": "State election offices",
+   "how": "They would have been barred from processing federal voter registration applications that lacked documentary proof of citizenship."
+  },
+  {
+   "group": "People and communities hit by disasters",
+   "how": "FEMA's Disaster Relief Fund would have received emergency funding."
+  },
+  {
+   "group": "Homeowners and renters with flood insurance",
+   "how": "The National Flood Insurance Program would have been extended so it did not lapse."
+  },
+  {
+   "group": "Livestock producers and buyers",
+   "how": "The Department of Agriculture's Livestock Mandatory Reporting program, which tracks livestock sales and prices, would have been extended."
+  },
+  {
+   "group": "States with Good Neighbor Agreements on federal forests",
+   "how": "They would have kept the authority to use timber sale revenue from those agreements."
+  },
+  {
+   "group": "Department of Defense",
+   "how": "It would have received extra money for the Virginia Class Submarine program and kept authority to fund certain military construction projects."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-11"
+}

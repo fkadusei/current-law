@@ -1,0 +1,20 @@
+{
+ "headline": "Failed Senate resolution would have directed the President to remove US troops from hostilities that Congress had not authorized.",
+ "what_it_does": "This joint resolution would have directed the removal of US Armed Forces from hostilities that Congress had not approved. The title does not name a specific country or conflict, and no official summary is available. On October 8, 2025, the Senate declined to take it up or end debate on it, so it did not pass.",
+ "who_it_affects": [
+  {
+   "group": "Members of the US Armed Forces",
+   "how": "Service members involved in hostilities not authorized by Congress would have been withdrawn from those operations."
+  },
+  {
+   "group": "The President and military leaders",
+   "how": "They would have been required to end US military involvement in hostilities that lacked approval from Congress."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-11"
+}

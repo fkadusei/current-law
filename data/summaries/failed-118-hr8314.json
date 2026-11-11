@@ -1,0 +1,24 @@
+{
+ "headline": "Failed House bill would have barred larger tax-exempt groups that took foreign money from giving to political committees for eight years.",
+ "what_it_does": "The bill would have stopped certain tax-exempt organizations from giving money to political committees for eight years after they received a gift or contribution from a foreign national. It would have applied to 501(c) groups with at least $200,000 in yearly gross receipts or at least $500,000 in assets. A group that broke the rule would have owed a penalty equal to 200% of the political contribution. After a third such contribution, the group would have lost its tax-exempt status.",
+ "who_it_affects": [
+  {
+   "group": "Larger tax-exempt 501(c) organizations (such as charities, social welfare groups, unions, and trade associations) meeting the size limits",
+   "how": "They would have been barred from contributing to political committees for eight years after taking money from a foreign national, with penalties and possible loss of tax-exempt status for violations."
+  },
+  {
+   "group": "Foreign nationals who donate to US nonprofits",
+   "how": "Their gifts would have triggered an eight-year ban on the receiving organization's contributions to political committees."
+  },
+  {
+   "group": "Political committees",
+   "how": "They could have lost contributions from tax-exempt groups that had received foreign money."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-11"
+}

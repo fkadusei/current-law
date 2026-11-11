@@ -1,0 +1,44 @@
+{
+ "headline": "A large omnibus spending bill that would have funded the federal government for fiscal 2016 and bundled many unrelated policy changes, including tax extensions, cybersecurity, and visa rules.",
+ "what_it_does": "The bill would have provided fiscal year 2016 funding for most federal agencies, split into twelve appropriations divisions. It would also have extended or made permanent many expiring tax breaks, changed rules for crude oil exports, and reauthorized intelligence programs and a cybersecurity information sharing process. It would have changed Visa Waiver Program requirements, reauthorized health programs for 9/11 responders, and adjusted several health care, housing, and financial services laws.",
+ "who_it_affects": [
+  {
+   "group": "Federal employees and federal agencies",
+   "how": "Agencies would have received fiscal 2016 funding with many spending limits, reporting requirements, and restrictions attached."
+  },
+  {
+   "group": "Taxpayers claiming expiring tax credits and deductions",
+   "how": "Many credits and deductions, such as the research credit and the mortgage insurance premium deduction, would have been extended or made permanent."
+  },
+  {
+   "group": "Crude oil producers and exporters",
+   "how": "The long-standing ban on U.S. crude oil exports would have been ended, with limited exceptions for future presidential action."
+  },
+  {
+   "group": "Travelers from Visa Waiver Program countries",
+   "how": "Passport standards and eligibility rules would have tightened, and people who had recently been in Iraq, Syria, or other designated areas would have been barred from the program unless waived."
+  },
+  {
+   "group": "9/11 first responders and survivors",
+   "how": "Health program and victim compensation fund authorizations would have been extended, with some compensation limits changed."
+  },
+  {
+   "group": "Medicare hospitals in Puerto Rico",
+   "how": "Medicare inpatient payment rates would have increased for certain Puerto Rico hospitals, and they would have become eligible for electronic health record incentive payments."
+  },
+  {
+   "group": "Employers offering high-cost health plans and health insurers",
+   "how": "The so-called Cadillac tax on high-cost employer health plans would have been delayed until 2020, and the annual health insurer fee would have been delayed until 2018."
+  },
+  {
+   "group": "Users of federal and state cybersecurity networks",
+   "how": "Federal agencies would have been required to use new intrusion detection tools and encryption standards, and companies would have gained liability protections for sharing threat data with the government."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

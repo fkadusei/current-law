@@ -1,0 +1,24 @@
+{
+ "headline": "A 2013 Senate bill that would have tied federal student loan interest rates to 10-year Treasury bill yields plus 3 percent did not advance.",
+ "what_it_does": "The bill would have changed how interest rates are set for federal Direct Loans. Each year, the rate would equal the bond equivalent rate of 10-year Treasury bills from the last auction before June 1, plus 3 percent. The new formula would apply to loans first disbursed on or after July 1, 2013, and the rate would stay fixed for the life of each loan. Any federal savings from the change would have been required to go toward reducing the deficit.",
+ "who_it_affects": [
+  {
+   "group": "Students who take out new federal Direct Loans",
+   "how": "They would have received an interest rate set by the Treasury-based formula, fixed for the life of the loan, starting with loans first disbursed on or after July 1, 2013."
+  },
+  {
+   "group": "Borrowers with existing federal Direct Loans",
+   "how": "Their rates would not have changed under the bill, since it applied only to loans first disbursed on or after July 1, 2013."
+  },
+  {
+   "group": "Federal government",
+   "how": "Any savings from the rate change would have been required to be used for deficit reduction."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

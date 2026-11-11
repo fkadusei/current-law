@@ -1,0 +1,893 @@
+{
+ "id": "114-s1140",
+ "congress": 114,
+ "bill": "S. 1140",
+ "bill_type": "S",
+ "title": "Federal Water Quality Protection Act",
+ "policy_area": "Environmental Protection",
+ "sponsor": "Sen. Barrasso, John [R-WY]",
+ "latest_action": {
+  "actionDate": "2015-11-03",
+  "text": "Motion to proceed to consideration of measure withdrawn in Senate. (consideration: CR S7697)"
+ },
+ "official_summary": " <p><strong>Federal Water Quality Protection Act</strong></p> <p>(Sec. 2) This bill states as the policy of the Federal Water Pollution Control Act (commonly known as the Clean Water Act) cooperative federalism and consultation with states in the protection of water resources. </p> <p>(Sec. 3) The bill defines new terms used in this bill, including &quot;body of water,&quot; &quot;interstate waters,&quot; &quot;traditional navigable water,&quot; and &quot;wetlands&quot;.</p> <p>(Sec. 4) The bill nullifies a revision to or guidance on a regulatory definition of the term &quot;navigable waters&quot; or &quot;waters of the United States&quot; promulgated or issued pursuant to the Clean Water Act after February 4, 2015: (1) unless the revision adheres to the principles in this bill, and (2) until after the U.S. Army Corps of Engineers (Corps of Engineers) and the Environmental Protection Agency (EPA) carry out the requirements of this bill.</p> <p>In promulgating a revised regulatory definition, the Corps of Engineers and the EPA must adhere to three principles. First, the Clean Water Act is an Act to protect traditional navigable waters from water pollution.</p> <p>Second, the definition of &quot;waters of the United States&quot; should identify bodies of water subject to federal jurisdiction and should include:</p> <ul> <li> traditional navigable waters and interstate waters;</li> <li> certain lengths of streams that are drinking water source protection areas;</li> <li>certain lengths of streams with surface flow in a normal year of sufficient volume, duration, and frequency that pollutants in that length of stream would degrade the water quality of a connected traditional navigable water, based on a quantifiable and statistically valid measure of flow; and </li> <li> wetlands situated next to a water of the United States that, in a normal year, prevent the movement of pollutants to a navigable water.</li> </ul> <p>Third, the definition should not include the following: </p> <ul> <li>water located below the surface of the land;</li> <li>water not located within a body of water;</li> <li>natural or man-made isolated ponds; </li> <li>water management systems used for collecting, conveying, holding or treating stormwater, wastewater, water supplies, agricultural water, or silvicultural water;</li> <li>lengths of streams that do not have enough surface flow of volume, duration, and frequency in a normal year to degrade the water quality of a traditional navigable water;</li> <li>prior converted cropland; and </li> <li>water removed from the waters of the United States pursuant to a permit for construction of structures in or over any navigable water of the United States or a permit for the discharge of dredged or fill material into the navigable waters at specified disposal sites.</li> </ul> <p>The bill outlines the circumstances in which some water management systems may still be considered to be waters of the United States.</p> <p>In promulgating a revised definition of waters of the United States, the Corps of Engineers and the EPA must consider that a basis for establishing federal jurisdiction under the Clean Water Act is not created by:</p> <ul> <li>the use of a body of water by an organism, including a migratory bird;</li> <li>the supply of water to a groundwater aquifer and the storage of water in an isolated body of water; and </li> <li>the connection of all water through the water cycle.</li> </ul> <p>The Corps of Engineers and the EPA should identify waters of the United States on maps to promote certainty and transparency in jurisdictional determinations.</p> <p>The bill outlines the process that the EPA and the Corps of Engineers must follow in proposing or promulgating a rule revising a definition. </p> <p>The Corps of Engineers and the EPA must ensure compliance with the federalism policy making criteria and consultation requirements in accordance with Executive Order 13132, regardless of whether they determine that the rule would have any substantial and direct effect on states, the relationship between the federal government and the states, or the distribution of power and responsibilities among the various levels of government. </p> <p>Before publishing a rule with a revised regulatory definition, the Corps of Engineers and the EPA must consult on alternative approaches to the proposal by seeking input from Governors, state departments with authority over water supply and quality, state departments of agriculture, and local governments. The topics of consultation must include: categories of waters that should be subject to federal jurisdiction, role of the states, and whether channels in which water is present only during or for a short time after a precipitation event are correctly categorized as geomorphological features rather than hydrologic features.</p> <p>In proposing and promulgating such rule, the Corps of Engineers and the EPA must:</p> <ul> <li>conduct a regulatory flexibility analyses and gather comments from small entities as required under the Regulatory Flexibility Act, regardless of whether the rule would significantly impact a substantial number of small entities;</li> <li> evaluate the intergovernmental and private sector impacts of the rule under title II of the Unfunded Mandates Reform Act of 1995, regardless of whether they consider the impacts of the rule to be direct or indirect, or whether they determine the expenditures resulting from the rules would meet the monetary thresholds established under that Act;</li> <li>follow Executive Orders 12866 and 13563 with respect to improving regulation and regulatory review, regardless of whether they consider the rule to be a significant regulatory action or whether the rule will have a significant effect on state, local and tribal governments; and </li> <li>consider Executive Order 13604 with respect to federal permitting and review of infrastructure projects.</li> </ul> <p>The Corps of Engineers and the EPA must report on compliance with those regulatory review and process requirements 30 days before issuing proposed regulations.</p> <p>(Sec. 5) After providing public notice and an opportunity for comment, the Corps of Engineers must establish quantifiable and statistically valid measures of the volume, duration, and frequency of flow in streams in different geographic areas that would, in a normal year, allow pollutants in lengths of streams in those geographic areas to flow to and degrade the water quality of a traditional navigable water.</p> <p>(Sec. 6) The Government Accountability Office must issue a report on jurisdictional determinations every three years, including descriptions of the interpretations of the regulation by the districts of the Corps of Engineers and the EPA's regional offices, measures to reduce any inconsistent interpretations, and the impacts of those interpretations on federal permitting and review of infrastructure projects. </p> <p>(Sec. 7) Nothing in this Act: </p> <ul> <li> limits the authority of the Corps of Engineers or the EPA to require a permit for any discharge of pollutants to a navigable water under the Clean Water Act, or to take any enforcement action with respect to an unpermitted discharge under that Act; </li> <li>affects a determination of whether the transfer of water from one body of water to another requires a permit under the national pollutant discharge elimination system; and </li> <li>limits the scope of water subject to state jurisdiction under state law.</li> </ul>",
+ "congress_gov_url": "https://www.congress.gov/bill/114th-congress/senate-bill/1140",
+ "failed_on": "2015-11-03",
+ "kind": "blocked",
+ "chamber": "Senate",
+ "later_became_law": null,
+ "votes": [
+  {
+   "chamber": "Senate",
+   "roll": 295,
+   "date": "2015-11-03",
+   "kind": "blocked",
+   "question": "On Cloture on the Motion to Proceed",
+   "result": "Cloture on the Motion to Proceed Rejected",
+   "required": "3/5",
+   "yea": 57,
+   "nay": 41,
+   "support": "yea",
+   "by_party": {
+    "R": {
+     "yea": 53,
+     "not voting": 1
+    },
+    "D": {
+     "nay": 39,
+     "yea": 4,
+     "not voting": 1
+    },
+    "I": {
+     "nay": 2
+    }
+   },
+   "majority_party": "R",
+   "members": [
+    {
+     "icpsr": "14009",
+     "bioguide": "C000567",
+     "name": "COCHRAN, William Thad",
+     "party": "R",
+     "state": "MS",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "14226",
+     "bioguide": "G000386",
+     "name": "GRASSLEY, Charles Ernest",
+     "party": "R",
+     "state": "IA",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "14307",
+     "bioguide": "L000174",
+     "name": "LEAHY, Patrick Joseph",
+     "party": "D",
+     "state": "VT",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "14435",
+     "bioguide": "M000133",
+     "name": "MARKEY, Edward John",
+     "party": "D",
+     "state": "MA",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "14440",
+     "bioguide": "M000702",
+     "name": "MIKULSKI, Barbara Ann",
+     "party": "D",
+     "state": "MD",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "14503",
+     "bioguide": "H000338",
+     "name": "HATCH, Orrin Grant",
+     "party": "R",
+     "state": "UT",
+     "vote": "not voting"
+    },
+    {
+     "icpsr": "14651",
+     "bioguide": "N000032",
+     "name": "NELSON, Clarence William (Bill)",
+     "party": "D",
+     "state": "FL",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "14806",
+     "bioguide": "C000542",
+     "name": "COATS, Daniel Ray",
+     "party": "R",
+     "state": "IN",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "14852",
+     "bioguide": "R000307",
+     "name": "ROBERTS, Charles Patrick (Pat)",
+     "party": "R",
+     "state": "KS",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "14858",
+     "bioguide": "S000148",
+     "name": "SCHUMER, Charles Ellis (Chuck)",
+     "party": "D",
+     "state": "NY",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "14871",
+     "bioguide": "W000779",
+     "name": "WYDEN, Ronald Lee",
+     "party": "D",
+     "state": "OR",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "14921",
+     "bioguide": "M000355",
+     "name": "MCCONNELL, Addison Mitchell (Mitch)",
+     "party": "R",
+     "state": "KY",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "15011",
+     "bioguide": "B000711",
+     "name": "BOXER, Barbara",
+     "party": "D",
+     "state": "CA",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "15015",
+     "bioguide": "C000174",
+     "name": "CARPER, Thomas Richard",
+     "party": "D",
+     "state": "DE",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "15021",
+     "bioguide": "D000563",
+     "name": "DURBIN, Richard Joseph",
+     "party": "D",
+     "state": "IL",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "15039",
+     "bioguide": "M000303",
+     "name": "McCAIN, John Sidney, III",
+     "party": "R",
+     "state": "AZ",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "15054",
+     "bioguide": "R000146",
+     "name": "REID, Harry",
+     "party": "D",
+     "state": "NV",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "15408",
+     "bioguide": "C000141",
+     "name": "CARDIN, Benjamin Louis",
+     "party": "D",
+     "state": "MD",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "15424",
+     "bioguide": "I000024",
+     "name": "INHOFE, James Mountain",
+     "party": "R",
+     "state": "OK",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20100",
+     "bioguide": "F000444",
+     "name": "FLAKE, Jeff",
+     "party": "R",
+     "state": "AZ",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20101",
+     "bioguide": "B001236",
+     "name": "BOOZMAN, John",
+     "party": "R",
+     "state": "AR",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20115",
+     "bioguide": "K000360",
+     "name": "KIRK, Mark Steven",
+     "party": "R",
+     "state": "IL",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20146",
+     "bioguide": "C001047",
+     "name": "CAPITO, Shelley Moore",
+     "party": "R",
+     "state": "WV",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20707",
+     "bioguide": "M001169",
+     "name": "MURPHY, Christopher",
+     "party": "D",
+     "state": "CT",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "20713",
+     "bioguide": "H001042",
+     "name": "HIRONO, Mazie",
+     "party": "D",
+     "state": "HI",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "20717",
+     "bioguide": "D000607",
+     "name": "DONNELLY, Joe",
+     "party": "D",
+     "state": "IN",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20730",
+     "bioguide": "H001041",
+     "name": "HELLER, Dean",
+     "party": "R",
+     "state": "NV",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20735",
+     "bioguide": "G000555",
+     "name": "GILLIBRAND, Kirsten",
+     "party": "D",
+     "state": "NY",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "20919",
+     "bioguide": "C001075",
+     "name": "CASSIDY, Bill",
+     "party": "R",
+     "state": "LA",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20923",
+     "bioguide": "P000595",
+     "name": "PETERS, Gary C.",
+     "party": "D",
+     "state": "MI",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "20930",
+     "bioguide": "H001046",
+     "name": "HEINRICH, Martin",
+     "party": "D",
+     "state": "NM",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "21112",
+     "bioguide": "G000562",
+     "name": "GARDNER, Cory",
+     "party": "R",
+     "state": "CO",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21166",
+     "bioguide": "L000575",
+     "name": "LANKFORD, James",
+     "party": "R",
+     "state": "OK",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21173",
+     "bioguide": "S001184",
+     "name": "SCOTT, Tim",
+     "party": "R",
+     "state": "SC",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21301",
+     "bioguide": "C001095",
+     "name": "COTTON, Thomas Bryant (Tom)",
+     "party": "R",
+     "state": "AR",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21338",
+     "bioguide": "D000618",
+     "name": "DAINES, Steve",
+     "party": "R",
+     "state": "MT",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29142",
+     "bioguide": "R000122",
+     "name": "REED, John F. (Jack)",
+     "party": "D",
+     "state": "RI",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "29147",
+     "bioguide": "S000033",
+     "name": "SANDERS, Bernard",
+     "party": "I",
+     "state": "VT",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "29345",
+     "bioguide": "C000880",
+     "name": "CRAPO, Michael Dean",
+     "party": "R",
+     "state": "ID",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29373",
+     "bioguide": "M000639",
+     "name": "MENENDEZ, Robert",
+     "party": "D",
+     "state": "NJ",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "29386",
+     "bioguide": "P000449",
+     "name": "PORTMAN, Robert Jones (Rob)",
+     "party": "R",
+     "state": "OH",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29389",
+     "bioguide": "B000944",
+     "name": "BROWN, Sherrod",
+     "party": "D",
+     "state": "OH",
+     "vote": "not voting"
+    },
+    {
+     "icpsr": "29534",
+     "bioguide": "W000437",
+     "name": "WICKER, Roger F.",
+     "party": "R",
+     "state": "MS",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29548",
+     "bioguide": "B001135",
+     "name": "BURR, Richard M.",
+     "party": "R",
+     "state": "NC",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29566",
+     "bioguide": "G000359",
+     "name": "GRAHAM, Lindsey O.",
+     "party": "R",
+     "state": "SC",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29722",
+     "bioguide": "M000934",
+     "name": "MORAN, Jerry",
+     "party": "R",
+     "state": "KS",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29732",
+     "bioguide": "S000770",
+     "name": "STABENOW, Deborah Ann",
+     "party": "D",
+     "state": "MI",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "29735",
+     "bioguide": "B000575",
+     "name": "BLUNT, Roy",
+     "party": "R",
+     "state": "MO",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29754",
+     "bioguide": "T000250",
+     "name": "THUNE, John",
+     "party": "R",
+     "state": "SD",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29909",
+     "bioguide": "I000055",
+     "name": "ISAKSON, Johnny",
+     "party": "R",
+     "state": "GA",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29918",
+     "bioguide": "V000127",
+     "name": "VITTER, David",
+     "party": "R",
+     "state": "LA",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29924",
+     "bioguide": "U000039",
+     "name": "UDALL, Thomas (Tom)",
+     "party": "D",
+     "state": "NM",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "29935",
+     "bioguide": "T000461",
+     "name": "TOOMEY, Patrick Joseph",
+     "party": "R",
+     "state": "PA",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29940",
+     "bioguide": "B001230",
+     "name": "BALDWIN, Tammy",
+     "party": "D",
+     "state": "WI",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "39310",
+     "bioguide": "C000127",
+     "name": "CANTWELL, Maria E.",
+     "party": "D",
+     "state": "WA",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "40300",
+     "bioguide": "M001153",
+     "name": "MURKOWSKI, Lisa",
+     "party": "R",
+     "state": "AK",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "40304",
+     "bioguide": "A000360",
+     "name": "ALEXANDER, Lamar",
+     "party": "R",
+     "state": "TN",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "40305",
+     "bioguide": "C001056",
+     "name": "CORNYN, John",
+     "party": "R",
+     "state": "TX",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "40700",
+     "bioguide": "K000367",
+     "name": "KLOBUCHAR, Amy",
+     "party": "D",
+     "state": "MN",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "40701",
+     "bioguide": "M001170",
+     "name": "McCASKILL, Claire",
+     "party": "D",
+     "state": "MO",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "40702",
+     "bioguide": "T000464",
+     "name": "TESTER, Jon",
+     "party": "D",
+     "state": "MT",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "40703",
+     "bioguide": "C001070",
+     "name": "CASEY, Robert (Bob), Jr.",
+     "party": "D",
+     "state": "PA",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "40704",
+     "bioguide": "W000802",
+     "name": "WHITEHOUSE, Sheldon",
+     "party": "D",
+     "state": "RI",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "40705",
+     "bioguide": "C001071",
+     "name": "CORKER, Robert (Bob)",
+     "party": "R",
+     "state": "TN",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "40707",
+     "bioguide": "B001261",
+     "name": "BARRASSO, John A.",
+     "party": "R",
+     "state": "WY",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "40902",
+     "bioguide": "R000584",
+     "name": "RISCH, James",
+     "party": "R",
+     "state": "ID",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "40904",
+     "bioguide": "F000457",
+     "name": "FRANKEN, Al",
+     "party": "D",
+     "state": "MN",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "40906",
+     "bioguide": "S001181",
+     "name": "SHAHEEN, Jeanne",
+     "party": "D",
+     "state": "NH",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "40908",
+     "bioguide": "M001176",
+     "name": "MERKLEY, Jeff",
+     "party": "D",
+     "state": "OR",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "40909",
+     "bioguide": "W000805",
+     "name": "WARNER, Mark R.",
+     "party": "D",
+     "state": "VA",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "40910",
+     "bioguide": "B001267",
+     "name": "BENNET, Michael F.",
+     "party": "D",
+     "state": "CO",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "40915",
+     "bioguide": "M001183",
+     "name": "MANCHIN, Joe, III",
+     "party": "D",
+     "state": "WV",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "40916",
+     "bioguide": "C001088",
+     "name": "COONS, Christopher A.",
+     "party": "D",
+     "state": "DE",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41101",
+     "bioguide": "B001277",
+     "name": "BLUMENTHAL, Richard",
+     "party": "D",
+     "state": "CT",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41102",
+     "bioguide": "R000595",
+     "name": "RUBIO, Marco",
+     "party": "R",
+     "state": "FL",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "41104",
+     "bioguide": "P000603",
+     "name": "PAUL, Rand",
+     "party": "R",
+     "state": "KY",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "41106",
+     "bioguide": "A000368",
+     "name": "AYOTTE, Kelly",
+     "party": "R",
+     "state": "NH",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "41107",
+     "bioguide": "H001061",
+     "name": "HOEVEN, John",
+     "party": "R",
+     "state": "ND",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "41110",
+     "bioguide": "L000577",
+     "name": "LEE, Mike",
+     "party": "R",
+     "state": "UT",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "41111",
+     "bioguide": "J000293",
+     "name": "JOHNSON, Ron",
+     "party": "R",
+     "state": "WI",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "41112",
+     "bioguide": "S001194",
+     "name": "SCHATZ, Brian Emanuel",
+     "party": "D",
+     "state": "HI",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41300",
+     "bioguide": "K000383",
+     "name": "KING, Angus Stanley, Jr.",
+     "party": "I",
+     "state": "ME",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41301",
+     "bioguide": "W000817",
+     "name": "WARREN, Elizabeth",
+     "party": "D",
+     "state": "MA",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41302",
+     "bioguide": "F000463",
+     "name": "FISCHER, Debra (Deb)",
+     "party": "R",
+     "state": "NE",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "41303",
+     "bioguide": "H001069",
+     "name": "HEITKAMP, Mary Kathryn (Heidi)",
+     "party": "D",
+     "state": "ND",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "41304",
+     "bioguide": "C001098",
+     "name": "CRUZ, Rafael Edward (Ted)",
+     "party": "R",
+     "state": "TX",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "41305",
+     "bioguide": "K000384",
+     "name": "KAINE, Timothy Michael (Tim)",
+     "party": "D",
+     "state": "VA",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41308",
+     "bioguide": "B001288",
+     "name": "BOOKER, Cory Anthony",
+     "party": "D",
+     "state": "NJ",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41500",
+     "bioguide": "S001198",
+     "name": "SULLIVAN, Daniel Scott",
+     "party": "R",
+     "state": "AK",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "41501",
+     "bioguide": "P000612",
+     "name": "PERDUE, David Alfred, Jr.",
+     "party": "R",
+     "state": "GA",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "41502",
+     "bioguide": "E000295",
+     "name": "ERNST, Joni",
+     "party": "R",
+     "state": "IA",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "41503",
+     "bioguide": "S001197",
+     "name": "SASSE, Benjamin Eric",
+     "party": "R",
+     "state": "NE",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "41504",
+     "bioguide": "T000476",
+     "name": "TILLIS, Thomas Roland (Thom)",
+     "party": "R",
+     "state": "NC",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "41505",
+     "bioguide": "R000605",
+     "name": "ROUNDS, Marion Michael (Mike)",
+     "party": "R",
+     "state": "SD",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "49300",
+     "bioguide": "F000062",
+     "name": "FEINSTEIN, Dianne",
+     "party": "D",
+     "state": "CA",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "49308",
+     "bioguide": "M001111",
+     "name": "MURRAY, Patty",
+     "party": "D",
+     "state": "WA",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "49700",
+     "bioguide": "S001141",
+     "name": "SESSIONS, Jefferson Beauregard (Jeff), III",
+     "party": "R",
+     "state": "AL",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "49703",
+     "bioguide": "C001035",
+     "name": "COLLINS, Susan Margaret",
+     "party": "R",
+     "state": "ME",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "49706",
+     "bioguide": "E000285",
+     "name": "ENZI, Michael B.",
+     "party": "R",
+     "state": "WY",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "94659",
+     "bioguide": "S000320",
+     "name": "SHELBY, Richard C.",
+     "party": "R",
+     "state": "AL",
+     "vote": "yea"
+    }
+   ]
+  }
+ ],
+ "support_color": {
+  "side": "R",
+  "share": 0.93,
+  "r_support": 53,
+  "d_support": 4,
+  "shade": 0.86,
+  "party_line": null
+ },
+ "control": {
+  "Senate": "R"
+ },
+ "summary": {
+  "headline": "A 2015 Senate bill would have narrowed which waters federal agencies regulate under the Clean Water Act and added required consultation and reporting steps, but the Senate did not act on it.",
+  "what_it_does": "The bill would have set rules for how the Army Corps of Engineers and the EPA define \"waters of the United States,\" the term that decides which waters fall under federal Clean Water Act rules. It would have listed waters to include, such as traditional navigable waters, interstate waters, and certain streams and wetlands, and waters to exclude, such as isolated ponds, prior converted cropland, and stormwater and irrigation systems. It would also have required extra consultation with states, local governments, and farm agencies, cost and small-business reviews, and a Government Accountability Office report every three years. Under the bill, the 2015 rule and related guidance would have been blocked until the agencies followed these steps.",
+  "who_it_affects": [
+   {
+    "group": "Farmers and ranchers",
+    "how": "Under the bill, certain farm water systems and prior converted cropland would have been excluded from federal jurisdiction, and agricultural officials would have been consulted before any new rule was published."
+   },
+   {
+    "group": "Landowners with streams or wetlands on their property",
+    "how": "The bill would have changed which streams and wetlands need federal permits, so some landowners could have needed permits less often while others could have faced different requirements."
+   },
+   {
+    "group": "Small businesses and small entities",
+    "how": "The agencies would have had to gather small-entity comments and run regulatory flexibility analyses on any new definition, even if they found little direct impact."
+   },
+   {
+    "group": "State and local governments",
+    "how": "States, local governments, and state water and agriculture departments would have had to be consulted before a new definition was proposed, and the bill would have kept state authority over water under state law."
+   },
+   {
+    "group": "Companies and builders that need federal Clean Water Act permits",
+    "how": "The narrower definition would have changed which projects needed federal permits, and the GAO reports would have tracked how differently regional offices interpreted the rules."
+   }
+  ],
+  "when_it_takes_effect": "Did not take effect",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-11"
+ }
+}

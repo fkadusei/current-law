@@ -1,0 +1,24 @@
+{
+ "headline": "Senate resolution that would have canceled EPA's approval of South Dakota's plan to reduce haze in national parks did not advance.",
+ "what_it_does": "This resolution would have used the Congressional Review Act to cancel an EPA rule published on August 28, 2025. That rule approved South Dakota's updated state plan for meeting the EPA's regional haze rule. The regional haze rule requires states to take steps to improve visibility in national parks and wilderness areas. On January 7, 2026, the Senate declined to take up the resolution or end debate on it, so it did not pass.",
+ "who_it_affects": [
+  {
+   "group": "South Dakota state government",
+   "how": "The state's EPA-approved haze plan would have been canceled, leaving it without federal approval for this round of the regional haze program."
+  },
+  {
+   "group": "Power plants and industrial facilities in South Dakota",
+   "how": "Any pollution-related requirements tied to the approved state haze plan could have been affected if the approval were canceled."
+  },
+  {
+   "group": "Visitors to national parks and wilderness areas",
+   "how": "The resolution concerned the state plan meant to improve visibility in these protected areas."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-11"
+}

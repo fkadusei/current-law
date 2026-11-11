@@ -1,0 +1,28 @@
+{
+ "headline": "Failed House bill would have let private technical standards written into law keep copyright if posted free online.",
+ "what_it_does": "The bill would have said that technical standards made by private groups, such as building or electrical codes, keep their copyright even after a law or regulation adopts them. To keep that protection, the group would have had to post the standard for free online in a format that makes it easy to find specific content. Anyone claiming a standard lost copyright because it was not posted free online would have had to prove it. The bill would also have required reports from the Copyright Office and studies by the Government Accountability Office, including on effects on consumers and historically disadvantaged communities.",
+ "who_it_affects": [
+  {
+   "group": "Private standards development organizations",
+   "how": "They would have kept copyright over standards adopted into law, as long as they made those standards free to read online."
+  },
+  {
+   "group": "Members of the public, builders, and businesses that must follow codes written into law",
+   "how": "They would have been able to read adopted standards for free online, while the standards stayed under copyright."
+  },
+  {
+   "group": "People or groups who copy or republish adopted standards",
+   "how": "If they claimed a standard had lost copyright because it was not free online, they would have had to prove that claim."
+  },
+  {
+   "group": "Copyright Office and Government Accountability Office",
+   "how": "They would have been required to prepare reports and studies on the bill's effects."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-11"
+}

@@ -1,0 +1,44 @@
+{
+ "headline": "H.R. 6136 would have funded border security and changed several immigration rules, but the House voted it down on June 27, 2018, so it never became law.",
+ "what_it_does": "If adopted, the bill would have directed DHS to gain control of the border and added money for a border wall, new ports of entry, and more enforcement staff. It would have created a legal status for some young people who entered the country as children and a point-based path to immigrant status. It also would have ended the diversity visa program and certain family-based visa categories, and it would have added rules on asylum, biometric exit tracking, and protections for children held at the border.",
+ "who_it_affects": [
+  {
+   "group": "Immigrants who entered the U.S. as young children",
+   "how": "Those under age 16 at first entry could have received renewable six-year nonimmigrant status."
+  },
+  {
+   "group": "Diversity visa applicants",
+   "how": "The diversity visa lottery would have been eliminated."
+  },
+  {
+   "group": "Families seeking certain family-based visas",
+   "how": "Some family-based visa categories would have been removed and the per-country limit for family-based immigrants would have been raised."
+  },
+  {
+   "group": "Asylum seekers and certain designated gang members",
+   "how": "Individuals linked to groups DHS designated as criminal gangs would not have been able to seek asylum, withholding of removal, or temporary protected status."
+  },
+  {
+   "group": "Children apprehended at the border and in DHS custody",
+   "how": "The bill would have added protections against parental separation and for children in DHS custody."
+  },
+  {
+   "group": "State and local law enforcement agencies",
+   "how": "Agencies would have been shielded from lawsuits for complying with DHS detainers, and a jurisdiction that declined a detainer could have faced a private lawsuit in certain murder, rape, or sexual abuse cases."
+  },
+  {
+   "group": "Travelers at certain airports, seaports, and land ports",
+   "how": "Biometric exit data collection and electronic passport screening would have been expanded."
+  },
+  {
+   "group": "Children of long-term temporary foreign workers",
+   "how": "They would have been eligible for immigrant status adjustment under the point system."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

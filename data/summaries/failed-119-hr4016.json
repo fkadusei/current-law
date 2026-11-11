@@ -1,0 +1,32 @@
+{
+ "headline": "Bill to fund the Department of Defense's military activities for fiscal year 2026 stalled in the Senate and did not pass.",
+ "what_it_does": "The bill would have provided money for the Department of Defense for fiscal year 2026, including military pay, operations and maintenance, buying equipment, and research and testing. It would also have funded the Defense Health Program, chemical weapons destruction, counter-drug activities, and the Inspector General's office. It would have funded some intelligence accounts, including the CIA retirement and disability fund. It would not have covered military construction, military family housing, Army Corps of Engineers civil works, or nuclear warheads, which are handled in other spending bills.",
+ "who_it_affects": [
+  {
+   "group": "Active-duty service members",
+   "how": "Their pay and related personnel costs would have been funded through the Military Personnel accounts."
+  },
+  {
+   "group": "Service members, military families, and others covered by military health care",
+   "how": "The Defense Health Program that provides their medical care would have received funding."
+  },
+  {
+   "group": "Defense contractors and companies",
+   "how": "Funding for buying equipment and for research, development, testing, and evaluation would have supported contracts with these businesses."
+  },
+  {
+   "group": "CIA retirees and employees with disabilities",
+   "how": "The CIA Retirement and Disability System Fund that pays their benefits would have been funded."
+  },
+  {
+   "group": "Intelligence agencies",
+   "how": "The Intelligence Community Management Account would have received funding."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-11"
+}

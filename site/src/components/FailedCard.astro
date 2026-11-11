@@ -1,0 +1,44 @@
+---
+import "../styles/cards.css";
+import { lawColor, failedLabel, supportLabel, failedPartyLine, formatDate, FAILED_KIND } from "../lib/data.js";
+const { item } = Astro.props;
+const base = import.meta.env.BASE_URL.replace(/\/$/, "");
+const color = lawColor(item.support_color);
+const partyLine = failedPartyLine(item);
+const sc = item.support_color;
+const total = sc ? sc.d_support + sc.r_support : 0;
+---
+<a class="law-card card failed-card" href={`${base}/did-not-pass/${item.id}/`}
+   data-q={`${item.title} ${item.bill} ${item.policy_area || ""} ${item.summary?.headline || ""}`.toLowerCase()}
+   data-kind={item.kind} data-chamber={item.chamber} data-side={sc?.side || "none"} data-pl={partyLine ? 1 : 0} data-congress={item.congress}>
+  <span class="stripe" style={`background:${color.bg}`} aria-hidden="true"></span>
+  <div class="body">
+    <div class="meta">
+      <span class="topic">{FAILED_KIND[item.kind]}</span>
+      {item.policy_area && <span class="topic muted-topic">{item.policy_area}</span>}
+      <span class="muted">{item.bill} · {formatDate(item.failed_on)}</span>
+    </div>
+    <h3>{item.title.length > 200 ? item.title.slice(0, 197) + "…" : item.title}</h3>
+    {item.summary?.headline && <p class="headline">{item.summary.headline}</p>}
+    <div class="tags">
+      <span class="pill fail">✕ {failedLabel(item)}</span>
+      <span class="pill" style={`background:${color.bg};color:${color.fg}`}>{supportLabel(item)}</span>
+      {partyLine && <span class="pill alert">⚠ {partyLine}</span>}
+      {item.later_became_law && <span class="pill ok">✓ Later became law</span>}
+      {Object.entries(item.control || {}).map(([ch, p]) => <span class="pill ghost ctl"><i class={`dot-${p}`}></i>{p === "R" ? "Republican" : "Democratic"} {ch}</span>)}
+    </div>
+  </div>
+  {total > 0 && (
+    <div class="yes-split" aria-label={`Votes for it: ${sc.d_support} Democratic, ${sc.r_support} Republican`}>
+      <span class="ys-label">Votes for it · {item.chamber}</span>
+      <span class="ys-bar">{sc.d_support > 0 && <span class="d" style={`flex:${sc.d_support}`}></span>}{sc.r_support > 0 && <span class="r" style={`flex:${sc.r_support}`}></span>}</span>
+      <span class="ys-nums"><b class="party-D">{sc.d_support} D</b><b class="party-R">{sc.r_support} R</b></span>
+    </div>
+  )}
+</a>
+<style is:global>
+  .failed-card .muted-topic { color: var(--muted); }
+  .pill.fail { background: color-mix(in srgb, var(--nay) 14%, var(--surface)); color: var(--text); box-shadow: inset 0 0 0 1px color-mix(in srgb, var(--nay) 45%, transparent); }
+  .pill.ok { background: color-mix(in srgb, var(--yea) 16%, var(--surface)); color: var(--text); box-shadow: inset 0 0 0 1px color-mix(in srgb, var(--yea) 45%, transparent); }
+  .failed-card[hidden] { display: none; }
+</style>

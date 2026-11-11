@@ -1,0 +1,24 @@
+{
+ "headline": "Senate declined to advance a resolution that would have canceled an EPA rule rejecting Colorado's regional haze air plan.",
+ "what_it_does": "This resolution would have used the Congressional Review Act to cancel an Environmental Protection Agency (EPA) rule. That rule disapproved Colorado's plan for reducing regional haze, which is air pollution that blurs views in national parks and wilderness areas, for the program's second phase. If adopted, the EPA rule would have had no legal effect, and the EPA could not issue a substantially similar rule without new approval from Congress. The Senate refused to take it up on April 29, 2026.",
+ "who_it_affects": [
+  {
+   "group": "Colorado state government",
+   "how": "The EPA's rejection of the state's regional haze plan would have been canceled."
+  },
+  {
+   "group": "Businesses in Colorado covered by the state's haze plan, such as power plants and industrial facilities",
+   "how": "The pollution requirements that apply to them could have depended on the plan not being rejected by the EPA."
+  },
+  {
+   "group": "Environmental Protection Agency",
+   "how": "The agency would have been barred from issuing a substantially similar disapproval rule unless Congress later allowed it."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-11"
+}

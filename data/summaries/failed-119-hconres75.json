@@ -1,0 +1,24 @@
+{
+ "headline": "Failed House resolution would have directed the President to pull U.S. armed forces out of hostilities against Iran by March 30, 2026.",
+ "what_it_does": "This resolution would have used the War Powers Resolution to direct the President to remove U.S. armed forces from hostilities against Iran, its government, or its military by March 30, 2026. That order would not have applied if Congress passed a declaration of war or an authorization to use military force against Iran. It also said the United States could still defend itself, its troops, its embassies and other diplomatic sites, and allied countries from an imminent attack. The House voted it down on May 14, 2026.",
+ "who_it_affects": [
+  {
+   "group": "The President",
+   "how": "The President would have been directed to end U.S. military involvement in hostilities against Iran unless Congress approved the use of force."
+  },
+  {
+   "group": "U.S. military service members",
+   "how": "Troops taking part in hostilities against Iran would have been withdrawn from those operations, though they could still act to defend against imminent attacks."
+  },
+  {
+   "group": "Congress",
+   "how": "Congress would have needed to pass a declaration of war or a use-of-force authorization for the hostilities to continue."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-11"
+}

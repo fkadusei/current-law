@@ -1,0 +1,28 @@
+{
+ "headline": "S. 534 would have blocked federal funds from carrying out a set of late-2014 executive immigration policies, but the Senate did not take it up and it never took effect.",
+ "what_it_does": "The bill would have barred federal money and immigration fees from being used to carry out ten named 2014 immigration memos, or any substantially similar policy changes made on or after January 9, 2015. It would have declared those policies to have no legal basis. It would also have barred funds for granting federal benefits under those policies and required DHS enforcement priorities to treat certain offenders, such as those convicted of domestic violence or child sexual abuse, as top priorities. The bill also included non-binding statements of congressional opinion about employer health insurance rules, deferred action, and USCIS processing.",
+ "who_it_affects": [
+  {
+   "group": "Immigrants who are unlawfully present in the United States and might have received deferred action or other benefits under the 2014 memos",
+   "how": "They would not have been able to receive federal benefits granted under the blocked policies."
+  },
+  {
+   "group": "Parents of U.S. citizens or permanent residents and people brought to the U.S. as children who were covered by the 2014 deferred action policies",
+   "how": "Their eligibility for relief under those specific policies would have been cut off by the funding ban."
+  },
+  {
+   "group": "Employees of the Department of Homeland Security and other federal immigration officials",
+   "how": "They would have been barred from using appropriated funds or fees to carry out the named policies."
+  },
+  {
+   "group": "Immigrants convicted of domestic violence, sexual abuse, child molestation, or child exploitation",
+   "how": "Under the bill, DHS would have been required to treat these convictions as placing a person in the highest civil immigration enforcement priority categories."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

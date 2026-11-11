@@ -1,0 +1,32 @@
+{
+ "headline": "The House voted down S. 114, which would have added VA hiring tools, funded the Veterans Choice Program, and extended several VA fee and pension rules.",
+ "what_it_does": "If adopted, the bill would have provided funding for the Veterans Choice Program and changed how the Department of Veterans Affairs hires and manages staff. It would have set up training swaps with the private sector, created a database of hard-to-fill VA jobs, and let the VA appoint some qualified former employees and highly qualified candidates more easily. It would also have extended through fiscal year 2027 a $90 monthly pension limit for veterans in nursing homes, VA housing loan fee collection, and VA access to veterans' income data.",
+ "who_it_affects": [
+  {
+   "group": "Veterans who use VA health care",
+   "how": "They would have seen Veterans Choice Program funding and VA staffing changes aimed at filling clinical and nonclinical jobs at VA medical facilities."
+  },
+  {
+   "group": "Veterans living in nursing homes whose care is paid through Medicaid",
+   "how": "Their VA pension would have stayed subject to a $90 monthly limit through fiscal year 2027."
+  },
+  {
+   "group": "Veterans and service members using VA-backed housing loans",
+   "how": "VA fee collection on those loans would have continued at current levels through fiscal year 2027."
+  },
+  {
+   "group": "VA employees and job applicants",
+   "how": "They would have had new training, promotion tracks, a former-employee rehiring option, and a database of open VA positions."
+  },
+  {
+   "group": "Former military members with health care specialties",
+   "how": "The VA would have been directed to create a program encouraging them to seek VA health care jobs after leaving service."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

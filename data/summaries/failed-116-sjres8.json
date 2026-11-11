@@ -1,0 +1,48 @@
+{
+ "headline": "Senate Joint Resolution 8 would have declared a federal duty to create a Green New Deal aimed at net-zero emissions, jobs, and a 10-year national mobilization, but the Senate did not advance it.",
+ "what_it_does": "The resolution would have declared that the federal government has a duty to create a Green New Deal. It would have set goals of reaching net-zero greenhouse gas emissions, creating millions of high-wage jobs, and securing economic security for all. It would have called for a 10-year national mobilization that includes upgrading buildings and power grids, cutting pollution from transportation and agriculture, cleaning up hazardous waste sites, and providing higher education, health care, and housing to all.",
+ "who_it_affects": [
+  {
+   "group": "Workers seeking jobs in energy, construction, and manufacturing",
+   "how": "The resolution would have set a goal of creating millions of high-wage jobs tied to clean energy and infrastructure work."
+  },
+  {
+   "group": "Owners and occupants of existing buildings",
+   "how": "The resolution would have called for upgrading existing buildings and building new ones to achieve maximum energy and water efficiency."
+  },
+  {
+   "group": "Electric utilities and their customers",
+   "how": "The resolution would have called for building smart power grids that let customers reduce power use during peak demand periods."
+  },
+  {
+   "group": "Drivers and people who rely on transportation",
+   "how": "The resolution would have called for removing pollution and greenhouse gas emissions from the transportation sector."
+  },
+  {
+   "group": "Farmers and the agricultural sector",
+   "how": "The resolution would have called for removing pollution and greenhouse gas emissions from agriculture."
+  },
+  {
+   "group": "Residents near hazardous waste or abandoned sites",
+   "how": "The resolution would have called for cleaning up existing hazardous waste and abandoned sites."
+  },
+  {
+   "group": "Students and families seeking higher education",
+   "how": "The resolution would have called for providing higher education to all."
+  },
+  {
+   "group": "People without access to affordable health care or housing",
+   "how": "The resolution would have called for providing high-quality health care and affordable, safe, and adequate housing to all."
+  },
+  {
+   "group": "Businesses that compete in the marketplace",
+   "how": "The resolution would have called for ensuring businesspersons are free from unfair competition."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

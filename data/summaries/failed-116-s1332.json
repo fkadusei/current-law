@@ -1,0 +1,28 @@
+{
+ "headline": "This 2019 Senate budget resolution would have set spending and revenue targets for fiscal years 2020 through 2029 and told several Senate committees to draft deficit-reduction bills, but the Senate did not act on it.",
+ "what_it_does": "The measure would have set a congressional budget plan for the federal government for fiscal year 2020 and set target levels for fiscal years 2021 through 2029. It would have covered revenues, spending authority, outlays, deficits, and public debt. It would also have told seven Senate committees and the Finance Committee to write legislation that reduces the deficit by set amounts. Procedures for handling such reconciliation bills in the Senate would have applied.",
+ "who_it_affects": [
+  {
+   "group": "Federal agencies and programs funded through the annual budget",
+   "how": "Their spending levels would have been guided by the targets in the plan for the coming years."
+  },
+  {
+   "group": "Recipients of programs overseen by the committees named in the bill, such as agriculture, armed forces, housing, energy, health and education, and veterans programs",
+   "how": "Those committees would have been required to propose cost-cutting or revenue legislation that could change these programs."
+  },
+  {
+   "group": "Social Security beneficiaries and Postal Service customers",
+   "how": "The plan would have set Senate-level figures for Social Security and Postal Service administrative expenses."
+  },
+  {
+   "group": "Taxpayers",
+   "how": "The plan would have directed the Finance Committee to propose legislation changing federal revenues."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

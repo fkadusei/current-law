@@ -1,0 +1,36 @@
+{
+ "headline": "H.R. 644 would have updated US customs and trade rules, boosted enforcement against trade cheating, and changed several border and trade programs, but the House voted it down in December 2015.",
+ "what_it_does": "If adopted, the bill would have directed U.S. Customs and Border Protection to run trade partnership programs, set performance goals, and fund completion of the Automated Commercial Environment computer system. It also would have created new enforcement units against unfair import dumping and duty evasion, changed rules on intellectual property seizures, and raised the de minimis duty-free limit for shipments from $200 to $800. The bill would have touched many other areas, including small business trade help, preclearance at foreign airports, and tax penalties.",
+ "who_it_affects": [
+  {
+   "group": "Importers and exporters",
+   "how": "They would have faced new customs performance standards, updated electronic filing requirements, and changes to bond amounts for new and nonresident importers."
+  },
+  {
+   "group": "Small businesses that export",
+   "how": "They would have gained a state trade expansion grant program and a federal-state export promotion coordination group."
+  },
+  {
+   "group": "Travelers bringing in goods",
+   "how": "The duty-free limit on personal shipments would have risen from $200 to $800 per person per day."
+  },
+  {
+   "group": "Owners of trademarks and copyrights",
+   "how": "They would have received more access to information about suspected infringing imports and new seizure tools for circumvention devices."
+  },
+  {
+   "group": "Airline passengers flying from certain foreign airports",
+   "how": "Preclearance checks by U.S. officers abroad would have been expanded, and some passengers from certain airports could have been rescreened by TSA on arrival."
+  },
+  {
+   "group": "Foreign governments with trusted traveler or preclearance programs",
+   "how": "They would have had to report lost and stolen passport data to INTERPOL to keep those programs with the US."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

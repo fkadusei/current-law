@@ -1,0 +1,24 @@
+{
+ "headline": "Had it been adopted, S. 3275 would have made it a federal crime to perform or attempt an abortion when the fetus was probably 20 weeks or more past fertilization.",
+ "what_it_does": "The bill would have set up a federal criminal offense for performing or attempting an abortion when the probable post-fertilization age of the fetus is 20 weeks or more. A violator would face a fine, up to five years in prison, or both. The bill would have allowed exceptions when the abortion is necessary to save the pregnant woman's life or when the pregnancy resulted from rape or incest, and physicians using those exceptions would have had to meet specified requirements. A woman who received a prohibited abortion would not have been prosecuted for violating or conspiring to violate the bill.",
+ "who_it_affects": [
+  {
+   "group": "Physicians and other health care providers who perform abortions",
+   "how": "They would have faced possible fines and prison time for performing or attempting an abortion at 20 weeks or more, unless an exception applied and they met the bill's requirements."
+  },
+  {
+   "group": "Pregnant women seeking abortions at 20 weeks or more",
+   "how": "They would not have been subject to prosecution under the bill, though the providers performing the procedure could have been."
+  },
+  {
+   "group": "Pregnant women whose pregnancies resulted from rape or incest",
+   "how": "They would have been covered by an exception allowing a later abortion, subject to the requirements placed on the physician."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

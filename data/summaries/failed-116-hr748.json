@@ -1,0 +1,48 @@
+{
+ "headline": "The CARES Act was a large COVID-19 relief package that the Senate did not advance on March 23, 2020, so it did not become law.",
+ "what_it_does": "If adopted, this bill would have provided emergency economic relief for COVID-19, including forgivable loans for small businesses to keep paying workers, expanded unemployment benefits, one-time tax credits for many individuals, and payroll and business tax relief. It would also have added funding and rules for health care providers, hospitals, schools, colleges, and veterans programs, and created new federal oversight and loan programs for large industries and states.",
+ "who_it_affects": [
+  {
+   "group": "Small businesses and nonprofits",
+   "how": "They would have been able to get federally guaranteed paycheck protection loans that could be forgiven if spent on payroll, rent, utilities, and similar costs."
+  },
+  {
+   "group": "Unemployed workers, including gig and self-employed workers",
+   "how": "They would have received extra weekly unemployment payments and access to pandemic unemployment assistance for up to 39 weeks."
+  },
+  {
+   "group": "Lower- and middle-income taxpayers and their children",
+   "how": "They would have received one-time refundable tax credits, with amounts phasing out at higher incomes."
+  },
+  {
+   "group": "Student loan borrowers",
+   "how": "Payments on federally held student loans would have been suspended with interest waived through September 30, 2020."
+  },
+  {
+   "group": "Renters and homeowners with federally backed mortgages",
+   "how": "They would have been able to request payment forbearance and would have had temporary eviction and foreclosure protections."
+  },
+  {
+   "group": "Medicare and Medicaid enrollees and health care providers",
+   "how": "They would have had expanded telehealth coverage, changed payment rules, and COVID-19 vaccine coverage without cost-sharing under Medicare."
+  },
+  {
+   "group": "Airline workers and air carriers",
+   "how": "They would have received federal financial assistance to continue paying wages and benefits, with conditions on pay, stock buybacks, and service levels."
+  },
+  {
+   "group": "Veterans and state veterans homes",
+   "how": "They would have received expanded telehealth, extra funding flexibility, and protective equipment support during the emergency."
+  },
+  {
+   "group": "Taxpayers who contribute to retirement plans or make charitable gifts",
+   "how": "They would have been able to take penalty-free coronavirus-related retirement withdrawals and claim expanded charitable deductions in 2020."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

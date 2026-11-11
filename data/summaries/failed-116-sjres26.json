@@ -1,0 +1,20 @@
+{
+ "headline": "A 2019 Senate resolution would have blocked a proposed U.S. weapons sale to Qatar, but the Senate did not advance it.",
+ "what_it_does": "The resolution would have disapproved a proposed sale to the government of Qatar of certain weapons, ammunition, and related support services. The sale was described in Transmittal No. 19-14, which was sent to Congress on May 13, 2019. Under this resolution, the sale would have been prohibited.",
+ "who_it_affects": [
+  {
+   "group": "The government of Qatar",
+   "how": "It would not have been able to buy the weapons, ammunition, and support services covered by the proposed sale."
+  },
+  {
+   "group": "U.S. defense contractors that would have supplied the items",
+   "how": "They would not have received the sales covered by the proposed deal."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

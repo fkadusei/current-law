@@ -1,0 +1,24 @@
+{
+ "headline": "Failed Senate resolution would have canceled the CFPB's withdrawal of its guidance on how banks get customer consent for overdraft fees.",
+ "what_it_does": "This resolution would have used the Congressional Review Act to overturn a Consumer Financial Protection Bureau (CFPB) action that withdrew a 2024 guidance document called Circular 2024-05. That circular described practices the CFPB considered improper when banks and credit unions sign customers up, or 'opt them in,' to overdraft coverage. If adopted, the withdrawal would have had no legal effect, and the CFPB generally could not issue a substantially similar withdrawal later without new approval from Congress. The Senate refused to take up or end debate on the measure on May 13, 2026.",
+ "who_it_affects": [
+  {
+   "group": "Bank and credit union customers who use debit cards or ATMs",
+   "how": "The resolution would have kept in place CFPB guidance on how banks must get their consent before charging overdraft fees."
+  },
+  {
+   "group": "Banks and credit unions that charge overdraft fees",
+   "how": "They would have stayed subject to the CFPB's 2024 views on which overdraft opt-in practices it considered improper."
+  },
+  {
+   "group": "The Consumer Financial Protection Bureau",
+   "how": "Its decision to withdraw the circular would have been voided, and it would have been limited from repeating a substantially similar action."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-11"
+}

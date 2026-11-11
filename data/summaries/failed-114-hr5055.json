@@ -1,0 +1,32 @@
+{
+ "headline": "A 2016 House bill would have funded energy and water programs, the Army Corps of Engineers, and related agencies for fiscal year 2017, but the House voted it down.",
+ "what_it_does": "If adopted, this bill would have provided fiscal year 2017 money for Army Corps of Engineers civil works, the Bureau of Reclamation, the Department of Energy, and several independent agencies including the Nuclear Regulatory Commission. It would have raised overall funding above 2016 levels, with increases for the Energy Department and the Corps, and cuts for Reclamation and certain Energy programs such as energy efficiency and renewable energy. It also included policy provisions on Clean Water Act permits, firearms at Corps lands, California water pumping, and nuclear projects in Russia.",
+ "who_it_affects": [
+  {
+   "group": "Farmers and landowners near waterways",
+   "how": "The bill would have barred Corps funds from changing 2012 rules on fill material and Clean Water Act jurisdiction, and would have limited permit requirements for certain agricultural activities."
+  },
+  {
+   "group": "California water users and farmers in the Central Valley",
+   "how": "The bill would have set pumping limits tied to endangered fish species and restricted funds for the San Joaquin River Restoration Settlement Agreement."
+  },
+  {
+   "group": "People who visit Corps of Engineers lakes and water projects",
+   "how": "The bill would have allowed people who are legally permitted to own firearms to carry them at Corps water projects, following the law of the state where each project is located."
+  },
+  {
+   "group": "Workers and communities tied to Energy Department efficiency and renewable energy programs",
+   "how": "The bill would have reduced funding for Energy Efficiency and Renewable Energy and for environmental cleanup programs."
+  },
+  {
+   "group": "Nuclear facility workers and communities near nuclear sites",
+   "how": "The bill would have added independent safety oversight requirements for certain high-hazard nuclear facilities and cleanup projects."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

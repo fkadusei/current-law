@@ -1,0 +1,28 @@
+{
+ "headline": "The JUSTICE Act of 2020 would have changed policing rules, funded state and local grants, and created new federal offenses, but the Senate did not take it up.",
+ "what_it_does": "If adopted, the bill would have provided funding for state and local grants and encouraged states and localities to report on certain police practices. It would also have created new federal offenses for certain police misconduct and set up a commission to study conditions affecting Black men and boys. The bill would have established best practices and training requirements for law enforcement.",
+ "who_it_affects": [
+  {
+   "group": "State and local governments",
+   "how": "They would have been eligible for federal grant funding and would have been encouraged to report data on certain policing practices."
+  },
+  {
+   "group": "Law enforcement officers",
+   "how": "They would have been subject to new federal offenses for certain misconduct and to new best practices and training requirements."
+  },
+  {
+   "group": "Black men and boys",
+   "how": "They would have been the focus of a federal commission studying the conditions that affect them."
+  },
+  {
+   "group": "Members of the public who interact with police",
+   "how": "They would have been affected by changes to policing practices and accountability rules intended to address misconduct."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

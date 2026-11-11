@@ -1,0 +1,28 @@
+{
+ "headline": "A 2019 Senate-rejected bill would have provided emergency funding to federal agencies responding to migrants at the southern border.",
+ "what_it_does": "The bill would have given fiscal year 2019 emergency supplemental money to several federal departments for humanitarian aid and border security. The money would have been labeled emergency spending, which means it would not count against normal discretionary spending limits. It would also have set rules on how certain funds could be used.",
+ "who_it_affects": [
+  {
+   "group": "Migrants crossing the southern border",
+   "how": "They would have received humanitarian assistance funded through agencies such as the Department of Health and Human Services and the Federal Emergency Management Agency."
+  },
+  {
+   "group": "Staff at U.S. Customs and Border Protection and U.S. Immigration and Customs Enforcement",
+   "how": "Their agencies would have received additional emergency funding for border operations."
+  },
+  {
+   "group": "Members of the Army, Marine Corps, Air Force, and Army National Guard",
+   "how": "Their operation and maintenance accounts would have received funding tied to the southern border response."
+  },
+  {
+   "group": "Immigration judges and staff at the Executive Office for Immigration Review",
+   "how": "Their office would have received additional funding to handle its caseload."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

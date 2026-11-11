@@ -1,0 +1,24 @@
+{
+ "headline": "Senate resolution would have let senators consider a group of executive branch and ambassador nominations together in a single vote.",
+ "what_it_does": "This resolution would have allowed the Senate to take up several of the President's nominations as one group instead of one at a time. The nominees were for jobs at the Departments of Defense, Energy, the Interior, and Labor. The group also included ambassadors to Argentina, Greece, Liechtenstein, and Sweden. On September 11, 2025, the Senate refused to take it up or end debate on it, so it did not pass.",
+ "who_it_affects": [
+  {
+   "group": "Nominees for jobs at the Departments of Defense, Energy, the Interior, and Labor",
+   "how": "Their nominations would have been considered together in one group rather than individually."
+  },
+  {
+   "group": "Ambassador nominees to Argentina, Greece, Liechtenstein, and Sweden",
+   "how": "Their nominations would have been taken up as part of the same group."
+  },
+  {
+   "group": "U.S. senators",
+   "how": "They would have handled these nominations together instead of debating and voting on each one separately."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-11"
+}

@@ -1,0 +1,44 @@
+{
+ "headline": "Senate bill would have created a federal right to IVF and other fertility treatments and required many health plans to cover them.",
+ "what_it_does": "The bill would have given people a federal legal right to get fertility treatments like IVF and to make their own decisions about their embryos and other reproductive genetic material. It would have overridden state laws that limit these treatments, including laws requiring medically unnecessary steps or restricting access based on marital status, sex, sexual orientation, or gender identity. The Justice Department, patients, and providers could have sued to enforce these rights. It also would have required coverage of fertility treatments under Medicare, Medicaid, military and veterans health care, and private insurance plans that cover pregnancy care.",
+ "who_it_affects": [
+  {
+   "group": "People seeking fertility treatment, such as IVF",
+   "how": "They would have had a federal right to access treatment and decide what happens to their embryos, and could sue if that right was blocked."
+  },
+  {
+   "group": "Unmarried people and LGBTQ people seeking fertility care",
+   "how": "States could not have limited their access to fertility treatments based on marital status, sex, sexual orientation, or gender identity."
+  },
+  {
+   "group": "Medicare and Medicaid enrollees",
+   "how": "Their programs would have covered fertility treatments."
+  },
+  {
+   "group": "Service members and veterans",
+   "how": "Their military and veterans health benefits would have covered fertility treatments."
+  },
+  {
+   "group": "People with private health insurance",
+   "how": "Plans that cover pregnancy-related care would also have had to cover fertility treatments."
+  },
+  {
+   "group": "Fertility doctors, clinics, and insurers",
+   "how": "They would have had a federal right to provide and cover fertility services, and providers could sue over state limits."
+  },
+  {
+   "group": "Makers of fertility drugs and devices",
+   "how": "They would have had a federal right to provide these products."
+  },
+  {
+   "group": "State governments",
+   "how": "State laws limiting fertility treatments would have been overridden, except evidence-based health and safety rules, and states could have been sued by the Justice Department."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-11"
+}

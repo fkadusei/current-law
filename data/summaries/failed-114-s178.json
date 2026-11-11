@@ -1,0 +1,44 @@
+{
+ "headline": "This 2015 Senate bill would have expanded anti-trafficking penalties, victim services, and related rules, but the Senate did not advance it.",
+ "what_it_does": "If adopted, S. 178 would have added a $5,000 assessment on people convicted of trafficking, sexual abuse, child exploitation, or related smuggling offenses, with the money going to a Domestic Trafficking Victims' Fund for state and local grants. It would also have made it a federal crime to buy or solicit commercial sex acts, banned knowingly advertising minors for sex, and extended the time victims have to sue traffickers. The bill covered many other topics, including missing children alerts, a cyber crimes unit at ICE, military sex offender reporting, and a child custody option for rape survivors in states that adopt one.",
+ "who_it_affects": [
+  {
+   "group": "People convicted of trafficking, sexual abuse, or related offenses",
+   "how": "They would have owed a $5,000 assessment, payable only after all fines, restitution, and victim-related obligations were paid."
+  },
+  {
+   "group": "Human trafficking victims",
+   "how": "U.S. citizens and permanent residents would have been able to get victim benefits without first getting official certification from HHS."
+  },
+  {
+   "group": "People who buy or solicit commercial sex",
+   "how": "They would have faced federal prosecution for buying or soliciting commercial sex acts, treated similarly to traffickers."
+  },
+  {
+   "group": "People who knowingly advertise or profit from ads for minors in commercial sex",
+   "how": "They would have faced new federal crimes for advertising or financially benefiting from such ads."
+  },
+  {
+   "group": "State and local law enforcement agencies",
+   "how": "They could have received block grants and training, and DOJ wiretap authority would have expanded to cover some trafficking investigations."
+  },
+  {
+   "group": "Child protective services workers and state agencies",
+   "how": "States would have had to certify laws requiring reports of child sex trafficking to be assessed and workers to be trained."
+  },
+  {
+   "group": "Military sex offenders",
+   "how": "The Department of Defense would have had to send their registration information to DOJ for the national sex offender registry."
+  },
+  {
+   "group": "States with laws allowing rape survivors to end the parental rights of their rapists",
+   "how": "They would have received increased federal grant funding."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

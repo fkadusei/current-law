@@ -1,0 +1,28 @@
+{
+ "headline": "Senate rejected a resolution that would have ended the national energy emergency the President declared on January 20, 2025.",
+ "what_it_does": "This resolution would have ended the national energy emergency declared in Executive Order 14156. That order says U.S. energy supply and infrastructure are not enough to meet the country's needs. It tells federal agencies to use emergency powers to speed up approval of domestic energy projects and use emergency permitting under some environmental rules. Ending the emergency would have removed the legal basis for those emergency actions, including emergency military construction authority tied to a Defense Department energy review.",
+ "who_it_affects": [
+  {
+   "group": "Energy companies and developers (oil, gas, coal, uranium, biofuels, geothermal, hydropower, and critical minerals)",
+   "how": "They would have lost access to faster, emergency-based federal approvals and permitting for their projects."
+  },
+  {
+   "group": "Federal agencies",
+   "how": "Agencies would no longer have been directed to use emergency powers to speed up energy development and infrastructure."
+  },
+  {
+   "group": "Department of Defense",
+   "how": "It would have lost the emergency military construction authority the order invoked to fix energy supply weaknesses found in its review."
+  },
+  {
+   "group": "Residents of the Northeast, West Coast, and Alaska",
+   "how": "Energy infrastructure projects the order singled out for faster completion in these regions would no longer have been sped up under emergency authority."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-11"
+}

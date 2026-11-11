@@ -1,0 +1,32 @@
+{
+ "headline": "Senate bill S. 2280 would have approved building the Keystone XL oil pipeline and limited certain legal and environmental reviews, but the Senate voted it down on November 18, 2014.",
+ "what_it_does": "The bill would have allowed TransCanada Keystone Pipeline, L.P. to build, connect, operate, and maintain the pipeline and its cross-border facilities described in a 2012 State Department application. It would have treated the State Department's January 2014 final environmental impact statement as fully meeting the National Environmental Policy Act and other laws requiring federal consultation or review, including the Endangered Species Act. Lawsuits over federal actions on the project would have gone directly to the U.S. Court of Appeals for the District of Columbia Circuit. Existing federal permits would have stayed in effect, and private property access rules would not have changed.",
+ "who_it_affects": [
+  {
+   "group": "TransCanada Keystone Pipeline, L.P.",
+   "how": "The company would have been authorized to build and run the pipeline and its cross-border facilities."
+  },
+  {
+   "group": "Groups that might sue over the pipeline",
+   "how": "They would have had to bring challenges directly to one appeals court in Washington, D.C."
+  },
+  {
+   "group": "Federal agencies reviewing the project",
+   "how": "They would have been treated as having completed environmental and consultation requirements based on the 2014 final impact statement."
+  },
+  {
+   "group": "Species protected under the Endangered Species Act",
+   "how": "Endangered Species Act consultation and review requirements for the pipeline would have been deemed satisfied."
+  },
+  {
+   "group": "Private landowners along the pipeline route",
+   "how": "Existing state and local rules for getting access to private property would have remained unchanged."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

@@ -1,0 +1,20 @@
+{
+ "headline": "The House voted this bill down in 2021; it would have required lenders to report credit application data on LGBTQ-owned businesses.",
+ "what_it_does": "The bill would have required financial institutions to report certain credit application data to the Consumer Financial Protection Bureau. The reporting would have covered businesses owned by lesbian, gay, bisexual, transgender, or queer people. The stated purpose would have been enforcing fair lending laws. Under current rules, similar reporting covers women-owned, minority-owned, and small businesses.",
+ "who_it_affects": [
+  {
+   "group": "Financial institutions that make business loans",
+   "how": "They would have had to collect and report credit application data on LGBTQ-owned businesses to the Consumer Financial Protection Bureau."
+  },
+  {
+   "group": "LGBTQ-owned businesses that apply for credit",
+   "how": "Their credit application data would have been included in the required reports to the Consumer Financial Protection Bureau."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

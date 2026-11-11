@@ -1,0 +1,20 @@
+{
+ "headline": "S.J.Res. 36 would have blocked a proposed U.S. arms sale to Saudi Arabia, the United Kingdom, Spain, and Italy, but Congress did not override the President's veto.",
+ "what_it_does": "If adopted, this joint resolution would have prohibited the proposed sale of certain defense articles and related support services to Saudi Arabia, the United Kingdom, Spain, and Italy. The sale was described in Executive Communication 1427, published in the Congressional Record on June 3, 2019. The President vetoed the resolution, and the Senate failed to override that veto on July 29, 2019.",
+ "who_it_affects": [
+  {
+   "group": "Governments of Saudi Arabia, the United Kingdom, Spain, and Italy",
+   "how": "They would not have been able to receive the specific defense items and support services covered by the proposed sale."
+  },
+  {
+   "group": "U.S. defense contractors that would have supplied the covered items",
+   "how": "They would not have been able to complete the proposed sale of those defense articles and related services."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

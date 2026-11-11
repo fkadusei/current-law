@@ -1,0 +1,28 @@
+{
+ "headline": "Would have canceled a labor board rule widening when two companies count as joint employers of the same workers.",
+ "what_it_does": "This resolution would have canceled a National Labor Relations Board rule published on October 27, 2023. That rule sets a test for when two companies both count as the employer of the same workers. Under the rule, a company can be a joint employer if it shares or helps decide workers' key job terms and conditions. Congress passed the resolution, but the President vetoed it and the House failed to override the veto, so the rule was not canceled by this measure.",
+ "who_it_affects": [
+  {
+   "group": "Businesses that use franchisees, contractors, or staffing agencies",
+   "how": "They would no longer have faced the rule's test for being treated as a joint employer of workers hired by those other companies."
+  },
+  {
+   "group": "Workers employed through franchises, contractors, or staffing agencies",
+   "how": "The rule's test for when a second company counts as their employer, which matters for union bargaining and labor law claims, would have been canceled."
+  },
+  {
+   "group": "Labor unions",
+   "how": "They would not have been able to use the rule's joint employer test when seeking to bargain with or bring labor claims against a second company."
+  },
+  {
+   "group": "National Labor Relations Board",
+   "how": "The board would have been barred from enforcing this rule and from issuing a substantially similar rule without new approval from Congress."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-11"
+}

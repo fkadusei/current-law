@@ -1,0 +1,32 @@
+{
+ "headline": "The House voted down H.R. 6782, which would have required the Small Business Administration to publish details about COVID-19 small business relief loans and grants.",
+ "what_it_does": "If adopted, the bill would have required the SBA to make public information about COVID-19 economic relief for the Paycheck Protection Program, economic injury disaster loans, and emergency grants. The SBA would have had to publish who received aid and how the decisions were made, plus the number of employees at each recipient and the disbursement date. It would also have had to name each lender or intermediary that delivered the aid and report how much went to businesses owned by socially and economically disadvantaged individuals, women, and veterans.",
+ "who_it_affects": [
+  {
+   "group": "Small businesses that received PPP loans, EIDL loans, or emergency grants",
+   "how": "Their names, employee counts, and award dates would have been published by the SBA."
+  },
+  {
+   "group": "Small businesses owned by socially and economically disadvantaged individuals, women, and veterans",
+   "how": "The total aid disbursed to businesses in these groups would have been reported publicly."
+  },
+  {
+   "group": "Lenders and intermediaries that distributed COVID-19 relief",
+   "how": "Their names would have been published as the channels through which aid was paid out."
+  },
+  {
+   "group": "The Small Business Administration",
+   "how": "The agency would have been required to collect and publish this information about the relief programs."
+  },
+  {
+   "group": "Members of the public and researchers who track federal COVID-19 spending",
+   "how": "They would have gained access to recipient-level data on these relief programs."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

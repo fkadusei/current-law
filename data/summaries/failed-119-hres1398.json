@@ -1,0 +1,24 @@
+{
+ "headline": "This House procedural resolution would have set floor rules for three bills and one commemorative resolution, but the House voted it down on June 30, 2026.",
+ "what_it_does": "This resolution would have set the rules for House floor debate on three bills and one resolution. The bills covered defense authorization for fiscal year 2027, national security and State Department appropriations for fiscal year 2027, and reauthorization of a Social Security disability insurance demonstration program. It would also have set rules for a resolution marking one year since the Working Families Tax Cuts became law. The summary does not describe what the underlying bills contain, so this description covers only the procedural step.",
+ "who_it_affects": [
+  {
+   "group": "Members of the House of Representatives",
+   "how": "It would have set the time limits and debate rules that govern how the House considered the four measures on the floor."
+  },
+  {
+   "group": "People who receive Social Security disability insurance benefits",
+   "how": "Indirectly, it would have cleared the way for House consideration of a bill to reauthorize a disability insurance demonstration program."
+  },
+  {
+   "group": "Military service members and Department of Defense employees",
+   "how": "Indirectly, it would have cleared the way for House consideration of a bill setting fiscal year 2027 defense authorization and military personnel levels."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

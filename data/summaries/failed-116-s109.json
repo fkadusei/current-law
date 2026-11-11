@@ -1,0 +1,32 @@
+{
+ "headline": "S. 109 would have permanently barred federal funds for most abortions and banned abortion coverage in qualified health plans, but the Senate did not advance it in January 2019.",
+ "what_it_does": "The bill would have made permanent the Hyde Amendment's limits on federal funding for abortions and extended them to all federal funds, including the District of Columbia budget. It would also have barred abortions in federal health care facilities and by federal employees. Qualified health plans would have been prohibited from covering abortions. The bill would have kept exceptions for rape, incest, and cases where a physical condition endangers a woman's life.",
+ "who_it_affects": [
+  {
+   "group": "Women who need or seek abortions and rely on federal funds or federal health programs",
+   "how": "They would not have been able to use federal money to pay for most abortions, except in the listed exceptions."
+  },
+  {
+   "group": "People who buy health insurance through qualified health plans",
+   "how": "Plans sold in this market would not have been allowed to cover abortions."
+  },
+  {
+   "group": "Federal employees",
+   "how": "They would have been barred from providing abortions as part of their federal work."
+  },
+  {
+   "group": "People who receive care at federal health care facilities",
+   "how": "Abortions would not have been available at those facilities, except in the listed exceptions."
+  },
+  {
+   "group": "Washington, D.C. residents and the District government",
+   "how": "Local budget funds would have been subject to the same limits on paying for abortions."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

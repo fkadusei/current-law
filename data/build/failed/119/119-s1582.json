@@ -1,0 +1,904 @@
+{
+ "id": "119-s1582",
+ "congress": 119,
+ "bill": "S. 1582",
+ "bill_type": "S",
+ "title": "GENIUS Act",
+ "policy_area": "Finance and Financial Sector",
+ "sponsor": "Sen. Hagerty, Bill [R-TN]",
+ "latest_action": {
+  "actionDate": "2025-07-18",
+  "text": "Became Public Law No: 119-27."
+ },
+ "official_summary": "<p><strong>Guiding and Establishing National Innovation for U.S. Stablecoins Act or the GENIUS Act</strong></p><p>This act establishes a regulatory framework for payment&nbsp;stablecoins (digital assets which an issuer must redeem for a fixed value).</p><p>Under the act, only permitted issuers may issue a payment stablecoin for use by U.S. persons, subject to certain exceptions and safe harbors. Permitted issuers must be a subsidiary of an insured depository institution, a federal-qualified nonbank payment stablecoin issuer, or a state-qualified payment stablecoin issuer. Permitted issuers must be regulated by the appropriate federal or state regulator. Permitted issuers may choose federal or state regulation; however, state regulation is limited to those with a stablecoin issuance of $10 billion or less.</p><p>Permitted issuers must maintain reserves backing the stablecoin on a one-to-one basis using U.S. currency or other similarly liquid assets, as specified. Permitted issuers must also publicly disclose their redemption policy and publish monthly the details of their reserves.</p><p>The act specifies requirements for (1) reusing reserves; (2) providing safekeeping services for stablecoins; and (3) supervisory, examination, and enforcement authority over federal-qualified issuers.</p><p>The act allows foreign issuers of stablecoins to offer, sell, or make available in the United States stablecoins using digital asset service providers, subject to requirements, including a determination by the Department of Treasury that they are subject to comparable foreign regulations.</p><p>Under the act, permitted payment stablecoins are not considered securities or commodities under law. However, permitted issuers are subject to the Bank Secrecy Act for anti-money laundering and related purposes.</p><p>(Sec. 3) This section establishes that only payment&nbsp;stablecoin issuers permitted under this act are allowed to issue a payment stablecoin in the United States. Knowing violations of this requirement shall be subject to a fine of up to $1 million for each violation, up to 5 years imprisonment, or both.&nbsp;Treasury may issue regulations establishing limited safe harbors from this requirement that are consistent with the act's purposes, limited in scope, and apply to a de&nbsp;minimus volume of transactions.&nbsp;</p><p>Three years after the date of enactment, digital asset service providers are prohibited from offering or selling&nbsp;stablecoins that are not issued by permitted issuers. Providers are also prohibited from offering, selling, or otherwise making available in the United States a foreign-issued payment stablecoin, unless it complies with requirements provided in section 18 of the act.</p><p>(Sec. 4) This section establishes requirements for permitted issuers. Issuers must maintain reserves on a one-to-one basis. Reserves must be comprised of</p><ul><li>U.S. coins and currency;</li><li>demand deposits or shares at an insured depository institution;</li><li>certain Treasury acts, notes, or bonds;</li><li>money received under certain repurchase agreements or reverse repurchase agreements;</li><li>certain investment company securities and money market funds invested in certain approved assets on this list;</li><li>similarly liquid federal assets approved by regulators; or</li><li>certain listed reserves in tokenized forms.&nbsp;</li></ul><p>Issuers must comply with redemption requirements, such as establishing timely redemption procedures&nbsp;and disclosing such procedures and associated fees. Issuers must also report on the monthly composition of the issuer's reserves. These reports must be examined by a registered public accounting firm and certified by the chief executive officer and chief financial officer of the issuer.</p><p>The section prohibits the&nbsp;rehypothecation, or reuse, of reserves with limited exceptions.</p><p>Primary federal payment&nbsp;stablecoin regulators (federal regulators) and state payment stablecoin regulators (state regulators), where applicable, must issue regulations to implement capital requirements, liquidity reserve standards, reserve asset diversification standards, and risk management standards.</p><p>Issuers are subject to the anti-money laundering and&nbsp;counterterrorism requirements that are applicable to financial institutions.</p><p>The section sets forth requirements regarding activities of a permitted issuer, including by prohibiting issuers from providing services on the condition that a customer obtains an additional paid product or service from the issuer or a subsidiary.</p><p>Large issuers (those with more than $50 billion in consolidated total outstanding issuance) must publish an audited annual financial statement in accordance with generally accepted accounting principles.</p><p>The section prohibits a public nonfinancial services company from issuing payment stablecoins unless the company obtains unanimous approval from the Stablecoin Certification Review Committee.</p><p>A state qualified payment&nbsp;stablecoin issuer with a consolidated total outstanding issuance of not more than $10 billion may opt for state regulation if such regulation is substantially similar to the federal regulatory framework under this act. If the issuance exceeds that amount, the issuer must transition to federal regulation, receive a waiver from the federal regulator to remain under state regulation, or stop issuing&nbsp;stablecoins until the issuance is under the threshold.</p><p>(Sec. 5) This section establishes requirements for stablecoins issued by&nbsp;subsidiaries of insured depository institutions and certain entities chartered by the Office of the Comptroller of the Currency (OCC) to issue payment&nbsp;stablecoins. Federal regulators must establish an application process and a supervision framework for such entities.</p><p>The section sets forth requirements for the review of applications, explanations for denials, and an appeals process.</p><p>(Sec. 6) This section sets forth supervision, examination, and enforcement requirements for payment stablecoin issuers under federal supervision. The provisions include reporting on financial conditions, risk management, compliance with the act, and compliance with sanctions and anti-money laundering requirements. The section specifies that payment stablecoin issuers with less than $10 billion in consolidated total outstanding issuance are subject to federal supervision if they are not&nbsp;state qualified payment&nbsp;stablecoin issuers.</p><p>The section establishes civil penalties&nbsp;for violations of this act that are committed by those subject to federal supervision.</p><p>(Sec. 7) This section establishes state regulatory authority over issuers that qualify for and elect state regulation. The Federal Reserve Board may exercise enforcement authority over state issuers in unusual and exigent circumstances. The OCC must exercise enforcement authority over nonbank state issuers in these circumstances.</p><p>(Sec. 8) This section requires foreign issuers to comply with the terms of lawful orders to be allowed to offer, sell, or make available for trading a payment&nbsp;stablecoin in the United States. The section sets forth enforcement and appeal provisions. Treasury may waive the prohibition against the secondary trading of foreign payment&nbsp;stablecoins in the United States from noncompliant foreign issuers on a case-by-case basis if certain criteria are met.</p><p>(Sec. 9) Treasury must seek public comment regarding methods, techniques, or strategies for financial institutions to detect illicit activities involving digital assets and perform research and risk assessments on such methods, techniques, or strategies. Treasury must report their legislative recommendations to Congress and the Financial Crimes Enforcement Network must issue rules based on the results.</p><p>(Sec. 10) This section establishes requirements for custodial or safekeeping services for payment&nbsp;stablecoin reserves, collateral, and the private keys used to issue stablecoins. Among other requirements, such property must be separately accounted for and not comingled with other assets of the custodian.</p><p>(Sec. 11) This section addresses the treatment of payment stablecoins and stablecoin issuers in bankruptcy and insolvency proceedings, including their claim priority, conditions for an automatic stay, and the treatment of reserves as property of the estate.</p><p>Federal regulators must also report on topics regarding potential insolvency proceedings of issuers.</p><p>(Sec. 12) Federal regulators may, if determined necessary after an assessment, prescribe technical standards for issuers to promote compatibility and interoperability with other issuers and the broader digital finance system.</p><p>(Sec. 13) This section requires regulators to issue regulations to carry out the act, with federal and state regulators and Treasury coordinating as appropriate.</p><p>(Sec. 14) This section requires Treasury to study and report on nonpayment stablecoins, including endogenously collateralized payment stablecoins (a digital asset the originator of which has represented will be converted, redeemed, or repurchased for a fixed amount of monetary value and that relies solely on the value of another digital asset created or maintained by the same originator to maintain the fixed price).</p><p>(Sec. 15) This section requires federal regulators to annually report on payment&nbsp;stablecoin activity trends, the number of payment stablecoin issuer applicants, and the potential financial stability risks to the safety and soundness of the broader financial system posed by payment&nbsp;stablecoin activities.</p><p>(Sec. 16) This section defines authorities related to the act, such as by providing that the act does not limit the authority of a depository institution, credit union, national bank, or trust company to issue digital assets to represent deposits or shares.</p><p>Federal financial regulators may not require a financial institution to include certain digital assets held in its custody as a liability on financial statements or balance sheets.</p><p>(Sec. 17) This section establishes that payment stablecoins issued by permitted issuers are not securities or commodities under federal law.</p><p>(Sec. 18) This section provides an exception to the act's prohibition on foreign-issued payment stablecoins. For the exception to apply, foreign issuers must be subject to regulation and supervision by a foreign country that is comparable to the requirements under this act, as determined by Treasury. The foreign issuer must also be registered with the OCC, hold sufficient reserves in a U.S. financial institution (subject to exceptions), and the country where the issuer is domiciled must not be subject to U.S. sanctions.</p><p>The section sets forth requirements for Treasury's determination as to whether a foreign country has comparable regulatory and supervisory requirements, including the process of requesting a determination, the deadline for Treasury to render a decision, and the process by which Treasury may rescind a previous determination.</p><p>The section also sets forth OCC registration requirements.</p><p>Treasury may implement reciprocal or bilateral agreements between the United States and jurisdictions with comparable regulatory requirements.</p><p>(Sec. 19) This section requires certain federal employees to disclose holdings over $5,000 of permitted payment&nbsp;stablecoins as part of required financial disclosures.</p><p>(Sec. 20) The act takes effect on the earlier of (1) 18 months after the date of enactment, or (2) 120 days after federal regulators issue final regulations implementing the act.&nbsp;</p>",
+ "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/1582",
+ "failed_on": "2025-05-08",
+ "kind": "blocked",
+ "chamber": "Senate",
+ "later_became_law": {
+  "id": "pl-119-27",
+  "public_law": "119-27"
+ },
+ "votes": [
+  {
+   "chamber": "Senate",
+   "roll": 240,
+   "date": "2025-05-08",
+   "kind": "blocked",
+   "question": "On the Cloture Motion",
+   "result": "Cloture Motion Rejected",
+   "required": "3/5",
+   "yea": 48,
+   "nay": 49,
+   "support": "yea",
+   "by_party": {
+    "R": {
+     "yea": 48,
+     "not voting": 2,
+     "nay": 3
+    },
+    "D": {
+     "nay": 44,
+     "not voting": 1
+    },
+    "I": {
+     "nay": 2
+    }
+   },
+   "majority_party": "R",
+   "members": [
+    {
+     "icpsr": "14226",
+     "bioguide": "G000386",
+     "name": "GRASSLEY, Charles Ernest",
+     "party": "R",
+     "state": "IA",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "14435",
+     "bioguide": "M000133",
+     "name": "MARKEY, Edward John",
+     "party": "D",
+     "state": "MA",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "14858",
+     "bioguide": "S000148",
+     "name": "SCHUMER, Charles Ellis (Chuck)",
+     "party": "D",
+     "state": "NY",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "14871",
+     "bioguide": "W000779",
+     "name": "WYDEN, Ronald Lee",
+     "party": "D",
+     "state": "OR",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "14921",
+     "bioguide": "M000355",
+     "name": "MCCONNELL, Addison Mitchell (Mitch)",
+     "party": "R",
+     "state": "KY",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "15021",
+     "bioguide": "D000563",
+     "name": "DURBIN, Richard Joseph",
+     "party": "D",
+     "state": "IL",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "20101",
+     "bioguide": "B001236",
+     "name": "BOOZMAN, John",
+     "party": "R",
+     "state": "AR",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20104",
+     "bioguide": "S001150",
+     "name": "SCHIFF, Adam",
+     "party": "D",
+     "state": "CA",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "20146",
+     "bioguide": "C001047",
+     "name": "CAPITO, Shelley Moore",
+     "party": "R",
+     "state": "WV",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20330",
+     "bioguide": "V000128",
+     "name": "VAN HOLLEN, Christopher",
+     "party": "D",
+     "state": "MD",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "20351",
+     "bioguide": "B001243",
+     "name": "BLACKBURN, Marsha",
+     "party": "R",
+     "state": "TN",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20707",
+     "bioguide": "M001169",
+     "name": "MURPHY, Christopher",
+     "party": "D",
+     "state": "CT",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "20713",
+     "bioguide": "H001042",
+     "name": "HIRONO, Mazie",
+     "party": "D",
+     "state": "HI",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "20735",
+     "bioguide": "G000555",
+     "name": "GILLIBRAND, Kirsten",
+     "party": "D",
+     "state": "NY",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "20750",
+     "bioguide": "W000800",
+     "name": "WELCH, Peter",
+     "party": "D",
+     "state": "VT",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "20919",
+     "bioguide": "C001075",
+     "name": "CASSIDY, Bill",
+     "party": "R",
+     "state": "LA",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20923",
+     "bioguide": "P000595",
+     "name": "PETERS, Gary C.",
+     "party": "D",
+     "state": "MI",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "20930",
+     "bioguide": "H001046",
+     "name": "HEINRICH, Martin",
+     "party": "D",
+     "state": "NM",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "20932",
+     "bioguide": "L000570",
+     "name": "LUJÁN, Ben Ray",
+     "party": "D",
+     "state": "NM",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "20953",
+     "bioguide": "L000571",
+     "name": "LUMMIS, Cynthia M.",
+     "party": "R",
+     "state": "WY",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21133",
+     "bioguide": "Y000064",
+     "name": "YOUNG, Todd",
+     "party": "R",
+     "state": "IN",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21166",
+     "bioguide": "L000575",
+     "name": "LANKFORD, James",
+     "party": "R",
+     "state": "OK",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21173",
+     "bioguide": "S001184",
+     "name": "SCOTT, Tim",
+     "party": "R",
+     "state": "SC",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21301",
+     "bioguide": "C001095",
+     "name": "COTTON, Thomas Bryant (Tom)",
+     "party": "R",
+     "state": "AR",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21325",
+     "bioguide": "D000622",
+     "name": "DUCKWORTH, Tammy",
+     "party": "D",
+     "state": "IL",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "21338",
+     "bioguide": "D000618",
+     "name": "DAINES, Steve",
+     "party": "R",
+     "state": "MT",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21350",
+     "bioguide": "C001096",
+     "name": "CRAMER, Kevin",
+     "party": "R",
+     "state": "ND",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21355",
+     "bioguide": "M001190",
+     "name": "MULLIN, Markwayne",
+     "party": "R",
+     "state": "OK",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21502",
+     "bioguide": "G000574",
+     "name": "GALLEGO, Ruben",
+     "party": "D",
+     "state": "AZ",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "21702",
+     "bioguide": "B001299",
+     "name": "BANKS, James E.",
+     "party": "R",
+     "state": "IN",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21706",
+     "bioguide": "B001303",
+     "name": "BLUNT ROCHESTER, Lisa",
+     "party": "D",
+     "state": "DE",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "21708",
+     "bioguide": "B001305",
+     "name": "BUDD, Theodore Paul",
+     "party": "R",
+     "state": "NC",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21734",
+     "bioguide": "M001198",
+     "name": "MARSHALL, Roger Wayne",
+     "party": "R",
+     "state": "KS",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21743",
+     "bioguide": "R000608",
+     "name": "ROSEN, Jacklyn Sheryl",
+     "party": "D",
+     "state": "NV",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "21755",
+     "bioguide": "C001114",
+     "name": "CURTIS, John R.",
+     "party": "R",
+     "state": "UT",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21937",
+     "bioguide": "K000394",
+     "name": "KIM, Andy",
+     "party": "D",
+     "state": "NJ",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "21965",
+     "bioguide": "S001208",
+     "name": "SLOTKIN, Elissa",
+     "party": "D",
+     "state": "MI",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "29142",
+     "bioguide": "R000122",
+     "name": "REED, John F. (Jack)",
+     "party": "D",
+     "state": "RI",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "29147",
+     "bioguide": "S000033",
+     "name": "SANDERS, Bernard",
+     "party": "I",
+     "state": "VT",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "29345",
+     "bioguide": "C000880",
+     "name": "CRAPO, Michael Dean",
+     "party": "R",
+     "state": "ID",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29534",
+     "bioguide": "W000437",
+     "name": "WICKER, Roger F.",
+     "party": "R",
+     "state": "MS",
+     "vote": "not voting"
+    },
+    {
+     "icpsr": "29566",
+     "bioguide": "G000359",
+     "name": "GRAHAM, Lindsey O.",
+     "party": "R",
+     "state": "SC",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29722",
+     "bioguide": "M000934",
+     "name": "MORAN, Jerry",
+     "party": "R",
+     "state": "KS",
+     "vote": "not voting"
+    },
+    {
+     "icpsr": "29754",
+     "bioguide": "T000250",
+     "name": "THUNE, John",
+     "party": "R",
+     "state": "SD",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "29940",
+     "bioguide": "B001230",
+     "name": "BALDWIN, Tammy",
+     "party": "D",
+     "state": "WI",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "39310",
+     "bioguide": "C000127",
+     "name": "CANTWELL, Maria E.",
+     "party": "D",
+     "state": "WA",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "40300",
+     "bioguide": "M001153",
+     "name": "MURKOWSKI, Lisa",
+     "party": "R",
+     "state": "AK",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "40305",
+     "bioguide": "C001056",
+     "name": "CORNYN, John",
+     "party": "R",
+     "state": "TX",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "40700",
+     "bioguide": "K000367",
+     "name": "KLOBUCHAR, Amy",
+     "party": "D",
+     "state": "MN",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "40704",
+     "bioguide": "W000802",
+     "name": "WHITEHOUSE, Sheldon",
+     "party": "D",
+     "state": "RI",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "40707",
+     "bioguide": "B001261",
+     "name": "BARRASSO, John A.",
+     "party": "R",
+     "state": "WY",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "40902",
+     "bioguide": "R000584",
+     "name": "RISCH, James",
+     "party": "R",
+     "state": "ID",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "40906",
+     "bioguide": "S001181",
+     "name": "SHAHEEN, Jeanne",
+     "party": "D",
+     "state": "NH",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "40908",
+     "bioguide": "M001176",
+     "name": "MERKLEY, Jeff",
+     "party": "D",
+     "state": "OR",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "40909",
+     "bioguide": "W000805",
+     "name": "WARNER, Mark R.",
+     "party": "D",
+     "state": "VA",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "40910",
+     "bioguide": "B001267",
+     "name": "BENNET, Michael F.",
+     "party": "D",
+     "state": "CO",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "40916",
+     "bioguide": "C001088",
+     "name": "COONS, Christopher A.",
+     "party": "D",
+     "state": "DE",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41101",
+     "bioguide": "B001277",
+     "name": "BLUMENTHAL, Richard",
+     "party": "D",
+     "state": "CT",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41104",
+     "bioguide": "P000603",
+     "name": "PAUL, Rand",
+     "party": "R",
+     "state": "KY",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41107",
+     "bioguide": "H001061",
+     "name": "HOEVEN, John",
+     "party": "R",
+     "state": "ND",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "41110",
+     "bioguide": "L000577",
+     "name": "LEE, Mike",
+     "party": "R",
+     "state": "UT",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "41111",
+     "bioguide": "J000293",
+     "name": "JOHNSON, Ron",
+     "party": "R",
+     "state": "WI",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "41112",
+     "bioguide": "S001194",
+     "name": "SCHATZ, Brian Emanuel",
+     "party": "D",
+     "state": "HI",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41300",
+     "bioguide": "K000383",
+     "name": "KING, Angus Stanley, Jr.",
+     "party": "I",
+     "state": "ME",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41301",
+     "bioguide": "W000817",
+     "name": "WARREN, Elizabeth",
+     "party": "D",
+     "state": "MA",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41302",
+     "bioguide": "F000463",
+     "name": "FISCHER, Debra (Deb)",
+     "party": "R",
+     "state": "NE",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "41304",
+     "bioguide": "C001098",
+     "name": "CRUZ, Rafael Edward (Ted)",
+     "party": "R",
+     "state": "TX",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "41305",
+     "bioguide": "K000384",
+     "name": "KAINE, Timothy Michael (Tim)",
+     "party": "D",
+     "state": "VA",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41308",
+     "bioguide": "B001288",
+     "name": "BOOKER, Cory Anthony",
+     "party": "D",
+     "state": "NJ",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41500",
+     "bioguide": "S001198",
+     "name": "SULLIVAN, Daniel Scott",
+     "party": "R",
+     "state": "AK",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "41502",
+     "bioguide": "E000295",
+     "name": "ERNST, Joni",
+     "party": "R",
+     "state": "IA",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "41504",
+     "bioguide": "T000476",
+     "name": "TILLIS, Thomas Roland (Thom)",
+     "party": "R",
+     "state": "NC",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "41505",
+     "bioguide": "R000605",
+     "name": "ROUNDS, Marion Michael (Mike)",
+     "party": "R",
+     "state": "SD",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "41700",
+     "bioguide": "C001113",
+     "name": "CORTEZ MASTO, Catherine Marie",
+     "party": "D",
+     "state": "NV",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41702",
+     "bioguide": "H001076",
+     "name": "HASSAN, Margaret Wood (Maggie)",
+     "party": "D",
+     "state": "NH",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41703",
+     "bioguide": "K000393",
+     "name": "KENNEDY, John Neely",
+     "party": "R",
+     "state": "LA",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "41706",
+     "bioguide": "S001203",
+     "name": "SMITH, Tina",
+     "party": "D",
+     "state": "MN",
+     "vote": "not voting"
+    },
+    {
+     "icpsr": "41707",
+     "bioguide": "H001079",
+     "name": "HYDE-SMITH, Cindy",
+     "party": "R",
+     "state": "MS",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "41901",
+     "bioguide": "H001089",
+     "name": "HAWLEY, Joshua David",
+     "party": "R",
+     "state": "MO",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41903",
+     "bioguide": "S001217",
+     "name": "SCOTT, Richard Lynn (Rick)",
+     "party": "R",
+     "state": "FL",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "41905",
+     "bioguide": "K000377",
+     "name": "KELLY, Mark Edward",
+     "party": "D",
+     "state": "AZ",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "42100",
+     "bioguide": "H000601",
+     "name": "HAGERTY, William Francis (Bill)",
+     "party": "R",
+     "state": "TN",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "42101",
+     "bioguide": "H000273",
+     "name": "HICKENLOOPER, John Wright",
+     "party": "D",
+     "state": "CO",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "42102",
+     "bioguide": "T000278",
+     "name": "TUBERVILLE, Thomas Hawley (Tommy)",
+     "party": "R",
+     "state": "AL",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "42103",
+     "bioguide": "O000174",
+     "name": "OSSOFF, Thomas Jonathan (Jon)",
+     "party": "D",
+     "state": "GA",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "42104",
+     "bioguide": "P000145",
+     "name": "PADILLA, Alejandro (Alex)",
+     "party": "D",
+     "state": "CA",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "42105",
+     "bioguide": "W000790",
+     "name": "WARNOCK, Raphael Gamaliel",
+     "party": "D",
+     "state": "GA",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "42300",
+     "bioguide": "B001319",
+     "name": "BRITT, Katie Elizabeth",
+     "party": "R",
+     "state": "AL",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "42301",
+     "bioguide": "F000479",
+     "name": "FETTERMAN, John Karl",
+     "party": "D",
+     "state": "PA",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "42302",
+     "bioguide": "R000618",
+     "name": "RICKETTS, John Peter (Pete)",
+     "party": "R",
+     "state": "NE",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "42303",
+     "bioguide": "S001227",
+     "name": "SCHMITT, Eric Stephen",
+     "party": "R",
+     "state": "MO",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "42500",
+     "bioguide": "A000382",
+     "name": "ALSOBROOKS, Angela Deneece",
+     "party": "D",
+     "state": "MD",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "42501",
+     "bioguide": "M001243",
+     "name": "MCCORMICK, David Harold",
+     "party": "R",
+     "state": "PA",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "42502",
+     "bioguide": "M001242",
+     "name": "MORENO, Bernardo (Bernie)",
+     "party": "R",
+     "state": "OH",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "42503",
+     "bioguide": "S001232",
+     "name": "SHEEHY, Timothy Patrick",
+     "party": "R",
+     "state": "MT",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "42504",
+     "bioguide": "J000312",
+     "name": "JUSTICE, James Conley, II",
+     "party": "R",
+     "state": "WV",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "42505",
+     "bioguide": "H001104",
+     "name": "HUSTED, Jon Allen",
+     "party": "R",
+     "state": "OH",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "42506",
+     "bioguide": "M001244",
+     "name": "MOODY, Ashley Brooke",
+     "party": "R",
+     "state": "FL",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "49308",
+     "bioguide": "M001111",
+     "name": "MURRAY, Patty",
+     "party": "D",
+     "state": "WA",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "49703",
+     "bioguide": "C001035",
+     "name": "COLLINS, Susan Margaret",
+     "party": "R",
+     "state": "ME",
+     "vote": "yea"
+    }
+   ]
+  }
+ ],
+ "support_color": {
+  "side": "R",
+  "share": 1.0,
+  "r_support": 48,
+  "d_support": 0,
+  "shade": 1.0,
+  "party_line": "R"
+ },
+ "control": {
+  "Senate": "R"
+ },
+ "summary": {
+  "headline": "Senate blocked a bill that would have set federal rules for companies issuing payment stablecoins, a type of digital currency tied to a fixed value.",
+  "what_it_does": "The bill would have allowed only approved companies to issue payment stablecoins for people in the U.S., with fines up to $1 million and up to 5 years in prison for knowing violations. Issuers would have had to back each coin one-to-one with U.S. dollars or similar safe assets, publish monthly reserve reports, and disclose how people can cash out their coins. Smaller issuers (up to $10 billion) could choose state oversight instead of federal oversight. Approved stablecoins would not have been treated as securities or commodities, but issuers would have had to follow anti-money laundering rules.",
+  "who_it_affects": [
+   {
+    "group": "Companies that issue stablecoins",
+    "how": "They would have needed federal or state approval, full one-to-one reserves, monthly public reserve reports, and anti-money laundering programs."
+   },
+   {
+    "group": "People who buy, hold, or use stablecoins",
+    "how": "They would have gotten required public disclosures on reserves and redemption, and certain priority for their claims if an issuer went bankrupt."
+   },
+   {
+    "group": "Crypto exchanges and other digital asset service providers",
+    "how": "Three years after enactment, they would have been barred from offering stablecoins not issued by approved issuers or by foreign issuers that meet the bill's requirements."
+   },
+   {
+    "group": "Banks and credit unions",
+    "how": "Their subsidiaries could have applied to issue stablecoins under federal supervision."
+   },
+   {
+    "group": "Foreign stablecoin issuers",
+    "how": "They could have sold stablecoins in the U.S. only if Treasury found their home country's rules comparable, they registered with the OCC, and they held enough reserves in U.S. institutions."
+   },
+   {
+    "group": "Large public companies outside the financial industry",
+    "how": "They would have been barred from issuing stablecoins unless a federal review committee unanimously approved."
+   },
+   {
+    "group": "Certain federal employees",
+    "how": "They would have had to report holdings of approved stablecoins worth more than $5,000 on their financial disclosure forms."
+   }
+  ],
+  "when_it_takes_effect": "Did not take effect",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-11"
+ }
+}

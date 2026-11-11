@@ -1,0 +1,40 @@
+{
+ "headline": "Failed House bill would have set 2024 funding for the Agriculture Department, the FDA, nutrition programs, and related agencies.",
+ "what_it_does": "This bill would have provided money for fiscal year 2024 to the U.S. Department of Agriculture, the Food and Drug Administration, and several related agencies. It would have funded farm, conservation, crop insurance, rural housing and utilities, food safety, and nutrition programs such as SNAP, WIC, and school meals. It would also have funded international food aid, the Commodity Futures Trading Commission, and the Farm Credit Administration, and set rules on how the money could be used. The House voted it down on September 28, 2023.",
+ "who_it_affects": [
+  {
+   "group": "Farmers and ranchers",
+   "how": "The bill would have set funding for farm loans, crop insurance, conservation help, and research programs they use."
+  },
+  {
+   "group": "People who get SNAP or WIC benefits",
+   "how": "The bill would have set funding for these food assistance programs for the 2024 budget year."
+  },
+  {
+   "group": "Schoolchildren and families using school meal programs",
+   "how": "The bill would have funded child nutrition programs such as school lunches and breakfasts."
+  },
+  {
+   "group": "People living in rural areas",
+   "how": "The bill would have funded rural housing, business, and utility programs such as water and broadband help."
+  },
+  {
+   "group": "Consumers of food and medicine",
+   "how": "The bill would have funded the FDA and USDA meat and poultry inspection, which oversee the safety of food and drugs."
+  },
+  {
+   "group": "Hungry children and families overseas",
+   "how": "The bill would have funded Food for Peace and McGovern-Dole international food aid and school meal grants."
+  },
+  {
+   "group": "Traders in futures markets and farm lenders",
+   "how": "The bill would have funded the agencies that oversee futures trading and the Farm Credit System."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-11"
+}

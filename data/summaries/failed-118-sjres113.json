@@ -1,0 +1,20 @@
+{
+ "headline": "Senate declines to take up a resolution that would have blocked a proposed U.S. military sale to Israel.",
+ "what_it_does": "This joint resolution would have let Congress formally reject a proposed sale of certain U.S. weapons and defense services to the government of Israel. If adopted and signed into law, it would have stopped that specific sale from going forward. No official summary is available, and the title does not list which weapons were involved. On November 20, 2024, the Senate voted not to take up the resolution, so the sale was not blocked.",
+ "who_it_affects": [
+  {
+   "group": "Government of Israel",
+   "how": "Israel would not have received the specific defense items and services covered by the proposed sale."
+  },
+  {
+   "group": "U.S. companies that make the defense items in the sale",
+   "how": "These companies would have lost the business from this particular sale."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-11"
+}

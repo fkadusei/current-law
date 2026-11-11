@@ -1,0 +1,28 @@
+{
+ "headline": "Failed House resolution would have directed the President to remove U.S. troops from hostilities with Iran unless Congress authorized them.",
+ "what_it_does": "This resolution would have directed the President, under the War Powers Resolution, to remove U.S. Armed Forces from hostilities against Iran. Troops could have stayed involved only if Congress declared war or passed a specific authorization for military force against Iran. Forces needed to defend the United States, an ally, or a partner from an imminent attack would not have been covered, as long as the President followed the War Powers Resolution's rule that generally limits such action to 60 days without congressional approval. The House voted it down on April 16, 2026.",
+ "who_it_affects": [
+  {
+   "group": "Members of the U.S. Armed Forces",
+   "how": "Service members taking part in hostilities against Iran would have been withdrawn unless Congress authorized their involvement."
+  },
+  {
+   "group": "The President",
+   "how": "The President would have been required to end U.S. military involvement in hostilities with Iran without approval from Congress, except for defense against imminent attacks."
+  },
+  {
+   "group": "Congress",
+   "how": "Congress would have kept the deciding role on whether U.S. forces could continue hostilities against Iran through a declaration of war or a use-of-force authorization."
+  },
+  {
+   "group": "U.S. allies and partners",
+   "how": "U.S. forces could still have defended them from imminent attack, subject to the War Powers Resolution's time limits."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-11"
+}

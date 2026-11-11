@@ -1,0 +1,28 @@
+{
+ "headline": "S. 2146 would have cut certain federal grants to places with sanctuary policies and made illegal reentry by deported immigrants punishable by longer prison terms.",
+ "what_it_does": "The bill would have barred sanctuary jurisdictions, meaning states or localities that limit sharing immigration status information or refuse to honor certain federal detainer requests, from getting grants under three programs: State Criminal Alien Assistance, Community Oriented Policing Services, and Community Development Block Grant. Local governments that complied with a detainer would have been treated as agents of the Department of Homeland Security and shielded from liability for actions that followed the detainer. The bill also would have raised the maximum prison term for an immigrant who reenters after removal from two years to five years, set a 10-year maximum for those with three or more prior removals, and created a five-year mandatory minimum for reentry after an aggravated felony conviction or two or more prior illegal reentry convictions.",
+ "who_it_affects": [
+  {
+   "group": "State and local governments with sanctuary policies",
+   "how": "They would have lost federal grant funding under three programs once the Justice and Homeland Security departments named them as sanctuary jurisdictions."
+  },
+  {
+   "group": "Local police and sheriff's offices",
+   "how": "Agencies that honored immigration detainer requests would have been treated as agents of Homeland Security and protected from liability for those actions."
+  },
+  {
+   "group": "Community Development Block Grant and COPS grant recipients",
+   "how": "Localities that adopted restricted information-sharing or detainer policies would have been ineligible for these grants."
+  },
+  {
+   "group": "Immigrants who have been deported or removed and later reenter the US",
+   "how": "They would have faced longer federal prison sentences, including mandatory minimums for certain repeat or aggravated felony cases."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

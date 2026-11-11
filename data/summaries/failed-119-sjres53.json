@@ -1,0 +1,20 @@
+{
+ "headline": "Failed Senate resolution would have blocked a planned U.S. military sale of certain defense items and services to Qatar.",
+ "what_it_does": "This joint resolution would have stopped a proposed sale of certain U.S. defense equipment and services to the government of Qatar. Congress can use this kind of resolution to block foreign military sales that the executive branch has told it about. On June 11, 2025, the Senate refused to take up or end debate on the measure, so the sale was not blocked by this resolution.",
+ "who_it_affects": [
+  {
+   "group": "Government of Qatar",
+   "how": "Qatar would not have been able to buy the specific defense items and services covered by the proposed sale."
+  },
+  {
+   "group": "U.S. defense companies involved in the sale",
+   "how": "Companies that would supply the equipment or services would have lost this sale."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-11"
+}

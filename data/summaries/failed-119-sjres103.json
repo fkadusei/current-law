@@ -1,0 +1,20 @@
+{
+ "headline": "Senate resolution that would have canceled a Veterans Affairs rule on reproductive health services did not advance.",
+ "what_it_does": "This resolution would have used the Congressional Review Act to cancel a Department of Veterans Affairs (VA) rule titled \"Reproductive Health Services.\" If adopted, the rule would have had no legal effect. The VA also would have been barred from issuing a substantially similar rule unless Congress later passed a law allowing it. No official summary was available, so the specific contents of the VA rule are not described here.",
+ "who_it_affects": [
+  {
+   "group": "Veterans who get health care through the VA",
+   "how": "The reproductive health services available to them would have stayed as they were before the VA rule, rather than following the rule's changes."
+  },
+  {
+   "group": "Department of Veterans Affairs",
+   "how": "The agency would have been blocked from enforcing this rule or issuing a substantially similar one without new approval from Congress."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-11"
+}

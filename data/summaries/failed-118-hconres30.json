@@ -1,0 +1,24 @@
+{
+ "headline": "Failed House resolution would have directed the President to pull U.S. troops out of Somalia within one year, except embassy guards.",
+ "what_it_does": "This resolution would have used the War Powers Resolution to direct the President to remove all U.S. Armed Forces from Somalia. Troops assigned to protect the U.S. embassy in Somalia would have been allowed to stay. The removal would have had to happen within 365 days of the resolution being adopted. The House voted it down on April 27, 2023.",
+ "who_it_affects": [
+  {
+   "group": "U.S. military members stationed in Somalia",
+   "how": "They would have been withdrawn from Somalia within one year, unless assigned to guard the U.S. embassy."
+  },
+  {
+   "group": "The President and the Department of Defense",
+   "how": "They would have been directed to end the U.S. military presence in Somalia, other than embassy security, within 365 days."
+  },
+  {
+   "group": "U.S. embassy staff in Somalia",
+   "how": "Military forces protecting the embassy would have been allowed to remain in place."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-11"
+}

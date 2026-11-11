@@ -1,0 +1,36 @@
+{
+ "headline": "The Senate did not act on this 2016 bill, which would have funded military construction and veterans programs for FY2017, provided Zika virus money, and made related rule changes.",
+ "what_it_does": "If adopted, this bill would have provided fiscal year 2017 funding for Defense Department construction and housing, and for Department of Veterans Affairs benefits, health care, and cemeteries. It would also have given $ in emergency Zika virus money for fiscal year 2016 and allowed a 180-day waiver of certain Clean Water Act permits for mosquito control pesticides. It would have rescinded some unused funds from earlier health and Ebola response accounts.",
+ "who_it_affects": [
+  {
+   "group": "Veterans enrolled in VA health care",
+   "how": "The bill would have set VA health care funding for FY2017 and would have changed some rules, such as copayment waivers for opioid overdose reversal drugs."
+  },
+  {
+   "group": "Veterans with service-connected disabilities that affect their ability to have children",
+   "how": "The VA would have been allowed to pay for fertility counseling and treatment, and for adoption reimbursement, for these veterans."
+  },
+  {
+   "group": "VA employees who report wrongdoing",
+   "how": "New whistle-blower complaint procedures and anti-retaliation rules would have applied to them."
+  },
+  {
+   "group": "Military service members and families living in base housing",
+   "how": "Defense Department funds for family housing repairs and construction would have been set for FY2017."
+  },
+  {
+   "group": "Pregnant women and people in areas with Zika virus",
+   "how": "Emergency HHS and State Department funds would have supported Zika prevention, testing, and response for FY2016 and FY2017."
+  },
+  {
+   "group": "Pesticide applicators and mosquito control districts",
+   "how": "For 180 days, they would not have needed a Clean Water Act permit for certain pesticide use to control mosquitoes that carry Zika."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

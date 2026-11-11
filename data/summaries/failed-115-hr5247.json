@@ -1,0 +1,28 @@
+{
+ "headline": "H.R. 5247 would have let terminally ill patients who have run out of approved treatments get certain unapproved investigational drugs outside clinical trials.",
+ "what_it_does": "If adopted, the bill would have exempted certain unapproved, investigational drugs from specified requirements under the Federal Food, Drug, and Cosmetic Act and other laws when given to a terminally ill patient. The patient would have needed to have exhausted approved treatment options and be unable to join a clinical trial for that drug. The drug's manufacturer or sponsor would have had to publish annual summaries of how the drug was used, and the bill would have limited liability for sponsors, manufacturers, licensed physicians, clinical investigators, and hospitals that provide or decline to provide the drug.",
+ "who_it_affects": [
+  {
+   "group": "Terminally ill patients",
+   "how": "Eligible patients who had used all approved treatment options and could not join a clinical trial would have gained a path to receive certain unapproved investigational drugs."
+  },
+  {
+   "group": "Drug manufacturers and sponsors",
+   "how": "They would have had to publish annual summaries of any use of their eligible investigational drugs, while gaining limited liability protection."
+  },
+  {
+   "group": "Licensed physicians and clinical investigators",
+   "how": "They would have had limited liability for providing or declining to provide an eligible investigational drug under the bill."
+  },
+  {
+   "group": "Hospitals",
+   "how": "They would have had limited liability for providing or declining to provide an eligible investigational drug under the bill."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

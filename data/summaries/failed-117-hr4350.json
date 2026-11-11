@@ -1,0 +1,40 @@
+{
+ "headline": "The 2021 defense authorization bill for fiscal year 2022 would have set Pentagon programs and policies, but the Senate did not advance it, so it did not become law.",
+ "what_it_does": "The bill would have authorized Department of Defense activities and programs for fiscal year 2022. It would have covered weapons buying, military personnel policies, and rules on sexual harassment and assault cases. It also would have addressed items such as burn pit waste, PFAS burning limits, Selective Service registration, and sanctions tied to the Nord Stream 2 pipeline.",
+ "who_it_affects": [
+  {
+   "group": "Service members and military families",
+   "how": "The bill would have added a basic needs allowance for low-income service members and expanded nonmedical counseling services for military families."
+  },
+  {
+   "group": "Women who must register for the draft",
+   "how": "The bill would have expanded Selective Service registration to include women."
+  },
+  {
+   "group": "Victims of sexual harassment and assault in the military",
+   "how": "The bill would have required special victim prosecutors in each service and independent investigators for certain formal sexual harassment complaints."
+  },
+  {
+   "group": "Defense contractors and aircraft manufacturers",
+   "how": "The bill would have set multiyear buying authority for certain helicopters and destroyers and placed cost and operational limits on the F-35 program."
+  },
+  {
+   "group": "Civilian Department of Defense employees",
+   "how": "The bill would have extended temporary premium pay and benefits for certain civilian employees."
+  },
+  {
+   "group": "Entities operating the Nord Stream 2 pipeline",
+   "how": "The bill would have imposed sanctions on those entities and certain of their officers and shareholders."
+  },
+  {
+   "group": "Residents near overseas military burn pits and PFAS sites",
+   "how": "The bill would have generally barred open-air burn pit disposal of certain waste outside the United States and required a temporary moratorium on PFAS burning."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

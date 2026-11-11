@@ -1,0 +1,28 @@
+{
+ "headline": "H.R. 897 would have temporarily barred EPA and states from requiring Clean Water Act permits for certain pesticide discharges into U.S. waters until September 30, 2018.",
+ "what_it_does": "The bill would have stopped the EPA and state governments from requiring a Clean Water Act permit for discharges of approved pesticides, or their residues, from a point source such as a pipe or channel into navigable waters, until September 30, 2018. It would also have set out exemptions where such discharges would still be covered, including pesticide applications that violate FIFRA and that affect water quality, stormwater regulated under NPDES, and certain industrial, treatment works, and vessel discharges. Those exemptions would have expired on September 30, 2018.",
+ "who_it_affects": [
+  {
+   "group": "Pesticide applicators and agricultural operations",
+   "how": "They would have been able to discharge approved pesticides from point sources into navigable waters without a Clean Water Act permit, subject to the listed exemptions, until the provision expired."
+  },
+  {
+   "group": "State environmental agencies",
+   "how": "They would have been barred from requiring Clean Water Act permits for these pesticide discharges during the same period."
+  },
+  {
+   "group": "Vessel operators",
+   "how": "Discharges incidental to normal vessel operation, such as ballast water and biofouling prevention, would have been exempt from the pesticide-related permit requirement."
+  },
+  {
+   "group": "People who live near or use navigable waters",
+   "how": "Pesticide discharges into those waters would have been subject to fewer federal permit requirements during the bill's window, though certain violation-related and NPDES-regulated discharges would still have been covered."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

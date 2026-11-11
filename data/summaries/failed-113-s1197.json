@@ -1,0 +1,40 @@
+{
+ "headline": "S. 1197 would have authorized the FY2014 National Defense Authorization Act, setting military spending, personnel policies, and many defense rules, but the Senate did not advance it in November 2013.",
+ "what_it_does": "The bill would have authorized funding for the Department of Defense and related national security programs for fiscal year 2014, covering weapons purchases, research, operations, military pay, military construction, and Department of Energy nuclear security work. It would also have changed many rules, including sexual assault prevention and military justice procedures, military pay and retirement benefits, Guantanamo transfer limits, and acquisition and contracting requirements. Its main text is very long and covers many separate topics.",
+ "who_it_affects": [
+  {
+   "group": "Active-duty service members and their families",
+   "how": "The bill would have set a 1.0% basic pay raise for military personnel effective January 1, 2014, and would have changed sexual assault reporting, victim counsel access, and military justice rules."
+  },
+  {
+   "group": "Military retirees and survivors",
+   "how": "The bill would have changed how some retired pay is computed and how survivor benefit annuities can be paid to special needs trusts."
+  },
+  {
+   "group": "Defense civilian employees",
+   "how": "The bill would have waived certain FY2014 pay increases tied to General Schedule raises and extended voluntary reduction-in-force and severance authorities through FY2018."
+  },
+  {
+   "group": "Defense contractors and their employees",
+   "how": "The bill would have lowered the cap on allowable compensation for contractor employees and added new contract oversight and pension cost rules."
+  },
+  {
+   "group": "Reserve and National Guard members",
+   "how": "The bill would have changed notice and approval rules for canceling reserve unit deployments and extended certain recruitment and bonus authorities."
+  },
+  {
+   "group": "Detainees held at Guantanamo Bay",
+   "how": "The bill would have limited transfers out of Guantanamo and barred funds for bringing certain detainees into the United States."
+  },
+  {
+   "group": "Veterans and servicemembers seeking civilian credentials",
+   "how": "The bill would have required the military to share information on civilian certification options with members during training."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

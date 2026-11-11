@@ -1,0 +1,887 @@
+{
+ "id": "114-sjres22",
+ "congress": 114,
+ "bill": "S.J.Res. 22",
+ "bill_type": "SJRES",
+ "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Corps of Engineers and the Environmental Protection Agency relating to the definition of \"waters of the United States\" under the Federal Water Pollution Control Act.",
+ "policy_area": "Environmental Protection",
+ "sponsor": "Sen. Ernst, Joni [R-IA]",
+ "latest_action": {
+  "actionDate": "2016-01-21",
+  "text": "Veto message indefinitely postponed by Senate by Unanimous Consent. (consideration: CR S147)"
+ },
+ "official_summary": " <p>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</p> <p>This joint resolution nullifies the rule submitted by the U.S. Army Corps of Engineers and the Environmental Protection Agency relating to the definition of &quot;waters of the United States&quot; under the Clean Water Act and published on June 29, 2015.</p>",
+ "congress_gov_url": "https://www.congress.gov/bill/114th-congress/senate-joint-resolution/22",
+ "failed_on": "2016-01-21",
+ "kind": "blocked",
+ "chamber": "Senate",
+ "later_became_law": null,
+ "votes": [
+  {
+   "chamber": "Senate",
+   "roll": 5,
+   "date": "2016-01-21",
+   "kind": "blocked",
+   "question": "On the Cloture Motion",
+   "result": "Cloture Motion Rejected",
+   "required": "3/5",
+   "yea": 52,
+   "nay": 40,
+   "support": "yea",
+   "by_party": {
+    "R": {
+     "yea": 49,
+     "not voting": 4,
+     "nay": 1
+    },
+    "D": {
+     "nay": 38,
+     "not voting": 3,
+     "yea": 3
+    },
+    "I": {
+     "not voting": 1,
+     "nay": 1
+    }
+   },
+   "majority_party": "R",
+   "members": [
+    {
+     "icpsr": "14009",
+     "bioguide": "C000567",
+     "name": "COCHRAN, William Thad",
+     "party": "R",
+     "state": "MS",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "14226",
+     "bioguide": "G000386",
+     "name": "GRASSLEY, Charles Ernest",
+     "party": "R",
+     "state": "IA",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "14307",
+     "bioguide": "L000174",
+     "name": "LEAHY, Patrick Joseph",
+     "party": "D",
+     "state": "VT",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "14435",
+     "bioguide": "M000133",
+     "name": "MARKEY, Edward John",
+     "party": "D",
+     "state": "MA",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "14440",
+     "bioguide": "M000702",
+     "name": "MIKULSKI, Barbara Ann",
+     "party": "D",
+     "state": "MD",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "14503",
+     "bioguide": "H000338",
+     "name": "HATCH, Orrin Grant",
+     "party": "R",
+     "state": "UT",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "14651",
+     "bioguide": "N000032",
+     "name": "NELSON, Clarence William (Bill)",
+     "party": "D",
+     "state": "FL",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "14806",
+     "bioguide": "C000542",
+     "name": "COATS, Daniel Ray",
+     "party": "R",
+     "state": "IN",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "14852",
+     "bioguide": "R000307",
+     "name": "ROBERTS, Charles Patrick (Pat)",
+     "party": "R",
+     "state": "KS",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "14858",
+     "bioguide": "S000148",
+     "name": "SCHUMER, Charles Ellis (Chuck)",
+     "party": "D",
+     "state": "NY",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "14871",
+     "bioguide": "W000779",
+     "name": "WYDEN, Ronald Lee",
+     "party": "D",
+     "state": "OR",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "14921",
+     "bioguide": "M000355",
+     "name": "MCCONNELL, Addison Mitchell (Mitch)",
+     "party": "R",
+     "state": "KY",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "15011",
+     "bioguide": "B000711",
+     "name": "BOXER, Barbara",
+     "party": "D",
+     "state": "CA",
+     "vote": "not voting"
+    },
+    {
+     "icpsr": "15015",
+     "bioguide": "C000174",
+     "name": "CARPER, Thomas Richard",
+     "party": "D",
+     "state": "DE",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "15021",
+     "bioguide": "D000563",
+     "name": "DURBIN, Richard Joseph",
+     "party": "D",
+     "state": "IL",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "15039",
+     "bioguide": "M000303",
+     "name": "McCAIN, John Sidney, III",
+     "party": "R",
+     "state": "AZ",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "15054",
+     "bioguide": "R000146",
+     "name": "REID, Harry",
+     "party": "D",
+     "state": "NV",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "15408",
+     "bioguide": "C000141",
+     "name": "CARDIN, Benjamin Louis",
+     "party": "D",
+     "state": "MD",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "15424",
+     "bioguide": "I000024",
+     "name": "INHOFE, James Mountain",
+     "party": "R",
+     "state": "OK",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20100",
+     "bioguide": "F000444",
+     "name": "FLAKE, Jeff",
+     "party": "R",
+     "state": "AZ",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20101",
+     "bioguide": "B001236",
+     "name": "BOOZMAN, John",
+     "party": "R",
+     "state": "AR",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20115",
+     "bioguide": "K000360",
+     "name": "KIRK, Mark Steven",
+     "party": "R",
+     "state": "IL",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20146",
+     "bioguide": "C001047",
+     "name": "CAPITO, Shelley Moore",
+     "party": "R",
+     "state": "WV",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20707",
+     "bioguide": "M001169",
+     "name": "MURPHY, Christopher",
+     "party": "D",
+     "state": "CT",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "20713",
+     "bioguide": "H001042",
+     "name": "HIRONO, Mazie",
+     "party": "D",
+     "state": "HI",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "20717",
+     "bioguide": "D000607",
+     "name": "DONNELLY, Joe",
+     "party": "D",
+     "state": "IN",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20730",
+     "bioguide": "H001041",
+     "name": "HELLER, Dean",
+     "party": "R",
+     "state": "NV",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20735",
+     "bioguide": "G000555",
+     "name": "GILLIBRAND, Kirsten",
+     "party": "D",
+     "state": "NY",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "20919",
+     "bioguide": "C001075",
+     "name": "CASSIDY, Bill",
+     "party": "R",
+     "state": "LA",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20923",
+     "bioguide": "P000595",
+     "name": "PETERS, Gary C.",
+     "party": "D",
+     "state": "MI",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "20930",
+     "bioguide": "H001046",
+     "name": "HEINRICH, Martin",
+     "party": "D",
+     "state": "NM",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "21112",
+     "bioguide": "G000562",
+     "name": "GARDNER, Cory",
+     "party": "R",
+     "state": "CO",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21166",
+     "bioguide": "L000575",
+     "name": "LANKFORD, James",
+     "party": "R",
+     "state": "OK",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21173",
+     "bioguide": "S001184",
+     "name": "SCOTT, Tim",
+     "party": "R",
+     "state": "SC",
+     "vote": "not voting"
+    },
+    {
+     "icpsr": "21301",
+     "bioguide": "C001095",
+     "name": "COTTON, Thomas Bryant (Tom)",
+     "party": "R",
+     "state": "AR",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21338",
+     "bioguide": "D000618",
+     "name": "DAINES, Steve",
+     "party": "R",
+     "state": "MT",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29142",
+     "bioguide": "R000122",
+     "name": "REED, John F. (Jack)",
+     "party": "D",
+     "state": "RI",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "29147",
+     "bioguide": "S000033",
+     "name": "SANDERS, Bernard",
+     "party": "I",
+     "state": "VT",
+     "vote": "not voting"
+    },
+    {
+     "icpsr": "29345",
+     "bioguide": "C000880",
+     "name": "CRAPO, Michael Dean",
+     "party": "R",
+     "state": "ID",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29373",
+     "bioguide": "M000639",
+     "name": "MENENDEZ, Robert",
+     "party": "D",
+     "state": "NJ",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "29386",
+     "bioguide": "P000449",
+     "name": "PORTMAN, Robert Jones (Rob)",
+     "party": "R",
+     "state": "OH",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29389",
+     "bioguide": "B000944",
+     "name": "BROWN, Sherrod",
+     "party": "D",
+     "state": "OH",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "29534",
+     "bioguide": "W000437",
+     "name": "WICKER, Roger F.",
+     "party": "R",
+     "state": "MS",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29548",
+     "bioguide": "B001135",
+     "name": "BURR, Richard M.",
+     "party": "R",
+     "state": "NC",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29566",
+     "bioguide": "G000359",
+     "name": "GRAHAM, Lindsey O.",
+     "party": "R",
+     "state": "SC",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29722",
+     "bioguide": "M000934",
+     "name": "MORAN, Jerry",
+     "party": "R",
+     "state": "KS",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29732",
+     "bioguide": "S000770",
+     "name": "STABENOW, Deborah Ann",
+     "party": "D",
+     "state": "MI",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "29735",
+     "bioguide": "B000575",
+     "name": "BLUNT, Roy",
+     "party": "R",
+     "state": "MO",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29754",
+     "bioguide": "T000250",
+     "name": "THUNE, John",
+     "party": "R",
+     "state": "SD",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29909",
+     "bioguide": "I000055",
+     "name": "ISAKSON, Johnny",
+     "party": "R",
+     "state": "GA",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29918",
+     "bioguide": "V000127",
+     "name": "VITTER, David",
+     "party": "R",
+     "state": "LA",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29924",
+     "bioguide": "U000039",
+     "name": "UDALL, Thomas (Tom)",
+     "party": "D",
+     "state": "NM",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "29935",
+     "bioguide": "T000461",
+     "name": "TOOMEY, Patrick Joseph",
+     "party": "R",
+     "state": "PA",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29940",
+     "bioguide": "B001230",
+     "name": "BALDWIN, Tammy",
+     "party": "D",
+     "state": "WI",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "39310",
+     "bioguide": "C000127",
+     "name": "CANTWELL, Maria E.",
+     "party": "D",
+     "state": "WA",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "40300",
+     "bioguide": "M001153",
+     "name": "MURKOWSKI, Lisa",
+     "party": "R",
+     "state": "AK",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "40304",
+     "bioguide": "A000360",
+     "name": "ALEXANDER, Lamar",
+     "party": "R",
+     "state": "TN",
+     "vote": "not voting"
+    },
+    {
+     "icpsr": "40305",
+     "bioguide": "C001056",
+     "name": "CORNYN, John",
+     "party": "R",
+     "state": "TX",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "40700",
+     "bioguide": "K000367",
+     "name": "KLOBUCHAR, Amy",
+     "party": "D",
+     "state": "MN",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "40701",
+     "bioguide": "M001170",
+     "name": "McCASKILL, Claire",
+     "party": "D",
+     "state": "MO",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "40702",
+     "bioguide": "T000464",
+     "name": "TESTER, Jon",
+     "party": "D",
+     "state": "MT",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "40703",
+     "bioguide": "C001070",
+     "name": "CASEY, Robert (Bob), Jr.",
+     "party": "D",
+     "state": "PA",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "40704",
+     "bioguide": "W000802",
+     "name": "WHITEHOUSE, Sheldon",
+     "party": "D",
+     "state": "RI",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "40705",
+     "bioguide": "C001071",
+     "name": "CORKER, Robert (Bob)",
+     "party": "R",
+     "state": "TN",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "40707",
+     "bioguide": "B001261",
+     "name": "BARRASSO, John A.",
+     "party": "R",
+     "state": "WY",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "40902",
+     "bioguide": "R000584",
+     "name": "RISCH, James",
+     "party": "R",
+     "state": "ID",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "40904",
+     "bioguide": "F000457",
+     "name": "FRANKEN, Al",
+     "party": "D",
+     "state": "MN",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "40906",
+     "bioguide": "S001181",
+     "name": "SHAHEEN, Jeanne",
+     "party": "D",
+     "state": "NH",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "40908",
+     "bioguide": "M001176",
+     "name": "MERKLEY, Jeff",
+     "party": "D",
+     "state": "OR",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "40909",
+     "bioguide": "W000805",
+     "name": "WARNER, Mark R.",
+     "party": "D",
+     "state": "VA",
+     "vote": "not voting"
+    },
+    {
+     "icpsr": "40910",
+     "bioguide": "B001267",
+     "name": "BENNET, Michael F.",
+     "party": "D",
+     "state": "CO",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "40915",
+     "bioguide": "M001183",
+     "name": "MANCHIN, Joe, III",
+     "party": "D",
+     "state": "WV",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "40916",
+     "bioguide": "C001088",
+     "name": "COONS, Christopher A.",
+     "party": "D",
+     "state": "DE",
+     "vote": "not voting"
+    },
+    {
+     "icpsr": "41101",
+     "bioguide": "B001277",
+     "name": "BLUMENTHAL, Richard",
+     "party": "D",
+     "state": "CT",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41102",
+     "bioguide": "R000595",
+     "name": "RUBIO, Marco",
+     "party": "R",
+     "state": "FL",
+     "vote": "not voting"
+    },
+    {
+     "icpsr": "41104",
+     "bioguide": "P000603",
+     "name": "PAUL, Rand",
+     "party": "R",
+     "state": "KY",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "41106",
+     "bioguide": "A000368",
+     "name": "AYOTTE, Kelly",
+     "party": "R",
+     "state": "NH",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "41107",
+     "bioguide": "H001061",
+     "name": "HOEVEN, John",
+     "party": "R",
+     "state": "ND",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "41110",
+     "bioguide": "L000577",
+     "name": "LEE, Mike",
+     "party": "R",
+     "state": "UT",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "41111",
+     "bioguide": "J000293",
+     "name": "JOHNSON, Ron",
+     "party": "R",
+     "state": "WI",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "41112",
+     "bioguide": "S001194",
+     "name": "SCHATZ, Brian Emanuel",
+     "party": "D",
+     "state": "HI",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41300",
+     "bioguide": "K000383",
+     "name": "KING, Angus Stanley, Jr.",
+     "party": "I",
+     "state": "ME",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41301",
+     "bioguide": "W000817",
+     "name": "WARREN, Elizabeth",
+     "party": "D",
+     "state": "MA",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41302",
+     "bioguide": "F000463",
+     "name": "FISCHER, Debra (Deb)",
+     "party": "R",
+     "state": "NE",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "41303",
+     "bioguide": "H001069",
+     "name": "HEITKAMP, Mary Kathryn (Heidi)",
+     "party": "D",
+     "state": "ND",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "41304",
+     "bioguide": "C001098",
+     "name": "CRUZ, Rafael Edward (Ted)",
+     "party": "R",
+     "state": "TX",
+     "vote": "not voting"
+    },
+    {
+     "icpsr": "41305",
+     "bioguide": "K000384",
+     "name": "KAINE, Timothy Michael (Tim)",
+     "party": "D",
+     "state": "VA",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41308",
+     "bioguide": "B001288",
+     "name": "BOOKER, Cory Anthony",
+     "party": "D",
+     "state": "NJ",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41500",
+     "bioguide": "S001198",
+     "name": "SULLIVAN, Daniel Scott",
+     "party": "R",
+     "state": "AK",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "41501",
+     "bioguide": "P000612",
+     "name": "PERDUE, David Alfred, Jr.",
+     "party": "R",
+     "state": "GA",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "41502",
+     "bioguide": "E000295",
+     "name": "ERNST, Joni",
+     "party": "R",
+     "state": "IA",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "41503",
+     "bioguide": "S001197",
+     "name": "SASSE, Benjamin Eric",
+     "party": "R",
+     "state": "NE",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "41504",
+     "bioguide": "T000476",
+     "name": "TILLIS, Thomas Roland (Thom)",
+     "party": "R",
+     "state": "NC",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "41505",
+     "bioguide": "R000605",
+     "name": "ROUNDS, Marion Michael (Mike)",
+     "party": "R",
+     "state": "SD",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "49300",
+     "bioguide": "F000062",
+     "name": "FEINSTEIN, Dianne",
+     "party": "D",
+     "state": "CA",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "49308",
+     "bioguide": "M001111",
+     "name": "MURRAY, Patty",
+     "party": "D",
+     "state": "WA",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "49700",
+     "bioguide": "S001141",
+     "name": "SESSIONS, Jefferson Beauregard (Jeff), III",
+     "party": "R",
+     "state": "AL",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "49703",
+     "bioguide": "C001035",
+     "name": "COLLINS, Susan Margaret",
+     "party": "R",
+     "state": "ME",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "49706",
+     "bioguide": "E000285",
+     "name": "ENZI, Michael B.",
+     "party": "R",
+     "state": "WY",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "94659",
+     "bioguide": "S000320",
+     "name": "SHELBY, Richard C.",
+     "party": "R",
+     "state": "AL",
+     "vote": "yea"
+    }
+   ]
+  }
+ ],
+ "support_color": {
+  "side": "R",
+  "share": 0.942,
+  "r_support": 49,
+  "d_support": 3,
+  "shade": 0.885,
+  "party_line": null
+ },
+ "control": {
+  "Senate": "R"
+ },
+ "summary": {
+  "headline": "If adopted, this resolution would have blocked a 2015 federal rule that defined which waters fall under the Clean Water Act.",
+  "what_it_does": "This joint resolution would have nullified the rule issued by the Army Corps of Engineers and the Environmental Protection Agency that changed the definition of \"waters of the United States\" under the Clean Water Act. The rule was published on June 29, 2015. Under this resolution, the earlier definition would have stayed in place instead of the new one.",
+  "who_it_affects": [
+   {
+    "group": "Landowners and developers whose land contains streams or wetlands",
+    "how": "They would have faced the prior definition rather than the new one when determining whether federal permits are needed for work near water."
+   },
+   {
+    "group": "Farmers and ranchers",
+    "how": "They would have been subject to the prior definition when determining which water features on their property fall under federal Clean Water Act rules."
+   },
+   {
+    "group": "State and local governments",
+    "how": "They would have continued to apply the earlier federal definition when carrying out water-related programs and permits."
+   }
+  ],
+  "when_it_takes_effect": "Did not take effect",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-11"
+ }
+}

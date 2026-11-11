@@ -1,0 +1,32 @@
+{
+ "headline": "A 2014 Senate bill that was not adopted would have raised the federal minimum wage in stages to $10.10 an hour and changed tipped worker pay and some business tax rules.",
+ "what_it_does": "If adopted, this bill would have raised the federal minimum wage in steps, starting at $8.20 an hour and reaching $10.10 an hour after two years, then adjusting by inflation each year. It would have raised the minimum cash wage for tipped workers to $3.00 an hour for one year, with later increases tied to 70% of the regular minimum wage. It would also have extended certain business expensing and depreciation tax treatment through taxable years before 2017.",
+ "who_it_affects": [
+  {
+   "group": "Workers paid the federal minimum wage",
+   "how": "Their hourly pay floor would have risen in steps to $10.10 an hour, then been adjusted for inflation."
+  },
+  {
+   "group": "Tipped workers, such as restaurant servers",
+   "how": "Their required cash wage would have risen to $3.00 an hour for one year, then moved toward 70% of the regular minimum wage."
+  },
+  {
+   "group": "Employers that pay the federal minimum wage or use tipped workers",
+   "how": "They would have had to pay higher hourly wages and higher cash wages for tipped employees on the bill's schedule."
+  },
+  {
+   "group": "Businesses that buy equipment, software, or make leasehold or restaurant improvements",
+   "how": "They would have been able to keep the higher expensing allowance and depreciation treatment for taxable years before 2017."
+  },
+  {
+   "group": "Department of Labor",
+   "how": "It would have had to publish each wage increase in the Federal Register and on its website at least 60 days before it took effect."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

@@ -1,0 +1,36 @@
+{
+ "headline": "If adopted, this 2019 spending bill would have funded several federal departments and agencies for fiscal year 2020; the Senate did not take it up, so it did not pass.",
+ "what_it_does": "The bill would have provided fiscal year 2020 funding for four of the twelve regular spending bills, covering Labor, Health and Human Services, Education, Defense, State and foreign operations, and Energy and Water Development. It would have funded agencies such as the Department of Labor, HHS, the Department of Education, the Department of Defense, the State Department, the Department of Energy, the Army Corps of Engineers, and the Bureau of Reclamation. It would also have set restrictions and requirements on how funds from this and other appropriations acts could be used.",
+ "who_it_affects": [
+  {
+   "group": "Students and families who use federal education programs",
+   "how": "The bill would have set the level of federal funding for the Department of Education and its related programs for fiscal year 2020."
+  },
+  {
+   "group": "People who receive health and social services through HHS",
+   "how": "The bill would have set the level of federal funding for HHS programs for fiscal year 2020."
+  },
+  {
+   "group": "Workers and job seekers who use Department of Labor programs",
+   "how": "The bill would have set the level of federal funding for Labor Department programs for fiscal year 2020."
+  },
+  {
+   "group": "Military service members and defense contractors",
+   "how": "The bill would have set the level of federal funding for the Department of Defense for fiscal year 2020."
+  },
+  {
+   "group": "Foreign aid recipients and State Department program partners",
+   "how": "The bill would have set the level of funding for State Department and foreign operations programs for fiscal year 2020."
+  },
+  {
+   "group": "Communities near Army Corps of Engineers and Bureau of Reclamation water projects",
+   "how": "The bill would have set the level of federal funding for these water and energy projects for fiscal year 2020."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

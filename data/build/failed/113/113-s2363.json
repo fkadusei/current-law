@@ -1,0 +1,896 @@
+{
+ "id": "113-s2363",
+ "congress": 113,
+ "bill": "S. 2363",
+ "bill_type": "S",
+ "title": "Bipartisan Sportsmen's Act of 2014",
+ "policy_area": "Public Lands and Natural Resources",
+ "sponsor": "Sen. Hagan, Kay R. [D-NC]",
+ "latest_action": {
+  "actionDate": "2014-07-10",
+  "text": "Cloture on the bill not invoked in Senate by Yea-Nay Vote. 41 - 56. Record Vote Number: 220. (consideration: CR S4377-4378; text: CR S4377)"
+ },
+ "official_summary": " <p>Bipartisan Sportsmen's Act of 2014 - Revises a variety of existing programs to expand access to, and opportunities for, hunting, fishing, and recreational shooting. </p> <p>Reauthorizes the Federal Land Transaction Facilitation Act, the North American Wetlands Conservation Act, and the National Fish and Wildlife Foundation Establishment Act. </p> <p>Gives the Secretary of the Interior permanent authority to permit states to issue temporary electronic duck stamps (federal licenses required for hunting migratory waterfowl). </p> <p>Exempts components of firearms and ammunition and sport fishing equipment and its components (such as lead sinkers) from regulations of chemical substances under the Toxic Substances Control Act (TSCA). </p> <p>Increases the proportion of funding from the Pittman-Robertson Wildlife Restoration Act that states may use for public target ranges. </p> <p>Requires the Secretary to issue permits for the importation of polar bear parts taken in sports hunts in Canada before May 15, 2008 (when the species was listed as threatened). </p> <p>Revises standards for determining what a baited area is for purposes of the prohibition on taking migratory game birds. </p> <p>Directs federal public land management officials to facilitate hunting, fishing, and recreational shooting on federal public land. Makes land under the jurisdiction of the Bureau of Land Management (BLM) or the Forest Service open for hunting, fishing, and recreational shooting unless the managing agency acts to close the lands.</p> <p>Allocates funds from the Land and Water Conservation Fund for priority projects that secure public access to federal public lands that have significantly restricted access for hunting, fishing, and other recreational purposes. </p>",
+ "congress_gov_url": "https://www.congress.gov/bill/113th-congress/senate-bill/2363",
+ "failed_on": "2014-07-10",
+ "kind": "blocked",
+ "chamber": "Senate",
+ "later_became_law": null,
+ "votes": [
+  {
+   "chamber": "Senate",
+   "roll": 220,
+   "date": "2014-07-10",
+   "kind": "blocked",
+   "question": "On the Cloture Motion",
+   "result": "Cloture Motion Rejected",
+   "required": "3/5",
+   "yea": 41,
+   "nay": 56,
+   "support": "yea",
+   "by_party": {
+    "R": {
+     "nay": 45
+    },
+    "D": {
+     "yea": 39,
+     "nay": 11,
+     "not voting": 3
+    },
+    "I": {
+     "yea": 2
+    }
+   },
+   "majority_party": "D",
+   "members": [
+    {
+     "icpsr": "14009",
+     "bioguide": "C000567",
+     "name": "COCHRAN, William Thad",
+     "party": "R",
+     "state": "MS",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "14226",
+     "bioguide": "G000386",
+     "name": "GRASSLEY, Charles Ernest",
+     "party": "R",
+     "state": "IA",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "14230",
+     "bioguide": "H000206",
+     "name": "HARKIN, Thomas Richard (Tom)",
+     "party": "D",
+     "state": "IA",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "14307",
+     "bioguide": "L000174",
+     "name": "LEAHY, Patrick Joseph",
+     "party": "D",
+     "state": "VT",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "14435",
+     "bioguide": "M000133",
+     "name": "MARKEY, Edward John",
+     "party": "D",
+     "state": "MA",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "14440",
+     "bioguide": "M000702",
+     "name": "MIKULSKI, Barbara Ann",
+     "party": "D",
+     "state": "MD",
+     "vote": "not voting"
+    },
+    {
+     "icpsr": "14503",
+     "bioguide": "H000338",
+     "name": "HATCH, Orrin Grant",
+     "party": "R",
+     "state": "UT",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "14651",
+     "bioguide": "N000032",
+     "name": "NELSON, Clarence William (Bill)",
+     "party": "D",
+     "state": "FL",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "14709",
+     "bioguide": "L000261",
+     "name": "LEVIN, Carl",
+     "party": "D",
+     "state": "MI",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "14806",
+     "bioguide": "C000542",
+     "name": "COATS, Daniel Ray",
+     "party": "R",
+     "state": "IN",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "14852",
+     "bioguide": "R000307",
+     "name": "ROBERTS, Charles Patrick (Pat)",
+     "party": "R",
+     "state": "KS",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "14858",
+     "bioguide": "S000148",
+     "name": "SCHUMER, Charles Ellis (Chuck)",
+     "party": "D",
+     "state": "NY",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "14871",
+     "bioguide": "W000779",
+     "name": "WYDEN, Ronald Lee",
+     "party": "D",
+     "state": "OR",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "14921",
+     "bioguide": "M000355",
+     "name": "MCCONNELL, Addison Mitchell (Mitch)",
+     "party": "R",
+     "state": "KY",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "14922",
+     "bioguide": "R000361",
+     "name": "ROCKEFELLER, John Davison (Jay), IV",
+     "party": "D",
+     "state": "WV",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "15011",
+     "bioguide": "B000711",
+     "name": "BOXER, Barbara",
+     "party": "D",
+     "state": "CA",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "15015",
+     "bioguide": "C000174",
+     "name": "CARPER, Thomas Richard",
+     "party": "D",
+     "state": "DE",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "15021",
+     "bioguide": "D000563",
+     "name": "DURBIN, Richard Joseph",
+     "party": "D",
+     "state": "IL",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "15039",
+     "bioguide": "M000303",
+     "name": "McCAIN, John Sidney, III",
+     "party": "R",
+     "state": "AZ",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "15054",
+     "bioguide": "R000146",
+     "name": "REID, Harry",
+     "party": "D",
+     "state": "NV",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "15408",
+     "bioguide": "C000141",
+     "name": "CARDIN, Benjamin Louis",
+     "party": "D",
+     "state": "MD",
+     "vote": "not voting"
+    },
+    {
+     "icpsr": "15424",
+     "bioguide": "I000024",
+     "name": "INHOFE, James Mountain",
+     "party": "R",
+     "state": "OK",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "15425",
+     "bioguide": "J000177",
+     "name": "JOHNSON, Timothy Peter (Tim)",
+     "party": "D",
+     "state": "SD",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20100",
+     "bioguide": "F000444",
+     "name": "FLAKE, Jeff",
+     "party": "R",
+     "state": "AZ",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "20101",
+     "bioguide": "B001236",
+     "name": "BOOZMAN, John",
+     "party": "R",
+     "state": "AR",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "20115",
+     "bioguide": "K000360",
+     "name": "KIRK, Mark Steven",
+     "party": "R",
+     "state": "IL",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "20707",
+     "bioguide": "M001169",
+     "name": "MURPHY, Christopher",
+     "party": "D",
+     "state": "CT",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "20713",
+     "bioguide": "H001042",
+     "name": "HIRONO, Mazie",
+     "party": "D",
+     "state": "HI",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "20717",
+     "bioguide": "D000607",
+     "name": "DONNELLY, Joe",
+     "party": "D",
+     "state": "IN",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20730",
+     "bioguide": "H001041",
+     "name": "HELLER, Dean",
+     "party": "R",
+     "state": "NV",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "20735",
+     "bioguide": "G000555",
+     "name": "GILLIBRAND, Kirsten",
+     "party": "D",
+     "state": "NY",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20930",
+     "bioguide": "H001046",
+     "name": "HEINRICH, Martin",
+     "party": "D",
+     "state": "NM",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21173",
+     "bioguide": "S001184",
+     "name": "SCOTT, Tim",
+     "party": "R",
+     "state": "SC",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "29142",
+     "bioguide": "R000122",
+     "name": "REED, John F. (Jack)",
+     "party": "D",
+     "state": "RI",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "29147",
+     "bioguide": "S000033",
+     "name": "SANDERS, Bernard",
+     "party": "I",
+     "state": "VT",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29345",
+     "bioguide": "C000880",
+     "name": "CRAPO, Michael Dean",
+     "party": "R",
+     "state": "ID",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "29373",
+     "bioguide": "M000639",
+     "name": "MENENDEZ, Robert",
+     "party": "D",
+     "state": "NJ",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "29386",
+     "bioguide": "P000449",
+     "name": "PORTMAN, Robert Jones (Rob)",
+     "party": "R",
+     "state": "OH",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "29389",
+     "bioguide": "B000944",
+     "name": "BROWN, Sherrod",
+     "party": "D",
+     "state": "OH",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29512",
+     "bioguide": "C000286",
+     "name": "CHAMBLISS, Saxby",
+     "party": "R",
+     "state": "GA",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "29534",
+     "bioguide": "W000437",
+     "name": "WICKER, Roger F.",
+     "party": "R",
+     "state": "MS",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "29548",
+     "bioguide": "B001135",
+     "name": "BURR, Richard M.",
+     "party": "R",
+     "state": "NC",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "29555",
+     "bioguide": "C000560",
+     "name": "COBURN, Thomas Allen",
+     "party": "R",
+     "state": "OK",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "29566",
+     "bioguide": "G000359",
+     "name": "GRAHAM, Lindsey O.",
+     "party": "R",
+     "state": "SC",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "29722",
+     "bioguide": "M000934",
+     "name": "MORAN, Jerry",
+     "party": "R",
+     "state": "KS",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "29732",
+     "bioguide": "S000770",
+     "name": "STABENOW, Deborah Ann",
+     "party": "D",
+     "state": "MI",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29735",
+     "bioguide": "B000575",
+     "name": "BLUNT, Roy",
+     "party": "R",
+     "state": "MO",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "29754",
+     "bioguide": "T000250",
+     "name": "THUNE, John",
+     "party": "R",
+     "state": "SD",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "29906",
+     "bioguide": "U000038",
+     "name": "UDALL, Mark",
+     "party": "D",
+     "state": "CO",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29909",
+     "bioguide": "I000055",
+     "name": "ISAKSON, Johnny",
+     "party": "R",
+     "state": "GA",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "29918",
+     "bioguide": "V000127",
+     "name": "VITTER, David",
+     "party": "R",
+     "state": "LA",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "29924",
+     "bioguide": "U000039",
+     "name": "UDALL, Thomas (Tom)",
+     "party": "D",
+     "state": "NM",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29935",
+     "bioguide": "T000461",
+     "name": "TOOMEY, Patrick Joseph",
+     "party": "R",
+     "state": "PA",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "29940",
+     "bioguide": "B001230",
+     "name": "BALDWIN, Tammy",
+     "party": "D",
+     "state": "WI",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "39310",
+     "bioguide": "C000127",
+     "name": "CANTWELL, Maria E.",
+     "party": "D",
+     "state": "WA",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "40300",
+     "bioguide": "M001153",
+     "name": "MURKOWSKI, Lisa",
+     "party": "R",
+     "state": "AK",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "40301",
+     "bioguide": "P000590",
+     "name": "PRYOR, Mark",
+     "party": "D",
+     "state": "AR",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "40304",
+     "bioguide": "A000360",
+     "name": "ALEXANDER, Lamar",
+     "party": "R",
+     "state": "TN",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "40305",
+     "bioguide": "C001056",
+     "name": "CORNYN, John",
+     "party": "R",
+     "state": "TX",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "40700",
+     "bioguide": "K000367",
+     "name": "KLOBUCHAR, Amy",
+     "party": "D",
+     "state": "MN",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "40701",
+     "bioguide": "M001170",
+     "name": "McCASKILL, Claire",
+     "party": "D",
+     "state": "MO",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "40702",
+     "bioguide": "T000464",
+     "name": "TESTER, Jon",
+     "party": "D",
+     "state": "MT",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "40703",
+     "bioguide": "C001070",
+     "name": "CASEY, Robert (Bob), Jr.",
+     "party": "D",
+     "state": "PA",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "40704",
+     "bioguide": "W000802",
+     "name": "WHITEHOUSE, Sheldon",
+     "party": "D",
+     "state": "RI",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "40705",
+     "bioguide": "C001071",
+     "name": "CORKER, Robert (Bob)",
+     "party": "R",
+     "state": "TN",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "40707",
+     "bioguide": "B001261",
+     "name": "BARRASSO, John A.",
+     "party": "R",
+     "state": "WY",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "40900",
+     "bioguide": "B001265",
+     "name": "BEGICH, Mark",
+     "party": "D",
+     "state": "AK",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "40902",
+     "bioguide": "R000584",
+     "name": "RISCH, James",
+     "party": "R",
+     "state": "ID",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "40904",
+     "bioguide": "F000457",
+     "name": "FRANKEN, Al",
+     "party": "D",
+     "state": "MN",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "40905",
+     "bioguide": "J000291",
+     "name": "JOHANNS, Mike",
+     "party": "R",
+     "state": "NE",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "40906",
+     "bioguide": "S001181",
+     "name": "SHAHEEN, Jeanne",
+     "party": "D",
+     "state": "NH",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "40907",
+     "bioguide": "H001049",
+     "name": "HAGAN, Kay",
+     "party": "D",
+     "state": "NC",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "40908",
+     "bioguide": "M001176",
+     "name": "MERKLEY, Jeff",
+     "party": "D",
+     "state": "OR",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "40909",
+     "bioguide": "W000805",
+     "name": "WARNER, Mark R.",
+     "party": "D",
+     "state": "VA",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "40910",
+     "bioguide": "B001267",
+     "name": "BENNET, Michael F.",
+     "party": "D",
+     "state": "CO",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "40915",
+     "bioguide": "M001183",
+     "name": "MANCHIN, Joe, III",
+     "party": "D",
+     "state": "WV",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "40916",
+     "bioguide": "C001088",
+     "name": "COONS, Christopher A.",
+     "party": "D",
+     "state": "DE",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "41101",
+     "bioguide": "B001277",
+     "name": "BLUMENTHAL, Richard",
+     "party": "D",
+     "state": "CT",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41102",
+     "bioguide": "R000595",
+     "name": "RUBIO, Marco",
+     "party": "R",
+     "state": "FL",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41104",
+     "bioguide": "P000603",
+     "name": "PAUL, Rand",
+     "party": "R",
+     "state": "KY",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41106",
+     "bioguide": "A000368",
+     "name": "AYOTTE, Kelly",
+     "party": "R",
+     "state": "NH",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41107",
+     "bioguide": "H001061",
+     "name": "HOEVEN, John",
+     "party": "R",
+     "state": "ND",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41110",
+     "bioguide": "L000577",
+     "name": "LEE, Mike",
+     "party": "R",
+     "state": "UT",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41111",
+     "bioguide": "J000293",
+     "name": "JOHNSON, Ron",
+     "party": "R",
+     "state": "WI",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41112",
+     "bioguide": "S001194",
+     "name": "SCHATZ, Brian Emanuel",
+     "party": "D",
+     "state": "HI",
+     "vote": "not voting"
+    },
+    {
+     "icpsr": "41300",
+     "bioguide": "K000383",
+     "name": "KING, Angus Stanley, Jr.",
+     "party": "I",
+     "state": "ME",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "41301",
+     "bioguide": "W000817",
+     "name": "WARREN, Elizabeth",
+     "party": "D",
+     "state": "MA",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41302",
+     "bioguide": "F000463",
+     "name": "FISCHER, Debra (Deb)",
+     "party": "R",
+     "state": "NE",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41303",
+     "bioguide": "H001069",
+     "name": "HEITKAMP, Mary Kathryn (Heidi)",
+     "party": "D",
+     "state": "ND",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "41304",
+     "bioguide": "C001098",
+     "name": "CRUZ, Rafael Edward (Ted)",
+     "party": "R",
+     "state": "TX",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41305",
+     "bioguide": "K000384",
+     "name": "KAINE, Timothy Michael (Tim)",
+     "party": "D",
+     "state": "VA",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "41308",
+     "bioguide": "B001288",
+     "name": "BOOKER, Cory Anthony",
+     "party": "D",
+     "state": "NJ",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41309",
+     "bioguide": "W000818",
+     "name": "WALSH, John E.",
+     "party": "D",
+     "state": "MT",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "49300",
+     "bioguide": "F000062",
+     "name": "FEINSTEIN, Dianne",
+     "party": "D",
+     "state": "CA",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "49308",
+     "bioguide": "M001111",
+     "name": "MURRAY, Patty",
+     "party": "D",
+     "state": "WA",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "49700",
+     "bioguide": "S001141",
+     "name": "SESSIONS, Jefferson Beauregard (Jeff), III",
+     "party": "R",
+     "state": "AL",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "49702",
+     "bioguide": "L000550",
+     "name": "LANDRIEU, Mary L.",
+     "party": "D",
+     "state": "LA",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "49703",
+     "bioguide": "C001035",
+     "name": "COLLINS, Susan Margaret",
+     "party": "R",
+     "state": "ME",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "49706",
+     "bioguide": "E000285",
+     "name": "ENZI, Michael B.",
+     "party": "R",
+     "state": "WY",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "94659",
+     "bioguide": "S000320",
+     "name": "SHELBY, Richard C.",
+     "party": "R",
+     "state": "AL",
+     "vote": "nay"
+    }
+   ]
+  }
+ ],
+ "support_color": {
+  "side": "D",
+  "share": 1.0,
+  "r_support": 0,
+  "d_support": 39,
+  "shade": 1.0,
+  "party_line": "D"
+ },
+ "control": {
+  "Senate": "D"
+ },
+ "summary": {
+  "headline": "A 2014 Senate bill that would have expanded hunting, fishing, and shooting access on federal lands and changed several related wildlife rules, but it did not pass.",
+  "what_it_does": "If adopted, this bill would have changed several existing programs to make it easier to hunt, fish, and shoot on public land. It would have made federal Bureau of Land Management and Forest Service lands open to these activities unless the managing agency closed them. It also would have exempted firearm and ammunition parts, and fishing gear such as lead sinkers, from certain chemical rules under the Toxic Substances Control Act. It would have reauthorized several land and wetland conservation programs and made other changes to wildlife rules.",
+  "who_it_affects": [
+   {
+    "group": "Hunters and anglers",
+    "how": "They would have gained wider access to BLM and Forest Service lands for hunting and fishing unless those lands were closed."
+   },
+   {
+    "group": "Recreational shooters",
+    "how": "They would have had more access to federal public land for shooting and more state funding could have gone to public target ranges."
+   },
+   {
+    "group": "Firearm and ammunition manufacturers and sport fishing gear makers",
+    "how": "Their components would have been exempt from certain chemical regulations under the Toxic Substances Control Act."
+   },
+   {
+    "group": "State wildlife agencies",
+    "how": "They could have used more Pittman-Robertson funds for public target ranges and issued temporary electronic duck stamps with federal approval."
+   },
+   {
+    "group": "Waterfowl hunters",
+    "how": "Rules for what counts as a baited area for hunting migratory game birds would have been revised."
+   },
+   {
+    "group": "Hunters who bring polar bear trophies into the US",
+    "how": "The Secretary of the Interior would have been required to issue import permits for polar bear parts from sport hunts in Canada taken before May 15, 2008."
+   }
+  ],
+  "when_it_takes_effect": "Did not take effect",
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-haiku-5-5",
+  "written": "2026-11-11"
+ }
+}

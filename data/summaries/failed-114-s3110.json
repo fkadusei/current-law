@@ -1,0 +1,32 @@
+{
+ "headline": "A 2016 Senate energy bill that would have changed how offshore energy revenue is shared with states and set aside federal land for renewable energy, but it did not pass.",
+ "what_it_does": "The bill would have removed the $500 million cap on revenue Gulf states receive from energy projects for fiscal years 2027 through 2055. Starting in 2027, it would have raised the share of federal offshore energy revenue going to Alaska and the Atlantic states of Virginia, North Carolina, South Carolina, and Georgia. It would also have required the Interior Department to name priority areas on federal land for renewable energy projects and to set up a better permit coordination program for them. It would have directed funds to a tribal climate adaptation program in Alaska and to National Park Service maintenance.",
+ "who_it_affects": [
+  {
+   "group": "Gulf states (Texas, Louisiana, Mississippi, and Alabama)",
+   "how": "They would have received more revenue from energy projects because the $500 million cap would have been removed for 2027 through 2055."
+  },
+  {
+   "group": "Alaska and Atlantic coastal states (Virginia, North Carolina, South Carolina, and Georgia)",
+   "how": "They would have received a larger percentage of federal revenue from offshore energy projects beginning in 2027."
+  },
+  {
+   "group": "Alaska Native tribal nations",
+   "how": "They would have had federal funds available through a Treasury-designated Tribal Resilience Program to adapt to climate change impacts."
+  },
+  {
+   "group": "Renewable energy developers",
+   "how": "They would have had federal land identified as priority areas and a streamlined federal permit process for renewable energy projects."
+  },
+  {
+   "group": "Visitors and staff at National Park Service sites",
+   "how": "Funds would have been directed to address the parks' maintenance needs."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

@@ -1,0 +1,24 @@
+{
+ "headline": "A 2014 Senate bill that was not adopted would have given businesses a tax credit for moving operations back to the U.S. and removed deductions for moving them overseas.",
+ "what_it_does": "If adopted, the bill would have let businesses claim a tax credit worth up to 20% of expenses for closing a business located outside the United States and relocating it within the United States. It would also have barred businesses from deducting costs of moving a U.S. business operation overseas. To claim the credit, a business would have needed to increase its number of full-time U.S. employees.",
+ "who_it_affects": [
+  {
+   "group": "Businesses that move operations from outside the U.S. back to the U.S.",
+   "how": "They would have been able to claim a tax credit of up to 20% of qualifying relocation expenses, if they increased full-time U.S. employment."
+  },
+  {
+   "group": "Businesses that move U.S. operations to other countries",
+   "how": "They would have lost the ability to deduct expenses tied to relocating a U.S. business outside the country."
+  },
+  {
+   "group": "Full-time workers in the United States",
+   "how": "The bill tied the insourcing tax credit to growth in full-time U.S. jobs at the claiming business."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

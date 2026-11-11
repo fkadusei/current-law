@@ -1,0 +1,28 @@
+{
+ "headline": "H.R. 3233 would have created an independent national commission to investigate the January 6, 2021 attack on the U.S. Capitol and recommend security changes.",
+ "what_it_does": "The bill would have set up the National Commission to Investigate the January 6 Attack on the United States Capitol Complex inside the legislative branch. The commission would have investigated the facts and causes of the attack, and would have issued reports with findings and recommendations on preventing targeted violence, domestic terrorism, and improving Capitol security. It would have been given powers to hold hearings, receive evidence, and issue subpoenas, and would have been required to hold public hearings where appropriate and release public versions of its reports.",
+ "who_it_affects": [
+  {
+   "group": "U.S. Capitol Police and Capitol Complex security staff",
+   "how": "The commission's recommendations could have led to changes in how the Capitol complex is secured and how security responses are handled."
+  },
+  {
+   "group": "Members of Congress and congressional staff",
+   "how": "They could have been called to testify or provide information to the commission, and the commission's findings could have shaped future security decisions for the Capitol."
+  },
+  {
+   "group": "Witnesses and people with information about the attack",
+   "how": "They could have been subpoenaed and asked to give testimony or documents to the commission."
+  },
+  {
+   "group": "Federal, state, and local law enforcement agencies",
+   "how": "They could have been asked to share information with the commission and could have been affected by its recommendations on detecting and responding to targeted violence."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

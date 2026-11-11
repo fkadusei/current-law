@@ -1,0 +1,24 @@
+{
+ "headline": "S.J.Res. 2 would have blocked the Treasury Department from removing sanctions on three Russia-linked companies tied to Oleg Deripaska, but the Senate did not take it up.",
+ "what_it_does": "The resolution would have expressed Congress's disapproval of a report from the Office of Foreign Assets Control saying it planned to end sanctions on En+ Group plc, UC Rusal plc, and JSC EuroSibEnergo. These companies are connected to Oleg Deripaska, a Russian businessman under U.S. sanctions. Because the Senate refused to take up or end debate on the measure, it did not pass and the sanctions removal was not stopped by this resolution.",
+ "who_it_affects": [
+  {
+   "group": "En+ Group, UC Rusal, and JSC EuroSibEnergo",
+   "how": "These companies would have stayed under U.S. sanctions instead of having them lifted, which would have limited their access to U.S. financial systems and business dealings."
+  },
+  {
+   "group": "Oleg Deripaska and his business network",
+   "how": "Sanctions on companies tied to him would have remained in place rather than being removed."
+  },
+  {
+   "group": "U.S. businesses and banks that deal with Russian firms",
+   "how": "They would have kept following existing sanctions rules for these three companies rather than new rules that would have come with lifting them."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

@@ -1,0 +1,20 @@
+{
+ "headline": "A 2022 House-passed concurrent resolution that would have provided seven days of sick leave for railroad employees under recent labor agreements was voted down in the Senate.",
+ "what_it_does": "This measure would have set out seven days of sick leave for railroad employees. The leave would have followed the terms of the latest tentative agreements, side letters, and local carrier agreements between certain railroads and labor unions. It was also framed as a correction to the enrollment of H.J. Res. 100, the bill tied to those rail labor disputes.",
+ "who_it_affects": [
+  {
+   "group": "Railroad employees covered by the disputed labor agreements",
+   "how": "They would have received seven days of sick leave under the terms of the recent tentative agreements."
+  },
+  {
+   "group": "Railroad carriers party to the covered agreements",
+   "how": "They would have needed to provide the seven days of sick leave described in those agreements."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

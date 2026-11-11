@@ -1,0 +1,20 @@
+{
+ "headline": "Would have blocked a proposed change to a U.S. license allowing certain defense items, services, and technical data to be exported to Israel.",
+ "what_it_does": "This joint resolution would have used Congress's power to reject a proposed amendment to an export license for defense articles, defense services, and technical data going to Israel. If passed and signed into law, the license change would not have been allowed to move forward. No official summary is available, so the specific weapons or services covered are not described here.",
+ "who_it_affects": [
+  {
+   "group": "Government of Israel",
+   "how": "It would have stopped Israel from receiving the defense items, services, or technical data covered by the proposed license change."
+  },
+  {
+   "group": "U.S. defense companies holding the export license",
+   "how": "They would not have been allowed to carry out the exports covered by the license amendment."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-11"
+}

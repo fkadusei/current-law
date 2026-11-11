@@ -1,0 +1,36 @@
+{
+ "headline": "Would have provided fiscal year 2016 funding for most U.S. military activities, but the Senate did not take it up and it did not become law.",
+ "what_it_does": "The bill would have provided FY2016 money for the Department of Defense, including military pay, operations, weapons buying, research, and war-on-terrorism operations overseas. It would have raised total defense funding compared with FY2015 and set a 2.3% basic pay increase for military personnel. It also contained many limits on how the money could be spent, such as rules on buying American-made goods, transfers between accounts, and detainees at Guantanamo Bay.",
+ "who_it_affects": [
+  {
+   "group": "Active-duty and reserve military members",
+   "how": "They would have received a 2.3% basic pay increase and funding for pay, housing allowances, and other personnel costs."
+  },
+  {
+   "group": "National Guard and reserve units",
+   "how": "Their funding for operations, equipment, and personnel would have been set, and certain cuts to technician positions and Guard end strength would have been restricted."
+  },
+  {
+   "group": "Defense contractors and suppliers",
+   "how": "They would have had to meet rules such as Buy American requirements for steel, bearings, and some ship parts, and rules on contractor bonuses and nondiscrimination claims."
+  },
+  {
+   "group": "Military families and veterans' health care users",
+   "how": "Funding for Fisher Houses and the Defense Health Program would have been set, though the Defense Health Program base funding would have been reduced compared with FY2015."
+  },
+  {
+   "group": "Detainees at Guantanamo Bay",
+   "how": "Funds would have been barred from being used to move most non-citizen detainees into the United States or to modify U.S. facilities to hold them."
+  },
+  {
+   "group": "Indian tribes and Indian-owned businesses",
+   "how": "Certain contracting incentives and conveyances of excess Air Force housing units would have been provided to tribes in several western and midwestern states."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

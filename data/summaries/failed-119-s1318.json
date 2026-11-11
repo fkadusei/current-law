@@ -1,0 +1,36 @@
+{
+ "headline": "Failed Senate bill would have extended a foreign surveillance law with new FBI limits and banned a Federal Reserve digital currency.",
+ "what_it_does": "Despite its title about fallen servicemembers, the official summary describes a bill that would have renewed Title VII of the Foreign Intelligence Surveillance Act (FISA), including Section 702, until April 30, 2029. It would have added new oversight and criminal penalties for misuse of FBI searches of Americans' information collected under Section 702. It would also have barred the Federal Reserve from offering accounts or services directly to individuals and from creating or issuing a central bank digital currency (CBDC), with some exceptions. The Senate refused to take it up or end debate on June 5, 2026.",
+ "who_it_affects": [
+  {
+   "group": "US citizens and residents whose communications are swept up in foreign surveillance",
+   "how": "FBI searches of their information would have needed approval from certain FBI attorneys instead of supervisors, and each search would have been reviewed monthly by the Office of the Director of National Intelligence."
+  },
+  {
+   "group": "FBI employees",
+   "how": "They could have faced criminal penalties for knowingly breaking the rules on searching Americans' information or for lying about following those rules."
+  },
+  {
+   "group": "US intelligence agencies",
+   "how": "They would have kept legal authority to collect communications of non-US persons abroad through April 30, 2029."
+  },
+  {
+   "group": "Office of the Intelligence Community Inspector General",
+   "how": "It would have received referrals of searches that broke the rules or may have abused privacy or civil liberties."
+  },
+  {
+   "group": "Federal Reserve",
+   "how": "It would have been barred from holding accounts for individuals, offering them services directly, and studying, testing, or issuing a digital currency, with some exceptions."
+  },
+  {
+   "group": "Individual consumers",
+   "how": "They would not have been able to hold accounts or a digital currency directly with the Federal Reserve."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-11"
+}

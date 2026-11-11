@@ -1,0 +1,24 @@
+{
+ "headline": "Failed Senate resolution would have canceled an EPA rule repealing certain air pollution standards for coal- and oil-fired power plants.",
+ "what_it_does": "This resolution would have used the Congressional Review Act to cancel an EPA rule titled as a final repeal of hazardous air pollutant standards for coal- and oil-fired power plants. If adopted, the repeal rule would have had no legal effect, so the standards it removed would have stayed in place. The EPA also would have been barred from issuing a substantially similar rule unless Congress later allowed it. The Senate did not take it up, so none of this happened.",
+ "who_it_affects": [
+  {
+   "group": "Owners and operators of coal- and oil-fired power plants",
+   "how": "They would have stayed subject to the hazardous air pollutant standards that the EPA rule sought to repeal."
+  },
+  {
+   "group": "People living near coal- and oil-fired power plants",
+   "how": "The air pollution limits on nearby plants would have remained as they were before the repeal."
+  },
+  {
+   "group": "Environmental Protection Agency",
+   "how": "The agency's repeal would have been voided, and it would have been limited in issuing a similar repeal in the future."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-11"
+}

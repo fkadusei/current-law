@@ -1,0 +1,83 @@
+---
+import Base from "../../layouts/Base.astro";
+import FailedCard from "../../components/FailedCard.astro";
+import { allFailed, congressLabel, failedPartyLine, FAILED_KIND } from "../../lib/data.js";
+const items = allFailed();
+const congresses = [...new Set(items.map((i) => i.congress))].sort((a, b) => b - a);
+const count = (f) => items.filter(f).length;
+const firstYear = items.length ? Math.min(...items.map((i) => +i.failed_on.slice(0, 4))) : 2013;
+const fmt = (n) => n.toLocaleString("en-US");
+---
+<Base title="Didn't pass" description="Bills, resolutions and motions that failed a recorded vote in the House or Senate, and how every member voted.">
+  <section slot="hero" class="page-hero">
+    <div class="wrap">
+      <p class="eyebrow-label">Failed on the floor · {firstYear}–today</p>
+      <h1>Bills that didn't pass</h1>
+      <p>Bills, resolutions and motions that got a recorded vote in the House or Senate and failed: voted down, blocked by a Senate filibuster, shelved by the House, or stopped by a veto that Congress couldn't override. The color shows which party was behind each one.</p>
+      <dl class="mini-stats">
+        <div><dt>Failed measures</dt><dd>{fmt(items.length)}</dd></div>
+        <div><dt>Voted down</dt><dd>{fmt(count((i) => i.kind === "defeated"))}</dd></div>
+        <div><dt>Blocked in the Senate</dt><dd>{fmt(count((i) => i.kind === "blocked"))}</dd></div>
+        <div><dt>Shelved by the House</dt><dd>{fmt(count((i) => i.kind === "set_aside"))}</dd></div>
+      </dl>
+    </div>
+  </section>
+
+  <form class="filters card" role="search" onsubmit="return false">
+    <label class="sr-only" for="q">Search</label>
+    <input id="q" type="search" placeholder="Filter by name, topic, or bill number" autocomplete="off" />
+    <select id="kind" aria-label="How it failed">
+      <option value="">Any way it failed</option>
+      {Object.entries(FAILED_KIND).map(([k, v]) => <option value={k}>{v}</option>)}
+    </select>
+    <select id="chamber" aria-label="Chamber">
+      <option value="">House or Senate</option><option value="House">House</option><option value="Senate">Senate</option>
+    </select>
+    <select id="side" aria-label="Backed by">
+      <option value="">Backed by anyone</option>
+      <option value="D">Mostly Democrats</option>
+      <option value="R">Mostly Republicans</option>
+      <option value="partyline">One party only</option>
+    </select>
+    <select id="congress" aria-label="Congress">
+      <option value="">Any Congress</option>
+      {congresses.map((c) => <option value={c}>{congressLabel(c)}</option>)}
+    </select>
+  </form>
+  <p class="muted count"><span id="shown">{items.length}</span> measures. Amendments and procedural votes are not included. Sorted newest first.</p>
+  <div class="grid" id="items">
+    {items.map((item) => <FailedCard item={item} />)}
+  </div>
+  <p id="empty" class="muted" hidden>Nothing matches those filters.</p>
+</Base>
+<script>
+  const $ = (id) => document.getElementById(id);
+  const cards = [...document.querySelectorAll("#items .failed-card")];
+  function apply() {
+    const q = $("q").value.trim().toLowerCase().split(/\s+/).filter(Boolean);
+    const kind = $("kind").value, ch = $("chamber").value, side = $("side").value, cong = $("congress").value;
+    let n = 0;
+    for (const c of cards) {
+      const d = c.dataset;
+      const ok = q.every((w) => d.q.includes(w)) && (!kind || d.kind === kind) && (!ch || d.chamber === ch)
+        && (!side || (side === "partyline" ? d.pl === "1" : d.side === side)) && (!cong || d.congress === cong);
+      c.hidden = !ok;
+      if (ok) n++;
+    }
+    $("shown").textContent = n;
+    $("empty").hidden = n > 0;
+  }
+  for (const id of ["q", "kind", "chamber", "side", "congress"]) $(id).addEventListener("input", apply);
+  const p = new URLSearchParams(location.search);
+  for (const id of ["kind", "chamber", "side", "congress", "q"]) if (p.get(id)) $(id).value = p.get(id);
+  if ([...p.keys()].length) apply();
+</script>
+<style>
+  .mini-stats { display: flex; flex-wrap: wrap; gap: 10px; margin: 22px 0 0; }
+  .mini-stats div { background: rgb(255 255 255 / .06); border: 1px solid rgb(255 255 255 / .12); border-radius: 14px; padding: 12px 16px; min-width: 140px; }
+  .mini-stats dt { font-size: .72rem; color: rgb(255 255 255 / .7); text-transform: uppercase; letter-spacing: .08em; font-weight: 600; }
+  .mini-stats dd { margin: 4px 0 0; font: 700 1.7rem var(--serif); color: #fff; }
+  .filters { display: grid; grid-template-columns: minmax(200px, 2fr) repeat(4, minmax(140px, 1fr)); gap: 8px; padding: 12px; margin: 16px 0 8px; position: sticky; top: calc(var(--topbar-h, 110px) + 8px); z-index: 4; box-shadow: 0 -9px 0 0 var(--bg), var(--shadow); }
+  @media (max-width: 1000px) { .filters { grid-template-columns: 1fr 1fr; position: static; } .filters input { grid-column: 1 / -1; } }
+  .count { font-size: .88rem; margin: 12px 2px; }
+</style>

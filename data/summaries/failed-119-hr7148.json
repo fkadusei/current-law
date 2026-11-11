@@ -1,0 +1,36 @@
+{
+ "headline": "Failed bill would have funded defense, health, education, labor, transportation, housing, Treasury, and State for 2026, plus short-term Homeland Security funding.",
+ "what_it_does": "This bill would have provided full-year 2026 funding for several federal departments, combining 5 of the 12 regular yearly spending bills. It would have funded Homeland Security only through February 13, 2026, mostly at 2025 levels. It also would have extended many programs that were set to expire, such as the National Flood Insurance Program, TANF, trade benefits for Haiti and sub-Saharan Africa, and some health care programs. The Senate refused to take it up on January 29, 2026, so it did not become law.",
+ "who_it_affects": [
+  {
+   "group": "Federal agencies and their employees",
+   "how": "The Departments of Defense, Labor, Health and Human Services, Education, Transportation, Housing and Urban Development, Treasury, and State, plus the courts, would have received funding for the rest of fiscal year 2026."
+  },
+  {
+   "group": "Homeland Security workers and programs",
+   "how": "DHS would have been funded only through February 13, 2026, or until a full DHS spending bill passed, mostly at 2025 levels."
+  },
+  {
+   "group": "Homeowners and renters who rely on flood insurance",
+   "how": "The National Flood Insurance Program would have been extended."
+  },
+  {
+   "group": "Low-income families with children",
+   "how": "The Temporary Assistance for Needy Families (TANF) program would have been extended."
+  },
+  {
+   "group": "Businesses trading with Haiti and sub-Saharan Africa",
+   "how": "Trade preferences for goods from these countries would have been extended."
+  },
+  {
+   "group": "Residents of the District of Columbia",
+   "how": "The bill would have provided the District of Columbia's funding for 2026."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-11"
+}

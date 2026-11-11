@@ -1,0 +1,48 @@
+{
+ "headline": "This 2018 House bill would have overhauled immigration rules, including family and work visas, border security, and deportation procedures, but the House voted it down on June 21, 2018.",
+ "what_it_does": "If adopted, H.R. 4760 would have changed how immigrant visas are allocated, including family-based visas, and would have created a new temporary status for parents of adult U.S. citizens. It would have eliminated the diversity visa program and changed the temporary agricultural worker (H-2C) program, including a trust fund to encourage those workers to return home. It would also have required DHS to set up an employment verification system, moved southern border security authority from the Justice Department to DHS, and added border personnel, ports of entry, and barrier funding.",
+ "who_it_affects": [
+  {
+   "group": "Family-based immigrants and U.S. citizens who sponsor relatives",
+   "how": "The bill would have revised the family-related visa allocation rules and created a nonimmigrant status for parents of adult U.S. citizens."
+  },
+  {
+   "group": "Diversity visa applicants",
+   "how": "The bill would have ended the diversity visa lottery program entirely."
+  },
+  {
+   "group": "Agricultural employers and temporary farm workers",
+   "how": "The bill would have revised the H-2C temporary agricultural worker program and set up a trust fund to give workers incentives to return to their home countries."
+  },
+  {
+   "group": "Employers",
+   "how": "The bill would have required DHS to establish an employment eligibility verification system and revised existing verification rules."
+  },
+  {
+   "group": "Certain people who entered the U.S. as minors",
+   "how": "The bill would have given some of them contingent nonimmigrant status."
+  },
+  {
+   "group": "Asylum seekers and unaccompanied children",
+   "how": "The bill would have revised asylum rules, including asylum fraud provisions, and rules for unaccompanied alien children."
+  },
+  {
+   "group": "Noncitizens with criminal records or in removal proceedings",
+   "how": "The bill would have changed detention rules and the grounds for inadmissibility and deportability for criminal aliens, gang members, drunk drivers, and sex offenders."
+  },
+  {
+   "group": "Foreign students and visa applicants",
+   "how": "The bill would have changed rules for foreign students and visa fraud, and would have required DHS to review social media activity of visa applicants."
+  },
+  {
+   "group": "Border communities and law enforcement agencies",
+   "how": "The bill would have added border security personnel, new ports of entry, National Guard border activities, and Operation Stonegarden grants to law enforcement."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

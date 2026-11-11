@@ -1,0 +1,48 @@
+{
+ "headline": "Failed tax bill would have expanded the child tax credit, restored business tax breaks, and added housing and disaster tax relief.",
+ "what_it_does": "The bill would have let more low-income families get the child tax credit as a refund, raising the maximum refundable amount per child to $1,800 for 2023, $1,900 for 2024, and $2,000 for 2025. It would have let businesses fully deduct U.S. research costs right away through 2025 and extended other business tax breaks for equipment and interest. It would also have expanded the low-income housing tax credit, made certain disaster payments tax-free, and set special tax rules for people and businesses tied to Taiwan. It would have raised the income reporting threshold for independent contractors from $600 to $1,000 and increased penalties for fraud involving a COVID-era employer tax credit.",
+ "who_it_affects": [
+  {
+   "group": "Low-income families with children",
+   "how": "They would have been able to get a larger part of the child tax credit as a refund, with the amount figured for each child."
+  },
+  {
+   "group": "Low-income workers who claim the earned income tax credit",
+   "how": "They could have chosen to use the previous year's earnings to figure their credit in 2024 and 2025."
+  },
+  {
+   "group": "Businesses that do research in the U.S.",
+   "how": "They could have deducted domestic research costs right away instead of spreading them over five years."
+  },
+  {
+   "group": "Businesses that buy equipment or borrow money",
+   "how": "They would have gotten extended 100% bonus depreciation, higher limits on expensing equipment, and a more generous limit on deducting business interest."
+  },
+  {
+   "group": "Developers of affordable rental housing",
+   "how": "More low-income housing tax credits would have been available, and bond-financed projects would have qualified more easily."
+  },
+  {
+   "group": "Victims of certain wildfires and the East Palestine, Ohio train derailment",
+   "how": "Payments they received for losses or damages would not have counted as taxable income."
+  },
+  {
+   "group": "Taiwanese residents and businesses with U.S. income",
+   "how": "They would have faced lower U.S. withholding taxes and new rules for avoiding being taxed twice."
+  },
+  {
+   "group": "Independent contractors and the businesses that pay them",
+   "how": "Businesses would only have had to file income reports for contractors paid $1,000 or more, up from $600, adjusted for inflation."
+  },
+  {
+   "group": "Tax preparers and promoters involved in employee retention credit claims",
+   "how": "They would have faced higher penalties for helping people improperly claim the COVID-era employee retention tax credit."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-11"
+}

@@ -1,0 +1,895 @@
+{
+ "id": "118-s4361",
+ "congress": 118,
+ "bill": "S. 4361",
+ "bill_type": "S",
+ "title": "Border Act of 2024",
+ "policy_area": "Immigration",
+ "sponsor": "Sen. Murphy, Christopher [D-CT]",
+ "latest_action": {
+  "actionDate": "2024-05-23",
+  "text": "Cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 43 - 50. Record Vote Number: 182. (CR S3878)"
+ },
+ "official_summary": "<p><strong>Border Act of 2024</strong></p><p>The bill expands Department of Homeland Security (DHS) authority to address the processing of non-U.S. nationals (<em>aliens </em>under federal law) and provides supplemental appropriations for related purposes.<br/><br/>Among other provisions, the bill provides&nbsp;DHS emergency authority to summarily remove or prohibit the entry of certain non-U.S. nationals within 100 miles of the southwest land border. DHS may exercise this authority if DHS encounters an average of 4,000 non-U.S. nationals within a seven-day period. If the number of encounters reach certain higher thresholds, DHS must exercise the emergency authority. This emergency border authority expires after three years and may be modified by the President under specified circumstances.</p><p>Next, the bill establishes an&nbsp;expedited process that authorizes asylum officers to adjudicate certain asylum claims. Among other provisions, these <em>provisional noncustodial removal proceedings </em>impose certain target timelines for determining asylum claims and limit review of denied claims.<em></em> The bill also establishes a stricter threshold for individuals to remain in the United States pending adjudication of an&nbsp;asylum petition. </p><p>The bill extends and establishes immigration pathways for Afghan citizens or nationals, including by (1) making certain individuals admitted or paroled to the United States eligible for conditional permanent resident status, and (2) expanding eligibility for&nbsp;special immigrant visas for certain individuals who were injured while supporting the U.S. mission in Afghanistan.</p><p>The bill also increases base pay for asylum officers and grants DHS temporary direct hire authority to hire personnel to implement the bill.</p><!--tinycomments|2.1|data:application/json;base64,eyJtY2UtY29udmVyc2F0aW9uXzQyNTIyNjQwMDMxNzE3NjIyMzUzOTM3Ijp7InVpZCI6Im1jZS1jb252ZXJzYXRpb25fNDI1MjI2NDAwMzE3MTc2MjIzNTM5MzciLCJjb21tZW50cyI6W3sidWlkIjoibWNlLWNvbnZlcnNhdGlvbl80MjUyMjY0MDAzMTcxNzYyMjM1MzkzNyIsImF1dGhvciI6Im1vaG9yYUBsaWIubG9jLmdvdiIsImF1dGhvck5hbWUiOiJtb2hvcmFAbGliLmxvYy5nb3YiLCJjb250ZW50Ijoicy4gMzAxIG9mIHRoZSBiaWxsIiwiY3JlYXRlZEF0IjoiMjAyNC0wNi0wNVQyMToxOToxMy45MzdaIiwibW9kaWZpZWRBdCI6IjIwMjQtMDYtMDVUMjE6MTk6MTMuOTM3WiJ9XX0sIm1jZS1jb252ZXJzYXRpb25fMzg3MzE5NTI2NDE3MTc2MjIzNzAwODAiOnsidWlkIjoibWNlLWNvbnZlcnNhdGlvbl8zODczMTk1MjY0MTcxNzYyMjM3MDA4MCIsImNvbW1lbnRzIjpbeyJ1aWQiOiJtY2UtY29udmVyc2F0aW9uXzM4NzMxOTUyNjQxNzE3NjIyMzcwMDgwIiwiYXV0aG9yIjoibW9ob3JhQGxpYi5sb2MuZ292IiwiYXV0aG9yTmFtZSI6Im1vaG9yYUBsaWIubG9jLmdvdiIsImNvbnRlbnQiOiJzLiAzMTEtMzE4IGdlbmVyYWxseSIsImNyZWF0ZWRBdCI6IjIwMjQtMDYtMDVUMjE6MTk6MzAuMDgwWiIsIm1vZGlmaWVkQXQiOiIyMDI0LTA2LTA1VDIxOjE5OjMwLjA4MFoifV19LCJtY2UtY29udmVyc2F0aW9uXzI4MzEzNTA5NjMxNzIyMjY5MDUwNjA0Ijp7InVpZCI6Im1jZS1jb252ZXJzYXRpb25fMjgzMTM1MDk2MzE3MjIyNjkwNTA2MDQiLCJjb21tZW50cyI6W3sidWlkIjoibWNlLWNvbnZlcnNhdGlvbl8yODMxMzUwOTYzMTcyMjI2OTA1MDYwNCIsImF1dGhvciI6InBsZXVuZ0BsaWIubG9jLmdvdiIsImF1dGhvck5hbWUiOiJwbGV1bmdAbGliLmxvYy5nb3YiLCJjb250ZW50IjoiQWRkaW5nIHRoYXQgaXQgaXMgZW1lcmdlbmN5IGF1dGhvcml0eSB0byBzaWducG9zdCB0aGF0IHRoZXJlIGFyZSBjb25kaXRpb25zIHRvIHRoaXMgYXV0aG9yaXR5LSBnZW5lcmFsbHkgaWYgd2UgdGFsayBhYm91dCBsaW1pdHMgb3IgY29uZGl0aW9ucyBpbiBhIHNlcGFyYXRlIHNlbnRlbmNlIHdlIHNob3VsZCBzaWducG9zdCB0aGF0LiBTdHJlYW1saW5lZCB0aGUgZGlzY3Vzc2lvbiBvZiB0aGUgdGhyZXNob2xkcyBmb3Igc3BhY2UuIiwiY3JlYXRlZEF0IjoiMjAyNC0wNy0yOVQxNjowNDoxMC42MDRaIiwibW9kaWZpZWRBdCI6IjIwMjQtMDctMjlUMTY6MDQ6MTAuNjA0WiJ9XX0sIm1jZS1jb252ZXJzYXRpb25fNjc2NzAxMzc3NDE3MjIyNjkxMDU3NDYiOnsidWlkIjoibWNlLWNvbnZlcnNhdGlvbl82NzY3MDEzNzc0MTcyMjI2OTEwNTc0NiIsImNvbW1lbnRzIjpbeyJ1aWQiOiJtY2UtY29udmVyc2F0aW9uXzY3NjcwMTM3NzQxNzIyMjY5MTA1NzQ2IiwiYXV0aG9yIjoicGxldW5nQGxpYi5sb2MuZ292IiwiYXV0aG9yTmFtZSI6InBsZXVuZ0BsaWIubG9jLmdvdiIsImNvbnRlbnQiOiJFeHBhbmRlZCBhIGJpdCB0byBnaXZlIGEgbW9yZSBnZW5lcmFsIHNlbnNlIHdoYXQgdGhpcyBwcm9jZWR1cmUgaXMsIHJhdGhlciB0aGFuIGZvY3VzaW5nIG9uIHRoZSA5MC1kYXkgZGVhZGxpbmUuIiwiY3JlYXRlZEF0IjoiMjAyNC0wNy0yOVQxNjowNTowNS43NDVaIiwibW9kaWZpZWRBdCI6IjIwMjQtMDctMjlUMTY6MDU6MDUuNzQ1WiJ9XX0sIm1jZS1jb252ZXJzYXRpb25fOTYwMzg3MDk1MTcyMjI2OTMxNDQyMCI6eyJ1aWQiOiJtY2UtY29udmVyc2F0aW9uXzk2MDM4NzA5NTE3MjIyNjkzMTQ0MjAiLCJjb21tZW50cyI6W3sidWlkIjoibWNlLWNvbnZlcnNhdGlvbl85NjAzODcwOTUxNzIyMjY5MzE0NDIwIiwiYXV0aG9yIjoicGxldW5nQGxpYi5sb2MuZ292IiwiYXV0aG9yTmFtZSI6InBsZXVuZ0BsaWIubG9jLmdvdiIsImNvbnRlbnQiOiJDbGFyaWZ5aW5nIHRoYXQgc3BlY2lhbCBpbW1pZ3JhbnQgdmlzYXMgYWxyZWFkeSBleGlzdCBhbmQgdGhpcyBpcyBtb3JlIGFib3V0IGV4cGFuZGluZyBlbGlnaWJpbGl0eS4gIiwiY3JlYXRlZEF0IjoiMjAyNC0wNy0yOVQxNjowODozNC40MjBaIiwibW9kaWZpZWRBdCI6IjIwMjQtMDctMjlUMTY6MDg6MzQuNDIwWiJ9XX0sIm1jZS1jb252ZXJzYXRpb25fMjk4NDQyMTU0NjE3MjIyNjk0MTE5NTIiOnsidWlkIjoibWNlLWNvbnZlcnNhdGlvbl8yOTg0NDIxNTQ2MTcyMjI2OTQxMTk1MiIsImNvbW1lbnRzIjpbeyJ1aWQiOiJtY2UtY29udmVyc2F0aW9uXzI5ODQ0MjE1NDYxNzIyMjY5NDExOTUyIiwiYXV0aG9yIjoicGxldW5nQGxpYi5sb2MuZ292IiwiYXV0aG9yTmFtZSI6InBsZXVuZ0BsaWIubG9jLmdvdiIsImNvbnRlbnQiOiJTaW5lbWEncyBvZmZpY2UgcmVsZWFzZWQgdGV4dCBvZiB3aGF0IGxvb2tzIGxpa2UgdGhpcyBiaWxsIGFzIHBhcnQgb2YgYm9yZGVyIG5lZ290aWF0aW9ucy0gaXQgYXBwZWFycyBpdCB3YXMgbmV2ZXIgZm9ybWFsbHkgaW50cm9kdWNlZCBzbyBpdCBkb2Vzbid0IHNob3cgdXAgb24gVEFQLiBUaGlzIGlzIHRoZWlyIHN0YXRlbWVudCBhbmQgSSd2ZSB1cGxvYWRlZCB0aGVpciBiaWxsIGFuZCB0aGVpciBzZWN0aW9uLWJ5LXNlY3Rpb24gaW50byB0aGUgcmVzZWFyY2ggdGFiOiBodHRwczovL3d3dy5zaW5lbWEuc2VuYXRlLmdvdi9zaW5lbWEtbmVnb3RpYXRvcnMtcmVhY2gtZGVhbC1vbi1iaXBhcnRpc2FuLWJvcmRlci1zZWN1cml0eS1wYWNrYWdlLyIsImNyZWF0ZWRBdCI6IjIwMjQtMDctMjlUMTY6MTA6MTEuOTUyWiIsIm1vZGlmaWVkQXQiOiIyMDI0LTA3LTI5VDE2OjEwOjExLjk1MloifV19fQ==-->",
+ "congress_gov_url": "https://www.congress.gov/bill/118th-congress/senate-bill/4361",
+ "failed_on": "2024-05-23",
+ "kind": "blocked",
+ "chamber": "Senate",
+ "later_became_law": null,
+ "votes": [
+  {
+   "chamber": "Senate",
+   "roll": 182,
+   "date": "2024-05-23",
+   "kind": "blocked",
+   "question": "On the Cloture Motion",
+   "result": "Cloture Motion Rejected",
+   "required": "3/5",
+   "yea": 43,
+   "nay": 50,
+   "support": "yea",
+   "by_party": {
+    "R": {
+     "nay": 44,
+     "not voting": 4,
+     "yea": 1
+    },
+    "D": {
+     "nay": 4,
+     "yea": 41,
+     "not voting": 3
+    },
+    "I": {
+     "nay": 2,
+     "yea": 1
+    }
+   },
+   "majority_party": "D",
+   "members": [
+    {
+     "icpsr": "14226",
+     "bioguide": "G000386",
+     "name": "GRASSLEY, Charles Ernest",
+     "party": "R",
+     "state": "IA",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "14435",
+     "bioguide": "M000133",
+     "name": "MARKEY, Edward John",
+     "party": "D",
+     "state": "MA",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "14858",
+     "bioguide": "S000148",
+     "name": "SCHUMER, Charles Ellis (Chuck)",
+     "party": "D",
+     "state": "NY",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "14871",
+     "bioguide": "W000779",
+     "name": "WYDEN, Ronald Lee",
+     "party": "D",
+     "state": "OR",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "14921",
+     "bioguide": "M000355",
+     "name": "MCCONNELL, Addison Mitchell (Mitch)",
+     "party": "R",
+     "state": "KY",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "15015",
+     "bioguide": "C000174",
+     "name": "CARPER, Thomas Richard",
+     "party": "D",
+     "state": "DE",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "15021",
+     "bioguide": "D000563",
+     "name": "DURBIN, Richard Joseph",
+     "party": "D",
+     "state": "IL",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "15408",
+     "bioguide": "C000141",
+     "name": "CARDIN, Benjamin Louis",
+     "party": "D",
+     "state": "MD",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20101",
+     "bioguide": "B001236",
+     "name": "BOOZMAN, John",
+     "party": "R",
+     "state": "AR",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "20146",
+     "bioguide": "C001047",
+     "name": "CAPITO, Shelley Moore",
+     "party": "R",
+     "state": "WV",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "20330",
+     "bioguide": "V000128",
+     "name": "VAN HOLLEN, Christopher",
+     "party": "D",
+     "state": "MD",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20351",
+     "bioguide": "B001243",
+     "name": "BLACKBURN, Marsha",
+     "party": "R",
+     "state": "TN",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "20707",
+     "bioguide": "M001169",
+     "name": "MURPHY, Christopher",
+     "party": "D",
+     "state": "CT",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20713",
+     "bioguide": "H001042",
+     "name": "HIRONO, Mazie",
+     "party": "D",
+     "state": "HI",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20735",
+     "bioguide": "G000555",
+     "name": "GILLIBRAND, Kirsten",
+     "party": "D",
+     "state": "NY",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20750",
+     "bioguide": "W000800",
+     "name": "WELCH, Peter",
+     "party": "D",
+     "state": "VT",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20919",
+     "bioguide": "C001075",
+     "name": "CASSIDY, Bill",
+     "party": "R",
+     "state": "LA",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "20923",
+     "bioguide": "P000595",
+     "name": "PETERS, Gary C.",
+     "party": "D",
+     "state": "MI",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20930",
+     "bioguide": "H001046",
+     "name": "HEINRICH, Martin",
+     "party": "D",
+     "state": "NM",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20932",
+     "bioguide": "L000570",
+     "name": "LUJÁN, Ben Ray",
+     "party": "D",
+     "state": "NM",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20953",
+     "bioguide": "L000571",
+     "name": "LUMMIS, Cynthia M.",
+     "party": "R",
+     "state": "WY",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "21133",
+     "bioguide": "Y000064",
+     "name": "YOUNG, Todd",
+     "party": "R",
+     "state": "IN",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "21166",
+     "bioguide": "L000575",
+     "name": "LANKFORD, James",
+     "party": "R",
+     "state": "OK",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "21173",
+     "bioguide": "S001184",
+     "name": "SCOTT, Tim",
+     "party": "R",
+     "state": "SC",
+     "vote": "not voting"
+    },
+    {
+     "icpsr": "21301",
+     "bioguide": "C001095",
+     "name": "COTTON, Thomas Bryant (Tom)",
+     "party": "R",
+     "state": "AR",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "21325",
+     "bioguide": "D000622",
+     "name": "DUCKWORTH, Tammy",
+     "party": "D",
+     "state": "IL",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "21338",
+     "bioguide": "D000618",
+     "name": "DAINES, Steve",
+     "party": "R",
+     "state": "MT",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "21350",
+     "bioguide": "C001096",
+     "name": "CRAMER, Kevin",
+     "party": "R",
+     "state": "ND",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "21355",
+     "bioguide": "M001190",
+     "name": "MULLIN, Markwayne",
+     "party": "R",
+     "state": "OK",
+     "vote": "not voting"
+    },
+    {
+     "icpsr": "21708",
+     "bioguide": "B001305",
+     "name": "BUDD, Theodore Paul",
+     "party": "R",
+     "state": "NC",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "21734",
+     "bioguide": "M001198",
+     "name": "MARSHALL, Roger Wayne",
+     "party": "R",
+     "state": "KS",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "21743",
+     "bioguide": "R000608",
+     "name": "ROSEN, Jacklyn Sheryl",
+     "party": "D",
+     "state": "NV",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29142",
+     "bioguide": "R000122",
+     "name": "REED, John F. (Jack)",
+     "party": "D",
+     "state": "RI",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29147",
+     "bioguide": "S000033",
+     "name": "SANDERS, Bernard",
+     "party": "I",
+     "state": "VT",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "29345",
+     "bioguide": "C000880",
+     "name": "CRAPO, Michael Dean",
+     "party": "R",
+     "state": "ID",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "29373",
+     "bioguide": "M000639",
+     "name": "MENENDEZ, Robert",
+     "party": "D",
+     "state": "NJ",
+     "vote": "not voting"
+    },
+    {
+     "icpsr": "29389",
+     "bioguide": "B000944",
+     "name": "BROWN, Sherrod",
+     "party": "D",
+     "state": "OH",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29534",
+     "bioguide": "W000437",
+     "name": "WICKER, Roger F.",
+     "party": "R",
+     "state": "MS",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "29566",
+     "bioguide": "G000359",
+     "name": "GRAHAM, Lindsey O.",
+     "party": "R",
+     "state": "SC",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "29722",
+     "bioguide": "M000934",
+     "name": "MORAN, Jerry",
+     "party": "R",
+     "state": "KS",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "29732",
+     "bioguide": "S000770",
+     "name": "STABENOW, Deborah Ann",
+     "party": "D",
+     "state": "MI",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "29754",
+     "bioguide": "T000250",
+     "name": "THUNE, John",
+     "party": "R",
+     "state": "SD",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "29940",
+     "bioguide": "B001230",
+     "name": "BALDWIN, Tammy",
+     "party": "D",
+     "state": "WI",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "39310",
+     "bioguide": "C000127",
+     "name": "CANTWELL, Maria E.",
+     "party": "D",
+     "state": "WA",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "40300",
+     "bioguide": "M001153",
+     "name": "MURKOWSKI, Lisa",
+     "party": "R",
+     "state": "AK",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "40305",
+     "bioguide": "C001056",
+     "name": "CORNYN, John",
+     "party": "R",
+     "state": "TX",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "40700",
+     "bioguide": "K000367",
+     "name": "KLOBUCHAR, Amy",
+     "party": "D",
+     "state": "MN",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "40702",
+     "bioguide": "T000464",
+     "name": "TESTER, Jon",
+     "party": "D",
+     "state": "MT",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "40703",
+     "bioguide": "C001070",
+     "name": "CASEY, Robert (Bob), Jr.",
+     "party": "D",
+     "state": "PA",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "40704",
+     "bioguide": "W000802",
+     "name": "WHITEHOUSE, Sheldon",
+     "party": "D",
+     "state": "RI",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "40707",
+     "bioguide": "B001261",
+     "name": "BARRASSO, John A.",
+     "party": "R",
+     "state": "WY",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "40902",
+     "bioguide": "R000584",
+     "name": "RISCH, James",
+     "party": "R",
+     "state": "ID",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "40906",
+     "bioguide": "S001181",
+     "name": "SHAHEEN, Jeanne",
+     "party": "D",
+     "state": "NH",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "40908",
+     "bioguide": "M001176",
+     "name": "MERKLEY, Jeff",
+     "party": "D",
+     "state": "OR",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "40909",
+     "bioguide": "W000805",
+     "name": "WARNER, Mark R.",
+     "party": "D",
+     "state": "VA",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "40910",
+     "bioguide": "B001267",
+     "name": "BENNET, Michael F.",
+     "party": "D",
+     "state": "CO",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "40915",
+     "bioguide": "M001183",
+     "name": "MANCHIN, Joe, III",
+     "party": "D",
+     "state": "WV",
+     "vote": "not voting"
+    },
+    {
+     "icpsr": "40916",
+     "bioguide": "C001088",
+     "name": "COONS, Christopher A.",
+     "party": "D",
+     "state": "DE",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "41101",
+     "bioguide": "B001277",
+     "name": "BLUMENTHAL, Richard",
+     "party": "D",
+     "state": "CT",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "41102",
+     "bioguide": "R000595",
+     "name": "RUBIO, Marco",
+     "party": "R",
+     "state": "FL",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41104",
+     "bioguide": "P000603",
+     "name": "PAUL, Rand",
+     "party": "R",
+     "state": "KY",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41107",
+     "bioguide": "H001061",
+     "name": "HOEVEN, John",
+     "party": "R",
+     "state": "ND",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41110",
+     "bioguide": "L000577",
+     "name": "LEE, Mike",
+     "party": "R",
+     "state": "UT",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41111",
+     "bioguide": "J000293",
+     "name": "JOHNSON, Ron",
+     "party": "R",
+     "state": "WI",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41112",
+     "bioguide": "S001194",
+     "name": "SCHATZ, Brian Emanuel",
+     "party": "D",
+     "state": "HI",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "41300",
+     "bioguide": "K000383",
+     "name": "KING, Angus Stanley, Jr.",
+     "party": "I",
+     "state": "ME",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "41301",
+     "bioguide": "W000817",
+     "name": "WARREN, Elizabeth",
+     "party": "D",
+     "state": "MA",
+     "vote": "not voting"
+    },
+    {
+     "icpsr": "41302",
+     "bioguide": "F000463",
+     "name": "FISCHER, Debra (Deb)",
+     "party": "R",
+     "state": "NE",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41304",
+     "bioguide": "C001098",
+     "name": "CRUZ, Rafael Edward (Ted)",
+     "party": "R",
+     "state": "TX",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41305",
+     "bioguide": "K000384",
+     "name": "KAINE, Timothy Michael (Tim)",
+     "party": "D",
+     "state": "VA",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "41308",
+     "bioguide": "B001288",
+     "name": "BOOKER, Cory Anthony",
+     "party": "D",
+     "state": "NJ",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41500",
+     "bioguide": "S001198",
+     "name": "SULLIVAN, Daniel Scott",
+     "party": "R",
+     "state": "AK",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41502",
+     "bioguide": "E000295",
+     "name": "ERNST, Joni",
+     "party": "R",
+     "state": "IA",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41504",
+     "bioguide": "T000476",
+     "name": "TILLIS, Thomas Roland (Thom)",
+     "party": "R",
+     "state": "NC",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41505",
+     "bioguide": "R000605",
+     "name": "ROUNDS, Marion Michael (Mike)",
+     "party": "R",
+     "state": "SD",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41700",
+     "bioguide": "C001113",
+     "name": "CORTEZ MASTO, Catherine Marie",
+     "party": "D",
+     "state": "NV",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "41702",
+     "bioguide": "H001076",
+     "name": "HASSAN, Margaret Wood (Maggie)",
+     "party": "D",
+     "state": "NH",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "41703",
+     "bioguide": "K000393",
+     "name": "KENNEDY, John Neely",
+     "party": "R",
+     "state": "LA",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41706",
+     "bioguide": "S001203",
+     "name": "SMITH, Tina",
+     "party": "D",
+     "state": "MN",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "41707",
+     "bioguide": "H001079",
+     "name": "HYDE-SMITH, Cindy",
+     "party": "R",
+     "state": "MS",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41900",
+     "bioguide": "B001310",
+     "name": "BRAUN, Michael",
+     "party": "R",
+     "state": "IN",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41901",
+     "bioguide": "H001089",
+     "name": "HAWLEY, Joshua David",
+     "party": "R",
+     "state": "MO",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41902",
+     "bioguide": "R000615",
+     "name": "ROMNEY, Willard Mitt (Mitt)",
+     "party": "R",
+     "state": "UT",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41903",
+     "bioguide": "S001217",
+     "name": "SCOTT, Richard Lynn (Rick)",
+     "party": "R",
+     "state": "FL",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "41905",
+     "bioguide": "K000377",
+     "name": "KELLY, Mark Edward",
+     "party": "D",
+     "state": "AZ",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "42100",
+     "bioguide": "H000601",
+     "name": "HAGERTY, William Francis (Bill)",
+     "party": "R",
+     "state": "TN",
+     "vote": "not voting"
+    },
+    {
+     "icpsr": "42101",
+     "bioguide": "H000273",
+     "name": "HICKENLOOPER, John Wright",
+     "party": "D",
+     "state": "CO",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "42102",
+     "bioguide": "T000278",
+     "name": "TUBERVILLE, Thomas Hawley (Tommy)",
+     "party": "R",
+     "state": "AL",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "42103",
+     "bioguide": "O000174",
+     "name": "OSSOFF, Thomas Jonathan (Jon)",
+     "party": "D",
+     "state": "GA",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "42104",
+     "bioguide": "P000145",
+     "name": "PADILLA, Alejandro (Alex)",
+     "party": "D",
+     "state": "CA",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "42105",
+     "bioguide": "W000790",
+     "name": "WARNOCK, Raphael Gamaliel",
+     "party": "D",
+     "state": "GA",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "42300",
+     "bioguide": "B001319",
+     "name": "BRITT, Katie Elizabeth",
+     "party": "R",
+     "state": "AL",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "42301",
+     "bioguide": "F000479",
+     "name": "FETTERMAN, John Karl",
+     "party": "D",
+     "state": "PA",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "42302",
+     "bioguide": "R000618",
+     "name": "RICKETTS, John Peter (Pete)",
+     "party": "R",
+     "state": "NE",
+     "vote": "not voting"
+    },
+    {
+     "icpsr": "42303",
+     "bioguide": "S001227",
+     "name": "SCHMITT, Eric Stephen",
+     "party": "R",
+     "state": "MO",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "42304",
+     "bioguide": "V000137",
+     "name": "VANCE, James David",
+     "party": "R",
+     "state": "OH",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "42305",
+     "bioguide": "B001320",
+     "name": "BUTLER, Laphonza Romanique",
+     "party": "D",
+     "state": "CA",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "49308",
+     "bioguide": "M001111",
+     "name": "MURRAY, Patty",
+     "party": "D",
+     "state": "WA",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "49703",
+     "bioguide": "C001035",
+     "name": "COLLINS, Susan Margaret",
+     "party": "R",
+     "state": "ME",
+     "vote": "nay"
+    },
+    {
+     "icpsr": "91300",
+     "bioguide": "S001191",
+     "name": "SINEMA, Kyrsten",
+     "party": "I",
+     "state": "AZ",
+     "vote": "nay"
+    }
+   ]
+  }
+ ],
+ "support_color": {
+  "side": "D",
+  "share": 0.976,
+  "r_support": 1,
+  "d_support": 41,
+  "shade": 0.952,
+  "party_line": null
+ },
+ "control": {
+  "Senate": "D"
+ },
+ "summary": {
+  "headline": "Failed Senate bill would have given Homeland Security emergency power to quickly turn away migrants at the southwest border and sped up asylum decisions.",
+  "what_it_does": "The bill would have let the Department of Homeland Security (DHS) quickly remove or block entry of certain non-U.S. nationals within 100 miles of the southwest border when encounters averaged 4,000 a day over seven days, and required it at higher levels; this power would have ended after three years. It would have created a faster asylum process run by asylum officers, with target timelines and limited appeals, and a stricter standard for staying in the U.S. while a claim is decided. It would also have opened paths to permanent residence for certain Afghans and provided extra funding, higher pay for asylum officers, and faster hiring at DHS.",
+  "who_it_affects": [
+   {
+    "group": "People crossing or arriving at the southwest border",
+    "how": "They could have been quickly removed or blocked from entering when border encounters passed set levels."
+   },
+   {
+    "group": "People seeking asylum in the U.S.",
+    "how": "Their claims would have faced a faster process, a stricter early screening standard, and limited review if denied."
+   },
+   {
+    "group": "Afghans admitted or paroled into the U.S.",
+    "how": "Certain individuals would have become eligible for conditional permanent resident status."
+   },
+   {
+    "group": "Afghans injured while supporting the U.S. mission in Afghanistan",
+    "how": "They would have had expanded eligibility for special immigrant visas."
+   },
+   {
+    "group": "DHS asylum officers and job applicants",
+    "how": "Asylum officers would have gotten higher base pay, and DHS could have hired staff more quickly for a limited time."
+   }
+  ],
+  "when_it_takes_effect": "Did not take effect",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-11"
+ }
+}

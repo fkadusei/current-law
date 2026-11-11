@@ -1,0 +1,24 @@
+{
+ "headline": "A 2014 House bill that would have exempted certain overseas health plans for Americans and others working abroad from some Affordable Care Act rules, but the House voted it down.",
+ "what_it_does": "The bill would have exempted expatriate health plans, their sponsoring employers, and their insurers from certain health coverage requirements in the Affordable Care Act. It would have treated coverage under these plans as meeting the federal individual responsibility (coverage) requirement. It would also have removed qualified expatriates from the count used to calculate the annual health insurer fee, starting after 2014, with a separate calculation rule for 2014.",
+ "who_it_affects": [
+  {
+   "group": "Americans and other qualified expatriates working abroad",
+   "how": "People working overseas for at least 180 days in a 12-month period could have been covered under expatriate plans that count toward the federal coverage requirement."
+  },
+  {
+   "group": "Employers that sponsor expatriate health plans",
+   "how": "These employers would have been exempt from certain ACA health coverage requirements for their overseas plans."
+  },
+  {
+   "group": "Health insurance issuers offering expatriate coverage",
+   "how": "Insurers would have been exempt from certain ACA coverage requirements and excluded from the annual fee calculation for expatriate enrollees."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

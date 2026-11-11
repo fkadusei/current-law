@@ -1,0 +1,20 @@
+{
+ "headline": "Failed Senate resolution would have directed the removal of U.S. troops from hostilities in Syria that Congress had not authorized.",
+ "what_it_does": "This joint resolution would have directed the President to remove U.S. Armed Forces from hostilities in Syria that Congress had not approved. No official summary is available, so details such as deadlines or exceptions are not known from the source material. The Senate voted on December 7, 2023, not to take it up, so it did not pass.",
+ "who_it_affects": [
+  {
+   "group": "U.S. military service members deployed in Syria",
+   "how": "They would have been withdrawn from hostilities in Syria that lacked approval from Congress."
+  },
+  {
+   "group": "The President and the Defense Department",
+   "how": "They would have been required to remove forces from unauthorized hostilities in Syria."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-11"
+}

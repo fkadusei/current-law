@@ -1,0 +1,32 @@
+{
+ "headline": "A 2014 House bill that was voted down would have made several charity-related tax rules permanent and expanded a deduction for donated food.",
+ "what_it_does": "The bill would have made two existing tax breaks permanent: deductions for giving conservation land interests to charity, and tax-free IRA transfers to charities. It would also have let Alaska Native Corporations claim the conservation deduction for certain property. Finally, it would have raised the limit on deductible food donations from 10% to 15% of income and let some businesses value donated food at 25% of its fair market value.",
+ "who_it_affects": [
+  {
+   "group": "Individuals who give land or conservation easements to charities",
+   "how": "They would have been able to keep the tax deduction for these gifts without it expiring."
+  },
+  {
+   "group": "People age 70 and older with individual retirement accounts",
+   "how": "They would have been able to move IRA money directly to charities tax-free on a permanent basis."
+  },
+  {
+   "group": "Alaska Native Corporations",
+   "how": "They would have been able to claim a charitable deduction for conservation gifts of property conveyed under the Alaska Native Claims Settlement Act."
+  },
+  {
+   "group": "Businesses and individuals that donate food",
+   "how": "They would have been able to deduct a larger share of their income for food donations and value certain wholesome food at 25% of its fair market value."
+  },
+  {
+   "group": "Food banks and charities that receive food donations",
+   "how": "They would have seen a larger pool of deductible food donations available to them."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

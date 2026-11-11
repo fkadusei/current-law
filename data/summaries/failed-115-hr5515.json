@@ -1,0 +1,44 @@
+{
+ "headline": "The 2018 defense authorization bill (H.R. 5515) would have set funding and policy for the military, military construction, and Energy Department nuclear programs for fiscal year 2019, but the Senate did not advance it.",
+ "what_it_does": "The bill would have authorized spending limits for the Department of Defense and Department of Energy national security programs for fiscal year 2019, though it would not have provided the actual money, which Congress handles in separate appropriations bills. It would have set military personnel levels, pay and benefit rules, health care policies, weapons purchasing and military construction rules, and many reporting requirements. It would also have included rules on sexual assault and domestic violence in the military, and it would have created a U.S. Space Command. The Senate refused to take up or end debate on the bill on June 14, 2018, so none of these changes took effect.",
+ "who_it_affects": [
+  {
+   "group": "Active duty service members and their families",
+   "how": "The bill would have set minimum active-duty force levels, changed some officer promotion and service rules, and added new domestic violence and sexual assault protections in military justice."
+  },
+  {
+   "group": "Military retirees and veterans",
+   "how": "The bill would have changed some benefit eligibility rules, such as expanding access to certain military morale and recreation privileges for some veterans and their caregivers."
+  },
+  {
+   "group": "Reserve and National Guard members",
+   "how": "The bill would have set reserve end strengths and changed some reserve pay, bonus, and promotion rules."
+  },
+  {
+   "group": "Military health care beneficiaries (TRICARE users)",
+   "how": "The bill would have changed how TRICARE dental plans are administered and how patients are referred to civilian providers."
+  },
+  {
+   "group": "Defense contractors and small businesses",
+   "how": "The bill would have changed contracting rules, including raising the micro-purchase threshold and adjusting small business programs and commercial item definitions."
+  },
+  {
+   "group": "Civilian Defense Department employees and job applicants",
+   "how": "The bill would have expanded hiring authorities and changed some civilian personnel management rules."
+  },
+  {
+   "group": "Residents of the Armed Forces Retirement Home",
+   "how": "The bill would have expanded eligibility for residency and barred removing residents solely for inability to pay."
+  },
+  {
+   "group": "Foreign investors and companies with business before the U.S. government",
+   "how": "The bill would have expanded the national security review process for foreign investment and changed export control rules."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

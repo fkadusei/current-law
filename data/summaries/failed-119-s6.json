@@ -1,0 +1,28 @@
+{
+ "headline": "Senate bill would have set care and reporting rules, with criminal penalties, for infants born alive after an attempted abortion.",
+ "what_it_does": "The bill would have required any health care practitioner present when a child is born alive after an abortion or attempted abortion to give the same care any other newborn of the same gestational age would reasonably get, and to make sure the child is immediately admitted to a hospital. Health care workers who knew this care was not given would have had to report it to law enforcement right away. Failing to give the required care or failing to report could have brought a fine, up to five years in prison, or both, and intentionally killing or trying to kill such a child could have been prosecuted as murder. The mother could not have been prosecuted and could have sued practitioners or employees who broke these rules.",
+ "who_it_affects": [
+  {
+   "group": "Doctors, nurses, and other health care practitioners who perform or are present at abortions",
+   "how": "They would have been required to provide specific care and hospital admission for a child born alive, or face fines and up to five years in prison."
+  },
+  {
+   "group": "Employees at clinics and hospitals where abortions take place",
+   "how": "They would have had to report known failures to provide the required care to law enforcement, or face criminal penalties."
+  },
+  {
+   "group": "Women who have an abortion or attempted abortion that results in a live birth",
+   "how": "They could not have been prosecuted under the bill and could have filed civil lawsuits against practitioners or employees who violated it."
+  },
+  {
+   "group": "Infants born alive after an abortion or attempted abortion",
+   "how": "They would have been entitled by law to the same level of care as other newborns at the same gestational age."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-11"
+}

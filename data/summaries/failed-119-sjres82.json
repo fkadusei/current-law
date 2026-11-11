@@ -1,0 +1,20 @@
+{
+ "headline": "Senate rejected a resolution that would have overturned an HHS policy on how the department follows federal rulemaking law.",
+ "what_it_does": "This resolution would have used the Congressional Review Act to cancel an HHS policy called \"Policy on Adhering to the Text of the Administrative Procedure Act.\" The Administrative Procedure Act is the law that sets rules for how federal agencies make regulations, including when they must ask the public for comments. If the resolution had passed, the HHS policy would have had no effect, and HHS could not have issued a substantially similar policy without new approval from Congress. The Senate voted it down, so the policy stays in place.",
+ "who_it_affects": [
+  {
+   "group": "Department of Health and Human Services",
+   "how": "The department would have lost this policy on how it follows the Administrative Procedure Act when it makes rules."
+  },
+  {
+   "group": "People and groups who comment on HHS rules",
+   "how": "Their chances to weigh in on certain HHS decisions could have been affected, depending on what the cancelled policy covered."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-11"
+}

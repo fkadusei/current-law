@@ -1,0 +1,24 @@
+{
+ "headline": "Would have canceled a federal highway rule that relaxed made-in-America requirements for electric vehicle chargers built with federal money.",
+ "what_it_does": "This resolution would have overturned a Federal Highway Administration rule from February 2023. That rule temporarily lets federally funded electric vehicle chargers skip some Buy America requirements for steel, iron, manufactured parts, and building materials, as long as final assembly happens in the United States. Under the rule, chargers made through June 30, 2024 and installed by October 1, 2024 are covered, while chargers made starting July 1, 2024 must have more than 55% of their parts cost come from U.S.-made components. Canceling the rule would have meant the full Buy America requirements applied to these chargers.",
+ "who_it_affects": [
+  {
+   "group": "Companies that make or assemble electric vehicle chargers",
+   "how": "They would have lost the temporary exemption and had to meet full Buy America rules to sell chargers for federally funded projects."
+  },
+  {
+   "group": "State and local governments building EV charging stations with federal highway funds",
+   "how": "They would have had to buy chargers that fully meet Buy America requirements."
+  },
+  {
+   "group": "U.S. makers of steel, iron, and charger parts",
+   "how": "Federally funded charger projects would have been required to use more U.S.-made materials and parts."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-11"
+}

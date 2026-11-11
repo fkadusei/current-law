@@ -1,0 +1,28 @@
+{
+ "headline": "Proposed constitutional amendment to cap federal spending based on past revenue and require two-thirds votes for tax increases; rejected by the House.",
+ "what_it_does": "This proposal would have amended the Constitution to bar federal spending in a year from going above the average of federal revenue from the three prior years, adjusted for population growth and inflation. Debt payments and borrowed money would not count. Congress could go over the limit with a two-thirds roll call vote in each chamber, or by a roll call vote in any year with a declared war. New taxes or tax rate increases would have needed approval by two-thirds of all members of each chamber.",
+ "who_it_affects": [
+  {
+   "group": "Congress",
+   "how": "Lawmakers would have needed two-thirds supermajorities to spend above the limit or to create or raise taxes, except for spending during a declared war."
+  },
+  {
+   "group": "People who rely on federal programs and services",
+   "how": "Federal spending on programs would have been capped based on past revenue, unless Congress voted to exceed the limit."
+  },
+  {
+   "group": "Taxpayers",
+   "how": "New taxes or higher tax rates would have been harder to pass because they would have required a two-thirds vote in each chamber."
+  },
+  {
+   "group": "State legislatures",
+   "how": "As a constitutional amendment, it would have needed ratification by three-fourths of the states before taking effect."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-11"
+}

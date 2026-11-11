@@ -1,0 +1,36 @@
+{
+ "headline": "Senate bill that did not pass would have put federal money into some people's health savings accounts and changed Medicaid and exchange rules.",
+ "what_it_does": "The bill would have had the government deposit $1,000 or $1,500 a year, depending on age, in 2026 and 2027 into the health savings accounts of certain adults with bronze or catastrophic exchange plans. Starting in 2027, it would have funded cost-sharing reductions for some lower-income silver plan enrollees and let anyone buy a catastrophic plan. It would have cut federal Medicaid expansion funding for states that provide health benefits to certain noncitizens, and changed coverage rules while immigration status is being checked. It would also have barred exchange plans, Medicaid, and CHIP from paying for gender-transition procedures in specified ways.",
+ "who_it_affects": [
+  {
+   "group": "Adults ages 18 to 64 with bronze or catastrophic exchange plans and income up to 700% of the federal poverty level",
+   "how": "They would have received yearly federal deposits of $1,000 or $1,500 into their health savings accounts in 2026 and 2027."
+  },
+  {
+   "group": "People with silver exchange plans and income up to 250% of the federal poverty level",
+   "how": "They would have had funded help with out-of-pocket costs starting in 2027."
+  },
+  {
+   "group": "People age 30 and older who buy insurance on the exchanges",
+   "how": "They would have been allowed to enroll in lower-cost catastrophic plans starting in 2027, which are now mostly limited to people under 30."
+  },
+  {
+   "group": "States that provide health benefits to noncitizens who are not qualified aliens under federal law",
+   "how": "They would have received a lower federal matching rate for their Medicaid expansion population."
+  },
+  {
+   "group": "People applying for Medicaid or CHIP whose immigration status is being verified",
+   "how": "States would no longer have been required to cover them during verification, and federal payment for that period would have depended on their status being verified."
+  },
+  {
+   "group": "People seeking gender-transition procedures through exchange plans, Medicaid, or CHIP",
+   "how": "Exchange plans could not have covered these procedures as an essential health benefit, and Medicaid and CHIP would not have received federal payment for them."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-11"
+}

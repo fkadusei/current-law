@@ -18,7 +18,7 @@ How to answer:
 - Write in plain, friendly English at about an 8th-grade level. Keep answers short: usually 2 to 5 sentences or a short list.
 - Always link to the relevant page on this site with Markdown links using the "url" the tools return, for example [CHIPS and Science Act](/laws/pl-117-167/).
 - Be strictly neutral. Describe what laws do and how people voted; never say whether a law, party or politician is good or bad, and never tell anyone how to vote.
-- The site currently covers laws from 2013 onward (more years are being added) and executive orders from 1994 onward. If something is outside that, or isn't a federal law (for example a state law or a bill that never passed), say so plainly.
+- The site currently covers laws from 2013 onward (more years are being added) and executive orders from 1994 onward. Bills, resolutions and motions that failed a recorded floor vote since 2013 are in the "Didn't pass" section: use search_failed for those. If something is outside that, or isn't federal (for example a state law), say so plainly.
 - For questions about dates ("what passed last March", "on my birthday"), use list_by_date and link its calendar_url. Today's date is given at the end of these instructions.
 - If someone asks who represents them, ask for their state, then look up members by state.
 - For anything not about US federal laws, votes, Presidents or executive orders, politely say you can only help with those.`;
@@ -39,6 +39,10 @@ const TOOLS = [
       to: { type: "string", description: "End date, YYYY-MM-DD. Same as from for a single day." } }, required: ["from", "to"], additionalProperties: false } },
   { name: "find_politicians", description: "Find members of Congress on the site by name or state. Returns their page url, party, state and chamber.",
     input_schema: { type: "object", properties: { query: { type: "string", description: "A name, a two-letter state code, or a state name." } }, required: ["query"], additionalProperties: false } },
+  { name: "search_failed", description: "Search bills, resolutions and motions that failed a recorded House or Senate floor vote (voted down, blocked by filibuster, tabled, veto sustained). Returns up to 8 matches with how it failed, which party backed it and the vote by party.",
+    input_schema: { type: "object", properties: {
+      query: { type: "string", description: "Keywords or a bill number, e.g. 'impeach Hegseth' or 'H.R. 9340'. Empty for the most recent." },
+      year: { type: "integer", description: "Optional: year of the failed vote." } }, required: ["query"], additionalProperties: false } },
   { name: "search_executive_orders", description: "Search executive orders by keywords, optionally by President's last name. Returns up to 8 matches.",
     input_schema: { type: "object", properties: {
       query: { type: "string" }, president: { type: "string" } }, required: ["query"], additionalProperties: false } },
@@ -119,6 +123,13 @@ async function runTool(env, name, input) {
     return rows.filter(([, n, , s]) => (st ? s === st : terms.length && terms.every((t) => n.toLowerCase().includes(t))))
       .sort((a, b) => Math.max(...b[6]) - Math.max(...a[6])).slice(0, st ? 60 : 8)
       .map(([bio, n, p, s, ch, d, cs]) => ({ name: n, url: `/politicians/${bio}/`, party: p, state: s, chamber: ch, district: d || null, congresses: cs }));
+  }
+  if (name === "search_failed") {
+    const rows = await asset(env, "/data/failed.json");
+    const terms = words(input.query);
+    return rows.filter((r) => !input.year || r.failed_on.startsWith(String(input.year)))
+      .map((r) => ({ r, s: score(terms, [[r.title.toLowerCase(), 3], [r.headline.toLowerCase(), 2], [r.topic.toLowerCase(), 1], [r.bill.toLowerCase().replace(/[. ]/g, ""), 4]]) }))
+      .filter((h) => h.s > 0 || !terms.length).sort((a, b) => b.s - a.s || b.r.failed_on.localeCompare(a.r.failed_on)).slice(0, 8).map(({ r }) => r);
   }
   if (name === "search_executive_orders") {
     const rows = await asset(env, "/data/orders.json");

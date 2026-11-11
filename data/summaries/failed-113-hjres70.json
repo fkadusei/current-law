@@ -1,0 +1,28 @@
+{
+ "headline": "This 2013 House measure would have funded parts of the National Park Service, Smithsonian, National Gallery of Art, and Holocaust Memorial Museum at fiscal 2013 levels during a funding gap.",
+ "what_it_does": "It would have continued funding for ongoing activities in four accounts at the reduced rate that applied in fiscal 2013, including the cuts from the 2013 continuing resolution and the March 2013 sequestration order. It would have let agencies use money for civilian pay and benefits at the level needed to avoid furloughs, but only after they cut or delayed other administrative costs. The funding would have lasted until a full-year 2014 spending law was enacted or December 15, 2013, whichever came first.",
+ "who_it_affects": [
+  {
+   "group": "National Park Service employees and park visitors",
+   "how": "Parks would have stayed open and run at fiscal 2013 funding levels, and staff would have been kept on the payroll instead of being furloughed."
+  },
+  {
+   "group": "Smithsonian Institution and National Gallery of Art staff and visitors",
+   "how": "Museum operations would have continued at fiscal 2013 funding levels, with staff pay protected from furloughs under the same conditions."
+  },
+  {
+   "group": "United States Holocaust Memorial Museum staff and visitors",
+   "how": "The museum would have kept operating at fiscal 2013 funding levels while the government was without a full-year 2014 spending law."
+  },
+  {
+   "group": "Federal civilian employees in these agencies",
+   "how": "They would have been paid under the furlough-avoidance authority, but only after agencies had cut other non-personnel administrative spending."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

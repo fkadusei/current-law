@@ -1,0 +1,20 @@
+{
+ "headline": "Resolution to block a proposed U.S. sale of military equipment and services to Turkey failed in the Senate.",
+ "what_it_does": "This joint resolution would have blocked a proposed foreign military sale of certain defense items and services from the United States to the government of Turkey (Turkiye). Congress can use this kind of resolution to stop arms sales that the executive branch has proposed. The title does not list the specific weapons or services involved. On February 29, 2024, the Senate voted not to move forward with it.",
+ "who_it_affects": [
+  {
+   "group": "Government of Turkey",
+   "how": "Turkey would not have received the defense items and services covered by the proposed sale."
+  },
+  {
+   "group": "U.S. defense companies",
+   "how": "Companies supplying the items in the sale would have lost that sale if the resolution had become law."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-11"
+}

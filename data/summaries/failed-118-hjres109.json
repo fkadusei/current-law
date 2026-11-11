@@ -1,0 +1,24 @@
+{
+ "headline": "Failed resolution would have canceled SEC accounting guidance on how companies report crypto assets they hold for customers.",
+ "what_it_does": "This resolution would have used the Congressional Review Act to cancel the SEC's Staff Accounting Bulletin No. 121, issued March 31, 2022. That bulletin tells companies how to account for and disclose their duties to safeguard crypto assets they hold for users of their platforms. A 2023 opinion from the Government Accountability Office found the bulletin counts as a rule that Congress can review. Congress passed the resolution, but the President vetoed it, and the House failed to override the veto on July 11, 2024.",
+ "who_it_affects": [
+  {
+   "group": "Companies that hold crypto assets for customers, such as crypto exchanges and custody providers",
+   "how": "They would no longer have had to follow the SEC's bulletin on how to account for and disclose crypto assets they safeguard for users."
+  },
+  {
+   "group": "Banks and other financial firms considering offering crypto custody services",
+   "how": "The accounting guidance that shapes how they would report holding customers' crypto would have been removed."
+  },
+  {
+   "group": "Investors and customers who use crypto platforms",
+   "how": "The disclosures they see about how platforms safeguard customer crypto assets would no longer have been guided by this bulletin."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-11"
+}

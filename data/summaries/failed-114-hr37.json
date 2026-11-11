@@ -1,0 +1,36 @@
+{
+ "headline": "A 2015 House bill that would have changed swap margin rules, bank and savings holding company registration, small business disclosures, and several other financial rules, but was voted down.",
+ "what_it_does": "If adopted, this bill would have exempted certain non-cleared swaps from margin rules for swap dealers when one side hedges commercial risk, and would have changed how savings and loan holding companies must register with the SEC. It also would have eased disclosure and reporting duties for smaller companies, emerging growth companies, and merger brokers, and would have delayed a Volcker Rule compliance deadline for certain collateralized loan obligations. The House rejected the bill on January 7, 2015, so none of these changes were made.",
+ "who_it_affects": [
+  {
+   "group": "Companies that use swaps to hedge commercial risk",
+   "how": "They would have been exempt from certain initial and variation margin requirements on swaps not cleared through a registered clearing organization."
+  },
+  {
+   "group": "Savings and loan holding companies",
+   "how": "They would have had to register with the SEC only if their assets exceeded $10 million and they had 2,000 or more holders of record for a class of equity."
+  },
+  {
+   "group": "Emerging growth companies",
+   "how": "They would have been able to file draft registration statements for confidential SEC review 15 days before a road show instead of 21 days."
+  },
+  {
+   "group": "Smaller public companies with under $250 million in annual revenue",
+   "how": "They would have been exempt from required XBRL electronic reporting, though they could still choose to use it."
+  },
+  {
+   "group": "Small business investment company advisers",
+   "how": "They would have been exempt from certain SEC and state investment adviser registration and reporting requirements."
+  },
+  {
+   "group": "Banks and nonbank financial companies with collateralized loan obligations",
+   "how": "Their deadline to bring certain pre-2014 CLO debt holdings into compliance with the Volcker Rule would have moved to July 21, 2019."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

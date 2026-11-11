@@ -1,0 +1,56 @@
+{
+ "headline": "H.R. 2578 would have provided fiscal year 2016 funding for the Departments of Commerce and Justice, NASA, the National Science Foundation, and related agencies, but the Senate did not take it up and it did not pass.",
+ "what_it_does": "The bill would have set FY2016 spending levels for the Commerce and Justice Departments, science agencies, and several smaller related agencies. It would have increased funding for NASA, the Census Bureau, the FBI, the U.S. Marshals, federal prisons, and the Legal Services Corporation, and decreased funding for NOAA, Departmental Management, and some DOJ grant offices. It also included riders that would have limited how funds could be used, such as banning transfers of Guantanamo detainees into the United States and blocking funds from being used to interfere with state medical marijuana laws.",
+ "who_it_affects": [
+  {
+   "group": "Federal law enforcement agencies such as the FBI, DEA, ATF, and U.S. Marshals Service",
+   "how": "They would have received funding increases for the FBI and Marshals, with ATF and DEA funded under the bill's DOJ provisions."
+  },
+  {
+   "group": "People held in federal prisons",
+   "how": "Federal Prison System funding would have increased, and the bill would have barred prisons from buying recreational audiovisual equipment with these funds."
+  },
+  {
+   "group": "Low-income people seeking civil legal help",
+   "how": "The Legal Services Corporation would have received a funding increase, subject to new restrictions on how it could spend money."
+  },
+  {
+   "group": "Medical marijuana patients and businesses in states that allow medical marijuana",
+   "how": "Federal DOJ funds would have been barred from being used to stop those states, the District of Columbia, or Guam from carrying out their own medical marijuana laws."
+  },
+  {
+   "group": "Guantanamo Bay detainees",
+   "how": "Funds would have been barred from moving non-citizen detainees into the United States or building a U.S. facility to hold them."
+  },
+  {
+   "group": "Federal firearm importers and gun buyers",
+   "how": "The bill would have blocked funds from being used to require certain export licenses to Canada, deny certain firearm import applications, or enforce some firearm restrictions."
+  },
+  {
+   "group": "Women seeking abortions who depend on federal prison or DOJ-funded services",
+   "how": "The bill would have barred DOJ funds from paying for most abortions and from requiring staff to perform them, with some exceptions."
+  },
+  {
+   "group": "Coastal and Gulf of Mexico fishing communities",
+   "how": "Commerce would have been barred from managing Gulf of Mexico fisheries beyond state boundaries of nine nautical miles."
+  },
+  {
+   "group": "Federal contractors and grant applicants",
+   "how": "Recipients of contracts or grants above certain amounts would have had to certify they had filed federal taxes and owed no unpaid federal tax assessments."
+  },
+  {
+   "group": "NASA and National Science Foundation researchers",
+   "how": "NASA would have received a funding increase, while NSF would have been funded at or slightly below the prior year's level."
+  },
+  {
+   "group": "Census Bureau and Bureau of Industry and Security",
+   "how": "Both agencies would have received funding increases under the bill."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

@@ -9,6 +9,7 @@ Needs CURRENT_LAW_ANTHROPIC_KEY (or ANTHROPIC_API_KEY) and `pip install -r pipel
 
 Usage:
   python pipeline/summarize.py [--model MODEL] [--limit N] [--congress 118] [--orders]
+  python pipeline/summarize.py --failed              # bills and resolutions that failed a floor vote
   python pipeline/summarize.py --collect BATCH_ID   # fetch results of an earlier batch
 """
 import argparse
@@ -87,6 +88,30 @@ def law_prompt(law: dict) -> str:
             f"Official summary from the Congressional Research Service:\n{official}")
 
 
+KIND_TEXT = {
+    "defeated": "it was voted down", "blocked": "the Senate refused to take it up or end debate on it",
+    "set_aside": "the House voted to table it or send it back to committee",
+    "veto_sustained": "Congress failed to override the President's veto", "acquitted": "the Senate voted to acquit",
+}
+
+
+def failed_prompt(item: dict) -> str:
+    official = strip_html(item.get("official_summary")) or "(no official summary available)"
+    last = item["votes"][-1]
+    how = KIND_TEXT[item["kind"]]
+    if item["kind"] == "set_aside":
+        how = ("the House voted to refer it to committee, which set it aside" if "refer" in last["question"].lower()
+               else "the House voted to table it, which killed it")
+    return (f"This measure did NOT pass: on {item['failed_on']} in the {item['chamber']}, {how} "
+            f"({last['question']}: {last['yea']} yes, {last['nay']} no).\n"
+            f"Describe what it WOULD have done if adopted (use \"would\"), not what it does. "
+            f"Put \"Did not take effect\" in when_it_takes_effect.\n\n"
+            f"Measure: {item['bill']} ({item['congress']}th Congress)\n"
+            f"Title: {item.get('title')}\n"
+            f"Policy area: {item.get('policy_area') or 'unknown'}\n\n"
+            f"Official summary from the Congressional Research Service:\n{official}")
+
+
 def order_prompt(order: dict) -> str:
     return (f"Executive Order {order['number']}, signed {order['signed']} by {order['president']['name'] if order['president'] else 'unknown'}\n"
             f"Title: {order['title']}\n"
@@ -113,6 +138,17 @@ def pending_items(args) -> list[tuple[str, str]]:
             law = json.loads(path.read_text())
             if not (SUMMARIES / f"{law['id']}.json").exists():
                 items.append((law["id"], law_prompt(law), bool(CEREMONIAL.search(law.get("title") or ""))))
+    if args.failed:
+        for path in sorted((BUILD / "failed").glob("*/*.json")):
+            item = json.loads(path.read_text())
+            if args.congress and item["congress"] != args.congress:
+                continue
+            if not (SUMMARIES / f"failed-{item['id']}.json").exists():
+                # Same policy as laws: the current model from 2023 on, Haiku before that.
+                old = item["congress"] < 118
+                items.append((f"failed-{item['id']}", failed_prompt(item),
+                              old or bool(CEREMONIAL.search(item.get("title") or ""))))
+        return items[: args.limit] if args.limit else items
     if args.orders:
         for order in json.loads((BUILD / "executive_orders.json").read_text()):
             if not (SUMMARIES / f"{order['id']}.json").exists():
@@ -150,6 +186,7 @@ def main() -> None:
     ap.add_argument("--limit", type=int)
     ap.add_argument("--congress", type=int)
     ap.add_argument("--orders", action="store_true", help="also summarize executive orders")
+    ap.add_argument("--failed", action="store_true", help="summarize bills that failed a floor vote (only those)")
     ap.add_argument("--collect", metavar="BATCH_ID")
     ap.add_argument("--same-model", action="store_true", help="use --model for ceremonial laws too")
     ap.add_argument("--dry-run", action="store_true", help="count what would be sent, send nothing")

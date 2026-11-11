@@ -1,0 +1,24 @@
+{
+ "headline": "Would have lowered what Arkansas River Valley communities in Colorado pay back for a federal water pipeline, but a veto override failed.",
+ "what_it_does": "The bill would have reduced the amount that communities in Colorado's Arkansas River Valley must repay the Bureau of Reclamation for building the Arkansas Valley Conduit. The conduit is a pipeline that carries water from the Pueblo Reservoir to these communities. The bill would have removed interest charges on the repayment and stretched the repayment period to 100 years. The President vetoed it, and the House did not override the veto.",
+ "who_it_affects": [
+  {
+   "group": "Communities in Colorado's Arkansas River Valley served by the Arkansas Valley Conduit",
+   "how": "They would have owed no interest on construction costs and had up to 100 years to repay."
+  },
+  {
+   "group": "Residents and water customers in those communities",
+   "how": "Lower repayment costs for their local water providers could have affected what they pay for water."
+  },
+  {
+   "group": "Bureau of Reclamation",
+   "how": "The agency would have collected repayments without interest and over a much longer period."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-11"
+}

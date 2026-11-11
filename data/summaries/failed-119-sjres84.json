@@ -1,0 +1,32 @@
+{
+ "headline": "Senate resolution to cancel a 2025 federal rule changing Affordable Care Act marketplace enrollment rules did not advance.",
+ "what_it_does": "This resolution would have used the Congressional Review Act to cancel a rule issued by the Centers for Medicare & Medicaid Services on June 25, 2025. That rule shortened open enrollment on all health insurance exchanges to run from November 1 to December 31. It also required exchanges to check eligibility before enrollment for at least 75% of new special enrollment period sign-ups, and barred DACA recipients from exchange plans and state Basic Health Programs. The rule also stopped individual and small group insurers from covering certain sex-trait modification procedures as an essential health benefit, and the resolution would have undone all of these changes.",
+ "who_it_affects": [
+  {
+   "group": "People who buy health insurance on their own through ACA exchanges",
+   "how": "The resolution would have removed the rule's shorter open enrollment window and its stricter eligibility checks for special enrollment periods."
+  },
+  {
+   "group": "DACA recipients",
+   "how": "The resolution would have removed the rule's ban on DACA recipients enrolling in exchange plans or state Basic Health Programs."
+  },
+  {
+   "group": "Low-income residents in states with Basic Health Programs",
+   "how": "The resolution would have reversed the rule's eligibility limits on these state programs for DACA recipients."
+  },
+  {
+   "group": "Individual and small group health insurers",
+   "how": "The resolution would have removed the rule's ban on covering certain sex-trait modification procedures as an essential health benefit."
+  },
+  {
+   "group": "State-run health insurance exchanges",
+   "how": "The resolution would have freed exchanges from the rule's required open enrollment dates and pre-enrollment verification requirements."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-11"
+}

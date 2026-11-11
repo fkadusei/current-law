@@ -1,0 +1,24 @@
+{
+ "headline": "Failed House resolution would have directed the President to pull U.S. forces out of fighting with designated terrorist groups in the Western Hemisphere.",
+ "what_it_does": "This resolution would have used the War Powers Resolution to direct the President to remove U.S. Armed Forces from hostilities with any group the President has designated as a terrorist organization in the Western Hemisphere. The forces would have had to be removed unless Congress first passed a declaration of war or an authorization to use military force for that purpose. The House voted it down on December 17, 2025.",
+ "who_it_affects": [
+  {
+   "group": "U.S. military service members",
+   "how": "Troops involved in hostilities with designated terrorist groups in the Western Hemisphere would have been withdrawn from that fighting unless Congress authorized it."
+  },
+  {
+   "group": "The President",
+   "how": "The President would have been directed to end these military actions without approval from Congress."
+  },
+  {
+   "group": "Congress",
+   "how": "Congress would have needed to pass a declaration of war or a use-of-force authorization for these hostilities to continue."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-11"
+}

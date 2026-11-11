@@ -1,0 +1,24 @@
+{
+ "headline": "Senate resolution that would have removed the deadline for ratifying the Equal Rights Amendment and declared it part of the Constitution failed to advance.",
+ "what_it_does": "This resolution would have declared that the Equal Rights Amendment, which bans discrimination based on sex, is a valid part of the Constitution, no matter the time limit in the original proposal. Congress first sent the amendment to the states in 1972 with a 1979 deadline, later extended to 1982. Thirty-eight states have ratified it, but three did so after the deadline, and five states later voted to take back their approval. On April 27, 2023, the Senate did not end debate on the measure, so it did not pass.",
+ "who_it_affects": [
+  {
+   "group": "People facing discrimination based on sex",
+   "how": "They would have gained a constitutional ban on sex discrimination if the amendment were treated as valid."
+  },
+  {
+   "group": "State governments",
+   "how": "States that ratified late or tried to take back their approval would have had those actions settled by Congress declaring the amendment ratified."
+  },
+  {
+   "group": "Courts",
+   "how": "Judges would have had to interpret and apply the amendment, and its status, which has been the subject of lawsuits, would have been addressed by Congress."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-11"
+}

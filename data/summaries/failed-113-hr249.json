@@ -1,0 +1,28 @@
+{
+ "headline": "A 2013 House bill that was voted down would have barred people with seriously delinquent federal tax debts from federal jobs.",
+ "what_it_does": "The bill would have made anyone with a seriously delinquent tax debt ineligible for federal employment or to keep working as a federal employee. A debt counted as seriously delinquent only if a notice of lien had been filed against it in public records. Debts under an approved payment plan or offer in compromise, debts being contested in a collection hearing, debts with a levy issued or agreed to, and debts causing economic hardship would have been exempt. Agencies would have checked public records and asked applicants to certify they had no such debt.",
+ "who_it_affects": [
+  {
+   "group": "Federal job applicants with a seriously delinquent tax debt",
+   "how": "They would have been ineligible for federal jobs unless their debt fell under an exemption."
+  },
+  {
+   "group": "Current federal employees with a seriously delinquent tax debt",
+   "how": "They could have lost their federal jobs unless their debt fell under an exemption."
+  },
+  {
+   "group": "Federal employees and applicants with tax debts under payment plans or hardship claims",
+   "how": "They would have had 180 days to show their debts qualified for an exemption."
+  },
+  {
+   "group": "Federal agencies and the Office of Personnel Management",
+   "how": "Agencies would have had to check public records, collect certifications, and handle tax information, while OPM would have written rules and reported yearly on hardship exemptions."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

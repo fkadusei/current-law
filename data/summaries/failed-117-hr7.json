@@ -1,0 +1,32 @@
+{
+ "headline": "The Paycheck Fairness Act would have strengthened federal rules against pay discrimination based on sex, but the Senate did not take it up, so it did not become law.",
+ "what_it_does": "The bill would have limited employers' defense that a pay gap is due to factors other than sex to only job-related factors that are bona fide. It would have barred employers from requiring workers to sign contracts that stop them from discussing their wages, strengthened protections against retaliation, and raised civil penalties for equal pay violations. It would also have directed the Department of Labor to run grant-funded negotiation training and studies, and created a National Award for Pay Equity in the Workplace and a National Equal Pay Enforcement Task Force.",
+ "who_it_affects": [
+  {
+   "group": "Employees paid in the workplace",
+   "how": "They would have gained the right to discuss their wages without facing employer contract bans or retaliation, and pay gaps would have been harder for employers to justify."
+  },
+  {
+   "group": "Employers with pay differences between men and women",
+   "how": "They would have faced a narrower legal defense for pay gaps and higher civil penalties for violations."
+  },
+  {
+   "group": "Employers that collect pay data",
+   "how": "They would have been required to report compensation data by sex, race, and national origin under new EEOC rules."
+  },
+  {
+   "group": "Women and workers who face wage discrimination based on sex, pregnancy, or sexual orientation",
+   "how": "They would have had stronger legal tools to challenge unequal pay."
+  },
+  {
+   "group": "Federal contractors and the EEOC staff",
+   "how": "They would have received training on wage discrimination requirements."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

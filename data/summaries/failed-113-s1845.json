@@ -1,0 +1,32 @@
+{
+ "headline": "S. 1845 would have extended emergency unemployment benefits and related federal unemployment programs into spring 2014, but the Senate did not advance it and it never became law.",
+ "what_it_does": "The bill would have extended emergency unemployment compensation payments to people whose unemployment weeks ended on or before April 1, 2014. It would also have pushed several related deadlines from late 2013 to March 31, 2014, including full federal coverage for states and the temporary increase in extended benefits for railroad workers. It would have let states with no waiting period receive temporary federal matching for the first week of extended benefits, and it would have set aside funds for states to run reemployment and eligibility checks through the first quarter of fiscal 2015.",
+ "who_it_affects": [
+  {
+   "group": "Unemployed workers who had used up regular state unemployment benefits",
+   "how": "They would have been able to keep receiving emergency federal unemployment payments for weeks ending on or before April 1, 2014."
+  },
+  {
+   "group": "State unemployment agencies",
+   "how": "They would have received continued federal funding to pay emergency benefits and to run reemployment and eligibility assessment activities."
+  },
+  {
+   "group": "States with no waiting period before benefits start",
+   "how": "They would have received temporary federal matching for the first week of extended benefits."
+  },
+  {
+   "group": "Railroad workers receiving unemployment benefits",
+   "how": "They would have kept a temporary increase in extended unemployment benefits through March 31, 2014."
+  },
+  {
+   "group": "States that had changed how they calculate regular benefits after June 2, 2010",
+   "how": "They would have been exempted from a federal rule that otherwise blocks federal reimbursement for emergency benefits, and terminated states could have re-entered agreements."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

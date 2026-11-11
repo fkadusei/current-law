@@ -1,0 +1,24 @@
+{
+ "headline": "Would have canceled a federal rule requiring lenders to collect and report data on small business loan applications.",
+ "what_it_does": "This resolution would have used the Congressional Review Act to cancel a Consumer Financial Protection Bureau rule published on May 31, 2023. That rule requires financial institutions to collect data on credit applications from small businesses and report it to the bureau. Congress passed the resolution, but the President vetoed it, and the Senate did not override the veto on January 10, 2024. Separately, a federal court in Texas had already ordered the bureau in July 2023 not to carry out or enforce the rule while a related case is pending.",
+ "who_it_affects": [
+  {
+   "group": "Banks, credit unions, and other lenders that make small business loans",
+   "how": "They would no longer have been required to collect and report small business credit application data to the bureau."
+  },
+  {
+   "group": "Small businesses applying for loans or credit",
+   "how": "Information about their credit applications would not have been gathered and reported to the bureau under this rule."
+  },
+  {
+   "group": "Consumer Financial Protection Bureau",
+   "how": "The bureau would have lost this rule and generally could not issue a substantially similar rule without new approval from Congress."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-11"
+}

@@ -1,0 +1,24 @@
+{
+ "headline": "If adopted, this resolution would have blocked a 2015 federal rule that defined which waters fall under the Clean Water Act.",
+ "what_it_does": "This joint resolution would have nullified the rule issued by the Army Corps of Engineers and the Environmental Protection Agency that changed the definition of \"waters of the United States\" under the Clean Water Act. The rule was published on June 29, 2015. Under this resolution, the earlier definition would have stayed in place instead of the new one.",
+ "who_it_affects": [
+  {
+   "group": "Landowners and developers whose land contains streams or wetlands",
+   "how": "They would have faced the prior definition rather than the new one when determining whether federal permits are needed for work near water."
+  },
+  {
+   "group": "Farmers and ranchers",
+   "how": "They would have been subject to the prior definition when determining which water features on their property fall under federal Clean Water Act rules."
+  },
+  {
+   "group": "State and local governments",
+   "how": "They would have continued to apply the earlier federal definition when carrying out water-related programs and permits."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

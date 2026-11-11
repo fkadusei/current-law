@@ -1,0 +1,24 @@
+{
+ "headline": "Failed Senate resolution would have canceled an EPA rule that gave oil and gas facilities more time to meet methane and pollution standards.",
+ "what_it_does": "This resolution would have used the Congressional Review Act to cancel an EPA rule published on July 31, 2025. That rule pushed back deadlines for oil and natural gas facilities to meet emission standards for things like control devices, equipment leaks, storage tanks, process controllers, and vent systems. It also delayed the Methane Super Emitter Program and a deadline for states to submit their plans. Canceling the rule would have brought back the original, earlier deadlines.",
+ "who_it_affects": [
+  {
+   "group": "Crude oil and natural gas facility operators",
+   "how": "They would have had to meet the original, earlier deadlines for emission control and leak standards instead of the extended ones."
+  },
+  {
+   "group": "State environmental agencies",
+   "how": "They would have faced the original, earlier deadline to submit state plans for regulating existing oil and gas sources."
+  },
+  {
+   "group": "People living near oil and gas facilities",
+   "how": "The original timeline for emission limits and the Methane Super Emitter Program would have applied to facilities near them."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-11"
+}

@@ -1,0 +1,28 @@
+{
+ "headline": "A 2014 Senate bill that would have let some student loan borrowers refinance their loans at 2013-14 rates and added a 30% minimum tax on very high earners, but the Senate did not take it up.",
+ "what_it_does": "If adopted, this bill would have directed the Education Department to create programs letting eligible borrowers refinance federal and certain private student loans taken out before July 1, 2013, at interest rates set based on the rates for the 12 months starting July 1, 2013. Borrowers would have needed to meet income or debt-to-income rules, and private-loan borrowers would have had to complete loan counseling first. It would also have required private education lenders to report loan data and would have created a tax rule requiring individuals with adjusted gross income over $1 million to pay a minimum 30% tax on part of their income. The refinancing programs would have ended when the cost matched the extra tax revenue expected over 10 years, or two years after enactment, whichever came first.",
+ "who_it_affects": [
+  {
+   "group": "Federal student loan borrowers with loans first disbursed before July 1, 2013",
+   "how": "They would have been able to refinance their Direct and FFEL loans at interest rates tied to the 2013-14 rate schedule, if they met eligibility rules."
+  },
+  {
+   "group": "Private student loan borrowers with loans first disbursed before July 1, 2013",
+   "how": "They would have been able to refinance qualifying private education loans into federal Direct Refinanced Private Loans after completing loan counseling."
+  },
+  {
+   "group": "Private education lenders",
+   "how": "They would have had to report specified loan information to the Education Secretary, Congress, the Treasury Secretary, and the Consumer Financial Protection Bureau."
+  },
+  {
+   "group": "Individual taxpayers with adjusted gross income over $1 million",
+   "how": "They would have owed a minimum tax of 30% on the portion of income above the threshold, phased in and adjusted for inflation after 2015."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

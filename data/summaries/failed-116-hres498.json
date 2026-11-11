@@ -1,0 +1,24 @@
+{
+ "headline": "H.Res. 498 would have impeached President Donald Trump of high misdemeanors, but the House voted to table it in July 2019.",
+ "what_it_does": "The resolution would have formally charged President Trump with high misdemeanors. It cited racist comments that the resolution said increased fear and hatred of new Americans and people of color. The House voted to table the resolution, which ended it without an impeachment.",
+ "who_it_affects": [
+  {
+   "group": "President Donald Trump",
+   "how": "If adopted, he would have been formally impeached and faced a trial in the Senate on the charges."
+  },
+  {
+   "group": "The U.S. Senate",
+   "how": "If adopted, the Senate would have been required to hold a trial on the impeachment charges."
+  },
+  {
+   "group": "New Americans and people of color",
+   "how": "The resolution was based on comments it described as increasing fear and hatred toward these groups, so its adoption would have been a formal House response to those comments."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

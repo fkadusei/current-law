@@ -1,0 +1,28 @@
+{
+ "headline": "This 2013 bill would have moved decisions on whether to court-martial service members for certain serious crimes away from their commanders to an outside military lawyer.",
+ "what_it_does": "It would have changed how the military decides whether to bring a service member to court-martial for certain offenses that carry more than one year of possible confinement, plus related conspiracy, solicitation, and attempt charges. Those decisions would have been made by a commissioned officer outside the accused member's chain of command, instead of the member's commanding officer. Some military-specific offenses, such as absence without leave, insubordination, and aiding the enemy, would have been excluded from this change. Commanders would still have kept their power to handle minor matters through summary courts-martial, admonitions, reprimands, and non-judicial punishment.",
+ "who_it_affects": [
+  {
+   "group": "Active-duty members of the armed forces",
+   "how": "People accused of qualifying serious offenses would have had their court-martial decisions made by an outside officer rather than their own commander."
+  },
+  {
+   "group": "Commanding officers in the military",
+   "how": "They would have lost the authority to decide whether to court-martial members for qualifying serious offenses, though they would have kept authority over smaller disciplinary actions."
+  },
+  {
+   "group": "Victims of qualifying offenses in the military",
+   "how": "Their cases would have been decided outside the chain of command of both the accused and the victim, and officers in those chains would have been barred from serving on the resulting court-martial."
+  },
+  {
+   "group": "Military justice offices and trial counsel",
+   "how": "The bill would have required each military branch's chief of staff to set up offices to convene general and special courts-martial, and would have made outside commissioned officers available as trial counsel to decide these cases."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

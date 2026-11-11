@@ -1,0 +1,20 @@
+{
+ "headline": "The House resolution would have impeached President Donald Trump on two charges, abuse of power and obstruction of Congress, but the Senate voted to acquit him in February 2020.",
+ "what_it_does": "If adopted, this resolution would have formally impeached President Donald J. Trump for high crimes and misdemeanors. It would have set out two articles of impeachment. The first charged abuse of power by soliciting Ukraine's interference in the 2020 U.S. presidential election. The second charged obstruction of Congress by directing defiance of certain House subpoenas.",
+ "who_it_affects": [
+  {
+   "group": "President Donald J. Trump",
+   "how": "He would have been formally charged by the House on the two articles, which would have triggered a Senate trial on those charges."
+  },
+  {
+   "group": "Recipients of the House subpoenas at issue",
+   "how": "The second article concerned directions not to comply with certain House subpoenas, so those subpoenaed parties were central to the obstruction charge."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

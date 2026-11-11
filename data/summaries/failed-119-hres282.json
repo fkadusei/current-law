@@ -1,0 +1,32 @@
+{
+ "headline": "House rejected a procedural resolution that would have set debate rules for four measures on banking rules, court injunctions, and voter registration.",
+ "what_it_does": "This resolution would have set the terms for House debate and votes on four measures. Two were resolutions to cancel Consumer Financial Protection Bureau rules: one on overdraft fees at very large banks, and one adding federal oversight of large digital payment apps. The other two were bills to limit federal district courts' power to issue injunctions (H.R. 1526) and to require proof of U.S. citizenship to register to vote in federal elections (H.R. 22). The title says it also covered other matters, but no official summary describes them.",
+ "who_it_affects": [
+  {
+   "group": "Members of the House of Representatives",
+   "how": "It would have set how and when they could debate and vote on the four listed measures."
+  },
+  {
+   "group": "Bank customers who use overdraft services",
+   "how": "It would have brought up for a vote a resolution to cancel a federal rule on overdraft fees at very large banks."
+  },
+  {
+   "group": "Users and companies of large digital payment apps",
+   "how": "It would have brought up for a vote a resolution to cancel a rule placing large payment app companies under federal supervision."
+  },
+  {
+   "group": "People bringing lawsuits against the federal government",
+   "how": "It would have brought up for a vote a bill limiting district courts' power to issue injunctions."
+  },
+  {
+   "group": "People registering to vote in federal elections",
+   "how": "It would have brought up for a vote a bill requiring proof of U.S. citizenship to register."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-11"
+}

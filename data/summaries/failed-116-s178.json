@@ -1,0 +1,28 @@
+{
+ "headline": "A 2019 Senate bill that would have ordered sanctions and export limits on Chinese officials and tech over treatment of Uyghurs in Xinjiang; it did not pass.",
+ "what_it_does": "The bill would have required the President to list senior Chinese officials tied to serious human rights abuses against Turkic Muslims in Xinjiang and to block their visas and property. It would have let the President waive these sanctions on national interest grounds. It would also have put certain surveillance, movement-tracking, internet-restriction, and facial or voice recognition items on the Commerce Control List, requiring licenses to export them to China. Some funding limits on China would have ended if the President reported that China had stopped mass detention and taken other specified steps.",
+ "who_it_affects": [
+  {
+   "group": "Senior Chinese government officials named in the President's report",
+   "how": "They would have faced visa bans and blocked property in the United States."
+  },
+  {
+   "group": "U.S. companies that make surveillance, facial recognition, or internet-monitoring technology",
+   "how": "They would have needed government licenses to export covered items to China."
+  },
+  {
+   "group": "Uyghurs and other Turkic Muslims in Xinjiang",
+   "how": "The bill was aimed at responding to reported detention and political indoctrination against them."
+  },
+  {
+   "group": "U.S. Trade and Development Agency",
+   "how": "Its funding limits for activities in China would have ended if the President certified specified changes by China."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

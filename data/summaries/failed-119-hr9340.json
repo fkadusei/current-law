@@ -1,0 +1,28 @@
+{
+ "headline": "Would have required state utility regulators to consider making large data centers pay the full cost of power grid upgrades built to serve them.",
+ "what_it_does": "The bill would have required state utility regulators and utilities not regulated by states to consider adopting a federal standard for very large electricity users, such as data centers using 100 megawatts or more at one site. Under that standard, utility rates for these customers would be set to recover the full extra cost of any generation, transmission, or distribution upgrades needed to serve them, including costs left over if the customer ends its contract or stops buying power. Utilities would also have to collect financial guarantees or payments from these customers before building the upgrades. States would have to consider the standard but would not be required to adopt it.",
+ "who_it_affects": [
+  {
+   "group": "Companies that run large data centers",
+   "how": "They could have been charged the full cost of grid upgrades needed to serve their sites and required to pay or provide financial guarantees up front."
+  },
+  {
+   "group": "State utility regulators and nonregulated utilities",
+   "how": "They would have been required to formally consider adopting the new rate standard for large data center customers."
+  },
+  {
+   "group": "Electric utilities",
+   "how": "Utilities in places that adopted the standard would have had to design rates for large data center customers to cover upgrade costs and collect financial assurances before building."
+  },
+  {
+   "group": "Other electricity customers, such as households and small businesses",
+   "how": "Where the standard was adopted, upgrade costs tied to large data centers would have been assigned to those data centers rather than spread across other customers."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-11"
+}

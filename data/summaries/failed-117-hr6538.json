@@ -1,0 +1,28 @@
+{
+ "headline": "The House voted down H.R. 6538 on June 22, 2022, which would have created a national coordinator for an active shooter alert network at the Justice Department.",
+ "what_it_does": "If adopted, the bill would have required a designated Justice Department officer to serve as national coordinator of an Active Shooter Alert Communications Network for emergencies involving an active shooter. The coordinator would have worked with state, tribal, and local governments to encourage coordination among the network's parts. The coordinator would also have encouraged federal, state, local, and tribal agencies to set up procedures for responding to active shooters. The Government Accountability Office would have been required to study and report on state and local responses to active shooters and to situations requiring public alerts or warnings.",
+ "who_it_affects": [
+  {
+   "group": "State, tribal, and local governments",
+   "how": "They would have worked with the national coordinator to align parts of the alert network and would have been encouraged to set up active shooter response procedures."
+  },
+  {
+   "group": "Federal, state, local, and tribal response agencies",
+   "how": "They would have been encouraged to create procedures for responding to active shooter emergencies."
+  },
+  {
+   "group": "Justice Department",
+   "how": "A designated officer there would have served as the network's national coordinator."
+  },
+  {
+   "group": "Government Accountability Office",
+   "how": "It would have been required to study and report on state and local responses to active shooters and public alert situations."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

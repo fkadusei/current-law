@@ -1,0 +1,48 @@
+{
+ "headline": "H.R. 36 would have made it a federal crime to perform most abortions at or after 20 weeks of fetal age, with narrow exceptions, and would have allowed civil lawsuits against violators.",
+ "what_it_does": "It would have amended the federal criminal code to bar abortions when the unborn child's probable post-fertilization age is 20 weeks or more, except to save the mother's life from a physical condition, or in certain rape or incest cases with reporting or counseling steps. Doctors would have had to estimate fetal age, sign a consent form with the patient and a witness, and keep records for six years. If a child was born alive after an abortion, the bill would have required doctors to give that child the same care as a premature baby and to send the child to a hospital. The bill would also have let women and certain parents sue violators for money damages, three times the abortion cost, and punitive damages, and would have required annual abortion reports to the National Center for Health Statistics.",
+ "who_it_affects": [
+  {
+   "group": "Physicians and other medical staff who perform abortions",
+   "how": "They would have faced federal criminal penalties and civil lawsuits for performing abortions at or after 20 weeks outside the bill's exceptions."
+  },
+  {
+   "group": "Pregnant women seeking abortions at or after 20 weeks",
+   "how": "They would have been limited to the bill's exceptions and required to sign an informed consent form in person with a physician and a witness."
+  },
+  {
+   "group": "Women who have had abortions in violation of the bill",
+   "how": "They would have been able to sue the people who violated the law, but would not have been prosecuted for violating or conspiring to violate it."
+  },
+  {
+   "group": "Parents of minors who had abortions under an exception",
+   "how": "They could have sued in certain cases if the abortion was performed in violation of the bill, unless the pregnancy resulted from the plaintiff's own criminal conduct."
+  },
+  {
+   "group": "Hospitals, abortion clinics, and physician offices",
+   "how": "Their staff would have been required to report any failure to follow the bill's live-birth requirements to law enforcement."
+  },
+  {
+   "group": "Women who were raped as adults and seek abortions after 20 weeks",
+   "how": "They would have needed to get counseling or medical treatment for the rape at least 48 hours before the abortion, unless the rape was reported to police or Department of Defense victim assistance staff."
+  },
+  {
+   "group": "Minors who were raped or victims of incest and seek abortions after 20 weeks",
+   "how": "The rape or incest would have had to be reported to a law enforcement or child abuse agency before the abortion."
+  },
+  {
+   "group": "State attorneys general and state reporting agencies",
+   "how": "Physicians would have had to follow state rape and incest reporting rules and state parental involvement laws that the attorney general designated or that applied."
+  },
+  {
+   "group": "National Center for Health Statistics",
+   "how": "It would have received annual summaries of exception-based abortions and published state-by-state statistics each year."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

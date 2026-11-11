@@ -1,0 +1,32 @@
+{
+ "headline": "Failed House bill would have changed how Social Security benefits are cut for people with pensions from jobs that did not pay Social Security tax.",
+ "what_it_does": "The bill would have phased in a new formula to replace the windfall elimination provision (WEP), which reduces Social Security benefits for people who also get a pension from work not covered by Social Security. The new formula would have based benefits on the share of a person's lifetime earnings that were subject to Social Security payroll taxes. People becoming eligible from 2025 through 2067 would have received whichever benefit was higher, old or new, and some people already affected by the WEP would have received an extra payment. The Social Security Administration would also have had to show non-covered earnings on account statements and study sharing data with certain pension systems.",
+ "who_it_affects": [
+  {
+   "group": "Retirees and people with disabilities who get pensions from jobs not covered by Social Security, such as some teachers, police officers, and other state or local government workers",
+   "how": "Their Social Security benefits would have been figured under a new formula instead of the current WEP reduction."
+  },
+  {
+   "group": "Current Social Security beneficiaries whose benefits are reduced by the WEP",
+   "how": "Certain of them would have received an additional payment."
+  },
+  {
+   "group": "People becoming eligible for Social Security between 2025 and 2067 with non-covered work after 1977",
+   "how": "They would have received the higher of their benefit under the current WEP or the new formula."
+  },
+  {
+   "group": "People becoming eligible for Social Security after 2067 with non-covered work after 1977",
+   "how": "Their benefits would have been calculated only under the new formula."
+  },
+  {
+   "group": "Social Security Administration",
+   "how": "It would have had to add non-covered earnings to account statements and study data sharing with certain pension systems."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-11"
+}

@@ -1,0 +1,28 @@
+{
+ "headline": "If adopted, this resolution would have blocked an IRS rule on charitable and estate tax deductions tied to state or local tax credits, but the Senate voted it down on October 23, 2019.",
+ "what_it_does": "This joint resolution would have expressed Congress's disapproval of an IRS rule about deductions for charitable gifts and estate taxes when a taxpayer receives, or expects to receive, a matching state or local tax credit. If adopted, the rule would have had no force or effect. The Senate rejected the resolution, so the IRS rule remained in place.",
+ "who_it_affects": [
+  {
+   "group": "Taxpayers who make charitable donations and receive state or local tax credits for them",
+   "how": "The IRS rule they would have been subject to would have been voided, which could have changed how their federal charitable deductions are calculated."
+  },
+  {
+   "group": "Estate tax filers who claim charitable deductions tied to state or local tax credits",
+   "how": "The rule's estate tax provisions would have been voided, which could have changed the deductions they are allowed to claim."
+  },
+  {
+   "group": "State and local governments that offer tax credits for charitable contributions",
+   "how": "Federal treatment of donations tied to these credits would have stayed unchanged, which could have affected how their programs work for donors."
+  },
+  {
+   "group": "Charitable organizations that receive donations linked to state or local tax credits",
+   "how": "Donor deduction rules would have shifted, which could have changed how much donors are willing to give through these programs."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

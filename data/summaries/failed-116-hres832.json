@@ -1,0 +1,20 @@
+{
+ "headline": "H.Res. 832 would have expressed the House's disapproval of certain conduct by Speaker Pelosi during the February 4, 2020 joint session of Congress, but the House did not adopt it.",
+ "what_it_does": "The resolution was raised as a question of the privileges of the House, a procedure for addressing conduct that affects the chamber. If adopted, it would have formally disapproved of certain behavior by Speaker Nancy Pelosi during the joint session of Congress held on February 4, 2020. The official summary does not describe the specific behavior, and the House voted to table it or refer it to committee instead, so it did not take effect.",
+ "who_it_affects": [
+  {
+   "group": "Speaker of the House Nancy Pelosi",
+   "how": "If adopted, the resolution would have stated the House's formal disapproval of her conduct during the February 4, 2020 joint session."
+  },
+  {
+   "group": "Members of the House of Representatives",
+   "how": "If adopted, the resolution would have recorded a formal House position on the conduct, which members would have voted on directly."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

@@ -1,0 +1,36 @@
+{
+ "headline": "H.R. 4038 would have required extra FBI background investigations and added approval steps before certain refugees from Iraq or Syria could be admitted to the United States.",
+ "what_it_does": "If adopted, the bill would have required the FBI to run a background investigation on each covered refugee applicant, in addition to the screening DHS already does. A covered applicant would have been someone who is a national or resident of Iraq or Syria, has no nationality and last lived in Iraq or Syria, or has been in Iraq or Syria at any time since March 1, 2011. Those applicants could not have been admitted until the FBI certified the investigation was sufficient, and DHS, with unanimous FBI and Director of National Intelligence agreement, certified to Congress that they were not a security threat. The bill would also have required annual reviews by DHS's Inspector General and monthly reports to Congress on certifications.",
+ "who_it_affects": [
+  {
+   "group": "Refugee applicants from Iraq or Syria",
+   "how": "They would have faced an additional FBI background investigation and a multi-agency certification before they could be admitted as refugees."
+  },
+  {
+   "group": "Refugee applicants who lived in or were present in Iraq or Syria since March 1, 2011",
+   "how": "Applicants with that travel or residence history would have been covered by the extra screening even if they are not citizens of those countries."
+  },
+  {
+   "group": "Department of Homeland Security",
+   "how": "DHS would have had to make the security threat certifications, report monthly to Congress, and work with the FBI and Director of National Intelligence on the process."
+  },
+  {
+   "group": "Federal Bureau of Investigation",
+   "how": "The FBI would have had to complete background investigations and certify to DHS and the Director of National Intelligence before admission."
+  },
+  {
+   "group": "Office of the Director of National Intelligence",
+   "how": "The Director of National Intelligence would have had to concur, unanimously with the FBI, before a covered applicant could be certified."
+  },
+  {
+   "group": "DHS Inspector General",
+   "how": "The Inspector General would have had to conduct annual risk-based reviews of all certifications."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

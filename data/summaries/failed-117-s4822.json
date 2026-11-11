@@ -1,0 +1,28 @@
+{
+ "headline": "The DISCLOSE Act of 2022 would have expanded campaign finance rules on foreign money and required faster, more detailed spending and donor disclosures, but the Senate did not act on it.",
+ "what_it_does": "The bill would have widened the ban on foreign nationals spending money in U.S. elections to cover paid digital ads and communications about federal judicial nominees, and to cover contributions tied to ballot measures. It would have made it a crime to set up or use a company or other entity to hide a foreign election contribution, with penalties of a fine, up to five years in prison, or both. It would also have required groups such as corporations, labor unions, and political organizations to report campaign spending over $10,000 in an election cycle to the Federal Election Commission within 24 hours, and to disclose top donors on certain political ads. The Government Accountability Office would have studied illegal foreign money in federal elections every four years.",
+ "who_it_affects": [
+  {
+   "group": "Foreign nationals who want to spend money on U.S. elections",
+   "how": "They would have been barred from paying for digital communications, judicial nomination communications, and ballot measure contributions."
+  },
+  {
+   "group": "Corporations, labor unions, and political organizations",
+   "how": "They would have had to report campaign spending above $10,000 within 24 hours and disclose top donors on certain political ads."
+  },
+  {
+   "group": "People who set up companies or other entities to hide election money",
+   "how": "They would have faced possible criminal fines and up to five years in prison for concealing foreign election contributions."
+  },
+  {
+   "group": "Voters and donors who give to organizations running political ads",
+   "how": "Their large donations to those groups could have become public through required ad disclosures."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

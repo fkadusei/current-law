@@ -1,0 +1,36 @@
+{
+ "headline": "Would have expanded federal gun background checks for buyers aged 18 to 21, created new firearms trafficking crimes, and funded mental health and school safety programs, but the House voted it down on March 30, 2022.",
+ "what_it_does": "If adopted, the act would have added juvenile record checks to the background check process for buyers aged 18 to 21 and created federal crimes for straw purchasing and firearms trafficking. It would also have extended gun restrictions to people convicted of domestic violence misdemeanors against dating partners. The act would have reauthorized and funded behavioral and mental health programs, school safety initiatives, and community violence prevention, and it would have renamed a federal courthouse in Tallahassee and a post office in Petaluma.",
+ "who_it_affects": [
+  {
+   "group": "Buyers aged 18 to 21",
+   "how": "They would have faced possible delays of up to 10 business days on firearm purchases if a juvenile record needed further review."
+  },
+  {
+   "group": "Federal firearms licensees and gun dealers",
+   "how": "Anyone selling firearms to predominantly earn a profit would have been required to hold a federal license."
+  },
+  {
+   "group": "People convicted of domestic violence misdemeanors against dating partners",
+   "how": "They would have been barred from owning or possessing firearms under federal law for a period of five years, subject to conditions."
+  },
+  {
+   "group": "Medicaid and CHIP enrollees, including children",
+   "how": "The act would have extended the certified community behavioral health clinic demonstration and expanded telehealth and school-based services."
+  },
+  {
+   "group": "Schools and school districts",
+   "how": "They would have received federal grants for school security, school-based mental health services, and safety resources, and could not use certain education funds to provide weapons or weapons training."
+  },
+  {
+   "group": "State and local governments",
+   "how": "They would have received federal grants for crisis intervention programs, including mental health courts, veterans' courts, and red flag law programs."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

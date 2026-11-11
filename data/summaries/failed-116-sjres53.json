@@ -1,0 +1,24 @@
+{
+ "headline": "S.J.Res. 53 would have overturned an EPA rule that repealed the Clean Power Plan and replaced it with the Affordable Clean Energy rule, but the Senate voted it down on October 17, 2019.",
+ "what_it_does": "If adopted, this resolution would have nullified the EPA rule that repealed the Clean Power Plan, which set carbon dioxide limits for existing power plants. It would also have blocked the Affordable Clean Energy rule that replaced the Clean Power Plan with guidelines for states to use when limiting carbon dioxide. In addition, it would have undone revisions to the process the EPA and states use to set pollution standards for existing stationary sources.",
+ "who_it_affects": [
+  {
+   "group": "States that run power plants",
+   "how": "They would have continued working under the Clean Power Plan's carbon dioxide emission guidelines instead of the Affordable Clean Energy guidelines."
+  },
+  {
+   "group": "Owners and operators of existing fossil-fuel power plants",
+   "how": "They would have faced the Clean Power Plan's carbon dioxide limits rather than the rules under the Affordable Clean Energy rule."
+  },
+  {
+   "group": "Residents who live near power plants",
+   "how": "Their local air would have been covered by the Clean Power Plan's carbon dioxide limits instead of the replacement rule."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

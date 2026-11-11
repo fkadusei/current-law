@@ -1,0 +1,36 @@
+{
+ "headline": "The 2017 defense authorization bill would have set Pentagon spending authority, personnel levels, pay, health care, and military justice rules for fiscal year 2017, but the Senate did not advance it.",
+ "what_it_does": "The bill would have authorized funding for Department of Defense programs such as weapons procurement, research, operations, and health care for fiscal year 2017. It would have set active duty and reserve troop strength limits, a 2.1 percent pay raise, and changes to TRICARE health coverage and military retirement. It would also have reorganized the Uniform Code of Military Justice and authorized military construction and Department of Energy nuclear security programs. The bill would have authorized spending but would not have provided the actual money, which comes through separate appropriations laws.",
+ "who_it_affects": [
+  {
+   "group": "Active duty and reserve service members",
+   "how": "They would have received a 2.1 percent pay raise starting January 1, 2017, and changes to retirement, bonuses, and leave rules."
+  },
+  {
+   "group": "Military families and TRICARE beneficiaries",
+   "how": "New TRICARE Select enrollment fees would have applied to people who joined the military on or after January 1, 2018, and urgent care hours would have been extended."
+  },
+  {
+   "group": "Military justice defendants and victims",
+   "how": "The military court system would have been reorganized, with changes to court-martial procedures, sentencing, and victim rights."
+  },
+  {
+   "group": "Defense contractors and small businesses",
+   "how": "New acquisition, pricing, and small business contracting rules would have changed how the Pentagon buys goods and services."
+  },
+  {
+   "group": "Veterans and former service members seeking discharge upgrades",
+   "how": "Discharge review boards would have been directed to give liberal consideration to claims that PTSD or traumatic brain injury contributed to a lesser discharge."
+  },
+  {
+   "group": "Civilian Department of Defense employees",
+   "how": "Civilian hiring, leave, and separation pay rules would have been changed, including a temporary increase in voluntary separation pay."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

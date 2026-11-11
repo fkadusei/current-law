@@ -1,0 +1,20 @@
+{
+ "headline": "Resolution to cancel an Education Department rule on student loan debt relief and payment pauses failed after a veto override vote fell short.",
+ "what_it_does": "This resolution would have used the Congressional Review Act to cancel a Department of Education rule issued on October 12, 2022. That rule paused federal student loan payments and canceled some student loan debt. If adopted, the rule would have had no legal effect. The President vetoed the resolution, and the House did not override the veto.",
+ "who_it_affects": [
+  {
+   "group": "People with federal student loans",
+   "how": "They would have lost the debt cancellation and payment pause provided under the October 2022 rule."
+  },
+  {
+   "group": "Department of Education",
+   "how": "The department would have been barred from carrying out the rule and from issuing a substantially similar rule without new approval from Congress."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-11"
+}

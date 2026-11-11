@@ -1,0 +1,48 @@
+{
+ "headline": "If adopted, H.R. 1314 would change federal budget limits, Social Security disability rules, pension premiums, Medicare payments, and several other programs.",
+ "what_it_does": "This omnibus bill, if adopted, would raise discretionary spending limits for FY2016 and FY2017 and adjust the sequester of direct spending. It would also touch Social Security, Medicare, pensions, crop insurance, the Strategic Petroleum Reserve, tax audits of large partnerships, and the public debt limit. The source summary notes that the Senate later agreed to a House amendment on October 30, 2015, so the May 12, 2015 vote described in the request may not reflect the bill's final status.",
+ "who_it_affects": [
+  {
+   "group": "Social Security disability beneficiaries",
+   "how": "They would be able to report earnings electronically and could be part of pilot programs that replace the full benefit cutoff with a partial benefit reduction."
+  },
+  {
+   "group": "Medicare Part B enrollees",
+   "how": "Their 2016 premium and deductible increases would be reduced under a changed calculation method."
+  },
+  {
+   "group": "Single-employer pension plan sponsors",
+   "how": "They would pay higher annual PBGC premiums starting in 2017 and would face new mortality table and interest rate rules."
+  },
+  {
+   "group": "Large partnerships with more than 100 partners",
+   "how": "They would face new IRS audit rules that determine adjustments at the partnership level, with an option for partnerships with fewer than 100 partners to opt out."
+  },
+  {
+   "group": "Crop insurance companies that administer federal crop insurance",
+   "how": "Their overall rate of return under the Standard Reinsurance Agreement would be capped at 8.9 percent."
+  },
+  {
+   "group": "Employers with more than 200 full-time employees",
+   "how": "They would no longer be required to automatically enroll full-time employees in health plans."
+  },
+  {
+   "group": "Businesses and agencies that face civil monetary penalties",
+   "how": "Federal penalty amounts would be adjusted for inflation every year, with limits on the first-year increase."
+  },
+  {
+   "group": "Generic drug manufacturers",
+   "how": "They would have to pay Medicaid rebates to states for price increases above inflation, as brand-name manufacturers already do."
+  },
+  {
+   "group": "People with cellular phones who owe federal debts",
+   "how": "Federal agencies could use automated calls to their cell phones to collect debts, subject to FCC limits on number and duration."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

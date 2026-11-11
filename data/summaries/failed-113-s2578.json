@@ -1,0 +1,28 @@
+{
+ "headline": "Had it passed, this Senate bill would have required certain employer health plans to cover federally required services, including contraceptive coverage, and let agencies adjust rules for religious employers.",
+ "what_it_does": "The bill would have affirmed that federal health coverage requirements apply even though the Religious Freedom Restoration Act of 1993 might otherwise be raised as a defense. It would have required employer group health plans and health insurance to cover services required under the Public Health Service Act, including preventive services. It would also have let the Labor, Health and Human Services, and Treasury Departments change rules on contraceptive coverage in religious employers' group plans, in line with the Supreme Court decisions in Burwell v. Hobby Lobby Stores and Conestoga Wood Specialties v. Burwell.",
+ "who_it_affects": [
+  {
+   "group": "Employers that offer group health plans",
+   "how": "They would have had to provide the coverage federal rules require, including preventive services and contraceptive services, regardless of religious objections raised under the Religious Freedom Restoration Act."
+  },
+  {
+   "group": "Religious employers with group health plans",
+   "how": "Federal agencies would have been allowed to modify the contraceptive coverage rules that apply to their plans."
+  },
+  {
+   "group": "Employees and dependents enrolled in employer group health plans",
+   "how": "The required preventive and contraceptive services would have been covered under their employer-sponsored plans."
+  },
+  {
+   "group": "Health insurance companies",
+   "how": "They would have had to cover services required under the Public Health Service Act, including preventive health services."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

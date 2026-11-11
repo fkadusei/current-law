@@ -1,0 +1,44 @@
+{
+ "headline": "S. 764 would have required mandatory USDA disclosure for bioengineered (GMO) foods, but the Senate did not advance it in 2016.",
+ "what_it_does": "If adopted, it would have set a national mandatory disclosure standard for bioengineered food, which the bill defines as food modified in ways that could not be obtained through conventional breeding or found in nature. USDA would have had two years after enactment to write the standard and its rules. The disclosure could take the form of text, a symbol, or an electronic or digital link, and the manufacturer would choose the option. The bill would also have barred states from setting their own bioengineered food labeling rules that differ from the federal standard. Note: the official title refers to the National Sea Grant College Program, but the summary describes GMO food labeling, so the title and summary do not match.",
+ "who_it_affects": [
+  {
+   "group": "Food manufacturers",
+   "how": "Companies that make covered foods would have had to make the required bioengineered food disclosure and keep records showing compliance."
+  },
+  {
+   "group": "Small food manufacturers",
+   "how": "They would have received a later implementation date and extra on-package options, such as a phone number or a company website, in place of electronic links."
+  },
+  {
+   "group": "Very small food manufacturers",
+   "how": "They would have been excluded from the disclosure rules altogether."
+  },
+  {
+   "group": "Restaurants and similar retail food establishments",
+   "how": "Food served in these places would have been excluded from the disclosure rules."
+  },
+  {
+   "group": "Consumers who buy packaged food",
+   "how": "They would have seen bioengineered food disclosures on labels or through digital links and phone numbers."
+  },
+  {
+   "group": "State and local governments",
+   "how": "They would have been barred from requiring bioengineered food labeling that differs from the federal standard."
+  },
+  {
+   "group": "USDA",
+   "how": "The agency would have written the standard, studied consumer access to digital disclosures, and handled compliance audits and examinations."
+  },
+  {
+   "group": "Producers certified under the National Organic Program",
+   "how": "Their certification could have been used to make claims that a food is free of bioengineering."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

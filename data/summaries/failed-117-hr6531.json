@@ -1,0 +1,32 @@
+{
+ "headline": "The House voted down a bill that would have directed federal agencies to better target federal investments toward areas of persistent poverty.",
+ "what_it_does": "The bill would have required the Census Bureau to publish a list of areas of persistent poverty and update it every year. It would have directed the Office of Management and Budget to issue guidance aimed at increasing the share of federal investments going to those areas and other areas with high and persistent poverty, and to report to Congress each year. It would also have required the Government Accountability Office to report on those measures, including whether they increased federal spending in the affected areas.",
+ "who_it_affects": [
+  {
+   "group": "Residents of areas of persistent poverty",
+   "how": "They would have been named on an official Census Bureau list that federal officials would use to direct more federal investment to their communities."
+  },
+  {
+   "group": "Census Bureau",
+   "how": "It would have had to publish the list of persistent-poverty areas and update it annually."
+  },
+  {
+   "group": "Office of Management and Budget",
+   "how": "It would have had to issue guidance to increase federal investment in these areas and report on it to Congress each year."
+  },
+  {
+   "group": "Government Accountability Office",
+   "how": "It would have had to report on the measures OMB adopted and whether they increased federal spending in these areas."
+  },
+  {
+   "group": "Congress",
+   "how": "It would have received annual OMB reports and a GAO assessment on the results of the new guidance."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

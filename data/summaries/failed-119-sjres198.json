@@ -1,0 +1,28 @@
+{
+ "headline": "Failed resolution would have canceled a Medicare pilot using contractors and AI tools for prior authorization in six states.",
+ "what_it_does": "This resolution would have used the Congressional Review Act to cancel a July 2025 Medicare notice creating the WISeR Model. That model requires approval in advance (prior authorization) for certain services in traditional Medicare in six states: New Jersey, Ohio, Oklahoma, Texas, Arizona, and Washington. Private contractors review these requests using technology such as artificial intelligence and are paid based on a share of the savings. The resolution would have stopped CMS from continuing the model, which began on January 1, 2026.",
+ "who_it_affects": [
+  {
+   "group": "People with traditional Medicare in New Jersey, Ohio, Oklahoma, Texas, Arizona, and Washington",
+   "how": "They would no longer have needed advance approval under this model before getting certain services covered."
+  },
+  {
+   "group": "Doctors, hospitals, and other Medicare providers in the six states",
+   "how": "They would no longer have had to submit prior authorization requests under this model for the covered services."
+  },
+  {
+   "group": "Companies contracted to run the WISeR Model",
+   "how": "Their work reviewing requests, and their pay tied to a share of savings, would have ended."
+  },
+  {
+   "group": "Centers for Medicare & Medicaid Services",
+   "how": "The agency would have been barred from continuing this six-year test of the model."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-11"
+}

@@ -1,0 +1,20 @@
+{
+ "headline": "Would have blocked a proposed sale of certain U.S. defense articles and services to the United Arab Emirates, the United Kingdom, and France, but Congress did not override the President's veto.",
+ "what_it_does": "If adopted, this joint resolution would have prohibited the proposed sale of various defense articles and related support services to the United Arab Emirates, the United Kingdom, and France. The sale was described in Executive Communication 1425, published in the Congressional Record on June 3, 2019. The President vetoed the resolution, and the Senate failed to override that veto on July 29, 2019.",
+ "who_it_affects": [
+  {
+   "group": "Governments of the United Arab Emirates, the United Kingdom, and France",
+   "how": "They would not have been able to complete the proposed purchase of the listed U.S. defense articles and services."
+  },
+  {
+   "group": "U.S. defense manufacturers and service providers named in the proposed sale",
+   "how": "They would have lost the proposed sale that the resolution targeted."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

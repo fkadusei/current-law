@@ -1,0 +1,24 @@
+{
+ "headline": "S.J.Res. 42 would have blocked three proposed US defense exports to Saudi Arabia, but the Senate did not take it up, so it did not pass.",
+ "what_it_does": "The joint resolution would have prohibited the government from issuing letters of offer for three proposed transfers of military technology to Saudi Arabia. The transfers covered technical data, hardware, and defense services tied to precision-guided munitions, including the Joint Direct Attack Munition, the FMU-152A/B fuze system, and Paveway weapons kits. The resolution was a disapproval measure under the Arms Export Control Act, and the Senate voted on 2017-06-13 to refuse to take it up or end debate, so it was not adopted.",
+ "who_it_affects": [
+  {
+   "group": "Government of Saudi Arabia and Royal Saudi Air Force",
+   "how": "It would have been unable to receive the proposed technical data, hardware, and defense services for these munitions and aircraft integrations."
+  },
+  {
+   "group": "Boeing and Boeing Saudi Arabia",
+   "how": "It would have been barred from carrying out the proposed defense services and transfers tied to the Joint Direct Attack Munition work in Saudi Arabia."
+  },
+  {
+   "group": "US defense contractors supplying these weapons systems",
+   "how": "Their proposed sales of related technical data, hardware, and services to Saudi Arabia would have been blocked."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

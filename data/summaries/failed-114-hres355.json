@@ -1,0 +1,28 @@
+{
+ "headline": "H.Res. 355 would have required the House Speaker to remove certain state flags containing parts of the Confederate battle flag from House areas of the Capitol and donate them to the Library of Congress.",
+ "what_it_does": "If adopted, this resolution would have directed the Speaker of the House to take down any state flag that includes any part of the Confederate battle flag from areas within the House wing of the Capitol and from House office buildings. The one exception would have been a flag displayed in the office of a House Member. The Speaker would also have been required to give any removed flag to the Library of Congress.",
+ "who_it_affects": [
+  {
+   "group": "Members of the House of Representatives",
+   "how": "Flags displayed in House common areas would have had to be removed, though flags in a Member's own office would have been allowed to stay."
+  },
+  {
+   "group": "House staff and officials who manage Capitol and House office building spaces",
+   "how": "They would have been responsible for carrying out the removal of covered flags and handing them over to the Library of Congress."
+  },
+  {
+   "group": "Visitors to the Capitol and House office buildings",
+   "how": "Covered state flags would no longer have been visible in shared House areas."
+  },
+  {
+   "group": "The Library of Congress",
+   "how": "It would have received any state flags removed under the resolution."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

@@ -1,0 +1,32 @@
+{
+ "headline": "The Senate did not act on this bill, which would have extended a 3.4% interest rate on certain federal student loans and changed payout rules for some retirement plans after an employee's death.",
+ "what_it_does": "If adopted, the bill would have kept the 3.4% interest rate for Direct Stafford loans first disbursed to undergraduates from July 1, 2011, through July 1, 2014, instead of July 1, 2013. It would also have required that a deceased employee's interest in a tax-exempt pension plan be fully distributed within five years of death. Exceptions would have applied to eligible designated beneficiaries, including disabled or chronically ill individuals, and to surviving spouses. Binding annuity contracts in effect on the enactment date would have been exempt.",
+ "who_it_affects": [
+  {
+   "group": "Undergraduate students with Direct Stafford loans",
+   "how": "Students who first received these loans in the affected period would have kept the 3.4% interest rate for longer."
+  },
+  {
+   "group": "Beneficiaries of employees in tax-exempt pension plans",
+   "how": "Heirs who inherit a pension interest would generally have had to receive it within five years of the employee's death."
+  },
+  {
+   "group": "Disabled or chronically ill beneficiaries",
+   "how": "They would have been treated as eligible designated beneficiaries and exempt from the five-year payout rule."
+  },
+  {
+   "group": "Surviving spouses of pension plan employees",
+   "how": "They would have been exempt from the five-year payout rule."
+  },
+  {
+   "group": "Holders of binding annuity contracts",
+   "how": "Contracts in effect on the enactment date would have been exempt from the new distribution rule."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

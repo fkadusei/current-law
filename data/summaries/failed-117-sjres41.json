@@ -1,0 +1,24 @@
+{
+ "headline": "This resolution would have blocked a 2021 HHS rule that changed federal family planning program requirements, reverting to earlier rules.",
+ "what_it_does": "It would have nullified a rule HHS issued on October 7, 2021, which would have restored the family planning program requirements in effect before May 3, 2019. It would have removed limits on pregnancy options counseling and on referrals for abortion services in federally funded family planning programs. It would also have dropped rules requiring physical and financial separation between abortion-related activities and certain family planning activities, and it would have added a focus on health equity.",
+ "who_it_affects": [
+  {
+   "group": "Providers and clinics that receive federal family planning funds",
+   "how": "They would have had to follow the pre-2019 program rules instead of the 2021 rule, including changes to counseling, referral, and separation requirements."
+  },
+  {
+   "group": "Patients who use federally funded family planning services",
+   "how": "Their access to pregnancy options counseling and abortion referrals through these programs would have changed under the restored rules."
+  },
+  {
+   "group": "Organizations that provide both family planning and abortion-related services",
+   "how": "They would no longer have been required to keep abortion-related activities physically and financially separate from certain family planning activities."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

@@ -1,0 +1,40 @@
+{
+ "headline": "The House voted down the FY2016 defense authorization bill, so it would have set Pentagon, military, and energy-security policy and spending limits for fiscal 2016 had it passed.",
+ "what_it_does": "The bill would have authorized funding levels for Defense Department programs such as weapons buying, research, operations, and military construction, plus Department of Energy nuclear security programs. It would have set rules on military pay, housing allowances, retirement, health care, sexual assault response, and acquisition practices. It would also have included limits on detainee transfers from Guantanamo and on retiring certain aircraft. Congress does not provide actual money through this bill, so it would have set the amounts that later spending laws could use.",
+ "who_it_affects": [
+  {
+   "group": "Active-duty and reserve service members",
+   "how": "They would have seen changes to basic pay freezes for generals and flag officers, housing allowance reductions, retirement options, and bonus extensions."
+  },
+  {
+   "group": "Military retirees and future enlistees",
+   "how": "They would have faced a new blended retirement system with a government-matching savings plan for people entering service on or after January 1, 2018."
+  },
+  {
+   "group": "Sexual assault victims in the military",
+   "how": "They would have gained expanded access to Special Victims' Counsel services, including for some civilian Defense employees."
+  },
+  {
+   "group": "TRICARE health plan beneficiaries",
+   "how": "They would have had changes to pharmacy cost-sharing, appointment access standards, and publicly posted facility quality data."
+  },
+  {
+   "group": "Defense contractors and small businesses",
+   "how": "They would have faced changes to acquisition rules, cost-overrun penalties, and small business contracting requirements."
+  },
+  {
+   "group": "Civilian Defense Department employees",
+   "how": "They would have seen a two-year probationary period for new hires and changes to step increases and layoff procedures based on performance."
+  },
+  {
+   "group": "Residents of Guam and certain communities near military bases",
+   "how": "They would have been affected by changes to Guam infrastructure rules and base-related land conveyances."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

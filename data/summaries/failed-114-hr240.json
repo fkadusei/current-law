@@ -1,0 +1,32 @@
+{
+ "headline": "H.R. 240 would have provided fiscal year 2015 funding for the Department of Homeland Security and set rules for how that money could be spent.",
+ "what_it_does": "The bill would have provided FY2015 appropriations for DHS agencies, including Customs and Border Protection, the Coast Guard, ICE, TSA, FEMA, and the Secret Service. It would have increased total funding compared with FY2014, raising money for CBP, ICE, and the Secret Service while lowering it for TSA and the Coast Guard. It also would have included many spending limits and reporting requirements, such as rules on reprogramming funds, contract competition, and reports to Congress, and it would have rescinded some unspent balances from earlier DHS accounts.",
+ "who_it_affects": [
+  {
+   "group": "Air travelers",
+   "how": "TSA funding would have been reduced below FY2014 levels, and the bill would have required TSA reports on passenger screening technology and expedited screening."
+  },
+  {
+   "group": "Disaster survivors and local emergency managers",
+   "how": "FEMA would have received funding for disaster relief, state and local grants, and fire grants, and would have had to report on the Disaster Relief Fund."
+  },
+  {
+   "group": "Coast Guard personnel and boaters",
+   "how": "Coast Guard funding would have been reduced below FY2014 levels, while the bill set limits protecting certain Coast Guard centers and staff levels."
+  },
+  {
+   "group": "Immigrants and applicants for immigration benefits",
+   "how": "USCIS would have been barred from granting benefits until required background checks were complete, and the bill would have funded immigration-related programs without blocking the administration's executive actions."
+  },
+  {
+   "group": "Federal contractors and grant applicants",
+   "how": "DHS would have had to notify Congress before awarding certain grants and contracts and would have been barred from paying award fees for poor contractor performance."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

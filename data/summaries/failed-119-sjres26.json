@@ -1,0 +1,24 @@
+{
+ "headline": "Failed Senate resolution would have blocked a proposed U.S. military sale of certain weapons and defense services to Israel.",
+ "what_it_does": "This joint resolution would have stopped a specific proposed sale of certain U.S. defense articles and services to Israel. Congress can use this kind of resolution to block a foreign military sale that the executive branch has notified it about. The official summary does not list the specific items in the sale. On April 3, 2025, the Senate voted against taking up the resolution, so it did not pass.",
+ "who_it_affects": [
+  {
+   "group": "Government of Israel",
+   "how": "Israel would not have received the specific defense items and services covered by this proposed sale."
+  },
+  {
+   "group": "U.S. defense companies supplying the sale",
+   "how": "Companies providing the items in this sale would not have been able to complete it."
+  },
+  {
+   "group": "U.S. executive branch (State and Defense Departments)",
+   "how": "These agencies would have been barred from going forward with this particular arms sale."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-11"
+}

@@ -1,0 +1,20 @@
+{
+ "headline": "If adopted, this House measure would have kept Department of Homeland Security funding going at its current rate past February 27, 2015, avoiding a DHS shutdown.",
+ "what_it_does": "It would have amended the Continuing Appropriations Resolution, 2015 to extend FY2015 funding for the Department of Homeland Security at the current annual rate. That funding would have lasted until the earlier of March 19, 2015, or the enactment of a full DHS appropriations bill for FY2015. Its main purpose would have been to prevent a DHS funding lapse when current funding was set to expire on February 27, 2015.",
+ "who_it_affects": [
+  {
+   "group": "Department of Homeland Security employees",
+   "how": "They would have continued to receive DHS funding at the current rate, so their agency could keep operating without a lapse in funding."
+  },
+  {
+   "group": "People who rely on DHS services",
+   "how": "DHS programs they use would have kept running at the current funding level instead of being interrupted by a shutdown."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

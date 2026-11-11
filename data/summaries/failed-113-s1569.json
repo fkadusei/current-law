@@ -1,0 +1,24 @@
+{
+ "headline": "S. 1569 would have temporarily suspended the federal debt limit through the end of 2014 and set rules for how the limit would be reset afterward.",
+ "what_it_does": "It would have changed the No Budget, No Pay Act of 2013 so the government could borrow past the public debt limit until December 31, 2014. Starting January 1, 2015, the limit would rise only by the amount of new federal debt and government-guaranteed debt issued during the suspension period beyond what was outstanding when the bill was enacted. Debt issued during the suspension would count only if it was needed to pay a federal commitment due before January 1, 2015.",
+ "who_it_affects": [
+  {
+   "group": "Holders of U.S. Treasury securities",
+   "how": "They would have continued to be paid on Treasury bonds and bills without the risk of a default caused by the debt limit being reached."
+  },
+  {
+   "group": "Federal government agencies that make required payments",
+   "how": "They would have been able to borrow to meet payment obligations due before 2015 while the debt limit was suspended."
+  },
+  {
+   "group": "Federal employees and program recipients who rely on timely government payments",
+   "how": "Payments such as salaries, benefits, and contracts would have been less likely to be delayed by a debt-limit standoff through 2014."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

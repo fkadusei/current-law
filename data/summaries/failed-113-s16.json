@@ -1,0 +1,24 @@
+{
+ "headline": "S. 16 would have replaced 2013 across-the-board spending cuts with an $85.3 billion cancellation plan, but the Senate did not act on it.",
+ "what_it_does": "The bill would have required the President to send Congress, by March 15, 2013, a plan to permanently cancel $85.333 billion in FY2013 budget resources from discretionary or direct spending accounts. Part of the cut would have come from defense spending, and that part would have had to follow the National Defense Authorization Act for FY2013. If Congress did not pass a disapproval resolution within seven days after March 15, the President would have had to cancel the Gramm-Rudman-Hollings sequestration orders and the plan's cuts. The bill also would have let the Defense Secretary move FY2013 funds among Defense Department accounts.",
+ "who_it_affects": [
+  {
+   "group": "The Department of Defense",
+   "how": "It would have had its FY2013 account totals capped at the amounts set in the FY2013 defense authorization and gained authority to shift money among its accounts."
+  },
+  {
+   "group": "Federal agencies with nondefense spending accounts",
+   "how": "They would have faced cancellations of budget resources, with no offsetting increases allowed between nondefense accounts."
+  },
+  {
+   "group": "Members of Congress",
+   "how": "They would have had a fast-track process to vote on a joint resolution to block the President's plan."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

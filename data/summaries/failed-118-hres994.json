@@ -1,0 +1,20 @@
+{
+ "headline": "Failed House rule would have set debate terms for a state and local tax deduction bill and a resolution on energy policy.",
+ "what_it_does": "This was a procedural rule, which sets how the House debates and votes on other measures. It would have allowed House floor consideration of H.R. 7160, a bill to change the limit on how much certain married couples can deduct for state and local taxes on their federal returns. It would also have allowed consideration of H.Res. 987, a resolution criticizing the Biden administration's energy policies. The House voted the rule down on February 14, 2024, so neither measure came to the floor under it.",
+ "who_it_affects": [
+  {
+   "group": "Members of the House of Representatives",
+   "how": "The rule would have set the terms for debating and voting on the two measures."
+  },
+  {
+   "group": "Married couples who deduct state and local taxes on their federal returns",
+   "how": "The rule would have let the House take up a bill to change their deduction limit, though the rule itself would not have changed any taxes."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-11"
+}

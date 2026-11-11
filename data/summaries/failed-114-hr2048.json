@@ -1,0 +1,36 @@
+{
+ "headline": "If adopted, H.R. 2048 would have required specific search terms for phone-record and other business-records orders and changed several surveillance and national security letter rules.",
+ "what_it_does": "The bill would have required the FBI to name a specific selection term, such as a person, account, or device, before asking the secret surveillance court for business records or phone call records. It would have limited ongoing phone record orders to 180 days and to two steps of call records, and would have required destruction of records not tied to foreign intelligence. It would also have allowed earlier court challenges to secrecy orders, set a seven-day limit for emergency collection before court approval, required public release of significant court rulings, and extended some expiring authorities to December 15, 2019.",
+ "who_it_affects": [
+  {
+   "group": "Telephone and internet companies",
+   "how": "They would have been asked to produce call records under court orders and would have received payment for their expenses and broader legal protection for complying."
+  },
+  {
+   "group": "Financial institutions and consumer reporting agencies",
+   "how": "They would have received national security letter requests that had to name a specific person, entity, or account."
+  },
+  {
+   "group": "People whose phone or business records could be collected",
+   "how": "Their records could have been collected only with a specific selection term and would have been subject to destruction rules if not relevant."
+  },
+  {
+   "group": "Recipients of secrecy orders",
+   "how": "They would have been able to challenge nondisclosure orders right away and would have had more options to report how many orders they received."
+  },
+  {
+   "group": "The general public",
+   "how": "The government would have been required to report more often on surveillance orders, national security letters, and court opinions."
+  },
+  {
+   "group": "Foreign Intelligence Surveillance Court",
+   "how": "It would have been required to appoint at least five amicus curiae to advise on novel or significant legal questions."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

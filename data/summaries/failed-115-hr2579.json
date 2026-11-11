@@ -1,0 +1,24 @@
+{
+ "headline": "A 2017 House bill that would have let people use the health insurance premium tax credit to pay for COBRA continuation coverage, but the Senate did not act on it.",
+ "what_it_does": "The bill would have allowed the premium assistance tax credit to be applied to COBRA continuation coverage, where a person keeps their employer health plan after leaving a job or another event that would normally end coverage. It would have applied only when the person pays the full premium without help from an employer. Coverage would have needed to meet qualified health plan rules, and the plan administrator would have had to certify that. The bill also said it would only take effect if the American Health Care Act of 2017 became law, and only for periods after December 31, 2019.",
+ "who_it_affects": [
+  {
+   "group": "People who lose employer health coverage and choose COBRA continuation coverage",
+   "how": "They could have used the premium tax credit to lower the cost of keeping their employer plan."
+  },
+  {
+   "group": "People who pay the full COBRA premium themselves",
+   "how": "They would have been the only COBRA enrollees eligible, since the bill covered cases where the premium is solely the taxpayer's obligation."
+  },
+  {
+   "group": "Group health plan administrators",
+   "how": "They would have had to certify that COBRA coverage meets qualified health plan requirements for the credit to apply."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

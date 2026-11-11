@@ -1,0 +1,44 @@
+{
+ "headline": "H.R. 2028 would have funded most federal agencies through April 28, 2017, and added security aid and disaster money, but the Senate did not take it up, so it never became law.",
+ "what_it_does": "The bill would have kept most federal agencies running at FY2017 spending levels through April 28, 2017, or until full-year appropriations were enacted, which would have prevented a partial government shutdown when the existing stopgap expired on December 9, 2016. It would also have added funding flexibility for specific programs, provided emergency and disaster relief for areas hit by 2016 disasters, and provided security assistance for counterterrorism efforts overseas. Several programs set to expire, including health benefits for certain retired coal miners, would have been extended.",
+ "who_it_affects": [
+  {
+   "group": "Federal agency employees and federal agencies",
+   "how": "Most agencies would have continued operating at FY2017 levels without a shutdown during the stopgap period."
+  },
+  {
+   "group": "Retired coal miners and their families",
+   "how": "Their health benefits under the United Mine Workers 1993 Benefit Plan would have been extended through April 30, 2017."
+  },
+  {
+   "group": "Residents of areas damaged by 2016 natural disasters, including Hurricane Matthew",
+   "how": "Emergency and disaster relief funds would have gone to repairs, flood control, and community recovery."
+  },
+  {
+   "group": "Low-income families with school-aged children",
+   "how": "The USDA would have been allowed to fund summer electronic benefit transfer demonstration projects operating by May 2017."
+  },
+  {
+   "group": "Commercial truck drivers",
+   "how": "Certain hours-of-service rules would have been suspended unless the Department of Transportation made required findings, with the prior 34-hour restart rule restored if it did not."
+  },
+  {
+   "group": "Members of Congress",
+   "how": "They would have been barred from receiving a cost-of-living raise during FY2017."
+  },
+  {
+   "group": "Students in the District of Columbia Opportunity Scholarship Program",
+   "how": "Unused federal funds would have been directed toward scholarships, with at least 95 percent going to scholarships or increased scholarship amounts."
+  },
+  {
+   "group": "Native American veterans experiencing or at risk of homelessness",
+   "how": "Rental assistance grants under the Tribal-Veterans Affairs Supportive Housing program would have been renewed."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

@@ -1,0 +1,20 @@
+{
+ "headline": "A 2019 Senate resolution would have blocked a proposed U.S. arms sale to Bahrain, but the Senate did not take it up, so it did not pass.",
+ "what_it_does": "If adopted, this joint resolution would have disapproved a proposed sale to the government of Bahrain of various weapons, ammunition, and related support services. The sale was described in Transmittal No. 18-20, which was sent to Congress on May 6, 2019. The Senate refused to take up or end debate on the resolution on June 13, 2019, so it did not become law.",
+ "who_it_affects": [
+  {
+   "group": "The government of Bahrain",
+   "how": "It would not have been able to complete the proposed purchase of the listed weapons, ammunition, and support services from the United States."
+  },
+  {
+   "group": "U.S. defense companies that would have supplied the items",
+   "how": "They would not have received the sale contract described in Transmittal No. 18-20."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

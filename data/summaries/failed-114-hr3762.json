@@ -1,0 +1,64 @@
+{
+ "headline": "H.R. 3762 would have repealed many parts of the 2010 health care law and changed taxes, Medicaid, and health funding, but Congress did not override the President's veto, so it did not take effect.",
+ "what_it_does": "If adopted, this bill would have ended the Prevention and Public Health Fund and ended the expansion of Medicaid after 2017. It would also have repealed premium assistance tax credits and the individual coverage penalty, and eliminated several health-related taxes and fees. It would have added a one-year limit on federal Medicaid payments to certain large family planning providers that also offer abortions.",
+ "who_it_affects": [
+  {
+   "group": "People who buy health insurance through an exchange",
+   "how": "Premium assistance tax credits and reduced cost-sharing subsidies would have ended after December 31, 2017, and people would have had to repay the full amount of excess advance payments."
+  },
+  {
+   "group": "Uninsured adults who do not have minimum essential coverage",
+   "how": "The tax penalty for not maintaining health coverage would have been eliminated."
+  },
+  {
+   "group": "Medicaid enrollees, including childless adults",
+   "how": "Medicaid expansion would have ended on December 31, 2017, and the increased federal matching rate for childless adults would have ended at the same time."
+  },
+  {
+   "group": "Small employers that contribute to employee health coverage",
+   "how": "The small employer health insurance tax credit would not have applied after 2017."
+  },
+  {
+   "group": "Large employers",
+   "how": "They would no longer have had to make shared responsibility payments under the health care law."
+  },
+  {
+   "group": "Community health centers",
+   "how": "Federal funding for community health centers would have increased."
+  },
+  {
+   "group": "Planned Parenthood and similar family planning providers",
+   "how": "For one year, states would have been restricted from receiving federal Medicaid payments to certain organizations that meet specified criteria, such as receiving more than $350 million in Medicaid payments in FY2014."
+  },
+  {
+   "group": "Patients and people with high medical costs",
+   "how": "The tax deduction for medical expenses would have applied to costs above 7.5% of adjusted gross income, instead of 10%."
+  },
+  {
+   "group": "Health savings account and flexible spending account holders",
+   "how": "These accounts could have been used for over-the-counter medications, and limits on salary reduction contributions to health flexible spending accounts would have been removed."
+  },
+  {
+   "group": "Drug manufacturers, medical device makers, and health insurers",
+   "how": "Annual fees on brand name drug makers and health insurers, and the excise tax on medical devices, would have been eliminated."
+  },
+  {
+   "group": "High-income taxpayers and investors",
+   "how": "The additional Medicare tax and the net investment income tax would have been eliminated."
+  },
+  {
+   "group": "People in U.S. territories",
+   "how": "Territories would have had reduced federal Medicaid matching rates after 2017, and funding for territories that set up health insurance exchanges would have ended after 2017."
+  },
+  {
+   "group": "Public health and substance abuse programs",
+   "how": "The bill would have provided FY2016 and FY2017 funding for state grants addressing substance abuse and urgent mental health needs."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

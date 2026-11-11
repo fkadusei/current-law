@@ -129,3 +129,82 @@ export function yesScope(control) {
   const ch = Object.keys(control || {});
   return ch.length > 1 ? "House + Senate" : ch.length ? `${ch[0]} only` : "";
 }
+
+// ---- Bills, resolutions and motions that failed a floor vote (data/build/failed) ----
+let _failed;
+export function allFailed() {
+  if (_failed) return _failed;
+  const dir = path.join(BUILD, "failed");
+  _failed = [];
+  if (!fs.existsSync(dir)) return _failed;
+  for (const congress of fs.readdirSync(dir)) {
+    const cdir = path.join(dir, congress);
+    if (!fs.statSync(cdir).isDirectory()) continue;
+    for (const f of fs.readdirSync(cdir)) _failed.push(JSON.parse(fs.readFileSync(path.join(cdir, f), "utf8")));
+  }
+  _failed.sort((a, b) => (b.failed_on || "").localeCompare(a.failed_on || "") || b.votes.at(-1).roll - a.votes.at(-1).roll);
+  return _failed;
+}
+
+const NEEDED = { "2/3": "two-thirds", "3/5": "60 votes" };
+export const FAILED_KIND = {
+  defeated: "Voted down",
+  blocked: "Blocked in the Senate",
+  set_aside: "Shelved by the House",
+  veto_sustained: "Veto stood",
+  acquitted: "Acquitted",
+};
+
+// One line saying how it failed, e.g. "Blocked in the Senate: 57–43, needed 60 votes".
+export function failedLabel(item) {
+  const v = item.votes.at(-1);
+  const score = `${v.yea}–${v.nay}`;
+  const need = NEEDED[v.required];
+  switch (item.kind) {
+    case "set_aside": {
+      const how = /refer/i.test(v.question) ? "sent it to committee" : "tabled it";
+      return `The House ${how}, ${score}`;
+    }
+    case "blocked":
+      if (/discharge/i.test(v.question)) return `Senate refused to pull it out of committee, ${score}`;
+      if (/cloture/i.test(v.question)) return `Blocked in the Senate: ${score}, needed ${need || "a majority"}`;
+      return `Senate refused to take it up, ${score}`;
+    case "veto_sustained":
+      return `Veto override failed in the ${v.chamber}, ${score} (needed two-thirds)`;
+    case "acquitted":
+      return `Senate acquitted: ${score} to convict (needed two-thirds)`;
+    default:
+      return v.yea > v.nay && need
+        ? `Fell short of the ${need} needed in the ${v.chamber}, ${score}`
+        : `Voted down in the ${v.chamber}, ${score}`;
+  }
+}
+
+// "Backed mostly by Democrats (98% of votes for it)"
+export function supportLabel(item) {
+  const sc = item.support_color;
+  if (!sc) return "No recorded support";
+  if (sc.side === "tie") return "Equal support from both parties";
+  return `Backed mostly by ${sc.side === "D" ? "Democrats" : "Republicans"} (${sc.share < 1 ? Math.min(99, Math.round(sc.share * 100)) : 100}% of votes for it)`;
+}
+
+export function failedPartyLine(item) {
+  const pl = item.support_color?.party_line;
+  if (pl === "D") return "No Republican voted for it";
+  if (pl === "R") return "No Democrat voted for it";
+  return null;
+}
+
+// What a "yes" meant on a vote, when it isn't obvious.
+export function yesMeant(vote) {
+  if (vote.kind === "set_aside") return /refer/i.test(vote.question)
+    ? "On this vote, Yes meant sending the resolution to committee (shelving it). No meant keeping it alive."
+    : "On this vote, Yes meant tabling the resolution (killing it). No meant keeping it alive.";
+  if (/cloture/i.test(vote.question)) return "On this vote, Yes meant ending debate so the Senate could move ahead. Ending debate takes 60 votes.";
+  if (/proceed/i.test(vote.question)) return "On this vote, Yes meant taking the measure up for debate.";
+  if (/discharge/i.test(vote.question)) return "On this vote, Yes meant pulling the measure out of committee for a vote.";
+  if (/guilty/i.test(vote.question)) return "On this vote, Yes meant guilty. Conviction takes two-thirds of the Senate.";
+  if (/overrid|objections/i.test(vote.question)) return "On this vote, Yes meant overriding the veto. That takes two-thirds.";
+  if (vote.required === "2/3") return "This vote needed two-thirds to pass.";
+  return null;
+}

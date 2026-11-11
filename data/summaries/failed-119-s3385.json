@@ -1,0 +1,24 @@
+{
+ "headline": "Failed Senate bill would have extended larger health insurance tax credits for marketplace plans through 2028.",
+ "what_it_does": "The bill would have extended, for three more years through 2028, temporary changes to the premium tax credit that were set to end after 2025. People buying coverage on health insurance exchanges would have kept their eligibility for the credit even with household incomes above 400% of the federal poverty level. It would also have kept the lower share of income that people are expected to pay toward premiums, which makes the credit larger. The Senate did not take up the bill on December 11, 2025.",
+ "who_it_affects": [
+  {
+   "group": "People who buy health insurance on their own through the exchanges",
+   "how": "They would have kept larger tax credits that lower their monthly premium costs through 2028."
+  },
+  {
+   "group": "Middle-income households earning more than 400% of the federal poverty level",
+   "how": "They would have stayed eligible for the premium tax credit instead of losing it after 2025."
+  },
+  {
+   "group": "Lower-income households at or above 100% of the federal poverty level",
+   "how": "They would have continued paying a smaller percentage of their income toward marketplace premiums."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-11"
+}

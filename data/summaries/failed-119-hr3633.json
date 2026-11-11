@@ -1,0 +1,32 @@
+{
+ "headline": "Bill to set federal rules for trading crypto tokens, mainly under the CFTC, was blocked in the Senate.",
+ "what_it_does": "The bill would have created a federal rulebook for \"digital commodities,\" meaning digital assets whose value depends on a blockchain. The Commodity Futures Trading Commission (CFTC) would have overseen most trading of these assets, including exchanges, brokers, and dealers. A token could be traded on an exchange only if its blockchain was mature or decentralized, or if the token's issuer filed certain reports. Some token sales below a set yearly amount would have been exempt from SEC registration, while the SEC would have kept oversight of digital commodity trading on securities exchanges and certain trading systems.",
+ "who_it_affects": [
+  {
+   "group": "Crypto exchanges, brokers, and dealers",
+   "how": "They would have had to register with the CFTC, monitor trading, keep records, follow limits on mixing customer assets with their own, and follow anti-money laundering rules under the Bank Secrecy Act."
+  },
+  {
+   "group": "Companies and developers that issue crypto tokens",
+   "how": "They would have had to show their blockchain was mature or decentralized, or file required reports, for their tokens to trade on exchanges, and some could have sold tokens without SEC registration if sales stayed under a yearly cap."
+  },
+  {
+   "group": "People who buy and sell cryptocurrency",
+   "how": "The platforms they use would have been subject to federal oversight rules, including rules on how customer assets are held."
+  },
+  {
+   "group": "Securities brokers, dealers, and stock exchanges",
+   "how": "Their digital commodity activities, including on alternative trading systems, would have been overseen by the SEC."
+  },
+  {
+   "group": "Federal regulators (CFTC and SEC)",
+   "how": "The CFTC would have gained primary authority over digital commodity markets, and the SEC would have had defined authority over certain related activities."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-11"
+}

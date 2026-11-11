@@ -1,0 +1,36 @@
+{
+ "headline": "The Freedom to Vote Act would have expanded voter registration and voting access, set rules for elections and redistricting, and changed campaign finance disclosure, but the Senate did not take it up.",
+ "what_it_does": "The bill would have added automatic and same-day voter registration and expanded vote-by-mail and early voting. It would have limited how states remove people from voter rolls and made Election Day a federal holiday. It would have restored voting rights for citizens convicted of crimes unless they were serving a felony sentence at the time of the election. It also would have created a federal crime for corruptly interfering with someone's voter registration, required post-election audits, set redistricting criteria, and added campaign finance disclosure and disclaimer rules.",
+ "who_it_affects": [
+  {
+   "group": "Eligible voters who are not registered",
+   "how": "They would have been able to register automatically or on Election Day in many cases."
+  },
+  {
+   "group": "People with past criminal convictions who are not serving a felony sentence",
+   "how": "They would have had their right to vote in federal elections protected."
+  },
+  {
+   "group": "State election officials",
+   "how": "They would have had to follow new limits on voter roll removals, conduct post-election audits, and expand mail and early voting options."
+  },
+  {
+   "group": "Federal employees and workers",
+   "how": "They would have received Election Day off as a federal holiday."
+  },
+  {
+   "group": "Candidates and political committees",
+   "how": "They would have faced added fundraising and spending disclosure requirements and new disclaimers on certain political ads."
+  },
+  {
+   "group": "Anyone who interferes with voter registration",
+   "how": "They would have faced a new federal criminal charge for corruptly hindering or preventing someone from registering to vote."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

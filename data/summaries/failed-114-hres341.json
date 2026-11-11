@@ -1,0 +1,28 @@
+{
+ "headline": "A House resolution that would have required removing state flags containing parts of the Confederate battle flag from House areas of the Capitol and House office buildings.",
+ "what_it_does": "If adopted, this resolution would have required the Speaker of the House to remove any state flag that includes any part of the Confederate battle flag from areas of the House wing of the Capitol and from House office buildings. Flags displayed in a Member's own office would have been excluded. The removed flags would have been donated to the Library of Congress.",
+ "who_it_affects": [
+  {
+   "group": "Members of the House of Representatives",
+   "how": "Flags with Confederate battle flag imagery would have had to come down from common House areas, though flags in a Member's own office would have been allowed to stay."
+  },
+  {
+   "group": "The Speaker of the House",
+   "how": "The Speaker would have been directed to carry out the removal and donation of these flags."
+  },
+  {
+   "group": "The Library of Congress",
+   "how": "The library would have received any flags removed under the measure."
+  },
+  {
+   "group": "Visitors and staff in the Capitol and House office buildings",
+   "how": "Any state flags with Confederate battle flag imagery in shared House spaces would have been taken down."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

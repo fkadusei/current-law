@@ -1,0 +1,28 @@
+{
+ "headline": "Failed House resolution would have directed the President to remove U.S. troops from unauthorized hostilities in or against Venezuela.",
+ "what_it_does": "This resolution would have directed the President to pull U.S. Armed Forces out of hostilities within or against Venezuela. The only exception would have been if Congress had passed a declaration of war or a specific authorization to use military force there. The House voted it down on December 17, 2025.",
+ "who_it_affects": [
+  {
+   "group": "Members of the U.S. Armed Forces",
+   "how": "Troops involved in hostilities in or against Venezuela would have been removed unless Congress authorized the military action."
+  },
+  {
+   "group": "The President",
+   "how": "The President would have been directed to end U.S. military hostilities involving Venezuela that Congress had not approved."
+  },
+  {
+   "group": "Congress",
+   "how": "Congress would have had to pass a declaration of war or a use-of-force authorization for such military action to continue."
+  },
+  {
+   "group": "People in Venezuela",
+   "how": "U.S. military hostilities in their country would have had to end unless Congress approved them."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-11"
+}

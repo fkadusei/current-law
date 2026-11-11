@@ -1,0 +1,24 @@
+{
+ "headline": "A 2020 House resolution would have overturned a Treasury bank regulator rule that changed how banks earn credit under the Community Reinvestment Act, but the Senate did not act on it.",
+ "what_it_does": "The resolution would have canceled a rule the Office of the Comptroller of the Currency published on June 5, 2020, that revised how that office applies the Community Reinvestment Act. The Community Reinvestment Act asks banks to meet the credit needs of low- and moderate-income communities. Under the rule, banks would have earned credit for different kinds of qualifying activities, with new procedures for deciding what counts. The rule would also have expanded the areas where banks are measured for this purpose.",
+ "who_it_affects": [
+  {
+   "group": "Banks regulated by the Office of the Comptroller of the Currency",
+   "how": "Their lending and community investment activities would have been judged under the revised rule instead of the prior rules."
+  },
+  {
+   "group": "Residents of low- and moderate-income communities",
+   "how": "Lending and investment in their neighborhoods would have been measured under the changed credit standards."
+  },
+  {
+   "group": "Community development organizations",
+   "how": "Projects they run could have qualified or not qualified for bank credit depending on the new activity definitions."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

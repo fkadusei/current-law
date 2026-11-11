@@ -1,0 +1,32 @@
+{
+ "headline": "A 2016 Senate bill that would have made many changes to federal energy programs, but the Senate did not take it up, so it never became law.",
+ "what_it_does": "If adopted, this bill would have changed several energy laws covering building and appliance efficiency, vehicle research, electric grid security, the Strategic Petroleum Reserve, and liquefied natural gas exports. It would have directed the Department of Energy to run research programs on vehicles, grid storage, and exascale computing, and it would have created new offices and working groups, including one on energy and water and one on energy markets. It would also have set up a National Park Service maintenance fund and changed rules for the Land and Water Conservation Fund and the Historic Preservation Fund.",
+ "who_it_affects": [
+  {
+   "group": "Electric utilities and grid operators",
+   "how": "They would have had to meet new cybersecurity and reliability requirements for the bulk-power system."
+  },
+  {
+   "group": "Appliance and building manufacturers",
+   "how": "They would have been subject to changed federal energy efficiency rules for buildings and appliances."
+  },
+  {
+   "group": "Companies seeking federal loans for energy technology",
+   "how": "Loan and loan guarantee incentives for innovative energy technologies would have been revised."
+  },
+  {
+   "group": "Natural gas exporters",
+   "how": "Rules for exporting liquefied natural gas would have been amended."
+  },
+  {
+   "group": "National Park Service and federal land managers",
+   "how": "They would have gained a maintenance and revitalization fund and new rules for conservation and historic preservation funding."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

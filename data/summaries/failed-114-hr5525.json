@@ -1,0 +1,24 @@
+{
+ "headline": "A 2016 House bill that was voted down would have barred phone and internet companies that offer mobile service from receiving Lifeline subsidies for low-income customers.",
+ "what_it_does": "The bill would have stopped providers of mobile phone and mobile data service from getting universal service support through the FCC's Lifeline program. Lifeline gives discounts on monthly phone or internet service to qualifying low-income people. The FCC would still have collected contributions from carriers through 2017 based on mobile support paid in 2016, but those amounts would have gone to the Treasury for deficit reduction instead of universal service programs.",
+ "who_it_affects": [
+  {
+   "group": "Low-income consumers who receive Lifeline discounts on mobile phone or mobile internet service",
+   "how": "They would have lost the federal discount on mobile service from providers that could no longer receive Lifeline support."
+  },
+  {
+   "group": "Mobile phone and mobile data providers that participate in the Lifeline program",
+   "how": "They would have been barred from receiving Lifeline universal service support for mobile services."
+  },
+  {
+   "group": "Telecommunications carriers that pay universal service contributions",
+   "how": "They would have kept paying contributions through 2017 based on mobile support from 2016, with those funds sent to the Treasury rather than to universal service programs."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

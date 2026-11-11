@@ -1,0 +1,20 @@
+{
+ "headline": "A Senate resolution that would have told Senate negotiators to keep House provisions on paid family leave for federal personnel in the 2020 defense bill, but the Senate voted it down.",
+ "what_it_does": "This resolution would have instructed the Senate managers in the conference committee for S. 1790, the National Defense Authorization Act for Fiscal Year 2020, to insist on certain House provisions. Those provisions relate to paid family leave for federal personnel. The resolution would have directed negotiators to hold to that position rather than drop it. The Senate rejected the resolution on September 25, 2019, so it did not take effect.",
+ "who_it_affects": [
+  {
+   "group": "Federal employees",
+   "how": "They would have been covered by the House provisions on paid family leave if the Senate conferees had kept those provisions in the final defense bill."
+  },
+  {
+   "group": "Senate conferees on S. 1790",
+   "how": "They would have been required to insist on the House paid family leave provisions during negotiations with the House."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

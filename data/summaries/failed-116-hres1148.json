@@ -1,0 +1,24 @@
+{
+ "headline": "A House resolution that was tabled or sent to committee on September 29, 2020, would have ordered removal of certain political items from the House side of the Capitol.",
+ "what_it_does": "If adopted, this resolution would have directed the Speaker of the House to remove any item that names, symbolizes, or mentions a political organization or party that ever held a public position supporting slavery or the Confederacy. The removed items would have been stored in the Library of Congress. The summary does not define which items qualify or list specific organizations.",
+ "who_it_affects": [
+  {
+   "group": "House staff who maintain the Capitol and House office buildings",
+   "how": "They would have been responsible for finding and removing covered items from House areas."
+  },
+  {
+   "group": "The Library of Congress",
+   "how": "It would have received donated items removed from House spaces."
+  },
+  {
+   "group": "Visitors to the Capitol and House office buildings",
+   "how": "Covered items displayed in those areas would no longer have been visible to them."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

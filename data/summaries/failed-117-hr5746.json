@@ -1,0 +1,44 @@
+{
+ "headline": "A 2022 Senate bill that would have expanded voting access, changed redistricting rules, and set new election and campaign finance rules, but the Senate never voted on it.",
+ "what_it_does": "If adopted, this bill would have made voter registration easier, including automatic and same-day registration, and would have expanded options like vote-by-mail and early voting. It would have limited removing people from voter rolls and made Election Day a federal holiday. It would have created a new federal crime for corruptly interfering with someone registering to vote or helping others register, and would have required states to conduct post-election audits for federal elections. It also would have set redistricting criteria, generally barred mid-decade redistricting, expanded the ban on foreign campaign spending, and changed which places must get federal preapproval before changing voting rules.",
+ "who_it_affects": [
+  {
+   "group": "Eligible voters",
+   "how": "They would have had easier ways to register and vote, such as automatic registration, same-day registration, vote-by-mail, and early voting."
+  },
+  {
+   "group": "People on voter rolls",
+   "how": "They would have had stronger protections against being removed from voter registration lists."
+  },
+  {
+   "group": "Federal workers and employers",
+   "how": "Election Day would have become a federal holiday, giving federal employees a paid day off."
+  },
+  {
+   "group": "State and local election officials",
+   "how": "They would have had to follow new registration, voting access, post-election audit, and redistricting requirements."
+  },
+  {
+   "group": "Congressional candidates and campaign donors",
+   "how": "They would have faced an expanded ban on foreign campaign spending and an alternative campaign funding system for certain federal offices."
+  },
+  {
+   "group": "People who help others register to vote",
+   "how": "They would have been protected by a new federal crime aimed at people who corruptly interfere with voter registration help."
+  },
+  {
+   "group": "States and localities with past voting restrictions",
+   "how": "Changes to their voting practices would have required federal preapproval under new criteria for which places are covered."
+  },
+  {
+   "group": "Tribal communities",
+   "how": "The bill would have included provisions to improve voting access on tribal lands."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

@@ -1,0 +1,52 @@
+{
+ "headline": "Failed House bill would have funded the government through October 31, 2023, cut most non-defense spending, and tightened asylum and border rules.",
+ "what_it_does": "The bill would have kept federal agencies funded through October 31, 2023, to avoid a shutdown, keeping defense, veterans, and disaster relief at 2023 levels and cutting most other programs by 8.1%. It would have required restarting border wall construction, with at least 900 miles of wall, and set staffing and technology requirements for Customs and Border Protection. It would also have made asylum harder to get, required detention or quick removal for many people who cross unlawfully, limited immigration parole, and added penalties for overstaying a visa. The House voted it down on September 29, 2023.",
+ "who_it_affects": [
+  {
+   "group": "Federal agencies and their employees",
+   "how": "Agencies would have been funded for one month, with most non-defense programs facing an 8.1% cut."
+  },
+  {
+   "group": "Veterans and people relying on disaster relief",
+   "how": "Veterans Affairs and disaster relief programs would have stayed funded at 2023 levels."
+  },
+  {
+   "group": "Asylum seekers",
+   "how": "They would have faced stricter screening, a required application fee, bans for crossing outside ports of entry or traveling through other countries, and a wider list of crimes that bar asylum."
+  },
+  {
+   "group": "Immigrants who enter unlawfully or overstay visas",
+   "how": "They would have faced required fast-track removal and detention, higher fines for unlawful entry, and possible jail time for overstaying a visa by 10 days or more."
+  },
+  {
+   "group": "Unaccompanied immigrant children and migrant families",
+   "how": "Children would generally have been required to be removed, families could have been detained together without the Flores time limits, and Special Immigrant Juvenile visa rules would have been tightened."
+  },
+  {
+   "group": "People seeking humanitarian parole",
+   "how": "Parole could not have been granted to whole groups at once and would have been limited in purpose and length."
+  },
+  {
+   "group": "Border Patrol agents and applicants",
+   "how": "Agents could have received retention bonuses, and more law enforcement officers could have skipped the polygraph test when applying."
+  },
+  {
+   "group": "Nonprofit groups that serve migrants",
+   "how": "Homeland Security could not have funded groups giving lodging or legal services to migrants who are not allowed to enter."
+  },
+  {
+   "group": "Homeland Security employees",
+   "how": "The department could not have required COVID-19 vaccines or punished workers for refusing one."
+  },
+  {
+   "group": "People who homeowners' flood insurance or livestock markets depend on",
+   "how": "The National Flood Insurance Program and a livestock price reporting program would have been extended through October 31, 2023."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-11"
+}

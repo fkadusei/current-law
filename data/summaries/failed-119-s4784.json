@@ -1,0 +1,36 @@
+{
+ "headline": "Senate bill setting yearly defense policy and spending authority for fiscal year 2027 stalled when the Senate would not move it forward.",
+ "what_it_does": "This bill would have set Defense Department and Energy Department national security policies for fiscal year 2027. It would have approved buying aircraft, ships, and other equipment, set troop levels, and set rules on military pay, health care, contracting, cyber operations, and artificial intelligence. It would have required a review of access to certain key materials, such as boron carbide, copper foil, and synthetic diamond. It would also have let a Defense Department office invest directly in companies working on batteries and critical minerals, and would have approved military construction projects.",
+ "who_it_affects": [
+  {
+   "group": "Active duty and reserve service members",
+   "how": "The bill would have set troop strength levels and policies on their pay and health care."
+  },
+  {
+   "group": "Military families and others who use military health care",
+   "how": "The bill would have set policies on military health care programs."
+  },
+  {
+   "group": "Defense contractors",
+   "how": "The bill would have changed rules on how the Defense Department buys goods and services and awards contracts."
+  },
+  {
+   "group": "Companies working on batteries, critical minerals, materials, and chemicals",
+   "how": "The bill would have let the Defense Department's Office of Strategic Capital buy ownership stakes in such companies."
+  },
+  {
+   "group": "Communities near military bases",
+   "how": "The bill would have approved specific military construction projects and extended some earlier ones."
+  },
+  {
+   "group": "Workers and programs in the nuclear weapons complex",
+   "how": "The bill would have authorized the National Nuclear Security Administration and the Defense Nuclear Facilities Safety Board."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-11"
+}

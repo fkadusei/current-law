@@ -1,0 +1,32 @@
+{
+ "headline": "S. 4 would have reset federal rules requiring certain states and local areas to get preapproval before changing voting practices, and added other voting protections.",
+ "what_it_does": "The bill would have set new rules for deciding which states and local governments must get preapproval from the Justice Department or a federal court in D.C. before changing voting practices. Covered areas would have been subject to preclearance for 10 years based on voting rights violations in the previous 25 years. The bill would also have required public notice of voting changes, let the Justice Department demand documents and answers during enforcement, and added protections for election workers, polling places, and tribal voting access.",
+ "who_it_affects": [
+  {
+   "group": "States and local governments with recent voting rights violations",
+   "how": "They would have had to get federal preapproval before changing methods of election or redistricting, and before other covered voting changes."
+  },
+  {
+   "group": "Voters in covered states and localities",
+   "how": "Proposed voting changes in those areas would have been reviewed in advance and required to be publicly announced."
+  },
+  {
+   "group": "Election workers and polling place staff",
+   "how": "They would have received new federal protections against interference in their work."
+  },
+  {
+   "group": "Residents of tribal lands",
+   "how": "The bill would have expanded voting access on tribal lands."
+  },
+  {
+   "group": "Justice Department",
+   "how": "It would have gained authority to require documents and answers to questions when enforcing voting rights."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

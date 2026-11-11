@@ -1,0 +1,24 @@
+{
+ "headline": "The bill would have directed EPA to revise diesel generator particulate rules for remote Alaska areas and to report on energy assistance options.",
+ "what_it_does": "The bill would have required the EPA to revise certain particulate matter emission standards for nonemergency stationary diesel engines in remote areas of Alaska. It would also have required the EPA to report on methods for helping those remote areas meet their energy needs. The House voted the bill down on December 21, 2018, so it did not become law.",
+ "who_it_affects": [
+  {
+   "group": "Residents of remote Alaska communities that rely on diesel generators for power",
+   "how": "They would have been affected by revised emission standards for nonemergency diesel generators in their areas."
+  },
+  {
+   "group": "Operators of nonemergency stationary diesel engines in remote Alaska",
+   "how": "They would have had to follow the revised particulate matter emission standards the EPA would have written."
+  },
+  {
+   "group": "Remote Alaska communities seeking energy support",
+   "how": "They would have benefited from an EPA report on ways to help them meet specified energy needs."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

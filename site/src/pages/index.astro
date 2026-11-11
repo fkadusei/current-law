@@ -1,7 +1,8 @@
 ---
 import Base from "../layouts/Base.astro";
 import LawCard from "../components/LawCard.astro";
-import { allLaws, executiveOrders, congressLabel, partyLineLabel, formatDate } from "../lib/data.js";
+import FailedCard from "../components/FailedCard.astro";
+import { allFailed, allLaws, executiveOrders, congressLabel, partyLineLabel, formatDate } from "../lib/data.js";
 const base = import.meta.env.BASE_URL.replace(/\/$/, "");
 const laws = allLaws();
 const presidents = [...new Map(laws.filter((l) => l.president).map((l) => [l.president.id, l.president])).values()];
@@ -11,6 +12,7 @@ const recorded = laws.filter((l) => l.recorded_vote).length;
 const partyLine = laws.filter((l) => partyLineLabel(l));
 const totalVotes = laws.reduce((n, l) => n + l.votes.reduce((m, v) => m + v.members.length, 0), 0);
 const eos = executiveOrders();
+const failed = allFailed();
 const firstYear = Math.min(...laws.map((l) => +l.enacted.slice(0, 4)));
 const PAGE = 50;
 // Per-Congress breakdown for the chart.
@@ -90,6 +92,16 @@ const fmt = (n) => n.toLocaleString("en-US");
           </a>
         ))}
       </div>
+    </section>
+  )}
+
+  {failed.length > 0 && (
+    <section aria-labelledby="nf-h">
+      <div class="section-head">
+        <h2 id="nf-h">Recently failed in Congress</h2>
+        <p class="muted">Bills and resolutions that lost a floor vote. <a href={`${base}/did-not-pass/`}>See all {fmt(failed.length)} →</a></p>
+      </div>
+      <div class="grid">{failed.slice(0, 3).map((item) => <FailedCard item={item} />)}</div>
     </section>
   )}
 

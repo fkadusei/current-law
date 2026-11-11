@@ -1,0 +1,24 @@
+{
+ "headline": "A 2021 House resolution would have directed the Attending Physician to update mask rules in the House chamber and committee rooms for vaccinated Members and staff, but the House did not adopt it.",
+ "what_it_does": "The resolution would have told the Office of the Attending Physician to update its mask-wearing guidance for the House floor and committee meeting rooms. The updated guidance would have applied to Members and staff who are fully vaccinated against COVID-19. It would have followed public guidance the Centers for Disease Control and Prevention released on May 13, 2021.",
+ "who_it_affects": [
+  {
+   "group": "Members of the House of Representatives who are vaccinated against COVID-19",
+   "how": "They would have been allowed to follow the updated mask guidance that applies to vaccinated people in the House chamber and committee rooms."
+  },
+  {
+   "group": "House staff who are vaccinated against COVID-19",
+   "how": "They would have been allowed to follow the updated mask guidance that applies to vaccinated people in the House chamber and committee rooms."
+  },
+  {
+   "group": "Unvaccinated Members and staff",
+   "how": "The resolution would not have changed the mask rules that apply to them under the existing guidance."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

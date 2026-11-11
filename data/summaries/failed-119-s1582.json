@@ -1,0 +1,40 @@
+{
+ "headline": "Senate blocked a bill that would have set federal rules for companies issuing payment stablecoins, a type of digital currency tied to a fixed value.",
+ "what_it_does": "The bill would have allowed only approved companies to issue payment stablecoins for people in the U.S., with fines up to $1 million and up to 5 years in prison for knowing violations. Issuers would have had to back each coin one-to-one with U.S. dollars or similar safe assets, publish monthly reserve reports, and disclose how people can cash out their coins. Smaller issuers (up to $10 billion) could choose state oversight instead of federal oversight. Approved stablecoins would not have been treated as securities or commodities, but issuers would have had to follow anti-money laundering rules.",
+ "who_it_affects": [
+  {
+   "group": "Companies that issue stablecoins",
+   "how": "They would have needed federal or state approval, full one-to-one reserves, monthly public reserve reports, and anti-money laundering programs."
+  },
+  {
+   "group": "People who buy, hold, or use stablecoins",
+   "how": "They would have gotten required public disclosures on reserves and redemption, and certain priority for their claims if an issuer went bankrupt."
+  },
+  {
+   "group": "Crypto exchanges and other digital asset service providers",
+   "how": "Three years after enactment, they would have been barred from offering stablecoins not issued by approved issuers or by foreign issuers that meet the bill's requirements."
+  },
+  {
+   "group": "Banks and credit unions",
+   "how": "Their subsidiaries could have applied to issue stablecoins under federal supervision."
+  },
+  {
+   "group": "Foreign stablecoin issuers",
+   "how": "They could have sold stablecoins in the U.S. only if Treasury found their home country's rules comparable, they registered with the OCC, and they held enough reserves in U.S. institutions."
+  },
+  {
+   "group": "Large public companies outside the financial industry",
+   "how": "They would have been barred from issuing stablecoins unless a federal review committee unanimously approved."
+  },
+  {
+   "group": "Certain federal employees",
+   "how": "They would have had to report holdings of approved stablecoins worth more than $5,000 on their financial disclosure forms."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-11"
+}

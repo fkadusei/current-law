@@ -1,0 +1,36 @@
+{
+ "headline": "The Senate did not act on H.R. 22, so the FAST Act, a five-year surface transportation and transit bill, was never enacted.",
+ "what_it_does": "If adopted, the FAST Act would have reauthorized federal highway, public transit, rail, and highway safety programs through fiscal year 2020. It would have revised how transportation funds are distributed to states, created new grant and loan programs, shortened some environmental review steps, and changed rules for trucks, rail safety, and motor vehicle recalls. The bill would also have covered tax and trust fund extensions and several financial services provisions.",
+ "who_it_affects": [
+  {
+   "group": "State departments of transportation",
+   "how": "They would have received federal highway funds under new formulas and programs with revised set-asides and reporting rules."
+  },
+  {
+   "group": "Public transit agencies and riders",
+   "how": "They would have received formula and competitive grants with revised federal shares and new rules for bus purchases and safety oversight."
+  },
+  {
+   "group": "Commercial truck and bus operators",
+   "how": "They would have faced changed hours-of-service, length, weight, and drug-testing rules, along with some exemptions."
+  },
+  {
+   "group": "Vehicle owners and rental car companies",
+   "how": "They would have been subject to stricter recall notice and remedy rules, including a 24-hour deadline for rental companies to stop renting recalled vehicles."
+  },
+  {
+   "group": "Small businesses owned by socially and economically disadvantaged individuals",
+   "how": "They would have been eligible for at least 10% of federal-aid highway and transit spending through required contracting goals."
+  },
+  {
+   "group": "Amtrak and rail passengers",
+   "how": "Amtrak would have operated under new accounting, planning, and board rules, with new safety requirements for passenger trains."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

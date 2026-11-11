@@ -1,0 +1,32 @@
+{
+ "headline": "The House voted down H.R. 2, the 2018 farm bill, which would have reauthorized and changed Department of Agriculture programs through fiscal year 2023.",
+ "what_it_does": "If adopted, this bill would have renewed and modified Department of Agriculture programs through fiscal year 2023. It would have covered many areas, including commodity support, conservation, trade and food aid, nutrition assistance, farm credit, rural development, research, forestry, energy, crop insurance, livestock, and food defense. The official summary lists these topics but does not describe the specific changes in detail.",
+ "who_it_affects": [
+  {
+   "group": "Farmers and agricultural producers",
+   "how": "They would have been affected by changes to commodity support, crop insurance, farm credit, and livestock programs."
+  },
+  {
+   "group": "Participants in nutrition assistance programs",
+   "how": "People who receive federal food assistance would have been affected by changes to nutrition assistance programs."
+  },
+  {
+   "group": "Landowners in conservation and forestry programs",
+   "how": "Those who take part in conservation or forestry programs would have been affected by changes to those programs."
+  },
+  {
+   "group": "Historically underserved producers",
+   "how": "The bill would have included changes aimed at this group of producers."
+  },
+  {
+   "group": "Rural communities",
+   "how": "Residents of rural areas would have been affected by changes to rural development and energy programs."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "low",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

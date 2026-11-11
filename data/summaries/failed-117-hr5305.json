@@ -1,0 +1,32 @@
+{
+ "headline": "The Senate did not act on H.R. 5305, which would have kept federal agencies funded past October 1, 2021, and extended several expiring programs.",
+ "what_it_does": "If adopted, this act would have provided continuing FY2022 funding to federal agencies through December 3, 2021, or until the applicable full-year appropriations act was enacted, whichever came first. It would have funded most programs at FY2021 levels, with some exceptions, and provided supplemental funding for natural disaster activities and for Afghan evacuees. It would also have extended the National Flood Insurance Program, TANF, two advisory bodies, a temporary DEA scheduling order for fentanyl-related substances, and USDA's authority to waive certain school meal requirements.",
+ "who_it_affects": [
+  {
+   "group": "Federal agency employees and contractors",
+   "how": "Agencies would have kept operating at FY2021 funding levels instead of shutting down while full-year FY2022 spending bills were pending."
+  },
+  {
+   "group": "Families receiving Temporary Assistance for Needy Families (TANF)",
+   "how": "The TANF program would have continued without lapsing under the extension."
+  },
+  {
+   "group": "Homeowners and property owners in flood-prone areas",
+   "how": "Flood insurance through the National Flood Insurance Program would have stayed available under the extension."
+  },
+  {
+   "group": "Afghan evacuees and communities affected by natural disasters",
+   "how": "They would have received supplemental federal funding for disaster and evacuee-related activities."
+  },
+  {
+   "group": "Schools and students in the National School Lunch and school meal programs",
+   "how": "USDA would have kept its authority to waive certain school meal requirements."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

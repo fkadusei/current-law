@@ -1,0 +1,24 @@
+{
+ "headline": "The Senate did not act on S. 2232, which would have required a Government Accountability Office audit of the Federal Reserve.",
+ "what_it_does": "If adopted, the bill would have directed the Government Accountability Office to begin and finish an audit of the Federal Reserve Board of Governors and the Federal Reserve Banks within 12 months of enactment. The GAO would then have had to report its findings and conclusions to Congress within 90 days after finishing. The bill would also have repealed certain existing limits on the scope of such an audit.",
+ "who_it_affects": [
+  {
+   "group": "The Federal Reserve Board of Governors and the Federal Reserve Banks",
+   "how": "They would have been subject to a GAO audit within 12 months, and the existing limits on audit scope would have been removed."
+  },
+  {
+   "group": "The Government Accountability Office",
+   "how": "It would have had to start and complete the audit and then report its findings to Congress within 90 days."
+  },
+  {
+   "group": "Members of Congress",
+   "how": "They would have received the GAO's audit findings and conclusions within 90 days of the audit's completion."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

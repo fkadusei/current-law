@@ -1,0 +1,48 @@
+{
+ "headline": "The Senate blocked H.R. 3684, a large bill that would have funded roads, rail, broadband, water, energy, and other infrastructure, on July 21, 2021.",
+ "what_it_does": "If adopted, this bill would have provided new federal funding and rules for many kinds of infrastructure, including roads, bridges, passenger and freight rail, public transit, broadband, ports, airports, water systems, the electric grid, and cleanup of old pollution sites. It would have reauthorized many transportation and safety programs through fiscal year 2026 and created new grant programs, such as for electric vehicle charging and wildlife crossings. It would also have included requirements on domestic sourcing of materials, prevailing wages on funded projects, and changes to drinking water, broadband, and energy programs. The Senate did not take up or end debate on the bill, so none of these changes were made.",
+ "who_it_affects": [
+  {
+   "group": "State and local governments",
+   "how": "They would have received federal grants and loans for roads, bridges, transit, water systems, and broadband projects."
+  },
+  {
+   "group": "Commuters and drivers",
+   "how": "They would have seen funding for road and bridge repairs, highway safety programs, and new electric vehicle charging stations."
+  },
+  {
+   "group": "People in rural and unserved areas",
+   "how": "They would have had access to broadband and middle mile internet grants, along with rural transit and ferry service funding."
+  },
+  {
+   "group": "Users of Amtrak and passenger rail",
+   "how": "They would have benefited from grants for Amtrak service and a rule requiring a ticket agent at larger stations."
+  },
+  {
+   "group": "Commercial truck drivers and carriers",
+   "how": "They would have faced new rules on automatic emergency braking for heavy trucks and an apprenticeship program for drivers under 21."
+  },
+  {
+   "group": "Tribal communities",
+   "how": "They would have received funding for tribal roads, bridges, water projects, and broadband."
+  },
+  {
+   "group": "Households with low incomes",
+   "how": "They would have been eligible for an affordable broadband benefit and assistance with drinking water and wastewater connections."
+  },
+  {
+   "group": "Coal communities and abandoned mine land areas",
+   "how": "They would have received funding to reclaim abandoned coal mines and to build clean energy manufacturing facilities."
+  },
+  {
+   "group": "Manufacturers and federal contractors",
+   "how": "They would have been subject to Buy American requirements for materials used in federally funded infrastructure projects."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

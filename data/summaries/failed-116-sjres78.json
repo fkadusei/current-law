@@ -1,0 +1,20 @@
+{
+ "headline": "A 2020 Senate resolution would have blocked a proposed U.S. weapons sale to the United Arab Emirates, but the Senate did not take it up.",
+ "what_it_does": "This joint resolution would have prohibited a proposed foreign military sale of certain defense articles and services to the United Arab Emirates. Under the Arms Export Control Act, Congress can vote to block such sales, and this resolution was the vehicle for that disapproval. The Senate refused to take up the measure or end debate on it on December 9, 2020, so it was not adopted.",
+ "who_it_affects": [
+  {
+   "group": "The government of the United Arab Emirates",
+   "how": "It would not have been able to buy the specified U.S. defense articles and services covered by the proposed sale."
+  },
+  {
+   "group": "U.S. defense contractors that would have supplied the weapons and services",
+   "how": "They would have lost the expected sale of the specified items to the United Arab Emirates."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

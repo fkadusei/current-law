@@ -1,0 +1,24 @@
+{
+ "headline": "Failed Senate resolution would have required the President to remove U.S. troops from hostilities with Iran not approved by Congress.",
+ "what_it_does": "This joint resolution would have directed the President to remove U.S. Armed Forces from hostilities within or against Iran. The requirement would have applied unless Congress passed a declaration of war or a specific authorization to use military force against Iran. It would not have stopped the United States from defending itself, its personnel, or its facilities abroad against an attack. The Senate refused to take it up or end debate on it on June 24, 2026, so it did not pass.",
+ "who_it_affects": [
+  {
+   "group": "U.S. military service members",
+   "how": "Those involved in hostilities within or against Iran would have been withdrawn unless Congress authorized the action."
+  },
+  {
+   "group": "The President",
+   "how": "The President would have been required to end unauthorized U.S. military hostilities against Iran while keeping the ability to defend against attacks."
+  },
+  {
+   "group": "Congress",
+   "how": "Congress would have needed to pass a declaration of war or a use-of-force authorization for U.S. hostilities against Iran to continue."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-11"
+}

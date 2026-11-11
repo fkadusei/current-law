@@ -1,0 +1,24 @@
+{
+ "headline": "Would have canceled a Washington, D.C. law that changed police rules, including neck restraint bans, body camera procedures, and access to discipline records.",
+ "what_it_does": "This resolution would have blocked a D.C. Council law called the Comprehensive Policing and Justice Reform Amendment Act of 2022. That D.C. law bans certain neck restraints by police, adds procedures for body-worn cameras, and expands access to police disciplinary records. The President vetoed the resolution, and the House failed to override the veto, so the D.C. law was not canceled.",
+ "who_it_affects": [
+  {
+   "group": "Police officers in Washington, D.C.",
+   "how": "They would no longer have been covered by the D.C. law's limits on neck restraints and its added body camera procedures."
+  },
+  {
+   "group": "People living in or visiting Washington, D.C.",
+   "how": "They would have lost the expanded access to police disciplinary records and other policing rules set by the D.C. law."
+  },
+  {
+   "group": "The D.C. Council and local government",
+   "how": "A policing law the Council passed would have been overturned by Congress."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-11"
+}

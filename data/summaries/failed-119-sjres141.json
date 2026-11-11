@@ -1,0 +1,24 @@
+{
+ "headline": "Senate measure would have canceled the consumer finance agency's withdrawal of its rule on unfair and deceptive medical debt collection.",
+ "what_it_does": "This resolution would have used the Congressional Review Act to reject a Consumer Financial Protection Bureau (CFPB) action. That action withdrew an earlier CFPB rule about deceptive and unfair ways of collecting medical debt under the federal debt collection rules, known as Regulation F. If adopted, the withdrawal would have had no force or effect, which could have kept the earlier medical debt rule in place. No official summary is available, so the exact details of the earlier rule are not described here.",
+ "who_it_affects": [
+  {
+   "group": "People with unpaid medical bills",
+   "how": "They could have kept whatever protections the earlier CFPB rule gave against deceptive or unfair medical debt collection."
+  },
+  {
+   "group": "Debt collectors and collection agencies",
+   "how": "They could have stayed subject to the earlier rule's limits on how they collect medical debt."
+  },
+  {
+   "group": "Consumer Financial Protection Bureau",
+   "how": "The agency's withdrawal would have been canceled, and it generally could not issue a substantially similar withdrawal without new approval from Congress."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-11"
+}

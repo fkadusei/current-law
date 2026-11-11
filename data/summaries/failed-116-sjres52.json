@@ -1,0 +1,24 @@
+{
+ "headline": "The Senate voted down a resolution that would have overturned October 2018 federal guidance on state waivers from certain health insurance coverage requirements.",
+ "what_it_does": "This joint resolution would have disapproved a federal rule, called State Relief and Empowerment Waivers, under the Congressional Review Act. It would have rescinded guidance issued on October 24, 2018, that loosened the criteria states must meet to get waivers from certain health insurance plan coverage requirements. The official summary does not list the specific requirements that would have been affected.",
+ "who_it_affects": [
+  {
+   "group": "State governments that apply for health insurance waivers",
+   "how": "They would have faced stricter criteria for obtaining waivers from certain coverage requirements, because the looser 2018 guidance would have been rescinded."
+  },
+  {
+   "group": "People who buy health insurance on their own",
+   "how": "Their coverage options could have changed depending on which state waivers were approved or denied under the stricter criteria."
+  },
+  {
+   "group": "Health insurance companies that sell plans in states with waivers",
+   "how": "The plans they could offer in waiver states would have depended on whether states qualified for waivers under the restored criteria."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

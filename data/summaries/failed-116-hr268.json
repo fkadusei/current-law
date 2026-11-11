@@ -1,0 +1,36 @@
+{
+ "headline": "H.R. 268 would have provided $14.2 billion in disaster aid and funded federal agencies through February 8, 2019, ending a partial government shutdown, but the Senate did not take it up.",
+ "what_it_does": "The bill would have given $14.2 billion in fiscal 2019 supplemental funding for costs from wildfires, hurricanes, volcanoes, earthquakes, typhoons, and other natural disasters, and labeled that spending as emergency spending. It would also have provided temporary continuing funding for agencies whose full fiscal 2019 spending bills had not been enacted, ending a partial government shutdown that began December 21, 2018. It would have extended several programs through February 8, 2019, including the Violence Against Women Act, the Temporary Assistance for Needy Families program, certain pesticide fee collection by the Environmental Protection Agency, and some immigration authorities.",
+ "who_it_affects": [
+  {
+   "group": "People and communities affected by recent natural disasters",
+   "how": "They would have received federal disaster assistance funding for recovery costs."
+  },
+  {
+   "group": "Federal employees whose agencies were affected by the partial shutdown",
+   "how": "Their agencies would have received temporary funding that let government operations resume."
+  },
+  {
+   "group": "Federal workers and contractors at agencies without full-year funding",
+   "how": "They would have had paid operations continue under temporary funding through February 8, 2019."
+  },
+  {
+   "group": "Recipients of Temporary Assistance for Needy Families benefits",
+   "how": "The program would have continued under an extension through February 8, 2019."
+  },
+  {
+   "group": "Survivors and service providers under the Violence Against Women Act",
+   "how": "The law's programs would have continued under an extension through February 8, 2019."
+  },
+  {
+   "group": "Veterans",
+   "how": "The Department of Veterans Affairs would have received supplemental appropriations."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

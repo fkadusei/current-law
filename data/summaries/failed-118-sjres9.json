@@ -1,0 +1,24 @@
+{
+ "headline": "Congress tried to cancel a rule that listed the lesser prairie-chicken as a threatened and endangered species, but the veto stood.",
+ "what_it_does": "This resolution would have canceled a Fish and Wildlife Service rule published on November 25, 2022. That rule put the northern group of lesser prairie-chickens on the list of threatened species, with special rules for that group. It also put the southern group on the list of endangered species. The President vetoed the resolution, and the Senate failed to override the veto, so the rule stayed in place.",
+ "who_it_affects": [
+  {
+   "group": "Lesser prairie-chickens (northern and southern populations)",
+   "how": "The birds would have lost the federal Endangered Species Act protections the rule gave them."
+  },
+  {
+   "group": "Landowners, ranchers, farmers, and businesses on land where the bird lives",
+   "how": "They would no longer have had to follow the federal species protection rules tied to this listing."
+  },
+  {
+   "group": "U.S. Fish and Wildlife Service",
+   "how": "The agency would have been unable to enforce this rule."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-11"
+}

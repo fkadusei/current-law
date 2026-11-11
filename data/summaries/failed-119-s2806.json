@@ -1,0 +1,28 @@
+{
+ "headline": "A bill that would have automatically kept the federal government funded at the prior year's levels to prevent shutdowns failed in the Senate.",
+ "what_it_does": "The bill would have set up automatic funding for the federal government whenever Congress does not pass its yearly spending bills or a temporary funding measure before the fiscal year starts. Programs and activities funded the year before would keep running at the same rate of spending as the prior year. The goal would be to prevent a government shutdown. The Senate did not move forward with the bill on September 29, 2025.",
+ "who_it_affects": [
+  {
+   "group": "Federal employees",
+   "how": "They would have kept working and getting paid during funding gaps instead of facing furloughs or delayed pay from a shutdown."
+  },
+  {
+   "group": "People who use federal services",
+   "how": "Services such as national parks, federal offices, and agency programs would have kept operating at prior-year funding levels during a funding lapse."
+  },
+  {
+   "group": "Federal contractors",
+   "how": "Work funded in the prior year would have continued without the stop-work disruptions a shutdown can cause."
+  },
+  {
+   "group": "Congress",
+   "how": "Lawmakers would have faced automatic prior-year funding levels if they missed the deadline to pass new spending bills."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-11"
+}

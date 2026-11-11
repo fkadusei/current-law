@@ -1,0 +1,20 @@
+{
+ "headline": "A 2021 Senate resolution would have blocked a proposed U.S. weapons sale to Saudi Arabia, but the Senate did not advance it.",
+ "what_it_does": "The resolution would have prohibited a proposed foreign military sale of specified defense articles to Saudi Arabia. It is a joint resolution of disapproval, a process that lets Congress try to stop an arms sale the executive branch has proposed. The official summary does not list the specific weapons involved.",
+ "who_it_affects": [
+  {
+   "group": "The Government of Saudi Arabia",
+   "how": "It would not have been able to buy the specified defense articles through this proposed sale."
+  },
+  {
+   "group": "U.S. defense contractors that would have supplied the specified defense articles",
+   "how": "They would have lost the proposed sale of those items to Saudi Arabia."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

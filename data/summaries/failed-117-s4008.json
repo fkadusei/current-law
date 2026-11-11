@@ -1,0 +1,40 @@
+{
+ "headline": "A 2022 Senate bill would have sent more COVID-19 relief grants to restaurants, gyms, live-event businesses, and other pandemic-hit businesses.",
+ "what_it_does": "The bill would have added funding for the Small Business Administration to give grants to restaurants and similar establishments to help cover ongoing operations. It would also have funded grants for gyms and fitness centers, minor league sports teams, businesses near land ports of entry, live-event businesses, certain businesses in hard-to-reach U.S. exclaves, and eligible transportation service providers. A business could have received a grant under only one program, and the SBA would have had to report on applications, awards, and denials and run an oversight and audit plan.",
+ "who_it_affects": [
+  {
+   "group": "Restaurants and similar food establishments",
+   "how": "They would have been able to apply for SBA grants to support their ongoing operations during the pandemic."
+  },
+  {
+   "group": "Gyms and fitness centers",
+   "how": "They would have been eligible for a separate SBA grant program for businesses hurt by the pandemic."
+  },
+  {
+   "group": "Minor league sports teams",
+   "how": "They would have been eligible for pandemic grant funding."
+  },
+  {
+   "group": "Businesses that provide or support live events",
+   "how": "They would have been eligible for pandemic grant funding."
+  },
+  {
+   "group": "Businesses near U.S. land ports of entry and businesses in certain U.S. exclaves",
+   "how": "They would have had access to targeted pandemic grant programs."
+  },
+  {
+   "group": "Eligible transportation service providers",
+   "how": "They would have received additional grant funding."
+  },
+  {
+   "group": "Small Business Administration",
+   "how": "It would have had to set up, administer, report weekly and biweekly on, and audit these grant programs."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

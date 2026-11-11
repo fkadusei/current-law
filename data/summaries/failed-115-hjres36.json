@@ -1,0 +1,20 @@
+{
+ "headline": "A 2017 House resolution that would have overturned a Bureau of Land Management rule on waste from oil and gas production, but the Senate did not act on it.",
+ "what_it_does": "If adopted, this joint resolution would have nullified the Bureau of Land Management rule titled Waste Prevention, Production Subject to Royalties, and Resource Conservation, which was published in the Federal Register on November 18, 2016. That rule addressed waste generated during oil and gas production. The Senate refused to take up or end debate on the resolution on May 10, 2017, so it did not become law.",
+ "who_it_affects": [
+  {
+   "group": "Oil and gas companies that produce on federal lands",
+   "how": "They would have continued operating under the rules in place before the nullified BLM waste-prevention rule took effect."
+  },
+  {
+   "group": "Federal land managers at the Bureau of Land Management",
+   "how": "They would have lost the authority to enforce the nullified waste-prevention rule."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

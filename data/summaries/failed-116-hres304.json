@@ -1,0 +1,20 @@
+{
+ "headline": "A 2019 House resolution would have directed the Oversight Committee to send a Michael Cohen hearing transcript to the Justice Department, but the House tabled it and it did not pass.",
+ "what_it_does": "If adopted, this resolution would have ordered the House Oversight and Reform Committee to give the Department of Justice an official copy of the transcript from the February 27, 2019 hearing. In that hearing, Michael Cohen, a former attorney for Donald Trump, testified under oath. The House voted on May 1, 2019 to table the measure or send it back to committee, so it did not move forward.",
+ "who_it_affects": [
+  {
+   "group": "House Oversight and Reform Committee",
+   "how": "It would have had to send an official copy of the February 27, 2019 hearing transcript to the Department of Justice."
+  },
+  {
+   "group": "Department of Justice",
+   "how": "It would have received an official copy of the February 27, 2019 hearing transcript from the House committee."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

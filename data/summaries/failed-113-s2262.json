@@ -1,0 +1,36 @@
+{
+ "headline": "A 2014 Senate energy efficiency bill that did not pass would have set building, industrial, and federal energy rules and programs.",
+ "what_it_does": "The bill would have directed the Energy Department to support national model building energy codes and to encourage states and localities to adopt them. It would have created grants for energy-efficiency training and rebates for electric motors and transformers. It would also have changed federal building energy standards, mortgage underwriting rules, and Energy Star labeling and testing requirements. The Senate refused to take it up or end debate on it on May 12, 2014, so none of this became law.",
+ "who_it_affects": [
+  {
+   "group": "Federal agencies that lease or occupy buildings",
+   "how": "They would have had to benchmark energy use in leased space that lacks an Energy Star label and meet tougher federal building energy performance targets."
+  },
+  {
+   "group": "Manufacturers and industrial facilities",
+   "how": "They could have requested free on-site energy assessments and received rebates for certain motors and transformers."
+  },
+  {
+   "group": "Small businesses seeking loans for energy projects",
+   "how": "The Small Business Administration would have been directed to speed up review of their loan applications for industrial assessment recommendations."
+  },
+  {
+   "group": "Home buyers and borrowers using federal mortgages",
+   "how": "Lenders would have been guided to consider expected energy cost savings when judging loan eligibility and property value."
+  },
+  {
+   "group": "Appraisers working on federally related real estate deals",
+   "how": "State-certified appraisers would have needed timely access to owner and lender information about energy-saving features of a property."
+  },
+  {
+   "group": "Schools and multifamily building owners",
+   "how": "They would have gained access to federal information on energy financing and eligibility for rebates or demonstration programs."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

@@ -1,0 +1,32 @@
+{
+ "headline": "Failed Senate bill would have given Homeland Security emergency power to quickly turn away migrants at the southwest border and sped up asylum decisions.",
+ "what_it_does": "The bill would have let the Department of Homeland Security (DHS) quickly remove or block entry of certain non-U.S. nationals within 100 miles of the southwest border when encounters averaged 4,000 a day over seven days, and required it at higher levels; this power would have ended after three years. It would have created a faster asylum process run by asylum officers, with target timelines and limited appeals, and a stricter standard for staying in the U.S. while a claim is decided. It would also have opened paths to permanent residence for certain Afghans and provided extra funding, higher pay for asylum officers, and faster hiring at DHS.",
+ "who_it_affects": [
+  {
+   "group": "People crossing or arriving at the southwest border",
+   "how": "They could have been quickly removed or blocked from entering when border encounters passed set levels."
+  },
+  {
+   "group": "People seeking asylum in the U.S.",
+   "how": "Their claims would have faced a faster process, a stricter early screening standard, and limited review if denied."
+  },
+  {
+   "group": "Afghans admitted or paroled into the U.S.",
+   "how": "Certain individuals would have become eligible for conditional permanent resident status."
+  },
+  {
+   "group": "Afghans injured while supporting the U.S. mission in Afghanistan",
+   "how": "They would have had expanded eligibility for special immigrant visas."
+  },
+  {
+   "group": "DHS asylum officers and job applicants",
+   "how": "Asylum officers would have gotten higher base pay, and DHS could have hired staff more quickly for a limited time."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-11"
+}

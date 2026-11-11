@@ -1,0 +1,32 @@
+{
+ "headline": "H.R. 1563 would have barred people with seriously delinquent federal tax debts from federal jobs and from continuing as federal employees, but the House voted it down in 2015.",
+ "what_it_does": "The bill would have made anyone with a seriously delinquent federal tax debt ineligible to be hired or to keep working for the federal government. Certain debts would have been excluded, such as debts paid under an approved installment plan or offer-in-compromise, debts under a pending collection due process hearing, and debts where a levy was found to cause economic hardship. Agencies would have required job applicants to certify they had no such debt, checked public records for tax liens, and could have asked Treasury for tax information on employees or applicants, with the Office of Personnel Management writing rules that include due process and hardship exceptions.",
+ "who_it_affects": [
+  {
+   "group": "Federal employees with seriously delinquent tax debts",
+   "how": "They would have faced possible removal from their jobs unless their debt fell under an exemption or they showed it was exempt within 180 days."
+  },
+  {
+   "group": "Job applicants for federal positions with seriously delinquent tax debts",
+   "how": "They would have been barred from federal hiring and required to certify they had no such debt."
+  },
+  {
+   "group": "Federal employees who willfully failed to file tax returns or understated tax liability",
+   "how": "Their agency heads would have been allowed to take personnel actions against them."
+  },
+  {
+   "group": "Federal agencies and their human resources offices",
+   "how": "They would have had to check public records for tax liens, collect applicant certifications, and limit how they used information obtained under the law."
+  },
+  {
+   "group": "Internal Revenue Service and Department of the Treasury",
+   "how": "Treasury would have been asked to disclose tax debt information to agency heads when authorized forms were submitted."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

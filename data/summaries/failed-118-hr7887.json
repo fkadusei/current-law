@@ -1,0 +1,28 @@
+{
+ "headline": "Failed bill would have limited federal agencies from requiring set experience or education levels for contractor workers unless justified in writing.",
+ "what_it_does": "The bill would have stopped federal agencies from putting minimum experience or education requirements for a contractor's workers into their requests for bids. An agency could still include such requirements if the contracting officer wrote an explanation in the request saying why the agency's needs could not be met without them. The Office of Management and Budget would have had 60 days after the bill became law to give agencies guidance on how to carry it out.",
+ "who_it_affects": [
+  {
+   "group": "Companies that bid on federal contracts",
+   "how": "They would have had more freedom to choose which workers to staff on a contract, without meeting agency-set experience or degree minimums in most cases."
+  },
+  {
+   "group": "Workers employed by federal contractors",
+   "how": "People without certain degrees or years of experience could have been assigned to federal contract work that might otherwise have required them."
+  },
+  {
+   "group": "Federal contracting officers",
+   "how": "They would have had to write a justification in the solicitation whenever they wanted to require minimum experience or education for contractor staff."
+  },
+  {
+   "group": "Office of Management and Budget",
+   "how": "It would have had to issue guidance to federal agencies on following the new rules within 60 days."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-11"
+}

@@ -1,0 +1,48 @@
+{
+ "headline": "Bill would have ended the fall 2025 government shutdown, funded most agencies through January 30, 2026, and fully funded farm, veterans, and Congress programs.",
+ "what_it_does": "The bill would have restarted funding for most federal agencies at 2025 levels through January 30, 2026, and given back pay to federal workers affected by the shutdown that began October 1, 2025. It would have paid for agriculture and food programs, military construction, veterans affairs, and Congress for the full 2026 budget year. It would also have extended many expiring programs, including the farm bill, Medicare telehealth rules, community health centers, and veterans homelessness programs, and changed the legal definition of hemp. Note: the official summary refers to a public law number (P.L. 119-37), so a version of this bill may have been enacted after the November 4 Senate vote described here.",
+ "who_it_affects": [
+  {
+   "group": "Federal employees",
+   "how": "Furloughed and working employees would have received back pay, and layoffs (reductions in force) would have been blocked through January 30, 2026, with recent ones reversed."
+  },
+  {
+   "group": "People who get SNAP or WIC food benefits",
+   "how": "These nutrition programs would have been funded for the full 2026 budget year, with set limits on milk in WIC food packages."
+  },
+  {
+   "group": "Veterans",
+   "how": "VA health care, benefits, the Veterans Crisis Line, and homelessness and suicide prevention programs would have been funded or extended through 2026."
+  },
+  {
+   "group": "Farmers and ranchers",
+   "how": "Farm bill programs, crop insurance, and farm loan and conservation programs would have been extended or funded through September 30, 2026."
+  },
+  {
+   "group": "Medicare patients",
+   "how": "Telehealth flexibilities, hospital-at-home care, and extra payments to rural hospitals and ambulances would have continued through January 30, 2026."
+  },
+  {
+   "group": "Hemp and CBD businesses and consumers",
+   "how": "The legal definition of hemp would have changed to count total THC and exclude many hemp-derived cannabinoid products."
+  },
+  {
+   "group": "State governments and grantees",
+   "how": "States that used their own money to keep federal programs running during the shutdown would have been reimbursed."
+  },
+  {
+   "group": "Members of Congress",
+   "how": "They would not have received a cost-of-living pay raise in 2026, and senators could sue the government if their data were seized without notice."
+  },
+  {
+   "group": "Renters using housing vouchers",
+   "how": "HUD could have used leftover funds to keep families from losing rental assistance due to funding shortfalls."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-11"
+}

@@ -1,0 +1,28 @@
+{
+ "headline": "S. 3100 would have blocked certain federal development grants to local and state governments that limit immigration-status information sharing or detainer compliance, and it would have limited their liability for detainer actions.",
+ "what_it_does": "If adopted, the bill would have barred a 'sanctuary jurisdiction' from receiving grants under certain Economic Development Assistance Programs and the Community Development Block Grant Program. A sanctuary jurisdiction would have been a state or political subdivision with a law, policy, or practice that prohibits or restricts sharing information about a person's immigration status or complying with a lawful detainer or release notification request. The bill would have treated a government that complies with a detainer as an agent of the Department of Homeland Security and would have limited legal liability for officers and employees who acted under a detainer.",
+ "who_it_affects": [
+  {
+   "group": "State and local governments with policies limiting immigration information sharing or detainer compliance",
+   "how": "They would have lost eligibility for certain federal economic development and community development block grant funds."
+  },
+  {
+   "group": "State and local governments that comply with immigration detainer requests",
+   "how": "They would have been treated as agents of the Department of Homeland Security when acting on detainers and would have had limited liability for those actions."
+  },
+  {
+   "group": "Officers and employees of state and local governments who carry out detainer requests",
+   "how": "They would have had limits placed on their personal and institutional liability for actions taken in compliance with a detainer."
+  },
+  {
+   "group": "Residents of affected localities who rely on community development and economic development grants",
+   "how": "Local projects funded by those grants could have lost federal money if their jurisdiction was classified as a sanctuary jurisdiction."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

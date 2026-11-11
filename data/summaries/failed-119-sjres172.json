@@ -1,0 +1,24 @@
+{
+ "headline": "Senate blocked a resolution that would have required removing U.S. troops from unauthorized hostilities with Iran.",
+ "what_it_does": "This joint resolution would have directed the President to remove U.S. Armed Forces from hostilities within or against Iran. The troops could stay involved only if Congress passed a declaration of war or a specific authorization to use military force. The resolution said it would not stop the United States from defending itself, its personnel, or its facilities abroad against an attack. On June 16, 2026, the Senate refused to take it up or end debate on it, so it did not pass.",
+ "who_it_affects": [
+  {
+   "group": "U.S. service members",
+   "how": "Those taking part in hostilities in or against Iran without approval from Congress would have been withdrawn from those hostilities."
+  },
+  {
+   "group": "The President",
+   "how": "The President would have needed a declaration of war or authorization from Congress to continue military hostilities against Iran, except for self-defense against attacks."
+  },
+  {
+   "group": "Members of Congress",
+   "how": "Congress would have had to vote on a declaration of war or use-of-force authorization for U.S. hostilities against Iran to continue."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-11"
+}

@@ -1,0 +1,28 @@
+{
+ "headline": "H.R. 935 would have barred EPA and states from requiring Clean Water Act permits for certain pesticide discharges into navigable waters, with several exceptions.",
+ "what_it_does": "The bill would have amended the Clean Water Act and the pesticide law (FIFRA) so that EPA and states could not require a Clean Water Act permit for pesticide or pesticide residue that reaches navigable waters from a point source as a result of applying a legally sold pesticide. It would have kept some exceptions, including discharges from pesticide use that violates FIFRA and affects water quality, stormwater discharges covered by NPDES permits, NPDES-regulated industrial or sewage plant discharges, and normal vessel discharges such as ballast water and biofouling prevention.",
+ "who_it_affects": [
+  {
+   "group": "Farmers and other people who apply pesticides near waterways",
+   "how": "They would not have needed a Clean Water Act permit for pesticide residue that reaches navigable waters from a properly applied pesticide, though exceptions for FIFRA violations would have still applied."
+  },
+  {
+   "group": "State and federal water regulators",
+   "how": "EPA and states would have been barred from requiring Clean Water Act permits for these pesticide discharges, limiting their authority in this area."
+  },
+  {
+   "group": "Commercial vessel operators",
+   "how": "Normal vessel discharges, including ballast water and biofouling prevention discharges, would have stayed outside the bill's permit ban and remained subject to existing rules."
+  },
+  {
+   "group": "Pesticide manufacturers and applicators",
+   "how": "Legally registered pesticides applied as directed would have faced fewer Clean Water Act permit requirements for resulting residue in water."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

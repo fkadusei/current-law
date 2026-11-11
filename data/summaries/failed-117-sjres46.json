@@ -1,0 +1,24 @@
+{
+ "headline": "This Senate resolution, voted down on May 26, 2022, would have canceled a March 2022 immigration rule on how asylum claims are screened.",
+ "what_it_does": "If adopted, this joint resolution would have nullified an interim final rule from the Justice and Homeland Security departments, published March 29, 2022. The rule changes how asylum claims are considered. It would have required asylum officers to screen people in expedited removal for a credible fear of persecution or torture, instead of the earlier standards that used the terms reasonable possibility of persecution or torture.",
+ "who_it_affects": [
+  {
+   "group": "Asylum seekers placed in expedited removal",
+   "how": "They would have faced the credible fear screening standard in the rule instead of the earlier standards."
+  },
+  {
+   "group": "Asylum officers at U.S. Citizenship and Immigration Services",
+   "how": "They would have had to apply the revised credible fear screening standard when interviewing people in expedited removal."
+  },
+  {
+   "group": "Justice Department and Homeland Security immigration staff",
+   "how": "They would have had to stop enforcing the rule and return to the prior screening procedures."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

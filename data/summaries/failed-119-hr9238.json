@@ -1,0 +1,24 @@
+{
+ "headline": "Failed House bill would have briefly extended FISA Title VII foreign surveillance powers, including Section 702, until July 2, 2026.",
+ "what_it_does": "This bill would have extended the government's authority under Title VII of the Foreign Intelligence Surveillance Act until July 2, 2026. Title VII covers electronic surveillance aimed at targets outside the United States, including Section 702. Section 702 lets the government collect communications of non-U.S. persons believed to be abroad to gather foreign intelligence. The House voted the bill down on June 11, 2026.",
+ "who_it_affects": [
+  {
+   "group": "U.S. intelligence agencies",
+   "how": "They would have kept their Title VII surveillance powers, including Section 702, through July 2, 2026."
+  },
+  {
+   "group": "People outside the United States who are not U.S. citizens or permanent residents",
+   "how": "Their communications could have continued to be collected under Section 702 to gather foreign intelligence."
+  },
+  {
+   "group": "Americans who communicate with people overseas",
+   "how": "Information about them could have continued to be collected by accident during this surveillance and later searched in certain cases."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-11"
+}

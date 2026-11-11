@@ -1,0 +1,20 @@
+{
+ "headline": "House resolution to impeach President Trump on two abuse-of-power charges was tabled and did not pass.",
+ "what_it_does": "This resolution would have impeached President Donald Trump, which means formally charging him in the House. It listed two charges. The first said he abused his power by calling for the execution of Members of Congress. The second said he abused his power by trying to intimidate federal judges, which the resolution said violated the separation of powers and the independence of the courts.",
+ "who_it_affects": [
+  {
+   "group": "President Donald Trump",
+   "how": "He would have been formally impeached by the House, sending the charges to the Senate for a trial on whether to remove him from office."
+  },
+  {
+   "group": "U.S. Senate",
+   "how": "Senators would have had to hold a trial and vote on the two charges if the House had adopted the resolution."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-11"
+}

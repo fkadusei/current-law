@@ -1,0 +1,24 @@
+{
+ "headline": "Proposed constitutional amendment to fix the Supreme Court at nine justices was voted down in the House.",
+ "what_it_does": "This resolution would have proposed an amendment to the U.S. Constitution setting the Supreme Court at nine justices: one Chief Justice and eight Associate Justices. Today, the number of justices is set by regular law, which Congress can change. Under the amendment, changing the number would have required another constitutional amendment. To become part of the Constitution, it would also have needed approval by two-thirds of both the House and Senate and ratification by three-fourths of the states.",
+ "who_it_affects": [
+  {
+   "group": "Congress",
+   "how": "Congress would have lost its current power to change the number of Supreme Court justices by passing an ordinary law."
+  },
+  {
+   "group": "State legislatures",
+   "how": "States would have been asked to vote on ratifying the amendment if both chambers of Congress had approved it."
+  },
+  {
+   "group": "The President",
+   "how": "The number of Supreme Court seats a President could fill would have been permanently capped at nine."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-11"
+}

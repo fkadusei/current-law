@@ -1,0 +1,36 @@
+{
+ "headline": "The Senate blocked S. 3373, which would have expanded VA health care, disability presumptions, research, and staffing rules for veterans exposed to toxic substances during military service.",
+ "what_it_does": "If adopted, this bill would have expanded VA health care eligibility for veterans who were exposed to toxic substances during military service, including those who took part in certain risk activities, served in specified locations, or deployed in specified operations. It would have created or changed presumptions that certain illnesses are linked to military service, required outreach to veterans with previously denied claims, and directed new VA research, training, leasing, and hiring steps. It would also have set up a federal legal claim for people exposed to water at Camp Lejeune, North Carolina, and created a Cost of War Toxic Exposures Fund.",
+ "who_it_affects": [
+  {
+   "group": "Veterans exposed to burn pits, Agent Orange, radiation, or other toxins during service",
+   "how": "They would have become eligible for VA hospital, medical, mental health, and nursing home care, and some illnesses would have been presumed connected to service for disability claims."
+  },
+  {
+   "group": "Veterans with previously denied VA disability claims",
+   "how": "The VA would have had to find and contact some veterans whose claims were denied before the new presumptions took effect."
+  },
+  {
+   "group": "Surviving family members receiving dependency and indemnity compensation",
+   "how": "The VA would have had to reach out to certain survivors whose claims might be decided differently under the new presumptions."
+  },
+  {
+   "group": "Residents and workers at Camp Lejeune, North Carolina, from 1953 to 1987",
+   "how": "They would have been able to bring a federal legal claim for at least 30 days of exposure to contaminated water."
+  },
+  {
+   "group": "VA employees and health care staff",
+   "how": "The VA would have had to provide new training, screening duties, and expanded recruitment, pay, and bonus authority for staff."
+  },
+  {
+   "group": "Rural veterans",
+   "how": "The VA would have had to create a rural recruitment plan and offer incentives to health care workers serving rural clinics."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

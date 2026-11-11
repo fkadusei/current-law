@@ -1,0 +1,24 @@
+{
+ "headline": "Senate declined to advance a resolution that would have canceled an IRS rule on when wind and solar projects count as starting construction for tax credits.",
+ "what_it_does": "This resolution would have used the Congressional Review Act to cancel an IRS rule. The rule explains how wind and solar projects show they have begun construction, which affects whether they can still claim clean electricity production and investment tax credits before those credits end. If adopted, the rule would have had no legal effect, and the IRS could not issue a substantially similar rule without new approval from Congress. The Senate did not take it up, so the rule stayed in place.",
+ "who_it_affects": [
+  {
+   "group": "Companies building wind and solar power projects",
+   "how": "Their eligibility for clean electricity tax credits would no longer have been judged under this IRS rule's standards for when construction begins."
+  },
+  {
+   "group": "Investors and lenders financing wind and solar projects",
+   "how": "The tax credit rules their project plans depend on would have changed if the IRS rule were canceled."
+  },
+  {
+   "group": "Internal Revenue Service",
+   "how": "The agency would have been barred from enforcing this rule or issuing a substantially similar one without Congress's approval."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-11"
+}

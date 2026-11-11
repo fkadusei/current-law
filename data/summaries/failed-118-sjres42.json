@@ -1,0 +1,24 @@
+{
+ "headline": "Failed Senate resolution would have canceled a USDA food program policy treating gender identity and sexual orientation bias as sex discrimination.",
+ "what_it_does": "This resolution would have used the Congressional Review Act to cancel a May 2022 policy from the Food and Nutrition Service, which runs programs like SNAP and school meals. That policy says the agency's rules against sex discrimination also cover discrimination based on gender identity and sexual orientation, following the Supreme Court's 2020 Bostock v. Clayton County decision. It also tells state agencies and program operators to handle such complaints as sex discrimination complaints. The Senate voted the resolution down on October 26, 2023, so the policy stayed in place.",
+ "who_it_affects": [
+  {
+   "group": "LGBTQ people who use federal nutrition programs such as SNAP and school meals",
+   "how": "Their complaints of discrimination based on gender identity or sexual orientation would no longer have been processed as sex discrimination complaints under this policy."
+  },
+  {
+   "group": "State agencies and local program operators, including schools that run federal meal programs",
+   "how": "They would no longer have been directed by this policy to treat gender identity and sexual orientation complaints as sex discrimination."
+  },
+  {
+   "group": "Food and Nutrition Service at the U.S. Department of Agriculture",
+   "how": "The agency's 2022 policy update would have been canceled, and under the Congressional Review Act it could not issue a substantially similar rule without new approval from Congress."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-11"
+}

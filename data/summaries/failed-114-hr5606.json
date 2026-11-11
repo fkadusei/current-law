@@ -1,0 +1,28 @@
+{
+ "headline": "A 2016 House bill would have let banks share information with each other about suspected money laundering, with legal protection for doing so.",
+ "what_it_does": "The bill would have amended the USA PATRIOT Act so that two or more financial institutions, or groups of them, could share information with one another about people, companies, organizations, and countries suspected of unlawful activity that produced money used in money laundering. They would have needed to give notice to the Department of the Treasury first. Institutions that shared or received such information to spot and report this activity would not have been liable to anyone for the disclosure or for failing to tell the subject about it, unless the sharing broke the Act or its rules. The bill also would have expressed a sense of Congress that federal law enforcement, regulators, and financial institutions should share information about terrorism, money laundering, and other unlawful activity as fully and quickly as possible.",
+ "who_it_affects": [
+  {
+   "group": "Banks and other financial institutions",
+   "how": "They would have been allowed to share suspected money laundering information with each other after notifying Treasury, and protected from liability for doing so."
+  },
+  {
+   "group": "Groups or associations of financial institutions",
+   "how": "They would have been allowed to share such information and receive the same liability protection."
+  },
+  {
+   "group": "People and companies flagged as suspected in shared information",
+   "how": "Their information could have been passed between financial institutions, and they would generally not have been told about the disclosure."
+  },
+  {
+   "group": "Federal law enforcement agencies and financial regulators",
+   "how": "The bill would have stated Congress's view that they should share terrorism and money laundering information with financial institutions as fully and quickly as possible."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

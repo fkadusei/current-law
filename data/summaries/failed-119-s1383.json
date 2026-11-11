@@ -1,0 +1,36 @@
+{
+ "headline": "Failed Senate bill would have required proof of citizenship to register and photo ID to vote in federal elections.",
+ "what_it_does": "Although its official title refers to a veterans accessibility committee, the official summary describes the SAVE America Act, which would have barred states from registering people to vote in federal elections unless they showed documents proving U.S. citizenship, such as a passport or a REAL ID that shows citizenship. Voters would have had to show a photo ID to get a ballot, or cast a provisional ballot and bring ID within three days. Mail and other non-in-person ballots would have needed a copy of a photo ID, or the last four digits of a Social Security number plus a sworn statement. States would have had to check voter lists against a Homeland Security immigration database and remove noncitizens.",
+ "who_it_affects": [
+  {
+   "group": "People registering to vote",
+   "how": "They would have had to show documents proving U.S. citizenship, with a separate process for people whose names differ across documents and an alternative way to prove citizenship."
+  },
+  {
+   "group": "In-person voters in federal elections",
+   "how": "They would have needed a physical photo ID to get a regular ballot, or would have had three days after casting a provisional ballot to show ID or sign a statement of religious objection to being photographed."
+  },
+  {
+   "group": "People who vote by mail or other non-in-person methods",
+   "how": "They would have had to include a copy of a photo ID, or the last four digits of their Social Security number with a sworn statement that they could not get a copy."
+  },
+  {
+   "group": "Overseas military voters and voters covered by the Voting Accessibility for the Elderly and Handicapped Act",
+   "how": "They would have been exempt from the photo ID rule for voting other than in person."
+  },
+  {
+   "group": "State and local election officials",
+   "how": "They would have had to take steps within 30 days to keep noncitizens off voter lists, send voter lists to the Department of Homeland Security for checking, remove noncitizens, and offer free devices to copy photo IDs where practical."
+  },
+  {
+   "group": "People flagged as possible noncitizens",
+   "how": "They would have been given a chance to prove citizenship before being removed from voter lists."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-11"
+}

@@ -1,0 +1,24 @@
+{
+ "headline": "H.R. 308 would have temporarily restricted gaming on certain Phoenix-area land that the federal government took into trust for tribes after April 9, 2013; the House voted it down in November 2015.",
+ "what_it_does": "The bill would have barred gaming on land in the Phoenix, Arizona, metropolitan area that the Secretary of the Interior acquired in trust for an Indian tribe after April 9, 2013. The restriction would have ended on January 1, 2027. The official summary does not describe further details of how the rule would be enforced.",
+ "who_it_affects": [
+  {
+   "group": "Indian tribes seeking to open gaming on newly acquired Phoenix-area trust land",
+   "how": "They would not have been able to conduct gaming on eligible land acquired after April 9, 2013, until January 1, 2027."
+  },
+  {
+   "group": "Tribes with Phoenix-area trust land acquired on or before April 9, 2013",
+   "how": "Their land would have fallen outside the restriction, based on the acquisition date in the summary."
+  },
+  {
+   "group": "Gaming operators and developers in the Phoenix area",
+   "how": "They would have faced limits on gaming projects on newly acquired tribal trust land until the restriction expired."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

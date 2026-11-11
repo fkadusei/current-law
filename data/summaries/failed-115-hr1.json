@@ -1,0 +1,48 @@
+{
+ "headline": "The House voted down H.R. 1 in December 2017, so this 2017 tax overhaul and Arctic drilling bill never became law; this explains what it would have done.",
+ "what_it_does": "If adopted, the bill would have lowered individual income tax brackets, nearly doubled the standard deduction, and raised the child tax credit to $2,000 per child. It would have cut the corporate tax rate to a flat 21 percent, repealed the corporate alternative minimum tax, and moved toward a territorial system for foreign profits. It would also have opened the Coastal Plain of the Arctic National Wildlife Refuge in Alaska to a federal oil and gas leasing program.",
+ "who_it_affects": [
+  {
+   "group": "Middle-income families with children",
+   "how": "They would have received a larger child tax credit and a higher standard deduction, but would have lost personal exemptions and several itemized deductions."
+  },
+  {
+   "group": "Homeowners with mortgages",
+   "how": "New mortgages would have been limited to $750,000 for the interest deduction, and home equity loan interest would have stopped being deductible."
+  },
+  {
+   "group": "State and local taxpayers who itemize",
+   "how": "Deductions for state and local taxes would have been capped at $10,000 per year."
+  },
+  {
+   "group": "Owners of pass-through businesses such as sole proprietorships and partnerships",
+   "how": "They would have been able to deduct 20 percent of qualified business income, subject to income limits for certain service businesses."
+  },
+  {
+   "group": "Corporations",
+   "how": "Their federal tax rate would have dropped to a flat 21 percent, and the corporate alternative minimum tax would have been repealed."
+  },
+  {
+   "group": "People who buy health insurance on their own",
+   "how": "The federal penalty for going without minimum essential health coverage would have been repealed."
+  },
+  {
+   "group": "Students and families saving for education",
+   "how": "529 plan funds could have been used for K-12 private, public, or religious school tuition."
+  },
+  {
+   "group": "Estates of very wealthy decedents",
+   "how": "The estate and gift tax exemption would have doubled from $5 million to $10 million."
+  },
+  {
+   "group": "Residents of the Coastal Plain of Alaska and oil and gas companies",
+   "how": "Interior would have been required to hold at least two lease sales within 10 years covering at least 400,000 acres each."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

@@ -1,0 +1,44 @@
+{
+ "headline": "A 2017 House bill would have extended federal aviation programs, several health programs, and tax relief for people and businesses hit by Hurricanes Harvey, Irma, and Maria, but the House voted it down.",
+ "what_it_does": "If adopted, the bill would have extended expiring aviation authorities, including airport improvement funding and aviation excise taxes, through March 31, 2018. It would also have extended Teaching Health Center graduate medical education payments, the Special Diabetes Program for Indians, and the Medicare IVIG demonstration project through 2020. Finally, it would have created tax relief for people and businesses in the hurricane disaster areas, such as penalty-free retirement withdrawals up to $100,000 and a 40% employee retention tax credit on qualified wages.",
+ "who_it_affects": [
+  {
+   "group": "Airports and airlines",
+   "how": "Airports would have kept federal improvement funding and airlines and travelers would have kept the aviation fuel and air transportation excise tax rules through March 31, 2018."
+  },
+  {
+   "group": "Medical and dental residents in teaching health centers",
+   "how": "Outpatient facilities that train primary care residents would have continued to receive federal payments through the first quarter of FY2018."
+  },
+  {
+   "group": "American Indians and Alaska Natives with diabetes",
+   "how": "Indian Health Service diabetes prevention and treatment grants would have continued under the Special Diabetes Program for Indians."
+  },
+  {
+   "group": "Medicare beneficiaries who need intravenous immunoglobulin at home",
+   "how": "The IVIG demonstration project would have continued paying for in-home treatment supplies and services through 2020."
+  },
+  {
+   "group": "Individuals in hurricane disaster areas with economic losses",
+   "how": "They would have been able to take up to $100,000 in retirement plan distributions without the 10% early withdrawal tax and spread the income over three years."
+  },
+  {
+   "group": "Employers in hurricane disaster zones",
+   "how": "They would have been able to claim a credit equal to 40% of up to $6,000 in wages per employee for periods when their operations were disrupted."
+  },
+  {
+   "group": "Charitable donors and disaster-area taxpayers",
+   "how": "Donors would have faced no percentage limits on certain gifts for hurricane relief, and casualty loss deductions would have been available without itemizing or meeting the 10% income threshold."
+  },
+  {
+   "group": "Residents of the U.S. Virgin Islands and Puerto Rico",
+   "how": "The Treasury would have reimbursed the Virgin Islands for lost tax revenue and paid Puerto Rico amounts tied to benefits under a mirror tax code."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}

@@ -1,0 +1,36 @@
+{
+ "headline": "The 2013 farm bill, H.R. 1947, was voted down in the House on June 20, 2013, and would have renewed farm, nutrition, conservation, and rural programs through 2018.",
+ "what_it_does": "If adopted, it would have replaced several direct farm payment programs with new price and revenue loss coverage for 2014 through 2018 and created a dairy margin protection program. It would also have changed the food stamp program (SNAP), cut funding for some employment and training efforts, and limited eligibility in several ways. It would have extended many conservation, trade, research, and rural development programs through fiscal year 2018.",
+ "who_it_affects": [
+  {
+   "group": "Crop farmers growing covered commodities such as corn, wheat, and soybeans",
+   "how": "They would have received payments based on price or county revenue drops instead of the direct and countercyclical payments that were being phased out."
+  },
+  {
+   "group": "Dairy farmers",
+   "how": "They would have been able to enroll in a margin protection program that pays when milk-to-feed cost margins fall below set levels."
+  },
+  {
+   "group": "Farms and farm businesses with average adjusted gross income above $950,000",
+   "how": "They would have been barred from receiving certain agricultural benefits."
+  },
+  {
+   "group": "SNAP recipients",
+   "how": "Some households would have lost eligibility, including those with substantial lottery or gambling winnings, and the bill would have added verification and work-related requirements."
+  },
+  {
+   "group": "Retail food stores and restaurants that accept SNAP",
+   "how": "They would have had to offer perishable foods in at least three staple categories and pay the full cost of electronic benefit transfer equipment."
+  },
+  {
+   "group": "Landowners and producers in federal conservation programs",
+   "how": "They would have had to meet conservation requirements to get payments and could have enrolled in the consolidated easement and regional partnership programs."
+  }
+ ],
+ "when_it_takes_effect": "Did not take effect",
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-haiku-5-5",
+ "written": "2026-11-11"
+}
