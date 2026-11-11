@@ -14,6 +14,8 @@
   // Chat assistant: hard daily spending cap in US dollars. The Anthropic key is a
   // Cloudflare secret named ANTHROPIC_API_KEY (set in the dashboard, never in code).
   "vars": { "CHAT_DAILY_CAP_USD": "2" },
+  // Pull request previews: no chat spending (the assistant answers with its "limit reached" note).
+  "previews": { "vars": { "CHAT_DAILY_CAP_USD": "0" } },
   "durable_objects": { "bindings": [{ "name": "CHAT_GUARD", "class_name": "ChatGuard" }] },
   "migrations": [{ "tag": "v1", "new_sqlite_classes": ["ChatGuard"] }]
 }
