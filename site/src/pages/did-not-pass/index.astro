@@ -74,9 +74,9 @@ const fmt = (n) => n.toLocaleString("en-US");
 </script>
 <style>
   .mini-stats { display: flex; flex-wrap: wrap; gap: 10px; margin: 22px 0 0; }
-  .mini-stats div { background: rgb(255 255 255 / .06); border: 1px solid rgb(255 255 255 / .12); border-radius: 14px; padding: 12px 16px; min-width: 140px; }
-  .mini-stats dt { font-size: .72rem; color: rgb(255 255 255 / .7); text-transform: uppercase; letter-spacing: .08em; font-weight: 600; }
-  .mini-stats dd { margin: 4px 0 0; font: 700 1.7rem var(--serif); color: #fff; }
+  .mini-stats div { background: var(--surface); border: 1px solid var(--border); border-radius: 14px; padding: 12px 16px; min-width: 140px; }
+  .mini-stats dt { font-size: .72rem; color: var(--muted); text-transform: uppercase; letter-spacing: .08em; font-weight: 600; }
+  .mini-stats dd { margin: 4px 0 0; font: 700 1.7rem var(--serif); color: var(--text); }
   .filters { display: grid; grid-template-columns: minmax(200px, 2fr) repeat(4, minmax(140px, 1fr)); gap: 8px; padding: 12px; margin: 16px 0 8px; position: sticky; top: calc(var(--topbar-h, 110px) + 8px); z-index: 4; box-shadow: 0 -9px 0 0 var(--bg), var(--shadow); }
   @media (max-width: 1000px) { .filters { grid-template-columns: 1fr 1fr; position: static; } .filters input { grid-column: 1 / -1; } }
   .count { font-size: .88rem; margin: 12px 2px; }
