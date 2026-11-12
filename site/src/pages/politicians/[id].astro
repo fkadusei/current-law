@@ -54,13 +54,13 @@ const label = { yea: "Yes", nay: "No", present: "Present", "not voting": "Didn't
 <style>
   .pol-head { display: flex; align-items: center; gap: 28px; }
   @media (max-width: 560px) { .pol-head { flex-direction: column; align-items: flex-start; gap: 16px; } }
-  .crumbs { font-size: .85rem; margin: 0 0 6px; } .crumbs a { color: rgb(255 255 255 / .75); }
-  .role { font-weight: 600; margin: 4px 0 0; display: flex; align-items: center; gap: 8px; color: #fff !important; }
+  .crumbs { font-size: .85rem; margin: 0 0 6px; } .crumbs a { color: var(--muted); }
+  .role { font-weight: 600; margin: 4px 0 0; display: flex; align-items: center; gap: 8px; color: var(--text) !important; }
   .sided { font-size: .9rem; margin: 8px 0 0; }
   .pdot { width: 10px; height: 10px; border-radius: 50%; display: inline-block; }
   .bg-D { background: var(--dem); } .bg-R { background: var(--rep); } .bg-I { background: var(--ind); } .bg-Other { background: var(--muted); }
-  .hero-R { background: radial-gradient(900px 380px at 90% -10%, rgb(212 42 58 / .55), transparent 60%), linear-gradient(180deg, var(--navy), var(--navy-2)); }
-  .hero-D { background: radial-gradient(900px 380px at 90% -10%, rgb(30 95 209 / .6), transparent 60%), linear-gradient(180deg, var(--navy), var(--navy-2)); }
+  .hero-R { background: linear-gradient(180deg, color-mix(in srgb, var(--rep) 10%, var(--paper)), var(--paper) 75%); border-bottom: 4px solid var(--rep); }
+  .hero-D { background: linear-gradient(180deg, color-mix(in srgb, var(--dem) 10%, var(--paper)), var(--paper) 75%); border-bottom: 4px solid var(--dem); }
   .stats { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin: 16px 0 8px; }
   @media (max-width: 640px) { .stats { grid-template-columns: 1fr 1fr; } }
   .stat { padding: 14px; display: flex; flex-direction: column; }

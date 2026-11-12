@@ -71,13 +71,13 @@ const SHOW = 60;
   ) : <div class="card empty"><p class="muted">No executive orders here yet. Online records start in 1994.</p></div>}
 </Base>
 <style>
-  .pres-hero .crumbs { font-size: .85rem; margin: 0 0 16px; color: rgb(255 255 255 / .7); }
-  .hero-R { background: radial-gradient(900px 380px at 90% -10%, rgb(212 42 58 / .55), transparent 60%), linear-gradient(180deg, var(--navy), var(--navy-2)); border-bottom: 6px solid var(--rep); }
-  .hero-D { background: radial-gradient(900px 380px at 90% -10%, rgb(30 95 209 / .6), transparent 60%), linear-gradient(180deg, var(--navy), var(--navy-2)); border-bottom: 6px solid var(--dem); }
+  .pres-hero .crumbs { font-size: .85rem; margin: 0 0 16px; color: var(--muted); }
+  .hero-R { background: linear-gradient(180deg, color-mix(in srgb, var(--rep) 10%, var(--paper)), var(--paper) 75%); border-bottom: 4px solid var(--rep); }
+  .hero-D { background: linear-gradient(180deg, color-mix(in srgb, var(--dem) 10%, var(--paper)), var(--paper) 75%); border-bottom: 4px solid var(--dem); }
   .hstats { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 10px; margin-top: 20px; max-width: 860px; }
-  .hstats div { display: flex; flex-direction: column; padding: 10px 14px; border-radius: 12px; background: rgb(255 255 255 / .08); border: 1px solid rgb(255 255 255 / .14); }
-  .hstats strong { font-size: 1.6rem; line-height: 1.1; color: #fff; }
-  .hstats span { font-size: .8rem; color: rgb(255 255 255 / .75); max-width: 150px; }
+  .hstats div { display: flex; flex-direction: column; padding: 10px 14px; border-radius: 12px; background: var(--surface); border: 1px solid var(--border); }
+  .hstats strong { font: 700 1.9rem/1.1 var(--serif); color: var(--text); }
+  .hstats span { font-size: .8rem; color: var(--muted); max-width: 150px; }
   .mix { display: flex; gap: 2px; height: 10px; max-width: 760px; margin-top: 18px; border-radius: 99px; overflow: hidden; }
   .m-D { background: var(--dem); } .m-R { background: var(--rep); } .m-V { background: #9aa3b2; }
   .op { display: inline-block; margin: 16px 0 0; padding: 6px 12px; border-radius: 999px; font-weight: 700; font-size: .88rem; background: #fff3c4; color: #5a4300 !important; }
