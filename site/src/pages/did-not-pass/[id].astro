@@ -22,11 +22,11 @@ const votes = [...item.votes].reverse(); // newest first
       <p class="eyebrow">{item.bill} · {FAILED_KIND[item.kind]} {formatDate(item.failed_on)}{item.policy_area ? ` · ${item.policy_area}` : ""}</p>
       <h1>{item.title}</h1>
       <div class="hero-tags">
-        <span class="failchip">✕ {failedLabel(item)}</span>
+        <span class="failchip ico-x">{failedLabel(item)}</span>
         <span class="verdict">{supportLabel(item)}</span>
-        {partyLine && <span class="oneparty">⚠ {partyLine}</span>}
+        {partyLine && <span class="oneparty ico-alert">{partyLine}</span>}
         {Object.entries(item.control || {}).map(([ch, p]) => <span class={`ctl-chip p-${p}`}>{p === "R" ? "Republican" : "Democratic"} {ch}</span>)}
-        {item.later_became_law && <a class="lawchip" href={`${base}/laws/${item.later_became_law.id}/`}>✓ Later became Public Law {item.later_became_law.public_law} →</a>}
+        {item.later_became_law && <a class="lawchip ico-check" href={`${base}/laws/${item.later_became_law.id}/`}>Later became Public Law {item.later_became_law.public_law} →</a>}
       </div>
       {sc && (
         <>
@@ -41,7 +41,7 @@ const votes = [...item.votes].reverse(); // newest first
   </section>
   <article>
     {partyLine && (
-      <div class="alert-box" role="note"><strong>⚠ {partyLine}</strong> on the {last.chamber} vote that stopped it.</div>
+      <div class="alert-box" role="note"><strong class="ico-alert">{partyLine}</strong> on the {last.chamber} vote that stopped it.</div>
     )}
     <div class="layout">
       <div class="main-col">

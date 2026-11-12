@@ -21,10 +21,10 @@ const total = sc ? sc.d_support + sc.r_support : 0;
     <h3>{item.title.length > 200 ? item.title.slice(0, 197) + "…" : item.title}</h3>
     {item.summary?.headline && <p class="headline">{item.summary.headline}</p>}
     <div class="tags">
-      <span class="pill fail">✕ {failedLabel(item)}</span>
+      <span class="pill fail ico-x">{failedLabel(item)}</span>
       <span class="pill" style={`background:${color.bg};color:${color.fg}`}>{supportLabel(item)}</span>
-      {partyLine && <span class="pill alert">⚠ {partyLine}</span>}
-      {item.later_became_law && <span class="pill ok">✓ Later became law</span>}
+      {partyLine && <span class="pill alert ico-alert">{partyLine}</span>}
+      {item.later_became_law && <span class="pill ok ico-check">Later became law</span>}
       {Object.entries(item.control || {}).map(([ch, p]) => <span class="pill ghost ctl"><i class={`dot-${p}`}></i>{p === "R" ? "Republican" : "Democratic"} {ch}</span>)}
     </div>
   </div>

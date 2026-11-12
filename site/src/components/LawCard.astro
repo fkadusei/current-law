@@ -19,9 +19,9 @@ const total = pc ? pc.d_yeas + pc.r_yeas : 0;
     {law.summary?.headline && <p class="headline">{law.summary.headline}</p>}
     <div class="tags">
       <span class="pill" style={`background:${color.bg};color:${color.fg}`}>{passedByLabel(law)}</span>
-      {partyLine && <span class="pill alert">⚠ {partyLine}</span>}
+      {partyLine && <span class="pill alert ico-alert">{partyLine}</span>}
       {law.president
-        ? <span class={`pill signer p-${law.president.party[0]}`}>✍ Signed by {law.president.name}</span>
+        ? <span class={`pill signer ico-pen p-${law.president.party[0]}`}>Signed by {law.president.name}</span>
         : <span class="pill alert">Became law over a veto</span>}
       {Object.entries(law.control || {}).map(([ch, p]) => <span class="pill ghost ctl"><i class={`dot-${p}`}></i>{p === "R" ? "Republican" : "Democratic"} {ch}</span>)}
     </div>

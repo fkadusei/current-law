@@ -23,9 +23,9 @@ const zeroNotes = Object.entries(zero).flatMap(([ch, ps]) => ps.map((p) => `No $
       <h1>{law.title}</h1>
       <div class="hero-tags">
         <span class="verdict">{passedByLabel(law)}</span>
-        {partyLine && <span class="oneparty">⚠ {partyLine}</span>}
+        {partyLine && <span class="oneparty ico-alert">{partyLine}</span>}
         {law.president
-          ? <a class={`signer-chip p-${law.president.party[0]}`} href={`${base}/presidents/${law.president.id}/`}>✍ Signed by {law.president.name}</a>
+          ? <a class={`signer-chip ico-pen p-${law.president.party[0]}`} href={`${base}/presidents/${law.president.id}/`}>Signed by {law.president.name}</a>
           : <span class="verdict">Became law over the President's veto</span>}
         {Object.entries(law.control || {}).map(([ch, p]) => <span class={`ctl-chip p-${p}`}>{p === "R" ? "Republican" : "Democratic"} {ch}</span>)}
       </div>
@@ -43,7 +43,7 @@ const zeroNotes = Object.entries(zero).flatMap(([ch, ps]) => ps.map((p) => `No $
   <article>
     {(partyLine || zeroNotes.length > 0) && (
       <div class="alert-box" role="note">
-        <strong>⚠ {partyLine ?? "One-party vote in one chamber"}</strong>
+        <strong class="ico-alert">{partyLine ?? "One-party vote in one chamber"}</strong>
         <ul>{zeroNotes.map((n) => <li>{n}</li>)}</ul>
       </div>
     )}
@@ -87,7 +87,7 @@ const zeroNotes = Object.entries(zero).flatMap(([ch, ps]) => ps.map((p) => `No $
           <dl>
             <dt>Became law</dt>
             <dd>{law.president
-              ? <><a class={`signer-chip p-${law.president.party[0]}`} href={`${base}/presidents/${law.president.id}/`}>✍ {law.president.name}</a><span class="muted"> {law.president.party} · signed {formatDate(law.enacted)}</span></>
+              ? <><a class={`signer-chip ico-pen p-${law.president.party[0]}`} href={`${base}/presidents/${law.president.id}/`}>{law.president.name}</a><span class="muted"> {law.president.party} · signed {formatDate(law.enacted)}</span></>
               : <>Passed over the President's veto on {formatDate(law.enacted)}</>}</dd>
             {law.sponsor && <><dt>Sponsor</dt><dd>{law.sponsor}</dd></>}
             {law.policy_area && <><dt>Topic</dt><dd>{law.policy_area}</dd></>}
@@ -95,8 +95,8 @@ const zeroNotes = Object.entries(zero).flatMap(([ch, ps]) => ps.map((p) => `No $
           </dl>
           <h3>Official sources</h3>
           <ul class="links">
-            <li><a href={law.congress_gov_url} rel="noopener">Congress.gov page</a></li>
-            {textLink && <li><a href={textLink.url} rel="noopener">Full text of the law</a></li>}
+            <li><a class="ico-arrow" href={law.congress_gov_url} rel="noopener">Congress.gov page</a></li>
+            {textLink && <li><a class="ico-arrow" href={textLink.url} rel="noopener">Full text of the law</a></li>}
           </ul>
         </div>
       </aside>
@@ -127,15 +127,22 @@ const zeroNotes = Object.entries(zero).flatMap(([ch, ps]) => ps.map((p) => `No $
   .official summary { cursor: pointer; list-style: none; }
   .official[open] summary { display: none; }
   .more { color: var(--accent); font-weight: 600; white-space: nowrap; }
-  .pad { padding: 18px; }
+  .pad { padding: 22px 24px; }
+  .side-col { position: sticky; top: calc(var(--topbar-h, 110px) + 16px); }
+  @media (max-width: 860px) { .side-col { position: static; } }
   .main-col h2:first-child { margin-top: 0; }
-  .headline { font-size: 1.12rem; font-weight: 600; }
+  .headline { font-size: 1.16rem; font-weight: 600; line-height: 1.5; }
+  .main-col .card.pad > p:not(.headline) { line-height: 1.7; }
   .affects { padding-left: 20px; }
   .ai-note, .small { font-size: .85rem; }
-  .facts dl { margin: 0 0 12px; }
-  .facts dt { font-size: .78rem; text-transform: uppercase; letter-spacing: .04em; color: var(--muted); margin-top: 10px; }
+  .facts dl { margin: 0 0 20px; }
+  .facts h3 { font-size: 1.05rem; margin-bottom: 4px; }
+  .facts h3 + dl dt:first-child { border-top: 0; }
+  .facts dt { font-size: .7rem; font-weight: 700; text-transform: uppercase; letter-spacing: .08em; color: var(--muted); margin-top: 12px; padding-top: 12px; border-top: 1px solid var(--border); }
   .facts dd { margin: 2px 0 0; }
-  .links { padding-left: 18px; margin: 0; }
-  .signer-chip { display: inline-block; color: #fff; font-weight: 700; text-decoration: none; padding: 5px 12px; border-radius: 999px; margin: 2px 6px 4px 0; }
+  .links { list-style: none; padding: 0; margin: 0; display: grid; gap: 8px; }
+  .links a { display: flex; justify-content: space-between; align-items: center; padding: 10px 14px; border-radius: 10px; border: 1px solid var(--border); background: var(--surface-2); color: var(--text); font-weight: 600; font-size: .92rem; text-decoration: none; transition: border-color .15s, background .15s; }
+  .links a:hover { border-color: color-mix(in srgb, var(--accent) 45%, var(--border)); background: var(--surface); color: var(--accent); }
+  .signer-chip { display: inline-flex; align-items: center; color: #fff; font-weight: 700; text-decoration: none; padding: 5px 12px; border-radius: 999px; margin: 2px 6px 4px 0; }
   .signer-chip.p-D { background: var(--dem); } .signer-chip.p-R { background: var(--rep); }
 </style>
