@@ -58,7 +58,9 @@ export const STATE_SOURCES = {
   PR: ["Puerto Rico", "pr.gov"],
 };
 
-// States named in some text. Full names only (two-letter codes clash with words like "in", "me", "or");
+const AMBIGUOUS = new Set(["OK", "IN", "ME", "OR", "HI", "ID", "PA", "DE", "MA", "CO"]);
+
+// States named in some text: full names, plus uppercase postal codes that aren't also common words;
 // "Washington" counts as the state unless it's "Washington, D.C." / "DC".
 export function statesIn(text) {
   const t = ` ${String(text).toLowerCase().replace(/[^a-z.]+/g, " ")} `;
@@ -73,6 +75,8 @@ export function statesIn(text) {
     if (code === "KS" && t.includes(" arkansas ") && !t.replace(/arkansas/g, "").includes("kansas")) continue;
     if (t.includes(` ${n} `)) found.add(code);
   }
+  // Uppercase postal codes ("does MD allow ..."), skipping ones that are also common words.
+  for (const m of String(text).matchAll(/\b([A-Z]{2})\b/g)) if (STATE_SOURCES[m[1]] && !AMBIGUOUS.has(m[1])) found.add(m[1]);
   if (/ d ?c | washington d ?c /.test(t.replace(/\./g, " ").replace(/ d c /g, " dc "))) found.add("DC");
   return [...found];
 }
