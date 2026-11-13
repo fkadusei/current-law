@@ -7,3 +7,4 @@ site/dist/
 site/.astro/
 node_modules/
 .wrangler/
+.dev.vars

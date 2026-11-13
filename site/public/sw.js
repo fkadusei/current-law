@@ -1,6 +1,6 @@
 // Current Law service worker: makes the site installable and keeps recently
 // viewed pages readable offline. Pages are always fetched fresh when online.
-const VERSION = "v4";
+const VERSION = "v5";
 const STATIC = `static-${VERSION}`;
 const PAGES = `pages-${VERSION}`;
 const ASSETS = `assets-${VERSION}`;

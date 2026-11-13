@@ -9,15 +9,16 @@ import { SUPPORT_URL } from "../lib/data.js";
   </button>
   <section class="chat-panel" id="chat-panel" role="dialog" aria-label="Ask Current Law" hidden>
     <header class="chat-head">
-      <div><strong>Ask Current Law</strong><small>AI assistant · answers come from this site's data</small></div>
+      <div><strong>Ask Current Law</strong><small>AI assistant · federal and state law</small></div>
       <button type="button" class="chat-x" id="chat-x" aria-label="Close chat">✕</button>
     </header>
     <div class="chat-log" id="chat-log" aria-live="polite">
-      <div class="msg bot"><p>Hi! Ask me about any federal law, how your members of Congress voted, or what passed on a certain date.</p>
+      <div class="msg bot"><p>Hi! Ask me about any federal law, how your members of Congress voted, or the laws in your state. For state laws I check official state sources and link them.</p>
         <div class="chips">
           <button type="button" class="chip-q">What laws passed in July 2024?</button>
           <button type="button" class="chip-q">How did Ohio's senators vote on the CHIPS Act?</button>
-          <button type="button" class="chip-q">Which laws help veterans?</button>
+          <button type="button" class="chip-q">What is the minimum wage in Florida?</button>
+          <button type="button" class="chip-q">At what age can you get a driver's license in Texas?</button>
         </div>
       </div>
     </div>
@@ -61,11 +62,27 @@ import { SUPPORT_URL } from "../lib/data.js";
     }
     return html + (inList ? "</ul>" : "");
   }
-  function add(role, text) {
+  function add(role, text, sources) {
     const div = document.createElement("div");
     div.className = `msg ${role === "user" ? "me" : "bot"}`;
     if (role === "user") div.textContent = text; else div.innerHTML = render(text);
-    log.append(div); log.scrollTop = log.scrollHeight;
+    if (sources?.length) {
+      const box = document.createElement("div");
+      box.className = "sources";
+      box.innerHTML = "<strong>Sources</strong><ol></ol>";
+      for (const s of sources) {
+        if (!/^https:\/\//.test(s.url)) continue;
+        const li = document.createElement("li"), a = document.createElement("a");
+        a.href = s.url; a.target = "_blank"; a.rel = "noopener";
+        a.textContent = s.title || new URL(s.url).hostname;
+        const host = document.createElement("span"); host.textContent = ` · ${new URL(s.url).hostname.replace(/^www\./, "")}`;
+        li.append(a, host); box.querySelector("ol").append(li);
+      }
+      div.append(box);
+    }
+    log.append(div);
+    // Long answers: show their start, not their end.
+    log.scrollTop = role === "user" || div.offsetHeight < log.clientHeight ? log.scrollHeight : div.offsetTop - log.offsetTop - 8;
     return div;
   }
   async function ask(q) {
@@ -77,7 +94,7 @@ import { SUPPORT_URL } from "../lib/data.js";
       const r = await fetch("/api/ask", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ messages: history.slice(-8) }) });
       const d = await r.json();
       const reply = d.reply || d.error || "Sorry, something went wrong.";
-      wait.remove(); add("bot", reply);
+      wait.remove(); add("bot", reply, d.sources);
       if (d.limited && root.dataset.support) add("bot", `Readers pay for this assistant. If you'd like to help keep it running, you can [chip in here](${root.dataset.support}).`);
       if (d.reply && !d.limited) history.push({ role: "assistant", content: reply }); else history.pop();
     } catch {
@@ -87,6 +104,8 @@ import { SUPPORT_URL } from "../lib/data.js";
   }
   form.addEventListener("submit", (e) => { e.preventDefault(); ask(input.value); });
   log.addEventListener("click", (e) => { const b = e.target.closest(".chip-q"); if (b) ask(b.textContent); });
+  // The app's "Ask about a law" shortcut (/?ask) opens the chat.
+  if (new URLSearchParams(location.search).get("ask") !== null) toggle(true);
 </script>
 <style>
   .chat { position: fixed; right: 18px; bottom: 18px; z-index: 40; }
@@ -101,6 +120,13 @@ import { SUPPORT_URL } from "../lib/data.js";
   .chat-head small { color: rgb(255 255 255 / .7); font-size: .74rem; }
   .chat-x { border: 0; background: transparent; color: #fff; font-size: 1.1rem; cursor: pointer; padding: 4px 8px; border-radius: 8px; }
   .chat-x:hover { background: rgb(255 255 255 / .12); }
+  .sources { margin-top: 8px; padding-top: 8px; border-top: 1px solid var(--border); font-size: .8rem; }
+  .sources strong { font-size: .72rem; letter-spacing: .06em; text-transform: uppercase; color: var(--muted); }
+  .sources ol { margin: 4px 0 0; padding-left: 18px; }
+  .sources li { margin: 2px 0; overflow-wrap: anywhere; }
+  .sources a { color: var(--accent); }
+  .sources span { color: var(--muted); }
+  .msg a { color: var(--accent); }
   .chat-log { flex: 1; overflow-y: auto; padding: 14px; display: flex; flex-direction: column; gap: 10px; font-size: .93rem; }
   .msg { max-width: 88%; padding: 10px 13px; border-radius: 14px; line-height: 1.5; }
   .msg p { margin: 0 0 6px; } .msg p:last-child { margin: 0; }
