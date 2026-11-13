@@ -47,6 +47,15 @@ const rail = laws.filter((l) => l !== lead).slice(0, 5);
         </form>
       </div>
 
+      <section class="today" id="today" aria-labelledby="today-h" hidden>
+        <div class="today-head">
+          <h2 id="today-h">Today in Washington, D.C.</h2>
+          <span class="today-date" id="today-date"></span>
+          <span class="today-note">Top political headlines from outlets across the spectrum</span>
+        </div>
+        <ol class="today-list" id="today-list"></ol>
+      </section>
+
       <div class="front-grid">
         <article class="lead" style={`--lc:${leadColor.bg};--lf:${leadColor.fg}`}>
           <p class="kicker"><span>Latest law with a recorded vote</span>{lead.policy_area && <span class="k-topic">{lead.policy_area}</span>}</p>
@@ -252,6 +261,62 @@ const rail = laws.filter((l) => l !== lead).slice(0, 5);
   $("more").addEventListener("click", async () => { if (!matches) { await load(); matches = rows; shown = list.children.length; } render(false); });
 </script>
 
+<script>
+  // "Today in Washington": up to four of today's political headlines, one per outlet,
+  // from the same /api/headlines feed that drives the ticker (outlets alternate left/right).
+  const todayBox = document.getElementById("today");
+  const todayList = document.getElementById("today-list");
+  const ago = (t) => {
+    const m = Math.max(1, Math.round((Date.now() - t) / 60000));
+    return m < 60 ? `${m} min ago` : m < 1440 ? `${Math.round(m / 60)} hr ago` : "Yesterday";
+  };
+  fetch("/api/headlines").then((r) => (r.ok ? r.json() : null)).then((d) => {
+    const items = d && Array.isArray(d.items) ? d.items : [];
+    const dayAgo = Date.now() - 24 * 3600 * 1000;
+    const fresh = items.filter((h) => h.time && h.time > dayAgo);
+    const pool = fresh.length >= 2 ? fresh : items;
+    const seen = new Set(), pick = [];
+    for (const h of pool) { if (!seen.has(h.source)) { seen.add(h.source); pick.push(h); } if (pick.length === 4) break; }
+    if (pick.length < 2) return;
+    for (const h of pick) {
+      const li = document.createElement("li");
+      const a = document.createElement("a");
+      a.href = h.link; a.target = "_blank"; a.rel = "noopener noreferrer";
+      const src = document.createElement("span"); src.className = "t-src"; src.textContent = h.source;
+      const title = document.createElement("strong"); title.textContent = h.title;
+      const when = document.createElement("span"); when.className = "t-when"; when.textContent = h.time ? ago(h.time) : "";
+      a.append(src, title, when); li.append(a); todayList.append(li);
+    }
+    document.getElementById("today-date").textContent = new Date().toLocaleDateString("en-US", { weekday: "long", month: "long", day: "numeric", timeZone: "America/New_York" });
+    todayBox.hidden = false;
+  }).catch(() => {});
+</script>
+
+<style is:global>
+  /* Today in Washington (rendered in the browser, so these styles are global). */
+  .today { margin-top: 44px; border-top: 2px solid var(--text); padding-top: 14px; }
+  .today[hidden] { display: none; }
+  .today-head { display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 14px; margin-bottom: 4px; }
+  .today-head h2 { font: 800 .74rem var(--sans); letter-spacing: .14em; text-transform: uppercase; margin: 0; color: var(--text); }
+  .today-date { font-size: .74rem; font-weight: 700; letter-spacing: .1em; text-transform: uppercase; color: var(--gold-ink); }
+  .today-note { margin-left: auto; font-size: .78rem; color: var(--muted); }
+  .today-list { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); }
+  @media (max-width: 1000px) { .today-list { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+  @media (max-width: 560px) { .today-list { grid-template-columns: minmax(0, 1fr); } .today-note { margin-left: 0; } }
+  .today-list li { border-left: 1px solid var(--border); }
+  .today-list li:first-child { border-left: 0; }
+  @media (max-width: 1000px) { .today-list li:nth-child(odd) { border-left: 0; } }
+  @media (max-width: 560px) { .today-list li { border-left: 0; border-top: 1px solid var(--border); } .today-list li:first-child { border-top: 0; } }
+  .today-list a { display: flex; flex-direction: column; gap: 6px; height: 100%; padding: 14px 20px 16px; color: inherit; text-decoration: none; }
+  .today-list li:first-child a { padding-left: 0; }
+  @media (max-width: 1000px) { .today-list li:nth-child(odd) a { padding-left: 0; } }
+  @media (max-width: 560px) { .today-list a { padding: 14px 0; } }
+  .today-list a:hover strong { text-decoration: underline; }
+  .t-src { font-size: .66rem; font-weight: 800; letter-spacing: .12em; text-transform: uppercase; color: var(--gold-ink); }
+  .today-list strong { font: 600 1.06rem/1.3 var(--serif); }
+  .t-when { margin-top: auto; font-size: .76rem; color: var(--muted); }
+</style>
+
 <style>
   .front { background: var(--paper); border-bottom: 1px solid var(--border); padding: 44px 0 0; }
   .front-intro { text-align: center; max-width: 860px; margin: 0 auto; }
@@ -265,7 +330,7 @@ const rail = laws.filter((l) => l !== lead).slice(0, 5);
   .hero-search button { border: 0; border-radius: 999px; padding: 11px 24px; font: 700 .95rem var(--sans); color: var(--paper); background: var(--text); cursor: pointer; transition: background .15s; }
   .hero-search button:hover { background: var(--gold); color: #14161b; }
 
-  .front-grid { display: grid; grid-template-columns: minmax(0, 1.75fr) minmax(0, 1fr); gap: 0; margin-top: 48px; border-top: 2px solid var(--text); }
+  .front-grid { display: grid; grid-template-columns: minmax(0, 1.75fr) minmax(0, 1fr); gap: 0; margin-top: 36px; border-top: 2px solid var(--text); }
   @media (max-width: 900px) { .front-grid { grid-template-columns: minmax(0, 1fr); } }
   .lead { padding: 26px 36px 30px 0; border-right: 1px solid var(--border); }
   @media (max-width: 900px) { .lead { padding: 22px 0 26px; border-right: 0; border-bottom: 1px solid var(--border); } }
