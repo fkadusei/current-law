@@ -5,23 +5,36 @@
 import Anthropic from "@anthropic-ai/sdk";
 import { DurableObject } from "cloudflare:workers";
 import { holidaysBetween } from "../site/src/lib/holidays.js";
+import { statesIn, domainsFor } from "./states.js";
 
 const MODEL = "claude-haiku-5-5";
 const PRICE_IN = 0.10 / 1e6, PRICE_OUT = 0.50 / 1e6; // $ per token (Haiku 5.5, prompts under 100K)
 const PER_VISITOR_PER_HOUR = 20;
-const MAX_STEPS = 5;
+const MAX_STEPS = 6;
+const PRICE_SEARCH = 0.01; // $ per web search ($10 per 1,000)
+const SEARCHES_PER_QUESTION = 3;
 
-const SYSTEM = `You are the help assistant on Current Law (usacurrentlaw.org), a nonpartisan site that explains every US federal law and executive order in plain English, shows how each member of Congress voted, and who signed it.
+const SYSTEM = `You are the help assistant on Current Law (usacurrentlaw.org), a nonpartisan site that explains every US federal law and executive order in plain English, shows how each member of Congress voted, and who signed it. You also answer questions about the laws of each US state, DC and Puerto Rico.
 
 How to answer:
 - Use the tools to look things up. Only state facts that come from the tools; never invent laws, votes or numbers.
 - Write in plain, friendly English at about an 8th-grade level. Keep answers short: usually 2 to 5 sentences or a short list.
 - Always link to the relevant page on this site with Markdown links using the "url" the tools return, for example [CHIPS and Science Act](/laws/pl-117-167/).
 - Be strictly neutral. Describe what laws do and how people voted; never say whether a law, party or politician is good or bad, and never tell anyone how to vote.
-- The site currently covers laws from 2013 onward (more years are being added) and executive orders from 1994 onward. Bills, resolutions and motions that failed a recorded floor vote since 2013 are in the "Didn't pass" section: use search_failed for those. If something is outside that, or isn't federal (for example a state law), say so plainly.
+- The site currently covers federal laws from 2013 onward (more years are being added) and executive orders from 1994 onward. Bills, resolutions and motions that failed a recorded floor vote since 2013 are in the "Didn't pass" section: use search_failed for those.
+
+State laws:
+- For a question about a state's law, use web_search. It only searches official state government and legislature sites plus law.justia.com, law.cornell.edu and ncsl.org. Prefer the state's own official statute or legislature page.
+- First decide what kind of question it is: federal (use the site's tools), state (use web_search), or both. Questions about everyday rules (minimum wage, driving, guns, marriage, taxes, rent, schools) are often state law; if both apply, cover both briefly.
+- If a state-law question doesn't say which state, ask which state before searching.
+- Base every statement about state law on what the search returned, and name the statute or code section when you can (for example "Texas Penal Code § 46.02"). If the search didn't settle it, say you couldn't confirm it rather than guessing.
+- Check dates against today's date (given at the end of these instructions). If a source describes a scheduled change whose date has already passed, say it is now in effect (for example "since September 30, 2026 it is $15"), not that it is coming.
+- State laws change often. Say when your answer depends on details (age, county or city rules, dates) and that local rules can differ.
+- Explain what the law says and how it affects people; don't judge it. When you give a state-law answer (not when you only ask a clarifying question), end with one short line: "This is general information, not legal advice."
+- If someone asks how federal and state law differ on a topic, you may use both the site's tools and web_search.
 - For questions about dates ("what passed last March", "on my birthday"), use list_by_date and link its calendar_url. Today's date is given at the end of these instructions.
 - If someone asks who represents them, ask for their state, then look up members by state.
-- For anything not about US federal laws, votes, Presidents or executive orders, politely say you can only help with those.`;
+- For anything not about US federal or state laws, votes, Presidents or executive orders, politely say you can only help with those.`;
 
 const TOOLS = [
   { name: "search_laws", description: "Search federal laws on the site by keywords (title, topic, summary, bill or public law number). Returns up to 8 matches, newest first among equal matches.",
@@ -172,6 +185,32 @@ export class ChatGuard extends DurableObject {
   }
 }
 
+// Web search limited to official sources for the states in the conversation.
+function webSearchTool(codes) {
+  return { type: "web_search_20250305", name: "web_search", max_uses: SEARCHES_PER_QUESTION, allowed_domains: domainsFor(codes) };
+}
+
+// Search titles for bill-analysis PDFs are often filing headers ("STORAGE NAME: h0221a ...").
+function tidyTitle(title, url) {
+  const t = String(title || "").replace(/\s+/g, " ").trim();
+  const letters = t.replace(/[^A-Za-z]/g, "");
+  const shouty = letters.length > 12 && letters.replace(/[^A-Z]/g, "").length / letters.length > 0.7;
+  if (t && !shouty && !/STORAGE NAME|^\S+\.pdf$/i.test(t) && t.length <= 110) return t;
+  let host = url; try { host = new URL(url).hostname.replace(/^www\./, ""); } catch {}
+  return `Official document from ${host}${/\.pdf($|\?)/i.test(url) ? " (PDF)" : ""}`;
+}
+
+// Sources the answer cited (or, failing that, what the search found), deduplicated.
+function collectSources(contents) {
+  const cited = new Map(), found = new Map();
+  for (const content of contents) for (const b of content) {
+    if (b.type === "text") for (const c of b.citations || []) if (c.url) cited.set(c.url, c.title || c.url);
+    if (b.type === "web_search_tool_result" && Array.isArray(b.content)) for (const r of b.content) if (r.url) found.set(r.url, r.title || r.url);
+  }
+  const pick = cited.size ? cited : new Map([...found].slice(0, 3));
+  return [...pick].slice(0, 6).map(([url, title]) => ({ url, title: tidyTitle(title, url) }));
+}
+
 const json = (body, status = 200) => new Response(JSON.stringify(body), { status, headers: { "Content-Type": "application/json", "Cache-Control": "no-store" } });
 
 export async function handleAsk(request, env) {
@@ -185,6 +224,12 @@ export async function handleAsk(request, env) {
   while (history.length && history[0].role !== "user") history.shift();
   if (!history.length || history[history.length - 1].role !== "user") return json({ error: "Ask a question." }, 400);
 
+  // The assistant decides whether a question is federal or state. Search is limited to official
+  // sources for the states named in the conversation (plus national legal-code sites).
+  const codes = [...new Set(history.flatMap((m) => statesIn(m.content)))].slice(-6);
+  const tools = [...TOOLS, webSearchTool(codes)];
+  const context = `Today is ${new Date().toISOString().slice(0, 10)}.`;
+
   const guard = env.CHAT_GUARD.get(env.CHAT_GUARD.idFromName("global"));
   const visitor = request.headers.get("CF-Connecting-IP") || "unknown";
   const cap = Number(env.CHAT_DAILY_CAP_USD || 2);
@@ -194,20 +239,25 @@ export async function handleAsk(request, env) {
   const client = new Anthropic({ apiKey: env.ANTHROPIC_API_KEY, baseURL: "https://api.anthropic.com" });
   const messages = [...history];
   let cost = 0, reply = "";
+  const turns = [];
   try {
     for (let step = 0; step < MAX_STEPS; step++) {
       const res = await client.messages.create({
         model: MODEL, max_tokens: 2048,
-        system: [{ type: "text", text: SYSTEM, cache_control: { type: "ephemeral" } }, { type: "text", text: `Today is ${new Date().toISOString().slice(0, 10)}.` }],
+        system: [{ type: "text", text: SYSTEM, cache_control: { type: "ephemeral" } }, { type: "text", text: context }],
         output_config: { effort: "low" },
-        tools: TOOLS, messages,
+        tools, messages,
       });
       const u = res.usage;
-      cost += (u.input_tokens + (u.cache_creation_input_tokens || 0) * 1.25 + (u.cache_read_input_tokens || 0) * 0.1) * PRICE_IN + u.output_tokens * PRICE_OUT;
+      cost += (u.input_tokens + (u.cache_creation_input_tokens || 0) * 1.25 + (u.cache_read_input_tokens || 0) * 0.1) * PRICE_IN + u.output_tokens * PRICE_OUT
+        + (u.server_tool_use?.web_search_requests || 0) * PRICE_SEARCH;
+      turns.push(res.content);
+      // Long server-side searches can pause; send the turn back to let it continue.
+      if (res.stop_reason === "pause_turn") { messages.push({ role: "assistant", content: res.content }); continue; }
       const uses = res.content.filter((b) => b.type === "tool_use");
       if (res.stop_reason !== "tool_use" || !uses.length) {
-        reply = res.content.filter((b) => b.type === "text").map((b) => b.text).join("\n").trim();
-        if (res.stop_reason === "refusal") reply = "Sorry, I can't help with that. I can answer questions about federal laws, votes, Presidents and executive orders.";
+        reply = res.content.filter((b) => b.type === "text").map((b) => b.text).join("").trim();
+        if (res.stop_reason === "refusal") reply = "Sorry, I can't help with that. I can answer questions about federal and state laws, votes, Presidents and executive orders.";
         break;
       }
       messages.push({ role: "assistant", content: res.content });
@@ -225,5 +275,6 @@ export async function handleAsk(request, env) {
     return json({ reply: busy ? "The assistant is busy right now. Please try again in a minute." : "Sorry, something went wrong. Please try again." });
   }
   await guard.record(cost);
-  return json({ reply: reply || "Sorry, I couldn't find an answer to that. Try asking another way, or use the search box at the top." });
+  const sources = collectSources(turns);
+  return json({ sources, reply: reply || "Sorry, I couldn't find an answer to that. Try asking another way, or use the search box at the top." });
 }

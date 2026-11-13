@@ -2,27 +2,108 @@
   "id": "/",
   "name": "Current Law",
   "short_name": "Current Law",
-  "description": "Every US federal law since 1973 in plain English: what it does, who voted for it, and who signed it.",
+  "description": "Every US federal law since 1973 in plain English: what it does, who voted for it, and who signed it. Plus an assistant for state law.",
   "lang": "en-US",
   "dir": "ltr",
   "start_url": "/?source=app",
   "scope": "/",
   "display": "standalone",
-  "display_override": ["standalone", "minimal-ui"],
+  "display_override": [
+    "standalone",
+    "minimal-ui"
+  ],
   "theme_color": "#0b1d36",
   "background_color": "#0b1d36",
-  "categories": ["education", "news", "government", "reference"],
+  "categories": [
+    "education",
+    "news",
+    "government",
+    "reference"
+  ],
   "icons": [
-    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
-    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
-    { "src": "/icon-maskable-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
-    { "src": "/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
-    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-maskable-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
   ],
   "shortcuts": [
-    { "name": "Didn't pass", "url": "/did-not-pass/", "icons": [{ "src": "/icon-192.png", "sizes": "192x192" }] },
-    { "name": "Politicians", "url": "/politicians/", "icons": [{ "src": "/icon-192.png", "sizes": "192x192" }] },
-    { "name": "Presidents", "url": "/presidents/", "icons": [{ "src": "/icon-192.png", "sizes": "192x192" }] },
-    { "name": "Calendar", "url": "/calendar/", "icons": [{ "src": "/icon-192.png", "sizes": "192x192" }] }
+    {
+      "name": "Ask about a law",
+      "short_name": "Ask",
+      "description": "Ask about federal or state law",
+      "url": "/?ask",
+      "icons": [
+        {
+          "src": "/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Didn't pass",
+      "url": "/did-not-pass/",
+      "icons": [
+        {
+          "src": "/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Politicians",
+      "url": "/politicians/",
+      "icons": [
+        {
+          "src": "/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Presidents",
+      "url": "/presidents/",
+      "icons": [
+        {
+          "src": "/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Calendar",
+      "url": "/calendar/",
+      "icons": [
+        {
+          "src": "/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
   ]
 }
