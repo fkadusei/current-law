@@ -242,6 +242,9 @@ def main() -> None:
     index = []
     for congress in range(first, last + 1):
         index += build_congress(congress, enacted)
+    index_path = BUILD / "failed" / "index.json"
+    if index_path.exists():  # keep Congresses this run didn't rebuild
+        index += [i for i in json.loads(index_path.read_text()) if not first <= i["congress"] <= last]
     write_json(BUILD / "failed" / "index.json", sorted(index, key=lambda i: i["failed_on"], reverse=True))
 
 

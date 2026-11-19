@@ -30,6 +30,10 @@ python pipeline/build_failed.py                 # bills and motions that failed 
 python pipeline/summarize.py --failed           # plain-language summaries of those
 ```
 
+`pipeline/refresh.sh` runs all of the above for the current Congress only. The
+"Refresh data" GitHub workflow runs it every two hours and pushes any new data to
+`main` (it needs the `CONGRESS_API_KEY` and `CURRENT_LAW_ANTHROPIC_KEY` repository secrets).
+
 Leave off the Congress numbers to process everything from the 93rd Congress (1973) to today.
 Downloads are cached in `data/raw/` (not committed), so reruns only fetch what's new.
 
