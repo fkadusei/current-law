@@ -1,0 +1,28 @@
+{
+ "headline": "New law lets the IRS's National Taxpayer Advocate hire its own lawyers and manage all Taxpayer Advocate Service staff.",
+ "what_it_does": "The Taxpayer Advocate Service is an office inside the IRS that helps people with problems involving the IRS. This law lets the head of that office, the National Taxpayer Advocate, appoint lawyers who report directly to the Advocate. Before, most Treasury lawyers worked under Treasury's General Counsel. The law also lets the Advocate make hiring and other personnel decisions for any Taxpayer Advocate Service employee, not just local advocates in each state.",
+ "who_it_affects": [
+  {
+   "group": "National Taxpayer Advocate",
+   "how": "Gains the power to appoint in-house legal counsel and to take personnel actions for all office employees."
+  },
+  {
+   "group": "Taxpayer Advocate Service employees",
+   "how": "Hiring, discipline, and other personnel decisions about them can now be made by the National Taxpayer Advocate."
+  },
+  {
+   "group": "Treasury Department's General Counsel",
+   "how": "No longer supervises the lawyers appointed to advise the National Taxpayer Advocate."
+  },
+  {
+   "group": "Taxpayers who get help from the Taxpayer Advocate Service",
+   "how": "The office helping them with IRS problems will have its own lawyers and more control over its staff, though the summary lists no direct change to taxpayer services."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-19"
+}

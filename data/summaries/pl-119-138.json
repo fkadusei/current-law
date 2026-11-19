@@ -1,0 +1,32 @@
+{
+ "headline": "Extends federal ALS research and drug access programs through 2031 and adds new safety reporting and FDA planning requirements.",
+ "what_it_does": "The law renews, through fiscal year 2031, NIH grants that study experimental ALS drugs given to patients who cannot join clinical trials, FDA grants for developing ALS and other brain-disease treatments, and an FDA-NIH partnership with private groups. When deciding whether to renew grants, NIH must review safety and effectiveness information, and grant recipients must quickly report serious, unexpected side effects. The FDA must publish a five-year plan to support development of and access to drugs for ALS and other rare neurodegenerative diseases, and later report on what it did.",
+ "who_it_affects": [
+  {
+   "group": "People with ALS (Lou Gehrig's disease)",
+   "how": "Programs that may give them access to experimental drugs outside of clinical trials continue through 2031, with added safety reporting."
+  },
+  {
+   "group": "People with other neurodegenerative diseases",
+   "how": "FDA grants, a public-private partnership, and a new FDA plan aim to support development of treatments for their conditions."
+  },
+  {
+   "group": "Researchers and organizations receiving NIH ALS grants",
+   "how": "They must promptly report serious and unexpected side effects, and NIH will review drug safety and effectiveness before renewing their grants."
+  },
+  {
+   "group": "Drug and therapy developers",
+   "how": "They remain eligible for FDA grants and partnership support for ALS and neurodegenerative disease treatments."
+  },
+  {
+   "group": "FDA and NIH",
+   "how": "The agencies must continue these programs and the FDA must publish a five-year plan and a progress report."
+  }
+ ],
+ "when_it_takes_effect": "Enacted November 3, 2026; programs are reauthorized through fiscal year 2031.",
+ "ceremonial": false,
+ "confidence": "high",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-19"
+}

@@ -16,19 +16,56 @@
  "official_summary": "<p>This act allows for the posthumous honorary promotion of Captain Cody Khork to the rank of major in the Army without the required 60-day notice to Congress.</p>",
  "text_links": [
   {
-   "url": "https://www.govinfo.gov/content/pkg/BILLS-119s4138enr/uslm/BILLS-119s4138enr.xml"
+   "type": "Formatted Text",
+   "url": "https://www.congress.gov/119/bills/s4138/BILLS-119s4138enr.htm"
   },
   {
-   "url": "https://www.govinfo.gov/content/pkg/BILLS-119s4138enr/xml/BILLS-119s4138enr.xml"
+   "type": "PDF",
+   "url": "https://www.congress.gov/119/bills/s4138/BILLS-119s4138enr.pdf"
   },
   {
-   "url": "https://www.govinfo.gov/content/pkg/BILLS-119s4138cps/xml/BILLS-119s4138cps.xml"
+   "type": "United States Legislative Markup",
+   "url": "https://www.congress.gov/119/bills/s4138/BILLS-119s4138enr_uslm.xml"
   },
   {
-   "url": "https://www.govinfo.gov/content/pkg/BILLS-119s4138es/xml/BILLS-119s4138es.xml"
+   "type": "Formatted XML",
+   "url": "https://www.congress.gov/119/bills/s4138/BILLS-119s4138enr.xml"
   },
   {
-   "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ80/uslm/PLAW-119publ80.xml"
+   "type": "Formatted Text",
+   "url": "https://www.congress.gov/119/bills/s4138/BILLS-119s4138cps.htm"
+  },
+  {
+   "type": "PDF",
+   "url": "https://www.congress.gov/119/bills/s4138/BILLS-119s4138cps.pdf"
+  },
+  {
+   "type": "Formatted XML",
+   "url": "https://www.congress.gov/119/bills/s4138/BILLS-119s4138cps.xml"
+  },
+  {
+   "type": "Formatted Text",
+   "url": "https://www.congress.gov/119/bills/s4138/BILLS-119s4138es.htm"
+  },
+  {
+   "type": "PDF",
+   "url": "https://www.congress.gov/119/bills/s4138/BILLS-119s4138es.pdf"
+  },
+  {
+   "type": "Formatted XML",
+   "url": "https://www.congress.gov/119/bills/s4138/BILLS-119s4138es.xml"
+  },
+  {
+   "type": "Formatted Text",
+   "url": "https://www.congress.gov/119/plaws/publ80/PLAW-119publ80.htm"
+  },
+  {
+   "type": "PDF",
+   "url": "https://www.congress.gov/119/plaws/publ80/PLAW-119publ80.pdf"
+  },
+  {
+   "type": "United States Legislative Markup",
+   "url": "https://www.congress.gov/119/plaws/publ80/PLAW-119publ80_uslm.xml"
   }
  ],
  "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/4138",

@@ -16,25 +16,80 @@
  "official_summary": "<p>This joint resolution nullifies requirements for persons effectuating decentralized financial (DeFi) transactions to report certain information regarding digital asset sales to the Internal Revenue Service (IRS). Specifically, the joint resolution nullifies the requirements included in the rule titled <em>Gross Proceeds Reporting by Brokers That Regularly Provide Services Effectuating Digital Asset Sales</em> and issued by the IRS on December 30, 2024. </p><p>Decentralized finance refers to the suite of financial activities and services that are facilitated by cryptocurrency and intended to be conducted without any sort of reliance on traditional financial tools or intermediaries.</p>",
  "text_links": [
   {
-   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hjres25enr/uslm/BILLS-119hjres25enr.xml"
+   "type": "Formatted Text",
+   "url": "https://www.congress.gov/119/bills/hjres25/BILLS-119hjres25enr.htm"
   },
   {
-   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hjres25enr/xml/BILLS-119hjres25enr.xml"
+   "type": "PDF",
+   "url": "https://www.congress.gov/119/bills/hjres25/BILLS-119hjres25enr.pdf"
   },
   {
-   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hjres25pcs/xml/BILLS-119hjres25pcs.xml"
+   "type": "United States Legislative Markup",
+   "url": "https://www.congress.gov/119/bills/hjres25/BILLS-119hjres25enr_uslm.xml"
   },
   {
-   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hjres25eh/xml/BILLS-119hjres25eh.xml"
+   "type": "Formatted XML",
+   "url": "https://www.congress.gov/119/bills/hjres25/BILLS-119hjres25enr.xml"
   },
   {
-   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hjres25rh/xml/BILLS-119hjres25rh.xml"
+   "type": "Formatted Text",
+   "url": "https://www.congress.gov/119/bills/hjres25/BILLS-119hjres25pcs.htm"
   },
   {
-   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hjres25ih/xml/BILLS-119hjres25ih.xml"
+   "type": "PDF",
+   "url": "https://www.congress.gov/119/bills/hjres25/BILLS-119hjres25pcs.pdf"
   },
   {
-   "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ5/uslm/PLAW-119publ5.xml"
+   "type": "Formatted XML",
+   "url": "https://www.congress.gov/119/bills/hjres25/BILLS-119hjres25pcs.xml"
+  },
+  {
+   "type": "Formatted Text",
+   "url": "https://www.congress.gov/119/bills/hjres25/BILLS-119hjres25eh.htm"
+  },
+  {
+   "type": "PDF",
+   "url": "https://www.congress.gov/119/bills/hjres25/BILLS-119hjres25eh.pdf"
+  },
+  {
+   "type": "Formatted XML",
+   "url": "https://www.congress.gov/119/bills/hjres25/BILLS-119hjres25eh.xml"
+  },
+  {
+   "type": "Formatted Text",
+   "url": "https://www.congress.gov/119/bills/hjres25/BILLS-119hjres25rh.htm"
+  },
+  {
+   "type": "PDF",
+   "url": "https://www.congress.gov/119/bills/hjres25/BILLS-119hjres25rh.pdf"
+  },
+  {
+   "type": "Formatted XML",
+   "url": "https://www.congress.gov/119/bills/hjres25/BILLS-119hjres25rh.xml"
+  },
+  {
+   "type": "Formatted Text",
+   "url": "https://www.congress.gov/119/bills/hjres25/BILLS-119hjres25ih.htm"
+  },
+  {
+   "type": "PDF",
+   "url": "https://www.congress.gov/119/bills/hjres25/BILLS-119hjres25ih.pdf"
+  },
+  {
+   "type": "Formatted XML",
+   "url": "https://www.congress.gov/119/bills/hjres25/BILLS-119hjres25ih.xml"
+  },
+  {
+   "type": "Formatted Text",
+   "url": "https://www.congress.gov/119/plaws/publ5/PLAW-119publ5.htm"
+  },
+  {
+   "type": "PDF",
+   "url": "https://www.congress.gov/119/plaws/publ5/PLAW-119publ5.pdf"
+  },
+  {
+   "type": "United States Legislative Markup",
+   "url": "https://www.congress.gov/119/plaws/publ5/PLAW-119publ5_uslm.xml"
   }
  ],
  "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-joint-resolution/25",

@@ -1,0 +1,24 @@
+{
+ "headline": "Raises the debt limits that decide which small businesses and individuals can use two simpler forms of bankruptcy.",
+ "what_it_does": "This law brings back higher debt limits that expired in 2024. Small businesses can use Subchapter V, a faster type of bankruptcy reorganization, if they owe up to $7.5 million, up from about $3.4 million. People using Chapter 13, a plan to repay debts over time from their income, can owe up to $2.75 million total, up from about $2.1 million. Chapter 13 will now use one combined limit for secured debt, like a mortgage or car loan, and unsecured debt, like credit cards, instead of separate limits.",
+ "who_it_affects": [
+  {
+   "group": "Small business owners with large debts",
+   "how": "Businesses owing between about $3.4 million and $7.5 million can now qualify for Subchapter V small business bankruptcy."
+  },
+  {
+   "group": "Individuals with regular income who are in serious debt",
+   "how": "More people can qualify for a Chapter 13 repayment plan because the total debt limit rises to $2.75 million and secured and unsecured debts are counted together."
+  },
+  {
+   "group": "Lenders and other creditors",
+   "how": "More of the people and businesses that owe them money may be able to use these bankruptcy options, which changes how and when debts are repaid."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-19"
+}

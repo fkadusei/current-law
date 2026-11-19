@@ -3,10 +3,14 @@
  "congress": 119,
  "bill": "H.Res. 1655",
  "bill_type": "HRES",
- "title": "Impeaching Peter Brian Hegseth, Secretary of Defense, for high crimes and misdemeanors",
+ "title": "Impeaching Peter Brian Hegseth, Secretary of Defense, for high crimes and misdemeanors.",
  "policy_area": null,
- "sponsor": null,
- "latest_action": null,
+ "sponsor": "Rep. Massie, Thomas [R-KY-4]",
+ "latest_action": {
+  "actionDate": "2026-11-10",
+  "actionTime": "18:02:43",
+  "text": "Motion to reconsider laid on the table Agreed to without objection."
+ },
  "official_summary": null,
  "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-resolution/1655",
  "failed_on": "2026-11-10",
