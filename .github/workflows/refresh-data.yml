@@ -1,0 +1,46 @@
+name: Refresh data
+
+# Pulls new votes, laws and executive orders for the current Congress every two
+# hours and pushes any change to main, which Cloudflare then deploys.
+on:
+  schedule:
+    - cron: "17 */2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-data
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r pipeline/requirements.txt
+      # Raw downloads (bill records, Voteview files) carry over between runs.
+      - uses: actions/cache@v4
+        with:
+          path: data/raw
+          key: raw-${{ github.run_id }}
+          restore-keys: raw-
+      - name: Refresh current Congress
+        env:
+          CONGRESS_API_KEY: ${{ secrets.CONGRESS_API_KEY }}
+          CURRENT_LAW_ANTHROPIC_KEY: ${{ secrets.CURRENT_LAW_ANTHROPIC_KEY }}
+        run: pipeline/refresh.sh
+      - name: Push changes
+        run: |
+          git add data
+          if git diff --cached --quiet; then echo "No new data"; exit 0; fi
+          git config user.name "current-law-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Data refresh $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git pull --rebase origin main
+          git push origin HEAD:main

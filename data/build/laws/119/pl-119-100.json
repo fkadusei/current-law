@@ -16,22 +16,68 @@
  "official_summary": "<p><strong>Lulu’s Law</strong></p><p>This act requires the Federal Communications Commission to issue an order explicitly permitting the transmission of wireless emergency alerts to mobile phones in the event of a shark attack.</p><p>(Under current regulations, authorized government authorities are permitted to send wireless emergency alerts regarding public safety emergencies, including severe weather, missing children, and other threats to life or property.)</p>",
  "text_links": [
   {
-   "url": "https://www.govinfo.gov/content/pkg/BILLS-119s1003enr/uslm/BILLS-119s1003enr.xml"
+   "type": "Formatted Text",
+   "url": "https://www.congress.gov/119/bills/s1003/BILLS-119s1003enr.htm"
   },
   {
-   "url": "https://www.govinfo.gov/content/pkg/BILLS-119s1003enr/xml/BILLS-119s1003enr.xml"
+   "type": "PDF",
+   "url": "https://www.congress.gov/119/bills/s1003/BILLS-119s1003enr.pdf"
   },
   {
-   "url": "https://www.govinfo.gov/content/pkg/BILLS-119s1003es/xml/BILLS-119s1003es.xml"
+   "type": "United States Legislative Markup",
+   "url": "https://www.congress.gov/119/bills/s1003/BILLS-119s1003enr_uslm.xml"
   },
   {
-   "url": "https://www.govinfo.gov/content/pkg/BILLS-119s1003rs/xml/BILLS-119s1003rs.xml"
+   "type": "Formatted XML",
+   "url": "https://www.congress.gov/119/bills/s1003/BILLS-119s1003enr.xml"
   },
   {
-   "url": "https://www.govinfo.gov/content/pkg/BILLS-119s1003is/xml/BILLS-119s1003is.xml"
+   "type": "Formatted Text",
+   "url": "https://www.congress.gov/119/bills/s1003/BILLS-119s1003es.htm"
   },
   {
-   "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ100/uslm/PLAW-119publ100.xml"
+   "type": "PDF",
+   "url": "https://www.congress.gov/119/bills/s1003/BILLS-119s1003es.pdf"
+  },
+  {
+   "type": "Formatted XML",
+   "url": "https://www.congress.gov/119/bills/s1003/BILLS-119s1003es.xml"
+  },
+  {
+   "type": "Formatted Text",
+   "url": "https://www.congress.gov/119/bills/s1003/BILLS-119s1003rs.htm"
+  },
+  {
+   "type": "PDF",
+   "url": "https://www.congress.gov/119/bills/s1003/BILLS-119s1003rs.pdf"
+  },
+  {
+   "type": "Formatted XML",
+   "url": "https://www.congress.gov/119/bills/s1003/BILLS-119s1003rs.xml"
+  },
+  {
+   "type": "Formatted Text",
+   "url": "https://www.congress.gov/119/bills/s1003/BILLS-119s1003is.htm"
+  },
+  {
+   "type": "PDF",
+   "url": "https://www.congress.gov/119/bills/s1003/BILLS-119s1003is.pdf"
+  },
+  {
+   "type": "Formatted XML",
+   "url": "https://www.congress.gov/119/bills/s1003/BILLS-119s1003is.xml"
+  },
+  {
+   "type": "Formatted Text",
+   "url": "https://www.congress.gov/119/plaws/publ100/PLAW-119publ100.htm"
+  },
+  {
+   "type": "PDF",
+   "url": "https://www.congress.gov/119/plaws/publ100/PLAW-119publ100.pdf"
+  },
+  {
+   "type": "United States Legislative Markup",
+   "url": "https://www.congress.gov/119/plaws/publ100/PLAW-119publ100_uslm.xml"
   }
  ],
  "congress_gov_url": "https://www.congress.gov/bill/119th-congress/senate-bill/1003",

@@ -1,9 +1,31 @@
 [
  {
+  "id": "119-hconres93",
+  "congress": 119,
+  "bill": "H.Con.Res. 93",
+  "title": "Directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove United States Armed Forces from hostilities with Iran.",
+  "policy_area": "International Affairs",
+  "failed_on": "2026-11-19",
+  "kind": "defeated",
+  "chamber": "Senate",
+  "later_became_law": null,
+  "support_color": {
+   "side": "D",
+   "share": 0.935,
+   "r_support": 3,
+   "d_support": 43,
+   "shade": 0.87,
+   "party_line": null
+  },
+  "control": {
+   "Senate": "R"
+  }
+ },
+ {
   "id": "119-hres1655",
   "congress": 119,
   "bill": "H.Res. 1655",
-  "title": "Impeaching Peter Brian Hegseth, Secretary of Defense, for high crimes and misdemeanors",
+  "title": "Impeaching Peter Brian Hegseth, Secretary of Defense, for high crimes and misdemeanors.",
   "policy_area": null,
   "failed_on": "2026-11-10",
   "kind": "set_aside",

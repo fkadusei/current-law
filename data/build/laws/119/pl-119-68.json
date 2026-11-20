@@ -4,7 +4,7 @@
  "public_law": "119-68",
  "bill": "HR 1043",
  "title": "La Paz County Solar Energy and Job Creation Act",
- "enacted": "2025-12-29",
+ "enacted": "2026-02-11",
  "president": {
   "id": "trump-2",
   "name": "Donald Trump",
@@ -16,25 +16,80 @@
  "official_summary": "<p><strong>La Paz County Solar Energy and Job Creation Act</strong></p><p>This act directs the Department of the Interior, after receiving a request from La Paz County, Arizona, to convey approximately&nbsp;3,400 acres of identified land managed by the Bureau of Land Management to the county for fair market value.</p><p>Interior must exclude from the conveyance any federal land that contains significant cultural, environmental, wildlife, or recreational resources.</p><p>As a condition of the conveyance, La Paz County and any subsequent owner must</p><ul><li>make good faith efforts to avoid disturbing tribal artifacts;</li><li>minimize impacts on tribal artifacts if they are disturbed;</li><li>coordinate with the Colorado River Indian Tribes Tribal Historic Preservation Office to identify artifacts of cultural and historic significance; and</li><li>allow tribal representatives to rebury unearthed artifacts at, or near, where they were discovered.</li></ul><p>The federal land is withdrawn from the operation of U.S. mining and mineral leasing laws, and thus the land is not available for new mining claims, new mineral or geothermal leases, nor sales&nbsp;of mineral materials.</p><p>The county must pay&nbsp;all costs related to the conveyance.</p>",
  "text_links": [
   {
-   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1043enr/uslm/BILLS-119hr1043enr.xml"
+   "type": "Formatted Text",
+   "url": "https://www.congress.gov/119/bills/hr1043/BILLS-119hr1043enr.htm"
   },
   {
-   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1043enr/xml/BILLS-119hr1043enr.xml"
+   "type": "PDF",
+   "url": "https://www.congress.gov/119/bills/hr1043/BILLS-119hr1043enr.pdf"
   },
   {
-   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1043rfs/xml/BILLS-119hr1043rfs.xml"
+   "type": "United States Legislative Markup",
+   "url": "https://www.congress.gov/119/bills/hr1043/BILLS-119hr1043enr_uslm.xml"
   },
   {
-   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1043eh/xml/BILLS-119hr1043eh.xml"
+   "type": "Formatted XML",
+   "url": "https://www.congress.gov/119/bills/hr1043/BILLS-119hr1043enr.xml"
   },
   {
-   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1043rh/xml/BILLS-119hr1043rh.xml"
+   "type": "Formatted Text",
+   "url": "https://www.congress.gov/119/bills/hr1043/BILLS-119hr1043rfs.htm"
   },
   {
-   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1043ih/xml/BILLS-119hr1043ih.xml"
+   "type": "PDF",
+   "url": "https://www.congress.gov/119/bills/hr1043/BILLS-119hr1043rfs.pdf"
   },
   {
-   "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ68/uslm/PLAW-119publ68.xml"
+   "type": "Formatted XML",
+   "url": "https://www.congress.gov/119/bills/hr1043/BILLS-119hr1043rfs.xml"
+  },
+  {
+   "type": "Formatted Text",
+   "url": "https://www.congress.gov/119/bills/hr1043/BILLS-119hr1043eh.htm"
+  },
+  {
+   "type": "PDF",
+   "url": "https://www.congress.gov/119/bills/hr1043/BILLS-119hr1043eh.pdf"
+  },
+  {
+   "type": "Formatted XML",
+   "url": "https://www.congress.gov/119/bills/hr1043/BILLS-119hr1043eh.xml"
+  },
+  {
+   "type": "Formatted Text",
+   "url": "https://www.congress.gov/119/bills/hr1043/BILLS-119hr1043rh.htm"
+  },
+  {
+   "type": "PDF",
+   "url": "https://www.congress.gov/119/bills/hr1043/BILLS-119hr1043rh.pdf"
+  },
+  {
+   "type": "Formatted XML",
+   "url": "https://www.congress.gov/119/bills/hr1043/BILLS-119hr1043rh.xml"
+  },
+  {
+   "type": "Formatted Text",
+   "url": "https://www.congress.gov/119/bills/hr1043/BILLS-119hr1043ih.htm"
+  },
+  {
+   "type": "PDF",
+   "url": "https://www.congress.gov/119/bills/hr1043/BILLS-119hr1043ih.pdf"
+  },
+  {
+   "type": "Formatted XML",
+   "url": "https://www.congress.gov/119/bills/hr1043/BILLS-119hr1043ih.xml"
+  },
+  {
+   "type": "Formatted Text",
+   "url": "https://www.congress.gov/119/plaws/publ68/PLAW-119publ68.htm"
+  },
+  {
+   "type": "PDF",
+   "url": "https://www.congress.gov/119/plaws/publ68/PLAW-119publ68.pdf"
+  },
+  {
+   "type": "United States Legislative Markup",
+   "url": "https://www.congress.gov/119/plaws/publ68/PLAW-119publ68_uslm.xml"
   }
  ],
  "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/1043",

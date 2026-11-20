@@ -16,25 +16,80 @@
  "official_summary": "<p><strong>Miracle on Ice Congressional Gold Medal Act</strong></p><p>This act provides for the award of Congressional Gold Medals to the members of the 1980 U.S. Olympic men's ice hockey team in recognition of the team's achievement at the 1980 Winter Olympic Games.</p>",
  "text_links": [
   {
-   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr452enr/uslm/BILLS-119hr452enr.xml"
+   "type": "Formatted Text",
+   "url": "https://www.congress.gov/119/bills/hr452/BILLS-119hr452enr.htm"
   },
   {
-   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr452enr/xml/BILLS-119hr452enr.xml"
+   "type": "PDF",
+   "url": "https://www.congress.gov/119/bills/hr452/BILLS-119hr452enr.pdf"
   },
   {
-   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr452eas/xml/BILLS-119hr452eas.xml"
+   "type": "United States Legislative Markup",
+   "url": "https://www.congress.gov/119/bills/hr452/BILLS-119hr452enr_uslm.xml"
   },
   {
-   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr452rfs/xml/BILLS-119hr452rfs.xml"
+   "type": "Formatted XML",
+   "url": "https://www.congress.gov/119/bills/hr452/BILLS-119hr452enr.xml"
   },
   {
-   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr452eh/xml/BILLS-119hr452eh.xml"
+   "type": "Formatted Text",
+   "url": "https://www.congress.gov/119/bills/hr452/BILLS-119hr452eas.htm"
   },
   {
-   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr452ih/xml/BILLS-119hr452ih.xml"
+   "type": "PDF",
+   "url": "https://www.congress.gov/119/bills/hr452/BILLS-119hr452eas.pdf"
   },
   {
-   "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ53/uslm/PLAW-119publ53.xml"
+   "type": "Formatted XML",
+   "url": "https://www.congress.gov/119/bills/hr452/BILLS-119hr452eas.xml"
+  },
+  {
+   "type": "Formatted Text",
+   "url": "https://www.congress.gov/119/bills/hr452/BILLS-119hr452rfs.htm"
+  },
+  {
+   "type": "PDF",
+   "url": "https://www.congress.gov/119/bills/hr452/BILLS-119hr452rfs.pdf"
+  },
+  {
+   "type": "Formatted XML",
+   "url": "https://www.congress.gov/119/bills/hr452/BILLS-119hr452rfs.xml"
+  },
+  {
+   "type": "Formatted Text",
+   "url": "https://www.congress.gov/119/bills/hr452/BILLS-119hr452eh.htm"
+  },
+  {
+   "type": "PDF",
+   "url": "https://www.congress.gov/119/bills/hr452/BILLS-119hr452eh.pdf"
+  },
+  {
+   "type": "Formatted XML",
+   "url": "https://www.congress.gov/119/bills/hr452/BILLS-119hr452eh.xml"
+  },
+  {
+   "type": "Formatted Text",
+   "url": "https://www.congress.gov/119/bills/hr452/BILLS-119hr452ih.htm"
+  },
+  {
+   "type": "PDF",
+   "url": "https://www.congress.gov/119/bills/hr452/BILLS-119hr452ih.pdf"
+  },
+  {
+   "type": "Formatted XML",
+   "url": "https://www.congress.gov/119/bills/hr452/BILLS-119hr452ih.xml"
+  },
+  {
+   "type": "Formatted Text",
+   "url": "https://www.congress.gov/119/plaws/publ53/PLAW-119publ53.htm"
+  },
+  {
+   "type": "PDF",
+   "url": "https://www.congress.gov/119/plaws/publ53/PLAW-119publ53.pdf"
+  },
+  {
+   "type": "United States Legislative Markup",
+   "url": "https://www.congress.gov/119/plaws/publ53/PLAW-119publ53_uslm.xml"
   }
  ],
  "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-bill/452",

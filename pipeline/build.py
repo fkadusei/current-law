@@ -171,6 +171,8 @@ def build_congress(congress: int, member_index: dict) -> list[dict]:
     index = []
     for law in json.loads((src / "laws.json").read_text()):
         btype, number = law["type"].upper(), law["number"]
+        if law.get("laws") and not any("Public" in l.get("type", "") for l in law["laws"]):
+            continue  # private laws (one person's relief, a single medal) share numbers with public laws
         detail_path = src / f"{btype.lower()}{number}.json"
         detail = json.loads(detail_path.read_text()) if detail_path.exists() else {}
         bill = detail.get("bill", {})
@@ -264,8 +266,26 @@ def main() -> None:
     index = []
     for congress in range(first, last + 1):
         index += build_congress(congress, members)
-    write_json(BUILD / "laws" / "index.json", sorted(index, key=lambda l: l["enacted"], reverse=True))
-    write_json(BUILD / "members" / "index.json", list(members.values()))
+    rebuilt = set(range(first, last + 1))
+    # A partial run (say, just the current Congress) keeps every other Congress
+    # already in the indexes instead of dropping it.
+    index_path, members_path = BUILD / "laws" / "index.json", BUILD / "members" / "index.json"
+    if index_path.exists():
+        index += [l for l in json.loads(index_path.read_text()) if l["congress"] not in rebuilt]
+    if members_path.exists():
+        kept = {}
+        for m in json.loads(members_path.read_text()):
+            m["congresses"] = [c for c in m["congresses"] if c not in rebuilt]
+            if m["congresses"]:
+                kept[m["bioguide"] or m["icpsr"]] = m
+        for key, m in members.items():
+            if key in kept:
+                kept[key]["congresses"] = sorted(set(kept[key]["congresses"]) | set(m["congresses"]))
+            else:
+                kept[key] = m
+        members = kept
+    write_json(index_path, sorted(index, key=lambda l: l["enacted"], reverse=True))
+    write_json(members_path, list(members.values()))
     build_executive_orders()
 
 

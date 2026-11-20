@@ -1,0 +1,24 @@
+{
+ "headline": "New law makes Medicare create separate billing codes for ultralightweight manual wheelchairs built from titanium or carbon fiber.",
+ "what_it_does": "Medicare must set up at least two billing codes for the base of ultralightweight manual wheelchairs: one for bases made of titanium or carbon fiber and one for bases made of other materials. Medicare pays suppliers the same amount it would have paid anyway. Suppliers may charge the patient the difference between Medicare's payment and the wheelchair's actual price. Medicare may require suppliers to tell patients ahead of time that they could owe this extra cost.",
+ "who_it_affects": [
+  {
+   "group": "Medicare beneficiaries who use ultralightweight manual wheelchairs",
+   "how": "They may be able to get titanium or carbon fiber wheelchairs through Medicare but could be billed for the price difference above what Medicare pays."
+  },
+  {
+   "group": "Wheelchair suppliers that bill Medicare",
+   "how": "They must use the new billing codes and may bill patients for costs above Medicare's payment, possibly with a duty to warn patients about those costs first."
+  },
+  {
+   "group": "Centers for Medicare & Medicaid Services (CMS)",
+   "how": "The agency must create the new billing codes and may set rules on telling patients about their costs."
+  }
+ ],
+ "when_it_takes_effect": null,
+ "ceremonial": false,
+ "confidence": "medium",
+ "ai_generated": true,
+ "model": "claude-opus-5-5",
+ "written": "2026-11-19"
+}

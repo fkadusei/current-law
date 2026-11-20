@@ -16,22 +16,68 @@
  "official_summary": "<p>This joint resolution nullifies the rule titled <em>Energy Conservation Program: Energy Conservation Standards for Consumer Gas-fired Instantaneous Water Heaters </em>and submitted by the Department of Energy (DOE) on December 26, 2024. Under the rule, DOE adopted amended energy conservation standards for gas-fired instantaneous water heaters to achieve the maximum improvement in energy efficiency that DOE determined was technologically feasible and economically justified.</p>",
  "text_links": [
   {
-   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hjres20enr/uslm/BILLS-119hjres20enr.xml"
+   "type": "Formatted Text",
+   "url": "https://www.congress.gov/119/bills/hjres20/BILLS-119hjres20enr.htm"
   },
   {
-   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hjres20enr/xml/BILLS-119hjres20enr.xml"
+   "type": "PDF",
+   "url": "https://www.congress.gov/119/bills/hjres20/BILLS-119hjres20enr.pdf"
   },
   {
-   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hjres20pcs/xml/BILLS-119hjres20pcs.xml"
+   "type": "United States Legislative Markup",
+   "url": "https://www.congress.gov/119/bills/hjres20/BILLS-119hjres20enr_uslm.xml"
   },
   {
-   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hjres20eh/xml/BILLS-119hjres20eh.xml"
+   "type": "Formatted XML",
+   "url": "https://www.congress.gov/119/bills/hjres20/BILLS-119hjres20enr.xml"
   },
   {
-   "url": "https://www.govinfo.gov/content/pkg/BILLS-119hjres20ih/xml/BILLS-119hjres20ih.xml"
+   "type": "Formatted Text",
+   "url": "https://www.congress.gov/119/bills/hjres20/BILLS-119hjres20pcs.htm"
   },
   {
-   "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ6/uslm/PLAW-119publ6.xml"
+   "type": "PDF",
+   "url": "https://www.congress.gov/119/bills/hjres20/BILLS-119hjres20pcs.pdf"
+  },
+  {
+   "type": "Formatted XML",
+   "url": "https://www.congress.gov/119/bills/hjres20/BILLS-119hjres20pcs.xml"
+  },
+  {
+   "type": "Formatted Text",
+   "url": "https://www.congress.gov/119/bills/hjres20/BILLS-119hjres20eh.htm"
+  },
+  {
+   "type": "PDF",
+   "url": "https://www.congress.gov/119/bills/hjres20/BILLS-119hjres20eh.pdf"
+  },
+  {
+   "type": "Formatted XML",
+   "url": "https://www.congress.gov/119/bills/hjres20/BILLS-119hjres20eh.xml"
+  },
+  {
+   "type": "Formatted Text",
+   "url": "https://www.congress.gov/119/bills/hjres20/BILLS-119hjres20ih.htm"
+  },
+  {
+   "type": "PDF",
+   "url": "https://www.congress.gov/119/bills/hjres20/BILLS-119hjres20ih.pdf"
+  },
+  {
+   "type": "Formatted XML",
+   "url": "https://www.congress.gov/119/bills/hjres20/BILLS-119hjres20ih.xml"
+  },
+  {
+   "type": "Formatted Text",
+   "url": "https://www.congress.gov/119/plaws/publ6/PLAW-119publ6.htm"
+  },
+  {
+   "type": "PDF",
+   "url": "https://www.congress.gov/119/plaws/publ6/PLAW-119publ6.pdf"
+  },
+  {
+   "type": "United States Legislative Markup",
+   "url": "https://www.congress.gov/119/plaws/publ6/PLAW-119publ6_uslm.xml"
   }
  ],
  "congress_gov_url": "https://www.congress.gov/bill/119th-congress/house-joint-resolution/20",
