@@ -29,14 +29,14 @@
    "nay": 51,
    "support": "yea",
    "by_party": {
-    "D": {
-     "yea": 43,
-     "nay": 1,
-     "not voting": 1
-    },
     "R": {
      "nay": 50,
      "yea": 3
+    },
+    "D": {
+     "yea": 43,
+     "not voting": 1,
+     "nay": 1
     },
     "I": {
      "yea": 2
@@ -184,6 +184,14 @@
      "icpsr": "20930",
      "bioguide": "H001046",
      "name": "HEINRICH, Martin",
+     "party": "D",
+     "state": "NM",
+     "vote": "yea"
+    },
+    {
+     "icpsr": "20932",
+     "bioguide": "L000570",
+     "name": "LUJÁN, Ben Ray",
      "party": "D",
      "state": "NM",
      "vote": "yea"
@@ -834,14 +842,6 @@
      "name": "COLLINS, Susan Margaret",
      "party": "R",
      "state": "ME",
-     "vote": "yea"
-    },
-    {
-     "icpsr": "new-S409",
-     "bioguide": null,
-     "name": "LUJAN, Ben",
-     "party": "D",
-     "state": "NM",
      "vote": "yea"
     }
    ]
