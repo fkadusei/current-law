@@ -54642,5 +54642,22 @@
    "model": "claude-opus-5-5",
    "written": "2026-11-08"
   }
+ },
+ {
+  "id": "eo-14439",
+  "number": "14439",
+  "title": "Protecting the Executive's Privileges and Enhancing Efficiencies in Federal Contracting",
+  "signed": "2026-11-20",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "url": "https://www.federalregister.gov/documents/2026/11/25/2026-24114/protecting-the-executives-privileges-and-enhancing-efficiencies-in-federal-contracting",
+  "pdf": "https://www.govinfo.gov/content/pkg/FR-2026-11-25/pdf/2026-24114.pdf",
+  "citation": "91 FR 76627",
+  "status_notes": null,
+  "abstract": null,
+  "summary": null
  }
 ]

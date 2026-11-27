@@ -1,5 +1,131 @@
 [
  {
+  "id": "pl-119-149",
+  "congress": 119,
+  "public_law": "119-149",
+  "bill": "HR 8552",
+  "title": "Veterans’ Compensation Cost-of-Living Adjustment Act of 2026",
+  "enacted": "2026-11-23",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Armed Forces and National Security",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-119-148",
+  "congress": 119,
+  "public_law": "119-148",
+  "bill": "HR 4930",
+  "title": "To expand the sharing of information with respect to suspected violations of intellectual property rights in trade.",
+  "enacted": "2026-11-23",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Foreign Trade and International Finance",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-119-147",
+  "congress": 119,
+  "public_law": "119-147",
+  "bill": "HR 1550",
+  "title": "Strengthening America’s Turning Point Act",
+  "enacted": "2026-11-23",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Public Lands and Natural Resources",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-119-146",
+  "congress": 119,
+  "public_law": "119-146",
+  "bill": "HR 10159",
+  "title": "To authorize the Secretary of the Army to convey to the State of North Carolina a certain parcel of real property located at Fort Bragg, North Carolina, on which the State shall construct a veterans’ State home, and for other purposes.",
+  "enacted": "2026-11-20",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Armed Forces and National Security",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-119-145",
+  "congress": 119,
+  "public_law": "119-145",
+  "bill": "HR 8352",
+  "title": "Criminal History Access Act of 2026",
+  "enacted": "2026-11-20",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Law",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-119-144",
+  "congress": 119,
+  "public_law": "119-144",
+  "bill": "HR 5284",
+  "title": "Claiming Age Clarity Act",
+  "enacted": "2026-11-20",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Social Welfare",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
+  "id": "pl-119-143",
+  "congress": 119,
+  "public_law": "119-143",
+  "bill": "HR 10167",
+  "title": "Common Cents Act",
+  "enacted": "2026-11-20",
+  "president": {
+   "id": "trump-2",
+   "name": "Donald Trump",
+   "party": "Republican"
+  },
+  "became_law": "signed",
+  "policy_area": "Finance and Financial Sector",
+  "recorded_vote": false,
+  "party_color": null,
+  "control": {}
+ },
+ {
   "id": "pl-119-142",
   "congress": 119,
   "public_law": "119-142",
