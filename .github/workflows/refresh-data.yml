@@ -44,3 +44,10 @@ jobs:
           git commit -m "Data refresh $(date -u +'%Y-%m-%d %H:%M UTC')"
           git pull --rebase origin main
           git push origin HEAD:main
+      # Votes and laws are already pushed; still flag the run if summaries failed.
+      - name: Check summaries
+        run: |
+          if [ -f .summaries-failed ]; then
+            echo "::error::Summaries failed (see the Refresh step). Check the CURRENT_LAW_ANTHROPIC_KEY secret."
+            exit 1
+          fi
