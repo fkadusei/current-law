@@ -9,6 +9,9 @@ on:
 
 permissions:
   contents: write
+  # Lets the job sign in to the Anthropic API with GitHub's identity token
+  # (Workload Identity Federation) instead of a stored key.
+  id-token: write
 
 concurrency:
   group: refresh-data
@@ -33,6 +36,12 @@ jobs:
       - name: Refresh current Congress
         env:
           CONGRESS_API_KEY: ${{ secrets.CONGRESS_API_KEY }}
+          # Workload Identity Federation IDs from the Claude Console, stored as
+          # repository variables. When set they are used instead of the key.
+          ANTHROPIC_FEDERATION_RULE_ID: ${{ vars.ANTHROPIC_FEDERATION_RULE_ID }}
+          ANTHROPIC_ORGANIZATION_ID: ${{ vars.ANTHROPIC_ORGANIZATION_ID }}
+          ANTHROPIC_SERVICE_ACCOUNT_ID: ${{ vars.ANTHROPIC_SERVICE_ACCOUNT_ID }}
+          ANTHROPIC_WORKSPACE_ID: ${{ vars.ANTHROPIC_WORKSPACE_ID }}
           CURRENT_LAW_ANTHROPIC_KEY: ${{ secrets.CURRENT_LAW_ANTHROPIC_KEY }}
         run: pipeline/refresh.sh
       - name: Push changes
@@ -48,6 +57,6 @@ jobs:
       - name: Check summaries
         run: |
           if [ -f .summaries-failed ]; then
-            echo "::error::Summaries failed (see the Refresh step). Check the CURRENT_LAW_ANTHROPIC_KEY secret."
+            echo "::error::Summaries failed (see the Refresh step). Check the Anthropic sign-in (federation variables or CURRENT_LAW_ANTHROPIC_KEY)."
             exit 1
           fi

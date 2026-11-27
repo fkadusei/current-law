@@ -6,6 +6,9 @@ reruns only cover new laws.
 
 Uses the Message Batches API (half price, results usually within an hour).
 Needs CURRENT_LAW_ANTHROPIC_KEY (or ANTHROPIC_API_KEY) and `pip install -r pipeline/requirements.txt`.
+In GitHub Actions it can sign in without a key, through Workload Identity
+Federation: set ANTHROPIC_FEDERATION_RULE_ID and ANTHROPIC_ORGANIZATION_ID and
+give the job `id-token: write` (see make_client).
 
 Usage:
   python pipeline/summarize.py [--model MODEL] [--limit N] [--congress 118] [--orders]
@@ -17,6 +20,7 @@ import os
 import json
 import re
 import time
+import urllib.request
 
 import anthropic
 from anthropic.types.message_create_params import MessageCreateParamsNonStreaming
@@ -180,6 +184,43 @@ def collect(client: anthropic.Anthropic, batch_id: str, model: str) -> None:
     print(f"summaries: {done} written, {failed} failed (rerun to retry failures)")
 
 
+
+API = "https://api.anthropic.com"
+GITHUB_OIDC_AUDIENCE = "https://api.anthropic.com"
+
+
+def github_oidc_token() -> str:
+    """A fresh GitHub Actions identity token for each exchange.
+
+    Anthropic accepts each token only once (JTI replay protection) and the
+    minted access token lasts about ten minutes, so a long batch poll needs a
+    new GitHub token every time the SDK refreshes."""
+    req = urllib.request.Request(
+        os.environ["ACTIONS_ID_TOKEN_REQUEST_URL"] + "&audience=" + GITHUB_OIDC_AUDIENCE,
+        headers={"Authorization": "Bearer " + os.environ["ACTIONS_ID_TOKEN_REQUEST_TOKEN"]})
+    with urllib.request.urlopen(req, timeout=30) as resp:
+        return json.load(resp)["value"]
+
+
+def make_client() -> anthropic.Anthropic:
+    # Always talk to the public API directly, even if ANTHROPIC_BASE_URL is set.
+    rule = os.environ.get("ANTHROPIC_FEDERATION_RULE_ID")
+    if rule and os.environ.get("ACTIONS_ID_TOKEN_REQUEST_URL"):
+        creds = anthropic.WorkloadIdentityCredentials(
+            identity_token_provider=github_oidc_token,
+            federation_rule_id=rule,
+            organization_id=os.environ["ANTHROPIC_ORGANIZATION_ID"],
+            service_account_id=os.environ.get("ANTHROPIC_SERVICE_ACCOUNT_ID") or None,
+            workspace_id=os.environ.get("ANTHROPIC_WORKSPACE_ID") or None,
+        )
+        print("summaries: signing in with GitHub Actions workload identity")
+        return anthropic.Anthropic(credentials=creds, base_url=API)
+    key = os.environ.get("CURRENT_LAW_ANTHROPIC_KEY") or os.environ.get("ANTHROPIC_API_KEY")
+    if not key:
+        raise SystemExit("Set CURRENT_LAW_ANTHROPIC_KEY to your Anthropic API key.")
+    return anthropic.Anthropic(api_key=key, base_url=API)
+
+
 def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--model", default=DEFAULT_MODEL)
@@ -195,11 +236,7 @@ def main() -> None:
         items = pending_items(args)
         print(f"would summarize {len(items)} items, {sum(1 for *_, c in items if c)} ceremonial")
         return
-    key = os.environ.get("CURRENT_LAW_ANTHROPIC_KEY") or os.environ.get("ANTHROPIC_API_KEY")
-    if not key:
-        raise SystemExit("Set CURRENT_LAW_ANTHROPIC_KEY to your Anthropic API key.")
-    # Always talk to the public API directly, even if ANTHROPIC_BASE_URL is set.
-    client = anthropic.Anthropic(api_key=key, base_url="https://api.anthropic.com")
+    client = make_client()
     if args.collect:
         return collect(client, args.collect, args.model)
     items = pending_items(args)
