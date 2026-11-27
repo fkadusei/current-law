@@ -11,12 +11,19 @@ python3 pipeline/fetch_laws.py "$C" "$C"
 python3 pipeline/fetch_executive_orders.py
 python3 pipeline/build.py "$C" "$C"
 python3 pipeline/build_failed.py "$C" "$C"
+rm -f .summaries-failed
 if [ -n "${CURRENT_LAW_ANTHROPIC_KEY:-${ANTHROPIC_API_KEY:-}}" ]; then
-  python3 pipeline/summarize.py --congress "$C" --orders
-  python3 pipeline/summarize.py --failed
-  # Put the new summaries into the built records.
-  python3 pipeline/build.py "$C" "$C"
-  python3 pipeline/build_failed.py "$C" "$C"
+  # A summary failure (bad key, API outage) must not hold back the votes and
+  # laws built above: note it, let them be pushed, and the workflow fails after.
+  if python3 pipeline/summarize.py --congress "$C" --orders &&
+     python3 pipeline/summarize.py --failed; then
+    # Put the new summaries into the built records.
+    python3 pipeline/build.py "$C" "$C"
+    python3 pipeline/build_failed.py "$C" "$C"
+  else
+    echo "refresh: summaries failed; publishing votes and laws without new summaries"
+    touch .summaries-failed
+  fi
 else
   echo "refresh: no Anthropic key, skipping summaries"
 fi

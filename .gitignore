@@ -8,3 +8,4 @@ site/.astro/
 node_modules/
 .wrangler/
 .dev.vars
+.summaries-failed
