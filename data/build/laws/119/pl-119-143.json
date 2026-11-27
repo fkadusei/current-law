@@ -73,5 +73,44 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "Law ends making pennies for everyday use and requires cash payments to be rounded to the nearest five cents.",
+  "what_it_does": "The Treasury must stop making pennies for general use, though it can still make them for collectors, and pennies remain legal money. Anyone paying or receiving cash, including stores and employers paying cash wages, must round the total up or down to an amount divisible by five, following the law's rules. The law also lets the Treasury stop minting other coins if it follows set steps, such as notifying and briefing Congress. It allows nickels to be made with a zinc core covered by nickel, in addition to the current copper-nickel mix.",
+  "who_it_affects": [
+   {
+    "group": "People who pay with cash",
+    "how": "Their cash totals will be rounded up or down to the nearest amount divisible by five cents."
+   },
+   {
+    "group": "Businesses that accept cash",
+    "how": "They must round cash sales according to the law's rounding rules."
+   },
+   {
+    "group": "Employers who pay wages in cash",
+    "how": "They must round cash wage payments to an amount divisible by five."
+   },
+   {
+    "group": "Workers paid in cash",
+    "how": "Their cash wages will be rounded up or down under the law's rules."
+   },
+   {
+    "group": "Coin collectors",
+    "how": "The Treasury may still make pennies to meet collector demand."
+   },
+   {
+    "group": "Banks and commercial coin terminals working with Federal Reserve banks",
+    "how": "The Federal Reserve must periodically report on a plan for accepting penny orders and deposits at these terminals."
+   },
+   {
+    "group": "US Treasury and US Mint",
+    "how": "They must stop making circulating pennies and may change nickel materials or stop minting other coins after notifying Congress."
+   }
+  ],
+  "when_it_takes_effect": "Enacted November 20, 2026; the summary does not give specific start dates for the rounding rules or the end of penny production.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-27"
+ }
 }

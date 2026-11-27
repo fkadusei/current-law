@@ -85,5 +85,24 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "New law requires Social Security to rename the terms it uses for retirement claiming ages, without changing benefit amounts or ages.",
+  "what_it_does": "The Social Security Administration (SSA) must use new names for the ages when workers can claim retirement benefits. \"Early eligibility age\" (62) becomes \"minimum monthly benefit age.\" \"Full retirement age\" and \"normal retirement age\" (65 to 67, depending on birth year) become \"standard monthly benefit age.\" Age 70 becomes the \"maximum monthly benefit age,\" and the SSA may no longer use the term \"delayed retirement credit.\"",
+  "who_it_affects": [
+   {
+    "group": "Workers planning when to claim Social Security retirement benefits",
+    "how": "They will see new terms in SSA letters, statements, and materials, but the summary describes no change to the claiming ages or benefit amounts."
+   },
+   {
+    "group": "Social Security Administration",
+    "how": "The agency must replace the old terms with the new ones when describing retirement claiming ages."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-27"
+ }
 }

@@ -85,5 +85,32 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "New law lets Customs share more information about suspected counterfeit imports with trademark and copyright owners and other interested parties.",
+  "what_it_does": "When U.S. Customs and Border Protection (CBP) has a reasonable suspicion that imported goods break certain trademark or copyright laws, it can ask outside parties for help checking them. The law widens who CBP can ask to include any appropriate party with an interest in the goods. It also lets CBP share images and details of packing materials and containers, plus nonpublic information from online marketplaces, shipping companies, freight forwarders, and similar businesses. CBP must notify the person when it sends them this information.",
+  "who_it_affects": [
+   {
+    "group": "Trademark and copyright owners",
+    "how": "They can receive more information from CBP, including packaging images and nonpublic seller or shipping data, to help decide whether imports are counterfeit or pirated."
+   },
+   {
+    "group": "Importers and overseas sellers",
+    "how": "Information about their shipments, including data held by marketplaces and shippers, may be shared with outside parties when CBP has a reasonable suspicion of a trademark or copyright violation."
+   },
+   {
+    "group": "Online marketplaces, express shipping companies, and freight forwarders",
+    "how": "Nonpublic information they generate and provide to CBP about imported goods may now be passed along to rights holders and other interested parties."
+   },
+   {
+    "group": "U.S. Customs and Border Protection",
+    "how": "The agency gains broader authority to request outside help and share information when it reasonably suspects imports violate certain trademark or copyright laws."
+   }
+  ],
+  "when_it_takes_effect": "Enacted November 23, 2026; the summary does not state a separate effective date.",
+  "ceremonial": false,
+  "confidence": "high",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-27"
+ }
 }

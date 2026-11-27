@@ -85,5 +85,24 @@
  "recorded_vote": false,
  "party_color": null,
  "control": {},
- "summary": null
+ "summary": {
+  "headline": "New law lets state police standards and training agencies access FBI criminal history records.",
+  "what_it_does": "This law allows peace officer standards and training agencies to access criminal history records kept by the FBI. These are agencies in states, Washington, D.C., and U.S. territories that set rules for hiring, training, ethical conduct, and keeping law enforcement officers, often through certification or licensing. Before this law, these agencies were not among the groups allowed to access these FBI records.",
+  "who_it_affects": [
+   {
+    "group": "State, D.C., and territory peace officer standards and training agencies",
+    "how": "They gain permission to access FBI criminal history record information."
+   },
+   {
+    "group": "Law enforcement officers and people applying to become officers",
+    "how": "Their FBI criminal history records may be checked by the agencies that certify or license them."
+   }
+  ],
+  "when_it_takes_effect": null,
+  "ceremonial": false,
+  "confidence": "medium",
+  "ai_generated": true,
+  "model": "claude-opus-5-5",
+  "written": "2026-11-27"
+ }
 }
